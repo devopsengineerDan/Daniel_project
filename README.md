@@ -26,6 +26,10 @@ conda list
 conda update conda
 
 *********************************************************************
+
+web: gunicorn waweru.wsgi --log-file -
+
+*********************************************************************
 sudo snap install --classic heroku
 
 wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
@@ -173,8 +177,7 @@ Install pip/pip3:(once)    _ONCE_ curl https://bootstrap.pypa.io/get-pip.py | py
 Installation of dep:       pip3 install -r requirements.txt
                            pip3 install -r requirements.txt --upgrade
 
-Effect changes:            python manage.py makemigrations
-                           python manage.py migrate
+Effect changes:            python manage.py migrate
                            python manage.py runserver
 
 
@@ -189,14 +192,17 @@ PIPENV AND DEPENDENCIES INSTALLATION ((( H - conardmomanyi123 )))
 1ST(once) CREATE ENV on machine:   pipenv --python python3
 ++++++++++++++++++++++++++++++++++++++
 
+
 Activate env:        pipenv shell
+Installation of dep: pipenv install django
+                     pipenv install r requirements.txt
+					 pipenv install -r requirements.txt --upgrade
 
 Install pip/pip3:(once)    curl https://bootstrap.pypa.io/get-pip.py | python
-Installation of dep: pipenv install r requirements.txt
-                     pip3 install -r requirements.txt --upgrade
+Installation of dep:       pipenv install -r requirements.txt
+                           pipenv upgrade
 
-Effect changes:            python manage.py makemigrations
-                           python manage.py migrate
+Effect changes:            python manage.py migrate
                            python manage.py runserver
 
 django-admin startproject heyapp ->VIEWS
@@ -292,7 +298,7 @@ DATABASES = {
         'NAME': 'portfolio',
         'USER':'dan',
         'PASSWORD':'phoenix',
-	'HOST':'127.0.0.1',
+		'HOST':'127.0.0.1',
         'PORT':'5432',
     }
 }
@@ -336,13 +342,31 @@ def email(request):
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+===========================================================
+WINDOWS AND UBUNTU
+sudo systemctl enable postgresql
+sudo service postgresql restart
+
 Connect to postgres:                  sudo -i -u postgres
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Creating a new user:   sudo -u postgres createuser --interactive
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Connect to a database:                psql -d databasename
+
+-------------------------------------------------
+
+psql
+
+CREATE DATABASE myproject;
+
+CREATE USER myprojectuser WITH PASSWORD 'password';
+
+ALTER ROLE myprojectuser SET client_encoding TO 'utf8';
+ALTER ROLE myprojectuser SET default_transaction_isolation TO 'read committed';
+ALTER ROLE myprojectuser SET timezone TO 'UTC';
+
+GRANT ALL PRIVILEGES ON DATABASE myproject TO myprojectuser;
+
+--------------------------------------------------
+
 Get current info:                     \conninfo
-creating password for user postgres:  ALTER USER postgres password 'phoenix'
+
 
 Postgresql commands
 List all databases: \l.
@@ -351,14 +375,19 @@ Connect to database: \c database_name
 List tables in current database: \dt
 List columns in a table: \d table_name
 See a list of all psql commands: \? (Press the down arrow to scroll through, or q to exit list.)
-
+exit
+-------------------------------------------------------------------
 
 INSTALL POSTGRESQL  -> https://linuxconfig.org/install-postgresql-on-ubuntu-18-04-bionic-beaver
 
 
 sudo apt install postgresql-client
 sudo apt install postgresql
-Restart my pc then on the terminal $ sudo systemctl enable postgresql
+ * Restart my pc then on the terminal 
+sudo systemctl enable postgresql
+sudo service postgresql restart
+
+WINDOWS FIX FORPOSTGRES CONFIGURATION 
 
 By default the PostgreSQL server will listen only on a local loop-back interface 127.0.0.1. If you need to configure your PostreSQL server to listen on all networks you will need to configure its main configuration file /etc/postgresql/10/main/postgresql.conf:
 $ sudo nano /etc/postgresql/10/main/postgresql.conf
@@ -375,7 +404,7 @@ UNINSTALL POSTGRESQL -> sudo apt-get --purge remove postgresql postgresql  postg
 
 REMOVE OLD UBUNTUUPDATEFILES FROM /boot
 
-sudo apt-get clean
+sudo apt-get-clean
 
 First, get the name of the kernel the system is currently running by using uname like this:
 
@@ -406,13 +435,16 @@ cd pgadmin4
 source bin/activate
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 pip3 install https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v4.2/pip/pgadmin4-4.2-py2.py3-none-any.whl
+
 Configure
 Override default paths and set it to single-user mode in the local configuration file:
 
+For Python2.x
 nano lib/python2.7/site-packages/pgadmin4/config_local.py
-For Python3.x:
 
+For Python3.x
 nano lib/python3.6/site-packages/pgadmin4/config_local.py
+
 Write:
 
 import os
@@ -433,7 +465,7 @@ passwd                          phoenix
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 deactivate
 ######################################################## 
-FORGOTTEN PASSWD/ SET NEW PASSWD
+FORGOTTEN PASSWD/ SET NEW PASSWD ON POSTGRES
 sudo -i -u postgres 
 could not change directory to "/root"
 psql (9.1.11)
@@ -530,7 +562,7 @@ Create a new Pull Request in GitHub.
 ------------------
 Personal github 4f41ea34f379e4e0dc151e6964c6468f4807e3c5
 ------------------
-sudo apt install kazam
+ sudo apt install kazam
 
 On how to use Kazam Screencaster https://www.youtube.com/watch?v=ADPPpY6ZEI8
 ------------------
@@ -694,3 +726,4 @@ pip install --upgrade pip
 sudo apt-get install python-waitress
 
 https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-windows-10#step-1-%E2%80%94-opening-and-configuring-powershell
+
