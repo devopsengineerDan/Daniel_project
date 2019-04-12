@@ -1,3 +1,17 @@
+Important links
+
+Datascience Concepts   https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks
+Cybersecurity
+[7:01 PM, 3/28/2019] Anthony - CEH: https://katcr.co/torrent/364470/udemy-practice-your-first-penetration-test-kali-amp-metasploit-lab.html
+[7:02 PM, 3/28/2019] Anthony - CEH: https://monova.to/167CEE868BB34A178B72B530BE27CD98EFBE0688
+[7:03 PM, 3/28/2019] Anthony - CEH: https://katcr.co/torrent/307838/udemy-ethical-hacking-with-metasploit-the-penetration-testing-tool.html
+
+Applying for Attachment:
+Data Science    https://okhi.recruiterbox.com/jobs/fk0j7cr/
+Cybersecurity   https://www.un-yk.com/
+Fitness         https://www.youtube.com/watch?v=3p8EBPVZ2Iw    
+
+*********************************************************************
 0713835028*
 
 <a href="mailto:dancunmanyinsait@gmail.com" target="_blank">
