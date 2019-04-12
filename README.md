@@ -9,6 +9,7 @@ Cybersecurity
 Applying for Attachment:
 Data Science    https://okhi.recruiterbox.com/jobs/fk0j7cr/
 Cybersecurity   https://www.un-yk.com/
+Freelance       Appwork
 Fitness         https://www.youtube.com/watch?v=3p8EBPVZ2Iw    
 
 *********************************************************************
