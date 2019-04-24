@@ -742,3 +742,4 @@ sudo apt-get install python-waitress
 
 https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-windows-10#step-1-%E2%80%94-opening-and-configuring-powershell
 
+Deleting old updates https://www.techspot.com/guides/1219-delete-windows-old-folder/
