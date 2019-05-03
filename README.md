@@ -23,12 +23,13 @@ web: gunicorn waweru.wsgi --log-file -
 
 
 *********************************************************************
+SETTING PYTHON PATH
+sudo apt-get install build-essential libssl-dev libffi-dev python-dev
+
 ANACONDA
 
-conda list
-
-(OR)
-
+1st step for installation
+ONCE
 cd /tmp
 conda list
 conda update conda
