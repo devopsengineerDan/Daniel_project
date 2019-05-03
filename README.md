@@ -39,6 +39,7 @@ cd anaconda3
 source $HOME/anaconda3/bin/activate
 conda list
 conda update conda
+conda deactivate
 
 *********************************************************************
 
