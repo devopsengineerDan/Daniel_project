@@ -1,3 +1,7 @@
+﻿
+
+http://127.0.0.1:8000/register?next=/
+
 Important links
 
 Datascience Concepts   https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks
@@ -23,13 +27,12 @@ web: gunicorn waweru.wsgi --log-file -
 
 
 *********************************************************************
-SETTING PYTHON PATH
-sudo apt-get install build-essential libssl-dev libffi-dev python-dev
-
 ANACONDA
 
-1st step for installation
-ONCE
+conda list
+
+(OR)
+
 cd /tmp
 conda list
 conda update conda
@@ -40,7 +43,6 @@ cd anaconda3
 source $HOME/anaconda3/bin/activate
 conda list
 conda update conda
-conda deactivate
 
 *********************************************************************
 
@@ -179,55 +181,57 @@ Create a new Pull Request in GitHub.
 ------------------------------------------------------------------------------------------------------------
 
 =========================================================================
+-------
+PYTHON
+Install python dev    sudo apt-get install build-essential libssl-dev libffi-dev python-dev
+Install pip3          curl -sS https://bootstrap.pypa.io/get-pip.py | sudo python3
+-------
+RUST
+Install  Rust and Cargo   check online
+Rustenv
+Install _ONCE_            pip install rustenv
+Create                    rustenv  renv
+Activate                  ./renv/bin/activate
+Deactivate                deactivate_rustenv
+-------
 VIRTUAL ENV  ((( H - conardmomanyi123 )))
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-1ST(once) CREATE ENV on machine:  _ONCE_ 1st)sudo apt-get install python3-venv 
-                                  2nd) virtualenv -p /usr/bin/python3.6 venv
+OLD Python env
 
+            _ONCE_ 1st)Install   sudo apt-get install python3-venv 
+                   2nd)Create    virtualenv -p /usr/bin/python3.7 venv
+Activate env:      source venv/bin/activate 
+Install pip/pip3 _ONCE_    curl https://bootstrap.pypa.io/get-pip.py | python
+Installation of dep        pip install -r requirements.txt
+                           pip install -r requirements.txt --upgrade
+Deactivate                 deactivate
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Activate env:      source venv/bin/activate        
+NEW Python env
+
+Install pip/pip3 _ONCE_    curl https://bootstrap.pypa.io/get-pip.py | python
+Install _ONCE_             pip install pipenv
+*************************
+$ which python3.7
+*************************
+Create                    pipenv --python /usr/bin/python3.7
+Activate                  pipenv shell
+Installation of dep       pipenv install -r requirements.txt
+Upgrade dep               pipenv install -r requirements.txt --upgrade
+Deactivate                deactivate
+       
 
 
-Install pip/pip3:(once)    _ONCE_ curl https://bootstrap.pypa.io/get-pip.py | python
-Installation of dep:       pip3 install -r requirements.txt
-                           pip3 install -r requirements.txt --upgrade
-
-Effect changes:            python manage.py migrate
+Effect changes:            python manage.py makemigrations
+                           python manage.py migrate
                            python manage.py runserver
 
 
 django-admin startproject heyapp ->VIEWS
 django-admin startproject heyapp .  ->WSGI
-
-
  
-PIPENV AND DEPENDENCIES INSTALLATION ((( H - conardmomanyi123 )))
-
-++++++++++++++++++++++++++++++++++++++
-1ST(once) CREATE ENV on machine:   pipenv --python python3
-++++++++++++++++++++++++++++++++++++++
-
-
-Activate env:        pipenv shell
-Installation of dep: pipenv install django
-                     pipenv install r requirements.txt
-					 pipenv install -r requirements.txt --upgrade
-
-Install pip/pip3:(once)    curl https://bootstrap.pypa.io/get-pip.py | python
-Installation of dep:       pipenv install -r requirements.txt
-                           pipenv upgrade
-
-Effect changes:            python manage.py migrate
-                           python manage.py runserver
-
-django-admin startproject heyapp ->VIEWS
-django-admin startproject heyapp .  ->WSGI
-
------------------------------------------------------------------------------
-
-
+ ((( H - conardmomanyi123 )))
 
 ========================================================================
 
@@ -393,6 +397,20 @@ List tables in current database: \dt
 List columns in a table: \d table_name
 See a list of all psql commands: \? (Press the down arrow to scroll through, or q to exit list.)
 exit
+
+######################################################## 
+FORGOTTEN PASSWD/ SET NEW PASSWD ON POSTGRES
+sudo -i -u postgres 
+could not change directory to "/root"
+psql (9.1.11)
+Type "help" for help.
+
+postgres=# \password
+Enter new password:
+Enter it again:
+postgres=# \q
+#########################################################
+
 -------------------------------------------------------------------
 
 INSTALL POSTGRESQL  -> https://linuxconfig.org/install-postgresql-on-ubuntu-18-04-bionic-beaver
@@ -481,18 +499,7 @@ username                        postgres
 passwd                          phoenix
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 deactivate
-######################################################## 
-FORGOTTEN PASSWD/ SET NEW PASSWD ON POSTGRES
-sudo -i -u postgres 
-could not change directory to "/root"
-psql (9.1.11)
-Type "help" for help.
 
-postgres=# \password
-Enter new password:
-Enter it again:
-postgres=# \q
-#########################################################
 
 ---------------------------------------------------------------------------------------------------------
 Docker vs. Heroku
@@ -720,7 +727,7 @@ Django
 STATIC TYPING PYTHON
 
 Install mypy 
-$ python3 -m pip install -U mypy
+$ python3 -m pip install -U mypy'
 $ mypy example.py
 =========================================================================
 
@@ -728,7 +735,11 @@ WEKA DATA SCIENCE SOFTWARE
 $ cd weka-3-8-3/
 $ java -jar weka.jar
 =========================================================================
-----------------------------------------
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
 WINDOWS (UBUNTU TERMINAL)
 +++++++++++++++++++++++++++++++++++++++ 
 cd /mnt/c/Users/Dan/
@@ -736,12 +747,11 @@ cd /mnt/c/Users/Dan/Desktop/Projects/
 
 ++++++++++++++++++++++++++++++++++++++
 sudo rm -rf 
-
-sudo apt-get install python3-dev python3-pip python3-virtualenv
-pip install --upgrade pip
-
-sudo apt-get install python-waitress
+sudo apt-get purge code
 
 https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-windows-10#step-1-%E2%80%94-opening-and-configuring-powershell
 
-Deleting old updates https://www.techspot.com/guides/1219-delete-windows-old-folder/
+
+FIX FLASH ON UBUNTU TERMINAL sudo mkfs.msdos -f 32 /dev/sdb
+DEFRAGMENT sudo e4defrag /dev/sda7
+
