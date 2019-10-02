@@ -4,7 +4,13 @@ http://127.0.0.1:8000/register?next=/
 
 Important links
 
-Datascience Concepts   https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks
+Datascience Concepts
+
+https://t.co/zfWgEfyA8d?amp=1
+
+https://t.co/SQamq5CSRQ?amp=1
+
+https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks
 Cybersecurity
 [7:01 PM, 3/28/2019] Anthony - CEH: https://katcr.co/torrent/364470/udemy-practice-your-first-penetration-test-kali-amp-metasploit-lab.html
 [7:02 PM, 3/28/2019] Anthony - CEH: https://monova.to/167CEE868BB34A178B72B530BE27CD98EFBE0688
