@@ -751,7 +751,17 @@ WINDOWS (UBUNTU TERMINAL)
 cd /mnt/c/Users/Dan/
 cd /mnt/c/Users/Dan/Desktop/Projects/
 
-++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++
+grub rescue error FIX
+
+sudo update-grub2
+sudo grub-install /dev/sda
+
+sudo add-apt-repository -y ppa:yannubuntu/boot-repair
+sudo apt-get update
+sudo apt-get install -y boot-repair && boot-repair
+
++++++++++++++++++++++++++++++++++++++++
 sudo rm -rf 
 sudo apt-get purge code
 
