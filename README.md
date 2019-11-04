@@ -771,3 +771,12 @@ https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set
 FIX FLASH ON UBUNTU TERMINAL sudo mkfs.msdos -f 32 /dev/sdb
 DEFRAGMENT sudo e4defrag /dev/sda7
 
+77777777777777777777777777777777777777777777
+UBUNTU TRANSPARENCY(MENU BAR AND TAB)
+Install (Dynamic Panel Transparency ) in ubuntu softwares
+-------------------------------------------
+gsettings set org.gnome.shell.extensions.dash-to-dock transparency-mode 'FIXED'
+gsettings set org.gnome.shell.extensions.dash-to-dock background-opacity 0.2
+77777777777777777777777777777777777777777777
+
+
