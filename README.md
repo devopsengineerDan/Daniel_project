@@ -45,7 +45,7 @@ conda update conda
 
 +++++++++++++++++++++
 
-cd anaconda3
+cd home/dan/anaconda3
 source $HOME/anaconda3/bin/activate
 conda list
 conda update conda
