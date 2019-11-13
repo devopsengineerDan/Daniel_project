@@ -88,6 +88,21 @@ gsettings set org.gnome.shell.extensions.dash-to-dock background-opacity 0.2
 ===============================================================================================================================================
 
 
+			<---NETWORKS--->
+
+Assigning static ip address to the local network
+
+sudo ifconfig enp9s0 192.168.92.5 netmask 255.255.0.0
+sudo route add default gw 192.168.92.5 enp9s0
+ping 192.168.92.5
+
+Assigning dynamic ip address to the local network
+
+sudo dhclient enp9s0
+
+===============================================================================================================================================
+
+
 			<---CYBER SECURITY--->
 
 
@@ -161,19 +176,6 @@ loginctl terminate-session
 
 
 
-===============================================================================================================================================
-
-			<---NETWORKS--->
-
-Assigning static ip address to the local network
-
-sudo ifconfig enp9s0 192.168.92.5 netmask 255.255.0.0
-sudo route add default gw 192.168.92.5 enp9s0
-ping 192.168.92.5
-
-Assigning dynamic ip address to the local network
-
-sudo dhclient enp9s0
 
 
 ===============================================================================================================================================
