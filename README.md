@@ -1,3 +1,7 @@
+==============================================================================================================================================
+
+STUFF
+
 ADOBE PHOTOSHOP  1045-1656-1984-6490-9561-5688
 
 http://127.0.0.1:8000/register?next=/
@@ -33,6 +37,155 @@ web: gunicorn waweru.wsgi --log-file -
 
 
 *********************************************************************
+
+==================================
+
+PHONE BACKUP
+
+https://findmymobile.samsung.com
+serial number:RZ8M10REVSJ
+IMEI:358147090839744
+
+==================================
+
+FLASH/EXTERNAL DISK  TRICKS
+
+sudo fdisk -l
+udisksctl power-off -b /dev/sdb
+
+
+=================================
+
+GRUB RESCUE ERROR FIX
+
+sudo update-grub2
+sudo grub-install /dev/sda
+
+sudo add-apt-repository -y ppa:yannubuntu/boot-repair
+sudo apt-get update
+sudo apt-get install -y boot-repair && boot-repair
+
+=================================
+
+REMOVE
+
+sudo rm -rf 
+
+=================================
+
+FIX FLASH ON UBUNTU TERMINAL 
+sudo mkfs.msdos -f 32 /dev/sdb
+DEFRAGMENT sudo e4defrag /dev/sda7
+
+=================================
+UBUNTU TRANSPARENCY(MENU BAR AND TAB)
+Install (Dynamic Panel Transparency ) in ubuntu softwares
+-------------------------------------------
+gsettings set org.gnome.shell.extensions.dash-to-dock transparency-mode 'FIXED'
+gsettings set org.gnome.shell.extensions.dash-to-dock background-opacity 0.2
+
+
+===============================================================================================================================================
+
+
+			<---CYBER SECURITY--->
+
+
+(PHONE)TERMUX
+
+pkg install lynx
+termux-setup-storage
+
+
+(PC)
+			
+Set flash sudo users
+
+sudo adduser dan vboxusers
+-------------------------------------------
+Set up ssh on host machine
+
+1st)Assigning static ip address to the local network
+
+2nd)
+
+sudo apt install ssh
+
+Performing ssh
+
+ssh pentester@127.0.0.1
+0R
+ssh pentester@127.0.0.1 -p 2222
+
+sudo service ssh status
+--------------------------------------------
+Set up ssh on virtual machine
+
+sudo nano /etc/network/interfaces
+
+EDIT THIS FILE
+
+#This file describes the network interfaces availableon your system and how to activate them....
+source /etc/network/interfaces.d/*
+
+#The loopback network interface
+auto lo
+iface lo inet loopback
+
+auto eth1 
+iface eth1 inet static
+	address 192.168.92.10
+	netmask 255.255.255.0
+	broadcast 192.168.92.255
+	network 192.168.92.0
+
+
+sudo nano /etc/ssh/ssh_config
+sudo nano /etc/ssh/sshd_config
+adduser pentester
+adduser pentester sudo
+service sshd status
+service ssh status
+
+++++++++++++++++++++++++++++++++++++++
+Performing ssh
+
+systemctl enable ssh.service
+service ssh start
+
+++++++++++++++++++++++++++
+loginctl list-sessions 
+loginctl terminate-session 
+++++++++++++++++++++++++++
+
+
+
+
+===============================================================================================================================================
+
+			<---NETWORKS--->
+
+Assigning static ip address to the local network
+
+sudo ifconfig enp9s0 192.168.92.5 netmask 255.255.0.0
+sudo route add default gw 192.168.92.5 enp9s0
+ping 192.168.92.5
+
+Assigning dynamic ip address to the local network
+
+sudo dhclient enp9s0
+
+
+===============================================================================================================================================
+
+			<---SOFTWARE(ARTIFICIAL INTELLIGENCE && QUANTUM SCIENCE)--->
+
+*********************************************************************
+WEKA DATA SCIENCE SOFTWARE
+ cd weka-3-8-3/
+ java -jar weka.jar
+ 
+
 ANACONDA
 
 conda list
@@ -51,6 +204,81 @@ conda list
 conda update conda
 
 *********************************************************************
+
+STATIC TYPING PYTHON
+
+Install mypy 
+ python3 -m pip install -U mypy'
+ mypy example.py
+
+-------
+PYTHON
+Install python dev    sudo apt-get install build-essential libssl-dev libffi-dev python-dev
+Install pip3          sudo apt install python3-pip
+
+-------
+RUST
+Install  Rust and Cargo   check online
+Rustenv
+Install _ONCE_            pip install rustenv
+Create                    rustenv  renv
+Activate                  ./renv/bin/activate
+Deactivate                deactivate_rustenv
+-------
+VIRTUAL ENV  ((( H - conardmomanyi123 )))
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+OLD Python env
+
+            _ONCE_ 1st)Install   sudo apt-get install python3-venv 
+                   2nd)Create    virtualenv -p /usr/bin/python3.7 venv
+Activate env:      source venv/bin/activate 
+Install pip/pip3 _ONCE_    curl https://bootstrap.pypa.io/get-pip.py | python
+Installation of dep        pip install -r requirements.txt
+                           pip install -r requirements.txt --upgrade
+Deactivate                 deactivate
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NEW Python env
+
+Install pip3 _ONCE_    sudo apt install python3-pip
+
+Install _ONCE_             pip install pipenv
+*************************
+$ which python3.7
+*************************
+Create                    pipenv --python /usr/bin/python3.7
+Activate                  pipenv shell
+Installation of dep       pipenv install -r requirements.txt
+Upgrade dep               pipenv install -r requirements.txt --upgrade
+Deactivate                deactivate
+       
+
+
+Effect changes:            python manage.py makemigrations
+                           python manage.py migrate
+                           python manage.py runserver
+
+
+django-admin startproject heyapp ->VIEWS
+django-admin startproject heyapp .  ->WSGI
+ 
+ ((( H - conardmomanyi123 )))
+
+
+**********************************************************************
+------------------
+Personal github 4f41ea34f379e4e0dc151e6964c6468f4807e3c5
+------------------
+DEMONSTRATION
+
+sudo apt install kazam
+
+On how to use Kazam Screencaster https://www.youtube.com/watch?v=ADPPpY6ZEI8
+------------------
+
+HEROKU
+
 
 web: gunicorn waweru.wsgi --log-file -
 
@@ -88,52 +316,6 @@ $ heroku config:unset DISABLE_COLLECTSTATIC
 $ heroku run python manage.py collectstatic
 
 
-*********************************************************************
-==================================
-https://findmymobile.samsung.com
-serial number:RZ8M10REVSJ
-IMEI:358147090839744
-==================================
-FLASH/EXTERNAL DISK
-
-sudo fdisk -l
-udisksctl power-off -b /dev/sdb
-
-==================================
-
-TERMUX
-
-pkg install lynx
-termux-setup-storage
-
-
-CYBER SECURITY
-
-ifconfig eth0 169.254.71.135/16
-ping 
-
-set flash sudo users
-sudo adduser dan vboxusers
-
-set up ssh on host machine
-
-ssh pentester@127.0.0.1
-0R
-ssh pentester@127.0.0.1 -p 2222
-
-sudo service ssh status
-
-set up ssh on virtual machine
-
-++++++++++++++++++++++++++
-loginctl list-sessions 
-loginctl terminate-session 
-++++++++++++++++++++++++++
-
-
-
-
-===================================
 ---------------------------------------------------------------------------------------------------------
 Docker vs. Heroku
 Docker	Heroku
@@ -218,64 +400,7 @@ Create a new Pull Request in GitHub.
 
 ------------------------------------------------------------------------------------------------------------
 
-=========================================================================
--------
-PYTHON
-Install python dev    sudo apt-get install build-essential libssl-dev libffi-dev python-dev
-Install pip3          sudo apt install python3-pip
 
--------
-RUST
-Install  Rust and Cargo   check online
-Rustenv
-Install _ONCE_            pip install rustenv
-Create                    rustenv  renv
-Activate                  ./renv/bin/activate
-Deactivate                deactivate_rustenv
--------
-VIRTUAL ENV  ((( H - conardmomanyi123 )))
-
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-OLD Python env
-
-            _ONCE_ 1st)Install   sudo apt-get install python3-venv 
-                   2nd)Create    virtualenv -p /usr/bin/python3.7 venv
-Activate env:      source venv/bin/activate 
-Install pip/pip3 _ONCE_    curl https://bootstrap.pypa.io/get-pip.py | python
-Installation of dep        pip install -r requirements.txt
-                           pip install -r requirements.txt --upgrade
-Deactivate                 deactivate
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-NEW Python env
-
-Install pip3 _ONCE_    sudo apt install python3-pip
-
-Install _ONCE_             pip install pipenv
-*************************
-$ which python3.7
-*************************
-Create                    pipenv --python /usr/bin/python3.7
-Activate                  pipenv shell
-Installation of dep       pipenv install -r requirements.txt
-Upgrade dep               pipenv install -r requirements.txt --upgrade
-Deactivate                deactivate
-       
-
-
-Effect changes:            python manage.py makemigrations
-                           python manage.py migrate
-                           python manage.py runserver
-
-
-django-admin startproject heyapp ->VIEWS
-django-admin startproject heyapp .  ->WSGI
- 
- ((( H - conardmomanyi123 )))
-
-========================================================================
-
------------------------------------------------------------------------------
 DJANGO && SERVICE WORKER
 from django.views.generic import TemplateView
 
@@ -623,13 +748,7 @@ Do the work, write good commit messages and read the CONTRIBUTING file if there 
 Push to your origin repository.
 Create a new Pull Request in GitHub.
 
-------------------
-Personal github 4f41ea34f379e4e0dc151e6964c6468f4807e3c5
-------------------
- sudo apt install kazam
-
-On how to use Kazam Screencaster https://www.youtube.com/watch?v=ADPPpY6ZEI8
-------------------
+----------------------------------------------------------------------------------------------------------
 Flask Application structure
 
 |-Watchlist
@@ -763,51 +882,12 @@ Django
 </body>
 </html>
 --------------------------------------------------------------------------------------------------------
-=========================================================================
-STATIC TYPING PYTHON
-
-Install mypy 
-$ python3 -m pip install -U mypy'
-$ mypy example.py
-=========================================================================
-
-WEKA DATA SCIENCE SOFTWARE
-$ cd weka-3-8-3/
-$ java -jar weka.jar
-=========================================================================
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 WINDOWS (UBUNTU TERMINAL)
 +++++++++++++++++++++++++++++++++++++++ 
 cd /mnt/c/Users/Dan/
 cd /mnt/c/Users/Dan/Desktop/Projects/
-
-+++++++++++++++++++++++++++++++++++++++
-grub rescue error FIX
-
-sudo update-grub2
-sudo grub-install /dev/sda
-
-sudo add-apt-repository -y ppa:yannubuntu/boot-repair
-sudo apt-get update
-sudo apt-get install -y boot-repair && boot-repair
-
-+++++++++++++++++++++++++++++++++++++++
-sudo rm -rf 
-
-
-FIX FLASH ON UBUNTU TERMINAL 
-sudo mkfs.msdos -f 32 /dev/sdb
-DEFRAGMENT sudo e4defrag /dev/sda7
-
-77777777777777777777777777777777777777777777
-UBUNTU TRANSPARENCY(MENU BAR AND TAB)
-Install (Dynamic Panel Transparency ) in ubuntu softwares
--------------------------------------------
-gsettings set org.gnome.shell.extensions.dash-to-dock transparency-mode 'FIXED'
-gsettings set org.gnome.shell.extensions.dash-to-dock background-opacity 0.2
-77777777777777777777777777777777777777777777
-
