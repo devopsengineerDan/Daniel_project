@@ -1,4 +1,4 @@
-﻿ADOBE PHOTOSHOP  1045-1656-1984-6490-9561-5688
+ADOBE PHOTOSHOP  1045-1656-1984-6490-9561-5688
 
 http://127.0.0.1:8000/register?next=/
 
@@ -95,12 +95,44 @@ serial number:RZ8M10REVSJ
 IMEI:358147090839744
 ==================================
 FLASH/EXTERNAL DISK
+
 sudo fdisk -l
 udisksctl power-off -b /dev/sdb
+
 ==================================
+
+TERMUX
+
+pkg install lynx
+termux-setup-storage
+
+
 CYBER SECURITY
+
 ifconfig eth0 169.254.71.135/16
 ping 
+
+set flash sudo users
+sudo adduser dan vboxusers
+
+set up ssh on host machine
+
+ssh pentester@127.0.0.1
+0R
+ssh pentester@127.0.0.1 -p 2222
+
+sudo service ssh status
+
+set up ssh on virtual machine
+
+++++++++++++++++++++++++++
+loginctl list-sessions 
+loginctl terminate-session 
+++++++++++++++++++++++++++
+
+
+
+
 ===================================
 ---------------------------------------------------------------------------------------------------------
 Docker vs. Heroku
@@ -190,7 +222,8 @@ Create a new Pull Request in GitHub.
 -------
 PYTHON
 Install python dev    sudo apt-get install build-essential libssl-dev libffi-dev python-dev
-Install pip3          curl -sS https://bootstrap.pypa.io/get-pip.py | sudo python3
+Install pip3          sudo apt install python3-pip
+
 -------
 RUST
 Install  Rust and Cargo   check online
@@ -216,7 +249,8 @@ Deactivate                 deactivate
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 NEW Python env
 
-Install pip/pip3 _ONCE_    curl https://bootstrap.pypa.io/get-pip.py | python
+Install pip3 _ONCE_    sudo apt install python3-pip
+
 Install _ONCE_             pip install pipenv
 *************************
 $ which python3.7
@@ -763,12 +797,10 @@ sudo apt-get install -y boot-repair && boot-repair
 
 +++++++++++++++++++++++++++++++++++++++
 sudo rm -rf 
-sudo apt-get purge code
-
-https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-windows-10#step-1-%E2%80%94-opening-and-configuring-powershell
 
 
-FIX FLASH ON UBUNTU TERMINAL sudo mkfs.msdos -f 32 /dev/sdb
+FIX FLASH ON UBUNTU TERMINAL 
+sudo mkfs.msdos -f 32 /dev/sdb
 DEFRAGMENT sudo e4defrag /dev/sda7
 
 77777777777777777777777777777777777777777777
@@ -778,5 +810,4 @@ Install (Dynamic Panel Transparency ) in ubuntu softwares
 gsettings set org.gnome.shell.extensions.dash-to-dock transparency-mode 'FIXED'
 gsettings set org.gnome.shell.extensions.dash-to-dock background-opacity 0.2
 77777777777777777777777777777777777777777777
-
 
