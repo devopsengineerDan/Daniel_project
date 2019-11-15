@@ -93,7 +93,7 @@ gsettings set org.gnome.shell.extensions.dash-to-dock background-opacity 0.2
 Assigning static ip address to the local network
 
 sudo ifconfig enp9s0 192.168.92.5 netmask 255.255.0.0
-sudo route add default gw 192.168.92.5 enp9s0
+sudo route add default gw 192.168.92.1 enp9s0
 ping 192.168.92.5
 
 Assigning dynamic ip address to the local network
@@ -129,13 +129,20 @@ sudo apt install ssh
 Performing ssh
 
 ssh pentester@127.0.0.1
-0R
-ssh pentester@127.0.0.1 -p 2222
+
+       0R   USING PASSWORD
+sudo ssh pentester@127.0.0.1 -p 2000
 
 sudo service ssh status
+
+       OR   USING KEYS
+ssh-keygen
+cat ~/.ssh/id_rsa.pub | ssh pentester@127.0.0.1 -p 2000 "mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat >> ~/.ssh/authorized_keys"
+ssh pentester@127.0.0.1 -p 2000
+
 --------------------------------------------
 Set up ssh on virtual machine
-
+++++++++++++++++++++++++++++
 sudo nano /etc/network/interfaces
 
 EDIT THIS FILE
@@ -155,6 +162,7 @@ iface eth1 inet static
 	network 192.168.92.0
 
 
+++++++++++++++++++++++++++++++
 sudo nano /etc/ssh/ssh_config
 sudo nano /etc/ssh/sshd_config
 adduser pentester
@@ -893,3 +901,4 @@ WINDOWS (UBUNTU TERMINAL)
 +++++++++++++++++++++++++++++++++++++++ 
 cd /mnt/c/Users/Dan/
 cd /mnt/c/Users/Dan/Desktop/Projects/
+
