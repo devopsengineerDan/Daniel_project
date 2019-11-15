@@ -99,11 +99,41 @@ ping 192.168.92.5
 Assigning dynamic ip address to the local network
 
 sudo dhclient enp9s0
+----------------------------------------------------------
+DHCP
+
+sudo apt install isc-dhcp-server
+sudo nano /etc/dhcp/dhcpd.conf
+
+EDIT THIS FILE
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+default-lease-time 600;
+max-lease-time 7200;
+
+dns-update-style none;
+
+authoritative;
+
+subnet 192.168.92.0 netmask 255.255.255.0{
+	range 192.168.92.0 192.168.92.100;
+	option routers 192.168.91.1;
+	option subnet-mask 255.255.255.0;
+	option domain-name-servers 192.168.92.1, 8.8.8.8;
+}
+
+host Windows7{
+	hardware ethernet 00:0c:29:e6:75:b9;
+	fixed-address 192.168.92.1;
+}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+sudo systemctl restart isc-dhcp-server
+sudo systemctl status isc-dhcp-server
+
 
 ===============================================================================================================================================
 
 
-			<---CYBER SECURITY--->
+			<---SYSTEM--->
 
 
 (PHONE)TERMUX
@@ -146,7 +176,7 @@ Set up ssh on virtual machine
 sudo nano /etc/network/interfaces
 
 EDIT THIS FILE
-
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 #This file describes the network interfaces availableon your system and how to activate them....
 source /etc/network/interfaces.d/*
 
@@ -160,7 +190,7 @@ iface eth1 inet static
 	netmask 255.255.255.0
 	broadcast 192.168.92.255
 	network 192.168.92.0
-
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ++++++++++++++++++++++++++++++
 sudo nano /etc/ssh/ssh_config
@@ -181,9 +211,9 @@ loginctl list-sessions
 loginctl terminate-session 
 ++++++++++++++++++++++++++
 
+===============================================================================================================================================
 
-
-
+			<---CYBER SECURITY--->
 
 
 ===============================================================================================================================================
@@ -191,30 +221,8 @@ loginctl terminate-session
 			<---SOFTWARE(ARTIFICIAL INTELLIGENCE && QUANTUM SCIENCE)--->
 
 *********************************************************************
-WEKA DATA SCIENCE SOFTWARE
- cd weka-3-8-3/
- java -jar weka.jar
- 
-
-ANACONDA
-
-conda list
-
-(OR)
-
-cd /tmp
-conda list
-conda update conda
-
-+++++++++++++++++++++
-
-cd anaconda3/
-source $HOME/anaconda3/bin/activate
-conda list
-conda update conda
-
+					    			PREREQUISITES
 *********************************************************************
-
 STATIC TYPING PYTHON
 
 Install mypy 
@@ -270,13 +278,39 @@ Effect changes:            python manage.py makemigrations
                            python manage.py runserver
 
 
-django-admin startproject heyapp ->VIEWS
-django-admin startproject heyapp .  ->WSGI
+
+
+
+*********************************************************************
+						DIGITAL COMPUTATION
+
+*********************************************************************
+WEKA DATA SCIENCE SOFTWARE
+ cd weka-3-8-3/
+ java -jar weka.jar
  
- ((( H - conardmomanyi123 )))
 
+ANACONDA
 
-**********************************************************************
+conda list
+
+(OR)
+
+cd /tmp
+conda list
+conda update conda
+
++++++++++++++++++++++
+
+cd anaconda3/
+source $HOME/anaconda3/bin/activate
+conda list
+conda update conda
+
+*********************************************************************
+						ANALOGUE COMPUTATION
+
+*********************************************************************
 ------------------
 Personal github 4f41ea34f379e4e0dc151e6964c6468f4807e3c5
 ------------------
@@ -287,7 +321,7 @@ sudo apt install kazam
 On how to use Kazam Screencaster https://www.youtube.com/watch?v=ADPPpY6ZEI8
 ------------------
 
-HEROKU
+HEROKU  ((( H - conardmomanyi123 )))
 
 
 web: gunicorn waweru.wsgi --log-file -
@@ -332,7 +366,7 @@ Docker	Heroku
 Dockerfile	BuildPack
 Image	Slug
 Container	Dyno
-Index	Add-Ons
+Index	Add-Ons 
 CLI	CLI
 ----------------------------------
 GIT COLLABORATION Link http://adzumi.co.ke/blog/github_contribution
@@ -409,6 +443,12 @@ Push to your origin repository.
 Create a new Pull Request in GitHub.
 
 ------------------------------------------------------------------------------------------------------------
+
+
+
+django-admin startproject heyapp ->VIEWS
+django-admin startproject heyapp .  ->WSGI
+ 
 
 
 DJANGO && SERVICE WORKER
