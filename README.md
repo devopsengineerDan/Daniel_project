@@ -278,40 +278,6 @@ Effect changes:            python manage.py makemigrations
                            python manage.py migrate
                            python manage.py runserver
 
-
-
-
-
-*********************************************************************
-						DIGITAL COMPUTATION
-
-*********************************************************************
-WEKA DATA SCIENCE SOFTWARE
- cd weka-3-8-3/
- java -jar weka.jar
- 
-
-ANACONDA
-
-conda list
-
-(OR)
-
-cd /tmp
-conda list
-conda update conda
-
-+++++++++++++++++++++
-
-cd anaconda3/
-source $HOME/anaconda3/bin/activate
-conda list
-conda update conda
-
-*********************************************************************
-						ANALOGUE COMPUTATION
-
-*********************************************************************
 ------------------
 Personal github 4f41ea34f379e4e0dc151e6964c6468f4807e3c5
 ------------------
@@ -445,6 +411,39 @@ Create a new Pull Request in GitHub.
 
 ------------------------------------------------------------------------------------------------------------
 
+
+*********************************************************************
+						DIGITAL COMPUTATION
+
+*********************************************************************
+++++++++++++++++++++++
+WEKA DATA SCIENCE SOFTWARE
+ cd weka-3-8-3/
+ java -jar weka.jar
+ 
+
+ANACONDA
+
+conda list
+
+(OR)
+
+cd /tmp
+conda list
+conda update conda
+
++++++++++++++++++++++
+
+cd anaconda3/
+source $HOME/anaconda3/bin/activate
+conda list
+conda update conda
++++++++++++++++++++++
+
+*********************************************************************
+						ANALOGUE COMPUTATION
+
+*********************************************************************
 
 
 django-admin startproject heyapp ->VIEWS
