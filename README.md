@@ -46,6 +46,7 @@ https://findmymobile.samsung.com
 serial number:RZ8M10REVSJ
 IMEI:358147090839744
 
+KRA Engineer@Dan1
 ==================================
 
 FLASH/EXTERNAL DISK  TRICKS
