@@ -1,5 +1,4 @@
 ==============================================================================================================================================
-
 STUFF
 
 ADOBE PHOTOSHOP  1045-1656-1984-6490-9561-5688
@@ -274,9 +273,9 @@ Deactivate                deactivate
        
 
 
-Effect changes:            python manage.py makemigrations
-                           python manage.py migrate
-                           python manage.py runserver
+Effect changes:            python3 manage.py makemigrations
+                           python3 manage.py migrate
+                           python3 manage.py runserver
 
 ------------------
 Personal github 4f41ea34f379e4e0dc151e6964c6468f4807e3c5
@@ -328,14 +327,12 @@ $ heroku run python manage.py collectstatic
 
 
 ---------------------------------------------------------------------------------------------------------
-Docker vs. Heroku
-Docker	Heroku
-Dockerfile	BuildPack
-Image	Slug
-Container	Dyno
-Index	Add-Ons 
-CLI	CLI
-----------------------------------
+Pyinstaller
+
+pyinstaller --onedir --onefile --name=passwordlocker --windowed "/home/dan/PycharmProjects/dancunmanyinsa/manage.py"
+
+
+---------------------------------------------------------------------------------------------------------
 GIT COLLABORATION Link http://adzumi.co.ke/blog/github_contribution
 
 As a new developer, contributing to a project can be scary. I get it,  I was there too. It took me way too long to make my first Pull Request.
@@ -633,7 +630,7 @@ INSTALL POSTGRESQL  -> https://linuxconfig.org/install-postgresql-on-ubuntu-18-0
 
 sudo apt install postgresql-client
 sudo apt install postgresql
- * Restart my pc then on the terminal 
+ * Restart my pc then on the terminal *
 sudo systemctl enable postgresql
 sudo service postgresql restart
 
@@ -715,89 +712,6 @@ passwd                          phoenix
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 deactivate
 
-
----------------------------------------------------------------------------------------------------------
-Docker vs. Heroku
-Docker	Heroku
-Dockerfile	BuildPack
-Image	Slug
-Container	Dyno
-Index	Add-Ons
-CLI	CLI
-----------------------------------
-GIT COLLABORATION Link http://adzumi.co.ke/blog/github_contribution
-
-As a new developer, contributing to a project can be scary. I get it,  I was there too. It took me way too long to make my first Pull Request.
-
-Contributing is also a great way to learn more about social coding on Github, new technologies and their ecosystems and how to make constructive, helpful bug reports, feature requests and the noblest of all contributions.
-
-STEP 1: SET UP A WORKING COPY ON YOUR COMPUTER
-First of all, you need a local fork of the project, so go ahead and press the “fork” button on GitHub. This will create a copy of the repository in your own GitHub account and you’ll see a note that it’s been forked underneath the project name:
-
-
-
-Now you need a copy locally, so find the clone URL in the right-hand column and use that to clone locally using a terminal:
-
-$ git clone https://github.com/lawrence254/StudentEngagement.git
-Which will do something like this:
-
-
-
-Now navigate to the project's directory:
-
-$ cd StudentEngagement
-Finally, in this stage, you need to set up a new remote that points to the original project so that you can grab any changes and bring them into your local copy. Firstly click on the link to the original repository, it’s labeled “Forked from” at the top of the GitHub page. This takes you back to the projects main GitHub page, so you can find the Clone URL and use it to create the new remote, which we’ll call upstream.
-
-$ git remote add upstream https://github.com/lawrence254/StudentEngagement.git
-You now have two remotes for this project on disk:
-
-origin which points to your GitHub fork of the project. You can read and write to this remote.
-upstream which points to the main project’s GitHub repository. You can only read from this remote.
-STEP 2: MAKE SOME CHANGES
-This is the fun bit where you get to contribute to the project. The number one rule is to put each piece of work on its own branch. If the project is using git-flow, then it will have both a master and a development branch. The general rule is that if you are adding a new feature then branch from development. If the project only has a master branch, the branch from that. 
-
-For this example, the forked repository had a number of branches already, one of them called 'lawrence'. This is the branch the owner of the repository has been working on. We’ll assume we’re adding a feature in StudentEngagement, so we branch to that branch:
-
-$ git checkout lawrence
-$ git pull upstream lawrence && git push origin lawrence
-Firstly we ensure we’re on the master branch. Then the git pull command will sync our local copy with the upstream project and the git push syncs it to our forked GitHub project. Finally, we checkout to the 'lawrence' branch. 
-
-Now you can add a feature(Or fix a bug).
-
-If the project has tests, run them to ensure you haven’t broken anything. You may also add a new test to show that your change fixes the original problem.
-
-STEP 3: CREATE A PULL REQUEST
-To create a Pull Request you need to push your branch to the origin remote and then press some buttons on GitHub.
-
-To push the new branch:
-
-$ git push origin lawrence
-Now swap back to the browser and navigate to your fork of the project (https://github.com/YomZsamora/StudentEngagement in my case) and you’ll see that the branch is listed at the top with a handy “Compare & pull request” button:
-
-
-
-Go ahead and press the button! 
-
-On this page, ensure that the “base fork” points to the correct repository and branch. Then ensure that you provide a good, succinct title for your pull request and explain why you have created it in the description box. Add any relevant issue numbers if you have them.
-
-
-
-If you scroll down a bit, you’ll see a diff of your changes. Double check that it contains what you expect.
-
-Once you are happy, press the “Create pull request” button and you’re done.
-
-For your work to be integrated into the project, the maintainers will review your work and either request changes or merge it.
-
-To Summarize
-That’s all there is to it. The fundamentals are:
-
-Fork the project & clone locally.
-Create an upstream remote and sync your local copy.
-Ensure you're working on the correct branch.
-Do the work, write good commit messages and read the CONTRIBUTING file if there is one.
-Push to your origin repository.
-Create a new Pull Request in GitHub.
-
 ----------------------------------------------------------------------------------------------------------
 Flask Application structure
 
@@ -821,9 +735,7 @@ Flask Application structure
     |-.gitignore
     |-manage.py
     |-start.sh
--------------------
-  Presentation on flask last week    
--------------------
+ 
 -----------------------------------------------------------------------------------------------------------
 Flask
   
@@ -849,88 +761,6 @@ Django
  pip install djangorestframework
  pip install django-progressive-web-app
 
-<!DOCTYPE html>
-<html>
-{% load static %}
-<head>
-	<title>Feeds</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta charset="utf-8">
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
-	<style type="text/css">
-		.dropdown-span{
-			text-align: center;
-			color: white;
-			background-color: #5bc0de;
-		}
-		span{
-			color: white;
-		}
-		.footer{
-			text-align: center;
-			position: absolute;
-			padding:10px;
-			color: white;
-			width: 100%;
-			bottom:0;
-		}
-		.alink{
-			text-decoration: none;
-			color: white;
-		}
-		.alink:hover{
-			text-decoration: none;
-			color: white;
-		}
-		#content{
-			padding-bottom: 5%;
-		}
-		html,body{
-			margin: 0;
-		  	padding: 0;
-		  	height: 100%;
-		}
-		.wrapper{
-			position: relative;
-			min-height: 100%;
-        }
-	</style>
-</head>
-<body>
-	<div class="wrapper">	
-		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-			<a class="navbar-brand" href="#"><h2>Feeds</h2></a>	
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-		    <span class="navbar-toggler-icon"></span>
-		  	</button>
-		  	<div class="collapse navbar-collapse" id="navbarSupportedContent">
-		  		<ul class="navbar-nav mr-auto">
-		  			<li class="nav-item active">
-			        		<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-			      		</li>
-			      		<li class="nav-item active">
-			        		<a class="nav-link" href="#">About us</a>
-			      		</li>
-		  		</ul>
-		  	</div>
-		</nav>
-		<div id="content" class="container">
-			<br><br><br>
-			{% block content %}
-
-			{% endblock %}
-		</div>
-		<div class="footer bg-dark">
-			<p>&copy Feeds 2018</p>
-			<a class="alink" href="#">Privacy policy</a>&nbsp
-			<a class="alink" href="#">Contact us</a>
-		</div>
-	</div>
-</body>
-</html>
 --------------------------------------------------------------------------------------------------------
 
 
