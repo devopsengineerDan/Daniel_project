@@ -46,14 +46,6 @@ serial number:RZ8M10REVSJ
 IMEI:358147090839744
 
 KRA Engineer@Dan1
-==================================
-
-FLASH/EXTERNAL DISK  TRICKS
-
-sudo fdisk -l
-udisksctl power-off -b /dev/sdb
-
-
 =================================
 
 GRUB RESCUE ERROR FIX
@@ -74,8 +66,17 @@ sudo rm -rf
 =================================
 
 FIX FLASH ON UBUNTU TERMINAL 
+
+sudo fdisk -l
+
+1st option
 sudo mkfs.msdos -f 32 /dev/sdb
 DEFRAGMENT sudo e4defrag /dev/sda7
+
+2nd option
+udisksctl power-off -b /dev/sdb
+
+
 
 =================================
 UBUNTU TRANSPARENCY(MENU BAR AND TAB)
@@ -253,8 +254,8 @@ OLD Python env
                    2nd)Create    virtualenv -p /usr/bin/python3.7 venv
 Activate env:      source venv/bin/activate 
 Install pip/pip3 _ONCE_    curl https://bootstrap.pypa.io/get-pip.py | python
-Installation of dep        pip install -r requirements.txt
-                           pip install -r requirements.txt --upgrade
+Installation of dep        pip3 install -r requirements.txt
+                           pip3 install -r requirements.txt --upgrade
 Deactivate                 deactivate
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 NEW Python env
