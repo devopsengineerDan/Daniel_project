@@ -312,11 +312,11 @@ $ git push heroku master
 
 3 run migrations (django 1.10 added at least one)
 
-$ heroku run python manage.py migrate
+$ heroku run python3 manage.py migrate
 
 4 run collectstatic using bower
 
-$ heroku run 'bower install --config.interactive=false;grunt prep;python manage.py collectstatic --noinput'
+$ heroku run 'bower install --config.interactive=false;grunt prep;python3 manage.py collectstatic --noinput'
 
 5 enable collecstatic for future deploys
 
@@ -643,22 +643,7 @@ and add the following line somewhere to the CONNECTIONS AND AUTHENTICATION secti
 listen_addresses = '*'
 
 sudo service postgresql restart
-sudo ufw allow from any to any port 5432 proto tcp
-
-UNINSTALL POSTGRESQL -> sudo apt-get --purge remove postgresql postgresql  postgresql-client  postgresql-client postgresql-client-common postgresql-common  postgresql-contrib postgresql-contrib
-
-
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-
-REMOVE OLD UBUNTUUPDATEFILES FROM /boot
-
-sudo apt-get-clean
-
-First, get the name of the kernel the system is currently running by using uname like this:
-
-uname -r
-Make a note of that because that is the name of the current active kernel you don’t want to remove. Now knowing that, we need to figure out what the other—extraneous—kernels are:
-
+sudo ufw all
 dpkg --list | grep linux-image
 Depending on how many updates have been installed on your system this could be a long list or a short list but it should have at least one extraneous kernel install in there.
 
@@ -771,5 +756,20 @@ Django
 WINDOWS (UBUNTU TERMINAL)
 +++++++++++++++++++++++++++++++++++++++ 
 cd /mnt/c/Users/Dan/
-cd /mnt/c/Users/Dan/Desktop/Projects/
+cd /mnt/c/Users/Dan/Desktop/Projects/ow from any to any port 5432 proto tcp
+
+UNINSTALL POSTGRESQL -> sudo apt-get --purge remove postgresql postgresql  postgresql-client  postgresql-client postgresql-client-common postgresql-common  postgresql-contrib postgresql-contrib
+
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+REMOVE OLD UBUNTUUPDATEFILES FROM /boot
+
+sudo apt-get-clean
+
+First, get the name of the kernel the system is currently running by using uname like this:
+
+uname -r
+Make a note of that because that is the name of the current active kernel you don’t want to remove. Now knowing that, we need to figure out what the other—extraneous—kernels are:
+
 
