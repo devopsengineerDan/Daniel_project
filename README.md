@@ -134,6 +134,18 @@ sudo systemctl status isc-dhcp-server
 ===============================================================================================================================================
 
 
+nmcli connection add con-name 'Ethernet' ifname enp9s0 type ethernet 
+
+sudo netdiscover 
+rfkill 
+
+sudo service NetworkManager start
+sudo service NetworkManager stop 
+
+MICROTIK
+startx
+service gdm3 restart 
+
 			<---SYSTEM--->
 
 
