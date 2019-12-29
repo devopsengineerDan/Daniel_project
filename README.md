@@ -781,7 +781,15 @@ sudo apt-get-clean
 
 First, get the name of the kernel the system is currently running by using uname like this:
 
-uname -r
+uname -sr
+dpkg -l | grep linux-image | awk '{print$2}'
+sudo apt-get purge linux-image-x.x.x.1-generic
+
+Or if you use aptitude use this variant of the command:
+
+sudo aptitude purge linux-image-x.x.x.1-generic
+
+
 Make a note of that because that is the name of the current active kernel you don’t want to remove. Now knowing that, we need to figure out what the other—extraneous—kernels are:
 
 
