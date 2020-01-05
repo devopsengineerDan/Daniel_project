@@ -655,17 +655,6 @@ and add the following line somewhere to the CONNECTIONS AND AUTHENTICATION secti
 listen_addresses = '*'
 
 sudo service postgresql restart
-sudo ufw all
-dpkg --list | grep linux-image
-Depending on how many updates have been installed on your system this could be a long list or a short list but it should have at least one extraneous kernel install in there.
-
-Once you see that list, make note of the extraneous kernels and then run this command:
-
-sudo apt-get purge linux-image-x.x.x.1-generic
-
-Or if you use aptitude use this variant of the command:
-
-sudo aptitude purge linux-image-x.x.x.1-generic
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
@@ -774,16 +763,19 @@ UNINSTALL POSTGRESQL -> sudo apt-get --purge remove postgresql postgresql  postg
 
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-
 REMOVE OLD UBUNTUUPDATEFILES FROM /boot
 
 sudo apt-get-clean
 
 First, get the name of the kernel the system is currently running by using uname like this:
 
+-----------------------------------------------
 uname -sr
 dpkg -l | grep linux-image | awk '{print$2}'
-sudo apt-get purge linux-image-x.x.x.1-generic
+sudo apt-get purge linux-image-5.3.0-18-generic
+sudo apt autoremove
+-----------------------------------------------
+
 
 Or if you use aptitude use this variant of the command:
 
@@ -791,5 +783,4 @@ sudo aptitude purge linux-image-x.x.x.1-generic
 
 
 Make a note of that because that is the name of the current active kernel you don’t want to remove. Now knowing that, we need to figure out what the other—extraneous—kernels are:
-
 
