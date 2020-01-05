@@ -84,6 +84,8 @@ Install (Dynamic Panel Transparency ) in ubuntu softwares
 -------------------------------------------
 gsettings set org.gnome.shell.extensions.dash-to-dock transparency-mode 'FIXED'
 gsettings set org.gnome.shell.extensions.dash-to-dock background-opacity 0.2
+-------------------------------------------
+Install  dash-dock extension 
 
 
 ===============================================================================================================================================
@@ -763,6 +765,7 @@ UNINSTALL POSTGRESQL -> sudo apt-get --purge remove postgresql postgresql  postg
 
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
 REMOVE OLD UBUNTUUPDATEFILES FROM /boot
 
 sudo apt-get-clean
@@ -782,5 +785,38 @@ Or if you use aptitude use this variant of the command:
 sudo aptitude purge linux-image-x.x.x.1-generic
 
 
-Make a note of that because that is the name of the current active kernel you don’t want to remove. Now knowing that, we need to figure out what the other—extraneous—kernels are:
+Make a note of that because that is the name of the current active kernel you don’t want to remove. Now knowing that, we need to figure out what the other—extraneous—kernels are
+
+
+CREATING SWAP  AFTER LINUX INSTALLATION
+
+In case you don't want or you're not sure how to create a swap partition, you can create a swap file which will work in the same way as partition. Here are the steps (using terminal):
+
+Create an empty file (1K * 4M = 4 GiB).
+
+sudo mkdir -v /var/cache/swap
+cd /var/cache/swap
+sudo dd if=/dev/zero of=swapfile bs=1K count=4M
+sudo chmod 600 swapfile
+Convert newly created file into a swap space file.
+
+sudo mkswap swapfile
+Enable file for paging and swapping.
+
+sudo swapon swapfile
+Verify by: swapon -s or top:
+
+top -bn1 | grep -i swap
+Should display line like: KiB Swap:  4194300 total,  4194300 free
+
+To disable, use sudo swapoff swapfile command.
+
+Add it into fstab file to make it persistent on the next system boot.
+
+echo "/var/cache/swap/swapfile none swap sw 0 0" | sudo tee -a /etc/fstab
+Re-test swap file on startup by:
+
+sudo swapoff swapfile
+sudo swapon -va
+
 
