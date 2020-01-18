@@ -46,6 +46,7 @@ serial number:RZ8M10REVSJ
 IMEI:358147090839744
 
 KRA Engineer@Dan1
+
 =================================
 
 GRUB RESCUE ERROR FIX
@@ -258,7 +259,7 @@ Create                    rustenv  renv
 Activate                  ./renv/bin/activate
 Deactivate                deactivate_rustenv
 -------
-VIRTUAL ENV  ((( H - conardmomanyi123 )))
+VIRTUAL ENV  
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -302,7 +303,7 @@ sudo apt install kazam
 On how to use Kazam Screencaster https://www.youtube.com/watch?v=ADPPpY6ZEI8
 ------------------
 
-HEROKU  ((( H - conardmomanyi123 )))
+HEROKU  ((( H - Conard@92 )))
 
 
 web: gunicorn waweru.wsgi --log-file -
