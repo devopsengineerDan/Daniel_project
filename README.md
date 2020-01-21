@@ -46,7 +46,7 @@ serial number:RZ8M10REVSJ
 IMEI:358147090839744
 
 KRA Engineer@Dan1
-
+SAF @@aUrsAP@w9x.j@
 =================================
 
 GRUB RESCUE ERROR FIX
@@ -76,6 +76,13 @@ DEFRAGMENT sudo e4defrag /dev/sda7
 
 2nd option
 udisksctl power-off -b /dev/sdb
+
+FIX FLASH ON WINDOWS TERMINAL 
+diskpart
+list disk
+attributes disk
+attributes disk clear diskonly
+exit
 
 
 
