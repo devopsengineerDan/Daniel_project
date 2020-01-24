@@ -47,6 +47,7 @@ IMEI:358147090839744
 
 KRA Engineer@Dan1
 SAF @@aUrsAP@w9x.j@
+http://portal.jkuat.ac.ke/Home/Index
 =================================
 
 GRUB RESCUE ERROR FIX
@@ -234,6 +235,8 @@ loginctl list-sessions
 loginctl terminate-session 
 ++++++++++++++++++++++++++
 
+NETWORK ADMIN
+https://medium.com/@adinika.15/installing-active-directory-on-windows-server-2012-r2-e9e614770588
 ===============================================================================================================================================
 
 			<---CYBER SECURITY--->
