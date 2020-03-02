@@ -313,6 +313,12 @@ sudo apt install kazam
 On how to use Kazam Screencaster https://www.youtube.com/watch?v=ADPPpY6ZEI8
 ------------------
 
+GIT FIRST ATTEMPT
+
+git config --global user.name "DancunManyinsa"
+git config --global user.email "dancunmanyinsait@gmail.com"
+
+
 HEROKU  ((( H - Conard@92 )))
 
 
