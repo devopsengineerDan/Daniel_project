@@ -14,6 +14,11 @@ https://t.co/zfWgEfyA8d?amp=1
 https://t.co/SQamq5CSRQ?amp=1
 
 https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks
+
+Network and Software Engineering https://mega.nz/#F!rqpiBQIa!aqY8L9NmaifoXTGVQogiWg   
+
+Cybersecurity and AI Engineering https://mega.nz/#F!2fRgmYSa!dvEPOubQEBUiRaXu7SktBg!jXw3ySIS
+
 Cybersecurity
 [7:01 PM, 3/28/2019] Anthony - CEH: https://katcr.co/torrent/364470/udemy-practice-your-first-penetration-test-kali-amp-metasploit-lab.html
 [7:02 PM, 3/28/2019] Anthony - CEH: https://monova.to/167CEE868BB34A178B72B530BE27CD98EFBE0688
