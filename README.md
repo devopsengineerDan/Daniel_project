@@ -50,8 +50,8 @@ https://findmymobile.samsung.com
 serial number:RZ8M10REVSJ
 IMEI:358147090839744
 
-kenya kra A012540149K engineerDan@1234
-saf @@aUrsAP@w9x.j@
+KRA engineerDan@1234
+SAF @@aUrsAP@w9x.j@
 http://portal.jkuat.ac.ke/Home/Index
 =================================
 
@@ -240,6 +240,183 @@ loginctl list-sessions
 loginctl terminate-session 
 ++++++++++++++++++++++++++
 
+DEBIAN 10 FIREWALL CONFIGURATION
+
+Step 1  Installing UFW
+Debian does not install UFW by default. If you followed the entire Initial Server Setup tutorial, you will have installed and enabled UFW. If not, install it now using apt:
+
+sudo apt install ufw
+We will set up UFW and enable it in the following steps.
+
+Step 2  Using IPv6 with UFW (Optional)
+This tutorial is written with IPv4 in mind, but will work for IPv6 as long as you enable it. If your Debian server has IPv6 enabled, you will want to ensure that UFW is configured to support IPv6; this will ensure that UFW will manage firewall rules for IPv6 in addition to IPv4. To configure this, open the UFW configuration file /etc/default/ufw with nano or your favorite editor:
+
+sudo nano /etc/default/ufw
+Then make sure the value of IPV6 is yes. It should look like this:
+
+/etc/default/ufw excerpt
+IPV6=yes
+Save and close the file. Now when UFW is enabled, it will be configured to write both IPv4 and IPv6 firewall rules. Before enabling UFW, however, you will want to ensure that your firewall is configured to allow you to connect via SSH. Lets start with setting the default policies.
+
+Step 3  Setting Up Default Policies
+If youre just getting started with your firewall, the first rules to define are your default policies. These rules handle traffic that does not explicitly match any other rules. By default, UFW is set to deny all incoming connections and allow all outgoing connections. This means anyone trying to reach your server would not be able to connect, while any application within the server would be able to reach the outside world.
+
+Lets set your UFW rules back to the defaults so we can be sure that youll be able to follow along with this tutorial. To set the defaults used by UFW, use these commands:
+
+sudo ufw default deny incoming
+sudo ufw default allow outgoing
+These commands set the defaults to deny incoming and allow outgoing connections. These firewall defaults alone might suffice for a personal computer, but servers typically need to respond to incoming requests from outside users. Well look into that next.
+
+Step 4  Allowing SSH Connections
+If we enabled our UFW firewall now, it would deny all incoming connections. This means that we will need to create rules that explicitly allow legitimate incoming connections  SSH or HTTP connections, for example  if we want our server to respond to those types of requests. If youre using a cloud server, you will probably want to allow incoming SSH connections so you can connect to and manage your server.
+
+To configure your server to allow incoming SSH connections, you can use this command:
+
+sudo ufw allow ssh
+This will create firewall rules that will allow all connections on port 22, which is the port that the SSH daemon listens on by default. UFW knows what port allow ssh means because its listed as a service in the /etc/services file.
+
+However, we can actually write the equivalent rule by specifying the port instead of the service name. For example, this command produces the same result as the one above:
+
+sudo ufw allow 22
+If you configured your SSH daemon to use a different port, you will have to specify the appropriate port. For example, if your SSH server is listening on port 2222, you can use this command to allow connections on that port:
+
+sudo ufw allow 2222
+Now that your firewall is configured to allow incoming SSH connections, you can enable it.
+
+Step 5  Enabling UFW
+To enable UFW, use this command:
+
+sudo ufw enable
+You will receive a warning that says the command may disrupt existing SSH connections. We already set up a firewall rule that allows SSH connections, so it should be fine to continue. Respond to the prompt with y and hit ENTER.
+
+The firewall is now active. Run the sudo ufw status verbose command to see the rules that you have set. The rest of this tutorial covers how to use UFW in more detail, including allowing and denying different types of connections.
+
+Step 6  Allowing Other Connections
+At this point, you should allow all of the other connections that your server needs to function properly. The connections that you should allow depend on your specific needs. Luckily, you already know how to write rules that allow connections based on a service name or port; we already did this for SSH on port 22. You can also do this for:
+
+HTTP on port 80, which is what unencrypted web servers use. To allow this type of traffic, you would type sudo ufw allow http or sudo ufw allow 80.
+HTTPS on port 443, which is what encrypted web servers use. To allow this type of traffic, you would type sudo ufw allow https or sudo ufw allow 443.
+There are other ways to allow connections, however, aside from specifying a port or known service. We will discuss those next.
+
+Specific Port Ranges
+You can specify port ranges with UFW. For example, some applications use multiple ports instead of a single port.
+
+For example, to allow X11 connections, which use ports 6000-6007, use these commands:
+
+sudo ufw allow 6000:6007/tcp
+sudo ufw allow 6000:6007/udp
+When specifying port ranges with UFW, you must specify the protocol (tcp or udp) that the rules should apply to. We havent mentioned this before because not specifying the protocol automatically allows both protocols, which is OK in most cases.
+
+Specific IP Addresses
+When working with UFW, you can also specify IP addresses. For example, if you want to allow connections from a specific IP address, such as a work or home IP address of 203.0.113.4, you need to specify from and then the IP address:
+
+sudo ufw allow from 203.0.113.4
+You can also specify a specific port that the IP address is allowed to connect to by adding to any port followed by the port number. For example, if you want to allow 203.0.113.4 to connect to port 22 (SSH), use this command:
+
+sudo ufw allow from 203.0.113.4 to any port 22
+Subnets
+If you want to allow a subnet of IP addresses, you can do so using CIDR notation to specify a netmask. For example, if you want to allow all of the IP addresses ranging from 203.0.113.1 to 203.0.113.254 you can use this command:
+
+sudo ufw allow from 203.0.113.0/24
+Likewise, you may also specify the destination port that the subnet 203.0.113.0/24 is allowed to connect to. Again, well use port 22 (SSH) as an example:
+
+sudo ufw allow from 203.0.113.0/24 to any port 22
+Connections to a Specific Network Interface
+If you want to create a firewall rule that only applies to a specific network interface, you can do so by specifying allow in on, followed by the name of the network interface.
+
+You may want to look up your network interfaces before continuing. To do so, use this command:
+
+ip addr
+Output
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state
+. . .
+3: eth1: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default
+. . .
+The highlighted output indicates the network interface names. They are typically named something like eth0 or enp3s2.
+
+If your server has a public network interface called eth0, for example, you could allow HTTP traffic to it with this command:
+
+sudo ufw allow in on eth0 to any port 80
+Doing so would allow your server to receive HTTP requests from the public internet.
+
+Or, if you want your MySQL database server (port 3306) to listen for connections on the private network interface eth1, you could use this command:
+
+sudo ufw allow in on eth1 to any port 3306
+This would allow other servers on your private network to connect to your MySQL database.
+
+Step 7  Denying Connections
+If you havent changed the default policy for incoming connections, UFW is configured to deny all incoming connections. Generally, this simplifies the process of creating a secure firewall policy by requiring you to create rules that explicitly allow specific ports and IP addresses through.
+
+Sometimes you will want to deny specific connections based on the source IP address or subnet, however, perhaps because you know that your server is being attacked from there. Also, if you want to change your default incoming policy to allow (which is not recommended), you would need to create deny rules for any services or IP addresses that you dont want to allow connections for.
+
+To write deny rules, you can use the commands described above, replacing allow with deny.
+
+For example, to deny HTTP connections, you could use this command:
+
+sudo ufw deny http
+Or if you want to deny all connections from 203.0.113.4 you could use this command:
+
+sudo ufw deny from 203.0.113.4
+Now lets take a look at how to delete rules.
+
+Step 8  Deleting Rules
+Knowing how to delete firewall rules is just as important as knowing how to create them. There are two ways to specify which rules to delete: by the rule number or by the rule itself. This is similar to how the rules were specified when they were created. Well start by explaining the delete by rule number method.
+
+By Rule Number
+If youre using the rule number to delete firewall rules, the first thing youll want to do is get a list of your firewall rules. The UFW status command has the numbered option, which displays numbers next to each rule:
+
+sudo ufw status numbered
+Output
+Status: active
+
+     To                         Action      From
+     --                         ------      ----
+[ 1] 22                         ALLOW IN    15.15.15.0/24
+[ 2] 80                         ALLOW IN    Anywhere
+If we decide that we want to delete rule 2, which allows HTTP connections on port 80, we can specify this in the following UFW delete command:
+
+sudo ufw delete 2
+This will show a confirmation prompt, which you can answer with y/n. Typing y will then delete rule 2. Note that if you have IPv6 enabled, you will want to delete the corresponding IPv6 rule as well.
+
+By Actual Rule
+The alternative to rule numbers is to specify the actual rule to delete. For example, if you want to remove the allow http rule, you could write it like this:
+
+sudo ufw delete allow http
+You can also specify the rule with allow 80 instead of the service name:
+
+sudo ufw delete allow 80
+This method will delete both IPv4 and IPv6 rules, if they exist.
+
+Step 9  Checking UFW Status and Rules
+At any time, you can check the status of UFW with this command:
+
+sudo ufw status verbose
+If UFW is disabled, which is the default, youll see something like this:
+
+Output
+Status: inactive
+If UFW is active, which it should be if you followed Step 3, the output will say that its active and will list any rules that you have set. For example, if the firewall is set to allow SSH (port 22) connections from anywhere, the output might look something like this:
+
+Output
+Status: active
+
+To                         Action      From
+--                         ------      ----
+22/tcp                     ALLOW IN    Anywhere
+Use the status command if you want to check how UFW has configured the firewall.
+
+Step 10  Disabling or Resetting UFW (optional)
+If you decide you dont want to use UFW, you can disable it with this command:
+
+sudo ufw disable
+Any rules that you created with UFW will no longer be active. You can always run sudo ufw enable if you need to activate it later.
+
+If you already have UFW rules configured but you decide that you want to start over, you can use the reset command:
+
+sudo ufw reset
+This will disable UFW and delete any rules that you have previously defined. Keep in mind that the default policies wont change to their original settings if you modified them at any point. This should give you a fresh start with UFW.
+
+
 NETWORK ADMIN
 https://medium.com/@adinika.15/installing-active-directory-on-windows-server-2012-r2-e9e614770588
 ===============================================================================================================================================
@@ -377,7 +554,7 @@ As a new developer, contributing to a project can be scary. I get it,  I was the
 Contributing is also a great way to learn more about social coding on Github, new technologies and their ecosystems and how to make constructive, helpful bug reports, feature requests and the noblest of all contributions.
 
 STEP 1: SET UP A WORKING COPY ON YOUR COMPUTER
-First of all, you need a local fork of the project, so go ahead and press the “fork” button on GitHub. This will create a copy of the repository in your own GitHub account and you’ll see a note that it’s been forked underneath the project name:
+First of all, you need a local fork of the project, so go ahead and press the âforkâ button on GitHub. This will create a copy of the repository in your own GitHub account and youâll see a note that itâs been forked underneath the project name:
 
 
 
@@ -391,25 +568,25 @@ Which will do something like this:
 Now navigate to the project's directory:
 
 $ cd StudentEngagement
-Finally, in this stage, you need to set up a new remote that points to the original project so that you can grab any changes and bring them into your local copy. Firstly click on the link to the original repository, it’s labeled “Forked from” at the top of the GitHub page. This takes you back to the projects main GitHub page, so you can find the Clone URL and use it to create the new remote, which we’ll call upstream.
+Finally, in this stage, you need to set up a new remote that points to the original project so that you can grab any changes and bring them into your local copy. Firstly click on the link to the original repository, itâs labeled âForked fromâ at the top of the GitHub page. This takes you back to the projects main GitHub page, so you can find the Clone URL and use it to create the new remote, which weâll call upstream.
 
 $ git remote add upstream https://github.com/lawrence254/StudentEngagement.git
 You now have two remotes for this project on disk:
 
 origin which points to your GitHub fork of the project. You can read and write to this remote.
-upstream which points to the main project’s GitHub repository. You can only read from this remote.
+upstream which points to the main projectâs GitHub repository. You can only read from this remote.
 STEP 2: MAKE SOME CHANGES
 This is the fun bit where you get to contribute to the project. The number one rule is to put each piece of work on its own branch. If the project is using git-flow, then it will have both a master and a development branch. The general rule is that if you are adding a new feature then branch from development. If the project only has a master branch, the branch from that. 
 
-For this example, the forked repository had a number of branches already, one of them called 'lawrence'. This is the branch the owner of the repository has been working on. We’ll assume we’re adding a feature in StudentEngagement, so we branch to that branch:
+For this example, the forked repository had a number of branches already, one of them called 'lawrence'. This is the branch the owner of the repository has been working on. Weâll assume weâre adding a feature in StudentEngagement, so we branch to that branch:
 
 $ git checkout lawrence
 $ git pull upstream lawrence && git push origin lawrence
-Firstly we ensure we’re on the master branch. Then the git pull command will sync our local copy with the upstream project and the git push syncs it to our forked GitHub project. Finally, we checkout to the 'lawrence' branch. 
+Firstly we ensure weâre on the master branch. Then the git pull command will sync our local copy with the upstream project and the git push syncs it to our forked GitHub project. Finally, we checkout to the 'lawrence' branch. 
 
 Now you can add a feature(Or fix a bug).
 
-If the project has tests, run them to ensure you haven’t broken anything. You may also add a new test to show that your change fixes the original problem.
+If the project has tests, run them to ensure you havenât broken anything. You may also add a new test to show that your change fixes the original problem.
 
 STEP 3: CREATE A PULL REQUEST
 To create a Pull Request you need to push your branch to the origin remote and then press some buttons on GitHub.
@@ -417,24 +594,24 @@ To create a Pull Request you need to push your branch to the origin remote and t
 To push the new branch:
 
 $ git push origin lawrence
-Now swap back to the browser and navigate to your fork of the project (https://github.com/YomZsamora/StudentEngagement in my case) and you’ll see that the branch is listed at the top with a handy “Compare & pull request” button:
+Now swap back to the browser and navigate to your fork of the project (https://github.com/YomZsamora/StudentEngagement in my case) and youâll see that the branch is listed at the top with a handy âCompare & pull requestâ button:
 
 
 
 Go ahead and press the button! 
 
-On this page, ensure that the “base fork” points to the correct repository and branch. Then ensure that you provide a good, succinct title for your pull request and explain why you have created it in the description box. Add any relevant issue numbers if you have them.
+On this page, ensure that the âbase forkâ points to the correct repository and branch. Then ensure that you provide a good, succinct title for your pull request and explain why you have created it in the description box. Add any relevant issue numbers if you have them.
 
 
 
-If you scroll down a bit, you’ll see a diff of your changes. Double check that it contains what you expect.
+If you scroll down a bit, youâll see a diff of your changes. Double check that it contains what you expect.
 
-Once you are happy, press the “Create pull request” button and you’re done.
+Once you are happy, press the âCreate pull requestâ button and youâre done.
 
 For your work to be integrated into the project, the maintainers will review your work and either request changes or merge it.
 
 To Summarize
-That’s all there is to it. The fundamentals are:
+Thatâs all there is to it. The fundamentals are:
 
 Fork the project & clone locally.
 Create an upstream remote and sync your local copy.
@@ -491,28 +668,28 @@ To install Anaconda on a Debian 10 server, you should download the latest Anacon
 
 Find the latest version of Anaconda for Python 3 at the Anaconda Distribution page. At the time of writing, the latest version is 2019.03, but you should use a later stable version if it is available.
 
-Next, change to the /tmp directory on your server. This is a good directory to download ephemeral items, like the Anaconda bash script, which we won’t need after running it.
+Next, change to the /tmp directory on your server. This is a good directory to download ephemeral items, like the Anaconda bash script, which we wonât need after running it.
 
 cd /tmp
-We’ll use the curl command-line tool to download the script. Install curl:
+Weâll use the curl command-line tool to download the script. Install curl:
 
 sudo apt install curl
 Now, use curl to download the link that you copied from the Anaconda website:
 
 curl -O https://repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh
-At this point, we can verify the data integrity of the installer with cryptographic hash verification through the SHA-256 checksum. We’ll use the sha256sum command along with the filename of the script:
+At this point, we can verify the data integrity of the installer with cryptographic hash verification through the SHA-256 checksum. Weâll use the sha256sum command along with the filename of the script:
 
 sha256sum Anaconda3-2019.03-Linux-x86_64.sh
-You’ll receive output that looks similar to this:
+Youâll receive output that looks similar to this:
 
 Output
 45c851b7497cc14d5ca060064394569f724b67d9b5f98a926ed49b834a6bb73a  Anaconda3-2019.03-Linux-x86_64.sh
-You should check the output against the hashes available at the Anaconda with Python 3 on 64-bit Linux page for your appropriate Anaconda version. As long as your output matches the hash displayed in the sha2561 row, you’re good to go.
+You should check the output against the hashes available at the Anaconda with Python 3 on 64-bit Linux page for your appropriate Anaconda version. As long as your output matches the hash displayed in the sha2561 row, youâre good to go.
 
 Now we can run the script:
 
 bash Anaconda3-2019.03-Linux-x86_64.sh
-You’ll receive the following output:
+Youâll receive the following output:
 
 Output
 
@@ -522,13 +699,13 @@ In order to continue the installation process, please review the license
 agreement.
 Please, press ENTER to continue
 >>> 
-Press ENTER to continue and then press ENTER to read through the license. Once you’re done reading the license, you’ll be prompted to approve the license terms:
+Press ENTER to continue and then press ENTER to read through the license. Once youâre done reading the license, youâll be prompted to approve the license terms:
 
 Output
 Do you approve the license terms? [yes|no]
 As long as you agree, type yes.
 
-At this point, you’ll be prompted to choose the location of the installation. You can press ENTER to accept the default location, or specify a different location to modify it.
+At this point, youâll be prompted to choose the location of the installation. You can press ENTER to accept the default location, or specify a different location to modify it.
 
 Output
 Anaconda3 will now be installed into this location:
@@ -541,7 +718,7 @@ Anaconda3 will now be installed into this location:
 [/home/sammy/anaconda3] >>> 
 The installation process will continue. Note that it may take some time.
 
-Once installation is complete, you’ll receive the following output:
+Once installation is complete, youâll receive the following output:
 
 Output
 ...
@@ -558,7 +735,7 @@ A backup will be made to: /home/sammy/.bashrc-anaconda3.bak
 You can now activate the installation by sourcing the ~/.bashrc file:
 
 source ~/anaconda3/bin/activate
-You will now be in Anaconda’s base programming environment that is automatically named base. Your prompt will change to reflect this.
+You will now be in Anacondaâs base programming environment that is automatically named base. Your prompt will change to reflect this.
 
 
 Now, you can run the conda init command to initialize your environment.
@@ -567,7 +744,7 @@ conda init
 Once you have done that, you can verify your install by making use of the conda command, for example with list:
 
 conda list
-You’ll receive output of all the packages you have available through the Anaconda installation:
+Youâll receive output of all the packages you have available through the Anaconda installation:
 
 Output
 # packages in environment at /home/sammy/anaconda3:
@@ -585,14 +762,14 @@ Anaconda virtual environments allow you to keep projects organized by Python ver
 First, we can check to see which versions of Python are available for us to use:
 
 conda search "^python$"
-You’ll receive output with the different versions of Python that you can target, including both Python 3 and Python 2 versions. Since we are using the Anaconda with Python 3 in this tutorial, you will have access only to the Python 3 versions of packages.
+Youâll receive output with the different versions of Python that you can target, including both Python 3 and Python 2 versions. Since we are using the Anaconda with Python 3 in this tutorial, you will have access only to the Python 3 versions of packages.
 
-Let’s create an environment using the most recent version of Python 3. We can achieve this by assigning version 3 to the python argument. We’ll call the environment my_env, but you’ll likely want to use a more descriptive name for your environment especially if you are using environments to access more than one version of Python.
+Letâs create an environment using the most recent version of Python 3. We can achieve this by assigning version 3 to the python argument. Weâll call the environment my_env, but youâll likely want to use a more descriptive name for your environment especially if you are using environments to access more than one version of Python.
 
 conda create --name my_env python=3
-We’ll receive output with information about what is downloaded and which packages will be installed, and then be prompted to proceed with y or n. As long as you agree, type y.
+Weâll receive output with information about what is downloaded and which packages will be installed, and then be prompted to proceed with y or n. As long as you agree, type y.
 
-The conda utility will now fetch the packages for the environment and let you know when it’s complete.
+The conda utility will now fetch the packages for the environment and let you know when itâs complete.
 
 You can activate your new environment by typing the following:
 
@@ -600,12 +777,12 @@ conda activate my_env
 With your environment activated, your command prompt prefix will change:
 
 
-Within the environment, you can verify that you’re using the version of Python that you had intended to use:
+Within the environment, you can verify that youâre using the version of Python that you had intended to use:
 
  python --version
 Output
 Python 3.7.3
-When you’re ready to deactivate your Anaconda environment, you can do so by typing:
+When youâre ready to deactivate your Anaconda environment, you can do so by typing:
 
 conda deactivate
 To target a more specific version of Python, you can pass a specific version to the python argument, like 3.5, for example:
@@ -734,7 +911,7 @@ Django contrib modules:
 'django.contrib.admin',
 'django.contrib.auth',
 'django.contrib.sessions',
-and others… fully supported.
+and othersâŠ fully supported.
 
 Important links
 Full Documentation
@@ -759,12 +936,12 @@ DATABASES = {
 
 	 SETTINGS.PY
 
-EMAIL_BACKEND = ‘django.core.mail.backends.smtp.EmailBackend’
-EMAIL_HOST = ‘smtp.gmail.com’
+EMAIL_BACKEND = âdjango.core.mail.backends.smtp.EmailBackendâ
+EMAIL_HOST = âsmtp.gmail.comâ
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
-EMAIL_HOST_USER = ‘your_account@gmail.com’
-EMAIL_HOST_PASSWORD = ‘your account’s password’
+EMAIL_HOST_USER = âyour_account@gmail.comâ
+EMAIL_HOST_PASSWORD = âyour accountâs passwordâ
 
         ((( OR )))
 		
@@ -773,7 +950,7 @@ EMAIL_HOST = "smtp.gmail.com"
 EMAIL_USE_SSL = True
 EMAIL_PORT = 465
 EMAIL_HOST_USER = "your_account@gmail.com"
-EMAIL_HOST_PASSWORD = "your account’s password"
+EMAIL_HOST_PASSWORD = "your accountâs password"
   
   VIEWS.PY
 
@@ -989,7 +1166,7 @@ Or if you use aptitude use this variant of the command:
 sudo aptitude purge linux-image-x.x.x.1-generic
 
 
-Make a note of that because that is the name of the current active kernel you don’t want to remove. Now knowing that, we need to figure out what the other—extraneous—kernels are
+Make a note of that because that is the name of the current active kernel you donât want to remove. Now knowing that, we need to figure out what the otherâextraneousâkernels are
 
 
 CREATING SWAP  AFTER LINUX INSTALLATION
