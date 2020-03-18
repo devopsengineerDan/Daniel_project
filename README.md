@@ -1154,10 +1154,27 @@ sudo apt-get-clean
 First, get the name of the kernel the system is currently running by using uname like this:
 
 -----------------------------------------------
+ARCH
+
+pacman -Ql pacman-contrib | awk -F"[/ ]" '/\/usr\/bin/ {print $NF}'
+sudo pacman purge linux-image-5.3.0-18-generic
+sudo pacman autoremove
+-----------------------------------------------
+DEBIAN
+
 uname -sr
 dpkg -l | grep linux-image | awk '{print$2}'
 sudo apt-get purge linux-image-5.3.0-18-generic
 sudo apt autoremove
+-----------------------------------------------
+FEDORA
+
+rpm -qa kernel\* |sort -V
+## dnf repoquery set negative --latest-limit ##
+## as how many old kernels you want keep ##
+dnf remove $(dnf repoquery --installonly --latest-limit=-2 -q)
+##Make Amount of Installed Kernels Permanent on Fedora## 
+installonly_limit=2
 -----------------------------------------------
 
 
