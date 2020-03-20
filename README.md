@@ -1166,6 +1166,7 @@ sudo nano /etc/pacman.conf
 ....Then edit the file....
 IgnorePkg = linux
 sudo pacman -Syu
+uname -r
 
 -----------------------------------------------
 DEBIAN
