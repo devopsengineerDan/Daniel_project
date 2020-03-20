@@ -1156,9 +1156,17 @@ First, get the name of the kernel the system is currently running by using uname
 -----------------------------------------------
 ARCH
 
+REMOVING OLD KERNELS
 pacman -Ql pacman-contrib | awk -F"[/ ]" '/\/usr\/bin/ {print $NF}'
 sudo pacman purge linux-image-5.3.0-18-generic
 sudo pacman autoremove
+
+RETAINING LTS STABLE VERSIION
+sudo nano /etc/pacman.conf
+....Then edit the file....
+IgnorePkg = linux
+sudo pacman -Syu
+
 -----------------------------------------------
 DEBIAN
 
