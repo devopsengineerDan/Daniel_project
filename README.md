@@ -252,7 +252,7 @@ loginctl terminate-session
 
 DEBIAN 10 FIREWALL CONFIGURATION
 
-Step 1  Installing UFW
+Step 1  Installing UFW7
 Debian does not install UFW by default. If you followed the entire Initial Server Setup tutorial, you will have installed and enabled UFW. If not, install it now using apt:
 
 sudo apt install ufw
@@ -436,7 +436,7 @@ https://medium.com/@adinika.15/installing-active-directory-on-windows-server-201
 
 ===============================================================================================================================================
 
-			<---SOFTWARE(ARTIFICIAL INTELLIGENCE && QUANTUM SCIENCE)--->
+			<---SOFTWARE(AI && QUANTUM SCIENCE)--->
 
 *********************************************************************
 					    			PREREQUISITES
@@ -634,7 +634,7 @@ Create a new Pull Request in GitHub.
 
 
 *********************************************************************
-						DIGITAL COMPUTATION
+						COMPUTATION
 
 *********************************************************************
 ++++++++++++++++++++++
@@ -661,6 +661,14 @@ cd anaconda3/
 source $HOME/anaconda3/bin/activate
 conda list
 conda update conda
+
++++++++++++++++++++++
+
+pip install nbdev / conda install nbdev
+conda install xeus-python -c conda-forge
+Enable  -extension manager
+        -debugger
+
 +++++++++++++++++++++
 
 
