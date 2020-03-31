@@ -15,34 +15,34 @@
 (keras+ xgboost) +((youtubesklearn + tensorflow))
 #AI videos Laptop
 ‐‐----‐---‐------------
-install virt- manager
-install ofdg agent
-
-pip install nbdev / conda install nbdev
-conda install xeus-python -c conda-forge
-Enable -extension manager
--debugger
-
-youtube... STUDY.... 
-
-sql, nosql
-
------------------------
 Cybersecurity
 ------‐----------------
-Sam(Practical) source to client
+Sam(Practical) source to client+shared network+individual network
 
 ----------------------
 @Network fundamentals
 @Advance Math (ml and dl)
 @code AI Techniques
+---------------------
 !!! Attachment logbook
-School Fees Completion
-Register Units + Austin assistance
+(School Fees Completion)
+(Register Units + Austin assistance)
 --------------------
+Arch,Fedora,Debian
+install virt- manager
+install ofdg agent
+
+Arch,Fedora,Debian
+conda install xeus-python -c conda-forge
+Enable -extension manager
+-debugger
+----‐-----------------
+
 ##################
 
 LIFE
+
+
 ==============================================================================================================================================
 STUFF
 
