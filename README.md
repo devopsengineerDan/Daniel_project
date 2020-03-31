@@ -1,13 +1,48 @@
 
-----------------------
-@Network fundamentals 
+####################
+#youtube
+2networks
+6 network design
+#overview forex + FOREX
+------------------------
+#python full + youtube indian,2 django, 3flask,2graphql
+#rust
+#datastructures
 -----‐---------------
-@python extra
-@rust
+@python ninja + extra
+@ Advance rust
+‐-----------------------
+(keras+ xgboost) +((youtubesklearn + tensorflow))
+#AI videos Laptop
+‐‐----‐---‐------------
+install virt- manager
+install ofdg agent
+
+pip install nbdev / conda install nbdev
+conda install xeus-python -c conda-forge
+Enable -extension manager
+-debugger
+
+youtube... STUDY.... 
+
+sql, nosql
+
+-----------------------
+Cybersecurity
+------‐----------------
+Sam(Practical) source to client
+
+----------------------
+@Network fundamentals
 @Advance Math (ml and dl)
+@code AI Techniques
+!!! Attachment logbook
+School Fees Completion
+Register Units + Austin assistance
 --------------------
+##################
 
-
+LIFE
 ==============================================================================================================================================
 STUFF
 
