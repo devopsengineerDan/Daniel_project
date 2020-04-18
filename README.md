@@ -146,10 +146,14 @@ gsettings set org.gnome.shell.extensions.dash-to-dock background-opacity 0.2
 -------------------------------------------
 Install  dash-dock extension 
 -------------------------------------------
-ENABLE PANTHEON DESKTOP ENVIRONMENT
-sudo systemctl disable gdm.service
-sudo systemctl enable lightdm.service
+(ARCH && FEDORA) ENABLE PANTHEON DESKTOP ENVIRONMENT
+sudo systemctl disable lightdm.service
+sudo systemctl enable gdm.service
 
+(DEBIAN) ENABLE PANTHEON DESKTOP ENVIRONMENT
+sudo systemctl disable lightdm.service
+sudo systemctl enable gdm.service
+ systemctl start gdm
 
 ===============================================================================================================================================
 
