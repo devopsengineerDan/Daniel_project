@@ -145,6 +145,10 @@ gsettings set org.gnome.shell.extensions.dash-to-dock transparency-mode 'FIXED'
 gsettings set org.gnome.shell.extensions.dash-to-dock background-opacity 0.2
 -------------------------------------------
 Install  dash-dock extension 
+-------------------------------------------
+ENABLE PANTHEON DESKTOP ENVIRONMENT
+sudo systemctl disable gdm.service
+sudo systemctl enable lightdm.service
 
 
 ===============================================================================================================================================
