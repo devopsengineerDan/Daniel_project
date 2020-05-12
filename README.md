@@ -70,6 +70,14 @@ Cybersecurity
 [7:03 PM, 3/28/2019] Anthony - CEH: https://katcr.co/torrent/307838/udemy-ethical-hacking-with-metasploit-the-penetration-testing-tool.html
 
 Applying for Attachment:
+
+Networks  
+Unitel Kenya Contacts:
+0722774801
+0722782035
+info@unitel.co.ke
+Vision Plaza, Mombasa RD.
+
 Data Science    https://okhi.recruiterbox.com/jobs/fk0j7cr/
 Cybersecurity   https://www.un-yk.com/
 Freelance       Appwork
@@ -472,6 +480,93 @@ This will disable UFW and delete any rules that you have previously defined. Kee
 
 NETWORK ADMIN
 https://medium.com/@adinika.15/installing-active-directory-on-windows-server-2012-r2-e9e614770588
+
+
+
+
+
+REMOVE OLD UBUNTUUPDATEFILES FROM /boot
+
+sudo apt-get-clean
+
+First, get the name of the kernel the system is currently running by using uname like this:
+
+-----------------------------------------------
+ARCH
+
+REMOVING OLD KERNELS
+pacman -Ql pacman-contrib | awk -F"[/ ]" '/\/usr\/bin/ {print $NF}'
+sudo pacman purge linux-image-5.3.0-18-generic
+sudo pacman autoremove
+
+RETAINING LTS STABLE VERSIION
+sudo nano /etc/pacman.conf
+....Then edit the file....
+IgnorePkg = linux
+sudo pacman -Syu
+uname -r
+
+-----------------------------------------------
+DEBIAN
+
+uname -sr
+dpkg -l | grep linux-image | awk '{print$2}'
+sudo apt-get purge linux-image-5.3.0-18-generic
+sudo apt autoremove
+-----------------------------------------------
+FEDORA
+
+rpm -qa kernel\* |sort -V
+## dnf repoquery set negative --latest-limit ##
+## as how many old kernels you want keep ##
+dnf remove $(dnf repoquery --installonly --latest-limit=-2 -q)
+##Make Amount of Installed Kernels Permanent on Fedora## 
+installonly_limit=2
+-----------------------------------------------
+
+
+Or if you use aptitude use this variant of the command:
+
+sudo aptitude purge linux-image-x.x.x.1-generic
+
+
+Make a note of that because that is the name of the current active kernel you donât want to remove. Now knowing that, we need to figure out what the otherâextraneousâkernels are
+
+
+CREATING SWAP  AFTER LINUX INSTALLATION
+
+In case you don't want or you're not sure how to create a swap partition, you can create a swap file which will work in the same way as partition. Here are the steps (using terminal):
+
+Create an empty file (1K * 4M = 4 GiB).
+
+sudo mkdir -v /var/cache/swap
+cd /var/cache/swap
+sudo dd if=/dev/zero of=swapfile bs=1K count=4M
+sudo chmod 600 swapfile
+Convert newly created file into a swap space file.
+
+sudo mkswap swapfile
+Enable file for paging and swapping.
+
+sudo swapon swapfile
+Verify by: swapon -s or top:
+
+top -bn1 | grep -i swap
+Should display line like: KiB Swap:  4194300 total,  4194300 free
+
+To disable, use sudo swapoff swapfile command.
+
+Add it into fstab file to make it persistent on the next system boot.
+
+echo "/var/cache/swap/swapfile none swap sw 0 0" | sudo tee -a /etc/fstab
+Re-test swap file on startup by:
+
+sudo swapoff swapfile
+sudo swapon -va
+
+
+
+
 ===============================================================================================================================================
 
 			<---CYBER SECURITY--->
@@ -1203,90 +1298,10 @@ WINDOWS OFFICE SETUP https://getintopc.com/?s=Office+2016&submit=Search
 WINDOWS (UBUNTU TERMINAL)
 +++++++++++++++++++++++++++++++++++++++ 
 cd /mnt/c/Users/Dan/
-cd /mnt/c/Users/Dan/Desktop/Projects/ow from any to any port 5432 proto tcp
-
-UNINSTALL POSTGRESQL -> sudo apt-get --purge remove postgresql postgresql  postgresql-client  postgresql-client postgresql-client-common postgresql-common  postgresql-contrib postgresql-contrib
+cd /mnt/c/Users/Dan/Desktop/Projects/
 
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-REMOVE OLD UBUNTUUPDATEFILES FROM /boot
-
-sudo apt-get-clean
-
-First, get the name of the kernel the system is currently running by using uname like this:
-
------------------------------------------------
-ARCH
-
-REMOVING OLD KERNELS
-pacman -Ql pacman-contrib | awk -F"[/ ]" '/\/usr\/bin/ {print $NF}'
-sudo pacman purge linux-image-5.3.0-18-generic
-sudo pacman autoremove
-
-RETAINING LTS STABLE VERSIION
-sudo nano /etc/pacman.conf
-....Then edit the file....
-IgnorePkg = linux
-sudo pacman -Syu
-uname -r
-
------------------------------------------------
-DEBIAN
-
-uname -sr
-dpkg -l | grep linux-image | awk '{print$2}'
-sudo apt-get purge linux-image-5.3.0-18-generic
-sudo apt autoremove
------------------------------------------------
-FEDORA
-
-rpm -qa kernel\* |sort -V
-## dnf repoquery set negative --latest-limit ##
-## as how many old kernels you want keep ##
-dnf remove $(dnf repoquery --installonly --latest-limit=-2 -q)
-##Make Amount of Installed Kernels Permanent on Fedora## 
-installonly_limit=2
------------------------------------------------
-
-
-Or if you use aptitude use this variant of the command:
-
-sudo aptitude purge linux-image-x.x.x.1-generic
-
-
-Make a note of that because that is the name of the current active kernel you donât want to remove. Now knowing that, we need to figure out what the otherâextraneousâkernels are
-
-
-CREATING SWAP  AFTER LINUX INSTALLATION
-
-In case you don't want or you're not sure how to create a swap partition, you can create a swap file which will work in the same way as partition. Here are the steps (using terminal):
-
-Create an empty file (1K * 4M = 4 GiB).
-
-sudo mkdir -v /var/cache/swap
-cd /var/cache/swap
-sudo dd if=/dev/zero of=swapfile bs=1K count=4M
-sudo chmod 600 swapfile
-Convert newly created file into a swap space file.
-
-sudo mkswap swapfile
-Enable file for paging and swapping.
-
-sudo swapon swapfile
-Verify by: swapon -s or top:
-
-top -bn1 | grep -i swap
-Should display line like: KiB Swap:  4194300 total,  4194300 free
-
-To disable, use sudo swapoff swapfile command.
-
-Add it into fstab file to make it persistent on the next system boot.
-
-echo "/var/cache/swap/swapfile none swap sw 0 0" | sudo tee -a /etc/fstab
-Re-test swap file on startup by:
-
-sudo swapoff swapfile
-sudo swapon -va
 
 
