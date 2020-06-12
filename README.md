@@ -1,48 +1,4 @@
 
-####################
-#youtube
-2networks
-6 network design
-#overview forex + FOREX
-------------------------
-#python full + youtube indian,2 django, 3flask,2graphql
-#rust
-#datastructures
------‐---------------
-@python ninja + extra
-@ Advance rust
-‐-----------------------
-(keras+ xgboost) +((youtubesklearn + tensorflow))
-#AI videos Laptop
-‐‐----‐---‐------------
-Cybersecurity
-------‐----------------
-Sam(Practical) source to client+shared network+individual network
-
-----------------------
-@Network fundamentals
-@Advance Math (ml and dl)
-@code AI Techniques
----------------------
-!!! Attachment logbook
-(School Fees Completion)
-(Register Units + Austin assistance)
---------------------
-Arch,Fedora,Debian
-install virt- manager
-install ofdg agent
-
-Arch,Fedora,Debian
-conda install xeus-python -c conda-forge
-Enable -extension manager
--debugger
-----‐-----------------
-
-##################
-
-LIFE
-
-
 ==============================================================================================================================================
 STUFF
 
@@ -993,6 +949,43 @@ Now, when you type the conda info --envs command, the environment that you remov
 						ANALOGUE COMPUTATION
 
 *********************************************************************
+
+
+
+DJANGO
+‐-------------------
+$django-admin startproject travel_project
+$django-admin startapp travel_app
+---------------------
+$ python3 manage.py createsuperuser 
+---------------------
+
+$pip3 install pillow #image library
+$pip3 install psycopg2 #connector to db
+
+Include this in settings.py
+#app definition
+INSTALLED APP=[
+'travel.apps.Travel.config',
+]
+
+Adding image in models.py
+class Destination(models.Model):
+img=models.ImageField(upload_to='pics')
+
+
+@@@@@@@@@
+Making random migrations
+$ python3 manage.py makemigrations
+$ python3 manage.py migrate
+
+Making specific migrations
+$ python3 manage.py makemigrations
+$ python3 manage.py migrate name_ data 0001_initial
+@@@@@@@@@
+
+
+
 
 
 django-admin startproject heyapp ->VIEWS
