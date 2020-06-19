@@ -61,6 +61,13 @@ IMEI:358147090839744
 
 KRA engineerDan@1234
 SAF @@aUrsAP@w9x.j@
+
+id 35687960
+equity acc 1520179881302
+paybill 247247
+saf 0711444518
+equity 0764465804
+
 http://portal.jkuat.ac.ke/Home/Index
 =================================
 
