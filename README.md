@@ -66,6 +66,7 @@ id 35687960
 equity acc 1520179881302
 paybill 247247
 saf 0711444518
+airtel 0733712755
 equity 0764465804
 
 http://portal.jkuat.ac.ke/Home/Index
