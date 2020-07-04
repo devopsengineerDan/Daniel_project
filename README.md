@@ -265,6 +265,11 @@ service ssh start
 loginctl list-sessions 
 loginctl terminate-session 
 ++++++++++++++++++++++++++
+ARCH FIREWALL SETUP
+sudo pacman -S ufw
+sudo ufw enable
+sudo ufw status verbose
+sudo systemctl enable ufw.service
 
 DEBIAN 10 FIREWALL CONFIGURATION
 
