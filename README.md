@@ -563,6 +563,10 @@ Install pip3          sudo apt install python3-pip
 -------
 RUST
 Install  Rust and Cargo   check online
+$ curl https://sh.rustup.rs -sSf | sh
+$ source $HOME/.cargo/env
+$ export PATH="$HOME/.cargo/bin:$PATH"
+
 Rustenv
 Install _ONCE_            pip install rustenv
 Create                    rustenv  renv
