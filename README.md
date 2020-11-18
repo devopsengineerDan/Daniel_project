@@ -567,6 +567,28 @@ $ curl https://sh.rustup.rs -sSf | sh
 $ source $HOME/.cargo/env
 $ export PATH="$HOME/.cargo/bin:$PATH"
 
+
+***************************
+
+gedit main.rs  - create and edit main.rs file
+
+rustc main.rs  -  compile program
+
+./main    -  run  program
+------------
+cargo new portfolio  - create "project folder" portfolio 
+
+cd portfolio
+
+cd src
+
+gedit main.rs
+
+cargo run
+
+***************************
+
+
 Rustenv
 Install _ONCE_            pip install rustenv
 Create                    rustenv  renv
