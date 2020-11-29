@@ -797,7 +797,10 @@ conda list
 conda update conda
 
 +++++++++++++++++++++
+SET UP JUPYTER NOTEBOOK 
+conda install -c anaconda ipykernel
 
+IN STALL DEBUGGER
 pip install nbdev / conda install nbdev
 conda install xeus-python -c conda-forge
 Enable  -extension manager
@@ -807,8 +810,19 @@ Enable  -extension manager
 
  package cache : /home/dan/anaconda3/pkgs
                           /home/dan/.conda/pkgs
+			  
+			  
+			  
        envs directories : /home/dan/anaconda3/envs
                           /home/dan/.conda/envs
+			  
+			  source $HOME/anaconda3/bin/activate
+			  
+			  conda create --name Daniel_projects
+			  conda activate Daniel_projects
+			  conda deactivate
+
+
 
 +++++++++++++++++++++++++
 
