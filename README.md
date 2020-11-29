@@ -805,8 +805,12 @@ Enable  -extension manager
 
 +++++++++++++++++++++
 
+ package cache : /home/dan/anaconda3/pkgs
+                          /home/dan/.conda/pkgs
+       envs directories : /home/dan/anaconda3/envs
+                          /home/dan/.conda/envs
 
-
++++++++++++++++++++++++++
 
 This tutorial will guide you through installing the Python 3 version of Anaconda on a Debian 10 server.
 
