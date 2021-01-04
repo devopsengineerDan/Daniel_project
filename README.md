@@ -59,7 +59,10 @@ https://findmymobile.samsung.com
 serial number:RZ8M10REVSJ
 IMEI:358147090839744
 
-KRA engineerDan@1234
+KRA 
+A012540149K
+engineerDan@1234
+
 SAF @@aUrsAP@w9x.j@
 
 id 35687960
