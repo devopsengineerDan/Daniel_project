@@ -67,6 +67,7 @@ SAF @@aUrsAP@w9x.j@
 
 id 35687960
 #equity 0764465804
+#jkuat co-op acc 01129098952900
 #equity acc 1520179881302
 #equity business paybill 247247
 saf 0711444518
