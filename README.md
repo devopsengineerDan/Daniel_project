@@ -1,4 +1,19 @@
+PPoE user 0711444518
+PPoE password 0000
+IP address 10.5.10.52 
+Gateway 10.5.10.1
+tick Firewall Router 
 
+Local Network 
+IP address 192.168.88.1
+Netmask 255.255.255.0(/24)
+tick DHCP Server 
+
+DHCP Server Range 192.168.88.10.192.168.88.254
+tick NAT 
+
+VPN
+VPN address 8ce5083f2021.sn.mynetname.net
 ==============================================================================================================================================
 STUFF
 
