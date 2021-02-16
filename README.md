@@ -1,3 +1,7 @@
+
+Law link
+https://www.qub.ac.uk/courses/undergraduate/2021/law-senior-status-llb-m101/
+
 PPoE user 0711444518
 PPoE password 0000
 IP address 10.5.10.52 
