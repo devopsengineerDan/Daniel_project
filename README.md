@@ -157,6 +157,8 @@ sudo systemctl enable gdm.service
 
 			<---NETWORKS--->
 
+VIRTUAL BOX
+
 Assigning static ip address to the local network
 
 sudo ifconfig enp9s0 192.168.92.5 netmask 255.255.0.0
@@ -217,8 +219,17 @@ service gdm3 restart
 sudo passwd root -Change password for root
 
  VIRTUAL BOX
+ 
  RAM 4096
  STORAGE 25.00GB
+ 
+ADDING GUEST EDITION ISO TO ENLARGE THE SCREEN
+# su
+# apt-get update && apt-get install -y linux-headers - $ (uname -r) 
+# cp /media/cd-rom/VBoxLinuxAdditions.run / root / 
+# chmod 755 /root/VBoxLinuxAdditions.run 
+# cd / root 
+# ./VBoxLinuxAdditions.run 
 
 
 (PHONE)TERMUX
