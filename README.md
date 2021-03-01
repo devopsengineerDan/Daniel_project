@@ -213,6 +213,12 @@ startx
 service gdm3 restart 
 
 			<---SYSTEM--->
+			
+sudo passwd root -Change password for root
+
+ VIRTUAL BOX
+ RAM 4096
+ STORAGE 25.00GB
 
 
 (PHONE)TERMUX
