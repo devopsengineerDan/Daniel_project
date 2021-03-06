@@ -183,7 +183,7 @@ EDIT THIS FILE
 default-lease-time 600;
 max-lease-time 7200;
 
-dns-update-style none;
+ddns-update-style none;
 
 authoritative;
 
