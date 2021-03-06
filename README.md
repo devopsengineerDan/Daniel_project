@@ -161,7 +161,11 @@ VIRTUAL BOX
 
 Assigning static ip address to the local network
 
+
 sudo ifconfig enp9s0 192.168.92.5 netmask 255.255.0.0
+OR sudo ifconfig eth0 192.168.92.5 netmask 255.255.0.0
+
+
 sudo route add default gw 192.168.92.1 enp9s0
 ping 192.168.92.5
 
