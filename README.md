@@ -156,8 +156,10 @@ sudo systemctl enable gdm.service
 
 
 			<---NETWORKS--->
+			
+VIRTUALBOX GUEST ADDITIONS ISO 	http://download.virtualbox.org/virtualbox/5.0.24/VBoxGuestAdditions_5.0.24.iso		
 
-VIRTUAL BOX
+VIRTUALBOX
 
 Assigning static ip address to the local network
 
