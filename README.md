@@ -164,7 +164,7 @@ VIRTUALBOX
 
 Assigning static ip address to the local network
 
-
+(((    ifconfig OR ip a    )))
 sudo ifconfig enp9s0 192.168.92.5 netmask 255.255.0.0
 OR sudo ifconfig eth0 192.168.92.5 netmask 255.255.0.0
 
