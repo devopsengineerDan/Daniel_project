@@ -157,7 +157,8 @@ sudo systemctl enable gdm.service
 
 			<---NETWORKS--->
 			
-VIRTUALBOX GUEST ADDITIONS ISO 	http://download.virtualbox.org/virtualbox/5.0.24/VBoxGuestAdditions_5.0.24.iso		
+*VIRTUALBOX GUEST ADDITIONS ISO 	http://download.virtualbox.org/virtualbox/5.0.24/VBoxGuestAdditions_5.0.24.iso		
+*install kali tools ( install katoolin)
 
 VIRTUALBOX
 
