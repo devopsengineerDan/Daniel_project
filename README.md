@@ -230,14 +230,15 @@ sudo passwd root -Change password for root
  RAM 4096
  STORAGE 25.00GB
  
-ADDING GUEST EDITION ISO TO ENLARGE THE SCREEN
+ADDING GUEST EDITION ISO TO ENLARGE THE SCREEN + OTHER FEATURES
+TERMINAL OPTION  
 # su
 # apt-get update && apt-get install -y linux-headers - $ (uname -r) 
 # cp /media/cd-rom/VBoxLinuxAdditions.run / root / 
 # chmod 755 /root/VBoxLinuxAdditions.run 
 # cd / root 
 # ./VBoxLinuxAdditions.run 
-
+UI OPTION
 
 (PHONE)TERMUX
 
