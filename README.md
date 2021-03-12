@@ -747,9 +747,9 @@ Effect changes:            python3 manage.py makemigrations
  kubectl get nodes
  minikube dashboard    ****--> OPEN DASHBOARD****
   
-
-
-
+ sudo dnf install snapd
+ sudo ln -s /var/lib/snapd/snap /snap
+ sudo snap install kubectl --classic
 
 
 ------------------
