@@ -564,7 +564,7 @@ FEDORA
 rpm -qa kernel\* |sort -V
 ## dnf repoquery set negative --latest-limit ##
 ## as how many old kernels you want keep ##
-dnf remove $(dnf repoquery --installonly --latest-limit=-2 -q)
+sudo dnf remove $(dnf repoquery --installonly --latest-limit=-2 -q)
 ##Make Amount of Installed Kernels Permanent on Fedora## 
 installonly_limit=2
 -----------------------------------------------
@@ -703,6 +703,43 @@ Deactivate                deactivate
 Effect changes:            python3 manage.py makemigrations
                            python3 manage.py migrate
                            python3 manage.py runserver
+--------------------------------------------------------------------------
+ DOCKER
+ 
+ INITIAL DOCKER SETUP
+ sudo dnf remove docker-*
+ sudo dnf config-manager --disable docker-*
+ sudo grubby --update-kernel=ALL --args="systemd.unified_cgroup_hierarchy=0"sudo firewall-cmd --permanent --zone=trusted --  add-interface=docker0
+ sudo firewall-cmd --permanent --zone=FedoraWorkstation --add-masquerade
+ sudo dnf install moby-engine docker-compose
+ sudo systemctl enable docker
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KUBERNETES
+ 
+ INITIAL KUBERNETES SETUP
+ curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-latest.x86_64.rpm
+ sudo rpm -ivh minikube-latest.x86_64.rpm
+ sudo dnf install @virtualization
+ sudo systemctl start libvirtd
+ sudo systemctl enable libvirtd
+ sudo usermod --append --groups libvirt $(whoami)
+ minikube start
+ minikube kubectl -- get pods
+ alias kubectl="minikube kubectl --" 
+ kubectl get nodes
+ minikube dashboard    ****--> OPEN DASHBOARD****
+  
+
+
+
+
 
 ------------------
 Personal github 4f41ea34f379e4e0dc151e6964c6468f4807e3c5
