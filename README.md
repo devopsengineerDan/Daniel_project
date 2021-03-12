@@ -320,7 +320,33 @@ sudo ufw enable
 sudo ufw status verbose
 sudo systemctl enable ufw.service
 
-DEBIAN 10 FIREWALL CONFIGURATION
+FEDORA FIREWALL SETUP
+Installing firewalld
+Install firewalld:
+Run this command on the command line:
+
+sudo dnf install firewalld
+Starting firewalld
+Start firewalld, by entering the following commands:
+
+$ sudo systemctl unmask firewalld
+$ sudo systemctl start firewalld
+To make firewalld start automatically at system start:
+
+$ sudo systemctl enable firewalld
+Stopping firewalld
+To stop firewalld, enter the following command as root:
+
+$ sudo systemctl stop firewalld
+Prevent firewalld from starting automatically at system start, enter the following command as root:
+
+$ sudo systemctl disable firewalld
+Make sure firewalld is not started by accessing the firewalld D-Bus interface and also if other services require firewalld, enter the following command as root:
+
+$ sudo systemctl mask firewalld
+
+
+DEBIAN 10 FIREWALL SETUP
 
 Step 1  Installing UFW7
 Debian does not install UFW by default. If you followed the entire Initial Server Setup tutorial, you will have installed and enabled UFW. If not, install it now using apt:
