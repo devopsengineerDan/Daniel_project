@@ -733,6 +733,15 @@ Effect changes:            python3 manage.py makemigrations
  
  
  KUBERNETES
+ @@@@@@@@@@@@@@@@@@
+kubectl, the command line tool for interacting with Kubernetes
+
+minikube, a Kubernetes cluster manager, for small development and testing clusters
+
+A single-node Kubernetes cluster, running in a VM.
+
+The Kubernetes Dashboard and a simple Pod, to test out the cluster
+@@@@@@@@@@@@@@@@@@@
  
  INITIAL KUBERNETES SETUP
  curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-latest.x86_64.rpm
@@ -750,6 +759,8 @@ Effect changes:            python3 manage.py makemigrations
  sudo dnf install snapd
  sudo ln -s /var/lib/snapd/snap /snap
  sudo snap install kubectl --classic
+
+
 
 
 ------------------
