@@ -620,10 +620,21 @@ sudo swapon -va
 ===============================================================================================================================================
 
 			<---SOFTWARE (QUANTUM AI, QUANTUM ,AI && DIGITAL) COMPUTATION--->
+		
+                                            DESIGN PATTERNS FOR SOFTWARE ENGINEERS
+ 
+1 Observer                                    3 Facade
+2 Strategy                       4 Singleton           5  Adapter/ Bridge
+  
+  
+  
+1 Principal software engineer                  2 Software Architect
+                                 3 Lead software engineer           5 Junior software engineer
+                                 4 Senior software engineer
 
-*********************************************************************
+***********************************************************************************************************************************************
 					    			PREREQUISITES
-*********************************************************************
+***********************************************************************************************************************************************
 STATIC TYPING PYTHON
 
 Install mypy 
