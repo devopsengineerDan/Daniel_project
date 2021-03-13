@@ -567,6 +567,14 @@ rpm -qa kernel\* |sort -V
 sudo dnf remove $(dnf repoquery --installonly --latest-limit=-2 -q)
 ##Make Amount of Installed Kernels Permanent on Fedora## 
 installonly_limit=2
+
+
+
+FEDORA GRUB INSTALL 
+
+sudo dnf reinstall grub2-efi-x64 shim-x64
+sudo grub2-mkconfig -o /boot/efi/EFI/fedora/grub.cfg
+
 -----------------------------------------------
 
 
