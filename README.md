@@ -1684,7 +1684,9 @@ Stock price prediction is a machine learning project for beginners; in this tuto
 DJANGO
 ‐-------------------
 $django-admin startproject travel_project
-$django-admin startapp travel_app
+(NOT SURE)$django-admin startapp travel_app 
+(NOT SURE)$django startproject travel_project (wsgi, setting)
+$ python3 manage.py startapp travel_app  (view, models, templates)
 ---------------------
 $ python3 manage.py createsuperuser 
 ---------------------
