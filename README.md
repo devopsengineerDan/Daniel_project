@@ -1687,6 +1687,7 @@ $django-admin startproject travel_project
 (NOT SURE)$django-admin startapp travel_app 
 (NOT SURE)$django startproject travel_project (wsgi, setting)
 $ python3 manage.py startapp travel_app  (view, models, templates)
+
 ---------------------
 $ python3 manage.py createsuperuser 
 ---------------------
@@ -1987,7 +1988,9 @@ Flask Application structure
     |-start.sh
  
 -----------------------------------------------------------------------------------------------------------
-Flask
+FLASK 
+pip3 install -r requirements.txt
+pip3 freeze > requirements.txt
 
  Application 
   
@@ -2019,7 +2022,9 @@ six==1.15.0
 SQLAlchemy==1.3.18
 Werkzeug==1.0.1
 ---------------------------------------
-Django
+DJANGO
+pip3 install -r requirements.txt
+pip3 freeze > requirements.txt
 
 Application
 
