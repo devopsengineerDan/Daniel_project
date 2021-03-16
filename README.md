@@ -1719,8 +1719,8 @@ $ python3 manage.py migrate name_ data 0001_initial
 
 
 
-django-admin startproject heyapp ->VIEWS
-django-admin startproject heyapp .  ->WSGI
+django-admin startproject heyapp (wsgi, setting)
+django-admin startproject heyapp . (view, models, templates)
  
 
 
