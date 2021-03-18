@@ -942,8 +942,8 @@ conda update conda
 SET UP JUPYTER NOTEBOOK 
 conda install -c anaconda ipykernel
 
-IN STALL DEBUGGER
-pip install nbdev / conda install nbdev
+INSTALL DEBUGGER
+pip install nbdev conda install nbdev
 conda install xeus-python -c conda-forge
 Enable  -extension manager
         -debugger
