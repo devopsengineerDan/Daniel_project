@@ -229,6 +229,13 @@ service gdm3 restart
 			
 sudo passwd root -Change password for root
 
+CHECK SYSTEM INFO
+lscpu
+
+CHECK NUMBBER OF CORES AND THREADS
+lscpu | grep -E '^Thread|^Core|^Socket|^CPU\('
+
+
  VIRTUAL BOX
  
  RAM 4096
