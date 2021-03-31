@@ -110,6 +110,7 @@ http://portal.jkuat.ac.ke/Home/Index
 						     <--  SYSTEM UI AND INPUT/OUTPUT -->
 
 MAINTENANCE OF SSD
+sudo systemctl enable fstrim.timer
 systemctl status fstrim.timer 
 
 
