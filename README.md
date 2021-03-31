@@ -109,6 +109,10 @@ http://portal.jkuat.ac.ke/Home/Index
 								    
 						     <--  SYSTEM UI AND INPUT/OUTPUT -->
 
+MAINTENANCE OF SSD
+systemctl status fstrim.timer 
+
+
 GRUB RESCUE ERROR FIX
 
 sudo update-grub2
