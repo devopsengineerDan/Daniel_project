@@ -242,17 +242,21 @@ service gdm3 restart
 			
 sudo passwd root -Change password for root
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 CHECK SYSTEM INFO
 lscpu
 
 CHECK NUMBBER OF CORES AND THREADS
 lscpu | grep -E '^Thread|^Core|^Socket|^CPU\('
 
-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
  VIRTUAL BOX
  
  RAM 4096
- STORAGE 25.00GB
+ STORAGE 200.00GB
+ 
+ INSTALL VIRTUALBOX IN UBUNTU
+ sudo apt install virtualbox
  
 ADDING GUEST EDITION ISO TO ENLARGE THE SCREEN + OTHER FEATURES
 TERMINAL OPTION  
@@ -338,6 +342,30 @@ service ssh start
 loginctl list-sessions 
 loginctl terminate-session 
 ++++++++++++++++++++++++++
+                                        
+UPGRADING TO UBUNTU 20.4
+
+
+sudo apt update && sudo apt upgrade
+sudo reboot command
+
+sudo apt --purge autoremove  Remove old unused kernels
+
+sudo apt install update-manager-core
+sudo do-release-upgrade
+sudo do-release-upgrade -d   Pass the -d option to get the latest supported release forcefully
+sudo reboot
+
+lsb_release -a
+
+
+Verify Linux kernel version and other log files
+tail -f /var/log/my-app.log
+uname -mrs
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+FIREWALL CONFIGURATION 
+
 ARCH FIREWALL SETUP
 sudo pacman -S ufw
 sudo ufw enable
