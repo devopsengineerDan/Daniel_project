@@ -174,9 +174,6 @@ sudo systemctl enable gdm.service
 
 			<---NETWORKS--->
 			
-*VIRTUALBOX GUEST ADDITIONS ISO 	http://download.virtualbox.org/virtualbox/5.0.24/VBoxGuestAdditions_5.0.24.iso		
-*install kali tools ( install katoolin)
-
 VIRTUALBOX
 
 Assigning static ip address to the local network
@@ -241,22 +238,29 @@ service gdm3 restart
 			<---SYSTEM--->
 			
 sudo passwd root -Change password for root
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-CHECK SYSTEM INFO
-lscpu
-
-CHECK NUMBBER OF CORES AND THREADS
-lscpu | grep -E '^Thread|^Core|^Socket|^CPU\('
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
- VIRTUAL BOX
  
- RAM 4096
- STORAGE 200.00GB
+(PHONE)TERMUX
+
+pkg install lynx
+termux-setup-storage
+
+Install Genymotion (ANDROID EMULATOR)
+sudo apt update
+sudo apt install virtualbox
+Download Genymotion from the official website of Genymotion 
+ls -l ~/Downloads/
+chmod +x ~/Downloads/genymotion-3.0.2-linux_x64.bin
+sudo ~/Downloads/genymotion-3.0.2-linux_x64.bin
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VIRTUAL BOX
  
- INSTALL VIRTUALBOX IN UBUNTU
- sudo apt install virtualbox
+RAM 4096
+STORAGE 200.00GB
+ 
+INSTALL VIRTUALBOX IN UBUNTU
+sudo apt install virtualbox
  
 ADDING GUEST EDITION ISO TO ENLARGE THE SCREEN + OTHER FEATURES
 TERMINAL OPTION  
@@ -268,17 +272,24 @@ TERMINAL OPTION
 # ./VBoxLinuxAdditions.run 
 UI OPTION
 
-(PHONE)TERMUX
 
-pkg install lynx
-termux-setup-storage
+*VIRTUALBOX GUEST ADDITIONS ISO 	http://download.virtualbox.org/virtualbox/5.0.24/VBoxGuestAdditions_5.0.24.iso		
+*install kali tools ( install katoolin)
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+CHECK SYSTEM INFO
+lscpu
 
+CHECK NUMBBER OF CORES AND THREADS
+lscpu | grep -E '^Thread|^Core|^Socket|^CPU\('
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 (PC)
 			
 Set flash sudo users
 
 sudo adduser dan vboxusers
+
 -------------------------------------------
 Set up ssh on host machine
 
