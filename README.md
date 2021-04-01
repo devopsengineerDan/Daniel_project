@@ -347,13 +347,13 @@ UPGRADING TO UBUNTU 20.4
 
 
 sudo apt update && sudo apt upgrade
-sudo reboot command
+sudo reboot 
 
-sudo apt --purge autoremove  Remove old unused kernels
+sudo apt --purge autoremove  ->Remove old unused kernels
 
 sudo apt install update-manager-core
 sudo do-release-upgrade
-sudo do-release-upgrade -d   Pass the -d option to get the latest supported release forcefully
+sudo do-release-upgrade -d   ->Pass the -d option to get the latest supported release forcefully
 sudo reboot
 
 lsb_release -a
