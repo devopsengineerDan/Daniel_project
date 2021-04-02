@@ -2,6 +2,7 @@
 0769 863503 Kiarie
 
 Cybersecurity firms 
+onsite cybersecurity firm  contact Sam for location
 Safaricom
 Serianu
 Sentinel
