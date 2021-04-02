@@ -716,7 +716,10 @@ Install mypy
 -------
 PYTHON
 Install python dev    sudo apt-get install build-essential libssl-dev libffi-dev python3-dev
+                      python3 -m pip install python-dev-tools --user --upgrade
 Install pip3          sudo apt install python3-pip
+                      python -m pip install --upgrade pip
+
 
 -------
 RUST
