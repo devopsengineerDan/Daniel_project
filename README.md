@@ -1156,7 +1156,7 @@ git config --global user.name "DancunManyinsa"
 git config --global user.email "dancunmanyinsait@gmail.com"
 
 
-HEROKU  ((( H - Conard@92 )))
+HEROKU  ((( H - Conardmomanyi@1 )))
 
 
 web: gunicorn waweru.wsgi --log-file -
