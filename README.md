@@ -1009,6 +1009,14 @@ my decisions that you can choose the most SOLID & Pythonic implementation in the
 ***********************************************************************************************************************************************
 					    			PREREQUISITES
 ***********************************************************************************************************************************************
+
+PYCHARM IDE SLOW PROCESS SOLUTION
+
+nano /etc/sysctl.conf
+fs.inotify.max_user_watches = 524288
+
+
+
 STATIC TYPING PYTHON
 
 Install mypy 
