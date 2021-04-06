@@ -1164,7 +1164,7 @@ git config --global user.name "DancunManyinsa"
 git config --global user.email "dancunmanyinsait@gmail.com"
 
 
-HEROKU  ((( H - Conardmomanyi@1 )))
+HEROKU  ((( H - Conardmomanyi@1 ))) GITHUB  ->  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 
 
 
 web: gunicorn waweru.wsgi --log-file -
