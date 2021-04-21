@@ -85,23 +85,25 @@ web: gunicorn waweru.wsgi --log-file -
 PHONE BACKUP
 
 https://findmymobile.samsung.com
-serial number:RZ8M10REVSJ
-IMEI:358147090839744
+Model number:  SM-G950FD 
+Serial number: RF8K21X3L2K
+IMEI (slot 1): 355258091801717
+IMEI (slot 1): 355259091801715
 
 KRA 
 A012540149K
 engineerDaniel@1234
 
-SAF @@aUrsAP@w9x.j@
+SAF PORTAL: @@aUrsAP@w9x.j@
 
-id 35687960
-#equity 0764465804
-#jkuat co-op acc 01129098952900
-#equity acc 1520179881302
-#equity business paybill 247247
-saf 0711444518
-airtel 0733712755
-telkom 0778860407
+ID: 35687960
+#equity: 0764465804
+#jkuat co-op acc: 01129098952900
+#equity acc: 1520179881302
+#equity business paybill: 247247
+saf: 0711444518
+airtel: 0733712755
+telkom: 0778860407
 
 
 http://portal.jkuat.ac.ke/Home/Index
