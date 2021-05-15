@@ -1,6 +1,12 @@
 0752417150 Driver
 0769 863503 Kiarie
 
+-------------------
+https://foht.co.ke/  Software Engineer
+https://thintech.co.ke/  Consultance
+
+-------------------
+
 Cybersecurity firms 
 onsite cybersecurity firm  contact Sam for location
 Safaricom
