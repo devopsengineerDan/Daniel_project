@@ -1187,6 +1187,9 @@ sudo snap install --classic heroku
 wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
 
 
+******CLONE FROM HEROKU*******
+heroku git:clone -a mathematician/your_app_name
+
 
 Collectstatic error while deploying Django app to Heroku
 
