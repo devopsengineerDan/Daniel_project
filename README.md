@@ -2246,6 +2246,15 @@ def email(request):
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 ===========================================================
 WINDOWS AND UBUNTU
+
+sudo apt install postgresql postgresql-contrib -> UBUNTU
+sudo dnf install postgresql postgresql-contrib -> FEDORA
+ 
+
+
+sudo systemctl start postgresql
+sudo systemctl enable postgresql
+
 sudo systemctl enable postgresql
 sudo service postgresql restart
 
