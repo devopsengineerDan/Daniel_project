@@ -366,8 +366,18 @@ service ssh start
 loginctl list-sessions 
 loginctl terminate-session 
 ++++++++++++++++++++++++++
+
+
+
+UPGRADING TO FEDORA HIGHER VERSION e.g 34
+
+sudo dnf upgrade --refresh
+sudo dnf install dnf-plugin-system-upgrade
+sudo dnf system-upgrade download --releasever=34
+
+
                                         
-UPGRADING TO UBUNTU 20.4
+UPGRADING TO UBUNTU HIGHER VERSION
 
 
 sudo apt update && sudo apt upgrade
