@@ -182,6 +182,14 @@ sudo systemctl disable lightdm.service
 sudo systemctl enable gdm.service
  systemctl start gdm
 
+(UBUNTU 20- ONWARDS )XFCE INSTALLATION 
+sudo add-apt-repository ppa:xubuntu-dev/staging
+sudo apt update
+
+sudo apt upgrade
+sudo apt install xubuntu-desktop
+
+
 ===============================================================================================================================================
 
 
