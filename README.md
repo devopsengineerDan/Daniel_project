@@ -382,7 +382,9 @@ UPGRADING TO FEDORA HIGHER VERSION e.g 34
 sudo dnf upgrade --refresh
 sudo dnf install dnf-plugin-system-upgrade
 sudo dnf system-upgrade download --releasever=34
+sudo dnf system-upgrade reboot
 sudo dnf system-upgrade clean
+sudo dnf clean packages
 
                                         
 UPGRADING TO UBUNTU HIGHER VERSION
