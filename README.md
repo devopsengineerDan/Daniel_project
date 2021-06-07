@@ -712,7 +712,17 @@ Re-test swap file on startup by:
 
 sudo swapoff swapfile
 sudo swapon -va
+===============================================================================================================================================
+                        <------DEVOPS------->
 
+#install docker
+sudo docker ps  - show no. of running pods
+*sudo docker run –d –p  3000:80 daniel/helloworld –create app daniel and run instance 3000 of that specific container
+*sudo docker run –d –p  3001:80 daniel/helloworld –create app daniel and run instance 3001 of that specific container
+* sudo docker kill 607800a4d691 bcb86e3a2972 -  container id of 3001 and container id of 3002
+#install minikube – local host testing platform of kuberenetes
+#install kubectl – command line tool to interact with kubernetes  cluster
+minikube start
 
 
 
@@ -723,7 +733,7 @@ sudo swapon -va
 
 ===============================================================================================================================================
 
-			<---SOFTWARE (QUANTUM AI, QUANTUM ,AI && DIGITAL) COMPUTATION--->
+			<---SOFTWARE ENGINEERING (QUANTUM AI, QUANTUM MECHANICS ,AI && DIGITAL COMPUTING) : (ELECTRONICS AND MECHANICS)--->
 		
                                             DESIGN PATTERNS FOR SOFTWARE ENGINEERS
  
