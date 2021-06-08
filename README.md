@@ -301,7 +301,7 @@ UI OPTION
 CHECK SYSTEM INFO
 lscpu
 
-CHECK NUMBBER OF CORES AND THREADS
+CHECK NUMBER OF CORES AND THREADS
 lscpu | grep -E '^Thread|^Core|^Socket|^CPU\('
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -666,7 +666,7 @@ installonly_limit=2
 
 
 
-FEDORA GRUB INSTALL 
+FEDORA GRUB INSTALL ???? COMPLEX ????
 
 sudo dnf reinstall grub2-efi-x64 shim-x64
 sudo grub2-mkconfig -o /boot/efi/EFI/fedora/grub.cfg
@@ -1104,7 +1104,8 @@ cargo run
 
 ***************************
 
-
+        ******DEVELOPMENT ENVIRONMENT******
+	
 Rustenv
 Install _ONCE_            pip install rustenv
 Create                    rustenv  renv
@@ -1129,7 +1130,7 @@ NEW Python env
 
 Install pip3 _ONCE_    sudo apt install python3-pip
 
-Install _ONCE_             pip install pipenv
+Install _ONCE_             pip3 install pipenv
 *************************
 $ which python3.7
 *************************
@@ -1154,12 +1155,6 @@ Effect changes:            python3 manage.py makemigrations
  sudo firewall-cmd --permanent --zone=FedoraWorkstation --add-masquerade
  sudo dnf install moby-engine docker-compose
  sudo systemctl enable docker
-
- 
- 
- 
- 
- 
  
  
  KUBERNETES
