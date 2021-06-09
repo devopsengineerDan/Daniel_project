@@ -1145,6 +1145,10 @@ Deactivate                deactivate
 Effect changes:            python3 manage.py makemigrations
                            python3 manage.py migrate
                            python3 manage.py runserver
+			   
+			   
+			   NOTE import error cv2
+			   ****************pip install opencv-contrib-python*******
 --------------------------------------------------------------------------
  DOCKER
  
