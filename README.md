@@ -1158,8 +1158,8 @@ Effect changes:            python3 manage.py makemigrations
  			   cd /usr/lib/python3/dist-packages/gi
 			   sudo ln -s _.cpython-{36m,37m}-x86_64-linux-gnu.so
 			   
-			   pip install gobject PyGObject
-
+			   pip install gobject PyGObject -> run pycharm to create sound when drowsy
+                           pip uninstall gobject PyGObject -> open kivy window then redo step one
 --------------------------------------------------------------------------
 KIVY
 
