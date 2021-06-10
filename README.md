@@ -1148,13 +1148,17 @@ Effect changes:            python3 manage.py makemigrations
 			   
 			   
 			   ********NOTE**********
-			   import cv2 error
+			  -> import cv2 error
 			   pip install opencv-contrib-python
 			   
-			   import gi error(sound)
+			  -> import gi error(sound)
 			   sudo apt-get install python3-gi
                            sudo apt-get install pkg-config libcairo2-dev gcc python3-dev libgirepository1.0-dev
-                           pip install gobject PyGObject
+			  
+ 			   cd /usr/lib/python3/dist-packages/gi
+			   sudo ln -s _.cpython-{36m,37m}-x86_64-linux-gnu.so
+			   
+			   pip install gobject PyGObject
 
 --------------------------------------------------------------------------
 KIVY
