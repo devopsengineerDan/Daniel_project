@@ -1150,6 +1150,27 @@ Effect changes:            python3 manage.py makemigrations
 			   NOTE import error cv2
 			   ****************pip install opencv-contrib-python*******
 --------------------------------------------------------------------------
+KIVY
+
+buildozer init
+
+######Edit spec file########
+# (str) Title of your application
+title = Driver-Drowsiness-Detection
+# (str) Package name
+package.name = Driver-Drowsiness-Detection package
+# (str) Package domain (needed for android/ios packaging)
+package.domain = org.dancun
+# (list) Source files to include (let empty to include all the files)
+source.include_exts = py,png,jpg,kv,atlas
+# comma separated e.g. requirements = sqlite3,kivy
+requirements = python3,kivy,kivymd,cv2,dlib,playsound,scipy,imutils,pygame
+# (str) Android logcat filters to use
+android.logcat_filters = *:S python:D
+
+buildozer android deploy run
+
+--------------------------------------------------------------------------
  DOCKER
  
  INITIAL DOCKER SETUP
