@@ -1148,8 +1148,12 @@ Effect changes:            python3 manage.py makemigrations
 			   
 			   
 			   ********NOTE**********
+			   
 			  -> import cv2 error
 			   pip install opencv-contrib-python
+			   
+			  -> import dlib error (fedora)
+			   sudo dnf install python3-dlib
 			   
 			  -> import gi error(sound)
 			   sudo apt-get install python3-gi
