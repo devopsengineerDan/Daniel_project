@@ -167,9 +167,11 @@ exit
 =================================
 UBUNTU TRANSPARENCY(MENU BAR AND TAB)
 Install (Dynamic Panel Transparency ) in ubuntu softwares
+
 -------------------------------------------
 gsettings set org.gnome.shell.extensions.dash-to-dock transparency-mode 'FIXED'
 gsettings set org.gnome.shell.extensions.dash-to-dock background-opacity 0.2
+
 -------------------------------------------
 Install  dash-dock extension 
 -------------------------------------------
@@ -255,6 +257,10 @@ sudo service NetworkManager stop
 MICROTIK
 startx
 service gdm3 restart 
+
+NETWORK ADMIN
+https://medium.com/@adinika.15/installing-active-directory-on-windows-server-2012-r2-e9e614770588
+
 
 			<---SYSTEM--->
 			
@@ -394,6 +400,7 @@ sudo apt update && sudo apt upgrade
 sudo reboot 
 
 sudo apt --purge autoremove  ->Remove old unused kernels
+
 
 sudo apt install update-manager-core
 sudo do-release-upgrade
@@ -619,12 +626,10 @@ sudo ufw reset
 This will disable UFW and delete any rules that you have previously defined. Keep in mind that the default policies wont change to their original settings if you modified them at any point. This should give you a fresh start with UFW.
 
 
-NETWORK ADMIN
-https://medium.com/@adinika.15/installing-active-directory-on-windows-server-2012-r2-e9e614770588
 
 
 
-
+----------------------------------------------------
 
 REMOVE OLD UBUNTUUPDATEFILES FROM /boot
 
@@ -634,8 +639,8 @@ First, get the name of the kernel the system is currently running by using uname
 
 -----------------------------------------------
 ARCH
-
 REMOVING OLD KERNELS
+
 pacman -Ql pacman-contrib | awk -F"[/ ]" '/\/usr\/bin/ {print $NF}'
 sudo pacman purge linux-image-5.3.0-18-generic
 sudo pacman autoremove
@@ -649,13 +654,17 @@ uname -r
 
 -----------------------------------------------
 DEBIAN
+REMOVING OLD KERNELS
 
 uname -sr
 dpkg -l | grep linux-image | awk '{print$2}'
 sudo apt-get purge linux-image-5.3.0-18-generic
 sudo apt autoremove
+sudo journalctl --vacuum-time=3d
+
 -----------------------------------------------
 FEDORA
+REMOVING OLD KERNELS
 
 rpm -qa kernel\* |sort -V
 ## dnf repoquery set negative --latest-limit ##
@@ -681,6 +690,7 @@ sudo aptitude purge linux-image-x.x.x.1-generic
 
 Make a note of that because that is the name of the current active kernel you donât want to remove. Now knowing that, we need to figure out what the otherâextraneousâkernels are
 
+------------------------------------------------
 
 CREATING SWAP  AFTER LINUX INSTALLATION
 
