@@ -1767,7 +1767,8 @@ Log in with docker login and repeat the push attempt. Then verify that it exists
 You can now use docker pull sammy/ubuntu-nodejs to pull the image to a new machine and use it to run a new container.
 
 ********************************************************************************************************************
-KUBERNETES 
+
+KUBERNETES https://linuxconfig.org/how-to-install-kubernetes-on-ubuntu-20-04-focal-fossa-linux
 
 Install Docker
 
@@ -1913,7 +1914,8 @@ GIT FIRST ATTEMPT
 
 git config --global user.name "DancunManyinsa"
 git config --global user.email "dancunmanyinsait@gmail.com"
-
+git config --global user.name "devopsengineerDan"
+git config --global user.email "devopsengineerdan@gmail.com"
 
 HEROKU  ((( H - Conardmomanyi@1 ))) GITHUB  ->  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 
 
