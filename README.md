@@ -1131,9 +1131,13 @@ OLD Python env
             _ONCE_ 1st)Install   sudo apt-get install python3-venv 
                    2nd)Create    virtualenv -p /usr/bin/python3.7 venv
 Activate env:      source venv/bin/activate 
+
 Install pip/pip3 _ONCE_    curl https://bootstrap.pypa.io/get-pip.py | python
+Upgrade                    pip install --upgrade pip
+
 Installation of dep        pip3 install -r requirements.txt
                            pip3 install -r requirements.txt --upgrade
+			   
 Deactivate                 deactivate
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 NEW Python env
