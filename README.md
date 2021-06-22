@@ -258,7 +258,7 @@ MICROTIK
 startx
 service gdm3 restart 
 
-NETWORK ADMIN
+NETWORK ADMIN WINDOWS 
 https://medium.com/@adinika.15/installing-active-directory-on-windows-server-2012-r2-e9e614770588
 
 
