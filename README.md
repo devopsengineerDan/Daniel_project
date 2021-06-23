@@ -127,14 +127,23 @@ sudo systemctl enable fstrim.timer
 systemctl status fstrim.timer 
 
 
-GRUB RESCUE ERROR FIX
-
+GRUB RESCUE ERROR FIX UBUNTU
 sudo update-grub2
 sudo grub-install /dev/sda
 
 sudo add-apt-repository -y ppa:yannubuntu/boot-repair
 sudo apt-get update
 sudo apt-get install -y boot-repair && boot-repair
+
+
+WINDOW DISPLAY ERROR && UNRENSPONSIVE MOUSE UBUNTU
+dpkg -l | grep linux-image | awk '{print$2}'
+sudo apt-get install linux-image-5.3.0-18-generic
+
+sudoedit /etc/gdm3/custom.conf
+->edit 
+remove # in wayland to enable it
+sudo systemctl restart gdm3
 
 =================================
 
@@ -185,6 +194,9 @@ sudo systemctl enable gdm.service
  systemctl start gdm
 
 (UBUNTU 20- ONWARDS )XFCE INSTALLATION 
+sudo apt install xfce4
+        (OR)
+	
 sudo add-apt-repository ppa:xubuntu-dev/staging
 sudo apt update
 
