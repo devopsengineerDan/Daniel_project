@@ -210,18 +210,36 @@ sudo apt install xubuntu-desktop
 
 
 			<---NETWORKS--->
-			
-VIRTUALBOX
 
 Assigning static ip address to the local network
 
+LINUX
+
 (((    ifconfig OR ip a    )))
 sudo ifconfig enp9s0 192.168.92.5 netmask 255.255.0.0
-OR sudo ifconfig eth0 192.168.92.5 netmask 255.255.0.0
+  OR  sudo ifconfig eth0 192.168.92.5 netmask 255.255.0.0
 
 
 sudo route add default gw 192.168.92.1 enp9s0
+  OR  sudo route add default gw 192.168.92.1 eth0
 ping 192.168.92.5
+
+WINDOWS
+
+To set a static IP address in Windows 7, 8, and 10:
+
+    Click Start Menu > Control Panel > Network and Sharing Center or Network and Internet > Network and Sharing Center.
+    Click Change adapter settings.
+    Right-click on Wi-Fi or Local Area Connection.
+    Click Properties.
+    Select Internet Protocol Version 4 (TCP/IPv4).
+    Click Properties. 
+    Select Use the following IP address.
+    Enter the IP address, Subnet mask, Default gateway, and DNS server.
+    Click OK.
+    Your computer displays a static IP address.
+
+
 
 Assigning dynamic ip address to the local network
 
