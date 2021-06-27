@@ -268,7 +268,7 @@ subnet 192.168.92.0 netmask 255.255.255.0{
 
 host Windows7{
 	hardware ethernet 00:0c:29:e6:75:b9;
-	fixed-address 192.168.92.1;
+	fixed-address 192.168.92.7;
 }
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 sudo systemctl restart isc-dhcp-server
