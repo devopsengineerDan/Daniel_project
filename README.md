@@ -226,7 +226,7 @@ ping 192.168.92.5
 
 WINDOWS
 
-To set a static IP address in Windows 7, 8, and 10:
+1)To set a static IP address in Windows 7, 8, and 10:
 
     Click Start Menu > Control Panel > Network and Sharing Center or Network and Internet > Network and Sharing Center.
     Click Change adapter settings.
@@ -238,7 +238,7 @@ To set a static IP address in Windows 7, 8, and 10:
     Enter the IP address, Subnet mask, Default gateway, and DNS server.
     Click OK.
     Your computer displays a static IP address.
-
+2)Turn off firewall if pentesting
 
 
 Assigning dynamic ip address to the local network
