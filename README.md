@@ -1246,9 +1246,15 @@ Deactivate                deactivate
 
 Effect changes:            python3 manage.py makemigrations
                            python3 manage.py migrate
-                           python3 manage.py runserver
+ 
+*************************
+
+python3 manage.py runserver
 			   
-			   
+$ chmod +x hello.py  # make script executable
+$ ./hello.py
+
+
 			   ********NOTE**********
 			   
 			  -> import cv2 error
