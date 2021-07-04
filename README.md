@@ -1224,6 +1224,8 @@ Install pip/pip3 _ONCE_    curl https://bootstrap.pypa.io/get-pip.py | python
 Upgrade                    pip install --upgrade pip
 
 Installation of dep        pip3 install -r requirements.txt
+                           OR
+			   python3 -m pip install -r requirements. txt
                            pip3 install -r requirements.txt --upgrade
 			   
 Deactivate                 deactivate
