@@ -1168,6 +1168,8 @@ PYTHON
 Install python dev    sudo apt-get install build-essential libssl-dev libffi-dev python3-dev
                       python3 -m pip install python-dev-tools --user --upgrade
 		      sudo apt install python3-setuptools
+		      sudo apt install libpq-dev
+
 		      
 		      
 Install pip3          sudo apt install python3-pip
@@ -1258,6 +1260,17 @@ $ ./hello.py
 
 
 			   ********NOTE**********
+			   DJANGO
+			   ->dev error
+			   sudo apt install libpq-dev
+
+			   ->psycopg2 error
+			   pip install psycopg2-binary 
+			   
+			   ->django_heroku error
+			   pip install django_heroku OR  pip install django-on-heroku
+			   --------------------------------------------------------------------------------------------
+                           AI && QUANTUM
 			   
 			  -> import cv2 error
 			   pip install opencv-contrib-python
@@ -1274,6 +1287,8 @@ $ ./hello.py
 			   
 			   pip install gobject PyGObject -> run pycharm to create sound when drowsy
                            pip uninstall gobject PyGObject -> open kivy window then redo step one
+			   
+			   *************************
 --------------------------------------------------------------------------
 KIVY
 
@@ -3290,7 +3305,7 @@ cd /mnt/c/Users/Dan/
 cd /mnt/c/Users/Dan/Desktop/Projects/
 
 
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 
