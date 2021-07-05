@@ -1156,6 +1156,17 @@ nano /etc/sysctl.conf
 fs.inotify.max_user_watches = 524288
 
 
+GITHUB
+
+git init
+git add README.md
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/devopsengineerDan/Driver-Drowsiness-Detection.git
+git push -u origin main
+
+
 
 STATIC TYPING PYTHON
 
