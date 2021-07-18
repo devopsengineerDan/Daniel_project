@@ -1285,6 +1285,7 @@ $ ./hello.py
 			   
 			  -> import cv2 error
 			   pip install opencv-contrib-python
+			   pip install opencv-python
 			   
 			  -> import dlib error (fedora)
 			   sudo dnf install python3-dlib
