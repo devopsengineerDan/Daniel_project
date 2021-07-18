@@ -1325,10 +1325,16 @@ sudo apt-get install libltdl-dev libffi-dev libssl-dev autoconf autotools-dev
 sudo apt install -y git zip unzip openjdk-8-jdk python3-pip autoconf libtool pkg-config zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake libffi-dev libssl-dev pip3 install --user --upgrade Cython==0.29.19 virtualenv # the --user should be removed if you do this in a venv
 add the following line at the end of your ~/.bashrc file
 
-export PATH=$PATH:~/.local/bin/
+export PATH=$PATH:~/.local/bin/ -> Temporary export and it's deleted after exiting terminal ->For permanent export use bash
 Kivy app to apk (Buildozer)
 
-git clone https://github.com/kivy/buildozer.git cd buildozer sudo python3 setup.py install buildozer init buildozer android debug (check for the bin directory -> apk)
+git clone https://github.com/kivy/buildozer.git 
+cd buildozer
+sudo python3 setup.py install 
+
+->Go to the project directory and run
+buildozer init -> Creates spec file
+buildozer android debug -> Creates apk file  (check for the bin directory -> apk)
 Pages 2
 
     Home
@@ -1342,15 +1348,15 @@ buildozer init
 
 ######Edit spec file########
 # (str) Title of your application
-title = Driver-Drowsiness-Detection
+title = Driver-Drowsiness-Detection Application
 # (str) Package name
-package.name = Driver-Drowsiness-Detection package
+package.name = Driver-Drowsiness-Detection Package
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.dancun
 # (list) Source files to include (let empty to include all the files)
 source.include_exts = py,png,jpg,kv,atlas
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3,kivy,kivymd,cv2,dlib,playsound,scipy,imutils,pygame
+requirements = python3, kivy, kivymd, cv2, dlib, playsound, scipy, imutils, pygame
 # (str) Android logcat filters to use
 android.logcat_filters = *:S python:D
 
