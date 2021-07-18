@@ -1304,6 +1304,40 @@ $ ./hello.py
 --------------------------------------------------------------------------
 KIVY
 
+Kivy Installation
+
+sudo apt-get install python3-distutils
+
+sudo python3 get-pip.py
+
+sudo apt-get install -y python3-pip build-essential git python3 python3-dev
+
+sudo apt-get install -y libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev libportmidi-dev libswscale-dev libavformat-dev libavcodec-dev zlib1g-dev
+
+sudo apt-get install cython
+
+sudo pip3 install kivy
+
+python3 main.py - code is available
+
+sudo apt-get install libltdl-dev libffi-dev libssl-dev autoconf autotools-dev
+
+sudo apt install -y git zip unzip openjdk-8-jdk python3-pip autoconf libtool pkg-config zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake libffi-dev libssl-dev pip3 install --user --upgrade Cython==0.29.19 virtualenv # the --user should be removed if you do this in a venv
+add the following line at the end of your ~/.bashrc file
+
+export PATH=$PATH:~/.local/bin/
+Kivy app to apk (Buildozer)
+
+git clone https://github.com/kivy/buildozer.git cd buildozer sudo python3 setup.py install buildozer init buildozer android debug (check for the bin directory -> apk)
+Pages 2
+
+    Home
+    Kivy app to android apk
+
+Clone this wiki locally
+
+
+
 buildozer init
 
 ######Edit spec file########
