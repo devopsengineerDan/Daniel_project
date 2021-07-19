@@ -1302,6 +1302,23 @@ $ ./hello.py
 			   
 			   *************************
 --------------------------------------------------------------------------
+UI/UX DESIGN (HUGO for WEBSITES) && (KIVY for WEB && DESKTOP APPLICATIONS AND MOBILE WEB && LOCAL APPLICATIONS
+
+HUGO
+
+hugo new site blog
+
+cd personal-blog/
+
+git init
+
+git submodule add https://github.com/vaga/hugo-theme-m10c.git
+
+hugo server --minify --theme hugo-theme-m10c
+OR 
+hugo server
+
+
 KIVY
 
 Kivy Installation
