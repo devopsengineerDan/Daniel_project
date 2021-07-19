@@ -1357,6 +1357,8 @@ package.domain = org.dancun
 source.include_exts = py,png,jpg,kv,atlas
 # comma separated e.g. requirements = sqlite3,kivy
 requirements = python3, kivy, kivymd, cv2, dlib, playsound, scipy, imutils, pygame
+
+->TO ENABLE DEBUG MODE 
 # (str) Android logcat filters to use
 android.logcat_filters = *:S python:D
 
