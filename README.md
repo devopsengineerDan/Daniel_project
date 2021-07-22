@@ -810,19 +810,6 @@ Re-test swap file on startup by:
 
 sudo swapoff swapfile
 sudo swapon -va
-===============================================================================================================================================
-                        <------DEVOPS------->
-
-#install docker
-sudo docker ps  - show no. of running pods
-*sudo docker run –d –p  3000:80 daniel/helloworld –create app daniel and run instance 3000 of that specific container
-*sudo docker run –d –p  3001:80 daniel/helloworld –create app daniel and run instance 3001 of that specific container
-* sudo docker kill 607800a4d691 bcb86e3a2972 -  container id of 3001 and container id of 3002
-#install minikube – local host testing platform of kuberenetes
-#install kubectl – command line tool to interact with kubernetes  cluster
-minikube start
-
-
 
 ===============================================================================================================================================
 
@@ -1155,8 +1142,28 @@ PYCHARM IDE SLOW PROCESS SOLUTION
 nano /etc/sysctl.conf
 fs.inotify.max_user_watches = 524288
 
+----------------
+PYINSTALLER 
+
+pyinstaller --onedir --onefile --name=passwordlocker --windowed "/home/dan/PycharmProjects/dancunmanyinsa/manage.py"
+
+
+---------------------------------------------------------------------------------------------------------
 
 GITHUB
+
+------------------
+Personal github 4f41ea34f379e4e0dc151e6964c6468f4807e3c5
+------------------
+
+GIT FIRST ATTEMPT
+
+git config --global user.name "DancunManyinsa"
+git config --global user.email "dancunmanyinsait@gmail.com"
+git config --global user.name "devopsengineerDan"
+git config --global user.email "devopsengineerdan@gmail.com"
+
+GIT PUSHING PROJECT TO GITHUB
 
 git init
 git add README.md
@@ -1166,7 +1173,7 @@ git branch -M main
 git remote add origin https://github.com/devopsengineerDan/Driver-Drowsiness-Detection.git
 git push -u origin main
 
-
+------------
 
 STATIC TYPING PYTHON
 
@@ -1302,6 +1309,13 @@ $ ./hello.py
 			   
 			   *************************
 --------------------------------------------------------------------------
+KAZAM DEMONSTRATION
+
+sudo apt install kazam
+
+On how to use Kazam Screencaster https://www.youtube.com/watch?v=ADPPpY6ZEI8
+
+
 UI/UX DESIGN (HUGO for WEBSITES) && (KIVY for WEB && DESKTOP APPLICATIONS AND MOBILE WEB && LOCAL APPLICATIONS
 
 HUGO
@@ -1381,8 +1395,138 @@ android.logcat_filters = *:S python:D
 
 buildozer android deploy run
 
---------------------------------------------------------------------------
- DOCKER
+
+
+-------------------------------------------------------------------------------
+HEROKU  ((( H - Conardmomanyi@1 ))) GITHUB  ->  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 
+
+
+web: gunicorn waweru.wsgi --log-file -
+
+*********************************************************************
+sudo snap install --classic heroku
+
+wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+*********************************************************************
+
+******CLONE FROM HEROKU*******
+
+heroku git:clone -a mathematician/your_app_name
+
+
+Collectstatic error while deploying Django app to Heroku
+
+1 disable the collectstatic during a deploy
+
+$ heroku config:set DISABLE_COLLECTSTATIC=1
+
+2 deploy
+
+$ git push heroku master
+
+3 run migrations (django 1.10 added at least one)
+
+$ heroku run python3 manage.py migrate
+
+4 run collectstatic using bower
+
+$ heroku run 'bower install --config.interactive=false;grunt prep;python3 manage.py collectstatic --noinput'
+
+5 enable collecstatic for future deploys
+
+$ heroku config:unset DISABLE_COLLECTSTATIC
+
+6 try it on your own (optional)
+
+$ heroku run python manage.py collectstatic
+GIT COLLABORATION Link http://adzumi.co.ke/blog/github_contribution
+
+As a new developer, contributing to a project can be scary. I get it,  I was there too. It took me way too long to make my first Pull Request.
+
+Contributing is also a great way to learn more about social coding on Github, new technologies and their ecosystems and how to make constructive, helpful bug reports, feature requests and the noblest of all contributions.
+
+STEP 1: SET UP A WORKING COPY ON YOUR COMPUTER
+First of all, you need a local fork of the project, so go ahead and press the âforkâ button on GitHub. This will create a copy of the repository in your own GitHub account and youâll see a note that itâs been forked underneath the project name:
+
+
+
+Now you need a copy locally, so find the clone URL in the right-hand column and use that to clone locally using a terminal:
+
+$ git clone https://github.com/lawrence254/StudentEngagement.git
+Which will do something like this:
+
+
+
+Now navigate to the project's directory:
+
+$ cd StudentEngagement
+Finally, in this stage, you need to set up a new remote that points to the original project so that you can grab any changes and bring them into your local copy. Firstly click on the link to the original repository, itâs labeled âForked fromâ at the top of the GitHub page. This takes you back to the projects main GitHub page, so you can find the Clone URL and use it to create the new remote, which weâll call upstream.
+
+$ git remote add upstream https://github.com/lawrence254/StudentEngagement.git
+You now have two remotes for this project on disk:
+
+origin which points to your GitHub fork of the project. You can read and write to this remote.
+upstream which points to the main projectâs GitHub repository. You can only read from this remote.
+STEP 2: MAKE SOME CHANGES
+This is the fun bit where you get to contribute to the project. The number one rule is to put each piece of work on its own branch. If the project is using git-flow, then it will have both a master and a development branch. The general rule is that if you are adding a new feature then branch from development. If the project only has a master branch, the branch from that. 
+
+For this example, the forked repository had a number of branches already, one of them called 'lawrence'. This is the branch the owner of the repository has been working on. Weâll assume weâre adding a feature in StudentEngagement, so we branch to that branch:
+
+$ git checkout lawrence
+$ git pull upstream lawrence && git push origin lawrence
+Firstly we ensure weâre on the master branch. Then the git pull command will sync our local copy with the upstream project and the git push syncs it to our forked GitHub project. Finally, we checkout to the 'lawrence' branch. 
+
+Now you can add a feature(Or fix a bug).
+
+If the project has tests, run them to ensure you havenât broken anything. You may also add a new test to show that your change fixes the original problem.
+
+STEP 3: CREATE A PULL REQUEST
+To create a Pull Request you need to push your branch to the origin remote and then press some buttons on GitHub.
+
+To push the new branch:
+
+$ git push origin lawrence
+Now swap back to the browser and navigate to your fork of the project (https://github.com/YomZsamora/StudentEngagement in my case) and youâll see that the branch is listed at the top with a handy âCompare & pull requestâ button:
+
+
+
+Go ahead and press the button! 
+
+On this page, ensure that the âbase forkâ points to the correct repository and branch. Then ensure that you provide a good, succinct title for your pull request and explain why you have created it in the description box. Add any relevant issue numbers if you have them.
+
+
+
+If you scroll down a bit, youâll see a diff of your changes. Double check that it contains what you expect.
+
+Once you are happy, press the âCreate pull requestâ button and youâre done.
+
+For your work to be integrated into the project, the maintainers will review your work and either request changes or merge it.
+
+To Summarize
+Thatâs all there is to it. The fundamentals are:
+
+Fork the project & clone locally.
+Create an upstream remote and sync your local copy.
+Ensure you're working on the correct branch.
+Do the work, write good commit messages and read the CONTRIBUTING file if there is one.
+Push to your origin repository.
+Create a new Pull Request in GitHub.
+
+---------------------------------------------------------------------------------------------------------
+
+                        <------DEVOPS------->
+
+#install docker
+sudo docker ps  - show no. of running pods
+*sudo docker run –d –p  3000:80 daniel/helloworld –create app daniel and run instance 3000 of that specific container
+*sudo docker run –d –p  3001:80 daniel/helloworld –create app daniel and run instance 3001 of that specific container
+* sudo docker kill 607800a4d691 bcb86e3a2972 -  container id of 3001 and container id of 3002
+#install minikube – local host testing platform of kuberenetes
+#install kubectl – command line tool to interact with kubernetes  cluster
+minikube start
+
+
+DOCKER
  
  INITIAL DOCKER SETUP FEDORA
  sudo dnf remove docker-*
@@ -2082,144 +2226,7 @@ We saw how to configure Docker and other pre-requisites, as well as deploy an Ng
 
 
 
-------------------
-Personal github 4f41ea34f379e4e0dc151e6964c6468f4807e3c5
-------------------
-DEMONSTRATION
 
-sudo apt install kazam
-
-On how to use Kazam Screencaster https://www.youtube.com/watch?v=ADPPpY6ZEI8
-------------------
-
-GIT FIRST ATTEMPT
-
-git config --global user.name "DancunManyinsa"
-git config --global user.email "dancunmanyinsait@gmail.com"
-git config --global user.name "devopsengineerDan"
-git config --global user.email "devopsengineerdan@gmail.com"
-
-HEROKU  ((( H - Conardmomanyi@1 ))) GITHUB  ->  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 
-
-
-web: gunicorn waweru.wsgi --log-file -
-
-*********************************************************************
-sudo snap install --classic heroku
-
-wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
-
-
-******CLONE FROM HEROKU*******
-heroku git:clone -a mathematician/your_app_name
-
-
-Collectstatic error while deploying Django app to Heroku
-
-1 disable the collectstatic during a deploy
-
-$ heroku config:set DISABLE_COLLECTSTATIC=1
-
-2 deploy
-
-$ git push heroku master
-
-3 run migrations (django 1.10 added at least one)
-
-$ heroku run python3 manage.py migrate
-
-4 run collectstatic using bower
-
-$ heroku run 'bower install --config.interactive=false;grunt prep;python3 manage.py collectstatic --noinput'
-
-5 enable collecstatic for future deploys
-
-$ heroku config:unset DISABLE_COLLECTSTATIC
-
-6 try it on your own (optional)
-
-$ heroku run python manage.py collectstatic
-
-
----------------------------------------------------------------------------------------------------------
-Pyinstaller
-
-pyinstaller --onedir --onefile --name=passwordlocker --windowed "/home/dan/PycharmProjects/dancunmanyinsa/manage.py"
-
-
----------------------------------------------------------------------------------------------------------
-GIT COLLABORATION Link http://adzumi.co.ke/blog/github_contribution
-
-As a new developer, contributing to a project can be scary. I get it,  I was there too. It took me way too long to make my first Pull Request.
-
-Contributing is also a great way to learn more about social coding on Github, new technologies and their ecosystems and how to make constructive, helpful bug reports, feature requests and the noblest of all contributions.
-
-STEP 1: SET UP A WORKING COPY ON YOUR COMPUTER
-First of all, you need a local fork of the project, so go ahead and press the âforkâ button on GitHub. This will create a copy of the repository in your own GitHub account and youâll see a note that itâs been forked underneath the project name:
-
-
-
-Now you need a copy locally, so find the clone URL in the right-hand column and use that to clone locally using a terminal:
-
-$ git clone https://github.com/lawrence254/StudentEngagement.git
-Which will do something like this:
-
-
-
-Now navigate to the project's directory:
-
-$ cd StudentEngagement
-Finally, in this stage, you need to set up a new remote that points to the original project so that you can grab any changes and bring them into your local copy. Firstly click on the link to the original repository, itâs labeled âForked fromâ at the top of the GitHub page. This takes you back to the projects main GitHub page, so you can find the Clone URL and use it to create the new remote, which weâll call upstream.
-
-$ git remote add upstream https://github.com/lawrence254/StudentEngagement.git
-You now have two remotes for this project on disk:
-
-origin which points to your GitHub fork of the project. You can read and write to this remote.
-upstream which points to the main projectâs GitHub repository. You can only read from this remote.
-STEP 2: MAKE SOME CHANGES
-This is the fun bit where you get to contribute to the project. The number one rule is to put each piece of work on its own branch. If the project is using git-flow, then it will have both a master and a development branch. The general rule is that if you are adding a new feature then branch from development. If the project only has a master branch, the branch from that. 
-
-For this example, the forked repository had a number of branches already, one of them called 'lawrence'. This is the branch the owner of the repository has been working on. Weâll assume weâre adding a feature in StudentEngagement, so we branch to that branch:
-
-$ git checkout lawrence
-$ git pull upstream lawrence && git push origin lawrence
-Firstly we ensure weâre on the master branch. Then the git pull command will sync our local copy with the upstream project and the git push syncs it to our forked GitHub project. Finally, we checkout to the 'lawrence' branch. 
-
-Now you can add a feature(Or fix a bug).
-
-If the project has tests, run them to ensure you havenât broken anything. You may also add a new test to show that your change fixes the original problem.
-
-STEP 3: CREATE A PULL REQUEST
-To create a Pull Request you need to push your branch to the origin remote and then press some buttons on GitHub.
-
-To push the new branch:
-
-$ git push origin lawrence
-Now swap back to the browser and navigate to your fork of the project (https://github.com/YomZsamora/StudentEngagement in my case) and youâll see that the branch is listed at the top with a handy âCompare & pull requestâ button:
-
-
-
-Go ahead and press the button! 
-
-On this page, ensure that the âbase forkâ points to the correct repository and branch. Then ensure that you provide a good, succinct title for your pull request and explain why you have created it in the description box. Add any relevant issue numbers if you have them.
-
-
-
-If you scroll down a bit, youâll see a diff of your changes. Double check that it contains what you expect.
-
-Once you are happy, press the âCreate pull requestâ button and youâre done.
-
-For your work to be integrated into the project, the maintainers will review your work and either request changes or merge it.
-
-To Summarize
-Thatâs all there is to it. The fundamentals are:
-
-Fork the project & clone locally.
-Create an upstream remote and sync your local copy.
-Ensure you're working on the correct branch.
-Do the work, write good commit messages and read the CONTRIBUTING file if there is one.
-Push to your origin repository.
-Create a new Pull Request in GitHub.
 
 ------------------------------------------------------------------------------------------------------------
 
