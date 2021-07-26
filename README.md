@@ -1173,6 +1173,15 @@ git branch -M main
 git remote add origin https://github.com/devopsengineerDan/Driver-Drowsiness-Detection.git
 git push -u origin main
 
+GIT PUSHING PROJECT TO GITHUB TO GH-PAGES
+Create project projectname.github.io
+git add README.md
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/devopsengineerdan/devopsengineerdan.github.io.git
+git push -u origin main
+
 ------------
 
 STATIC TYPING PYTHON
@@ -1326,7 +1335,12 @@ cd personal-blog/
 
 git init
 
+cd theme/m10c
 git submodule add https://github.com/vaga/hugo-theme-m10c.git
+
+cd personal-blog/
+git submodule add https://github.com/devopsengineerDan/devopsengineerdan.github.io.git
+
 
 hugo server --minify --theme hugo-theme-m10c
 OR 
