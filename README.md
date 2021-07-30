@@ -1328,6 +1328,10 @@ On how to use Kazam Screencaster https://www.youtube.com/watch?v=ADPPpY6ZEI8
 UI/UX DESIGN (HUGO for WEBSITES) && (KIVY for WEB && DESKTOP APPLICATIONS AND MOBILE WEB && LOCAL APPLICATIONS
 
 HUGO
+create a project folder for github pages  githubname.github.io
+hugo -> To create public folder with static html,css,xml pages
+change name from public to githubname.github.io
+push to github
 
 hugo new site blog
 
@@ -1345,7 +1349,7 @@ git submodule add https://github.com/devopsengineerDan/devopsengineerdan.github.
 hugo server --minify --theme hugo-theme-m10c
 OR 
 hugo server
-
+push to github
 
 KIVY
 
