@@ -1,5 +1,4 @@
-https://app.cybrary.it/immersive/10768150/activity/57265
-PAUL ->
+EABL ->
 0752417150 Driver
 0769 863503 Kiarie
 
@@ -501,6 +500,16 @@ lsb_release -a
 Verify Linux kernel version and other log files
 tail -f /var/log/my-app.log
 uname -mrs
+
+
+
+(UNOFFICIAL) Gnome 40 Desktop on ubuntu 20
+sudo add-apt-repository ppa:shemgp/gnome-40
+sudo apt install mutter
+sudo apt install gnome-shell
+sudo apt install gnome-session
+sudo apt upgrade
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 FIREWALL CONFIGURATION 
