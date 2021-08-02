@@ -92,10 +92,28 @@ web: gunicorn waweru.wsgi --log-file -
 PHONE BACKUP
 
 https://findmymobile.samsung.com
+
+SAMSUNG S8
 Model number:  SM-G950FD 
 Serial number: RF8K21X3L2K
 IMEI (slot 1): 355258091801717
-IMEI (slot 1): 355259091801715
+IMEI (slot 2): 355259091801715
+
+
+SAMSUNG A12
+Model number:  SM-A125F/DS 
+Serial number: R58R52PA7MD
+IMEI (slot 1): 359573262171914
+IMEI (slot 2): 359613632171911
+
+
+LINUX CHECK SERIAL NUMBER -> sudo dmidecode -s system-serial-number
+DELL 7480                 -> 8BNNYM2
+
+
+
+
+.................................................
 
 KRA 
 A012540149K
@@ -3200,76 +3218,11 @@ def email(request):
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 ===========================================================
-WINDOWS AND UBUNTU
 
-sudo apt install postgresql postgresql-contrib -> UBUNTU
-sudo dnf install postgresql postgresql-contrib -> FEDORA
- 
+WINDOWS AND UBUNTU PGADMIN4
 
-
-sudo systemctl start postgresql
-sudo systemctl enable postgresql
-
-sudo systemctl enable postgresql
-sudo service postgresql restart
-
-Connect to postgres:                  sudo -i -u postgres
-
--------------------------------------------------
-
-psql
-
-CREATE DATABASE myproject;
-
-CREATE USER myprojectuser WITH PASSWORD 'password';
-
-ALTER ROLE myprojectuser SET client_encoding TO 'utf8';
-ALTER ROLE myprojectuser SET default_transaction_isolation TO 'read committed';
-ALTER ROLE myprojectuser SET timezone TO 'UTC';
-
-GRANT ALL PRIVILEGES ON DATABASE myproject TO myprojectuser;
-
---------------------------------------------------
-
-Get current info:                     \conninfo
-
-
-Postgresql commands
-List all databases: \l.
-Exit out of help menu: \q
-Connect to database: \c database_name
-List tables in current database: \dt
-List columns in a table: \d table_name
-See a list of all psql commands: \? (Press the down arrow to scroll through, or q to exit list.)
-exit
-
-######################################################## 
-FORGOTTEN PASSWD/ SET NEW PASSWD ON POSTGRES
-sudo -i -u postgres 
-could not change directory to "/root"
-psql (9.1.11)
-Type "help" for help.
-
-postgres=# \password
-Enter new password:
-Enter it again:
-postgres=# \q
-#########################################################
-
--------------------------------------------------------------------
-
-INSTALL POSTGRESQL  -> https://linuxconfig.org/install-postgresql-on-ubuntu-18-04-bionic-beaver
-
-
-sudo apt install postgresql-client
-sudo apt install postgresql
- * Restart my pc then on the terminal *
-sudo systemctl enable postgresql
-sudo service postgresql restart
-
-WINDOWS FIX FORPOSTGRES CONFIGURATION 
+WINDOWS FIX FOR POSTGRES CONFIGURATION 
 
 By default the PostgreSQL server will listen only on a local loop-back interface 127.0.0.1. If you need to configure your PostreSQL server to listen on all networks you will need to configure its main configuration file /etc/postgresql/10/main/postgresql.conf:
 $ sudo nano /etc/postgresql/10/main/postgresql.conf
@@ -3278,9 +3231,12 @@ listen_addresses = '*'
 
 sudo service postgresql restart
 
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-PGADMIN INSTALLATION
+PGADMIN4 INSTALLATION
+
+PREVIOUS CRITERIA
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 sudo apt-get install virtualenv python3-pip libpq-dev python3-dev
 
@@ -3320,6 +3276,82 @@ username                        postgres
 passwd                          phoenix
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 deactivate
+
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+UBUNTU
+sudo apt install postgresql postgresql-contrib
+apt-get install postgresql -y              
+
+FEDORA
+sudo dnf install postgresql postgresql-contrib 
+
+
+sudo systemctl start postgresql
+sudo systemctl enable postgresql
+
+systemctl status postgresql
+ss -antpl | grep 5432
+pg_isready
+
+Connect to postgres and creating db:  sudo -i -u postgres
+
+
+psql
+
+CREATE DATABASE myproject;
+
+CREATE USER myprojectuser WITH PASSWORD 'password';
+
+ALTER ROLE myprojectuser SET client_encoding TO 'utf8';
+ALTER ROLE myprojectuser SET default_transaction_isolation TO 'read committed';
+ALTER ROLE myprojectuser SET timezone TO 'UTC';
+
+GRANT ALL PRIVILEGES ON DATABASE myproject TO myprojectuser;
+\q
+exit
+
+
+nano /etc/postgresql/12/main/pg_hba.conf
+systemctl restart postgresql
+
+
+PGADMIN4 INSTALLATION NEW CRITERIA
+apt-get install curl gnupg2 -y
+curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | apt-key add
+sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list
+apt-get update
+apt-get install pgadmin4
+/usr/pgadmin4/bin/setup-web.sh
+
+--------------------------------------------------
+
+Get current info:                     \conninfo
+
+
+Postgresql commands
+List all databases: \l.
+Exit out of help menu: \q
+Connect to database: \c database_name
+List tables in current database: \dt
+List columns in a table: \d table_name
+See a list of all psql commands: \? (Press the down arrow to scroll through, or q to exit list.)
+exit
+
+######################################################## 
+FORGOTTEN PASSWD/ SET NEW PASSWD ON POSTGRES
+sudo -i -u postgres 
+could not change directory to "/root"
+psql (9.1.11)
+Type "help" for help.
+
+postgres=# \password
+Enter new password:
+Enter it again:
+postgres=# \q
+#########################################################
+
 
 ----------------------------------------------------------------------------------------------------------
 Flask Application structure
@@ -3401,6 +3433,8 @@ pip install djangorestframework
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+dxdiag
+%temp%
 
 WINDOWS OFFICE SETUP https://getintopc.com/?s=Office+2016&submit=Search
 
