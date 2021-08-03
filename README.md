@@ -3271,7 +3271,7 @@ python3 lib/python3.6/site-packages/pgadmin4/pgAdmin4.py
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 (Browser URL + PORT)
 name                            DB1
-connection(host name/addrress)  127.0.0.1
+connection(host name/addrress)  127.0.0.1/localhost
 username                        postgres
 passwd                          phoenix
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3318,12 +3318,27 @@ systemctl restart postgresql
 
 
 PGADMIN4 INSTALLATION NEW CRITERIA
-apt-get install curl gnupg2 -y
-curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | apt-key add
+sudo apt-get install curl gnupg2 -y
+sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | apt-key add
 sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list
-apt-get update
-apt-get install pgadmin4
+sudo apt-get update
+sudo apt-get install pgadmin4
 /usr/pgadmin4/bin/setup-web.sh
+http://127.0.0.1/pgadmin4
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+(Browser URL + PORT)
+host name                       DB1
+connection(host name/addrress)  127.0.0.1/localhost
+maintenance database            postgres
+username                        tecmint
+passwd                          securep@wd
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+deactivate
+
 
 --------------------------------------------------
 
