@@ -467,23 +467,21 @@ iface eth1 inet static
 	network 192.168.92.0
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-++++++++++++++++++++++++++++++
+
 sudo nano /etc/ssh/ssh_config
 sudo nano /etc/ssh/sshd_config
-
+********************************************************************************************************************************
 
 In localhost machine
 adduser pentester
 adduser pentester sudo
 service sshd status
 service ssh status
-
-++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++
 Performing ssh
 
 systemctl enable ssh.service
 service ssh start
-
 ++++++++++++++++++++++++++
 loginctl list-sessions 
 loginctl terminate-session 
