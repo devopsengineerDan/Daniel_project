@@ -423,9 +423,18 @@ Set flash sudo users
 sudo adduser dan vboxusers
 
 -------------------------------------------
-Set up ssh on host machine
+Set up ssh
 
-1)Assigning static ip address to the local network
+1)Assigning static ip address to the localhost network
+(((    ifconfig OR ip a    )))
+sudo ifconfig enp9s0 192.168.92.5 netmask 255.255.0.0
+  OR  sudo ifconfig eth0 192.168.92.5 netmask 255.255.0.0
+
+
+sudo route add default gw 192.168.92.1 enp9s0
+  OR  sudo route add default gw 192.168.92.1 eth0
+ping 192.168.92.5
+
 
 2)Setup ssh on virtual machine
 sudo apt install openssh-server
