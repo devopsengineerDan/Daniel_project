@@ -862,15 +862,22 @@ This will disable UFW and delete any rules that you have previously defined. Kee
 		
                                             DESIGN PATTERNS FOR SOFTWARE ENGINEERS
  
-1 Observer                                    3 Facade
-2 Strategy                       4 Singleton           5  Adapter/ Bridge
-  
-  
-  
-1 Principal software engineer                  2 Software Architect
-                                 3 Lead software engineer           5 Junior software engineer
-                                 4 Senior software engineer
+1 Observer                                   
+2 Strategy                      
 
+                                                      3 Facade
+                                        4 Singleton           5  Adapter/ Bridge
+  
+............................................................................................................................  
+  
+1 Principal software engineer                 
+2 Software Architect                                
+                                                        
+						      3 Lead software engineer           
+                              4 Senior software engineer                         5 Junior software engineer
+				 
+				 
+.............................................................................................................................
                                            
 					   SOLID Design Principle
 What is SOLID Design
