@@ -3292,8 +3292,8 @@ python3 lib/python3.6/site-packages/pgadmin4/pgAdmin4.py
 (Browser URL + PORT)
 name                            DB1
 connection(host name/addrress)  127.0.0.1/localhost
-username                        postgres
-passwd                          phoenix
+username                        tecmint
+passwd                          securep@wd
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 deactivate
 
@@ -3343,7 +3343,7 @@ sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | apt-key add
 sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list
 sudo apt-get update
 sudo apt-get install pgadmin4
-/usr/pgadmin4/bin/setup-web.sh
+sudo /usr/pgadmin4/bin/setup-web.sh
 http://127.0.0.1/pgadmin4
 
 
@@ -3387,6 +3387,15 @@ Enter it again:
 postgres=# \q
 #########################################################
 
+sudo wget https://www.sql-workbench.eu/Workbench-Build125-with-optional-libs.zip
+unzip Workbench-Build125-with-optional-libs.zip -d Desktop/Workbench
+
+->install java
+wget -P Desktop/PostgreJDBC https://jdbc.postgresql.org/download/postgresql-42.2.10.jar
+
+cd Desktop/Workbench 
+sudo sh sqlworkbench.sh
+jdbc:postgresql://your.database.server.ip:port.number/name_of_database
 
 ----------------------------------------------------------------------------------------------------------
 Flask Application structure
