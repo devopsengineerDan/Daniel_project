@@ -470,6 +470,9 @@ iface eth1 inet static
 ++++++++++++++++++++++++++++++
 sudo nano /etc/ssh/ssh_config
 sudo nano /etc/ssh/sshd_config
+
+
+In localhost machine
 adduser pentester
 adduser pentester sudo
 service sshd status
@@ -486,7 +489,7 @@ loginctl list-sessions
 loginctl terminate-session 
 ++++++++++++++++++++++++++
 
-
+.................................................................................................................................................................
 
 UPGRADING TO FEDORA HIGHER VERSION e.g 34
 
