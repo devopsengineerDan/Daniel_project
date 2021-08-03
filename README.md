@@ -425,28 +425,17 @@ sudo adduser dan vboxusers
 -------------------------------------------
 Set up ssh on host machine
 
-1st)Assigning static ip address to the local network
+1)Assigning static ip address to the local network
 
-2nd)
+2)Setup ssh on virtual machine
+sudo apt install openssh-server
+service ssh status
+sudo systemctl status ssh
+sudo systemctl enable --now ssh
+sudo ufw allow ssh
 
-sudo apt install ssh
-
-Performing ssh
-
-ssh pentester@127.0.0.1
-
-       0R   USING PASSWORD
-sudo ssh pentester@127.0.0.1 -p 2000
-
-sudo service ssh status
-
-       OR   USING KEYS
-ssh-keygen
-cat ~/.ssh/id_rsa.pub | ssh pentester@127.0.0.1 -p 2000 "mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat >> ~/.ssh/authorized_keys"
-ssh pentester@127.0.0.1 -p 2000
-
---------------------------------------------
-Set up ssh on virtual machine
+********************************************************************************************************************************
+3)Virtual machine terminal configure the following:
 ++++++++++++++++++++++++++++
 sudo nano /etc/network/interfaces
 
@@ -472,21 +461,43 @@ sudo nano /etc/ssh/ssh_config
 sudo nano /etc/ssh/sshd_config
 ********************************************************************************************************************************
 
-In localhost machine
-adduser pentester
-adduser pentester sudo
-service sshd status
-service ssh status
+4)In localhost machine
+sudo apt install openssh-client
+sudo systemctl start ssh
+sudo adduser pentester
+sudo adduser pentester sudo
+sudo service sshd status
+sudo service ssh status
 ++++++++++++++++++++++++++
-Performing ssh
-
+5)Performing ssh while on localhost machine
 systemctl enable ssh.service
 service ssh start
+
+Performing ssh
+
+ssh pentester@127.0.0.1
+
+       0R   USING PASSWORD
+sudo ssh pentester@127.0.0.1 -p 2000
+
+sudo service ssh status
+
+       OR   USING KEYS
+ssh-keygen
+cat ~/.ssh/id_rsa.pub | ssh pentester@127.0.0.1 -p 2000 "mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat >> ~/.ssh/authorized_keys"
+ssh pentester@127.0.0.1 -p 2000
+
+
+
+sudo systemctl stop ssh
+
+
 ++++++++++++++++++++++++++
 loginctl list-sessions 
 loginctl terminate-session 
 ++++++++++++++++++++++++++
 
+sudo systemctl disable ssh
 .................................................................................................................................................................
 
 UPGRADING TO FEDORA HIGHER VERSION e.g 34
@@ -520,7 +531,7 @@ Verify Linux kernel version and other log files
 tail -f /var/log/my-app.log
 uname -mrs
 
-
+----------------------------------------------------
 
 (UNOFFICIAL) Gnome 40 Desktop on ubuntu 20
 sudo add-apt-repository ppa:shemgp/gnome-40
@@ -529,7 +540,101 @@ sudo apt install gnome-shell
 sudo apt install gnome-session
 sudo apt upgrade
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+----------------------------------------------------
+
+REMOVE OLD UBUNTUUPDATEFILES FROM /boot
+
+sudo apt-get-clean
+
+First, get the name of the kernel the system is currently running by using uname like this:
+
+----------------------------------------------------
+ARCH
+REMOVING OLD KERNELS
+
+pacman -Ql pacman-contrib | awk -F"[/ ]" '/\/usr\/bin/ {print $NF}'
+sudo pacman purge linux-image-5.3.0-18-generic
+sudo pacman autoremove
+
+RETAINING LTS STABLE VERSIION
+sudo nano /etc/pacman.conf
+....Then edit the file....
+IgnorePkg = linux
+sudo pacman -Syu
+uname -r
+
+----------------------------------------------------
+DEBIAN
+REMOVING OLD KERNELS
+
+uname -sr
+dpkg -l | grep linux-image | awk '{print$2}'
+sudo apt-get purge linux-image-5.3.0-18-generic
+sudo apt autoremove
+sudo journalctl --vacuum-time=3d
+
+-----------------------------------------------
+FEDORA
+REMOVING OLD KERNELS
+
+rpm -qa kernel\* |sort -V
+## dnf repoquery set negative --latest-limit ##
+## as how many old kernels you want keep ##
+sudo dnf remove $(dnf repoquery --installonly --latest-limit=-2 -q)
+##Make Amount of Installed Kernels Permanent on Fedora## 
+installonly_limit=2
+
+
+---------------------------------------------------
+FEDORA GRUB INSTALL ???? COMPLEX ????
+
+sudo dnf reinstall grub2-efi-x64 shim-x64
+sudo grub2-mkconfig -o /boot/efi/EFI/fedora/grub.cfg
+
+--------------------------------------------------
+
+
+Or if you use aptitude use this variant of the command:
+
+sudo aptitude purge linux-image-x.x.x.1-generic
+
+
+Make a note of that because that is the name of the current active kernel you donât want to remove. Now knowing that, we need to figure out what the otherâextraneousâkernels are
+
+--------------------------------------------------
+
+CREATING SWAP  AFTER LINUX INSTALLATION
+
+In case you don't want or you're not sure how to create a swap partition, you can create a swap file which will work in the same way as partition. Here are the steps (using terminal):
+
+Create an empty file (1K * 4M = 4 GiB).
+
+sudo mkdir -v /var/cache/swap
+cd /var/cache/swap
+sudo dd if=/dev/zero of=swapfile bs=1K count=4M
+sudo chmod 600 swapfile
+Convert newly created file into a swap space file.
+
+sudo mkswap swapfile
+Enable file for paging and swapping.
+
+sudo swapon swapfile
+Verify by: swapon -s or top:
+
+top -bn1 | grep -i swap
+Should display line like: KiB Swap:  4194300 total,  4194300 free
+
+To disable, use sudo swapoff swapfile command.
+
+Add it into fstab file to make it persistent on the next system boot.
+
+echo "/var/cache/swap/swapfile none swap sw 0 0" | sudo tee -a /etc/fstab
+Re-test swap file on startup by:
+
+sudo swapoff swapfile
+sudo swapon -va
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 FIREWALL CONFIGURATION 
 
@@ -745,99 +850,6 @@ This will disable UFW and delete any rules that you have previously defined. Kee
 
 
 
-----------------------------------------------------
-
-REMOVE OLD UBUNTUUPDATEFILES FROM /boot
-
-sudo apt-get-clean
-
-First, get the name of the kernel the system is currently running by using uname like this:
-
------------------------------------------------
-ARCH
-REMOVING OLD KERNELS
-
-pacman -Ql pacman-contrib | awk -F"[/ ]" '/\/usr\/bin/ {print $NF}'
-sudo pacman purge linux-image-5.3.0-18-generic
-sudo pacman autoremove
-
-RETAINING LTS STABLE VERSIION
-sudo nano /etc/pacman.conf
-....Then edit the file....
-IgnorePkg = linux
-sudo pacman -Syu
-uname -r
-
------------------------------------------------
-DEBIAN
-REMOVING OLD KERNELS
-
-uname -sr
-dpkg -l | grep linux-image | awk '{print$2}'
-sudo apt-get purge linux-image-5.3.0-18-generic
-sudo apt autoremove
-sudo journalctl --vacuum-time=3d
-
------------------------------------------------
-FEDORA
-REMOVING OLD KERNELS
-
-rpm -qa kernel\* |sort -V
-## dnf repoquery set negative --latest-limit ##
-## as how many old kernels you want keep ##
-sudo dnf remove $(dnf repoquery --installonly --latest-limit=-2 -q)
-##Make Amount of Installed Kernels Permanent on Fedora## 
-installonly_limit=2
-
-
-
-FEDORA GRUB INSTALL ???? COMPLEX ????
-
-sudo dnf reinstall grub2-efi-x64 shim-x64
-sudo grub2-mkconfig -o /boot/efi/EFI/fedora/grub.cfg
-
------------------------------------------------
-
-
-Or if you use aptitude use this variant of the command:
-
-sudo aptitude purge linux-image-x.x.x.1-generic
-
-
-Make a note of that because that is the name of the current active kernel you donât want to remove. Now knowing that, we need to figure out what the otherâextraneousâkernels are
-
-------------------------------------------------
-
-CREATING SWAP  AFTER LINUX INSTALLATION
-
-In case you don't want or you're not sure how to create a swap partition, you can create a swap file which will work in the same way as partition. Here are the steps (using terminal):
-
-Create an empty file (1K * 4M = 4 GiB).
-
-sudo mkdir -v /var/cache/swap
-cd /var/cache/swap
-sudo dd if=/dev/zero of=swapfile bs=1K count=4M
-sudo chmod 600 swapfile
-Convert newly created file into a swap space file.
-
-sudo mkswap swapfile
-Enable file for paging and swapping.
-
-sudo swapon swapfile
-Verify by: swapon -s or top:
-
-top -bn1 | grep -i swap
-Should display line like: KiB Swap:  4194300 total,  4194300 free
-
-To disable, use sudo swapoff swapfile command.
-
-Add it into fstab file to make it persistent on the next system boot.
-
-echo "/var/cache/swap/swapfile none swap sw 0 0" | sudo tee -a /etc/fstab
-Re-test swap file on startup by:
-
-sudo swapoff swapfile
-sudo swapon -va
 
 ===============================================================================================================================================
 
