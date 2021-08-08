@@ -1308,6 +1308,9 @@ Activate env:      source venv/bin/activate
 Install pip/pip3 _ONCE_    curl https://bootstrap.pypa.io/get-pip.py | python
 Upgrade                    pip install --upgrade pip
 
+                           pip freeze
+                           pip freeze > requirements.txt
+			   
 Installation of dep        pip3 install -r requirements.txt
                            OR
 			   python3 -m pip install -r requirements. txt
@@ -1325,6 +1328,11 @@ $ which python3.7
 *************************
 Create                    pipenv --python /usr/bin/python3.7
 Activate                  pipenv shell
+
+                          pip freeze
+			  pip freeze > requirements.txt
+			  
+			  
 Installation of dep       pipenv install -r requirements.txt
 Upgrade dep               pipenv install -r requirements.txt --upgrade
 Deactivate                deactivate
