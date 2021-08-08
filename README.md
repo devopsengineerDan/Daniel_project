@@ -2184,7 +2184,12 @@ You can now use docker pull sammy/ubuntu-nodejs to pull the image to a new machi
 
 ********************************************************************************************************************
 
-KUBERNETES https://linuxconfig.org/how-to-install-kubernetes-on-ubuntu-20-04-focal-fossa-linux
+KUBERNETES 
+1ST OPTION -> https://computingforgeeks.com/deploy-kubernetes-cluster-on-ubuntu-with-kubeadm/
+
+
+
+https://linuxconfig.org/how-to-install-kubernetes-on-ubuntu-20-04-focal-fossa-linux
 
 Install Docker
 
