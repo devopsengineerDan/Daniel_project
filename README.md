@@ -1252,6 +1252,7 @@ Install python dev    sudo apt-get install build-essential libssl-dev libffi-dev
                       python3 -m pip install python-dev-tools --user --upgrade
 		      sudo apt install python3-setuptools
 		      sudo apt install libpq-dev
+		      pip install python-dev-tools
 
 		      
 		      
@@ -3100,11 +3101,22 @@ Stock price prediction is a machine learning project for beginners; in this tuto
 
 DJANGO
 ‐-------------------
+ADMIN
 $django-admin startproject travel_project
-(NOT SURE)$django-admin startapp travel_app 
+cd travel_project
+$django-admin startapp travel_app 
+
+SIMPLE APP
+$django-admin startproject travel_project
+cd travel_project
 (NOT SURE)$django startproject travel_project (wsgi, setting)
 $ python3 manage.py startapp travel_app  (view, models, templates)
 
+
+(NOT SURE)
+django-admin startproject heyapp (wsgi, setting)
+django-admin startproject heyapp . (view, models, templates)
+ 
 ---------------------
 $ python3 manage.py createsuperuser 
 ---------------------
@@ -3136,10 +3148,6 @@ $ python3 manage.py migrate name_ data 0001_initial
 
 
 
-
-django-admin startproject heyapp (wsgi, setting)
-django-admin startproject heyapp . (view, models, templates)
- 
 
 
 DJANGO && SERVICE WORKER
