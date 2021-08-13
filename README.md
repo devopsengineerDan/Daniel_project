@@ -1380,7 +1380,15 @@ $ ./hello.py
 			   sudo ln -s _.cpython-{36m,37m}-x86_64-linux-gnu.so
 			   
 			   pip install gobject PyGObject -> run pycharm to create sound when drowsy
-                           pip uninstall gobject PyGObject -> open kivy window then redo step one
+                           pip uninstall gobject PyGObject -> open kivy window then redo step one		   
+			   
+			   -> FORTRAN library that does linear algebra operations
+			   sudo apt-get install libblas-dev liblapack-dev
+                           sudo apt-get install libatlas-base-dev			   
+			   
+			   -> No module named 'sklearn.linear_model.logistic' 
+			   pip3 install "scikit_learn==0.22.2.post1"
+
 			   
 			   *************************
 --------------------------------------------------------------------------
