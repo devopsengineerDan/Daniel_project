@@ -1303,7 +1303,8 @@ VIRTUAL ENV
 OLD Python env
 
             _ONCE_ 1st)Install   sudo apt-get install python3-venv 
-                   2nd)Create    virtualenv -p /usr/bin/python3.7 venv
+	               pip install --force-reinstall virtualenv
+                   2nd)Create    virtualenv -p /usr/bin/python3.8 venv
 Activate env:      source venv/bin/activate 
 
 Install pip/pip3 _ONCE_    curl https://bootstrap.pypa.io/get-pip.py | python
@@ -1327,7 +1328,7 @@ Install _ONCE_             pip3 install pipenv
 *************************
 $ which python3.7
 *************************
-Create                    pipenv --python /usr/bin/python3.7
+Create                    pipenv --python /usr/bin/python3.8
 Activate                  pipenv shell
 
                           pip freeze
