@@ -1211,7 +1211,8 @@ pyinstaller --onedir --onefile --name=passwordlocker --windowed "/home/dan/Pycha
 
 ---------------------------------------------------------------------------------------------------------
 
-GITHUB
+GITHUB   conardmomanyimoruri
+         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
 
 ------------------
 Personal github 4f41ea34f379e4e0dc151e6964c6468f4807e3c5
