@@ -3584,8 +3584,15 @@ pip install djangorestframework
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-dxdiag
-%temp%
+WINDOWS
+
+Control panel -> dxdiag
+Control panel -> %temp%
+
+DISABLE AUTO-UPDATES
+Control panel -> services.msc
+Windows update -> Disable
+
 
 WINDOWS OFFICE SETUP https://getintopc.com/?s=Office+2016&submit=Search
 
