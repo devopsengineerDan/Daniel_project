@@ -171,6 +171,41 @@ sudoedit /etc/gdm3/custom.conf
 remove # in wayland to enable it
 sudo systemctl restart gdm3
 
+LINUX MUST INSTALLATIONS
+
+Update & Upgrade:
+sudo apt update; sudo apt upgrade
+
+Install Favorite Apps:
+sudo apt install vlc gimp gparted synaptic
+
+Install Ubuntu Restricted Extras (Media Codecs):
+sudo apt install ubuntu-restricted-extras
+
+Install Timeshift Backup Tool:
+sudo apt install timeshift
+
+Install Preload:
+sudo apt install preload
+
+Improve Laptop Battery:
+sudo apt install tlp tlp-rdw
+Just run the above command and you don’t need to do anything else. It’ll make your laptop battery last longer by implementing some power-saving protocols. Sorry, I forgot this one in the video. 
+
+Firefox Tweaks:
+about:config
+layers.acceleration.force-enabled
+gfx.webrender.all
+
+Change DNS:
+8.8.8.8,8.8.4.4
+
+Install Tweak Tool:
+sudo apt install gnome-tweak-tool
+
+GNOME Extensions:
+https://extensions.gnome.org/
+
 =================================
 
 REMOVE
