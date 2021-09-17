@@ -148,6 +148,9 @@ ID
 								    
 						     <--  SYSTEM UI AND INPUT/OUTPUT -->
 
+RECONFIGURE BROKEN DEPENDENCIES
+sudo dpkg --configure -a
+
 MAINTENANCE OF SSD
 sudo systemctl enable fstrim.timer
 systemctl status fstrim.timer 
