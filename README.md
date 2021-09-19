@@ -3644,7 +3644,8 @@ pip install djangorestframework
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-WINDOWS
+                                                               
+							       <--WINDOWS-->
 
 Control panel -> dxdiag
 Control panel -> %temp%
