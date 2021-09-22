@@ -1308,6 +1308,14 @@ pyinstaller --onedir --onefile --name=passwordlocker --windowed "/home/dan/Pycha
 
 ---------------------------------------------------------------------------------------------------------
 
+GITHUB
+
+Create Personal Access Token on GitHub
+
+From your GitHub account, go to Settings => Developer Settings => Personal Access Token => Generate New Token (Give your password) => Fillup the form => click Generate token => Copy the generated Token, it will be something like ghp_sFhFsSHhTzMDreGRLjmks4Tzuzgthdvfsrta
+
+
+
 GITHUB   conardmomanyimoruri
          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
 
@@ -1321,6 +1329,25 @@ git config --global user.name "DancunManyinsa"
 git config --global user.email "dancunmanyinsait@gmail.com" 
 git config --global user.name "devopsengineerDan"
 git config --global user.email "devopsengineerdan@gmail.com"
+git config -l
+ 
+
+Once GIT is configured, we can begin using it to access GitHub. Example:
+
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `Spoon-Knife`...
+$ Username for 'https://github.com' : username
+$ Password for 'https://github.com' : give your personal access token here
+
+Now cache the given record in your computer to remembers the token:
+
+$ git config --global credential.helper cache
+
+If needed, anytime you can delete the cache record by:
+
+$ git config --global --unset credential.helper
+$ git config --system --unset credential.helper
+
 
 GIT PUSHING PROJECT TO GITHUB
 
