@@ -176,6 +176,18 @@ sudo systemctl restart gdm3
 
 LINUX MUST INSTALLATIONS
 
+AMD DRIVERS
+AMDGPU = AMD open source kernel display driver.
+AMDGPU-Pro = Proprietary display driver and API implementations.
+MESA = Open source implementations of various APIs such as OpenGL.
+Radeon-Vulkan = Open source MESA implementation of Vulkan.
+AMDVLK = Open source vulkan components of AMDGPU-Pro driver.
+
+AMDGPU + MESA + Radeon-Vulkan is what is most commonly used by gamers because it has the best game compatibility and performance. 
+
+
+
+
 FEDORA
 Update & Upgrade (DO FIRST):
 sudo dnf upgrade --refresh
