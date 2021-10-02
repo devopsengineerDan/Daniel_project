@@ -138,6 +138,11 @@ telkom: 0778860407
 
 saf: 0706738969 PIN1:8218 PIN2:5372 PUK1:42844297 PUK2:28282050 CHEDA:1493
 
+STEAM DETAILS
+DanAlphaandOmega
+Standarduser1
+
+
 
 http://portal.jkuat.ac.ke/Home/Index 
 SCT221-0781/2016 
