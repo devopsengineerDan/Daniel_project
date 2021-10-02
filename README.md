@@ -3687,6 +3687,8 @@ pip install djangorestframework
 
 Control panel -> dxdiag
 Control panel -> %temp%
+cpu-z         -> ram,cpu,graphics type and storage size
+fsutil behavior query DisableDeleteNotify   -> chech trim technology implementation
 
 DISABLE AUTO-UPDATES
 Control panel -> services.msc
