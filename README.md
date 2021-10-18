@@ -449,6 +449,8 @@ sudo ~/Downloads/genymotion-3.0.2-linux_x64.bin
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 VIRTUAL BOX
+
+MINIKUBE username: “docker“, password: “tcuser“
  
 RAM 4096
 STORAGE 200.00GB
