@@ -3,6 +3,18 @@
 0769863503 Kiarie
 0720298571 Mbugua mbuguadominic09@gmail.com
 
+Email
+
+lelgoi@africaonline.co.ke
+Telephone
+
+0733571368
+Telephone
+
+0722488400
+Link
+
+@MoiGideon on Twitter
 -------------------
 https://foht.co.ke/  Software Engineer
 https://thintech.co.ke/  Consultance
