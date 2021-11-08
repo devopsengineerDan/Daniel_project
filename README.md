@@ -137,19 +137,28 @@ A012540149K
 engineerDaniel@1234
 
 Microsoft Teams: conardmomanyi1234
+Microsoft acc:dancunmoruri@gmail.com Conardmomanyi123
 
 SAF PORTAL: @@aUrsAP@w9x.j@
 
+fam
 ID: 35687960
 #equity: 0764465804 CHEDA:1487
 #jkuat co-op acc: 01129098952900
 #equity acc: 1520179881302
 #equity business paybill: 247247
 saf: 0711444518 PIN1:1274 PIN2:8411 PUK1:98828111 PUK2:15573510 CHEDA:1496
-airtel: 0733712755
-telkom: 0778860407
+saf buy airtime to telcom baybill 215215 acc telcom number
+telcom: 0777262531
+*telkom: 0778860407
 
+work
 saf: 0706738969 PIN1:8218 PIN2:5372 PUK1:42844297 PUK2:28282050 CHEDA:1493
+telcom: 0779037127
+
+phone: 1493
+computer: observer
+github: conardmomanyimoruri
 
 STEAM DETAILS
 DanAlphaandOmega
@@ -159,7 +168,7 @@ Standarduser1
 
 http://portal.jkuat.ac.ke/Home/Index 
 SCT221-0781/2016 
-ID
+ID number
 =================================================================================================================================================================
                                                                     
 								    
