@@ -157,7 +157,7 @@ saf: 0706738969 PIN1:8218 PIN2:5372 PUK1:42844297 PUK2:28282050 CHEDA:1493
 telcom: 0779037127
 
 phone: 1493
-computer: observer
+computer os: observer computer hardware: creator windows: d@97
 github: conardmomanyimoruri
 
 STEAM DETAILS
