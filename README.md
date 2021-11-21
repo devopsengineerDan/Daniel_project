@@ -141,6 +141,11 @@ Microsoft acc:dancunmoruri@gmail.com Conardmomanyi123
 
 SAF PORTAL: @@aUrsAP@w9x.j@
 
+SAF
+To easily reset your M-PESA PIN in future, set your M-PESA security questions. Dial *334#, select My account>M-PESA PIN Manager >Set M-PESA security questions,
+
+456 Fuliza
+
 fam
 ID: 35687960
 #equity: 0764465804 CHEDA:1487
