@@ -1,3 +1,26 @@
+*JETBRAINS
+1 Toolbox
+2 Space (Internet) 
+
+3 Datalore (Internet)
+4 Dataspell
+5 Projector (Internet)
+6 Pycharm & Rust plugin 
+
+7 DG 
+
+*Alternative 
+Anaconda
+VScode
+------------------------------------------
+
+HASS Consult 0709479479
+020 3258000
+
+
+
+
+
 0745238973 EABL Rose Kibiru
 0752417150 Driver
 0769863503 Kiarie
