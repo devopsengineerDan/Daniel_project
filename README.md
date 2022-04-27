@@ -1,3 +1,180 @@
+PYTHON SCRIPTS
+
+
+
+👉 Photo Compressor 
+
+This is an awesome Automation Script that will Compress your Photos into lower Sizes by keeping the Quality the same. 
+
+import PIL
+from tkinter.filedialog import *
+from PIL import Imagefile_loc=askopenfilenames()img = Image.open(file_loc[0])img.save("Compressed.jpg", "JPEG", optimize = True, quality = 10)
+print("Image is Compressed") 
+
+👉Image Watermarker 
+
+You had Probbally used different Photo Editing software to watermark your photos. This simple python script using the PIL module will watermark any image. You can set the Text, location, and even Font. 
+
+from PIL import Image
+from PIL import ImageFont
+from PIL import ImageDrawdef watermark_Image(img_path,output_path, text, pos):
+img = Image.open(img_path)
+drawing = ImageDraw.Draw(img)
+black = (10, 5, 12)
+drawing.text(pos, text, fill=black)
+img.show()
+img.save(output_path)img = '1.jpg'
+watermark_Image(img, 'watermarked.jpg','Python', pos=(0, 0)) 
+
+👉 InstaDpViewer 
+
+This Python automation script will help you to view the DP of any Instagram User. Script use module instaloader which will take username as input and download the DP as an output. 
+
+#pip install instaloaderimport instaloader 
+
+ig = instaloader.Instaloader()
+DP = input("Enter Insta username : ") 
+
+ig.download_profile(dp , profile_pic_only=True)
+print("Your Image is Downloaded") 
+
+👉 Plagiarism Checker 
+
+This is an awesome script that will help you to check the Plagiarism between two files. Now you don’t longer need any software or a web app for Plagiarism checking. This will do your work in a second. 
+
+from difflib import SequenceMatcherdef Plagerism_checker(f1, f2):
+with open(f1,errors="ignore") as file1,open(f2,errors="ignore") as file2:
+f1_data=file1.read()
+f2_data=file2.read()
+checking=SequenceMatcher(None, f1_data, f2_data).ratio()print(f"These files are {checking*100} % similar")file_1=input("Enter file 1 path: ")
+file_2=input("Enter file 2 path: ")
+Plagerism_checker(file_1, file_2) 
+
+👉 YT Video Downloader 
+
+This is another simple automation script to download Youtube videos. Now you don’t need any web app or software, just use the below code to download any video. 
+
+# pip install pytube
+import pytubelink = input('Enter Youtube Video URL')
+yt = pytube.Youtube(link)
+yt.streams.first().download()
+print('downloaded', link) 
+
+👉 Convert PDF to CSV 
+
+Sometimes we need to convert our PDF data into CSV format, So for that kind of work, this Python script will be handy for you. I had mentioned the two methods to do this work. 
+
+import tabula
+import camelot# Method 1
+filename = input("Enter File Path: ")
+df = tabula.read_pdf(filename, encoding='utf-8', spreadsheet=True, pages='1')
+df.to_csv('output.csv')# Method 2
+tables = camelot.read_pdf('file.pdf')
+tables.export('file.csv', f='csv', compress=True) 
+
+👉 File Encrypt and Decrypt 
+
+Want to lock your File then this script will be handy for you. Below I mention Encryption and decryption code that can work on any file. 
+
+# pip install cryptographyfrom cryptography.fernet import Fernetdef encrypt(filename, key):
+fernet = Fernet(key) 
+
+with open(filename, 'rb') as file:
+original = file.read() 
+
+encrypted = fernet.encrypt(original) 
+
+with open(filename, 'wb') as enc_file:
+enc_file.write(encrypted)def decrypt(filename, key):
+fernet = Fernet(key) 
+
+with open(filename, 'rb') as enc_file:
+encrypted = enc_file.read()decrypted = fernet.decrypt(encrypted)
+with open(filename, 'wb') as dec_file:
+dec_file.write(decrypted)# Generate Key
+key = Fernet.generate_key()
+filename = input("Enter Your filename: ")
+encrypt(filename, key)
+decrypt(filename, key) 
+
+👉 Battery Notification 
+
+You had seen a battery notification on your Mobile Phone. So what if your Laptop also notifies you about your Battery status. This Python Script will do the exact same work by using 3 modules it can be Battery Notifier. Check out the code below. 
+
+pip install win10toast
+pip install pywin32
+pip install pyttsx3import psutil
+import time
+import pyttsx3
+import threading
+from win10toast import ToastNotifierbot=pyttsx3.init()
+bot.setProperty('rate',110)
+bot.setProperty('volume',3)
+toaster = ToastNotifier()def display_notification(text):
+toaster.show_toast(text, duration=8)
+while toaster.notification_active():
+time.sleep(0.003)def Battery_Notification():
+while (True):
+time.sleep(2)
+battery = psutil.sensors_battery()
+plugged = battery.power_plugged
+percent = int(battery.percent)if percent < 15:
+if plugged == False:
+processThread = threading.Thread(target=display_notification, args=("Your Battery at "+str(percent)+"% Please Plug the charger",))
+processThread.start()
+bot.say("Your battery is getting low so plug your charger")
+bot.runAndWait()elif percent >= 99:
+if plugged == True:
+processThread = threading.Thread(target=display_notification, args=("Charging is getting complete",))
+processThread.start()
+bot.say("Charging is Completed")
+bot.runAndWait()Battery_Notification()elif percent >= 99:
+if plugged == True:
+processThread = threading.Thread(target=display_notification, args=("Charging is getting complete",))
+processThread.start()
+bot.say("Charging is Completed")
+bot.runAndWait() 
+
+👉 Convert Images to PDF 
+
+If you had a lot of images and looking for converting them into a single Pdf then this automation script will be handy for you. 
+
+import os
+import img2pdf#Method 1
+with open("Output.pdf", "wb") as file:
+file.write(img2pdf.convert([i for i in os.listdir('Path of image_Directory') if i.endswith(".jpg")]))#Method 2
+from fpdf import FPDF
+Pdf = FPDF()list_of_images = ["1.jpg", "2.jpg"]
+for i in list_of_images: # list of images with filename
+Pdf.add_page()
+Pdf.image(i,x,y,w,h)
+Pdf.output("yourfile.pdf", "F") 
+
+👉 Text to Speech AI Bot 
+
+If you had known about the Jarvis AI then this script will work similarly. It uses google Text to Speech API to convert your written Text to AI bot voice. checkout the code below. 
+
+# pip install gTTSfrom pygame import mixer
+from gtts import gTTSdef main():
+tts = gTTS('Learn Python from Medium')
+tts.save('python.mp3')
+mixer.init()
+mixer.music.load('python.mp3')
+mixer.music.play()if __name__ == "__main__":
+main()
+
+
+
+
+
+
+
+
+
+
+
+DEVELOPMENT SETUP
+
 *JETBRAINS
 1 Toolbox
 2 Space (Internet) 
@@ -12,8 +189,10 @@
 *Alternative 
 Anaconda
 VScode
-------------------------------------------
 
+
+------------------------------------------------------------------------------------------------
+USEFUL CONTACTS & LINKS
 HASS Consult 0709479479
 020 3258000
 
@@ -35,9 +214,7 @@ Telephone
 Telephone
 
 0722488400
-Link
 
-@MoiGideon on Twitter
 -------------------
 https://foht.co.ke/  Software Engineer
 https://thintech.co.ke/  Consultance
