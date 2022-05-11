@@ -285,7 +285,7 @@ Cybersecurity
 
 Distributed Systems: https://youtube.com/channel/UCnhpOONF1c1FtipDF8LPdqQ
 
-
+Data Engineer: https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide
 
 
 Applying for Attachment:
