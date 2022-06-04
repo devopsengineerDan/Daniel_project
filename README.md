@@ -3947,6 +3947,34 @@ cd /mnt/c/Users/Dan/
 cd /mnt/c/Users/Dan/Desktop/Projects/
 
 
+
+SETUP WINDOWS HELLO AND FINGERPRINT
+
+1. Update Your PC
+2. Enable Biometric from Administration
+3. Update Your Fingerprint Device Driver
+
+[h]First of all, make sure that you’ve installed any possible update that is available for Windows 10. See if you have needed patches installed[/h]:
+
+1) On your keyboard, press the Windows logo key and I at the same time. Click Update & security.
+2) Click the Check for updates button. Install available updates found.
+
+
+When you finish, move on to the second step.
+
+[h]If you don’t have the administrator permission, you’re not likely to use Windows Hello on your PC. To fix it: [/h]
+1) On your keyboard, press the Windows logo key and R at the same time, then type gpedit.msc and press Enter.
+2) Follow the path: Computer Configuration > Administrative Templates > Windows Components. On the right side of the pane, double-click Allow the use of biometrics.
+3) Click Enabled. Then click Apply and OK to save the change.
+4) Reboot your computer and then move on to the next step.
+
+[h]If your fingerprint device driver is outdated or faulty, you’ll find the hardware impossible to use. You can update the device driver to fix it.[/h]
+
+1) On your keyboard, press the Windows logo key and X at the same time, and click Device Manager.
+2) Click the icon for Scan for hardware changes on the top bar.
+3) Expand Biometric devices. Right-click the fingerprint sensor device that you have and click Uninstall.
+4) You can choose to reboot your computer for Windows to help you locate the driver that it could find for your device or, you can choose to update the driver by yourself.
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
