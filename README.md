@@ -175,6 +175,7 @@ main()
 
 DEVELOPMENT SETUP
 
+LINUX
 *JETBRAINS
 1 Toolbox
 2 Space (Internet) 
@@ -188,16 +189,17 @@ DEVELOPMENT SETUP
 
 *Alternative 
 Anaconda
-VScode
+VScode  
 
 
+VScode plugin   https://youtu.be/u21W_tfPVrY
+
+WINDOWS
+Visual Studio
 ------------------------------------------------------------------------------------------------
 USEFUL CONTACTS & LINKS
 HASS Consult 0709479479
 020 3258000
-
-
-
 
 
 0745238973 EABL Rose Kibiru
