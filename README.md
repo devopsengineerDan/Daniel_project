@@ -289,6 +289,7 @@ Distributed Systems: https://youtube.com/channel/UCnhpOONF1c1FtipDF8LPdqQ
 
 Data Engineer: https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide
 
+Data Structures: https://youtu.be/B31LgI4Y4DQ
 
 Applying for Attachment:
 
