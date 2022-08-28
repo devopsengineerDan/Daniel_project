@@ -1,3 +1,23 @@
+Got the letter in 2016
+
+Computer Networks 
+Introduction to Programming and Algorithms
+
+Network Design and Management
+Software Engineering 
+
+Project Management 
+Advanced Programming 
+
+Professional Issues in Information Technology 
+Electronic  Commerce
+
+April 2020  Project Presentation 
+
+
+
+
+
 PYTHON SCRIPTS
 
 
