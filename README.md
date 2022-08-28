@@ -7,7 +7,7 @@ Network Design and Management
 Software Engineering 
 
 Project Management 
-Advanced Programming 
+Advanced Database Management Systems
 
 Professional Issues in Information Technology 
 Electronic  Commerce
