@@ -14,6 +14,8 @@ Electronic  Commerce
 
 April 2020  Project Presentation 
 
+John Computer Networks and Cybersecurity 
+Patrick Java Enterprise Edition 
 
 
 
