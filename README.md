@@ -1,5 +1,5 @@
 Got the letter in 2016
-
+I was a Self sponsored student
 Computer Networks 
 Introduction to Programming and Algorithms
 
@@ -17,7 +17,7 @@ April 2020  Project Presentation
 John Computer Networks and Cybersecurity 
 Patrick Java Enterprise Edition 
 
-
+Two Attachments
 
 
 PYTHON SCRIPTS
