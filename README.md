@@ -197,6 +197,8 @@ main()
 
 DEVELOPMENT SETUP
 
+Gitlab
+
 LINUX
 *JETBRAINS
 1 Toolbox
