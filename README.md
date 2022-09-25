@@ -223,6 +223,10 @@ VS code Live
 
 WINDOWS
 Visual Studio
+
+C language
+Conan package manager 
+vcpkg Windows os package manager 
 ------------------------------------------------------------------------------------------------
 USEFUL CONTACTS & LINKS
 HASS Consult 0709479479
