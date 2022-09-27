@@ -400,11 +400,11 @@ ID: 35687960
 saf: 0711444518 PIN1:1274 PIN2:8411 PUK1:98828111 PUK2:15573510 CHEDA:1496
 saf buy airtime to telcom baybill 215215 acc telcom number
 telcom: 0777262531
-*telkom: 0778860407
+*telkom: 0771587812
 
 work
 saf: 0706738969 PIN1:8218 PIN2:5372 PUK1:42844297 PUK2:28282050 CHEDA:1493
-telcom: 0779037127
+telcom: 
 
 phone: 1493
 computer os: observer computer hardware: creator windows: d@97
