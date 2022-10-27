@@ -78,10 +78,25 @@ Plagerism_checker(file_1, file_2)
 This is another simple automation script to download Youtube videos. Now you don’t need any web app or software, just use the below code to download any video. 
 
 # pip install pytube
+1st way
+from pytube import Youtube
+#Insert video URL
+yt_video = YouTube("<video link>")
+
+#File extension and resolution
+v_file = yt_video.streams.filter(file_extension="mp4").get_by_resolution("1080p")
+
+#Download and save video
+v_file.download("save_path i.e C:\\Users\Dan\Desktop")
+print(">>>Download Complete")
+
+
+2nd way
 import pytubelink = input('Enter Youtube Video URL')
 yt = pytube.Youtube(link)
 yt.streams.first().download()
 print('downloaded', link) 
+
 
 👉 Convert PDF to CSV 
 
