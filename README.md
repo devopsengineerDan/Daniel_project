@@ -1,5 +1,5 @@
-*Mogire Victor Maranga 5(registrar,skul,dep,list,finance)-2(scripts,letter)
-*Shilla 2
+*Mogire Victor Maranga UNITS IMAGE + DETAILS 5(registrar,skul,dep<->examdean,list,financeVICTORCOMPLETESTATUS)-2(scripts,letter)
+*Shilla 2(scripts,letter)
 Got the letter in 2016
 I was a Self sponsored student
 Computer Networks 
