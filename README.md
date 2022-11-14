@@ -253,6 +253,9 @@ VScode
 VScode plugin   https://youtu.be/u21W_tfPVrY
 Git lens
 VS code Live
+Pylance
+Python indent
+
 
 
 WINDOWS
