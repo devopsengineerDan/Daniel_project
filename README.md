@@ -1,5 +1,11 @@
 *Mogire Victor Maranga UNITS IMAGE + DETAILS 5(registrar,skul,dep<->examdean,list,financeVICTORCOMPLETESTATUS)-2(scripts,letter)
 *Shilla 2(scripts,letter)
+
+MAISH @ STAMP -> 0721770531
+March 100k-> Dan(Reg-Skul-Dep-Grad List)(IfAccessibleOLDSYSTEM COZ OF DATE IN NEWSYSTEM COMPLETE_UNITS-Use Victor's OLDSYSTEM CRITERIA& COMPLETE_FINANCE-Use Victor's OldSystem CompletionRemarks& Shilla(Reg - Skul-Dep - 4 TScripts) & 5k-> Maish - CSChairStamp  For ShillaChairLetter
+September 50k-> Dn Backend **James Go Ahead For October**4TScripts + ChairLetter 
+October -> **James Go Ahead**4TScripts + ChairLetter
+
 Got the letter in 2016
 I was a Self sponsored student
 Computer Networks 
@@ -252,6 +258,7 @@ VScode
 
 VScode plugin   https://youtu.be/u21W_tfPVrY
 Git lens
+Github Copilot 
 VS code Live
 Pylance
 Python indent
