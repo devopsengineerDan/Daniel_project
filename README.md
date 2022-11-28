@@ -2,7 +2,7 @@
 *Shilla 2(scripts,letter)
 
 MAISH @ STAMP -> 0721770531
-March 100k-> Dan(Reg-Skul-Dep-Grad List)(IfAccessibleOLDSYSTEM COZ OF DATE IN NEWSYSTEM COMPLETE_UNITS-Use Victor's OLDSYSTEM CRITERIA& COMPLETE_FINANCE-Use Victor's OldSystem CompletionRemarks& Shilla(Reg - Skul-Dep - 4 TScripts) & 5k-> Maish - CSChairStamp  For ShillaChairLetter
+March 100k-> Dan(Reg-Skul-Dep-[1,2,3,4 Lists and Grad List])(IfAccessibleOLDSYSTEM COZ OF DATE IN NEWSYSTEM COMPLETE_UNITS-Use Victor's OLDSYSTEM CRITERIA& COMPLETE_FINANCE-Use Victor's OldSystem CompletionRemarks& Shilla(Reg - Skul-Dep - 4 TScripts) & 5k-> Maish - CSChairStamp  For ShillaChairLetter
 September 50k-> Dn Backend **James Go Ahead For October**4TScripts + ChairLetter 
 October -> **James Go Ahead**4TScripts + ChairLetter
 
@@ -4800,6 +4800,66 @@ When you finish, move on to the second step.
 2) Click the icon for Scan for hardware changes on the top bar.
 3) Expand Biometric devices. Right-click the fingerprint sensor device that you have and click Uninstall.
 4) You can choose to reboot your computer for Windows to help you locate the driver that it could find for your device or, you can choose to update the driver by yourself.
+
+
+The following are further optimization settings that can be figured once your BIOS is modded.
+
+* These settings are universally recommended optimizations for your hackintosh:
+
+``` mermaid
+graph TD
+    id1[Advance Tab]-->id2[Intel Advanced Menu];
+    id2-->id3[System Agent Configuration];
+    id2-->id4[Power & Performance];
+    id3-->id5[Graphics Configuration];
+    id4-->id6[CPU - Power Management Control];
+    id5-->|DVMT Pre-Allocated|64M;
+    id6-->id7[CPU Lock Configuration];
+    id7-->|CFG Lock|Disabled;
+```
+
+* I also recommend undervolting your machine regarless of your usage, the following are stable settings for my x1c6 with `i7-8650U`, verified by stress testing with `Prime95` and `Heaven Benchmark`, your may be worse or better, please do your own testing. In addition, I suggest you repaste your machine with an aftermarket thermal paste for lower temps and a better undervolt.
+
+``` mermaid
+graph TD
+    id1[Advance Tab]-->id2[Intel Advanced Menu];
+    id2-->id3[OverClocking Performance Menu];
+    id3-->|OverClocking Feature|Enabled;
+    id3-->Processor;
+    id3-->GT;
+    id3-->Uncore;
+    Processor-->|Voltage Offset|100;
+    Processor-->|Offset Prefix|id4[-];
+    GT-->|GT Voltage Offset|id8[80];
+    GT-->|Offset Prefix|id5[-];
+    GT-->|GTU Voltage Offset|id8;
+    GT-->|Offset Prefix|id5;
+    Uncore-->|Uncore Voltage Offset|80;
+    Uncore-->|Offset Prefix|id6[-];
+```
+
+* The following settings depend on your own personal preference:
+
+ * If you want to optimize CPU **performance** at the cost of battery:
+
+``` mermaid
+graph LR
+    id1[Advance Tab]-->id2[Power & Performance];
+    id2-->id3[CPU - Power Management Control];
+    id3-->|Boot Performance Mode|id4[Turbo Performance];
+    id3-->|Config TDP Configurations|Up;
+```
+
+ * If you want to optimize **battery time** at the cost of performance:
+
+``` mermaid
+graph LR
+    id1[Advance Tab]-->id2[Power & Performance];
+    id2-->id3[CPU - Power Management Control];
+    id3-->|Boot Performance Mode|id4[Max Battery];
+    id3-->|Config TDP Configurations|Down;
+```
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Belwe BT Bold
