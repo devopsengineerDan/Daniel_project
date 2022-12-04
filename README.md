@@ -1,10 +1,21 @@
 *Mogire Victor Maranga UNITS IMAGE + DETAILS 5(registrar,skul,dep<->examdean,list,financeVICTORCOMPLETESTATUS)-2(scripts,letter)
 *Shilla 2(scripts,letter)
-
+@CHARITY -> 0721581667
 MAISH @ STAMP -> 0721770531
 March 100k-> Dan(Reg-Skul-Dep-[1,2,3,4 Lists and Grad List])(IfAccessibleOLDSYSTEM COZ OF DATE IN NEWSYSTEM COMPLETE_UNITS-Use Victor's OLDSYSTEM CRITERIA& COMPLETE_FINANCE-Use Victor's OldSystem CompletionRemarks& Shilla(Reg - Skul-Dep - 4 TScripts) & 5k-> Maish - CSChairStamp  For ShillaChairLetter
 September 50k-> Dn Backend **James Go Ahead For October**4TScripts + ChairLetter 
 October -> **James Go Ahead**4TScripts + ChairLetter
+
+
+
+OR 
+
+[Victor's Resemblance]
+4) James Go Ahead -> [4Tscripts & Completion Letter]
+3) Dep ->Frontend_CompletedStatus & Backend_CompletedStatus
+2) School ->Frontend_CompletedStatus & 1,2,3,4 List_CompletedStatus & Registered for YEAR4 ALL UNITS  in [2020_DATE] OLD SYSTEM [Have CompletedStatus] & Finance_CompletedStatus[2020_DATE] 
+1) Registrar ->[Admission+Frontend Units]_CompletedStatus & Grad List_CompletedStatus & Finance_CompletedStatus[2020_DATE] 
+
 
 Got the letter in 2016
 I was a Self sponsored student
