@@ -989,6 +989,18 @@ uname -mrs
 
 ----------------------------------------------------
 
+(OFFICIAL) Gnome 40 Desktop on ubuntu 20
+Install the devacom/gnome-40 and devacom/x11 repositories to fix gnome-shell dependencies:
+
+sudo add-apt-repository ppa:devacom/gnome-40
+sudo add-apt-repository ppa:devacom/x11
+sudo apt-get update
+sudo apt-get upgrade
+
+Install gnome-shell before the upgrade (fix desktop will not load):
+
+sudo apt install ubuntu-desktop
+
 (UNOFFICIAL) Gnome 40 Desktop on ubuntu 20
 sudo add-apt-repository ppa:shemgp/gnome-40
 sudo apt install mutter
