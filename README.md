@@ -4762,19 +4762,28 @@ pip install djangorestframework
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+LOGIN LINUX & WINDOWS
+devopsengineerDan
+Dan@1997
                                                                
 							       <--WINDOWS-->
 
-Control panel -> dxdiag
-Control panel -> %temp%
-cpu-z         -> ram,cpu,graphics type and storage size
-fsutil behavior query DisableDeleteNotify   -> chech trim technology implementation
+
+Download cpu-z         -> ram,cpu,graphics type and storage size
+
+CHECK TRIM TECHNOLOGY IMPLEMENTATION 
+Go to  cmd
+Check - fsutil behavior query DisableDeleteNotify  
+Enable - fsutil behavior set DisableDeleteNotify 0 
+Disable - fsutil behavior set DisableDeleteNotify 1 
 
 DISABLE AUTO-UPDATES
-Control panel -> services.msc
-Windows update -> Disable
+Ctrl + Windows - services.msc -> Windows update -> Disable
 
+Ctrl + Windows - wmic -> bios get serialnumber
+Ctrl + Windows - winver -> To check Windows OS Build
+Ctrl + Windows - dxdiag
+Ctrl + Windows - %temp% -> Delete temp files
 
 WINDOWS OFFICE SETUP https://getintopc.com/?s=Office+2016&submit=Search
 
