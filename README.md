@@ -4763,9 +4763,10 @@ pip install djangorestframework
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 LOGIN LINUX & WINDOWS
-devopsengineerDan
-Dan@1997
-                                                               
+PASSWORD - devopsengineerDan
+PIN - Dan@1997
+
+ROOT - devopsengineer                                                             
 							       <--WINDOWS-->
 
 
