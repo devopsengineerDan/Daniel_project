@@ -999,7 +999,7 @@ sudo apt-get upgrade
 
 Install gnome-shell before the upgrade (fix desktop will not load):
 
-sudo apt install ubuntu-desktop
+sudo apt install ubuntu-desktop gnome-shell gnome-control-center
 
 (UNOFFICIAL) Gnome 40 Desktop on ubuntu 20
 sudo add-apt-repository ppa:shemgp/gnome-40
