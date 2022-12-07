@@ -482,6 +482,51 @@ ID number
 RECONFIGURE BROKEN DEPENDENCIES
 sudo dpkg --configure -a
 
+---------------------- GNOME INSTALLATION ---------------------
+VANILLA GNOME BROKEN DEPENDECIES
+
+sudo apt install vanilla-gnome-desktop
+
+This worked successfully and I was able to log into GNOME 40.4. But I got a random dpkg error, as follows:
+
+Setting up vanilla-gnome-default-settings (20.04.1) ...
+update-alternatives: error: no alternatives for gdm3-theme.gresource
+dpkg: error processing package vanilla-gnome-default-settings (--configure):
+ installed vanilla-gnome-default-settings package post-installation script subprocess returned error exit status 2
+dpkg: dependency problems prevent configuration of vanilla-gnome-desktop:
+ vanilla-gnome-desktop depends on vanilla-gnome-default-settings; however:
+  Package vanilla-gnome-default-settings is not configured yet.
+
+dpkg: error processing package vanilla-gnome-desktop (--configure):
+ dependency problems - leaving unconfigured
+No apport report written because the error message indicates its a followup error from a previous failure.
+                                                                                                          Errors were encountered while processing:
+ vanilla-gnome-default-settings
+ vanilla-gnome-desktop
+E: Sub-process /usr/bin/dpkg returned an error code (1)
+
+***SOLUTION***
+sudo sed -i "s/gdm3-theme.gresource/gdm-theme.gresource/" /var/lib/dpkg/info/vanilla-gnome-default-settings.postinst && sudo apt -f install
+
+sudo apt install vanilla-gnome-desktop
+sudo apt install gnome-session gnome-terminal
+
+sudo apt update && sudo apt upgrade
+sudo apt install ubuntu-gnome-desktop
+sudo apt install ubuntu-desktop-minimal
+
+
+sudo apt install tasksel
+sudo tasksel
+
+press SPACE, then TAB to switch to the OK/Cancel buttons, and press ENTER to OK.
+
+
+
+
+
+
+
 MAINTENANCE OF SSD
 sudo systemctl enable fstrim.timer
 systemctl status fstrim.timer 
@@ -574,6 +619,16 @@ sudo dnf install fontconfig-enhanced-defaults -y
 Install Bleachbit:
 sudo dnf install bleachbit
 
+Install Preload:
+sudo apt install preload
+
+Improve Laptop Battery:
+sudo dnf install tlp tlp-rdw
+Just run the above command and you don’t need to do anything else. It’ll make your laptop battery last longer by implementing some power-saving protocols. Sorry, I forgot this one in the video. 
+
+sudo tlp start
+
+
 
 UBUNTU
 Update & Upgrade:
@@ -594,6 +649,8 @@ sudo apt install preload
 Improve Laptop Battery:
 sudo apt install tlp tlp-rdw
 Just run the above command and you don’t need to do anything else. It’ll make your laptop battery last longer by implementing some power-saving protocols. Sorry, I forgot this one in the video. 
+
+sudo tlp start
 
 Firefox Tweaks:
 about:config
@@ -784,7 +841,43 @@ STORAGE 200.00GB
  
 INSTALL VIRTUALBOX IN UBUNTU
 sudo apt install virtualbox
- 
+
+
+
+
+
+FIXING modrobe  ERROR
+
+Uninstall virtualbox-dkms and its configurations by running the below commands:
+sudo apt-get remove virtualbox-dkms
+sudo apt-get remove --purge virtualbox-dkms
+
+Install Linux headers and Linux image by running the below command:
+sudo apt-get install -y linux-headers-amd64 linux-image-amd64
+
+Install virtualbox-dkms
+sudo apt-get install -y virtualbox-dkms
+    
+
+OR
+
+As the first step run this command:
+
+sudo modprobe vboxdrv
+
+If it's not helpful run these commands:
+
+sudo apt update
+sudo apt install --reinstall linux-headers-$(uname -r) virtualbox-dkms dkms
+
+Then reboot your system and after reboot run this command:
+
+sudo modprobe vboxdrv
+
+
+
+
+
 ADDING GUEST EDITION ISO TO ENLARGE THE SCREEN + OTHER FEATURES
 TERMINAL OPTION  
 # su
