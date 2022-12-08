@@ -5268,8 +5268,8 @@ graph LR
 		
     AND
 
-   https://www.youtube.com/watch?v=2WDASJ0ye0A  -> (Installation of Windows) Overview + Better Display Option 
-   https://www.youtube.com/watch?v=jLRmVNWOrgo  -> (Installation of Windows) Detailed
+   https://www.youtube.com/watch?v=2WDASJ0ye0A  -> Windows 10 on KVM (Installation of Windows) Overview + Better Display Option 
+   https://www.youtube.com/watch?v=jLRmVNWOrgo  -> Creating Virtual Machines in QEMU | Virt-manager | KVM   (Installation of Windows) Detailed
    								       
 								       
 2. https://www.youtube.com/watch?v=DYpaX4BnNlg&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=2  -> qemu/kvm qemu/kvm Bridge and NAT networking
