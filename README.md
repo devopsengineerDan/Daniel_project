@@ -968,7 +968,8 @@ Set flash sudo users
 sudo adduser dan vboxusers
 
 -------------------------------------------
-Set up ssh
+Set up ssh And Port Forwarding -> https://www.simplified.guide/virtualbox/port-forwarding (CHECK WINDOWS DOC FILE)
+				
 
 1)Assigning static ip address to the localhost network
 (((    ifconfig OR ip a    )))
@@ -5289,6 +5290,6 @@ graph LR
 ► 7:11 Setting up shared folders								    
 								       
 8. Port Forwarding in KVM https://www.cyberciti.biz/faq/kvm-forward-ports-to-guests-vm-with-ufw-on-linux/
-   Check Windows Doc File
+   (CHECK WINDOWS DOC FILE)
 
 
