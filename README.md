@@ -3198,13 +3198,15 @@ After that, utilize the following “curl” command for downloading the Anacond
 https://repo.anaconda.com/archive/
 
 				
-$ cd /tmp.
-$ curl --output anaconda.sh https://repo.anaconda.com/archive/Anaconda3-5.3.1-Linux-x86_64.sh.
-$ sha256sum anaconda.sh.
-$ bash anaconda.sh.
-$ source ~/.bashrc.
-$ conda list.
-$ conda --version.
+$ cd /tmp
+$ curl --output anaconda.sh https://repo.anaconda.com/archive/Anaconda3-5.3.1-Linux-x86_64.sh
+$ sha256sum anaconda.sh
+$ bash anaconda.sh
+$ source ~/.bashrc
+$ conda list
+$ conda --version
+				
+$ sudo dpkg --remove code        For Microsoft
 
 +++++++++++++++++++++
 
@@ -5261,8 +5263,14 @@ graph LR
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-1. https://www.youtube.com/watch?v=vyLNpPY-Je0&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=1  -> qemu/kvm & virt-manager installation on Ubuntu 22.04
+1. https://www.youtube.com/watch?v=vyLNpPY-Je0&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=1  -> qemu/kvm & virt-manager installation on Ubuntu 22.04    (Installation of Linux)
    Check Windows Doc File
+		
+    AND
+
+   https://www.youtube.com/watch?v=2WDASJ0ye0A  -> (Installation of Windows) Overview + Better Display Option 
+   https://www.youtube.com/watch?v=jLRmVNWOrgo  -> (Installation of Windows) Detailed
+   								       
 								       
 2. https://www.youtube.com/watch?v=DYpaX4BnNlg&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=2  -> qemu/kvm qemu/kvm Bridge and NAT networking
 3. https://www.youtube.com/watch?v=1SDvth66i-4&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=3  -> qemu/kvm Snapshots tutorial
@@ -5270,8 +5278,10 @@ graph LR
 5. https://www.youtube.com/watch?v=UcF4JoFqd9E&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=5	-> qemu/kvm DD tutorial - how to clone, backup and          restore disks and partitions
 								       
 6. https://www.youtube.com/watch?v=N7wvqHvmSN8&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=6  -> qemu/kvm How to enlarge Qemu/kvm virtual disk
-				
+	
 								       
+								       
+	********** ONLY ON LINUX VMS **********  							       
 7. https://www.youtube.com/watch?v=9FBhcOnCxM8&list=TLPQMDgxMjIwMjLiC7C3yo4mlw&index=10   -> 3 POINTS Below
 
 ► 0:00 Intro
