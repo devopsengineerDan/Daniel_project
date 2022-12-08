@@ -562,8 +562,9 @@ AMDVLK = Open source vulkan components of AMDGPU-Pro driver.
 
 AMDGPU + MESA + Radeon-Vulkan is what is most commonly used by gamers because it has the best game compatibility and performance. 
 
-
-
+MESA INSTALLATION
+sudo lshw -c video  OR   sudo lspci -nn | grep -e VGA						
+ sudo apt install mesa-utils
 
 FEDORA
 Update & Upgrade (DO FIRST):
@@ -894,6 +895,57 @@ TERMINAL OPTION
 UI OPTION
 
 
+				
+				
+				
+				
+				
+				
+******QEMU/KEMU******				
+				
+1. https://www.youtube.com/watch?v=vyLNpPY-Je0&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=1  -> qemu/kvm & virt-manager installation on Ubuntu 22.04    (Installation of Linux)
+   Check Windows Doc File
+		
+    AND
+
+   https://www.youtube.com/watch?v=2WDASJ0ye0A  -> Windows 10 on KVM (Installation of Windows) Overview + Better Display Option 
+   https://www.youtube.com/watch?v=jLRmVNWOrgo  -> Creating Virtual Machines in QEMU | Virt-manager | KVM   (Installation of Windows) Detailed
+   								       
+								       
+2. https://www.youtube.com/watch?v=DYpaX4BnNlg&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=2  -> qemu/kvm qemu/kvm Bridge and NAT networking
+3. https://www.youtube.com/watch?v=1SDvth66i-4&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=3  -> qemu/kvm Snapshots tutorial
+4. https://www.youtube.com/watch?v=0Ny0__uTGfM&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=4  -> qemu/kvm How to migrate a VM to another computer
+5. https://www.youtube.com/watch?v=UcF4JoFqd9E&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=5	-> qemu/kvm DD tutorial - how to clone, backup and          restore disks and partitions
+								       
+6. https://www.youtube.com/watch?v=N7wvqHvmSN8&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=6  -> qemu/kvm How to enlarge Qemu/kvm virtual disk
+	
+								       
+								       
+	********** ONLY ON LINUX VMS **********  							       
+7. https://www.youtube.com/watch?v=9FBhcOnCxM8&list=TLPQMDgxMjIwMjLiC7C3yo4mlw&index=10   -> 3 POINTS Below
+
+► 0:00 Intro
+► 2:25 Connecting USB devices
+► 7:11 Setting up shared folders								    
+								       
+8. Port Forwarding in KVM https://www.cyberciti.biz/faq/kvm-forward-ports-to-guests-vm-with-ufw-on-linux/
+   (CHECK WINDOWS DOC FILE)
+
+NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto-configure-setup-firewall-with-ufw-on-ubuntu-linux/
+(CHECK WINDOWS DOC FILE)
+								       
+								       
+								       
+								       
+								       
+			
+				
+				
+				
+				
+				
+				
+				
 *VIRTUALBOX GUEST ADDITIONS ISO 	http://download.virtualbox.org/virtualbox/5.0.24/VBoxGuestAdditions_5.0.24.iso		
 *Install kali tools ( install katoolin) 
       OR
@@ -5264,42 +5316,7 @@ graph LR
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-1. https://www.youtube.com/watch?v=vyLNpPY-Je0&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=1  -> qemu/kvm & virt-manager installation on Ubuntu 22.04    (Installation of Linux)
-   Check Windows Doc File
-		
-    AND
-
-   https://www.youtube.com/watch?v=2WDASJ0ye0A  -> Windows 10 on KVM (Installation of Windows) Overview + Better Display Option 
-   https://www.youtube.com/watch?v=jLRmVNWOrgo  -> Creating Virtual Machines in QEMU | Virt-manager | KVM   (Installation of Windows) Detailed
-   								       
-								       
-2. https://www.youtube.com/watch?v=DYpaX4BnNlg&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=2  -> qemu/kvm qemu/kvm Bridge and NAT networking
-3. https://www.youtube.com/watch?v=1SDvth66i-4&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=3  -> qemu/kvm Snapshots tutorial
-4. https://www.youtube.com/watch?v=0Ny0__uTGfM&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=4  -> qemu/kvm How to migrate a VM to another computer
-5. https://www.youtube.com/watch?v=UcF4JoFqd9E&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=5	-> qemu/kvm DD tutorial - how to clone, backup and          restore disks and partitions
-								       
-6. https://www.youtube.com/watch?v=N7wvqHvmSN8&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=6  -> qemu/kvm How to enlarge Qemu/kvm virtual disk
-	
-								       
-								       
-	********** ONLY ON LINUX VMS **********  							       
-7. https://www.youtube.com/watch?v=9FBhcOnCxM8&list=TLPQMDgxMjIwMjLiC7C3yo4mlw&index=10   -> 3 POINTS Below
-
-► 0:00 Intro
-► 2:25 Connecting USB devices
-► 7:11 Setting up shared folders								    
-								       
-8. Port Forwarding in KVM https://www.cyberciti.biz/faq/kvm-forward-ports-to-guests-vm-with-ufw-on-linux/
-   (CHECK WINDOWS DOC FILE)
-
-NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto-configure-setup-firewall-with-ufw-on-ubuntu-linux/
-(CHECK WINDOWS DOC FILE)
-								       
-								       
-								       
-								       
-								       
-								       
+					       
 								       
 								       
 							
