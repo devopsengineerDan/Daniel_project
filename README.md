@@ -4867,7 +4867,10 @@ pip install djangorestframework
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-LOGIN LINUX & WINDOWS
+
+				
+------------------LOGIN LINUX & WINDOWS--------------------
+				
 PASSWORD - devopsengineerDan
 PIN - Dan@1997
 
@@ -4876,6 +4879,8 @@ ROOT - devopsengineer
 
 
 Download cpu-z         -> ram,cpu,graphics type and storage size
+Download Intel Graphics Command Center and Modify Settings to High/Ultra
+								       
 
 CHECK TRIM TECHNOLOGY IMPLEMENTATION 
 Go to  cmd
