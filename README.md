@@ -5292,4 +5292,14 @@ graph LR
 8. Port Forwarding in KVM https://www.cyberciti.biz/faq/kvm-forward-ports-to-guests-vm-with-ufw-on-linux/
    (CHECK WINDOWS DOC FILE)
 
-
+NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto-configure-setup-firewall-with-ufw-on-ubuntu-linux/
+(CHECK WINDOWS DOC FILE)
+								       
+								       
+								       
+								       
+								       
+								       
+								       
+								       
+							
