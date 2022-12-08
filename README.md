@@ -5261,14 +5261,23 @@ graph LR
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-1. https://www.youtube.com/watch?v=vyLNpPY-Je0&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=1
-2.
-3.
-4.
-5. https://www.youtube.com/watch?v=UcF4JoFqd9E&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=5																		       
-6. https://www.youtube.com/watch?v=N7wvqHvmSN8&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=7
-								 
-7.								      
+1. https://www.youtube.com/watch?v=vyLNpPY-Je0&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=1  -> qemu/kvm & virt-manager installation on Ubuntu 22.04
+   Check Windows Doc File
+								       
+2. https://www.youtube.com/watch?v=DYpaX4BnNlg&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=2  -> qemu/kvm qemu/kvm Bridge and NAT networking
+3. https://www.youtube.com/watch?v=1SDvth66i-4&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=3  -> qemu/kvm Snapshots tutorial
+4. https://www.youtube.com/watch?v=0Ny0__uTGfM&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=4  -> qemu/kvm How to migrate a VM to another computer
+5. https://www.youtube.com/watch?v=UcF4JoFqd9E&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=5	-> qemu/kvm DD tutorial - how to clone, backup and          restore disks and partitions
+								       
+6. https://www.youtube.com/watch?v=N7wvqHvmSN8&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=6  -> qemu/kvm How to enlarge Qemu/kvm virtual disk
+				
+								       
+7. https://www.youtube.com/watch?v=9FBhcOnCxM8&list=TLPQMDgxMjIwMjLiC7C3yo4mlw&index=10   -> 3 POINTS Below
+
+► 0:00 Intro
+► 2:25 Connecting USB devices
+► 7:11 Setting up shared folders								    
+								       
 8. Port Forwarding in KVM https://www.cyberciti.biz/faq/kvm-forward-ports-to-guests-vm-with-ufw-on-linux/
    Check Windows Doc File
 
