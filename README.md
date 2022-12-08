@@ -3192,6 +3192,12 @@ conda update anaconda
 *****NEW*****				
 How to Install Anaconda in Ubuntu 22.04
 $ sudo apt install curl -y.
+				
+After that, utilize the following “curl” command for downloading the Anaconda installer script. Also, make sure you download the latest version by firstly visiting their official site:
+
+https://repo.anaconda.com/archive/
+
+				
 $ cd /tmp.
 $ curl --output anaconda.sh https://repo.anaconda.com/archive/Anaconda3-5.3.1-Linux-x86_64.sh.
 $ sha256sum anaconda.sh.
@@ -5254,9 +5260,16 @@ graph LR
 ```
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Belwe BT Bold
-
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1. https://www.youtube.com/watch?v=vyLNpPY-Je0&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=1
+2.
+3.
+4.
+5. https://www.youtube.com/watch?v=UcF4JoFqd9E&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=5																		       
+6. https://www.youtube.com/watch?v=N7wvqHvmSN8&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=7
+								 
+7.								      
+8. Port Forwarding in KVM https://www.cyberciti.biz/faq/kvm-forward-ports-to-guests-vm-with-ufw-on-linux/
+   Check Windows Doc File
 
 
