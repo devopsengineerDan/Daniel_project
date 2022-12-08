@@ -836,8 +836,9 @@ VIRTUAL BOX
 
 MINIKUBE username: “docker“, password: “tcuser“
  
-RAM 4096
+RAM 9096
 STORAGE 200.00GB
+Select iso from Storage on Right-Bottom Menu 
  
 INSTALL VIRTUALBOX IN UBUNTU
 sudo apt install virtualbox
@@ -846,7 +847,11 @@ sudo apt install virtualbox
 
 
 
-FIXING modrobe  ERROR
+FIXING 'modrobe'  ERROR
+
+Disable SecureBoot Option in Bios
+
+OR
 
 Uninstall virtualbox-dkms and its configurations by running the below commands:
 sudo apt-get remove virtualbox-dkms
@@ -1833,11 +1838,34 @@ Install python dev    sudo apt-get install build-essential libssl-dev libffi-dev
 		      sudo apt install python3-setuptools
 		      sudo apt install libpq-dev
 		      pip install python-dev-tools
+				
+*****NOTE*****
+bash_profile is executed for login shells, while . bashrc is executed for interactive non-login shells. When you login (type username and password) via console, either sitting at the machine, or remotely via ssh: . bash_profile is executed to configure your shell before the initial command prompt.
 
-		      
-		      
+				
+  WARNING: The scripts pip, pip3, pip3.10 and pip3.8 are installed in '/home/dan/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+		
+				
+HENCE IN SOLVING THIS ERROR WE USE:
+				
+$ nano /home/dan/.bash_profile
+export PATH="$PATH:/Users/dan/Library/Python/3.8/bin"
+Save-> Ctrl + o . Then, Enter
+Exit-> Ctri + x		
+$ echo $PATH
+CHECK BEST METHOD
+				 
+OR (BEST METHOD)
+$ export PATH="$HOME/.python3/bin:$PATH" -> AND ADD python/bin  FOR KALI LINUX
+$ echo $PATH
+
+				
+
+
 Install pip3          sudo apt install python3-pip
                       python -m pip install --upgrade pip
+		      OR python3 -m pip install --upgrade pip
 
 
 -------
@@ -1846,7 +1874,7 @@ Install  Rust and Cargo   check online
 $ curl https://sh.rustup.rs -sSf | sh
 $ source $HOME/.cargo/env
 $ export PATH="$HOME/.cargo/bin:$PATH"
-
+$ echo $PATH
 
 ***************************
 
@@ -1865,13 +1893,231 @@ cd src
 gedit main.rs
 
 cargo run
+				
+				
+-------------
+CLang
+sudo apt install build-essential
+sudo apt install cmake
+pip install conan   -> C/C++ PACKAGE MANAGER	
+export PATH="$HOME/.conan/bin:$PATH"
+echo $PATH
+				
+***********RUNNING CONAN***********
+				
+Conan C/C++ Package Manager Documentation https://docs.conan.io/en/latest/
+				
+				
+The source files to recreate this project are available in the example repository in GitHub. You can skip the manual creation of the folder and sources with this command:
 
-***************************
+$ git clone https://github.com/conan-io/examples.git && cd examples/libraries/poco/md5
+
+Create the following source file inside a folder. This will be the source file of our application:
+
+    md5.cpp¶
+
+     #include "Poco/MD5Engine.h"
+     #include "Poco/DigestStream.h"
+
+     #include <iostream>
+
+     int main(int argc, char** argv){
+         Poco::MD5Engine md5;
+         Poco::DigestOutputStream ds(md5);
+         ds << "abcdefghijklmnopqrstuvwxyz";
+         ds.close();
+         std::cout << Poco::DigestEngine::digestToHex(md5.digest()) << std::endl;
+         return 0;
+     }
+
+We know that our application relies on the Poco libraries. Let’s look for it in the ConanCenter remote, going to https://conan.io/center, and typing “poco” in the search box. We will see that there are some different versions available:
+
+    poco/1.8.1
+    poco/1.9.3
+    poco/1.9.4
+    ...
+
+NOTE
+
+The Conan client contains a command to search in remote repositories, and we could try $ conan search poco --remote=conancenter. You can perfectly use this command to search in your own repositories, but note that at the moment this might timeout in ConanCenter. The infrastructure is being improved to support this command too, but meanwhile using the ConanCenter UI is recommended.
+
+Let’s use this poco/1.9.4 version for our MD5 calculator app, creating a conanfile.txt inside our project’s folder with the following content:
+
+    conanfile.txt¶
+
+     [requires]
+     poco/1.9.4
+
+     [generators]
+     cmake
+
+    In this example we are using CMake to build the project, which is why the cmake generator is specified. This generator creates a conanbuildinfo.cmake file that defines CMake variables including paths and library names that can be used in our build. Read more about Generators.
+
+Next step: We are going to install the required dependencies and generate the information for the build system:
+
+    Important
+
+    If you are using GCC compiler >= 5.1, Conan will set the compiler.libcxx to the old ABI for backwards compatibility. In the context of this getting started example, this is a bad choice though: Recent gcc versions will compile the example by default with the new ABI and linking will fail without further customization of your cmake configuration. You can avoid this with the following commands:
+
+    $ conan profile new default --detect  # Generates default profile detecting GCC and sets old ABI
+    $ conan profile update settings.compiler.libcxx=libstdc++11 default  # Sets libcxx to C++11 ABI
+
+    You will find more information in How to manage the GCC >= 5 ABI.
+
+    $ mkdir build && cd build
+    $ conan install ..
+    ...
+    Requirements
+        bzip2/1.0.8 from 'conancenter' - Downloaded
+        expat/2.2.9 from 'conancenter' - Downloaded
+        openssl/1.1.1g from 'conancenter' - Downloaded
+        pcre/8.41 from 'conancenter' - Downloaded
+        poco/1.9.4 from 'conancenter' - Cache
+        sqlite3/3.31.1 from 'conancenter' - Downloaded
+        zlib/1.2.11 from 'conancenter' - Downloaded
+    Packages
+        bzip2/1.0.8:5be2b7a2110ec8acdbf9a1cea9de5d60747edb34 - Download
+        expat/2.2.9:6cc50b139b9c3d27b3e9042d5f5372d327b3a9f7 - Download
+        openssl/1.1.1g:6cc50b139b9c3d27b3e9042d5f5372d327b3a9f7 - Download
+        pcre/8.41:20fc3dfce989c458ac2372442673140ea8028c06 - Download
+        poco/1.9.4:73e83a21ea6817fa9ef0f7d1a86ea923190b0205 - Download
+        sqlite3/3.31.1:4559c5d4f09161e1edf374b033b1d6464826db16 - Download
+        zlib/1.2.11:6cc50b139b9c3d27b3e9042d5f5372d327b3a9f7 - Download
+
+    zlib/1.2.11: Retrieving package f74366f76f700cc6e991285892ad7a23c30e6d47 from remote 'conancenter'
+    Downloading conanmanifest.txt completed [0.25k]
+    Downloading conaninfo.txt completed [0.44k]
+    Downloading conan_package.tgz completed [83.15k]
+    Decompressing conan_package.tgz completed [0.00k]
+    zlib/1.2.11: Package installed f74366f76f700cc6e991285892ad7a23c30e6d47
+    zlib/1.2.11: Downloaded package revision 0
+    ...
+    poco/1.9.4: Retrieving package 645aaff0a79e6036c77803601e44677556109dd9 from remote 'conancenter'
+    Downloading conanmanifest.txt completed [48.75k]
+    Downloading conaninfo.txt completed [2.44k]
+    Downloading conan_package.tgz completed [5128.39k]
+    Decompressing conan_package.tgz completed [0.00k]
+    poco/1.9.4: Package installed 645aaff0a79e6036c77803601e44677556109dd9
+    poco/1.9.4: Downloaded package revision 0
+    conanfile.txt: Generator cmake created conanbuildinfo.cmake
+    conanfile.txt: Generator txt created conanbuildinfo.txt
+    conanfile.txt: Generated conaninfo.txt
+    conanfile.txt: Generated graphinfo
+
+Conan installed our Poco dependency but also the transitive dependencies for it: OpenSSL, zlib, sqlite and others. It has also generated a conanbuildinfo.cmake file for our build system.
+				
+
+
+Warning
+
+There are prebuilt binaries for several mainstream compilers and versions available in Conan Center repository, such as Visual Studio 14, 15, Linux GCC 4.9 and Apple Clang 3.5. Up to >130 different binaries for different configurations can be available in ConanCenter. But if your current configuration is not pre-built in ConanCenter, Conan will raise a “BinaryMissing” error. Please read carefully the error messages. You can build the binary package from sources using 'conan install .. --build=missing'  , it will succeed if your configuration is supported by the recipe (it is possible that some ConanCenter recipes fail to build for some platforms). You will find more info in the 'Building with other configurations' section.
+				
+				
+Now let’s create our build file. To inject the Conan information, include the generated conanbuildinfo.cmake file like this:
+
+    CMakeLists.txt¶
+
+     cmake_minimum_required(VERSION 2.8.12)
+     project(MD5Encrypter)
+
+     add_definitions("-std=c++11")
+
+     include(${CMAKE_BINARY_DIR}/conanbuildinfo.cmake)
+     conan_basic_setup()
+
+     add_executable(md5 md5.cpp)
+     target_link_libraries(md5 ${CONAN_LIBS})
+
+    Note
+
+    There are other integrations with CMake, like the cmake_find_package generators, that will use the find_package() CMake syntax (see CMake section).
+
+Now we are ready to build and run our MD5 app:
+
+    (win)
+    $ cmake .. -G "Visual Studio 16"
+    $ cmake --build . --config Release
+
+    (linux, mac)
+    $ cmake .. -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Release
+    $ cmake --build .
+    ...
+    [100%] Built target md5
+    $ ./bin/md5
+    c3fcd3d76192e4007dfb496cca67e13b
+
+
+Inspecting Dependencies
+
+The retrieved packages are installed to your local user cache (typically .conan/data), and can be reused from this location for other projects. This allows to clean your current project and continue working even without network connection. To search for packages in the local cache run:
+
+$ conan search "*"
+Existing package recipes:
+
+openssl/1.0.2t
+poco/1.9.4
+zlib/1.2.11
+...
+
+To inspect the different binary packages of a reference run:
+
+$ conan search poco/1.9.4@
+Existing packages for recipe poco/1.9.4:
+
+Package_ID: 645aaff0a79e6036c77803601e44677556109dd9
+    [options]
+        cxx_14: False
+        enable_apacheconnector: False
+        enable_cppparser: False
+        enable_crypto: True
+        enable_data: True
+...
+
+The @ symbol at the end of the package name is important to search for a specific package. If you don’t add the @, Conan will interpret the argument as a pattern search and return all the packages that match the poco/1.9.4 pattern and may have different user and channel.
+
+To inspect all your current project’s dependencies use the conan info command by pointing it to the location of the conanfile.txt folder:
+
+				
+$ conan info ..
+				
+Building with other configurations
+
+In this example, we have built our project using the default configuration detected by Conan. This configuration is known as the default profile.
+
+A profile needs to be available prior to running commands such as conan install. When running the command, your settings are automatically detected (compiler, architecture…) and stored as the default profile. You can edit these settings ~/.conan/profiles/default or create new profiles with your desired configuration.
+
+For example, if we have a profile with a 32-bit GCC configuration in a file called gcc_x86, we can run the following:
+
+$ conan install .. --profile=gcc_x86
+
+Tip
+
+We strongly recommend using Profiles and managing them with conan config install.
+
+However, the user can always override the profile settings in the conan install command using the --settings parameter. As an exercise, try building the 32-bit version of the hash calculator project like this:
+
+$ conan install .. --settings arch=x86
+
+The above command installs a different package, using the --settings arch=x86 instead of the one of the default profile used previously. Note you might need to install extra compilers or toolchains in some platforms, as for example, Linux distributions no longer install 32bits toolchains by default.
+
+To use the 32-bit binaries, you will also have to change your project build:
+
+    In Windows, change the CMake invocation to Visual Studio 14.
+    In Linux, you have to add the -m32 flag to your CMakeLists.txt by running SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -m32"), and the same applies to CMAKE_C_FLAGS, CMAKE_SHARED_LINK_FLAGS and CMAKE_EXE_LINKER_FLAGS. This can also be done more easily, by automatically using Conan, as we’ll show later.
+    In macOS, you need to add the definition -DCMAKE_OSX_ARCHITECTURES=i386.
+
+Got any doubts? Check our FAQ, write us or join the community in Cpplang Slack #conan channel!
+				
+				
+********************************************************************************************************************
 
         ******DEVELOPMENT ENVIRONMENT******
 	
 Rustenv
 Install _ONCE_            pip install rustenv
+			  export PATH="$HOME/.rustenv/bin:$PATH"
+                          echo $PATH
+				
 Create                    rustenv  renv
 Activate                  ./renv/bin/activate
 Deactivate                deactivate_rustenv
@@ -1905,6 +2151,10 @@ NEW Python env
 Install pip3 _ONCE_    sudo apt install python3-pip
 
 Install _ONCE_             pip3 install pipenv
+		           export PATH="$HOME/.pipenv/bin:$PATH"
+                           echo $PATH
+				
+			 
 *************************
 $ which python3.7
 *************************
@@ -2937,6 +3187,18 @@ bash Anaconda3-2019.03-Linux-x86_64.sh
 conda list
 conda update conda
 conda update anaconda
+				
+				
+*****NEW*****				
+How to Install Anaconda in Ubuntu 22.04
+$ sudo apt install curl -y.
+$ cd /tmp.
+$ curl --output anaconda.sh https://repo.anaconda.com/archive/Anaconda3-5.3.1-Linux-x86_64.sh.
+$ sha256sum anaconda.sh.
+$ bash anaconda.sh.
+$ source ~/.bashrc.
+$ conda list.
+$ conda --version.
 
 +++++++++++++++++++++
 
