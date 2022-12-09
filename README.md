@@ -5235,9 +5235,20 @@ PASSWORD - devopsengineerDan
 PIN - Dan@1997
 
 ROOT - devopsengineer                                                             
-							       <--WINDOWS-->
+							     
+				
+				<--WINDOWS-->
 
+								       
+				
+								       
+*****SUSPENDING LAPTOP****
+AVOID OVERHEATING
+RESTART MACHINE TO FREE UP MEMORY, THUS AVOID LAGGNG OF PERFORMANCE
 
+								       
+								       
+								       
 Download cpu-z         -> ram,cpu,graphics type and storage size
 Download Intel Graphics Command Center and Modify Settings to High/Ultra
 								       
