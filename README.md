@@ -5354,6 +5354,83 @@ graph LR
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 					       
-								       
+
+
+1) 9 vids + Project management 
+2) Renewal Good Conduct + 1 + 2
+3) (CERTIFICATES + 2020 CERT  BAG) & FAM DEGREE
+*Google Drive + ($AI + 2   projects Two Factor Authentication Systems + PysparkAirflow +  kivy salesapp + blog backend python API + nairobi weather graphql API  + home lights + Neural Network Scratch+ Data analysis  cleaning  + Data analysis ETL + Data analysis API Disaster alert system +python  wrapper for sendy's API $ +remove gmail), UP COMPLETE
+* SAF LINE BURUBURU* 
+
+1 Data Protection(Fred,Anne), ICT officer(Michael,Hassan), DOM, UN
+2 JOB
+*SAT -> DOM(I & Christine), Kiarie 
+*Christine,  Shilla,  Zolly 
+
+3DAYS* **PAPER***
+1st Day -> Django API,Flask API, C, [RUST]
+2nd Day -> Python, Rust ->(5Life + Life) & Career 
+
+3rd  Day
+Hardcover -> Print and upload everything 5
+Mathbook
+Project Management
+
+
+
+
+
+
+
+
+
+
+
+NEXT WEEK
+1 Python(Logistic & Linear regression,RNN)
+2 Python Cleaning, RustLeaf &          RustTensorflow
+3 Django Tenants
+4 Graphql Nairobi water*, Blog backend
+5 MPESA API integration system 
+6 Python wrapper for Sendy & AI Monitoring System 
+7 **Home Lights**
+9 Python & C open source engineer 
+
+
+MAISH @ STAMP -> 0721770531
+March 100k-> Dan(COMPLETE STATUS IN Reg-Skul-Dep-[1,2,3,4 Lists andGrad List])(IfAccessibleOLDSYSTEM COZ OF DATE IN NEWSYSTEM COMPLETE_UNITS-Use Victor's OLDSYSTEM CRITERIA& COMPLETE_FINANCE-Use Victor's OldSystem CompletionRemarks& Shilla( COMPLETE STATUS IN Reg - Skul-Dep - 4 TScripts) & 5k-> Maish - CSChairStamp  For ShillaChairLetter
+September 50k-> Dn Backend **James Go Ahead For October**4TScripts + ChairLetter 
+October -> **James Go Ahead & MARK_BRIAN_NOT_PRESENT**4TScripts + ChairLetter 
+
+OR 
+
+[Victor's Resemblance]
+4) James Go Ahead -> [4Tscripts & Completion Letter]
+3) Dep ->Frontend_CompletedStatus & Backend_CompletedStatus
+2) School ->Frontend_CompletedStatus & 1,2,3,4 List_CompletedStatus & Registered for YEAR4 ALL UNITS  in [2020_DATE] OLD SYSTEM [Have CompletedStatus] & Finance_CompletedStatus[2020_DATE] 
+1) Registrar ->[Admission+Frontend Units]_CompletedStatus & Grad List_CompletedStatus & Finance_CompletedStatus[2020_DATE] 
+
+Up + Email, Networks & Project Management, Scrum
+-----‐---------------------------------------------------------------
+1) Rem, [Rust] + Printing + (Block Chain & Datastructures Summary Table) + (5Life + Life) & Career 
+2) 7Projects
+~~~~~~>Cert, Bag, Books(Network and Subnetting)
+{Networks+Configurations, Subnetting}Cybersecurity
+%%%%%%%%%%%%%%%%
+3) 1NetworkDesign,2NetworkSecurity,3AlgorithmDesign
+5) FINAL -> (Network design + [(Python&CSockets)+UTP] ) & [Cybersecurity] & (Home Lights + [2AI, Python, Rust, C] )
+
+
+
+
+
+
+
+
+
+
+
+
+							       
 								       
 							
