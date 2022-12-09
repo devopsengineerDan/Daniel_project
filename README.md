@@ -481,6 +481,7 @@ ID number
 
 RECONFIGURE BROKEN DEPENDENCIES
 sudo dpkg --configure -a
+							     						     
 
 ---------------------- GNOME INSTALLATION ---------------------
 VANILLA GNOME BROKEN DEPENDECIES
@@ -563,8 +564,33 @@ AMDVLK = Open source vulkan components of AMDGPU-Pro driver.
 AMDGPU + MESA + Radeon-Vulkan is what is most commonly used by gamers because it has the best game compatibility and performance. 
 
 MESA INSTALLATION
-sudo lshw -c video  OR   sudo lspci -nn | grep -e VGA						
- sudo apt install mesa-utils
+$ sudo lshw -c video  OR   sudo lspci -nn | grep -e VGA						
+$ sudo apt install mesa-utils
+$ glxinfo -B
+$ sudo apt install -y gpg-agent wget
+$ wget -qO - https://repositories.intel.com/graphics/intel-graphics.key |
+  sudo apt-key add -
+$ sudo apt-add-repository \
+  'deb [arch=amd64] https://repositories.intel.com/graphics/ubuntu focal main'
+$ sudo apt update							     
+							     
+							     
+							     
+$ sudo apt install wine
+$ sudo apt install libwine
+$ sudo apt install wine64
+$ sudo apt install libva2
+$ sudo apt install \
+  intel-opencl-icd \
+  intel-level-zero-gpu level-zero \
+  intel-media-va-driver-non-free libmfx1
+$ sudo apt install \
+  libigc-dev \
+  intel-igc-cm \
+  libigdfcl-dev \
+  libigfxcmrt-dev \
+  level-zero-dev
+
 
 FEDORA
 Update & Upgrade (DO FIRST):
@@ -818,6 +844,15 @@ https://medium.com/@adinika.15/installing-active-directory-on-windows-server-201
 			
 sudo passwd root -Change password for root
  
+RECONFIGURE BROKEN DEPENDENCIES
+sudo dpkg --configure -a
+				
+				
+DELETE OLD DEPENDENCIES AND FILES
+sudo apt-get autoremove
+sudo apt-get autoclean				
+Check FILE HISTORY on Settings and Clear (File History, Trash and Temporary Files)				
+				
 (PHONE)TERMUX
 
 pkg install lynx
@@ -3231,7 +3266,7 @@ WEKA DATA SCIENCE SOFTWARE
 
 INSTALLING ANACONDA
 
-
+******OLD*******
 cd /tmp
 sudo apt install curl
 curl -O https://repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh
@@ -3258,16 +3293,17 @@ $ bash anaconda.sh
 $ source ~/.bashrc
 $ conda list
 $ conda --version
-				
+*************************DO NOT INSTALL MICROSOFT VS CODE*****************				
 $ sudo dpkg --remove code        For Microsoft
 
 +++++++++++++++++++++
-
+$ cd ~
 cd anaconda3/
 source $HOME/anaconda3/bin/activate
 conda list
 conda update conda
-
+conda deactivate
+				
 +++++++++++++++++++++
 SET UP JUPYTER NOTEBOOK 
 conda install -c anaconda ipykernel
