@@ -1055,8 +1055,9 @@ Set flash sudo users
 sudo adduser dan vboxusers
 
 -------------------------------------------
-Set up ssh And Port Forwarding -> https://www.simplified.guide/virtualbox/port-forwarding (CHECK WINDOWS DOC FILE)
-				
+Set up ssh And Port Forwarding 
+HOST AND GUEST VIRTUAL MACHINE-> https://www.simplified.guide/virtualbox/port-forwarding (CHECK WINDOWS DOC FILE)
+GUEST VIRTUAL MACHINES **BRIDGED**-> https://www.golinuxcloud.com/ssh-into-virtualbox-vm/ (CHECK WINDOWS DOC FILE)		
 
 1)Assigning static ip address to the localhost network
 (((    ifconfig OR ip a    )))
