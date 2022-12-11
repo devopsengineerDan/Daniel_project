@@ -276,6 +276,7 @@ Python indent
 
 
 
+
 WINDOWS
 Visual Studio
 
@@ -940,7 +941,41 @@ UI OPTION
 				
 1. https://www.youtube.com/watch?v=vyLNpPY-Je0&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=1  -> qemu/kvm & virt-manager installation on Ubuntu 22.04    (Installation of Linux)
    Check Windows Doc File
-		
+				
+				
+  319  sudo apt install qemu-kvm libvirt-bin bridge-utils virt-manager qemu-img firewalld ebtables dnsmasq qemu-utils gir1.2-spiceclientgtk-3.0
+  320  sudo apt install libvirt
+  321  conda deactivate
+  322  sudo apt install libvirt
+  323  sudo apt install libvirt-bin
+  324  sudo apt install gir1.2-spiceclientgtk-3.0
+  325  sudo apt install qemu-utils
+  326  sudo apt install bridge-utils virt-manager qemu-img firewalld ebtables dnsmasq qemu-utils gir1.2-spiceclientgtk-3.0
+  327  sudo apt install bridge-utils virt-manager  firewalld ebtables dnsmasq qemu-utils gir1.2-spiceclientgtk-3.0
+  328  sudo apt install dnsmasq
+  329  sudo apt install bridge-utils virt-manager  firewalld ebtables dnsmasq qemu-utils gir1.2-spiceclientgtk-3.0
+  330  sudo apt install libvirt-bin
+  331  sudo apt install libvirt
+  332  sudo apt-get install libvirt
+  333  sudo apt install qemu-kvm libvirt-daemon-system
+  334  sudo adduser $USER libvirt
+  335  sudo apt install libvirt-bin
+  336  sudo apt install libvirt
+  337  sudo apt install multipass
+  338  sudo snap install multipass
+  339  sudo apt -y install uvtool
+  340  sudo apt install virt-viewer
+  341  sudo apt install virtinst
+  342  sudo apt install libvirt
+  343  sudo apt install libvirt-bin
+  344  sudo apt install bridge-utils virt-manager  firewalld ebtables dnsmasq qemu-utils gir1.2-spiceclientgtk-3.0
+				
+				
+				
+				
+				
+				
+				
     AND
 
    https://www.youtube.com/watch?v=2WDASJ0ye0A  -> Windows 10 on KVM (Installation of Windows) Overview + Better Display Option 
