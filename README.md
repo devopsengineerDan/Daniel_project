@@ -5270,6 +5270,14 @@ See a list of all psql commands: \? (Press the down arrow to scroll through, or 
 exit
 
 ######################################################## 
+
+POSTGRES LOGINS
+1. Postgres Web Credentials / Application Credentials**Prefer**
+2. Postgres sudo - sudo password
+3. Postgres user - Enter a new password as postgres
+				
+				
+				
 FORGOTTEN PASSWD/ SET NEW PASSWD ON POSTGRES
 sudo -i -u postgres 
 could not change directory to "/root"
@@ -5280,6 +5288,7 @@ postgres=# \password
 Enter new password:
 Enter it again:
 postgres=# \q
+				
 #########################################################
 
 sudo wget https://www.sql-workbench.eu/Workbench-Build125-with-optional-libs.zip
