@@ -2350,9 +2350,22 @@ OLD Python env
 
             _ONCE_ 1st)Install   sudo apt-get install python3-venv 
 	               pip install --force-reinstall virtualenv
+				
+		          (OR)		 pip install virtualenv
+				
                    2nd)Create    virtualenv -p /usr/bin/python3.8 venv
+				
 Activate env:      source venv/bin/activate 
-
+				
+				*****BEST*****
+				sudo apt install python3-venv
+			     ***Go to Project Folder
+				python3 -m venv my-project-env
+                                source my-project-env/bin/activate
+                                deactivate
+			     ***Initilialize always on Project Folder
+				
+				
 Install pip/pip3 _ONCE_    curl https://bootstrap.pypa.io/get-pip.py | python
 Upgrade                    pip install --upgrade pip
 
