@@ -5584,6 +5584,46 @@ Up + Email, Networks & Project Management, Scrum
 3) 1NetworkDesign,2NetworkSecurity,3AlgorithmDesign
 5) FINAL -> (Network design + [(Python&CSockets)+UTP] ) & [Cybersecurity] & (Home Lights + [2AI, Python, Rust, C] )
 
+@@@@@@@@@@@@@@@@@@@@
+NEW
+
+Up + Email, 2Networks & Project Management, Scrum& 2Virtualbox 
+
+~~~~~~>Cert, Bag, Books(Network and Subnetting) ***********************
+
+
+VIDEOS + 2GIT + Printing + (Block Chain & Datastructures Summary Table)
+
+
+(5Life + Life) & Career 
+
+
+Network Security + Algorithm Design 
+
+-----‐---------------------------------------------------------------
+1) Rem, [Rust] 
+2) 7Projects
+-----‐---------------------------------------------------------------
+
+
+
+{2Networks+kvmConfigurations, *Subnetting*}Cybersecurity
+%%%%%%%%%%%%%%%%
+
+
+
+3) NetworkDesign
+5) FINAL -> (Network design + [(Python&CSockets)+UTP] ) & [Cybersecurity] & (Home Lights + [2AI, Python, Rust, C] )
+
+
+
+
+
+
+
+
+
+
 
 
 
