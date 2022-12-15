@@ -1,3 +1,5 @@
+https://www.nakivo.com/blog/virtualbox-network-setting-guide/
+
 *Mogire Victor Maranga UNITS IMAGE + DETAILS 5(registrar,skul,dep<->examdean,list,financeVICTORCOMPLETESTATUS)-2(scripts,letter)
 *Shilla 2(scripts,letter)
 @CHARITY -> 0721581667
