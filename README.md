@@ -2711,7 +2711,7 @@ docker push ef068dae42e5/dockerhub:myfirstimagepush
 
 
 **********************************************************************************************************************
- KUBERNETES
+ KUBERNETES  (TOOLS INCLUDE: KUBECTL, HELM AND JUJU)
  @@@@@@@@@@@@@@@@@@
 kubectl, the command line tool for interacting with Kubernetes
 
