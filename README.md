@@ -778,6 +778,10 @@ Just run the above command and you don’t need to do anything else. It’ll mak
 
 sudo tlp start
 
+Install nala and Specify Top 3 Ubuntu Mirror Downloads
+sudo nala fetch
+
+							     
 Firefox Tweaks:
 about:config
 layers.acceleration.force-enabled
