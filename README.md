@@ -5410,7 +5410,8 @@ RESTART MACHINE TO FREE UP MEMORY, THUS AVOID LAGGNG OF PERFORMANCE
 								       
 Download cpu-z         -> ram,cpu,graphics type and storage size
 Download Intel Graphics Command Center and Modify Settings to High/Ultra
-								       
+Screen Recorder Pro -> Screenshot
+RecForth -> Video Recorder
 
 CHECK TRIM TECHNOLOGY IMPLEMENTATION 
 Go to  cmd
