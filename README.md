@@ -772,6 +772,9 @@ sudo apt install timeshift
 Install Preload:
 sudo apt install preload
 
+FIREWALL -> Firewall Configuration --- Turn on
+CPU PERFORMANCE -> cpupower-gui
+							     
 Improve Laptop Battery:
 sudo apt install tlp tlp-rdw
 Just run the above command and you don’t need to do anything else. It’ll make your laptop battery last longer by implementing some power-saving protocols. Sorry, I forgot this one in the video. 
