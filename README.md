@@ -644,6 +644,8 @@ sudo apt-get install -y boot-repair && boot-repair
 WINDOW DISPLAY ERROR && UNRENSPONSIVE MOUSE UBUNTU
 dpkg -l | grep linux-image | awk '{print$2}'
 sudo apt-get install linux-image-5.3.0-18-generic
+OR BEST ALTERNATIVE
+sudo apt-get update && sudo apt-get upgrade
 
 sudoedit /etc/gdm3/custom.conf
 ->edit 
@@ -957,7 +959,7 @@ sudo dpkg --configure -a
 DELETE OLD DEPENDENCIES AND FILES
 sudo apt-get autoremove
 sudo apt-get autoclean				
-Check FILE HISTORY on Settings and Clear (File History, Trash and Temporary Files)				
+OR BEST ALTERNATIVE Check FILE HISTORY on Settings and Clear (File History, Trash and Temporary Files)				
 				
 (PHONE)TERMUX
 
@@ -5408,9 +5410,10 @@ ROOT - devopsengineer
 AVOID OVERHEATING
 RESTART MACHINE TO FREE UP MEMORY, THUS AVOID LAGGNG OF PERFORMANCE
 
-								       
-								       
-								       
+CHECK TYPE OF SSD								       
+Go to cmd								       
+ wmic diskdrive get caption, firmwarerevision
+ 
 Download cpu-z         -> ram,cpu,graphics type and storage size
 Download Intel Graphics Command Center and Modify Settings to High/Ultra
 Screen Recorder Pro -> Screenshot
