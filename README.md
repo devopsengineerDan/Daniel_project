@@ -655,15 +655,15 @@ sudo systemctl restart gdm3
 							     
 UPGRADING GNOME IN UBUNTU
 	
-It is possible to install GNOME 40 on Ubuntu 20.04. I followed these steps and they worked for me.
+It is possible to install GNOME 41 on Ubuntu 20.04. I followed these steps and they worked for me.
 
 Note: All packages are still in the experimental phase. Installing the repositories mentioned below may break your system.
 
 Instructions:
 
-    Install the devacom/gnome-40 and devacom/x11 repositories to fix gnome-shell dependencies:
+    Install the devacom/gnome-41 and devacom/x11 repositories to fix gnome-shell dependencies:
 
-    sudo add-apt-repository ppa:devacom/gnome-40
+    sudo add-apt-repository ppa:devacom/gnome-41
     sudo add-apt-repository ppa:devacom/x11
     sudo apt-get update
 
@@ -678,6 +678,12 @@ Instructions:
     sudo apt upgrade
 
     Reboot your system
+
+							     
+							     
+INCREASE SCREENCAST TIME TO 9800 SEC
+gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 9800	
+							     
 							     
 							     
 LINUX MUST INSTALLATIONS
