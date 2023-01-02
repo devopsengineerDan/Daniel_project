@@ -652,7 +652,34 @@ sudoedit /etc/gdm3/custom.conf
 remove # in wayland to enable it
 sudo systemctl restart gdm3
 
+							     
+UPGRADING GNOME IN UBUNTU
+	
+It is possible to install GNOME 40 on Ubuntu 20.04. I followed these steps and they worked for me.
 
+Note: All packages are still in the experimental phase. Installing the repositories mentioned below may break your system.
+
+Instructions:
+
+    Install the devacom/gnome-40 and devacom/x11 repositories to fix gnome-shell dependencies:
+
+    sudo add-apt-repository ppa:devacom/gnome-40
+    sudo add-apt-repository ppa:devacom/x11
+    sudo apt-get update
+
+    Install gnome-shell before the upgrade (fix desktop will not load):
+
+    sudo apt install ubuntu-desktop
+
+        You may also want to install the Applications Menu or ArcMenu extensions using your browser.
+
+    Upgrade your system:
+
+    sudo apt upgrade
+
+    Reboot your system
+							     
+							     
 LINUX MUST INSTALLATIONS
 
 AMD DRIVERS
