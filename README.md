@@ -576,7 +576,12 @@ ID number
 =================================================================================================================================================================
                                                                     
 								    
-						     <--  SYSTEM UI AND INPUT/OUTPUT -->
+
+								<--  SYSTEM UI AND INPUT/OUTPUT -->
+									
+									
+CHECK BATTERY									
+upower -i /org/freedesktop/UPower/devices/battery_BAT0
 
 RECONFIGURE BROKEN DEPENDENCIES
 sudo dpkg --configure -a
