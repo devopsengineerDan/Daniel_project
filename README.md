@@ -688,7 +688,21 @@ Instructions:
 							     
 INCREASE SCREENCAST TIME TO 9800 SEC
 gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 9800	
+									
 							     
+CHANGE DOCK IN XFCE
+The default dock is nice and pretty much does what it is for. But again, it looks a bit boring.
+
+However, if you want your dock to be better and with a little more customization options, you can install another dock.
+Plank is one of the simplest and lightweight docks and is highly configurable.
+To install Plank use the command below:
+sudo apt-get install plank
+If Plank is not available in the default repository, you can install it from this PPA.
+sudo add-apt-repository ppa:ricotz/docky
+sudo apt-get update
+sudo apt-get install plank
+BHere’s how my screen looks after applying these steps.efore you use Plank, you should remove the default dock by right-clicking in it and under Panel Settings, clicking on delete.
+Once done, go to Accessory > Plank to launch Plank dock.
 							     
 							     
 LINUX MUST INSTALLATIONS
