@@ -853,6 +853,14 @@ sudo apt install gnome-tweak-tool
 GNOME Extensions:
 https://extensions.gnome.org/
 
+EXTENSIONS
+-> Transparent panel 
+-> Floating Dock
+									
+									
+									
+									
+									
 =================================
 
 REMOVE
