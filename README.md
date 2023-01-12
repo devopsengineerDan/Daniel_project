@@ -854,8 +854,9 @@ GNOME Extensions:
 https://extensions.gnome.org/
 
 EXTENSIONS
--> Transparent panel 
--> Floating Dock
+-> Transparent shell
+-> Open weather
+-> Floating dock
 									
 									
 									
