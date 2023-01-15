@@ -858,6 +858,27 @@ EXTENSIONS
 -> Open weather
 -> Floating dock
 									
+LINUX APPS MUST INSTALLATION    https://www.makeuseof.com/must-have-applications-for-linux-users/
+									
+Libreoffice
+Mozilla Firefox
+Gparted
+Flameshot is a free screenshot tool.
+KBackup is a free tool you can use to create a backup of your data.
+FlareGet is a free download manager.
+Shotcut is an open-source video editor.
+Simplenote is an open-source note-taking application.
+Ardour is a digital audio workstation.
+OBS, or Open Broadcaster Software, is an open-source and free screen recording application
+GIMP is an open-source, cross-platform image editing software with powerful features for handling images, graphics, 3D paintings, and artworks.
+Inkscape is a vector editing and designing software for Linux and other OSes that offers powerful technical and artistic illustration tools.
+Krita is an advanced painting app for creating digital artwork that equips you with various tools to sketch and paint on a digital playground.
+Kdenlive allows you to create professional videos and is suitable for both basic and professional video editing.
+*Transmission (uTorrent) is also suitable for your privacy as it doesn't collect any user or analytics data.
+7-Zip is a pretty lightweight file archiver. Its small size enables it to provide much better performance. Moreover, it is free and open-source, unlike WinRAR, and is available for all major Linux distros.
+EverSticky allows you to save quick notes on your desktop screen, making it a great utility for to-do lists, notes, and reminders. It is an advanced alternative to Sticky Notes.
+Okular is a must-have app for handling documents, as it supports all major file formats such as PDF, ePUB, TIFF, Images, DVI, XPS, and ODT.
+Clementine is a music player with a minimal, easy-to-use interface.
 									
 									
 									
