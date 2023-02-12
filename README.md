@@ -5515,7 +5515,10 @@ Ctrl + Windows - winver -> To check Windows OS Build
 Ctrl + Windows - dxdiag
 Ctrl + Windows - %temp% -> Delete temp files
 
-WINDOWS OFFICE SETUP https://getintopc.com/?s=Office+2016&submit=Search
+					
+CRACKED SOFTWARES
+1. 1337x.to OR 1337x.to/#
+2. WINDOWS OFFICE SETUP https://getintopc.com/?s=Office+2016&submit=Search
 
 WINDOWS (UBUNTU TERMINAL)
 +++++++++++++++++++++++++++++++++++++++ 
@@ -5709,6 +5712,14 @@ Network Security + Algorithm Design
 
 3) NetworkDesign
 5) FINAL -> (Network design + [(Python&CSockets)+UTP] ) & [Cybersecurity] & (Home Lights + [2AI, Python, Rust, C] )
+					
+					
+
+					
+					
+					
+					
+
 
 
 
