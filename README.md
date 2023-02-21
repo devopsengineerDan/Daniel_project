@@ -1203,9 +1203,12 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 				
 				
 				
+LINUX OR WINDOWS Depending on Guest or Host				
+				
+*VIRTUALBOX GUEST ADDITIONS ISO 	http://download.virtualbox.org/virtualbox/5.0.24/VBoxGuestAdditions_5.0.24.iso	
+*VIRTUALBOX EXTENSION PACK HOST  -> Oracle_VM_VirtualBox_Extension_Pack-6.1.26.vbox-extpack
 				
 				
-*VIRTUALBOX GUEST ADDITIONS ISO 	http://download.virtualbox.org/virtualbox/5.0.24/VBoxGuestAdditions_5.0.24.iso		
 *Install kali tools ( install katoolin) 
       OR
 *Easier option     
@@ -5492,9 +5495,10 @@ ROOT - devopsengineer
 AVOID OVERHEATING
 RESTART MACHINE TO FREE UP MEMORY, THUS AVOID LAGGNG OF PERFORMANCE
 
+					
 CHECK TYPE OF SSD								       
 Go to cmd								       
- wmic diskdrive get caption, firmwarerevision
+  wmic diskdrive get caption, firmwarerevision
  
 Download cpu-z         -> ram,cpu,graphics type and storage size
 Download Intel Graphics Command Center and Modify Settings to High/Ultra
@@ -5509,7 +5513,7 @@ Disable - fsutil behavior set DisableDeleteNotify 1
 
 DISABLE AUTO-UPDATES
 Ctrl + Windows - services.msc -> Windows update -> Disable
-
+Fn + Alt + F4 -> Close window and Shut Down or Reboot
 Ctrl + Windows - wmic -> bios get serialnumber
 Ctrl + Windows - winver -> To check Windows OS Build
 Ctrl + Windows - dxdiag
