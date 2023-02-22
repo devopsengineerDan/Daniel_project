@@ -1207,6 +1207,9 @@ LINUX OR WINDOWS Depending on Guest or Host
 				
 *VIRTUALBOX GUEST ADDITIONS ISO 	http://download.virtualbox.org/virtualbox/5.0.24/VBoxGuestAdditions_5.0.24.iso	
 *VIRTUALBOX EXTENSION PACK HOST  -> Oracle_VM_VirtualBox_Extension_Pack-6.1.26.vbox-extpack
+*ACCESSING THE HOST FROM GUEST
+->Go to Settings, Shared Folders, Machine Folders, Choose Folder Path e.g Downloads, Select Auto-mount and Make-permanent
+				
 				
 				
 *Install kali tools ( install katoolin) 
