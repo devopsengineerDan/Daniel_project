@@ -1205,11 +1205,14 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 				
 LINUX OR WINDOWS Depending on Guest or Host				
 				
-*VIRTUALBOX GUEST ADDITIONS ISO 	http://download.virtualbox.org/virtualbox/5.0.24/VBoxGuestAdditions_5.0.24.iso	
+*VIRTUALBOX GUEST ADDITIONS ISO + Install	http://download.virtualbox.org/virtualbox/5.0.24/VBoxGuestAdditions_5.0.24.iso	
 *VIRTUALBOX EXTENSION PACK HOST  -> Oracle_VM_VirtualBox_Extension_Pack-6.1.26.vbox-extpack
+->Go to File, Preferences, Extensions, Add Oracle_VM_VirtualBox_Extension_Pack
 *ACCESSING THE HOST FROM GUEST
-->Go to Settings, Shared Folders, Machine Folders, Choose Folder Path e.g Downloads, Select Auto-mount and Make-permanent
-				
+->Go to Settings, Shared Folders, Machine Folders, Choose Folder Path e.g Downloads, Select Auto-mount and (Make-permanent will appear afterwards)
+
+CONNECTING VMS TO A COMMON NETWORK
+->Go to File, Preferences, Network, Add NAT Network -- You can also do Port Forwarding
 				
 				
 *Install kali tools ( install katoolin) 
