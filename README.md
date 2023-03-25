@@ -585,7 +585,17 @@ upower -i /org/freedesktop/UPower/devices/battery_BAT0
 
 RECONFIGURE BROKEN DEPENDENCIES
 sudo dpkg --configure -a
-							     						     
+
+									
+									
+ENHANCE RESOLUTION
+cvt 2560 1440
+xrandr --newmode "MyMode" 312.25  2560 2752 3024 3488  1440 1443 1448 1493 -hsync +vsync
+xrandr --addmode eDP-1 "MyMode"
+If Mymode exists give the newmode a different name
+
+									
+									
 
 ---------------------- GNOME INSTALLATION ---------------------
 VANILLA GNOME BROKEN DEPENDECIES
