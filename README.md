@@ -635,6 +635,23 @@ sudo apt install tasksel
 sudo tasksel
 
 press SPACE, then TAB to switch to the OK/Cancel buttons, and press ENTER to OK.
+									
+
+***** Fix a broken gsettings setting without gnome-session ( gsettings set org.gnome.settings-daemon.plugins.xsettings overrides  "[{'Gdk/WindowScalingFactor', <2>}]" )   ( gsettings set org.gnome.desktop.interface scaling-factor 0 )
+ ****
+
+mv .config/dconf/user{,-old}
+exit
+
+
+echo "user-db:user-old" >db_profile
+DCONF_PROFILE=~/db_profile dconf dump / >old_settings
+
+
+rm db_profile
+mv .config/dconf/user-old ~/user-settings-delete-later
+dconf load / <old_settings
+
 
 
 
