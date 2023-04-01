@@ -5545,12 +5545,13 @@ Enable - fsutil behavior set DisableDeleteNotify 0
 Disable - fsutil behavior set DisableDeleteNotify 1 
 
 DISABLE AUTO-UPDATES
-Ctrl + Windows - services.msc -> Windows update -> Disable
+Windows + R - services.msc -> Windows update -> Disable
 Fn + Alt + F4 -> Close window and Shut Down or Reboot
-Ctrl + Windows - wmic -> bios get serialnumber
-Ctrl + Windows - winver -> To check Windows OS Build
-Ctrl + Windows - dxdiag
-Ctrl + Windows - %temp% -> Delete temp files
+Windows + R - wmic -> bios get serialnumber
+Windows + R - winver -> To check Windows OS Build
+Windows + R - dxdiag
+Windows + R- %temp% -> Delete temp files
+Windows + R - optionalfeatures.exe -> Windows Subsystem for Linux				
 
 					
 CRACKED SOFTWARES
