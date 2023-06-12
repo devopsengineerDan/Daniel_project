@@ -594,6 +594,9 @@ xrandr --newmode "MyMode" 312.25  2560 2752 3024 3488  1440 1443 1448 1493 -hsyn
 xrandr --addmode eDP-1 "MyMode"
 If Mymode exists give the newmode a different name
 
+INSTALL arandr TO CHECK DISPLAY TYPE 
+sudo apt install arandr
+
 									
 									
 
