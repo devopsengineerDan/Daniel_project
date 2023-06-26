@@ -576,7 +576,26 @@ http://portal.jkuat.ac.ke/Home/Index
 SCT221-0781/2016 
 ID number
 =================================================================================================================================================================
-                                                                    
+
+
+
+ <--- **************************************FINANCE, MARKETING & ECONOMICS********************************************* -->
+
+
+BUY BEST PRODUCT AT LOW & FAIR PRICE *NOT* WORST AT LEAST PRICE
+HAVE INVESTORS INTO BUYERS & INCREASE CASHFLOW
+OPERATE AS LOWER MIDDLE-CLASS IN DEBT* 
+
+income#1(high+diverse)-expense#3(low+last)=investment#2(medium)+savings(high)#4
+INVESTMENT
+invest in stock(OWN stock/asset/property)
+invest in (low cost)ETFs and index funds* ->Passive Investment
+SAVINGS
+save for emergency(high)->investment(medium)->asset/property(low)#Gold, Land and Property
+PROTECTION
+Lawyers
+Tax Accountants(policies+best practices)
+Shell companies(ownership) to avoid damage on you                                                                  
 								    
 
 								<--  SYSTEM UI AND INPUT/OUTPUT -->
@@ -5734,7 +5753,7 @@ NEW
 
 Up + Email, 2Networks & Project Management, Scrum& 2Virtualbox 
 
-~~~~~~>Cert, Bag, Books(Network and Subnetting) ***********************
+~~~~~~>Cert, Bag, Books(Network and Subnetting) **********************
 
 
 VIDEOS + 2GIT + Printing + (Block Chain & Datastructures Summary Table)
