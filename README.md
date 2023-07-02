@@ -610,6 +610,11 @@ sudo dpkg --configure -a
 									
 									
 ENHANCE RESOLUTION
+cvt 3840 2160
+xrandr --newmode "MyMode" 712.75  3840 4160 4576 5312  2160 2163 2168 2237 -hsync +vsync
+xrandr --addmode eDP-1 "MyMode"
+
+
 cvt 2560 1440
 xrandr --newmode "MyMode" 312.25  2560 2752 3024 3488  1440 1443 1448 1493 -hsync +vsync
 xrandr --addmode eDP-1 "MyMode"
