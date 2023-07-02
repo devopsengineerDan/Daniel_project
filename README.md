@@ -610,6 +610,10 @@ sudo dpkg --configure -a
 									
 									
 ENHANCE RESOLUTION
+
+FONT SIZE -> 1.30
+CHANGE SCALING FROM 200 TO 100
+CHANGE TO PORTRAIT THEN RETURN SCALING TO 200 THEN RETURN TO LANDSCAPE
 cvt 3840 2160
 xrandr --newmode "MyMode" 712.75  3840 4160 4576 5312  2160 2163 2168 2237 -hsync +vsync
 xrandr --addmode eDP-1 "MyMode"
