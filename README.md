@@ -1272,7 +1272,7 @@ LINUX OR WINDOWS Depending on Guest or Host
 ->Go to Settings, Shared Folders, Machine Folders, Choose Folder Path e.g Downloads, Select Auto-mount and (Make-permanent will appear afterwards)
 
 CONNECTING VMS TO A COMMON NETWORK
-->Go to File, Preferences, Network, Add NAT Network (e.g)NATNetworkPentesting -- You can also do Port Forwarding
+->Go to File, Preferences, Network, Add NAT Network (e.g)Network Name: NATNetworkPentesting Network CIDR: 10.0.2.0/24   --> You can also do Port Forwarding
 				
 				
 *Install kali tools ( install katoolin) 
@@ -1802,7 +1802,8 @@ This will disable UFW and delete any rules that you have previously defined. Kee
 ===============================================================================================================================================
 
 			<---CYBER SECURITY--->
-
+NULLBYTE -> Automated
+DAVID BOMBAL -> Detailed
 
 ===============================================================================================================================================
 
