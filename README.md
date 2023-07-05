@@ -1277,7 +1277,13 @@ CONNECTING VMS TO A COMMON NETWORK
 				
 *Install kali tools ( install katoolin) 
       OR
-*Easier option     
+*Easier option   
+
+
+
+Install Advance Pentesting Tools
+    sudo apt install offsec-pwk
+    sudo apt install offsec-awae
 System
 
     kali-linux-core: Base Kali Linux System – core items that are always included
