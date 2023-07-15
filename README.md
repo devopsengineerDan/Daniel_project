@@ -469,7 +469,7 @@ Cybersecurity
 [7:02 PM, 3/28/2019] Anthony - CEH: https://monova.to/167CEE868BB34A178B72B530BE27CD98EFBE0688
 [7:03 PM, 3/28/2019] Anthony - CEH: https://katcr.co/torrent/307838/udemy-ethical-hacking-with-metasploit-the-penetration-testing-tool.html
 
-
+OWASP CHEETSHEET: https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
 
 
 
