@@ -5566,7 +5566,9 @@ ROOT - devopsengineer
 Glass Wire Network Security
 Virus Total
 				
-								       
+SUSPEND -> DO NOTHING - To enable operating the laptop when the lid is down
+HIBERNATE -> ctrl + Delete to run the machine
+
 *****SUSPENDING LAPTOP****
 AVOID OVERHEATING
 RESTART MACHINE TO FREE UP MEMORY, THUS AVOID LAGGNG OF PERFORMANCE
