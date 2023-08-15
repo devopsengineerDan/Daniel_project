@@ -1359,6 +1359,10 @@ Set up ssh And Port Forwarding
 HOST AND GUEST VIRTUAL MACHINE-> https://www.simplified.guide/virtualbox/port-forwarding (CHECK WINDOWS DOC FILE)
 GUEST VIRTUAL MACHINES **BRIDGED**-> https://www.golinuxcloud.com/ssh-into-virtualbox-vm/ (CHECK WINDOWS DOC FILE)		
 
+Name	  Protocol	Host IP	        Host Port     Guest IP	       Guest Port
+Ubuntu	  TCP     	127.0.0.1	8022	      10.0.2.15	       22
+
+
 1)Assigning static ip address to the localhost network
 (((    ifconfig OR ip a    )))
 sudo ifconfig enp9s0 192.168.92.5 netmask 255.255.0.0
