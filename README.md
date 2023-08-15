@@ -490,8 +490,8 @@ Vision Plaza, Mombasa RD.
 
 Data Science    https://okhi.recruiterbox.com/jobs/fk0j7cr/
 Cybersecurity   https://www.un-yk.com/
-Freelance       Appwork
-Fitness         https://www.youtube.com/watch?v=3p8EBPVZ2Iw    
+Freelance       Upwork
+Fitness -> Chris Heria        https://www.youtube.com/watch?v=3p8EBPVZ2Iw    
 
 *********************************************************************
 0713835028*
@@ -563,6 +563,7 @@ saf: 0706738969 PIN1:8218 PIN2:5372 PUK1:42844297 PUK2:28282050 CHEDA:1493
 telcom: 
 
 phone: 1493
+whats-app:147369
 computer os: observer computer hardware: creator windows: d@97
 github: conardmomanyimoruri
 
@@ -624,7 +625,7 @@ xrandr --newmode "MyMode" 312.25  2560 2752 3024 3488  1440 1443 1448 1493 -hsyn
 xrandr --addmode eDP-1 "MyMode"
 If Mymode exists give the newmode a different name
 
-INSTALL arandr TO CHECK DISPLAY TYPE 
+INSTALL arandr TO CHECK DISPLAY TYPES (e.g eDP-1, Virtual-1)
 sudo apt install arandr
 
 									
