@@ -1,6 +1,4 @@
-3.Binning
 
-Binning illustration of numerical data
 
 *Mogire Victor Maranga UNITS IMAGE + DETAILS 5(registrar,skul,dep<->examdean,list,financeVICTORCOMPLETESTATUS)-2(scripts,letter)
 *Shilla 2(scripts,letter)
