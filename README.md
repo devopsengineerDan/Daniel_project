@@ -2179,7 +2179,9 @@ fs.inotify.max_user_watches = 524288
 PYINSTALLER 
 
 pyinstaller --onedir --onefile --name=passwordlocker --windowed "/home/dan/PycharmProjects/dancunmanyinsa/manage.py"
-
+OR
+In the project directory, when the development virtual environment is deactivated, type this on the terminal
+pyinstaller main.py --onefile --noconsole
 
 ---------------------------------------------------------------------------------------------------------
 
