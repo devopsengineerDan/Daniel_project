@@ -2318,23 +2318,25 @@ cargo run
 				
 				
 -------------
-C Language 
+C Language -> Check C project for a simple c project compilation in the various os in the readme.md section
+           -> https://github.com/devopsengineerDan/c-project-rcg
+
 ******C BEST PRACTICE*****Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE 
 
--Simple control flow (e.g) a function should be limited to only one task to ensure readability and should not exceed the size of a page.
+1-Simple control flow (e.g) a function should be limited to only one task to ensure readability and should not exceed the size of a page.
 Also do not use goto, setjmp, longjmp statements and recursion which is a fuction that calls onto itself which results to difficult to understand and follow cyclic control flow crafts and run away code which can crush.
--Limit loops, have an upper bound to an integer not a pointer.
--Do not use heap to ensure memory use is deterministic. This prevents use after freeze and memory leaks.
--Practise data hiding, this is declaring variables on how they are used. It restricts data access to class members.
--Use indentatation to explain your code.
--Check return value. If a return value is going to be ignored, you should explicitly cast the return value to a void type. (e.g) (void)printf(""); or (void)scanf("");
--Dereference operations should not be hidden in macro definitions or inside typedef declarations.
--Must dereference a pointer one layer at a time. This forces you to create structures that properly track your pointers to ensure they are not used incorrectly.
--Limit the C preprocessor. (This more advanced and required an advanced user)
--No use of function pointers. Lead to problem of obfuscating your code control flow graph of your program making it difficult to statically analyse your code and also fully test your code.
--Compile your code with all warnings enabled and compile in pedantic mode (e.g) gcc -Wall -Werror -Wpedantic , this ensures all errors in your code willl be raised  by the compiler.
--Analyse code with multiple static code analysers with different rule sets.
--Test your code with unit tests.
+2-Limit loops, have an upper bound to an integer not a pointer.
+3-Do not use heap to ensure memory use is deterministic. This prevents use after freeze and memory leaks.
+4-Practise data hiding, this is declaring variables on how they are used. It restricts data access to class members.
+5-Use indentatation to explain your code.
+6-Check return value. If a return value is going to be ignored, you should explicitly cast the return value to a void type. (e.g) (void)printf(""); or (void)scanf("");
+7-Dereference operations should not be hidden in macro definitions or inside typedef declarations.
+8-Must dereference a pointer one layer at a time. This forces you to create structures that properly track your pointers to ensure they are not used incorrectly.
+9-Limit the C preprocessor. (This more advanced and required an advanced user)
+10-No use of function pointers. Lead to problem of obfuscating your code control flow graph of your program making it difficult to statically analyse your code and also fully test your code.
+11-Compile your code with all warnings enabled and compile in pedantic mode (e.g) gcc -Wall -Werror -Wpedantic , this ensures all errors in your code willl be raised  by the compiler.
+12-Analyse code with multiple static code analysers with different rule sets.
+13-Test your code with unit tests.
 
 
 
@@ -5177,20 +5179,35 @@ Stock price prediction is a machine learning project for beginners; in this tuto
 DJANGO
 ‐-------------------
 ADMIN
+1 WAY TO DO IT
 $django-admin startproject travel_project
-cd travel_project
+$cd travel_project
 $django-admin startapp travel_app 
+$python3 manage.py runserver
 
+2 WAY TO DO IT
+$django-admin startproject travel_project
+$cd travel_project
+$python3 manage.py runserver
+$python3 manage.py startapp travel_app 
+$python3 manage.py runserver
+
+
+**NOT SURE**
 SIMPLE APP
 $django-admin startproject travel_project
-cd travel_project
+$cd travel_project
 (NOT SURE)$django startproject travel_project (wsgi, setting)
 $ python3 manage.py startapp travel_app  (view, models, templates)
+$python3 manage.py runserver
 
 
-(NOT SURE)
-django-admin startproject heyapp (wsgi, setting)
-django-admin startproject heyapp . (view, models, templates)
+**NOT SURE**
+$django-admin startproject heyapp (wsgi, setting)
+$django-admin startproject heyapp . (view, models, templates)
+
+
+
  
 ---------------------
 $ python3 manage.py createsuperuser 
