@@ -3675,6 +3675,7 @@ $ bash anaconda.sh
 $ source ~/.bashrc
 $ conda list
 $ conda --version
+
 *************************DO NOT INSTALL MICROSOFT VS CODE*****************				
 $ sudo dpkg --remove code        For Microsoft
 
@@ -5185,12 +5186,14 @@ ADMIN
 1 WAY TO DO IT
 $django-admin startproject travel_project
 $cd travel_project
+$python3 manage.py migrate
 $django-admin startapp travel_app 
 $python3 manage.py runserver
 
 2 WAY TO DO IT
 $django-admin startproject travel_project
 $cd travel_project
+$python3 manage.py migrate
 $python3 manage.py runserver
 $python3 manage.py startapp travel_app 
 $python3 manage.py runserver
