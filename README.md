@@ -2629,6 +2629,9 @@ Deactivate                deactivate
 $ chmod +x hello.py  # make script executable
 $ ./hello.py
 
+**Django flask Fast API Projects**
+-> Check the link https://github.com/devopsengineerDan/python-projects/tree/master/webapps
+
 
 ***********DJANGO**************
 Effect changes:            python3 manage.py makemigrations
