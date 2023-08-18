@@ -2318,7 +2318,26 @@ cargo run
 				
 				
 -------------
-CLang
+C Language 
+******C BEST PRACTICE*****Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE 
+
+-Simple control flow (e.g) a function should be limited to only one task to ensure readability and should not exceed the size of a page.
+Also do not use goto, setjmp, longjmp statements and recursion which is a fuction that calls onto itself which results to difficult to understand and follow cyclic control flow crafts and run away code which can crush.
+-Limit loops, have an upper bound to an integer not a pointer.
+-Do not use heap to ensure memory use is deterministic. This prevents use after freeze and memory leaks.
+-Practise data hiding, this is declaring variables on how they are used. It restricts data access to class members.
+-Use indentatation to explain your code.
+-Check return value. If a return value is going to be ignored, you should explicitly cast the return value to a void type. (e.g) (void)printf(""); or (void)scanf("");
+-Dereference operations should not be hidden in macro definitions or inside typedef declarations.
+-Must dereference a pointer one layer at a time. This forces you to create structures that properly track your pointers to ensure they are not used incorrectly.
+-Limit the C preprocessor. (This more advanced and required an advanced user)
+-No use of function pointers. Lead to problem of obfuscating your code control flow graph of your program making it difficult to statically analyse your code and also fully test your code.
+-Compile your code with all warnings enabled and compile in pedantic mode (e.g) gcc -Wall -Werror -Wpedantic , this ensures all errors in your code willl be raised  by the compiler.
+-Analyse code with multiple static code analysers with different rule sets.
+-Test your code with unit tests.
+
+
+
 sudo apt install build-essential
 sudo apt install cmake
 pip install conan   -> C/C++ PACKAGE MANAGER	
@@ -2604,17 +2623,28 @@ Installation of dep       pipenv install -r requirements.txt
 Upgrade dep               pipenv install -r requirements.txt --upgrade
 Deactivate                deactivate
        
+***********PYTHON SCRIPT*******
+$ chmod +x hello.py  # make script executable
+$ ./hello.py
 
 
+***********DJANGO**************
 Effect changes:            python3 manage.py makemigrations
                            python3 manage.py migrate
  
-*************************
+
 
 python3 manage.py runserver
-			   
-$ chmod +x hello.py  # make script executable
-$ ./hello.py
+
+
+***********FLASK**************	
+export FLASK_APP=app.py
+export FLASK_ENV=development
+flask run
+
+***********Fast API***********
+
+
 
 
 			   ********NOTE**********
@@ -4481,6 +4511,9 @@ List of Techniques
 7.Feature Split
 8.Scaling
 9.Extracting Date
+
+
+
 1.Imputation
 Image for post
 Missing values are one of the most common problems you can encounter when you try to prepare your data for machine learning. The reason for the missing values might be human errors, interruptions in the data flow, privacy concerns, and so on. Whatever is the reason, missing values affect the performance of the machine learning models.
@@ -5548,6 +5581,7 @@ pip3 freeze > requirements.txt
 
 
 API
+pip install flask-rest-framework
 
 --aniso8601==8.0.0
 click==7.1.2
