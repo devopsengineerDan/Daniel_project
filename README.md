@@ -2631,7 +2631,7 @@ $ ./hello.py
 
 **Django flask Fast API Projects**
 -> Check the link https://github.com/devopsengineerDan/python-projects/tree/master/webapps
-
+-> Check the youtube link https://www.youtube.com/watch?v=3vfum74ggHE
 
 ***********DJANGO**************
 Effect changes:            python3 manage.py makemigrations
