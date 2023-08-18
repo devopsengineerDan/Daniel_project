@@ -5596,8 +5596,36 @@ ROOT - devopsengineer
 							     
 				
 				<--WINDOWS-->
+*************LOCAL ACCOUNT LOG IN TO WINDOWS 11********
+In windows 11 pro
+-Sign in options
+-Domain join instead
+-Enter Local user name and password
 
-*************COMPUTER SECURITY*******************
+In windows 11 home
+-Press shift+F10 orin other computers shift+Fn+F10
+-In the cmd type:
+ netsh interface show interface
+ netsh interface set interface <interface-name> disable
+ exit
+-Press back icon
+-Enter Local user name and password
+->To reenable the network Go to:
+Network & Internet
+Advanced network settings
+Network adapters
+Enable the network adapter you disabled ethernet/wifi
+
+
+
+
+-Sign in options
+-Domain join instead
+-Enter Local user name and password
+
+*************NETWORK RESET********
+Reset network to default to remove previous configurations
+*************COMPUTER SECURITY********
 Glass Wire Network Security
 Virus Total
 				
@@ -5608,7 +5636,7 @@ HIBERNATE -> ctrl + Delete to run the machine
 AVOID OVERHEATING
 RESTART MACHINE TO FREE UP MEMORY, THUS AVOID LAGGNG OF PERFORMANCE
 
-					
+*******SYSTEM IMPLEMENTATION**********					
 CHECK TYPE OF SSD								       
 Go to cmd								       
   wmic diskdrive get caption, firmwarerevision
