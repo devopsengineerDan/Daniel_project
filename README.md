@@ -1848,8 +1848,20 @@ DAVID BOMBAL -> Detailed
 
 
 PYTHON         ->     https://www.pythontutorial.net/python-oop/
-RUST (OFFICIAL)->     https://www.rust-lang.org/learn
 
+RUST (OFFICIAL)->     https://www.rust-lang.org/learn
+# Rust simplicity and reduction of complexity.
+# Rust unsafe for performance tuning in hardware. (Code must be secure)
+# Rust no_std for easier debugging hence less development time. (Code must be secure)
+# Rust support for c toolchains, kernels and hardwares.
+# Rust editions for backward compatibility. 
+# Rust compiler
+
+
+**WEB**
+WEB1- Read
+wEB2- Read and Write
+WEB3- Read, Write and Ownership => AI, Blockchain, IOT =>Distributed System and Database
 
 
 
