@@ -2255,6 +2255,11 @@ Install mypy
 
 -------
 PYTHON
+
+Install pip3          sudo apt install python3-pip
+                      python -m pip install --upgrade pip
+		      OR python3 -m pip install --upgrade pip
+	
 Install python dev    sudo apt-get install build-essential libssl-dev libffi-dev python3-dev
                       python3 -m pip install python-dev-tools --user --upgrade
 		      sudo apt install python3-setuptools
@@ -2285,9 +2290,7 @@ $ echo $PATH
 				
 
 
-Install pip3          sudo apt install python3-pip
-                      python -m pip install --upgrade pip
-		      OR python3 -m pip install --upgrade pip
+
 
 
 -------
@@ -2300,12 +2303,24 @@ $ echo $PATH
 
 ***************************
 
-gedit main.rs  - create and edit main.rs file
+CARGO -> Rust Build System(Build and Compile) and Package Manager(Manages dependencies)
 
-rustc main.rs  -  compile program
+**ADVANCE USER**
+cargo new portfolio  - create "project folder" portfolio 
 
-./main    -  run  program
+cd portfolio
+
+cd src
+
+gedit main.rs  -> create and edit main.rs file
+
+rustc main.rs  ->  build and compile program
+
+./main    ->  run  program
+
 ------------
+
+**APPRENTICE USER**
 cargo new portfolio  - create "project folder" portfolio 
 
 cd portfolio
@@ -2314,8 +2329,13 @@ cd src
 
 gedit main.rs
 
+1st Option:(ONE SIMPLE COMMAND) 
+cargo run 
+2nd Option:(BEST PRACTICE)
+cargo build
+cargo test
 cargo run
-				
+
 				
 -------------
 C Language -> Check C project for a simple c project compilation in the various os in the readme.md section
@@ -2334,7 +2354,7 @@ Also do not use goto, setjmp, longjmp statements and recursion which is a fuctio
 8-Must dereference a pointer one layer at a time. This forces you to create structures that properly track your pointers to ensure they are not used incorrectly.
 9-Limit the C preprocessor. (This more advanced and required an advanced user)
 10-No use of function pointers. Lead to problem of obfuscating your code control flow graph of your program making it difficult to statically analyse your code and also fully test your code.
-11-Compile your code with all warnings enabled and compile in pedantic mode (e.g) gcc -Wall -Werror -Wpedantic , this ensures all errors in your code willl be raised  by the compiler.
+11-Compile your code with all warnings enabled and compile in pedantic mode (e.g) $gcc <main_cfile>.c -Wall -Werror -Wpedantic OR $gcc <main_moderncfile>.c -std=C2x -Wall -Wextra -pedantic ./a.out  .This ensures all errors in your code willl be raised  by the compiler.
 12-Analyse code with multiple static code analysers with different rule sets.
 13-Test your code with unit tests.
 
@@ -2555,7 +2575,7 @@ Got any doubts? Check our FAQ, write us or join the community in Cpplang Slack #
 ********************************************************************************************************************
 
         ******DEVELOPMENT ENVIRONMENT******
-	
+**RUST LANGUAGE**    ->Initilialize always on Project Folder	
 Rustenv
 Install _ONCE_            pip install rustenv
 			  export PATH="$HOME/.rustenv/bin:$PATH"
@@ -2565,65 +2585,92 @@ Create                    rustenv  renv
 Activate                  ./renv/bin/activate
 Deactivate                deactivate_rustenv
 -------
-VIRTUAL ENV  
 
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-OLD Python env
+****************************************************************************
+**PYTHON,RUST,C LANGUAGES**
+                     1->Initilialize always on Project Folder. 
+                     2->Always have a runtime.txt with version (e.g) python 3.8.6 for backward compatibility with python interpreter. 
+                     3->Always have a requirements.txt with version (e.g) django 4.2.4 for backward compatibility with python dependencies.
+                     4->Use pipenv to manage virtual environments with python versions.
+		     5->Write explicit code for readability and scalability.
+                     6->Use Data Structures correctly for high performance and memory utilisation.
+		     7->For engineering best practice use standard documentation,libraries and well established and supported frameworks.
 
-            _ONCE_ 1st)Install   sudo apt-get install python3-venv 
-	               pip install --force-reinstall virtualenv
-				
-		          (OR)		 pip install virtualenv
-				
-                   2nd)Create    virtualenv -p /usr/bin/python3.8 venv
-				
-Activate env:      source venv/bin/activate 
-				
-				*****BEST*****
-				sudo apt install python3-venv
-			     ***Go to Project Folder
-				python3 -m venv my-project-env
-                                source my-project-env/bin/activate
-                                deactivate
-			     ***Initilialize always on Project Folder
-				
-				
-Install pip/pip3 _ONCE_    curl https://bootstrap.pypa.io/get-pip.py | python
-Upgrade                    pip install --upgrade pip
 
-                           pip freeze
+
+**PYTHON LANGUAGE**        
+PIP -> ALWAYS USE PIP3			 
+Install pip/pip3 _ONCE_    Get:           curl https://bootstrap.pypa.io/get-pip.py | python 
+                           Upgrade:       pip install --upgrade pip
+
+
+OR
+
+**BEST PRACTICE FOR PIP**
+Install pip3:         sudo apt install python3-pip
+                      python -m pip install --upgrade pip
+		      OR python3 -m pip install --upgrade pip
+	
+Freeze Dependencies:       pip freeze
                            pip freeze > requirements.txt
 			   
-Installation of dep        pip3 install -r requirements.txt
+Install Dependencies:      pip3 install -r requirements.txt
                            OR
 			   python3 -m pip install -r requirements. txt
-                           pip3 install -r requirements.txt --upgrade
+Upgrade Dependencies:      pip3 install -r requirements.txt --upgrade
 			   
-Deactivate                 deactivate
+Deactivate:                deactivate
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OLD Python env	 
+
+Install _ONCE_               -> 1st Option
+				sudo apt-get install python3-venv
+                                pip install --force-reinstall virtualenv
+	                     -> 2nd Option
+		                pip install virtualenv
+				
+**Go to Project Folder**				
+Create env:     virtualenv -p /usr/bin/python3.8 venv				
+Activate env:   source venv/bin/activate 
+				
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++			  
+				
+
 NEW Python env
 
 Install pip3 _ONCE_    sudo apt install python3-pip
 
-Install _ONCE_             pip3 install pipenv
-		           export PATH="$HOME/.pipenv/bin:$PATH"
-                           echo $PATH
-				
-			 
-*************************
-$ which python3.7
-*************************
-Create                    pipenv --python /usr/bin/python3.8
-Activate                  pipenv shell
+Install _ONCE_               -> 1st Option
+                                pip3 install pipenv
+		                export PATH="$HOME/.pipenv/bin:$PATH"
+                                echo $PATH
+	                     -> 2nd Option
+				sudo apt install python3-venv
+                                export PATH="$HOME/.pipenv/bin:$PATH"
+                                echo $PATH
 
-                          pip freeze
+    
+**Go to Project Folder**
+Create env:     python3 -m venv my-project-env
+Activate env:   source my-project-env/bin/activate
+Deactivate env: deactivate			
+	
+*************************
+$ which python3.8
+*************************
+Create:                   pipenv --python /usr/bin/python3.8
+Activate:                 pipenv shell
+
+ Freeze Dependencies:     pip freeze
 			  pip freeze > requirements.txt
 			  
 			  
-Installation of dep       pipenv install -r requirements.txt
-Upgrade dep               pipenv install -r requirements.txt --upgrade
-Deactivate                deactivate
+Install Dependencies:     pipenv install -r requirements.txt
+Upgrade Dependencies:     pipenv install -r requirements.txt --upgrade
+Deactivate:               deactivate
+
        
 ***********PYTHON SCRIPT*******
 $ chmod +x hello.py  # make script executable
@@ -2632,6 +2679,7 @@ $ ./hello.py
 **Django flask Fast API Projects**
 -> Check the link https://github.com/devopsengineerDan/python-projects/tree/master/webapps
 -> Check the youtube link https://www.youtube.com/watch?v=3vfum74ggHE
+
 
 ***********DJANGO**************
 Effect changes:            python3 manage.py makemigrations
@@ -2646,6 +2694,7 @@ python3 manage.py runserver
 export FLASK_APP=app.py
 export FLASK_ENV=development
 flask run
+
 
 ***********Fast API***********
 
@@ -2691,6 +2740,8 @@ flask run
 
 			   
 			   *************************
+
+      
 --------------------------------------------------------------------------
 KAZAM DEMONSTRATION
 
