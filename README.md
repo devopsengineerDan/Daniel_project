@@ -1849,13 +1849,15 @@ DAVID BOMBAL -> Detailed
 
 PYTHON         ->     https://www.pythontutorial.net/python-oop/
 
+
 RUST (OFFICIAL)->     https://www.rust-lang.org/learn
-# Rust simplicity and reduction of complexity.
-# Rust unsafe for performance tuning in hardware. (Code must be secure)
-# Rust no_std for easier debugging hence less development time. (Code must be secure)
-# Rust support for c toolchains, kernels and hardwares.
-# Rust editions for backward compatibility. 
-# Rust compiler
+# 1. Rust simplicity and reduction of complexity.
+# 2. Rust unsafe for performance tuning in hardware. (Code must be secure)
+# 3. Rust no_std for easier debugging hence less development time. (Code must be secure)
+# 4. Rust support for c toolchains, kernels and hardwares.
+# 5. Rust editions for backward compatibility. 
+# 6. Rust Compiler and Cargo.
+
 
 
 **WEB**
@@ -2613,13 +2615,14 @@ Deactivate                deactivate_rustenv
 
 ****************************************************************************
 **PYTHON,RUST,C LANGUAGES**
-                     1->Initilialize always on Project Folder. 
-                     2->Always have a runtime.txt with version (e.g) python 3.8.6 for backward compatibility with python interpreter. 
-                     3->Always have a requirements.txt with version (e.g) django 4.2.4 for backward compatibility with python dependencies.
-                     4->Use pipenv to manage virtual environments with python versions.
-		     5->Write explicit code for readability and scalability.
-                     6->Use Data Structures correctly for high performance and memory utilisation.
-		     7->For engineering best practice use standard documentation,libraries and well established and supported frameworks.
+
+# 1. Initilialize always on Project Folder. 
+# 2. Always have a runtime.txt with version (e.g) python 3.8.6 for backward compatibility with python interpreter. 
+# 3. Always have a requirements.txt with version (e.g) django 4.2.4 for backward compatibility with python dependencies.
+# 4. Use pipenv to manage virtual environments with python versions.
+# 5. Write explicit code for readability and scalability.
+# 6. Use Data Structures correctly for high performance and memory utilisation.
+# 7. For engineering best practice use standard documentation,libraries and well established and supported frameworks.
 
 
 
