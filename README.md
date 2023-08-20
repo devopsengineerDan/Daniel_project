@@ -5311,6 +5311,20 @@ urlpatterns = [
 ]
 
 
+******************************************DATABASES*************************************************
+COMMON DB (PLATFORM AGNOSTIC)
+Relational db:            postreSQL 
+Document db:              CouchDB
+Graph and cloud web db:   Cassandra
+
+MULTI-PURPOSE 
+General purpose db:       SurrealDB
+
+
+
+
+
+
 DJANGO && MONGODB CONNECTION
 
 1)django_mongodb_engine
@@ -5428,14 +5442,7 @@ def email(request):
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-**DATABASES**
-COMMON DB
-Relational db:            postreSQL 
-Document db:              CouchDB
-Graph and cloud web db:   Cassandra
 
-MULTI-PURPOSE 
-General purpose db:       SurrealDB
 
 ===========================================================
 
