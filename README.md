@@ -5429,9 +5429,13 @@ def email(request):
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 **DATABASES**
-postreSQL 
-CouchDB/SurrealDB
-Cassandra
+COMMON DB
+Relational db:            postreSQL 
+Document db:              CouchDB
+Graph and cloud web db:   Cassandra
+
+MULTI-PURPOSE 
+General purpose db:       SurrealDB
 
 ===========================================================
 
