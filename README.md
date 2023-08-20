@@ -2254,6 +2254,8 @@ Install mypy
  mypy example.py
 
 -------
+
+
 PYTHON
 
 Install pip3          sudo apt install python3-pip
@@ -2743,6 +2745,8 @@ flask run
 
       
 --------------------------------------------------------------------------
+
+
 KAZAM DEMONSTRATION
 
 sudo apt install kazam
