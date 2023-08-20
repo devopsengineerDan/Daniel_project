@@ -1845,7 +1845,17 @@ DAVID BOMBAL -> Detailed
 ===============================================================================================================================================
 
 			<---SOFTWARE ENGINEERING (QUANTUM AI, QUANTUM MECHANICS ,AI && DIGITAL COMPUTING) : (ELECTRONICS AND MECHANICS)--->
-		
+
+
+PYTHON         ->     https://www.pythontutorial.net/python-oop/
+RUST (OFFICIAL)->     https://www.rust-lang.org/learn
+
+
+
+
+
+
+
                                             DESIGN PATTERNS FOR SOFTWARE ENGINEERS
  
 1 Observer                                   
