@@ -306,6 +306,8 @@ def show_notification(show_text):
    while toaster.notification_active():
       time.sleep(0.1)
 
+
+
 def monitor():
    while (True):
       time.sleep(10)
@@ -1847,10 +1849,13 @@ DAVID BOMBAL -> Detailed
 			<---SOFTWARE ENGINEERING (QUANTUM AI, QUANTUM MECHANICS ,AI && DIGITAL COMPUTING) : (ELECTRONICS AND MECHANICS)--->
 
 
-PYTHON         ->     https://www.pythontutorial.net/python-oop/
+PYTHON           (OFFICIAL)->     https://docs.python.org/
+                           ->     https://www.pythontutorial.net/python-oop/
 
 
-RUST (OFFICIAL)->     https://www.rust-lang.org/learn
+RUST             (OFFICIAL)->     https://www.rust-lang.org/learn
+
+                     
 # 1. Rust simplicity and reduction of complexity.
 # 2. Rust unsafe for performance tuning in hardware. (Code must be secure)
 # 3. Rust no_std for easier debugging hence less development time. (Code must be secure)
@@ -2391,8 +2396,92 @@ sudo apt install cmake
 pip install conan   -> C/C++ PACKAGE MANAGER	
 export PATH="$HOME/.conan/bin:$PATH"
 echo $PATH
-				
-***********RUNNING CONAN***********
+
+
+*******CLANG******	
+Install Clang on Debian
+
+Step 1. First, make sure that all your system packages are up-to-date by running the following apt commands in the terminal.
+
+sudo apt update
+sudo apt upgrade
+
+Step 2. Installing Clang on Ubuntu 22.04.
+
+Ubuntu 22.04 LTS typically includes the latest stable Clang version in its repositories. To verify the available Clang versions, run:
+
+apt show clang
+
+Now install the chosen Clang version using the package manager:
+
+sudo apt install clang
+
+To verify that Clang has been installed successfully, check the installed version:
+
+clang --version
+
+Step 3. Setting Up Clang Environment Variables.
+
+To ensure Clang works optimally, we need to configure the necessary environment variables.
+
+    Set the PATH Variable.
+
+Add the Clang binary directory to the PATH environment variable so that you can access Clang from any location in the terminal.
+
+echo 'export PATH=/usr/bin/:$PATH' >> ~/.bashrc
+source ~/.bashrc
+
+Step 2: Set the CC and CXX Variables.
+
+Set the CC and CXX environment variables to point to the Clang compiler for C and C++ respectively.
+
+echo 'export CC=clang' >> ~/.bashrc
+echo 'export CXX=clang++' >> ~/.bashrc
+source ~/.bashrc
+
+Step 4. Compiling C/C++ Code with Clang.
+
+Create a new file named hello.c for C or hello.cpp for C++ and add the following code:
+
+#include <stdio.h>
+
+int main() {
+printf("Hello, Clang on Ubuntu 22.04 LTS!\n");
+return 0;
+}
+
+Use Clang to compile the code into an executable binary:
+
+clang -o hello hello.c # For C
+clang++ -o hello hello.cpp # For C++
+
+Run the compiled binary to see the output:
+
+./hello
+
+Step 5. Tips for Optimizing Clang Performance.
+
+To further optimize your code’s performance with Clang, consider using specific compiler flags and techniques.
+
+    Use Clang’s Optimization Flags:
+
+    -O1, -O2, -O3: Optimize the code for different levels of performance (higher levels may increase compilation time).
+    -march=native: Generate code optimized for the host machine’s architecture.
+
+    Code Refactoring:
+
+    Use const correctly to help Clang perform additional optimizations.
+    Avoid unnecessary code duplication.
+    Prefer inline functions over macros to enable better type-checking and optimizations.
+
+    Enable Link-Time Optimization (LTO):
+
+    Use the -flto flag during compilation to enable link-time optimization.
+
+
+
+
+*******RUNNING CONAN******
 				
 Conan C/C++ Package Manager Documentation https://docs.conan.io/en/latest/
 				
