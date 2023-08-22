@@ -1854,7 +1854,7 @@ PYTHON           (OFFICIAL)->     https://docs.python.org/
 
 
 RUST             (OFFICIAL)->     https://www.rust-lang.org/learn
-
+ 			   ->	  https://education.web3.foundation/docs/introrust
                      
 # 1. Rust simplicity and reduction of complexity.
 # 2. Rust unsafe for performance tuning in hardware. (Code must be secure)
