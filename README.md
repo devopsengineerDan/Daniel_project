@@ -62,6 +62,7 @@ PYTHON SCRIPTS
 
 Python Script to Control my Lights using phue philips bulb -> https://www.youtube.com/watch?v=kSruoqDTYt0
 
+Python Scripts -> https://www.youtube.com/watch?v=vEQ8CXFWLZU
 
 👉 Photo Compressor 
 
