@@ -2363,9 +2363,16 @@ gedit main.rs
 1st Option:(ONE SIMPLE COMMAND) 
 cargo run 
 2nd Option:(BEST PRACTICE)
-cargo build
+cargo check
+cargo build -> build and compile
 cargo test
-cargo run
+cargo run ->check, build and compile, execute
+cargo clean
+
+OTHER COMMANDS
+cargo fix -> Ensure your use case is defined whether you are doing parallelism or concurrency.
+cargo bench
+
 
 				
 -------------
@@ -2374,21 +2381,20 @@ C Language -> Check C project for a simple c project compilation in the various 
 
 ******C BEST PRACTICE*****Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE 
 
-1-Simple control flow (e.g) a function should be limited to only one task to ensure readability and should not exceed the size of a page.
-Also do not use goto, setjmp, longjmp statements and recursion which is a fuction that calls onto itself which results to difficult to understand and follow cyclic control flow crafts and run away code which can crush.
-2-Limit loops, have an upper bound to an integer not a pointer.
-3-Do not use heap to ensure memory use is deterministic. This prevents use after freeze and memory leaks.
-4-Practise data hiding, this is declaring variables on how they are used. It restricts data access to class members.
-5-Use indentatation to explain your code.
-6-Check return value. If a return value is going to be ignored, you should explicitly cast the return value to a void type. (e.g) (void)printf(""); or (void)scanf("");
-7-Dereference operations should not be hidden in macro definitions or inside typedef declarations.
-8-Must dereference a pointer one layer at a time. This forces you to create structures that properly track your pointers to ensure they are not used incorrectly.
-9-Limit the C preprocessor. (This more advanced and required an advanced user)
-10-No use of function pointers. Lead to problem of obfuscating your code control flow graph of your program making it difficult to statically analyse your code and also fully test your code.
-11-Compile your code with all warnings enabled and compile in pedantic mode (e.g) $gcc <main_cfile>.c -Wall -Werror -Wpedantic OR $gcc <main_moderncfile>.c -std=C2x -Wall -Wextra -pedantic ./a.out  .This ensures all errors in your code willl be raised  by the compiler.
-12-Analyse code with multiple static code analysers with different rule sets.
-13-Test your code with unit tests.
-
+### 1A. Simple control flow (e.g) a function should be limited to only one task to ensure readability and should not exceed the size of a page.
+### 1B.Also do not use goto, setjmp, longjmp statements and recursion which is a fuction that calls onto itself which results to difficult to understand and follow cyclic control flow crafts and run away code which can crush.
+### 2. Limit loops, have an upper bound to an integer not a pointer.
+### 3. Do not use heap to ensure memory use is deterministic. This prevents use after freeze and memory leaks.
+### 4. Practise data hiding, this is declaring variables on how they are used. It restricts data access to class members.
+### 5. Use indentatation to explain your code.
+### 6. Check return value. If a return value is going to be ignored, you should explicitly cast the return value to a void type. (e.g) (void)printf(""); or (void)scanf("");
+### 7. Dereference operations should not be hidden in macro definitions or inside typedef declarations.
+### 8. Must dereference a pointer one layer at a time. This forces you to create structures that properly track your pointers to ensure they are not used incorrectly.
+### 9. Limit the C preprocessor. (This more advanced and required an advanced user)
+### 10. No use of function pointers. Lead to problem of obfuscating your code control flow graph of your program making it difficult to statically analyse your code and also fully test your code.
+### 11. Compile your code with all warnings enabled and compile in pedantic mode (e.g) $gcc <main_cfile>.c -Wall -Werror -Wpedantic OR $gcc <main_moderncfile>.c -std=C2x -Wall -Wextra -pedantic ./a.out  .This ensures all errors in your code willl be raised  by the compiler.
+### 12. Analyse code with multiple static code analysers with different rule sets.
+### 13. Test your code with unit tests.
 
 
 sudo apt install build-essential
@@ -2705,13 +2711,19 @@ Deactivate                deactivate_rustenv
 ****************************************************************************
 **PYTHON,RUST,C LANGUAGES**
 
-# 1. Initilialize always on Project Folder. 
-# 2. Always have a runtime.txt with version (e.g) python 3.8.6 for backward compatibility with python interpreter. 
-# 3. Always have a requirements.txt with version (e.g) django 4.2.4 for backward compatibility with python dependencies.
-# 4. Use pipenv to manage virtual environments with python versions.
-# 5. Write explicit code for readability and scalability.
-# 6. Use Data Structures correctly for high performance and memory utilisation.
-# 7. For engineering best practice use standard documentation,libraries and well established and supported frameworks.
+### 1.  Initilialize always on Project Folder. 
+### 2.  Always have a runtime.txt with version (e.g) python 3.8.6 for backward compatibility with python interpreter. 
+### 3.  Always have a requirements.txt with version (e.g) django 4.0.10 for backward compatibility with python dependencies. OR flask>=1.1.2,<2.0
+          where  4: MAJOR VERSION - Incremented when major changes are made like architectural changes.
+                 0: MINOR VERSION - Incremented when minor changes are made which does NOT break the API like adding a new feature
+	        10: PATCH VERSION - Incremented with bug fixes.
+### 4.  Have requirements-dev.txt for testing and deployment(i.e heroku) packages
+### 5.  Have toml file to manage setup configurations.
+### 6.  Have .gitignore and have necessary files in there.
+### 7.  Use pipenv to manage virtual environments with python versions.
+### 8.  Write explicit code for readability and scalability.
+### 9.  Use Data Structures correctly for high performance and memory utilisation.
+### 10. For engineering best practice use standard documentation,libraries and well established and supported frameworks.
 
 
 
@@ -2811,9 +2823,19 @@ export FLASK_APP=app.py
 export FLASK_ENV=development
 flask run
 
+**BEST PRACTICE**
+**To run main function using this command, where FLASK_APP points to __init.py__. __init.py__ sets a variable app to an instance of Flask**
+python3 -m flask run 
 
 ***********Fast API***********
-
+ADVANTAGES -> https://www.youtube.com/watch?v=cbASjoZZGIw
+### 1. It is plain Python.
+### 2. Async built-in.
+### 3. Data validation built-in. By using pydantic models.
+### 4. Typed built-in. You can declare variables as either int or str without installing packages like mypy. 
+### 5. Errors are in json. While in flask errors are displayed in html.
+### 6. Authentication built-in. It supports: HTTP Basic, OAuth2 tokens (JWT tokens) and header API keys.
+### 7. Swagger UI and ReDoc built-in.
 
 
 
@@ -5426,12 +5448,12 @@ urlpatterns = [
 
 
 ******************************************DATABASES*************************************************
-COMMON DB (PLATFORM AGNOSTIC)
+COMMON DB (PLATFORM DEPENDENT)
 Relational db:            postreSQL 
 Document db:              CouchDB
 Graph and cloud web db:   Cassandra
 
-MULTI-PURPOSE 
+MULTI-PURPOSE (PLATFORM AGNOSTIC)
 General purpose db:       SurrealDB
 
 
