@@ -1856,12 +1856,12 @@ PYTHON           (OFFICIAL)->     https://docs.python.org/
 RUST             (OFFICIAL)->     https://www.rust-lang.org/learn
  			   ->	  https://education.web3.foundation/docs/introrust
                      
-# 1. Rust simplicity and reduction of complexity.
-# 2. Rust unsafe for performance tuning in hardware. (Code must be secure)
-# 3. Rust no_std for easier debugging hence less development time. (Code must be secure)
-# 4. Rust support for c toolchains, kernels and hardwares.
-# 5. Rust editions for backward compatibility. 
-# 6. Rust Compiler and Cargo.
+### 1. Rust simplicity and reduction of complexity.
+### 2. Rust unsafe for performance tuning in hardware. (Code must be secure)
+### 3. Rust no_std for easier debugging hence less development time. (Code must be secure)
+### 4. Rust support for c toolchains, kernels and hardwares.
+### 5. Rust editions for backward compatibility. 
+### 6. Rust Compiler and Cargo.
 
 
 
@@ -2382,7 +2382,7 @@ C Language -> Check C project for a simple c project compilation in the various 
 ******C BEST PRACTICE*****Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE 
 
 ### 1A. Simple control flow (e.g) a function should be limited to only one task to ensure readability and should not exceed the size of a page.
-### 1B.Also do not use goto, setjmp, longjmp statements and recursion which is a fuction that calls onto itself which results to difficult to understand and follow cyclic control flow crafts and run away code which can crush.
+### 1B. Also do not use goto, setjmp, longjmp statements and recursion which is a fuction that calls onto itself which results to difficult to understand and follow cyclic control flow crafts and run away code which can crush.
 ### 2. Limit loops, have an upper bound to an integer not a pointer.
 ### 3. Do not use heap to ensure memory use is deterministic. This prevents use after freeze and memory leaks.
 ### 4. Practise data hiding, this is declaring variables on how they are used. It restricts data access to class members.
