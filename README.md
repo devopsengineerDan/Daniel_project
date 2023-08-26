@@ -764,7 +764,17 @@ sudo apt-get update
 sudo apt-get install plank
 BHere’s how my screen looks after applying these steps.efore you use Plank, you should remove the default dock by right-clicking in it and under Panel Settings, clicking on delete.
 Once done, go to Accessory > Plank to launch Plank dock.
-							     
+
+
+
+GOOGLE-CHROME INSTALLATION ON DEBIAN DISTRIBUTION
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb
+sudo apt install google-chrome-stable
+
+
+
+
 							     
 LINUX MUST INSTALLATIONS
 
