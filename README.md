@@ -126,10 +126,12 @@ watermark_Image(img, 'watermarked.jpg','Python', pos=(0, 0))
 
 This Python automation script will help you to view the DP of any Instagram User. Script use module instaloader which will take username as input and download the DP as an output. 
 
-#pip install instaloaderimport instaloader 
+#pip install instaloader
 ```
+import instaloader 
+
 ig = instaloader.Instaloader()
-DP = input("Enter Insta username : ") 
+dp = input("Enter Insta username : ") 
 
 ig.download_profile(dp , profile_pic_only=True)
 print("Your Image is Downloaded") 
