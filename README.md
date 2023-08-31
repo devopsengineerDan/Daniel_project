@@ -285,20 +285,46 @@ main()
 
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@
-BEST APPROACH
+
+👉 Battery Notification Working Script
 ```
+
+#Best Practice
 from psutil import sensors_battery
 
 battery = sensors_battery()
 
+def main():
+    print(f"Percentage: {battery.percent}")
+    print(f"Power Plugged: {battery.power_plugged}")
+    print(f"Seconds Left: {battery.secsleft}")
+
+if __name__ == "__main__":
+    main()
+    
+#Novice approach
+from psutil import sensors_battery
+
+battery = sensors_battery()
+    
 if __name__ == "__main__":
     print(f"Percentage: {battery.percent}")
     print(f"Power Plugged: {battery.power_plugged}")
-    print(f"SecsLeft: {battery.secsleft}")
+    print(f"Seconds Left: {battery.secsleft}")
 ```
-
-
+    
 @@@@@@@@@@@@@@@@@@@@@@@@@@@
+```
+import psutil
+
+battery_status = psutil.sensors_battery()
+print(battery_status)
+print("Percentage of battery: %s percentage"  % (battery_status.percent,))
+print("Approximate time remaining: %s seconds" % (battery_status.secsleft,))
+print("Is power cable connected: %s" % (battery_status.power_plugged,))
+```
+@@@@@@@@@@@@@@@@@@@@@@@@@@@
+👉 Battery Notification 
 ```
 import psutil
 import pyler
@@ -327,7 +353,11 @@ while (True):
     continue
 
 ```
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@2
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+👉 Battery Notification 
 ```
 import psutil
 import time
