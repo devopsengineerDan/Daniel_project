@@ -64,6 +64,7 @@ Automating Scripts + (Youtube,Image, PDF merger) scripts -> https://www.youtube.
 
 Clock script -> https://www.youtube.com/watch?v=l7IMBy4_nhA
 Download and Install Ds-Digital from official website
+
 ```
 from tkinter import *
 from tkinter.ttk import *
@@ -101,6 +102,7 @@ mainloop()
 👉 Photo Compressor 
 
 This is an awesome Automation Script that will Compress your Photos into lower Sizes by keeping the Quality the same. 
+
 ```
 import PIL
 from tkinter.filedialog import *
@@ -110,6 +112,7 @@ print("Image is Compressed")
 👉Image Watermarker 
 
 You had Probbally used different Photo Editing software to watermark your photos. This simple python script using the PIL module will watermark any image. You can set the Text, location, and even Font. 
+
 ```
 from PIL import Image
 from PIL import ImageFont
@@ -126,7 +129,8 @@ watermark_Image(img, 'watermarked.jpg','Python', pos=(0, 0))
 
 This Python automation script will help you to view the DP of any Instagram User. Script use module instaloader which will take username as input and download the DP as an output. 
 
-#pip install instaloader
+### pip install instaloader
+
 ```
 import instaloader 
 
@@ -139,6 +143,7 @@ print("Your Image is Downloaded")
 👉 Plagiarism Checker 
 
 This is an awesome script that will help you to check the Plagiarism between two files. Now you don’t longer need any software or a web app for Plagiarism checking. This will do your work in a second. 
+
 ```
 from difflib import SequenceMatcherdef Plagerism_checker(f1, f2):
 with open(f1,errors="ignore") as file1,open(f2,errors="ignore") as file2:
@@ -152,7 +157,8 @@ Plagerism_checker(file_1, file_2)
 
 This is another simple automation script to download Youtube videos. Now you don’t need any web app or software, just use the below code to download any video. 
 
-# pip install pytube
+### pip install pytube
+
 ```
 1st way
 from pytube import Youtube
@@ -177,6 +183,7 @@ print('downloaded', link)
 👉 Convert PDF to CSV 
 
 Sometimes we need to convert our PDF data into CSV format, So for that kind of work, this Python script will be handy for you. I had mentioned the two methods to do this work. 
+
 ```
 import tabula
 import camelot# Method 1
@@ -191,6 +198,7 @@ tables.export('file.csv', f='csv', compress=True)
 Want to lock your File then this script will be handy for you. Below I mention Encryption and decryption code that can work on any file. 
 
 # pip install cryptography
+
 ```
 from cryptography.fernet import Fernetdef encrypt(filename, key):
 fernet = Fernet(key) 
@@ -216,10 +224,12 @@ decrypt(filename, key)
 👉 Battery Notification 
 
 You had seen a battery notification on your Mobile Phone. So what if your Laptop also notifies you about your Battery status. This Python Script will do the exact same work by using 3 modules it can be Battery Notifier. Check out the code below. 
+
+### pip install win10toast
+### pip install pywin32
+### pip install pyttsx3import 
+
 ```
-pip install win10toast
-pip install pywin32
-pip install pyttsx3import psutil
 import time
 import pyttsx3
 import threading
@@ -253,7 +263,8 @@ bot.runAndWait()
 ```
 👉 Convert Images to PDF 
 
-If you had a lot of images and looking for converting them into a single Pdf then this automation script will be handy for you. 
+If you had a lot of images and looking for converting them into a single Pdf then this automation script will be handy for you.
+
 ```
 import os
 import img2pdf#Method 1
@@ -270,7 +281,8 @@ Pdf.output("yourfile.pdf", "F")
 
 If you had known about the Jarvis AI then this script will work similarly. It uses google Text to Speech API to convert your written Text to AI bot voice. checkout the code below. 
 
-# pip install gTTS
+### pip install gTTS
+
 ```
 from pygame import mixer
 from gtts import gTTSdef main():
@@ -286,7 +298,8 @@ main()
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@
 
-👉 Battery Notification Working Script
+👉 Battery Notification (Working Script)
+
 ```
 
 #Best Practice
@@ -314,6 +327,8 @@ if __name__ == "__main__":
 ```
     
 @@@@@@@@@@@@@@@@@@@@@@@@@@@
+👉 Battery Notification (Working Script)
+
 ```
 import psutil
 
@@ -323,8 +338,10 @@ print("Percentage of battery: %s percentage"  % (battery_status.percent,))
 print("Approximate time remaining: %s seconds" % (battery_status.secsleft,))
 print("Is power cable connected: %s" % (battery_status.power_plugged,))
 ```
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@
 👉 Battery Notification 
+
 ```
 import psutil
 import pyler
@@ -465,6 +482,7 @@ HASS Consult 0709479479
 0769863503 Kiarie
 0720298571 Mbugua mbuguadominic09@gmail.com
 @James System 0721385078
+@Sam-comrade ->0713835028
 
 Email
 
@@ -567,14 +585,15 @@ Freelance       Upwork
 Fitness -> Chris Heria        https://www.youtube.com/watch?v=3p8EBPVZ2Iw    
 
 *********************************************************************
-0713835028*
+```
 
 <a href="mailto:dancunmanyinsait@gmail.com" target="_blank">
                        Email: dancunmanyinsait@gmail.com
                     </a>
-
+```
+```
 web: gunicorn waweru.wsgi --log-file -
-
+```
 
 *********************************************************************
 
@@ -655,7 +674,7 @@ ID number
 
  <--- **************************************FINANCE, MARKETING & ECONOMICS********************************************* -->
 
-
+```
 BUY BEST PRODUCT AT LOW & FAIR PRICE *NOT* WORST AT LEAST PRICE
 HAVE INVESTORS INTO BUYERS & INCREASE CASHFLOW
 OPERATE AS LOWER MIDDLE-CLASS IN DEBT* 
@@ -670,11 +689,11 @@ PROTECTION
 Lawyers
 Tax Accountants(policies+best practices)
 Shell companies(ownership) to avoid damage on you                                                                  
-								    
+```
 
 								<--  SYSTEM UI AND INPUT/OUTPUT -->
 									
-									
+```									
 CHECK BATTERY									
 upower -i /org/freedesktop/UPower/devices/battery_BAT0
 
@@ -700,7 +719,7 @@ If Mymode exists give the newmode a different name
 
 INSTALL arandr TO CHECK DISPLAY TYPES (e.g eDP-1, Virtual-1)
 sudo apt install arandr
-
+```
 									
 									
 
