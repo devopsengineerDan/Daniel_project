@@ -63,7 +63,8 @@ Python Script to Control my Lights using phue philips bulb -> https://www.youtub
 Automating Scripts + (Youtube,Image, PDF merger) scripts -> https://www.youtube.com/watch?v=vEQ8CXFWLZU
 
 Clock script -> https://www.youtube.com/watch?v=l7IMBy4_nhA
-```clock.py
+Download and Install Ds-Digital from official website
+```
 from tkinter import *
 from tkinter.ttk import *
 
@@ -100,16 +101,16 @@ mainloop()
 👉 Photo Compressor 
 
 This is an awesome Automation Script that will Compress your Photos into lower Sizes by keeping the Quality the same. 
-
+```
 import PIL
 from tkinter.filedialog import *
 from PIL import Imagefile_loc=askopenfilenames()img = Image.open(file_loc[0])img.save("Compressed.jpg", "JPEG", optimize = True, quality = 10)
 print("Image is Compressed") 
-
+```
 👉Image Watermarker 
 
 You had Probbally used different Photo Editing software to watermark your photos. This simple python script using the PIL module will watermark any image. You can set the Text, location, and even Font. 
-
+```
 from PIL import Image
 from PIL import ImageFont
 from PIL import ImageDrawdef watermark_Image(img_path,output_path, text, pos):
@@ -120,23 +121,23 @@ drawing.text(pos, text, fill=black)
 img.show()
 img.save(output_path)img = '1.jpg'
 watermark_Image(img, 'watermarked.jpg','Python', pos=(0, 0)) 
-
+```
 👉 InstaDpViewer 
 
 This Python automation script will help you to view the DP of any Instagram User. Script use module instaloader which will take username as input and download the DP as an output. 
 
 #pip install instaloaderimport instaloader 
-
+```
 ig = instaloader.Instaloader()
 DP = input("Enter Insta username : ") 
 
 ig.download_profile(dp , profile_pic_only=True)
 print("Your Image is Downloaded") 
-
+```
 👉 Plagiarism Checker 
 
 This is an awesome script that will help you to check the Plagiarism between two files. Now you don’t longer need any software or a web app for Plagiarism checking. This will do your work in a second. 
-
+```
 from difflib import SequenceMatcherdef Plagerism_checker(f1, f2):
 with open(f1,errors="ignore") as file1,open(f2,errors="ignore") as file2:
 f1_data=file1.read()
@@ -144,12 +145,13 @@ f2_data=file2.read()
 checking=SequenceMatcher(None, f1_data, f2_data).ratio()print(f"These files are {checking*100} % similar")file_1=input("Enter file 1 path: ")
 file_2=input("Enter file 2 path: ")
 Plagerism_checker(file_1, file_2) 
-
+```
 👉 YT Video Downloader 
 
 This is another simple automation script to download Youtube videos. Now you don’t need any web app or software, just use the below code to download any video. 
 
 # pip install pytube
+```
 1st way
 from pytube import Youtube
 #Insert video URL
@@ -161,19 +163,19 @@ v_file = yt_video.streams.filter(file_extension="mp4").get_by_resolution("1080p"
 #Download and save video
 v_file.download("save_path i.e C:\\Users\Dan\Desktop")
 print(">>>Download Complete")
-
-
+````
 2nd way
+```
 import pytubelink = input('Enter Youtube Video URL')
 yt = pytube.Youtube(link)
 yt.streams.first().download()
 print('downloaded', link) 
-
+```
 
 👉 Convert PDF to CSV 
 
 Sometimes we need to convert our PDF data into CSV format, So for that kind of work, this Python script will be handy for you. I had mentioned the two methods to do this work. 
-
+```
 import tabula
 import camelot# Method 1
 filename = input("Enter File Path: ")
@@ -181,12 +183,14 @@ df = tabula.read_pdf(filename, encoding='utf-8', spreadsheet=True, pages='1')
 df.to_csv('output.csv')# Method 2
 tables = camelot.read_pdf('file.pdf')
 tables.export('file.csv', f='csv', compress=True) 
-
+```
 👉 File Encrypt and Decrypt 
 
 Want to lock your File then this script will be handy for you. Below I mention Encryption and decryption code that can work on any file. 
 
-# pip install cryptographyfrom cryptography.fernet import Fernetdef encrypt(filename, key):
+# pip install cryptography
+```
+from cryptography.fernet import Fernetdef encrypt(filename, key):
 fernet = Fernet(key) 
 
 with open(filename, 'rb') as file:
@@ -206,11 +210,11 @@ key = Fernet.generate_key()
 filename = input("Enter Your filename: ")
 encrypt(filename, key)
 decrypt(filename, key) 
-
+```
 👉 Battery Notification 
 
 You had seen a battery notification on your Mobile Phone. So what if your Laptop also notifies you about your Battery status. This Python Script will do the exact same work by using 3 modules it can be Battery Notifier. Check out the code below. 
-
+```
 pip install win10toast
 pip install pywin32
 pip install pyttsx3import psutil
@@ -244,11 +248,11 @@ processThread = threading.Thread(target=display_notification, args=("Charging is
 processThread.start()
 bot.say("Charging is Completed")
 bot.runAndWait() 
-
+```
 👉 Convert Images to PDF 
 
 If you had a lot of images and looking for converting them into a single Pdf then this automation script will be handy for you. 
-
+```
 import os
 import img2pdf#Method 1
 with open("Output.pdf", "wb") as file:
@@ -259,12 +263,14 @@ for i in list_of_images: # list of images with filename
 Pdf.add_page()
 Pdf.image(i,x,y,w,h)
 Pdf.output("yourfile.pdf", "F") 
-
+```
 👉 Text to Speech AI Bot 
 
 If you had known about the Jarvis AI then this script will work similarly. It uses google Text to Speech API to convert your written Text to AI bot voice. checkout the code below. 
 
-# pip install gTTSfrom pygame import mixer
+# pip install gTTS
+```
+from pygame import mixer
 from gtts import gTTSdef main():
 tts = gTTS('Learn Python from Medium')
 tts.save('python.mp3')
@@ -272,12 +278,13 @@ mixer.init()
 mixer.music.load('python.mp3')
 mixer.music.play()if __name__ == "__main__":
 main()
-
+```
 
 
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@
-
+BEST APPROACH
+```
 from psutil import sensors_battery
 
 battery = sensors_battery()
@@ -286,11 +293,11 @@ if __name__ == "__main__":
     print(f"Percentage: {battery.percent}")
     print(f"Power Plugged: {battery.power_plugged}")
     print(f"SecsLeft: {battery.secsleft}")
-
+```
 
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@
-
+```
 import psutil
 import pyler
 from plyer import notification
@@ -317,9 +324,9 @@ while (True):
         percent = cur_per
     continue
 
-
+```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
+```
 import psutil
 import time
 import pyttsx3
@@ -373,6 +380,7 @@ def monitor():
 
 if __name__ == "__main__":
    monitor()
+```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
                                      
 
@@ -666,9 +674,9 @@ sudo apt install arandr
 
 ---------------------- GNOME INSTALLATION ---------------------
 VANILLA GNOME BROKEN DEPENDECIES
-
-sudo apt install vanilla-gnome-desktop
-
+```
+$ sudo apt install vanilla-gnome-desktop
+```
 This worked successfully and I was able to log into GNOME 40.4. But I got a random dpkg error, as follows:
 
 Setting up vanilla-gnome-default-settings (20.04.1) ...
