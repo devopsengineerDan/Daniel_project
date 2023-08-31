@@ -1,5 +1,3 @@
-
-
 *Mogire Victor Maranga UNITS IMAGE + DETAILS 5(registrar,skul,dep<->examdean,list,financeVICTORCOMPLETESTATUS)-2(scripts,letter)
 *Shilla 2(scripts,letter)
 @CHARITY -> 0721581667
@@ -62,8 +60,43 @@ PYTHON SCRIPTS
 
 Python Script to Control my Lights using phue philips bulb -> https://www.youtube.com/watch?v=kSruoqDTYt0
 
-Python Scripts -> https://www.youtube.com/watch?v=vEQ8CXFWLZU
+Automating Scripts + (Youtube,Image, PDF merger) scripts -> https://www.youtube.com/watch?v=vEQ8CXFWLZU
 
+Clock script -> https://www.youtube.com/watch?v=l7IMBy4_nhA
+```clock.py
+from tkinter import *
+from tkinter.ttk import *
+
+from time import strftime
+
+window = Tk()
+window.title("Digital Clock")
+
+def time():
+    day_string = strftime("%A")
+    day_label.config(text=day_string)
+    
+    date_string = strftime("%B %d, %Y")
+    date_label.config(text=date_string)
+    
+    time_string = strftime("%I:%M:%S %p")
+    label.config(text=time_string)
+    label.after(1000, time)
+    
+
+day_label = Label(window,font=("ds-digital", 50), background="white smoke", foreground="black")
+day_label.pack()
+
+date_label = Label(window,font=("ds-digital", 50), background="white smoke", foreground="black")
+date_label.pack()
+    
+label = Label(window, font=("ds-digital", 30), background="black", foreground="cyan")
+label.pack(anchor="center")
+
+time()
+
+mainloop()
+```
 👉 Photo Compressor 
 
 This is an awesome Automation Script that will Compress your Photos into lower Sizes by keeping the Quality the same. 
