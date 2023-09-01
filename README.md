@@ -2023,8 +2023,8 @@ DAVID BOMBAL -> Detailed
 # SOFTWARE ENGINEERING (QUANTUM AI, QUANTUM MECHANICS ,AI && DIGITAL COMPUTING) : (ELECTRONICS AND MECHANICS)
 
 ```
-👉 PYTHON           (OFFICIAL)->     https://docs.python.org/
-                           ->     https://www.pythontutorial.net/python-oop/
+👉 PYTHON           (OFFICIAL)   ->     https://docs.python.org/
+                                 ->     https://www.pythontutorial.net/python-oop/
 
 BEST PRACTICE
 
@@ -2046,15 +2046,15 @@ BEST PRACTICE
 
 
 ```
-👉 RUST             (OFFICIAL)->     https://www.rust-lang.org/learn
- 			   ->	  https://education.web3.foundation/docs/introrust
+👉 RUST             (OFFICIAL)   ->       https://www.rust-lang.org/learn
+ 			         ->	  https://education.web3.foundation/docs/introrust
 
 BEST PRACTICE
 
 ### 1. Rust simplicity and reduction of complexity.
-### 2. Rust unsafe{} keyword for performance tuning in hardware. (Code must be secure)-> Must be checked by Software Engineer during Software Review and Testing
-### 3. Rust [no_std] for easier debugging hence less development time. (Code must be secure)-> Must be checked by Software Engineer during Software Review and Testing
-### 4. Rust unwrap() function  for easier error handling. Rust does not use exception handling.(Code must be secure)-> Must be checked by Software Engineer during Software Review and Testing
+### 2. Rust unsafe{} keyword for performance tuning in hardware. (Code must be secure)COMPILER CHECKS-> Must be checked by Software Engineer during Software Review and Testing
+### 3. Rust [no_std] for easier debugging hence less development time. (Code must be secure)STD LIBRARY-> Must be checked by Software Engineer during Software Review and Testing
+### 4. Rust unwrap() function  for easier error handling. Rust does not use exception handling.(Code must be secure) RUNT-IME/COMPILE-TIME ANNOTATIONS-> Must be checked by Software Engineer during Software Review and Testing
 ### 5. Rust support for c toolchains, kernels and hardwares.
 ### 6. Rust editions for backward compatibility. 
 ### 67 Rust Compiler and Cargo.
