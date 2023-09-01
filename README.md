@@ -66,38 +66,44 @@ Clock script -> https://www.youtube.com/watch?v=l7IMBy4_nhA
 Download and Install Ds-Digital from official website
 
 ```
+
 from tkinter import *
 from tkinter.ttk import *
+from tkinter import Label, Tk
 
 from time import strftime
 
+#Configure window 
 window = Tk()
 window.title("Digital Clock")
+#window.geometry("1000x800")
+window.configure(bg="white smoke")
+window.resizable(False, False)
 
 def time():
+    """
     day_string = strftime("%A")
     day_label.config(text=day_string)
     
     date_string = strftime("%B %d, %Y")
     date_label.config(text=date_string)
-    
-    time_string = strftime("%I:%M:%S %p")
+    """
+    time_string = strftime("%a %d-%m-%Y %I:%M:%S %p")
     label.config(text=time_string)
     label.after(1000, time)
     
-
+"""
 day_label = Label(window,font=("ds-digital", 50), background="white smoke", foreground="black")
 day_label.pack()
 
 date_label = Label(window,font=("ds-digital", 50), background="white smoke", foreground="black")
 date_label.pack()
-    
+"""    
 label = Label(window, font=("ds-digital", 30), background="black", foreground="cyan")
 label.pack(anchor="center")
 
 time()
-
-mainloop()
+window.mainloop()
 ```
 👉 Photo Compressor 
 
