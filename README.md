@@ -313,13 +313,13 @@ from psutil import sensors_battery
 
 battery = sensors_battery()
 
-def main():
+def batterry_check():
     print(f"Percentage: {battery.percent}")
     print(f"Power Plugged: {battery.power_plugged}")
     print(f"Seconds Left: {battery.secsleft}")
 
 if __name__ == "__main__":
-    main()
+    battery_check()
     
 #Novice approach
 from psutil import sensors_battery
