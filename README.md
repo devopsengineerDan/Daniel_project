@@ -197,7 +197,7 @@ tables.export('file.csv', f='csv', compress=True)
 
 Want to lock your File then this script will be handy for you. Below I mention Encryption and decryption code that can work on any file. 
 
-# pip install cryptography
+### pip install cryptography
 
 ```
 from cryptography.fernet import Fernetdef encrypt(filename, key):
@@ -327,6 +327,7 @@ if __name__ == "__main__":
 ```
     
 @@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 👉 Battery Notification (Working Script)
 
 ```
@@ -340,6 +341,7 @@ print("Is power cable connected: %s" % (battery_status.power_plugged,))
 ```
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 👉 Battery Notification 
 
 ```
@@ -370,11 +372,12 @@ while (True):
     continue
 
 ```
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@2
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 👉 Battery Notification 
+
 ```
 import psutil
 import time
@@ -433,7 +436,7 @@ if __name__ == "__main__":
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
                                      
 
-
+```
 DEVELOPMENT SETUP
 
 Gitlab
@@ -470,7 +473,9 @@ Visual Studio
 
 C language
 Conan package manager 
-vcpkg Windows os package manager 
+vcpkg Windows os package manager
+```
+
 ------------------------------------------------------------------------------------------------
 USEFUL CONTACTS & LINKS
 HASS Consult 0709479479
@@ -500,15 +505,8 @@ https://thintech.co.ke/  Consultance
 
 -------------------
 
-Cybersecurity firms 
-onsite cybersecurity firm  contact Sam for location
-Safaricom
-Serianu
-Sentinel
-Ekraal
 
-Law link
-https://www.qub.ac.uk/courses/undergraduate/2021/law-senior-status-llb-m101/
+Network configuration
 
 PPoE user 0711444518
 PPoE password 0000
@@ -528,7 +526,10 @@ VPN
 VPN address 8ce5083f2021.sn.mynetname.net
 ==============================================================================================================================================
                                                         
-							<--STUFF-->
+
+       <--********************************STUFF**************************************-->
+
+```
 SAF       07->0,1,2,4,5,6,9
 AIRTEL    07->3,8
 TELCOM    07->7
@@ -540,7 +541,19 @@ ADOBE PHOTOSHOP  1045-1656-1984-6490-9561-5688
 
 http://127.0.0.1:8000/register?next=/
 
-Important links
+Cybersecurity firms 
+onsite cybersecurity firm  contact Sam for location
+Safaricom
+Serianu
+Sentinel
+
+
+
+👉 Important links
+
+Law link
+https://www.qub.ac.uk/courses/undergraduate/2021/law-senior-status-llb-m101/
+
 
 Datascience Concepts
 
@@ -583,6 +596,7 @@ Data Science    https://okhi.recruiterbox.com/jobs/fk0j7cr/
 Cybersecurity   https://www.un-yk.com/
 Freelance       Upwork
 Fitness -> Chris Heria        https://www.youtube.com/watch?v=3p8EBPVZ2Iw    
+```
 
 *********************************************************************
 ```
@@ -672,7 +686,7 @@ ID number
 
 
 
- <--- **************************************FINANCE, MARKETING & ECONOMICS********************************************* -->
+     <-----**************************************FINANCE, MARKETING & ECONOMICS*********************************************---->
 
 ```
 BUY BEST PRODUCT AT LOW & FAIR PRICE *NOT* WORST AT LEAST PRICE
@@ -691,18 +705,20 @@ Tax Accountants(policies+best practices)
 Shell companies(ownership) to avoid damage on you                                                                  
 ```
 
-								<--  SYSTEM UI AND INPUT/OUTPUT -->
+								<--************************SYSTEM UI, INPUT&&OUTPUT AND PROCESSORS********************************-->
 									
 ```									
-CHECK BATTERY									
+👉 CHECK BATTERY									
 upower -i /org/freedesktop/UPower/devices/battery_BAT0
+```
 
-RECONFIGURE BROKEN DEPENDENCIES
+```
+👉 RECONFIGURE BROKEN DEPENDENCIES
 sudo dpkg --configure -a
-
+```
 									
-									
-ENHANCE RESOLUTION
+```									
+👉 ENHANCE RESOLUTION
 
 FONT SIZE -> 1.30
 CHANGE SCALING FROM 200 TO 100
@@ -720,14 +736,14 @@ If Mymode exists give the newmode a different name
 INSTALL arandr TO CHECK DISPLAY TYPES (e.g eDP-1, Virtual-1)
 sudo apt install arandr
 ```
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@									
 									
-									
-
+```
 ---------------------- GNOME INSTALLATION ---------------------
-VANILLA GNOME BROKEN DEPENDECIES
-```
+👉 VANILLA GNOME BROKEN DEPENDECIES
+
 $ sudo apt install vanilla-gnome-desktop
-```
+
 This worked successfully and I was able to log into GNOME 40.4. But I got a random dpkg error, as follows:
 
 Setting up vanilla-gnome-default-settings (20.04.1) ...
@@ -777,29 +793,32 @@ DCONF_PROFILE=~/db_profile dconf dump / >old_settings
 rm db_profile
 mv .config/dconf/user-old ~/user-settings-delete-later
 dconf load / <old_settings
+```
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 
 
 
 
-
-
-
-MAINTENANCE OF SSD
+```
+👉 MAINTENANCE OF SSD
 sudo systemctl enable fstrim.timer
 systemctl status fstrim.timer 
+```
 
-
-GRUB RESCUE ERROR FIX UBUNTU
+```
+👉 GRUB RESCUE ERROR FIX UBUNTU
 sudo update-grub2
 sudo grub-install /dev/sda
 
 sudo add-apt-repository -y ppa:yannubuntu/boot-repair
 sudo apt-get update
 sudo apt-get install -y boot-repair && boot-repair
+```
 
-
-WINDOW DISPLAY ERROR && UNRENSPONSIVE MOUSE UBUNTU
+```
+👉 WINDOW DISPLAY ERROR && UNRENSPONSIVE MOUSE UBUNTU
 dpkg -l | grep linux-image | awk '{print$2}'
 sudo apt-get install linux-image-5.3.0-18-generic
 OR BEST ALTERNATIVE
@@ -809,9 +828,11 @@ sudoedit /etc/gdm3/custom.conf
 ->edit 
 remove # in wayland to enable it
 sudo systemctl restart gdm3
+```
 
-							     
-UPGRADING GNOME IN UBUNTU
+
+```						     
+👉 UPGRADING GNOME IN UBUNTU
 	
 It is possible to install GNOME 41 on Ubuntu 20.04. I followed these steps and they worked for me.
 
@@ -836,14 +857,15 @@ Instructions:
     sudo apt upgrade
 
     Reboot your system
-
+```
 							     
-							     
-INCREASE SCREENCAST TIME TO 9800 SEC
+```							     
+👉 INCREASE SCREENCAST TIME TO 9800 SEC
 gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 9800	
-									
-							     
-CHANGE DOCK IN XFCE
+```
+								
+```							     
+👉 CHANGE DOCK IN XFCE
 The default dock is nice and pretty much does what it is for. But again, it looks a bit boring.
 
 However, if you want your dock to be better and with a little more customization options, you can install another dock.
@@ -856,19 +878,19 @@ sudo apt-get update
 sudo apt-get install plank
 BHere’s how my screen looks after applying these steps.efore you use Plank, you should remove the default dock by right-clicking in it and under Panel Settings, clicking on delete.
 Once done, go to Accessory > Plank to launch Plank dock.
+```
 
-
-
-GOOGLE-CHROME INSTALLATION ON DEBIAN DISTRIBUTION
+```
+👉 GOOGLE-CHROME INSTALLATION ON DEBIAN DISTRIBUTION
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo apt install ./google-chrome-stable_current_amd64.deb
 sudo apt install google-chrome-stable
+```
 
 
 
-
-							     
-LINUX MUST INSTALLATIONS
+```							     
+👉 LINUX MUST INSTALLATIONS
 
 AMD DRIVERS
 AMDGPU = AMD open source kernel display driver.
@@ -906,9 +928,10 @@ $ sudo apt install \
   libigdfcl-dev \
   libigfxcmrt-dev \
   level-zero-dev
+```
 
-
-FEDORA
+```
+👉 FEDORA
 Update & Upgrade (DO FIRST):
 sudo dnf upgrade --refresh
 
@@ -970,10 +993,10 @@ sudo dnf install tlp tlp-rdw
 Just run the above command and you don’t need to do anything else. It’ll make your laptop battery last longer by implementing some power-saving protocols. Sorry, I forgot this one in the video. 
 
 sudo tlp start
+```
 
-
-
-UBUNTU
+```
+👉 UBUNTU
 Update & Upgrade:
 sudo apt update; sudo apt upgrade
 
@@ -1042,19 +1065,27 @@ Kdenlive allows you to create professional videos and is suitable for both basic
 EverSticky allows you to save quick notes on your desktop screen, making it a great utility for to-do lists, notes, and reminders. It is an advanced alternative to Sticky Notes.
 Okular is a must-have app for handling documents, as it supports all major file formats such as PDF, ePUB, TIFF, Images, DVI, XPS, and ODT.
 Clementine is a music player with a minimal, easy-to-use interface.
-									
+```									
 									
 									
 									
 =================================
 
-REMOVE
+```
+👉 REMOVE
 
 sudo rm -rf 
+```
+
+```
+👉 CONFIGURE
+sudo dpkg --configure -a
+```
 
 =================================
 
-FIX FLASH ON UBUNTU TERMINAL 
+```
+👉 FIX FLASH ON UBUNTU TERMINAL 
 
 sudo fdisk -l
 
@@ -1064,37 +1095,38 @@ DEFRAGMENT sudo e4defrag /dev/sda7
 
 2nd option
 udisksctl power-off -b /dev/sdb
-
-FIX FLASH ON WINDOWS TERMINAL 
-diskpart
-list disk
-attributes disk
-attributes disk clear diskonly
-exit
+```
 
 
 
-=================================
-UBUNTU TRANSPARENCY(MENU BAR AND TAB)
+```
+👉 UBUNTU TRANSPARENCY(MENU BAR AND TAB)
 Install (Dynamic Panel Transparency ) in ubuntu softwares
+```
+
+```
+-------------------------------------------
+👉 Install  dash-dock extension
 
 -------------------------------------------
 gsettings set org.gnome.shell.extensions.dash-to-dock transparency-mode 'FIXED'
 gsettings set org.gnome.shell.extensions.dash-to-dock background-opacity 0.2
+-------------------------------------------
+```
 
--------------------------------------------
-Install  dash-dock extension 
--------------------------------------------
-(ARCH && FEDORA) ENABLE PANTHEON DESKTOP ENVIRONMENT
+```
+👉 (ARCH && FEDORA) ENABLE PANTHEON DESKTOP ENVIRONMENT
 sudo systemctl disable lightdm.service
 sudo systemctl enable gdm.service
 
-(DEBIAN) ENABLE PANTHEON DESKTOP ENVIRONMENT
+👉 (DEBIAN) ENABLE PANTHEON DESKTOP ENVIRONMENT
 sudo systemctl disable lightdm.service
 sudo systemctl enable gdm.service
  systemctl start gdm
+```
 
-(UBUNTU 20- ONWARDS )XFCE INSTALLATION 
+```
+👉 (UBUNTU 20- ONWARDS )XFCE INSTALLATION 
 sudo apt install xfce4
         (OR)
 	
@@ -1103,12 +1135,12 @@ sudo apt update
 
 sudo apt upgrade
 sudo apt install xubuntu-desktop
-
+```
 
 ===============================================================================================================================================
 
 
-			<---NETWORKS--->
+			<---***********************************NETWORKS*****************************************--->
 
 Assigning static ip address to the local network
 
@@ -1193,7 +1225,7 @@ NETWORK ADMIN WINDOWS
 https://medium.com/@adinika.15/installing-active-directory-on-windows-server-2012-r2-e9e614770588
 
 
-			<---SYSTEM--->
+			<---**************************************************************SYSTEM**************************************************--->
 			
 sudo passwd root -Change password for root
  
@@ -1268,28 +1300,11 @@ Then reboot your system and after reboot run this command:
 
 sudo modprobe vboxdrv
 
-
-
-
-
-ADDING GUEST EDITION ISO TO ENLARGE THE SCREEN + OTHER FEATURES
-TERMINAL OPTION  
-# su
-# apt-get update && apt-get install -y linux-headers - $ (uname -r) 
-# cp /media/cd-rom/VBoxLinuxAdditions.run / root / 
-# chmod 755 /root/VBoxLinuxAdditions.run 
-# cd / root 
-# ./VBoxLinuxAdditions.run 
-UI OPTION
-
-
 				
 				
 				
-				
-				
-				
-******QEMU/KEMU******				
+```				
+👉QEMU/KEMU				
 				
 1. https://www.youtube.com/watch?v=vyLNpPY-Je0&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=1  -> qemu/kvm & virt-manager installation on Ubuntu 22.04    (Installation of Linux)
    Check Windows Doc File
@@ -1355,7 +1370,7 @@ UI OPTION
 
 NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto-configure-setup-firewall-with-ufw-on-ubuntu-linux/
 (CHECK WINDOWS DOC FILE)
-								       
+```								       
 								       
 								       
 								       
@@ -1365,18 +1380,37 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 				
 				
 				
-				
+```
+👉 VIRTUALBOX CONFIGURATIONS
+			
 LINUX OR WINDOWS Depending on Guest or Host				
 				
-*VIRTUALBOX GUEST ADDITIONS ISO + Install	http://download.virtualbox.org/virtualbox/5.0.24/VBoxGuestAdditions_5.0.24.iso	
+*VIRTUALBOX GUEST ADDITIONS ISO + Install	http://download.virtualbox.org/virtualbox/5.0.24/VBoxGuestAdditions_5.0.24.iso
+ADDING GUEST EDITION ISO TO ENLARGE THE SCREEN + OTHER FEATURES
+TERMINAL OPTION  
+# su
+# apt-get update && apt-get install -y linux-headers - $ (uname -r) 
+# cp /media/cd-rom/VBoxLinuxAdditions.run / root / 
+# chmod 755 /root/VBoxLinuxAdditions.run 
+# cd / root 
+# ./VBoxLinuxAdditions.run 
+UI OPTION
+
+
 *VIRTUALBOX EXTENSION PACK HOST  -> Oracle_VM_VirtualBox_Extension_Pack-6.1.26.vbox-extpack
 ->Go to File, Preferences, Extensions, Add Oracle_VM_VirtualBox_Extension_Pack
+
 *ACCESSING THE HOST FROM GUEST
 ->Go to Settings, Shared Folders, Machine Folders, Choose Folder Path e.g Downloads, Select Auto-mount and (Make-permanent will appear afterwards)
 
-CONNECTING VMS TO A COMMON NETWORK
+*CONNECTING VMS TO A COMMON NETWORK
 ->Go to File, Preferences, Network, Add NAT Network (e.g)Network Name: NATNetworkPentesting Network CIDR: 10.0.2.0/24   --> You can also do Port Forwarding
-				
+
+
+
+```				
+```
+👉 INSTALL KALI PURPLE THEN INSTALL KALI LINUX PENTESTING TOOLS
 				
 *Install kali tools ( install katoolin) 
       OR
@@ -1442,12 +1476,27 @@ Others
     kali-linux-everything: Every metapackage and tool listed here
     kali-tools-top10: The most commonly used tools
     kali-desktop-live: Used during a live session when booted from the image
+```
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+👉 LINUX OPERATING SYSTEM
+
+```
 CHECK SYSTEM INFO
 lscpu
+```
 
+```
 CHECK NUMBER OF CORES AND THREADS
 lscpu | grep -E '^Thread|^Core|^Socket|^CPU\('
+```
+
+```
+CHECK OS VERSION USING PYTHON
+
+
+```
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 (PC)
@@ -6008,7 +6057,8 @@ ROOT - devopsengineer
 							     
 				
 				<--WINDOWS-->
-*************LOCAL ACCOUNT LOG IN TO WINDOWS 11********
+```
+👉 LOCAL ACCOUNT LOG IN TO WINDOWS 11
 In windows 11 pro
 -Sign in options
 -Domain join instead
@@ -6028,64 +6078,97 @@ Advanced network settings
 Network adapters
 Enable the network adapter you disabled ethernet/wifi
 
-
-
+Then:
 
 -Sign in options
 -Domain join instead
 -Enter Local user name and password
+```
 
-*************NETWORK RESET********
-Reset network to default to remove previous configurations
-*************COMPUTER SECURITY********
-Glass Wire Network Security
-Virus Total
-				
-SUSPEND -> DO NOTHING - To enable operating the laptop when the lid is down
-HIBERNATE -> ctrl + Delete to run the machine
-
-*****SUSPENDING LAPTOP****
-AVOID OVERHEATING
-RESTART MACHINE TO FREE UP MEMORY, THUS AVOID LAGGNG OF PERFORMANCE
-
-*******SYSTEM IMPLEMENTATION**********					
-CHECK TYPE OF SSD								       
-Go to cmd								       
-  wmic diskdrive get caption, firmwarerevision
- 
+```
+👉 Softwares
 Download cpu-z         -> ram,cpu,graphics type and storage size
 Download Intel Graphics Command Center and Modify Settings to High/Ultra
 Screen Recorder Pro -> Screenshot
 RecForth -> Video Recorder
+```
 
-CHECK TRIM TECHNOLOGY IMPLEMENTATION 
+```
+👉 NETWORK RESET
+Reset network to default to remove previous configurations
+```
+
+```
+👉 COMPUTER SECURITY
+Glass Wire Network Security
+Virus Total
+```
+
+```
+👉 SUSPEND AND HIBERNATE				
+SUSPEND -> DO NOTHING - To enable operating the laptop when the lid is down
+HIBERNATE -> ctrl + Delete to run the machine
+```
+
+```
+👉AVOID OVERHEATING
+*RESTART MACHINE TO FREE UP MEMORY, THUS AVOID LAGGNG OF PERFORMANCE
+*CLOSE MACHINE IF NOT IN USE
+```
+
+```
+👉 SYSTEM IMPLEMENTATION				
+CHECK TYPE OF SSD								       
+Go to cmd								       
+  wmic diskdrive get caption, firmwarerevision
+```
+
+```
+👉 CHECK TRIM TECHNOLOGY IMPLEMENTATION 
 Go to  cmd
 Check - fsutil behavior query DisableDeleteNotify  
 Enable - fsutil behavior set DisableDeleteNotify 0 
 Disable - fsutil behavior set DisableDeleteNotify 1 
+```
 
-DISABLE AUTO-UPDATES
+```
+👉 DISABLE AUTO-UPDATES
 Windows + R - services.msc -> Windows update -> Disable
+```
+
+```
+👉 KEYBOARD SHORTCUTS
 Fn + Alt + F4 -> Close window and Shut Down or Reboot
 Windows + R - wmic -> bios get serialnumber
 Windows + R - winver -> To check Windows OS Build
 Windows + R - dxdiag
 Windows + R- %temp% -> Delete temp files
 Windows + R - optionalfeatures.exe -> Windows Subsystem for Linux				
+````
 
-					
-CRACKED SOFTWARES
+```
+👉 CRACKED SOFTWARES
 1. 1337x.to OR 1337x.to/#
 2. WINDOWS OFFICE SETUP https://getintopc.com/?s=Office+2016&submit=Search
+```
 
-WINDOWS (UBUNTU TERMINAL)
-+++++++++++++++++++++++++++++++++++++++ 
+```
+👉 FIX FLASH ON WINDOWS TERMINAL 
+diskpart
+list disk
+attributes disk
+attributes disk clear diskonly
+exit
+```
+
+```
+👉 WINDOWS (UBUNTU TERMINAL)
 cd /mnt/c/Users/Dan/
 cd /mnt/c/Users/Dan/Desktop/Projects/
+```
 
-
-
-SETUP WINDOWS HELLO AND FINGERPRINT
+```
+👉 SETUP WINDOWS HELLO AND FINGERPRINT
 
 1. Update Your PC
 2. Enable Biometric from Administration
@@ -6111,12 +6194,13 @@ When you finish, move on to the second step.
 2) Click the icon for Scan for hardware changes on the top bar.
 3) Expand Biometric devices. Right-click the fingerprint sensor device that you have and click Uninstall.
 4) You can choose to reboot your computer for Windows to help you locate the driver that it could find for your device or, you can choose to update the driver by yourself.
+```
 
-
-The following are further optimization settings that can be figured once your BIOS is modded.
+👉 The following are further optimization settings that can be figured once your BIOS is modded.
 
 * These settings are universally recommended optimizations for your hackintosh:
-
+  
+```
 ``` mermaid
 graph TD
     id1[Advance Tab]-->id2[Intel Advanced Menu];
@@ -6170,13 +6254,11 @@ graph LR
     id3-->|Boot Performance Mode|id4[Max Battery];
     id3-->|Config TDP Configurations|Down;
 ```
-
+```
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 					
-RECOVER A DELETED ACCOUNT
-					       
-https://m.facebook.com/login/identify/
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 1) 9 vids + Project management 
 2) Renewal Good Conduct + 1 + 2
