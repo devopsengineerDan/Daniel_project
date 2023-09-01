@@ -2874,8 +2874,19 @@ Got any doubts? Check our FAQ, write us or join the community in Cpplang Slack #
 
 
    ******DEVELOPMENT ENVIRONMENT******
-**RUST LANGUAGE**    ->Initilialize always on Project Folder	
-Rustenv
+👉 RUST LANGUAGE ->Initilialize always on Project Folder	
+
+👉  Rust uses cache memory unlike shared memory in Python
+``
+ Dependencies aren’t normally installed into the cargo directory in Rust. There is a cache directory that is shared, but it’s a true cache and therefore not a problem in the way a shared lib directory is.
+
+Since dependencies aren’t shared there’s no real need for isolated per-project rust installs. Cargo will pull the correct dependencies for your project when you build it and link only those dependencies into the final program, regardless of what other programs you may have built before.
+``
+
+
+```
+👉 Rustenv
+
 Install _ONCE_            pip install rustenv
 			  export PATH="$HOME/.rustenv/bin:$PATH"
                           echo $PATH
@@ -2883,6 +2894,10 @@ Install _ONCE_            pip install rustenv
 Create                    rustenv  renv
 Activate                  ./renv/bin/activate
 Deactivate                deactivate_rustenv
+
+👉 Run cargo
+
+```
 -------   
 **PYTHON LANGUAGE**        
 PIP -> ALWAYS USE PIP3			 
