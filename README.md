@@ -1064,11 +1064,8 @@ Kdenlive allows you to create professional videos and is suitable for both basic
 EverSticky allows you to save quick notes on your desktop screen, making it a great utility for to-do lists, notes, and reminders. It is an advanced alternative to Sticky Notes.
 Okular is a must-have app for handling documents, as it supports all major file formats such as PDF, ePUB, TIFF, Images, DVI, XPS, and ODT.
 Clementine is a music player with a minimal, easy-to-use interface.
-```									
-									
-									
-									
-=================================
+```																		
+						
 
 ```
 👉 REMOVE
@@ -1080,8 +1077,6 @@ sudo rm -rf
 👉 CONFIGURE
 sudo dpkg --configure -a
 ```
-
-=================================
 
 ```
 👉 FIX FLASH ON UBUNTU TERMINAL 
@@ -1099,14 +1094,14 @@ udisksctl power-off -b /dev/sdb
 
 
 ```
-👉 UBUNTU TRANSPARENCY(MENU BAR AND TAB)
+👉 GNOME TRANSPARENCY(MENU BAR AND TAB)
 Install (Dynamic Panel Transparency ) in ubuntu softwares
 ```
 
 ```
--------------------------------------------
-👉 Install  dash-dock extension
-
+👉 GNOME TRANSPARENCY(MENU BAR AND TAB)
+Install  dash-dock extension
+Then terminal write these commands:
 -------------------------------------------
 gsettings set org.gnome.shell.extensions.dash-to-dock transparency-mode 'FIXED'
 gsettings set org.gnome.shell.extensions.dash-to-dock background-opacity 0.2
@@ -1204,8 +1199,7 @@ host Windows7{
 sudo systemctl restart isc-dhcp-server
 sudo systemctl status isc-dhcp-server
 
-
-===============================================================================================================================================
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
 nmcli connection add con-name 'Ethernet' ifname enp9s0 type ethernet 
@@ -1306,35 +1300,36 @@ sudo modprobe vboxdrv
 👉QEMU/KEMU				
 				
 1. https://www.youtube.com/watch?v=vyLNpPY-Je0&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=1  -> qemu/kvm & virt-manager installation on Ubuntu 22.04    (Installation of Linux)
-   Check Windows Doc File
+
+   --->>> Check Windows Doc File
 				
 				
-  319  sudo apt install qemu-kvm libvirt-bin bridge-utils virt-manager qemu-img firewalld ebtables dnsmasq qemu-utils gir1.2-spiceclientgtk-3.0
-  320  sudo apt install libvirt
-  321  conda deactivate
-  322  sudo apt install libvirt
-  323  sudo apt install libvirt-bin
-  324  sudo apt install gir1.2-spiceclientgtk-3.0
-  325  sudo apt install qemu-utils
-  326  sudo apt install bridge-utils virt-manager qemu-img firewalld ebtables dnsmasq qemu-utils gir1.2-spiceclientgtk-3.0
-  327  sudo apt install bridge-utils virt-manager  firewalld ebtables dnsmasq qemu-utils gir1.2-spiceclientgtk-3.0
-  328  sudo apt install dnsmasq
-  329  sudo apt install bridge-utils virt-manager  firewalld ebtables dnsmasq qemu-utils gir1.2-spiceclientgtk-3.0
-  330  sudo apt install libvirt-bin
-  331  sudo apt install libvirt
-  332  sudo apt-get install libvirt
-  333  sudo apt install qemu-kvm libvirt-daemon-system
-  334  sudo adduser $USER libvirt
-  335  sudo apt install libvirt-bin
-  336  sudo apt install libvirt
-  337  sudo apt install multipass
-  338  sudo snap install multipass
-  339  sudo apt -y install uvtool
-  340  sudo apt install virt-viewer
-  341  sudo apt install virtinst
-  342  sudo apt install libvirt
-  343  sudo apt install libvirt-bin
-  344  sudo apt install bridge-utils virt-manager  firewalld ebtables dnsmasq qemu-utils gir1.2-spiceclientgtk-3.0
+    sudo apt install qemu-kvm libvirt-bin bridge-utils virt-manager qemu-img firewalld ebtables dnsmasq qemu-utils gir1.2-spiceclientgtk-3.0
+    sudo apt install libvirt
+    conda deactivate
+    sudo apt install libvirt
+    sudo apt install libvirt-bin
+    sudo apt install gir1.2-spiceclientgtk-3.0
+    sudo apt install qemu-utils
+    sudo apt install bridge-utils virt-manager qemu-img firewalld ebtables dnsmasq qemu-utils gir1.2-spiceclientgtk-3.0
+    sudo apt install bridge-utils virt-manager  firewalld ebtables dnsmasq qemu-utils gir1.2-spiceclientgtk-3.0
+    sudo apt install dnsmasq
+    sudo apt install bridge-utils virt-manager  firewalld ebtables dnsmasq qemu-utils gir1.2-spiceclientgtk-3.0
+    sudo apt install libvirt-bin
+    sudo apt install libvirt
+    sudo apt-get install libvirt
+    sudo apt install qemu-kvm libvirt-daemon-system
+    sudo adduser $USER libvirt
+    sudo apt install libvirt-bin
+    sudo apt install libvirt
+    sudo apt install multipass
+    sudo snap install multipass
+    sudo apt -y install uvtool
+    sudo apt install virt-viewer
+    sudo apt install virtinst
+    sudo apt install libvirt
+    sudo apt install libvirt-bin
+    sudo apt install bridge-utils virt-manager  firewalld ebtables dnsmasq qemu-utils gir1.2-spiceclientgtk-3.0
 				
 				
 				
@@ -2044,18 +2039,18 @@ WEB3- Read, Write and Ownership => AI, Blockchain, IOT =>Distributed System and 
 				 
 .............................................................................................................................
                                            
-👉 SOLID Design Principle
+👉 SOLID Design Principle -->> Check my notes
 ```
 What is SOLID Design
 
 Michael Feathers can be credited for creating the mnemonic SOLID which is based on principles from Robert C. Martin’s paper, “Design Principles and Design Patterns”.
 The principles are
 
-    Single Responsibility Principle
-    Open Closed Princple
-    Liskov's Substitutablilty Principle
-    Interface Segregation Principle
-    Dependency Inversion Principle
+   1. Single Responsibility Principle
+   2. Open Closed Princple
+   3. Liskov's Substitutablilty Principle
+   4. Interface Segregation Principle
+   5. Dependency Inversion Principle
 
 We will cover these in more detail shortly. The most important thing to note about the SOLID design principles is they are meant to be used holistically. Choosing one and just one is not going to do much for you. It's when used together you start to see the real value in these principles.
 What is the Pythonic Way
@@ -2114,7 +2109,7 @@ class FTPClient:
     else:
       return self._ftp_client.download(target)
 
-Single Responsibility Principle (SRP)
+👉 1. Single Responsibility Principle (SRP)
 
 Definition: Every module/class should only have one responsibility and therefore only one reason to change.
 
@@ -2150,7 +2145,8 @@ class SFTPClient(FTPClient):
       return sftp.get(target)
 
 One quick change and our code is already feeling much more Pythonic. The code is sparse, and not dense, simple not complex, flat and not nested. If you're not on board yet think about how the original code would look with error handling compared to the code following SRP.
-Open Closed Principle (OCP)
+
+👉 2. Open Closed Principle (OCP)
 
 Definition: Software Entities (classes, functions, modules) should be open for extension but closed to change.
 
@@ -2184,7 +2180,8 @@ class FTPClient:
     return files
 
 In this case, it's better to extend the class with functions than extend through inheritance, because a BulkFTPClient child class would have to change the function signature for download reflecting it returns a list of bytes rather than just bytes, violating the Open Closed Principle as well as Liskov's Substituitability Principle.
-Liskov's Substituitability Principle (LSP)
+
+👉 3. Liskov's Substituitability Principle (LSP)
 
 Definition: If S is a subtype of T, then objects of type T may be replaced with objects of Type S.
 
@@ -2216,7 +2213,8 @@ class FTPSClient(FTPClient):
         self._client = FTPSDriver(host, port, user=username, password=password)
 
 This is exactly the kind of edge case inheritance is meant for and following Liskov's makes for effective polymorphism. You'll note than now FTPClient's can be replaced by an FTPSClient or SFTPClient. In fact, all 3 are interchangeable which brings us to interface segregation.
-Interface Segregation Principle (ISP)
+
+👉 4. Interface Segregation Principle (ISP)
 
 Definition: A client should not depend on methods it does not use.
 
@@ -2314,7 +2312,8 @@ class SCPClient(FileTransferClient):
   ...
 
 Oh Man! is that good code or what. We even managed to squeeze in a SCPClient and kept bulk actions as their own mixin. All this ties together nicely with Dependency Injection, a technique used for the Dependency Inversion Principle.
-Dependency Inversion Principle (DIP)
+
+👉 5. Dependency Inversion Principle (DIP)
 
 Definition: High-level modules should not depend on low-level modules. They should depend on abstractions and abstractions should not depend on details, rather details should depend on abstractions.
 
@@ -3291,9 +3290,7 @@ kubeadm reset un-configures the cluster made by kubernetes.
 ```
 
 
-
-
-👉 Docker Notes
+👉 DOCKER NOTES
 ```
 sudo docker ps  - show no. of running pods
 *sudo docker run –d –p  3000:80 daniel/helloworld –create app daniel and run instance 3000 of that specific container
@@ -3316,7 +3313,7 @@ docker push ef068dae42e5/dockerhub:myfirstimagepush
  sudo dnf install moby-engine docker-compose
  sudo systemctl enable docker
   ```
- INITIAL DOCKER SETUP UBUNTU
+👉 INITIAL DOCKER SETUP UBUNTU
 ```
 sudo apt update
 sudo apt install apt-transport-https ca-certificates curl software-properties-common
@@ -6081,7 +6078,7 @@ Then:
 
 ```
 👉 Softwares
-Download cpu-z         -> ram,cpu,graphics type and storage size
+Download cpu-z    -> ram,cpu,graphics type and storage size
 Download Intel Graphics Command Center and Modify Settings to High/Ultra
 Screen Recorder Pro -> Screenshot
 RecForth -> Video Recorder
@@ -6263,41 +6260,26 @@ graph LR
 👉 WATCHING MOVIIES SERIES TV
 ```
 PUTLOCKER ->  https://putlockernew.vc/home
-```				
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-1) 9 vids + Project management 
-2) Renewal Good Conduct + 1 + 2
-3) (CERTIFICATES + 2020 CERT  BAG) & FAM DEGREE
+```
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1) Youtube vids 
+2) 9 Vids + Project management  
+3)
 *Google Drive + ($AI + 2   projects Two Factor Authentication Systems + PysparkAirflow +  kivy salesapp + blog backend python API + nairobi weather graphql API  + home lights + Neural Network Scratch+ Data analysis  cleaning  + Data analysis ETL + Data analysis API Disaster alert system +python  wrapper for sendy's API $ +remove gmail), UP COMPLETE
-* SAF LINE BURUBURU* 
-
-1 Data Protection(Fred,Anne), ICT officer(Michael,Hassan), DOM, UN
-2 JOB
-*SAT -> DOM(I & Christine), Kiarie 
-*Christine,  Shilla,  Zolly 
-
-3DAYS* **PAPER***
+4) * SAF LINE BURUBURU* 
+5)
 1st Day -> Django API,Flask API, C, [RUST]
 2nd Day -> Python, Rust ->(5Life + Life) & Career 
 
-3rd  Day
-Hardcover -> Print and upload everything 5
-Mathbook
-Project Management
+6) Mathbook -> Discrete, Calculus, Statistics, Probability, Linear Algebra, Graphs
+7) Project Management
 
 
 
-
-
-
-
-
-
-
-
-NEXT WEEK
+SOFTWARE
 1 Python(Logistic & Linear regression,RNN)
-2 Python Cleaning, RustLeaf &          RustTensorflow
+2 Python Data Cleaning, RustLeaf &  RustTensorflow
 3 Django Tenants
 4 Graphql Nairobi water*, Blog backend
 5 MPESA API integration system 
@@ -6306,61 +6288,22 @@ NEXT WEEK
 9 Python & C open source engineer 
 
 
-MAISH @ STAMP -> 0721770531
-March 100k-> Dan(COMPLETE STATUS IN Reg-Skul-Dep-[1,2,3,4 Lists andGrad List])(IfAccessibleOLDSYSTEM COZ OF DATE IN NEWSYSTEM COMPLETE_UNITS-Use Victor's OLDSYSTEM CRITERIA& COMPLETE_FINANCE-Use Victor's OldSystem CompletionRemarks& Shilla( COMPLETE STATUS IN Reg - Skul-Dep - 4 TScripts) & 5k-> Maish - CSChairStamp  For ShillaChairLetter
-September 50k-> Dn Backend **James Go Ahead For October**4TScripts + ChairLetter 
-October -> **James Go Ahead & MARK_BRIAN_NOT_PRESENT**4TScripts + ChairLetter 
-
-OR 
-
-[Victor's Resemblance]
-4) James Go Ahead -> [4Tscripts & Completion Letter]
-3) Dep ->Frontend_CompletedStatus & Backend_CompletedStatus
-2) School ->Frontend_CompletedStatus & 1,2,3,4 List_CompletedStatus & Registered for YEAR4 ALL UNITS  in [2020_DATE] OLD SYSTEM [Have CompletedStatus] & Finance_CompletedStatus[2020_DATE] 
-1) Registrar ->[Admission+Frontend Units]_CompletedStatus & Grad List_CompletedStatus & Finance_CompletedStatus[2020_DATE] 
-
-Up + Email, Networks & Project Management, Scrum
------‐---------------------------------------------------------------
-1) Rem, [Rust] + Printing + (Block Chain & Datastructures Summary Table) + (5Life + Life) & Career 
-2) 7Projects
-~~~~~~>Cert, Bag, Books(Network and Subnetting)
-{Networks+Configurations, Subnetting}Cybersecurity
-%%%%%%%%%%%%%%%%
-3) 1NetworkDesign,2NetworkSecurity,3AlgorithmDesign
-5) FINAL -> (Network design + [(Python&CSockets)+UTP] ) & [Cybersecurity] & (Home Lights + [2AI, Python, Rust, C] )
-
-@@@@@@@@@@@@@@@@@@@@
-NEW
-
-Up + Email, 2Networks & Project Management, Scrum& 2Virtualbox 
-
-~~~~~~>Cert, Bag, Books(Network and Subnetting) **********************
-
-
 VIDEOS + 2GIT + Printing + (Block Chain & Datastructures Summary Table)
 
 
-(5Life + Life) & Career 
 
 
-Network Security + Algorithm Design 
-
------‐---------------------------------------------------------------
-1) Rem, [Rust] 
-2) 7Projects
------‐---------------------------------------------------------------
-
-
-
-{2Networks+kvmConfigurations, *Subnetting*}Cybersecurity
-%%%%%%%%%%%%%%%%
-
-
-
-3) NetworkDesign
-5) FINAL -> (Network design + [(Python&CSockets)+UTP] ) & [Cybersecurity] & (Home Lights + [2AI, Python, Rust, C] )
+ NetworkDesign
+ FINAL -> (Network design + [(Python&CSockets)+UTP] ) & [Cybersecurity] & (Home Lights + [2AI, Python, Rust, C] )
 					
 					
+
+
+-> {2Networks+kvmConfigurations, *Subnetting*}Cybersecurity
+
+-> Network Security + Algorithm Design 
+
+
 
 					
 					
