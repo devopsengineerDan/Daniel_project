@@ -478,8 +478,8 @@ WINDOWS
 Visual Studio
 
 C language
-Conan package manager 
-vcpkg Windows os package manager
+Conan package manager -> MUTIPLATFORM and FLEXIBLE
+vcpkg Windows and Linux os package manager -> RIGID 
 ```
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -720,6 +720,16 @@ upower -i /org/freedesktop/UPower/devices/battery_BAT0
 ```
 👉 RECONFIGURE BROKEN DEPENDENCIES
 sudo dpkg --configure -a
+
+sudo apt  autoclean
+sudo apt clean
+sudo apt autoremove
+sudo dpkg --purge <file-name>
+
+sudo apt-f install
+sudo apt --fix-broken install
+
+sudo apt update && sudo apt upgrade 
 ```
 									
 ```									
@@ -2012,33 +2022,77 @@ DAVID BOMBAL -> Detailed
 
 # SOFTWARE ENGINEERING (QUANTUM AI, QUANTUM MECHANICS ,AI && DIGITAL COMPUTING) : (ELECTRONICS AND MECHANICS)
 
-
-PYTHON           (OFFICIAL)->     https://docs.python.org/
+```
+👉 PYTHON           (OFFICIAL)->     https://docs.python.org/
                            ->     https://www.pythontutorial.net/python-oop/
 
+BEST PRACTICE
 
-RUST             (OFFICIAL)->     https://www.rust-lang.org/learn
+### 1.  Initilialize always on Project Folder. 
+### 2.  Always have a runtime.txt with version (e.g) python 3.8.6 for backward compatibility with python interpreter. 
+### 3.  Always have a requirements.txt with version (e.g) django 4.0.10 for backward compatibility with python dependencies. OR flask>=1.1.2,<2.0
+          where  4: MAJOR VERSION - Incremented when major changes are made like architectural changes.
+                 0: MINOR VERSION - Incremented when minor changes are made which does NOT break the API like adding a new feature
+	        10: PATCH VERSION - Incremented with bug fixes.
+### 4.  Have requirements-dev.txt for testing and deployment(i.e heroku) packages
+### 5.  Have toml file to manage setup configurations.
+### 6.  Have .gitignore and have necessary files in there.
+### 7.  Use pipenv to manage virtual environments with python versions.
+### 8.  Write explicit code for readability and scalability.
+### 9.  Use Data Structures correctly for high performance and memory utilisation.
+### 10. For engineering best practice use standard documentation,libraries and well established and supported frameworks.
+```
+
+
+
+```
+👉 RUST             (OFFICIAL)->     https://www.rust-lang.org/learn
  			   ->	  https://education.web3.foundation/docs/introrust
-                     
+
+BEST PRACTICE
+
 ### 1. Rust simplicity and reduction of complexity.
-### 2. Rust unsafe for performance tuning in hardware. (Code must be secure)
-### 3. Rust no_std for easier debugging hence less development time. (Code must be secure)
-### 4. Rust support for c toolchains, kernels and hardwares.
-### 5. Rust editions for backward compatibility. 
-### 6. Rust Compiler and Cargo.
+### 2. Rust unsafe{} keyword for performance tuning in hardware. (Code must be secure)-> Must be checked by Software Engineer during Software Review and Testing
+### 3. Rust [no_std] for easier debugging hence less development time. (Code must be secure)-> Must be checked by Software Engineer during Software Review and Testing
+### 4. Rust unwrap() function  for easier error handling. Rust does not use exception handling.(Code must be secure)-> Must be checked by Software Engineer during Software Review and Testing
+### 5. Rust support for c toolchains, kernels and hardwares.
+### 6. Rust editions for backward compatibility. 
+### 67 Rust Compiler and Cargo.
+```
 
 
 
-**WEB**
+```
+👉 C 
+
+BEST PRACTICE Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE 
+
+### 1A. Simple control flow (e.g) a function should be limited to only one task to ensure readability and should not exceed the size of a page.
+### 1B. Also do not use goto, setjmp, longjmp statements and recursion which is a fuction that calls onto itself which results to difficult to understand and follow cyclic control flow crafts and run away code which can crush.
+### 2. Limit loops, have an upper bound to an integer not a pointer.
+### 3. Do not use heap to ensure memory use is deterministic. This prevents use after freeze and memory leaks.
+### 4. Practise data hiding, this is declaring variables on how they are used. It restricts data access to class members.
+### 5. Use indentatation to explain your code.
+### 6. Check return value. If a return value is going to be ignored, you should explicitly cast the return value to a void type. (e.g) (void)printf(""); or (void)scanf("");
+### 7. Dereference operations should not be hidden in macro definitions or inside typedef declarations.
+### 8. Must dereference a pointer one layer at a time. This forces you to create structures that properly track your pointers to ensure they are not used incorrectly.
+### 9. Limit the C preprocessor. (This more advanced and required an advanced user)
+### 10. No use of function pointers. Lead to problem of obfuscating your code control flow graph of your program making it difficult to statically analyse your code and also fully test your code.
+### 11. Compile your code with all warnings enabled and compile in pedantic mode (e.g) $gcc <main_cfile>.c -Wall -Werror -Wpedantic OR $gcc <main_moderncfile>.c -std=C2x -Wall -Wextra -pedantic ./a.out  .This ensures all errors in your code willl be raised  by the compiler.
+### 12. Analyse code with multiple static code analysers with different rule sets.
+### 13. Test your code with unit tests.
+```
+```
+👉 WEB
 WEB1- Read
 wEB2- Read and Write
 WEB3- Read, Write and Ownership => AI, Blockchain, IOT =>Distributed System and Database
+```
 
 
 
 
-
-
+```
 👉 DESIGN PATTERNS FOR SOFTWARE ENGINEERS
  
 1 Observer                                   
@@ -2055,11 +2109,12 @@ WEB3- Read, Write and Ownership => AI, Blockchain, IOT =>Distributed System and 
 						      3 Lead software engineer           
                               4 Senior software engineer                         5 Junior software engineer
 				 
-				 
-.............................................................................................................................
-                                           
+```				 
+
+
+ ```                                          
 👉 SOLID Design Principle -->> Check my notes
-```
+
 What is SOLID Design
 
 Michael Feathers can be credited for creating the mnemonic SOLID which is based on principles from Robert C. Martin’s paper, “Design Principles and Design Patterns”.
@@ -2536,6 +2591,7 @@ cargo run
 cargo check
 cargo build -> build and compile
 cargo test
+cargo test --clippy ->Best Practice
 cargo run ->check, build and compile, execute
 cargo clean
 
@@ -2549,22 +2605,6 @@ cargo bench
 C Language -> Check C project for a simple c project compilation in the various os in the readme.md section
            -> https://github.com/devopsengineerDan/c-project-rcg
 
-******C BEST PRACTICE*****Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE 
-
-### 1A. Simple control flow (e.g) a function should be limited to only one task to ensure readability and should not exceed the size of a page.
-### 1B. Also do not use goto, setjmp, longjmp statements and recursion which is a fuction that calls onto itself which results to difficult to understand and follow cyclic control flow crafts and run away code which can crush.
-### 2. Limit loops, have an upper bound to an integer not a pointer.
-### 3. Do not use heap to ensure memory use is deterministic. This prevents use after freeze and memory leaks.
-### 4. Practise data hiding, this is declaring variables on how they are used. It restricts data access to class members.
-### 5. Use indentatation to explain your code.
-### 6. Check return value. If a return value is going to be ignored, you should explicitly cast the return value to a void type. (e.g) (void)printf(""); or (void)scanf("");
-### 7. Dereference operations should not be hidden in macro definitions or inside typedef declarations.
-### 8. Must dereference a pointer one layer at a time. This forces you to create structures that properly track your pointers to ensure they are not used incorrectly.
-### 9. Limit the C preprocessor. (This more advanced and required an advanced user)
-### 10. No use of function pointers. Lead to problem of obfuscating your code control flow graph of your program making it difficult to statically analyse your code and also fully test your code.
-### 11. Compile your code with all warnings enabled and compile in pedantic mode (e.g) $gcc <main_cfile>.c -Wall -Werror -Wpedantic OR $gcc <main_moderncfile>.c -std=C2x -Wall -Wextra -pedantic ./a.out  .This ensures all errors in your code willl be raised  by the compiler.
-### 12. Analyse code with multiple static code analysers with different rule sets.
-### 13. Test your code with unit tests.
 
 
 sudo apt install build-essential
@@ -2870,21 +2910,6 @@ Got any doubts? Check our FAQ, write us or join the community in Cpplang Slack #
 
 ****************************************************************************
 **PYTHON,RUST,C LANGUAGES**
-
-### 1.  Initilialize always on Project Folder. 
-### 2.  Always have a runtime.txt with version (e.g) python 3.8.6 for backward compatibility with python interpreter. 
-### 3.  Always have a requirements.txt with version (e.g) django 4.0.10 for backward compatibility with python dependencies. OR flask>=1.1.2,<2.0
-          where  4: MAJOR VERSION - Incremented when major changes are made like architectural changes.
-                 0: MINOR VERSION - Incremented when minor changes are made which does NOT break the API like adding a new feature
-	        10: PATCH VERSION - Incremented with bug fixes.
-### 4.  Have requirements-dev.txt for testing and deployment(i.e heroku) packages
-### 5.  Have toml file to manage setup configurations.
-### 6.  Have .gitignore and have necessary files in there.
-### 7.  Use pipenv to manage virtual environments with python versions.
-### 8.  Write explicit code for readability and scalability.
-### 9.  Use Data Structures correctly for high performance and memory utilisation.
-### 10. For engineering best practice use standard documentation,libraries and well established and supported frameworks.
-
 
    ******DEVELOPMENT ENVIRONMENT******
 👉 RUST LANGUAGE ->Initilialize always on Project Folder	
