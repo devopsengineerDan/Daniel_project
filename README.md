@@ -1483,20 +1483,33 @@ Others
 👉 LINUX OPERATING SYSTEM
 
 ```
-CHECK SYSTEM INFO
+👉 CHECK SYSTEM INFO
 lscpu
 ```
 
 ```
-CHECK NUMBER OF CORES AND THREADS
+👉 CHECK NUMBER OF CORES AND THREADS
 lscpu | grep -E '^Thread|^Core|^Socket|^CPU\('
 ```
 
 ```
-CHECK OS VERSION USING PYTHON
-
+👉 CHECK OS VERSION USING PYTHON
+python -m platform
+python3 -m platform
+```
 
 ```
+👉 CHECK OS VERSION
+hostnamectl
+```
+
+```
+👉 CHECK OS VERSION IN DEBIAN
+lsb_release -d
+lsb_release -a
+``````
+
+
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 (PC)
