@@ -55,8 +55,8 @@ Master's  
 
 2022 -  fam   
 
-
-PYTHON SCRIPTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+👉 PYTHON SCRIPTS
 
 Python Script to Control my Lights using phue philips bulb -> https://www.youtube.com/watch?v=kSruoqDTYt0
 
@@ -372,7 +372,7 @@ while (True):
     continue
 
 ```
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
@@ -433,11 +433,11 @@ def monitor():
 if __name__ == "__main__":
    monitor()
 ```
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
                                      
 
 ```
-DEVELOPMENT SETUP
+👉 DEVELOPMENT SETUP
 
 Gitlab
 
@@ -476,7 +476,7 @@ Conan package manager
 vcpkg Windows os package manager
 ```
 
-------------------------------------------------------------------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 USEFUL CONTACTS & LINKS
 HASS Consult 0709479479
 020 3258000
@@ -524,10 +524,10 @@ tick NAT
 
 VPN
 VPN address 8ce5083f2021.sn.mynetname.net
-==============================================================================================================================================
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
                                                         
+# STUFF
 
-       <--********************************STUFF**************************************-->
 
 ```
 SAF       07->0,1,2,4,5,6,9
@@ -598,7 +598,6 @@ Freelance       Upwork
 Fitness -> Chris Heria        https://www.youtube.com/watch?v=3p8EBPVZ2Iw    
 ```
 
-*********************************************************************
 ```
 
 <a href="mailto:dancunmanyinsait@gmail.com" target="_blank">
@@ -609,9 +608,8 @@ Fitness -> Chris Heria        https://www.youtube.com/watch?v=3p8EBPVZ2Iw
 web: gunicorn waweru.wsgi --log-file -
 ```
 
-*********************************************************************
 
-==================================
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 PHONE BACKUP
 
@@ -682,11 +680,11 @@ Standarduser1
 http://portal.jkuat.ac.ke/Home/Index 
 SCT221-0781/2016 
 ID number
-=================================================================================================================================================================
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 
-     <-----**************************************FINANCE, MARKETING & ECONOMICS*********************************************---->
+# FINANCE, MARKETING & ECONOMICS
 
 ```
 BUY BEST PRODUCT AT LOW & FAIR PRICE *NOT* WORST AT LEAST PRICE
@@ -705,8 +703,9 @@ Tax Accountants(policies+best practices)
 Shell companies(ownership) to avoid damage on you                                                                  
 ```
 
-								<--************************SYSTEM UI, INPUT&&OUTPUT AND PROCESSORS********************************-->
-									
+# SYSTEM UI, INPUT&&OUTPUT AND PROCESSORS
+
+	 
 ```									
 👉 CHECK BATTERY									
 upower -i /org/freedesktop/UPower/devices/battery_BAT0
@@ -736,7 +735,7 @@ If Mymode exists give the newmode a different name
 INSTALL arandr TO CHECK DISPLAY TYPES (e.g eDP-1, Virtual-1)
 sudo apt install arandr
 ```
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@									
+									
 									
 ```
 ---------------------- GNOME INSTALLATION ---------------------
@@ -795,7 +794,7 @@ mv .config/dconf/user-old ~/user-settings-delete-later
 dconf load / <old_settings
 ```
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 
 
 
@@ -1137,10 +1136,10 @@ sudo apt upgrade
 sudo apt install xubuntu-desktop
 ```
 
-===============================================================================================================================================
 
 
-			<---***********************************NETWORKS*****************************************--->
+
+# NETWORKS
 
 Assigning static ip address to the local network
 
@@ -1225,7 +1224,7 @@ NETWORK ADMIN WINDOWS
 https://medium.com/@adinika.15/installing-active-directory-on-windows-server-2012-r2-e9e614770588
 
 
-			<---**************************************************************SYSTEM**************************************************--->
+# SYSTEM
 			
 sudo passwd root -Change password for root
  
@@ -1963,17 +1962,16 @@ This will disable UFW and delete any rules that you have previously defined. Kee
 
 ===============================================================================================================================================
 
-			<---CYBER SECURITY--->
+# CYBER SECURITY
 NULLBYTE -> Automated
 DAVID BOMBAL -> Detailed
 
 
 
 
-
 ===============================================================================================================================================
         
-	 <--APIS-->
+# APIS
 
 🎯 Secure your API with these 16 Practices
 
@@ -1998,7 +1996,7 @@ DAVID BOMBAL -> Detailed
     
 ===============================================================================================================================================
 
-			<---SOFTWARE ENGINEERING (QUANTUM AI, QUANTUM MECHANICS ,AI && DIGITAL COMPUTING) : (ELECTRONICS AND MECHANICS)--->
+# SOFTWARE ENGINEERING (QUANTUM AI, QUANTUM MECHANICS ,AI && DIGITAL COMPUTING) : (ELECTRONICS AND MECHANICS)
 
 
 PYTHON           (OFFICIAL)->     https://docs.python.org/
@@ -2027,7 +2025,7 @@ WEB3- Read, Write and Ownership => AI, Blockchain, IOT =>Distributed System and 
 
 
 
-                                            DESIGN PATTERNS FOR SOFTWARE ENGINEERS
+👉 DESIGN PATTERNS FOR SOFTWARE ENGINEERS
  
 1 Observer                                   
 2 Strategy                      
@@ -2046,7 +2044,8 @@ WEB3- Read, Write and Ownership => AI, Blockchain, IOT =>Distributed System and 
 				 
 .............................................................................................................................
                                            
-					   SOLID Design Principle
+👉 SOLID Design Principle
+```
 What is SOLID Design
 
 Michael Feathers can be credited for creating the mnemonic SOLID which is based on principles from Robert C. Martin’s paper, “Design Principles and Design Patterns”.
@@ -2347,6 +2346,7 @@ Conclusion
 
 There you have it a SOLID implementation that is also very Pythonic. I'm hoping you've at least warmed up to SOLID if you hadn't before, and for those of you that are learning Python and not sure how to continue writing SOLID code this has been helpful. This, of course, was a curated example that I knew would lend itself to my argument, but in writing this I was still surprised how much changed along the way. Not every problem will fit this exact breakdown, but I've tried to include enough reasoning behind
 my decisions that you can choose the most SOLID & Pythonic implementation in the future.
+```
 ***********************************************************************************************************************************************
 					    			PREREQUISITES
 ***********************************************************************************************************************************************
@@ -2847,17 +2847,7 @@ Got any doubts? Check our FAQ, write us or join the community in Cpplang Slack #
 				
 ********************************************************************************************************************
 
-        ******DEVELOPMENT ENVIRONMENT******
-**RUST LANGUAGE**    ->Initilialize always on Project Folder	
-Rustenv
-Install _ONCE_            pip install rustenv
-			  export PATH="$HOME/.rustenv/bin:$PATH"
-                          echo $PATH
-				
-Create                    rustenv  renv
-Activate                  ./renv/bin/activate
-Deactivate                deactivate_rustenv
--------
+     
 
 
 ****************************************************************************
@@ -2878,7 +2868,17 @@ Deactivate                deactivate_rustenv
 ### 10. For engineering best practice use standard documentation,libraries and well established and supported frameworks.
 
 
-
+   ******DEVELOPMENT ENVIRONMENT******
+**RUST LANGUAGE**    ->Initilialize always on Project Folder	
+Rustenv
+Install _ONCE_            pip install rustenv
+			  export PATH="$HOME/.rustenv/bin:$PATH"
+                          echo $PATH
+				
+Create                    rustenv  renv
+Activate                  ./renv/bin/activate
+Deactivate                deactivate_rustenv
+-------   
 **PYTHON LANGUAGE**        
 PIP -> ALWAYS USE PIP3			 
 Install pip/pip3 _ONCE_    Get:           curl https://bootstrap.pypa.io/get-pip.py | python 
@@ -3247,18 +3247,18 @@ Do the work, write good commit messages and read the CONTRIBUTING file if there 
 Push to your origin repository.
 Create a new Pull Request in GitHub.
 
----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
 
-                        <------DEVOPS------->
+=====================================================================================================================================
+# DEVOPS
 
 ### USE TECHNOLOGIES LIKE WEBASSEMBLY AND FLUTTER-LIKE FRAMEWORK FOR PYTHON
 
 
-===============================================================================================================================
-UNINSTALL DOCKER AND KUBERNETES
+👉 UNINSTALL DOCKER AND KUBERNETES
 
-To completely uninstall Docker:
-
+👉To completely uninstall Docker:
+```
 Step 1
 
 dpkg -l | grep -i docker
@@ -3278,46 +3278,46 @@ sudo groupdel docker
 sudo rm -rf /var/run/docker.sock
 
 You have removed Docker from the system completely. 
+```
 
-
-----------------------------------------------------------------------
-To completely uninstall Kubernetes:
+👉 To completely uninstall Kubernetes:
+```
 kubeadm reset
 sudo apt-get purge kubeadm kubectl kubelet kubernetes-cni kube*   
 sudo apt-get autoremove  
 sudo rm -rf ~/.kube
 
 kubeadm reset un-configures the cluster made by kubernetes.
+```
 
 
 
 
-
-
-=============================================================================================================================
-
-
-#install docker
+👉 Docker Notes
+```
 sudo docker ps  - show no. of running pods
 *sudo docker run –d –p  3000:80 daniel/helloworld –create app daniel and run instance 3000 of that specific container
 *sudo docker run –d –p  3001:80 daniel/helloworld –create app daniel and run instance 3001 of that specific container
 * sudo docker kill 607800a4d691 bcb86e3a2972 -  container id of 3001 and container id of 3002
-#install minikube – local host testing platform of kuberenetes
-#install kubectl – command line tool to interact with kubernetes  cluster
-minikube start
+PUSH TO DOCKER
+docker login -u ef068dae42e5
+docker tag ubuntu:latest  ef068dae42e5/dockerhub:myfirstimagepush
+docker push ef068dae42e5/dockerhub:myfirstimagepush
+```
 
-
-DOCKER
+👉 DOCKER INITIAL CONFIGURATIONS
  
- INITIAL DOCKER SETUP FEDORA
+ 👉 INITIAL DOCKER SETUP FEDORA
+ ```
  sudo dnf remove docker-*
  sudo dnf config-manager --disable docker-*
  sudo grubby --update-kernel=ALL --args="systemd.unified_cgroup_hierarchy=0"sudo firewall-cmd --permanent --zone=trusted --  add-interface=docker0
  sudo firewall-cmd --permanent --zone=FedoraWorkstation --add-masquerade
  sudo dnf install moby-engine docker-compose
  sudo systemctl enable docker
- 
+  ```
  INITIAL DOCKER SETUP UBUNTU
+```
 sudo apt update
 sudo apt install apt-transport-https ca-certificates curl software-properties-common
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
@@ -3326,17 +3326,15 @@ sudo apt update
 apt-cache policy docker-ce
 sudo apt install docker-ce
 sudo systemctl status docker
+```
 
 
-PUSH TO DOCKER
-docker login -u ef068dae42e5
-docker tag ubuntu:latest  ef068dae42e5/dockerhub:myfirstimagepush
-docker push ef068dae42e5/dockerhub:myfirstimagepush
 
 
 **********************************************************************************************************************
- KUBERNETES  (TOOLS INCLUDE: KUBECTL, HELM AND JUJU)
- @@@@@@@@@@@@@@@@@@
+👉 KUBERNETES NOTES (TOOLS INCLUDE: KUBECTL, HELM AND JUJU)
+
+ ```
 kubectl, the command line tool for interacting with Kubernetes
 
 minikube, a Kubernetes cluster manager, for small development and testing clusters
@@ -3344,9 +3342,14 @@ minikube, a Kubernetes cluster manager, for small development and testing cluste
 A single-node Kubernetes cluster, running in a VM.
 
 The Kubernetes Dashboard and a simple Pod, to test out the cluster
-@@@@@@@@@@@@@@@@@@@
- 
- INITIAL KUBERNETES SETUP FEDORA
+
+#install minikube – local host testing platform of kuberenetes
+#install kubectl – command line tool to interact with kubernetes  cluster
+minikube start
+```
+ ```
+
+👉 INITIAL KUBERNETES SETUP FEDORA
  curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-latest.x86_64.rpm
  sudo rpm -ivh minikube-latest.x86_64.rpm
  sudo dnf install @virtualizationsudo apt update
@@ -3364,7 +3367,7 @@ The Kubernetes Dashboard and a simple Pod, to test out the cluster
  sudo ln -s /var/lib/snapd/snap /snap
  sudo snap install kubectl --classic
  
- INITIAL KUBERNETES SETUP UBUNTU
+ 👉 INITIAL KUBERNETES SETUP UBUNTU
  sudo apt update
  sudo apt install docker.io
  sudo systemctl start docker
@@ -3379,16 +3382,14 @@ sudo apt install kubeadm kubelet kubectl kubernetes-cni
 sudo swapoff -a
 sudo nano /etc/fstab
 -->Inside this file, comment out the /swapfile line by preceeding it with a # symbol, as seen below. Then, close this file and save the changes.
+```
  
- 
- 
------------------------------------------------------------------------------------------------------------------
 
-TUTORIALS DOCKER && KUBERNETES
+👉 TUTORIALS DOCKER && KUBERNETES
 
-********************************************************************************************************
-DOCKER https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04
+👉 DOCKER https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04
 
+```
 Step 1 — Installing Docker
 
 The Docker installation package available in the official Ubuntu repository may not be the latest version. To ensure we get the latest version, we’ll install Docker from the official Docker repository. To do that, we’ll add a new package source, add the GPG key from Docker to ensure the downloads are valid, and then install the package.
@@ -3880,10 +3881,12 @@ unauthorized: authentication required
 Log in with docker login and repeat the push attempt. Then verify that it exists on your Docker Hub repository page.
 
 You can now use docker pull sammy/ubuntu-nodejs to pull the image to a new machine and use it to run a new container.
+```
 
-********************************************************************************************************************
 
-KUBERNETES 
+👉 KUBERNETES
+
+```
 1ST OPTION -> https://computingforgeeks.com/deploy-kubernetes-cluster-on-ubuntu-with-kubeadm/
 
 
@@ -4016,19 +4019,15 @@ Conclusion
 In this article, we learned how to setup Kubernetes to deploy containerized applications on Ubuntu 20.04 Focal Fossa. We setup a basic cluster consisting of two hosts, a master and a worker, though this can be scaled to many more worker nodes if necessary.
 
 We saw how to configure Docker and other pre-requisites, as well as deploy an Nginx server in our new cluster as a proof of concept. Of course, this same configuration can be used to deploy any number of containerized applications.
+```
+
+
+=====================================================================================================================================================================
 
 
 
+# AI COMPUTATION
 
-
-
-------------------------------------------------------------------------------------------------------------
-
-
-*********************************************************************
-						AI COMPUTATION
-
-*********************************************************************
 ++++++++++++++++++++++
 WEKA DATA SCIENCE SOFTWARE
  cd weka-3-8-3/
@@ -4145,10 +4144,10 @@ print(xyz.head(1))
 
 
 
-FEATURE ENGINEERING  https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114
+👉 FEATURE ENGINEERING  https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114
 
-BEST TECHNIQUE 
-
+👉 BEST TECHNIQUE 
+```
 
 •	ExhaustiveFeatureSelector: Optimal feature sets by considering all possible feature combinations
 •	Overview
@@ -4889,13 +4888,13 @@ Training vectors, where n_samples is the number of samples and n_features is the
 Returns
 Feature subset of X, shape={n_samples, k_features}
  
- 
+ ```
 
 
 
 
-OTHER TECHNIQUES 
-
+👉 OTHER TECHNIQUES 
+```
 List of Techniques
 1.Imputation
 2.Handling Outliers
@@ -5186,9 +5185,10 @@ data['day_name'] = data['date'].dt.day_name()
 4 1993-02-20  1993      2            26            313   Saturday
 Conclusion
 Image for post
-============================================================================================
-Stock Price Prediction – Machine Learning Project in Python
+```
 
+Stock Price Prediction – Machine Learning Project in Python
+```
 Stock Price Machine learning has significant applications in the stock price prediction. In this machine learning project, we will be talking about predicting the returns on stocks. This is a very complex task and has uncertainties. We will develop this project into two parts:
 
 First, we will learn how to predict stock price using the LSTM neural network.
@@ -5561,11 +5561,10 @@ python3 stock_app.py
 
 Summary
 Stock price prediction is a machine learning project for beginners; in this tutorial we learned how to develop a stock cost prediction model and how to build an interactive dashboard for stock analysis. We implemented stock market prediction using the LSTM model. OTOH, Plotly dash python framework for building dashboards.
+```
+==============================================================================================================================================================
+# DIGITAL COMPUTATION
 
-*********************************************************************
-						DIGITAL COMPUTATION
-
-*********************************************************************
 
 
 
@@ -5778,7 +5777,6 @@ def email(request):
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-===========================================================
 
 WINDOWS AND UBUNTU PGADMIN4
 
@@ -6044,19 +6042,15 @@ pip install djangorestframework
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-                     <--WATCHING MOVIIES SERIES TV-->
-
-PUTLOCKER   https://putlockernew.vc/home
-				
 ------------------LOGIN LINUX & WINDOWS--------------------
 				
 PASSWORD - devopsengineerDan
 PIN - Dan@1997
 
 ROOT - devopsengineer                                                             
-							     
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%							     
 				
-				<--WINDOWS-->
+# WINDOWS
 ```
 👉 LOCAL ACCOUNT LOG IN TO WINDOWS 11
 In windows 11 pro
@@ -6094,8 +6088,22 @@ RecForth -> Video Recorder
 ```
 
 ```
+👉 CRACKED SOFTWARES
+1. 1337x.to OR 1337x.to/#
+2. WINDOWS OFFICE SETUP https://getintopc.com/?s=Office+2016&submit=Search
+```
+
+```
 👉 NETWORK RESET
 Reset network to default to remove previous configurations
+```
+
+```
+👉 STOPPING AUTOUPDATE IN WINDOWS
+Go to Settings.
+Go to Network and Internet
+Go to Properties
+Turn on Metered Connection to limit the bandwidth
 ```
 
 ```
@@ -6117,8 +6125,7 @@ HIBERNATE -> ctrl + Delete to run the machine
 ```
 
 ```
-👉 SYSTEM IMPLEMENTATION				
-CHECK TYPE OF SSD								       
+👉 CHECK TYPE OF SSD								       
 Go to cmd								       
   wmic diskdrive get caption, firmwarerevision
 ```
@@ -6145,12 +6152,6 @@ Windows + R - dxdiag
 Windows + R- %temp% -> Delete temp files
 Windows + R - optionalfeatures.exe -> Windows Subsystem for Linux				
 ````
-
-```
-👉 CRACKED SOFTWARES
-1. 1337x.to OR 1337x.to/#
-2. WINDOWS OFFICE SETUP https://getintopc.com/?s=Office+2016&submit=Search
-```
 
 ```
 👉 FIX FLASH ON WINDOWS TERMINAL 
@@ -6200,7 +6201,7 @@ When you finish, move on to the second step.
 
 * These settings are universally recommended optimizations for your hackintosh:
   
-```
+
 ``` mermaid
 graph TD
     id1[Advance Tab]-->id2[Intel Advanced Menu];
@@ -6254,12 +6255,16 @@ graph LR
     id3-->|Boot Performance Mode|id4[Max Battery];
     id3-->|Config TDP Configurations|Down;
 ```
-```
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
 					
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+👉 WATCHING MOVIIES SERIES TV
+```
+PUTLOCKER ->  https://putlockernew.vc/home
+```				
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 1) 9 vids + Project management 
 2) Renewal Good Conduct + 1 + 2
 3) (CERTIFICATES + 2020 CERT  BAG) & FAM DEGREE
