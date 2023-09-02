@@ -2053,7 +2053,7 @@ BEST PRACTICE
 
 ### 1. Rust simplicity and reduction of complexity.
 ### 2. Rust unsafe{} keyword for performance tuning in hardware. PERFORMANCE_USECASE(Code must be secure & Adhere to Standard Guidelines of unsafe principles) COMPILER CHECKS-> Must be checked by Software Engineer during Software Review and Testing.
-### 3. Rust [no_std] for easier debugging hence less development time. EXPERIMENTATION_USECASE(Code must be secure & Adhere to Standard Guidelines Of [std]) STD LIBRARY-> Must be checked by Software Engineer during Software Review and Testing.
+### 3. Rust [no_std] for easier debugging hence less development time. EXPERIMENTATION_USECASE(Code must be secure & Adhere to Standard Guidelines of [std]) STD LIBRARY-> Must be checked by Software Engineer during Software Review and Testing.
 ### 4. Rust unwrap() function  for easier error handling. Rust does not use exception handling. TESTING_USECASE(Code must be secure & Adhere to Standard Guidelines of Rust error handling) RUN-TIME/COMPILE-TIME ANNOTATIONS-> Must be checked by Software Engineer during Software Review and Testing.
 ### 5. Rust support for c toolchains, kernels and hardwares.
 ### 6. Rust editions for backward compatibility. 
