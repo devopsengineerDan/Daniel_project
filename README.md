@@ -442,62 +442,6 @@ if __name__ == "__main__":
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
                                      
 
-```
-👉 DEVELOPMENT SETUP
-
-Gitlab
-
-LINUX PLATFORM
-*JETBRAINS
-1 Toolbox
-2 Space (Internet) 
-
-3 Datalore (Internet)
-4 Dataspell
-5 Projector (Internet)
-6 Pycharm & Rust plugin 
-
-7 DG 
-
-*Alternative for LINUX AND WINDOWS PLATFORM
-Anaconda
-VScode
-Pycharm for micropython
-
-
-VSCODE PLUGINS   https://youtu.be/u21W_tfPVrY
-Git lens
-Github Copilot 
-vscode live
-Pylance
-Python indent
-vscode icons
-vscode vim
-Other extensions must have OFFICIAL SUPPORT
-
-
-
-
-
-WINDOWS PLATFORM
-Anaconda
-VScode
-Pycharm for micropython
-
-
-
-C LANGUAGE
-Conan package manager -> MUTIPLATFORM and FLEXIBLE
-vcpkg Windows and Linux os package manager -> RIGID
-
-REMOVE JAVA, DOCKER, KUBERNETES COMPLETELY
-For java:
-sudo apt remove default-jre
-sudo apt-get remove --purge icedtea-* openjdk-*
-Then check if there is java, by running: (If it returns nothing java dependencies have been removed)
- sudo dpkg --list | grep -i jdk
-
-```
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 USEFUL CONTACTS & LINKS
@@ -2046,6 +1990,64 @@ DAVID BOMBAL -> Detailed
 ===============================================================================================================================================
 
 # SOFTWARE ENGINEERING (QUANTUM AI, QUANTUM MECHANICS ,AI && DIGITAL COMPUTING) : (ELECTRONICS AND MECHANICS)
+
+```
+👉 DEVELOPMENT SETUP
+
+Gitlab
+
+LINUX PLATFORM
+*JETBRAINS
+1 Toolbox
+2 Space (Internet) 
+
+3 Datalore (Internet)
+4 Dataspell
+5 Projector (Internet)
+6 Pycharm & Rust plugin 
+
+7 DG 
+
+*Alternative for LINUX AND WINDOWS PLATFORM
+Anaconda
+VScode
+Pycharm for micropython
+
+
+VSCODE PLUGINS   https://youtu.be/u21W_tfPVrY
+Git lens
+Github Copilot 
+vscode live
+Pylance
+Python indent
+vscode icons
+vscode vim
+Other extensions must have OFFICIAL SUPPORT
+
+
+
+
+
+WINDOWS PLATFORM
+Anaconda
+VScode
+Pycharm for micropython
+
+
+
+C LANGUAGE
+Conan package manager -> MUTIPLATFORM and FLEXIBLE
+vcpkg Windows and Linux os package manager -> RIGID
+
+REMOVE JAVA, DOCKER, KUBERNETES COMPLETELY
+For java:
+sudo apt remove default-jre
+sudo apt-get remove --purge icedtea-* openjdk-*
+Then check if there is java, by running: (If it returns nothing java dependencies have been removed)
+ sudo dpkg --list | grep -i jdk
+
+```
+
 
 ```
 👉 PYTHON           (OFFICIAL)   ->     https://docs.python.org/
