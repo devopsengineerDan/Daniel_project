@@ -447,7 +447,7 @@ if __name__ == "__main__":
 
 Gitlab
 
-LINUX
+LINUX PLATFORM
 *JETBRAINS
 1 Toolbox
 2 Space (Internet) 
@@ -459,27 +459,44 @@ LINUX
 
 7 DG 
 
-*Alternative 
+*Alternative for LINUX AND WINDOWS PLATFORM
 Anaconda
-VScode  
+VScode
+Pycharm for micropython
 
 
-VScode plugin   https://youtu.be/u21W_tfPVrY
+VSCODE PLUGINS   https://youtu.be/u21W_tfPVrY
 Git lens
 Github Copilot 
-VS code Live
+vscode live
 Pylance
 Python indent
+vscode icons
+vscode vim
+Other extensions must have OFFICIAL SUPPORT
 
 
 
 
-WINDOWS
-Visual Studio
 
-C language
+WINDOWS PLATFORM
+Anaconda
+VScode
+Pycharm for micropython
+
+
+
+C LANGUAGE
 Conan package manager -> MUTIPLATFORM and FLEXIBLE
-vcpkg Windows and Linux os package manager -> RIGID 
+vcpkg Windows and Linux os package manager -> RIGID
+
+REMOVE JAVA, DOCKER, KUBERNETES COMPLETELY
+For java:
+sudo apt remove default-jre
+sudo apt-get remove --purge icedtea-* openjdk-*
+Then check if there is java, by running: (If it returns nothing java dependencies have been removed)
+ sudo dpkg --list | grep -i jdk
+
 ```
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -715,6 +732,14 @@ Shell companies(ownership) to avoid damage on you
 ```									
 👉 CHECK BATTERY									
 upower -i /org/freedesktop/UPower/devices/battery_BAT0
+```
+
+```									
+👉 REMOVE DOT FILES/FOLDER									
+rm -rf ~/.<file or folder name> (i.e)
+rm -rf ~/.ssh
+
+
 ```
 
 ```
