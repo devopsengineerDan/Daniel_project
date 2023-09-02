@@ -1994,7 +1994,14 @@ DAVID BOMBAL -> Detailed
 ```
 👉 DEVELOPMENT SETUP
 
-Gitlab
+
+INSTALL GOOGLE-CHROME 
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb
+sudo apt install google-chrome-stable
+
+
+GITLAB
 
 LINUX PLATFORM
 *JETBRAINS
@@ -2038,6 +2045,9 @@ Pycharm for micropython
 C LANGUAGE
 Conan package manager -> MUTIPLATFORM and FLEXIBLE
 vcpkg Windows and Linux os package manager -> RIGID
+
+
+
 
 REMOVE JAVA, DOCKER, KUBERNETES COMPLETELY
 For java:
@@ -5857,8 +5867,90 @@ def email(request):
 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
+
+
+----------------------------------------------------------------------------------------------------------
+Flask Application structure
+
+|-Watchlist
+    |-app/
+        |-main/
+            |-__init__.py
+            |-errors.py
+            |-forms.py
+            |-views.py
+        |-static/
+        |-templates/
+        |-__init__.py
+        |-models.py
+        |-requests.py
+    |-tests/
+        |-test_movie.py
+        |-test_review.py
+    |-virtual/
+    |-config.py
+    |-.gitignore
+    |-manage.py
+    |-start.sh
+ 
+-----------------------------------------------------------------------------------------------------------
+FLASK 
+pip3 install -r requirements.txt
+pip3 freeze > requirements.txt
+
+ Application 
+  
+  pip install flask
+  curl https://bootstrap.pypa.io/get-pip.py | python
+  pip install flask-bootstrap
+  python3.6 -m  pip install gunicorn
+  sudo apt-get update
+  sudo apt-get install postgresql postgresql-contrib libpq-dev
+  pip install flask-migrate
+  pip install flask-login
+  pip install flask-uploads
+  pip install flask-mail
+  pip install flask-simplemde markdown2
+
+
+API
+pip install flask-rest-framework
+
+--aniso8601==8.0.0
+click==7.1.2
+Flask==1.1.2
+Flask-RESTful==0.3.8
+Flask-SQLAlchemy==2.4.3
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+pytz==2020.1
+six==1.15.0
+SQLAlchemy==1.3.18
+Werkzeug==1.0.1
+---------------------------------------
+DJANGO
+pip3 install -r requirements.txt
+pip3 freeze > requirements.txt
+
+Application
+
+ pip install django==1.11
+ pip install django-bootstrap4
+ pip install psycopg2
+ pip install python-decouple
+ pip install django-registration==2.4.1
+ pip install djangorestframework
+ pip install django-progressive-web-app
+
+ API 
+pip install djangorestframework
+--------------------------------------------------------------------------------------------------------
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 
 WINDOWS AND UBUNTU PGADMIN4
@@ -6034,6 +6126,9 @@ postgres=# \q
 				
 #########################################################
 
+
+WORKBENCH INSTALLATION
+
 sudo wget https://www.sql-workbench.eu/Workbench-Build125-with-optional-libs.zip
 unzip Workbench-Build125-with-optional-libs.zip -d Desktop/Workbench
 
@@ -6044,83 +6139,33 @@ cd Desktop/Workbench
 sudo sh sqlworkbench.sh
 jdbc:postgresql://your.database.server.ip:port.number/name_of_database
 
-----------------------------------------------------------------------------------------------------------
-Flask Application structure
-
-|-Watchlist
-    |-app/
-        |-main/
-            |-__init__.py
-            |-errors.py
-            |-forms.py
-            |-views.py
-        |-static/
-        |-templates/
-        |-__init__.py
-        |-models.py
-        |-requests.py
-    |-tests/
-        |-test_movie.py
-        |-test_review.py
-    |-virtual/
-    |-config.py
-    |-.gitignore
-    |-manage.py
-    |-start.sh
- 
------------------------------------------------------------------------------------------------------------
-FLASK 
-pip3 install -r requirements.txt
-pip3 freeze > requirements.txt
-
- Application 
-  
-  pip install flask
-  curl https://bootstrap.pypa.io/get-pip.py | python
-  pip install flask-bootstrap
-  python3.6 -m  pip install gunicorn
-  sudo apt-get update
-  sudo apt-get install postgresql postgresql-contrib libpq-dev
-  pip install flask-migrate
-  pip install flask-login
-  pip install flask-uploads
-  pip install flask-mail
-  pip install flask-simplemde markdown2
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 
-API
-pip install flask-rest-framework
+COUCHDB INSTALLATION -->> CHECK OFFICIAL WEBSITE
 
---aniso8601==8.0.0
-click==7.1.2
-Flask==1.1.2
-Flask-RESTful==0.3.8
-Flask-SQLAlchemy==2.4.3
-itsdangerous==1.1.0
-Jinja2==2.11.2
-MarkupSafe==1.1.1
-pytz==2020.1
-six==1.15.0
-SQLAlchemy==1.3.18
-Werkzeug==1.0.1
----------------------------------------
-DJANGO
-pip3 install -r requirements.txt
-pip3 freeze > requirements.txt
+systemctl status couchdb.service
 
-Application
+Run on browser URL:
+-> http://localhost:5984/_utils/index.html#login
 
- pip install django==1.11
- pip install django-bootstrap4
- pip install psycopg2
- pip install python-decouple
- pip install django-registration==2.4.1
- pip install djangorestframework
- pip install django-progressive-web-app
+Username: admin
+Password: "..."
 
- API 
-pip install djangorestframework
---------------------------------------------------------------------------------------------------------
+-> http://localhost:5984/_utils/index.html#verifyinstall
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
