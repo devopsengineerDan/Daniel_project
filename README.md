@@ -625,6 +625,7 @@ ID: 35687960
 #equity acc: 1520179881302
 #equity business paybill: 247247
 saf: 0711444518 PIN1:1274 PIN2:8411 PUK1:98828111 PUK2:15573510 CHEDA:1496
+MOM SAF NUMBER: 0721160802 PIN: 9970
 saf buy airtime to telcom baybill 215215 acc telcom number
 telcom: 0771587812
 *telkom: 0771587812
