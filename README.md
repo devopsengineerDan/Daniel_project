@@ -2056,8 +2056,8 @@ vcpkg Windows and Linux os package manager -> RIGID and mostly for private useca
 
 
 
-1 BASH EXECUTION OF PYTHON IN LINUX
-2 DESKTOP EXECUTION OF PYTHON IN LINUX -> https://www.youtube.com/watch?v=9CTmC5Y7QeM
+1 BASH EXECUTION OF PYTHON IN LINUX (Here do not use pyinstaller) -> https://www.youtube.com/watch?v=vEQ8CXFWLZU
+2 DESKTOP EXECUTION OF PYTHON IN LINUX (Here do not use pyinstaller) -> https://www.youtube.com/watch?v=9CTmC5Y7QeM
 3 PYTHON INSTALLERS
 LINUX
 Debreate for debian distribution [.deb]
