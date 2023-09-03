@@ -2012,14 +2012,19 @@ LINUX PLATFORM
 3 Datalore (Internet)
 4 Dataspell
 5 Projector (Internet)
-6 Pycharm & Rust plugin 
 
-7 DG 
+6 Pycharm & Rust plugin 
+7 Data Grip 
+
+
+
 
 *Alternative for LINUX AND WINDOWS PLATFORM
 Anaconda
 VScode
 Pycharm for micropython
+
+
 
 
 VSCODE PLUGINS   https://youtu.be/u21W_tfPVrY
@@ -2043,9 +2048,25 @@ Pycharm for micropython
 
 
 
+
+
 C LANGUAGE
 Conan package manager -> MUTIPLATFORM and FLEXIBLE
-vcpkg Windows and Linux os package manager -> RIGID
+vcpkg Windows and Linux os package manager -> RIGID and mostly for private usecase (i.e) Microsoft
+
+
+
+1 BASH EXECUTION OF PYTHON IN LINUX
+2 DESKTOP EXECUTION OF PYTHON IN LINUX -> https://www.youtube.com/watch?v=9CTmC5Y7QeM
+3 PYTHON INSTALLERS
+LINUX
+Debreate for debian distribution [.deb]
+Other alternatives -> https://alternativeto.net/software/inno-setup/?platform=linux
+
+WINDOWS [.exe]
+Traditional -> Pyinstaller(Setup must be within the parent directory during execution)
+Modern -> Inno Setup(Setup is compiled with all the dependencies required, hence must NOT be within the parent directory during execution) 
+
 
 
 
@@ -2056,7 +2077,6 @@ sudo apt remove default-jre
 sudo apt-get remove --purge icedtea-* openjdk-*
 Then check if there is java, by running: (If it returns nothing java dependencies have been removed)
  sudo dpkg --list | grep -i jdk
-
 ```
 
 
