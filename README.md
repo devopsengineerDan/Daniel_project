@@ -6158,13 +6158,13 @@ Password: "..."
 
 
 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 
+SURREALDB INSTALLATION -->> CHECK OFFICIAL WEBSITE
 
-
-
-
-
+sudo apt install clang
+sudo bash -c "$(wget -O - https://apt.llvm.org/llvm.sh)"
 
 
 
