@@ -2705,7 +2705,7 @@ apt show clang
 
 Now install the chosen Clang version using the package manager:
 
-sudo apt install clang
+sudo apt install llvm clang
 
 To verify that Clang has been installed successfully, check the installed version:
 
