@@ -1965,26 +1965,6 @@ DAVID BOMBAL -> Detailed
 
 ===============================================================================================================================================
         
-# APIS
-
-🎯 Secure your API with these 16 Practices
-
-1. Authentication 🕵️‍♀️ - Verifies the identity of users accessing APIs.
-2. Authorization 🚦 - Determines permissions of authenticated users.
-3. Data Redaction 🖍️ - Obscures sensitive data for protection.
-4. Encryption 🔒 - Encodes data so only authorized parties can decode it.
-5. Error Handling ❌ - Manages responses when things go wrong, avoiding revealing sensitive info.
-6. Input Validation & Data Sanitization 🧹 - Checks input data and removes harmful parts.
-7. Intrusion Detection Systems 👀 - Monitor networks for suspicious activities.
-8. IP Whitelisting 📝 - Permits API access only from trusted IP addresses.
-9. Logging and Monitoring 🖥️ - Keeps detailed logs and regularly monitors APIs.
-10. Rate Limiting ⏱️ - Limits user requests to prevent overload.
-11. Secure Dependencies 📦 - Ensures third-party code is free from vulnerabilities.
-12. Security Headers 📋 - Enhances site security against types of attacks like XSS.
-13. Token Expiry ⏳ - Regularly expiring and renewing tokens prevents unauthorized access.
-14. Use of Security Standards and Frameworks 📘 - Guides your API security strategy.
-15. Web Application Firewall 🔥 - Protects your site from HTTP-specific attacks.
-16. API Versioning 🔄 - Maintains different versions of your API for seamless updates.
 
 
     
@@ -2081,6 +2061,19 @@ Then check if there is java, by running: (If it returns nothing java dependencie
 
 
 ```
+👉 SOFTWARE ENGINEERING BEST PRACTICE
+
+### 1. Adhere to Programming Language Standard and Style of writing code.
+### 2. Adhere to Software Design Principles and Patterns.
+### 3. Naming of variables, functions, classes and modules should be explicit.
+### 4. In python have __init__.py in folder containing app.
+### 5. Have main function in a seperate file.
+### 5. Software Testing. Software Configuration. Software Deployment.
+### 6. Schedule more time. To avoid conflicting on deadline time.
+### 7. High speed is best for prototyping. Low speed is best for large projects inorder to identify use-cases of design of principles and patterns on the projects for performance, reliability, scalability, adaptability, simplicity, correctness, security and upgradability.
+```
+
+```
 👉 PYTHON           (OFFICIAL)   ->     https://docs.python.org/
                                  ->     https://www.pythontutorial.net/python-oop/
 
@@ -2142,7 +2135,7 @@ BEST PRACTICE Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE
 ```
 
 ```
-👉 Bash Shell
+👉 Bash Shell BEST PRACTICE
 
 ### 1. Keep Bash Shell and related software up to date with security patches and updates.
 ### 2. Follow best practices for secure coding and scripting, including input validation, error handling, and secure data storage and transmission.
@@ -2161,7 +2154,28 @@ wEB2- Read and Write
 WEB3- Read, Write and Ownership => AI, Blockchain, IOT =>Distributed System and Database
 ```
 
+```
+👉 APIS BEST PRACTICE
 
+🎯 Secure your API with these 16 Practices
+
+### 1. Authentication 🕵️‍♀️ - Verifies the identity of users accessing APIs.
+### 2. Authorization 🚦 - Determines permissions of authenticated users.
+### 3. Data Redaction 🖍️ - Obscures sensitive data for protection.
+### 4. Encryption 🔒 - Encodes data so only authorized parties can decode it.
+### 5. Error Handling ❌ - Manages responses when things go wrong, avoiding revealing sensitive info.
+### 6. Input Validation & Data Sanitization 🧹 - Checks input data and removes harmful parts.
+### 7. Intrusion Detection Systems 👀 - Monitor networks for suspicious activities.
+### 8. IP Whitelisting 📝 - Permits API access only from trusted IP addresses.
+### 9. Logging and Monitoring 🖥️ - Keeps detailed logs and regularly monitors APIs.
+### 10. Rate Limiting ⏱️ - Limits user requests to prevent overload.
+### 11. Secure Dependencies 📦 - Ensures third-party code is free from vulnerabilities.
+### 12. Security Headers 📋 - Enhances site security against types of attacks like XSS.
+### 13. Token Expiry ⏳ - Regularly expiring and renewing tokens prevents unauthorized access.
+### 14. Use of Security Standards and Frameworks 📘 - Guides your API security strategy.
+### 15. Web Application Firewall 🔥 - Protects your site from HTTP-specific attacks.
+### 16. API Versioning 🔄 - Maintains different versions of your API for seamless updates.
+```
 
 
 ```
