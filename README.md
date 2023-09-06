@@ -2140,6 +2140,20 @@ BEST PRACTICE Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE
 ### 12. Analyse code with multiple static code analysers with different rule sets.
 ### 13. Test your code with unit tests.
 ```
+
+```
+👉 Bash Shell
+
+### 1. Keep Bash Shell and related software up to date with security patches and updates.
+### 2. Follow best practices for secure coding and scripting, including input validation, error handling, and secure data storage and transmission.
+### 3. Implement user and group permissions and access controls to restrict access to sensitive data and system resources.
+### 4. Use encrypted communication protocols, such as SSH, to protect against unauthorized access and data theft.
+### 5. Configure firewall and network security settings to prevent unauthorized access and protect against external threats.
+### 6. Monitor system logs and security events for signs of potential security threats or vulnerabilities.
+### 7. Use security tools and software, such as intrusion detection and prevention systems, to detect and respond to potential security threats.
+```
+
+
 ```
 👉 WEB
 WEB1- Read
