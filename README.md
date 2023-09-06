@@ -2616,6 +2616,9 @@ $ export PATH="$HOME/.python3/bin:$PATH" -> AND ADD python/bin  FOR KALI LINUX
 $ echo $PATH
 
 				
+MICROPYTHON
+sudo apt install micropython
+sudo apt install build-essential libffi-dev git pkg-config
 
 
 
@@ -2995,7 +2998,7 @@ Since dependencies aren’t shared there’s no real need for isolated per-proje
 
 
 ```
-👉 Rustenv
+👉 --DEPRECATED-- Rustenv
 
 Install _ONCE_            pip install rustenv
 			  export PATH="$HOME/.rustenv/bin:$PATH"
@@ -3086,6 +3089,8 @@ Deactivate:               deactivate
 $ chmod +x hello.py  # make script executable
 $ ./hello.py
 
+
+
 **Django flask Fast API Projects**
 -> Check the link https://github.com/devopsengineerDan/python-projects/tree/master/webapps
 -> Check the youtube link https://www.youtube.com/watch?v=3vfum74ggHE
@@ -3104,10 +3109,11 @@ python3 manage.py runserver
 export FLASK_APP=app.py
 export FLASK_ENV=development
 flask run
-
 **BEST PRACTICE**
 **To run main function using this command, where FLASK_APP points to __init.py__. __init.py__ sets a variable app to an instance of Flask**
 python3 -m flask run 
+
+
 
 ***********Fast API***********
 ADVANTAGES -> https://www.youtube.com/watch?v=cbASjoZZGIw
