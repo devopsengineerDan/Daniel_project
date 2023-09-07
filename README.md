@@ -2175,6 +2175,27 @@ WEB3- Read, Write and Ownership => AI, Blockchain, IOT =>Distributed System and 
 ### 14. Use of Security Standards and Frameworks 📘 - Guides your API security strategy.
 ### 15. Web Application Firewall 🔥 - Protects your site from HTTP-specific attacks.
 ### 16. API Versioning 🔄 - Maintains different versions of your API for seamless updates.
+
+
+
+4xx
+Error Code	Meaning
+400	Bad Request – Your request sucks
+401	Unauthorized – Your API key is wrong
+403	Forbidden – The kitten requested is hidden for administrators only
+404	Not Found – The specified kitten could not be found
+405	Method Not Allowed – You tried to access a kitten with an invalid method
+406	Not Acceptable – You requested a format that isn’t json
+410	Gone – The kitten requested has been removed from our servers
+418	I’m a teapot
+429	Too Many Requests – You’re requesting too many kittens! Slow down!
+
+
+
+5xx
+Error Code	Meaning
+500	Internal Server Error – We had a problem with our server. Try again later.
+503	Service Unavailable – We’re temporarily offline for maintenance. Please try again later.
 ```
 
 
@@ -3192,7 +3213,7 @@ sudo apt install kazam
 On how to use Kazam Screencaster https://www.youtube.com/watch?v=ADPPpY6ZEI8
 
 
-UI/UX DESIGN (HUGO for WEBSITES) && (KIVY for WEB && DESKTOP APPLICATIONS AND MOBILE WEB && LOCAL APPLICATIONS
+UI/UX DESIGN (HUGO for WEBSITES) 
 
 HUGO
 create a project folder for github pages  githubname.github.io
