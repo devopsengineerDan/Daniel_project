@@ -2555,11 +2555,8 @@ From your GitHub account, go to Settings => Developer Settings => Personal Acces
 
 
 GITHUB   conardmomanyimoruri
-         DancunManyinsa: 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
+        devopsengineerDan: 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
 
-------------------
-Personal github 4f41ea34f379e4e0dc151e6964c6468f4807e3c5
-------------------
 
 GIT FIRST ATTEMPT
 
@@ -2594,6 +2591,11 @@ git add README.md
 git add .
 git commit -m "first commit"
 git branch -M main
+#To avoid conflicts
+git checkout -b secondbranch ->Creates another branch named secondbranch
+OR
+git branch secondbranch ->Creates another branch named secondbranch
+git 
 git remote add origin https://github.com/devopsengineerDan/Driver-Drowsiness-Detection.git
 git push -u origin main
 
