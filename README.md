@@ -3212,33 +3212,36 @@ sudo apt install kazam
 
 On how to use Kazam Screencaster https://www.youtube.com/watch?v=ADPPpY6ZEI8
 
+```
+UI/UX DESIGN (HUGO for WEBSITES)
+Simple -> https://www.youtube.com/watch?v=0RKpf3rK57I
+Advanced -> https://www.youtube.com/watch?v=LIFvgrRxdt4
 
-UI/UX DESIGN (HUGO for WEBSITES) 
+HUGO -> hugo -> To create public folder with static html,css,xml pages
 
-HUGO
-create a project folder for github pages  githubname.github.io
-hugo -> To create public folder with static html,css,xml pages
-change name from public to githubname.github.io
-push to github
+1. create a project folder for github pages  githubname.github.io
+#change name from public to githubname.github.io (check github creating github pages)
+2. push to github
 
-hugo new site blog
+3. hugo new site blog
+#hange name to your preference
+4. cd personal-blog/
 
-cd personal-blog/
+5. git init
 
-git init
+6. cd theme/
+7. git submodule add https://github.com/vaga/hugo-theme-m10c.git
 
-cd theme/m10c
-git submodule add https://github.com/vaga/hugo-theme-m10c.git
-
-cd personal-blog/
-git submodule add https://github.com/devopsengineerDan/devopsengineerdan.github.io.git
+8. cd personal-blog/
+9. git submodule add https://github.com/devopsengineerDan/devopsengineerdan.github.io.git
 
 
-hugo server --minify --theme hugo-theme-m10c
+10. hugo server --minify --theme hugo-theme-m10c
 OR 
-hugo server
-push to github
-
+11. hugo server
+12. hugo server --watch --verbose
+13. push to github
+```
 KIVY
 
 Kivy Installation
