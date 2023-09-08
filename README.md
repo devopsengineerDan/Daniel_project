@@ -3205,26 +3205,31 @@ ADVANTAGES -> https://www.youtube.com/watch?v=cbASjoZZGIw
       
 --------------------------------------------------------------------------
 
-
-KAZAM DEMONSTRATION
+```
+👉 KAZAM DEMONSTRATION
 
 sudo apt install kazam
 
 On how to use Kazam Screencaster https://www.youtube.com/watch?v=ADPPpY6ZEI8
+```
+
 
 ```
-UI/UX DESIGN (HUGO for WEBSITES)
+👉 UI/UX DESIGN (HUGO for WEBSITES)
 Simple -> https://www.youtube.com/watch?v=0RKpf3rK57I
 Advanced -> https://www.youtube.com/watch?v=LIFvgrRxdt4
 
 HUGO -> hugo -> To create public folder with static html,css,xml pages
 
-1. create a project folder for github pages  githubname.github.io
-#change name from public to githubname.github.io (check github creating github pages)
+1. create a project folder for github pages  githubname.github.io -(Contain website files i.e html, xml, css and media folder to be deployed and displayed on client)
+   #change name from public to githubname.github.io (check github creating github pages)
+
 2. push to github
 
-3. hugo new site blog
-#hange name to your preference
+3. create a blog -> (Contain content files and  hugo theme)
+   hugo new site blog
+   #change name to your preference
+
 4. cd personal-blog/
 
 5. git init
@@ -3242,7 +3247,9 @@ OR
 12. hugo server --watch --verbose
 13. push to github
 ```
-KIVY
+
+```
+👉 KIVY
 
 Kivy Installation
 
@@ -3303,11 +3310,11 @@ requirements = python3, kivy, kivymd, cv2, dlib, playsound, scipy, imutils, pyga
 android.logcat_filters = *:S python:D
 
 buildozer android deploy run
+```
 
 
-
--------------------------------------------------------------------------------
-HEROKU  ((( H - Conardmomanyi@1 ))) GITHUB  ->  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 
+```
+👉 HEROKU  ((( H - Conardmomanyi@1 ))) GITHUB  ->  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 
 
 
 web: gunicorn waweru.wsgi --log-file -
@@ -3348,7 +3355,12 @@ $ heroku config:unset DISABLE_COLLECTSTATIC
 6 try it on your own (optional)
 
 $ heroku run python manage.py collectstatic
-GIT COLLABORATION Link http://adzumi.co.ke/blog/github_contribution
+
+```
+
+
+```
+👉 GIT COLLABORATION Link http://adzumi.co.ke/blog/github_contribution
 
 As a new developer, contributing to a project can be scary. I get it,  I was there too. It took me way too long to make my first Pull Request.
 
@@ -3420,8 +3432,10 @@ Ensure you're working on the correct branch.
 Do the work, write good commit messages and read the CONTRIBUTING file if there is one.
 Push to your origin repository.
 Create a new Pull Request in GitHub.
+```
 
------------------------------------------------------------------------------------------------------
+
+
 
 =====================================================================================================================================
 # DEVOPS
