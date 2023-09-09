@@ -3046,7 +3046,7 @@ Create                    rustenv  renv
 Activate                  ./renv/bin/activate
 Deactivate                deactivate_rustenv
 
-👉 Run cargo
+👉 Run cargo [STANDARD]
 
 ```
 -------   
@@ -3232,22 +3232,26 @@ HUGO -> hugo -> To create public folder with static html,css,xml pages
 3. create a blog -> (Contain content files and  hugo theme)
    hugo new site blog
    #change name to your preference
-
+   
 4. cd personal-blog/
+   #if it's a new project proceed.
+   #if it's not a new project, and you want to update website, add github changes of (folder, file) of the online github repository to this personal blog directory.
 
 5. git init
 
-6. cd theme/
+6. cd.. then cd themes/
 7. git submodule add https://github.com/vaga/hugo-theme-m10c.git
 
-8. cd personal-blog/
+8. cd.. then cd personal-blog/
 9. git submodule add https://github.com/devopsengineerDan/devopsengineerdan.github.io.git
+  #creates a folder called public and inserts devopsengineerdan.github.io website in the directory
 
+10. hugo new posts/best-practices-for-pyspark-ETL.md
 
-10. hugo server --minify --theme hugo-theme-m10c
-OR 
 11. hugo server
+OR
 12. hugo server --watch --verbose
+
 13. push to github
 ```
 
