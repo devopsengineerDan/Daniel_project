@@ -2114,7 +2114,7 @@ BEST PRACTICE
 
 
 ```
-👉 C                (OFFICIAL)   ->  https://en.cppreference.com/w/c/23
+👉 C                (OFFICIAL)    ->       https://en.cppreference.com/w/c/23
 
 
 BEST PRACTICE Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE 
