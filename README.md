@@ -3273,11 +3273,12 @@ HUGO -> hugo -> To create public folder with static html,css,xml pages
 
 10. hugo new posts/best-practices-for-pyspark-ETL.md
 
-11. hugo server
-OR
-12. hugo server --watch --verbose
+11. hugo server OR hugo server --watch --verbose
 
-13. push to github
+12.  hugo -D then hugo
+
+13. push to github -> Blog
+NOTE -> If websites fails to update take the new posts htmls files generated and add them to the website folder cloned from git. Then push the new changes
 ```
 
 ```
