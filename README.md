@@ -3275,9 +3275,9 @@ HUGO -> hugo -> To create public folder with static html,css,xml pages
 
 11. hugo server OR hugo server --watch --verbose
 
-12.  hugo -D then hugo
+12.  hugo -D then hugo -> To build and update the website from the recent updates in the blog contents and other file changes.
 
-13. push to github -> Blog
+13. push to github -> This is the Blog repository
 NOTE -> If websites fails to update take the new posts htmls files generated and add them to the website folder cloned from git. Then push the new changes
 ```
 
