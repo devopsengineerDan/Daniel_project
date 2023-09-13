@@ -57,7 +57,7 @@ Master's  
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 ```
-# engineer-dancun-personal-blog project images
+# engineer-dancun-personal-blog project images on MARKDOWN PAGE
 
 ![pipelines-logo](https://github.com/devopsengineerDan/engineer-dancun-personal-blog/assets/48592378/4eb0599c-7062-4e5a-84cf-b03055e87bf1)
 
@@ -1483,6 +1483,118 @@ Others
     kali-desktop-live: Used during a live session when booted from the image
 ```
 
+```
+👉 RED TEAM TOOLS
+
+1-NETWORK ANALYSIS
+·Wireshark: https://www.wireshark.org
+·pfSense: https://www.pfsense.org
+·Arkime: https://arkime.com
+·Snort: https://www.snort.org
+Suricata: https://suricata.io/
+
+2-OS ANALYSIS
+·Helk: https://lnkd.in/di4rQuNb
+·Volatility: https://lnkd.in/dBr4yVYa
+·RegRipper: https://lnkd.in/dq2hTNQw
+·OSSEC: https://www.ossec.net
+·osquery: https://osquery.io
+
+3-INCIDENT MANAGEMENT
+·TheHive: https://lnkd.in/dkR-d4JB
+·GRR Rapid Response: https://lnkd.in/d42-6faP
+
+4-HONEYPOTS
+·Kippo: https://lnkd.in/d2ypa3j4
+·Cowrie: https://lnkd.in/dAR68JQt
+·Dockpot: https://lnkd.in/dgn7MpQg
+·HonSSH: https://lnkd.in/dMKptyHz
+
+5-THREAT INTELLIGENCE
+·Misp: https://lnkd.in/dkcbKsTN
+·MSTICPy: https://lnkd.in/dBjgWVqY
+.Threatpost: https://threatpost.com/
+Dark Reading: https://lnkd.in/df3bwx2n
+
+6-EDR
+·Cortex XDR: https://lnkd.in/devusd8T
+·Cynet 360:  https://lnkd.in/dZTXUwBE
+·FortiEDR:  https://lnkd.in/daTMkVxb
+.Xcitium: https://lnkd.in/d6U4_auq
+
+7-SIEM
+·OSSIM: https://lnkd.in/dXegU3-5
+·Splunk: https://www.splunk.com
+·LogRhythm: https://logrhythm.com
+·Wazuh: https://wazuh.com
+.Qradar: https://lnkd.in/dCtbkk-H
+```
+```
+👉 BLUE TEAM TOOLS
+IP & URL Reputation
+🌀1. Virus Total : https://lnkd.in/eweERpju
+🌀2. URL Scan : https://urlscan.io/
+🌀3. AbuseIPDB: https://www.abuseipdb.com/
+🌀4. Cisco Talos: https://lnkd.in/g7uWdC5q
+🌀5. IBM X-Force: https://lnkd.in/gt8iyHE5
+🌀6. URL Filtering(Palo Alto): https://lnkd.in/e4bkm5Eq
+🌀7. URL Filtering(Symantec): https://lnkd.in/g4qQGsHG
+🌀8. IP Void: https://www.ipvoid.com/
+🌀9. URL Void: https://www.urlvoid.com/
+
+2️⃣File | Hash | Search | Analysis | Sandboxing
+🌀1. File Extension >>https://filesec.io/#
+🌀2. LOLBAS >>https://lnkd.in/dDa8XgiM
+🌀3. GTFOBins >>https://lnkd.in/dRVzVz87
+🌀4. File Hash Check >> https://lnkd.in/gNqxtn4d
+🌀5. Hash Search >> https://lnkd.in/eMjdTB2t
+🌀6. Hash Search >> https://www.malwares.com/
+🌀7. MetaDefender >> https://lnkd.in/e6r4mGv5
+🌀8. Kaspersky Threat Intel. >> https://lnkd.in/eSNMn7au
+🌀9. Cuckoo Sabdbox >> https://cuckoosandbox.org/
+🌀10. AnyRun >> Online sandboxing >> https://any.run/ 
+🌀11. Hybrid-Analysis >> https://lnkd.in/gaRGY8kB 
+🌀12. Joe Sandbox >> https://lnkd.in/gTJJ9GiC
+🌀13. VMRay Sandbox >> https://www.vmray.com/
+🌀14. Triage >> http://tria.ge/ 
+🌀15. Browser Sandbox >> https://lnkd.in/gjA-QqdX
+
+3️⃣ File hash
+🌀HashTools> Windows > https://lnkd.in/gTjru2RQ
+Powershell :
+🌀Get-FileHash -Path C:\path\to\file.txt -Algorithm MD5
+Get-FileHash -InputObject "This is a string" -Algorithm MD5
+🌀QuickHash > MacOS > https://lnkd.in/gZc8FYpU
+Terminal: shasum -a 256 filename
+
+4️⃣Find Suspicious Artifacts | Reverse Engineer | Debug Files
+🌀1. PeStudio: https://lnkd.in/gjYKbyge
+🌀2. CFF Explorer: https://lnkd.in/ggTCTeAi
+🌀3. DocGuard files: https://www.docguard.io/
+🌀4. File Scan: https://lnkd.in/ejBt5R7C
+🌀5. Ghidra >> https://ghidra-sre.org/
+🌀6. IDA Pro >>https://lnkd.in/eWA9MnMY
+🌀7. Radare2/Cutter >>https://lnkd.in/gV4k5Gsw
+https://lnkd.in/gdb3MQn2
+
+5️⃣Monitor System Resources | Detect malware
+🌀Process Hacker >> https://lnkd.in/gxV3PAnG
+🌀Process Monitor >> https://lnkd.in/gPqzyB7K
+🌀ProcDot >> https://www.procdot.com/
+🌀Autoruns >> https://lnkd.in/gkZqkZrd
+🌀TcpView >>https://lnkd.in/gQZM_SJz
+
+6️⃣Web proxy
+🌀Fiddler >> https://lnkd.in/gnJ9BvFN
+
+7️⃣Malware Samples - Abuse.ch 
+🌀MalwareBazaar ==> https://bazaar.abuse.ch/ 
+🌀FeodoTracker ==> https://lnkd.in/gyN_diCQ
+🌀SSLBlacklist ==> https://sslbl.abuse.ch/ 
+🌀URLHaus ==> https://urlhaus.abuse.ch/ 
+🌀ThreatFox ==> https://lnkd.in/gB2gDZUd
+🌀YARAIfy ==> https://yaraify.abuse.ch/
+```
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 👉 LINUX OPERATING SYSTEM
@@ -3269,16 +3381,18 @@ HUGO -> hugo -> To create public folder with static html,css,xml pages
 
 8. cd.. then cd personal-blog/
 9. git submodule add https://github.com/devopsengineerDan/devopsengineerdan.github.io.git
-  #creates a folder called public and inserts devopsengineerdan.github.io website in the directory
+   #creates a folder called public and inserts devopsengineerdan.github.io website in the directory
 
 10. hugo new posts/best-practices-for-pyspark-ETL.md
-
+    #Hugo supports Go language which supports yaml, hence in updating the drafts in local server leave it in yaml format in the upper section of the markdown file.
+  
 11. hugo server OR hugo server --watch --verbose
 
-12.  hugo -D then hugo -> To build and update the website from the recent updates in the blog contents and other file changes.
+12. #For m10c theme the author used toml as configuration file, hence change yaml format in the upper section of the markdown file to toml format
+    hugo -D then hugo -> To build and update the website from the recent updates in the blog contents and other file changes.
 
 13. push to github -> This is the Blog repository
-NOTE -> If websites fails to update take the new posts htmls files generated and add them to the website folder cloned from git. Then push the new changes
+    NOTE -> If websites fails to update take the new posts htmls files generated and add them to the website folder cloned from git. Then push the new changes
 ```
 
 ```
