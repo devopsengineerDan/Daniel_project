@@ -1375,16 +1375,9 @@ sudo modprobe vboxdrv
 
 NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto-configure-setup-firewall-with-ufw-on-ubuntu-linux/
 (CHECK WINDOWS DOC FILE)
-```								       
-								       
-								       
-								       
-								       
-			
+```											
 				
-				
-				
-				
+								
 ```
 👉 VIRTUALBOX CONFIGURATIONS
 			
@@ -1410,10 +1403,9 @@ UI OPTION
 
 *CONNECTING VMS TO A COMMON NETWORK
 ->Go to File, Preferences, Network, Add NAT Network (e.g)Network Name: NATNetworkPentesting Network CIDR: 10.0.2.0/24   --> You can also do Port Forwarding
+```
 
-
-
-```				
+   
 ```
 👉 INSTALL KALI PURPLE THEN INSTALL KALI LINUX PENTESTING TOOLS
 				
@@ -1483,6 +1475,7 @@ Others
     kali-desktop-live: Used during a live session when booted from the image
 ```
 
+
 ```
 👉 RED TEAM TOOLS
 
@@ -1529,8 +1522,11 @@ Dark Reading: https://lnkd.in/df3bwx2n
 ·Wazuh: https://wazuh.com
 .Qradar: https://lnkd.in/dCtbkk-H
 ```
+
+
 ```
 👉 BLUE TEAM TOOLS
+
 IP & URL Reputation
 🌀1. Virus Total : https://lnkd.in/eweERpju
 🌀2. URL Scan : https://urlscan.io/
@@ -1595,6 +1591,385 @@ https://lnkd.in/gdb3MQn2
 🌀ThreatFox ==> https://lnkd.in/gB2gDZUd
 🌀YARAIfy ==> https://yaraify.abuse.ch/
 ```
+
+```
+👉 PENTESTING COURSES
+
+EC-Council Cybersecurity SCHOLARSHIP
+https://campaigns.eccouncil.org/cyber-career-starter-scholarship?utm_source=pop-up&utm_medium=essentials&utm_campaign=cct-global-scholarship
+
+🗝️Penetration Testing Course by TCM Security
+https://lnkd.in/eb4ieU7b
+
+🗝️Penetration Testing Course by IT Masters
+https://lnkd.in/ei6RrNXw
+
+🗝️Internet of Things Intro by Stanford
+https://lnkd.in/eCrhKFKR
+
+🗝️Free Cyber Defense Training by Mandiant
+https://lnkd.in/eSfbiTeY
+
+🗝️Digital Forensic Courses List by DFIRDiva
+https://lnkd.in/e4RRihcn
+
+🗝️Blue Team Training Course by Security Blue
+https://lnkd.in/ehwEzNfp
+
+🗝️Splunk Free Course by Splunk
+https://lnkd.in/e7CP_uqU
+
+🗝️Cyber Threat Intelligence 101 by Arcx
+https://lnkd.in/ePqK-fNN
+
+🗝️Cyber Security Free Course by Palo Alto
+https://lnkd.in/eiFkSHiK
+```
+
+```
+👉 DEVELOPER COURSES
+
+OSINT: Content Discovery
+https://lnkd.in/gkHuEfPw
+
+Hack Network PCs
+https://lnkd.in/gRgYwd7h
+
+Cyber Security: Best Practices, Trends, Technologies &Myths
+https://lnkd.in/gMXqJ5uH
+
+Ultimate Jenkins Certified Engineer Practice Exam 2023 | JCE
+https://lnkd.in/gdKkVhxa
+
+Setup Ubuntu Server
+https://lnkd.in/gjWxid45
+
+Linux Terminal for beginners
+https://lnkd.in/gUQgHC84
+
+Git for Beginners
+https://lnkd.in/gmDEHZhC
+
+The Ultimate MySQL Crash Course 2023
+https://lnkd.in/gibwKktX
+
+Disaster Recovery (BCDR) in Azure using ASR, Chaos Studio
+https://lnkd.in/gQ2iKSYq
+
+OOP Design Patterns in Python
+https://lnkd.in/gyJMtu4q
+
+PCEP Certification Exam Preparation: 4 Practice Tests
+https://lnkd.in/g9v7kffm
+
+Python Certification Exam Preparation: 6 Practice Tests
+https://lnkd.in/ggJFr5ff
+
+Python Certification Exam PCEP-30-02 - Preparation (2023)
+https://lnkd.in/gXjdFrAM
+
+Python Programming- Practice Tests & Interview Questions
+https://lnkd.in/gHi6xVRx
+
+Python And Flask Framework Complete Course For Beginners
+https://lnkd.in/gbKgt2Kq
+
+Scrum Master Certification Mock Exams 2023+Agile Scrum
+https://lnkd.in/gV-TncUE
+
+Practice Exams (3 Sets) - Docker Certified Associate (DCA)
+https://lnkd.in/g7skvn4H
+
+Linear Programming basics
+https://lnkd.in/gvs-Fc7X
+
+Master all the MS Excel Macros and the basics of Excel VBA
+https://lnkd.in/gzbt_vCB
+
+Master Android Application Build 3 Applications from Scratch
+https://lnkd.in/gp8kqmEx
+
+Android App's Development Masterclass - Build 2 Apps - Java
+https://lnkd.in/gQZzapBH
+
+Fastest Laravel app building trick
+https://lnkd.in/gS8S2zVN
+
+C Programming Language- Practice Tests & Interview Questions
+https://lnkd.in/g-KfQF2v
+
+Debugging Basics
+https://lnkd.in/gZA7exPA
+
+React JS Coding Interview Challenges and Exercises [2023]
+https://lnkd.in/g5s6ed2M
+
+Master Prototype & Product Design, Development & Engineering
+https://lnkd.in/gwftYdjA
+
+ISO 14001:2015 - Awareness on Environment Management (EMS)
+https://lnkd.in/gJMU7xsJ
+
+Business Continuity Management Awareness on ISO 22301
+https://lnkd.in/gCrWwaAe
+```
+
+
+```
+👉 FUNDAMENTALS
+
+**— Cyber Essentials —**
+
+📘 ISC(2) Certified in Cyber - https://lnkd.in/e6jB_6af
+📘 Cyber Security - https://lnkd.in/eueCSF6A
+📘 Cisco Cyber Induction - https://lnkd.in/e8C3jacc
+📘 Cisco Cyber Essentials - https://lnkd.in/eTQNsbyF
+📘 Fortinet NSE - https://lnkd.in/es3c_Q6E
+
+**— Hacking —**
+
+📗 CodeRed Hacking Essentials - https://lnkd.in/eJbyZp_9
+📗 PortSwigger Web Hacking - https://lnkd.in/eEa-fNfu
+
+**— Engineering —**
+
+📙 Secure Software Development - https://lnkd.in/ebGpA4wG
+📙 Maryland Software Security - https://lnkd.in/e3z4zFmJ
+📙 Stanford Cyber Resiliency - https://lnkd.in/eg9BM5Bv
+
+**— Core Skills —**
+
+#Cisco Network Essentials - https://lnkd.in/eJQFjmcA
+#AWS Cloud - https://lnkd.in/e_auX7VE
+#Azure Cloud - https://lnkd.in/e4UacMGK
+#GCP Cloud - https://lnkd.in/eDNWnVsD
+```
+
+
+```
+👉 WEB APPLICATION TOOLS
+
+💻Burp Suite - Framework.
+https://lnkd.in/gwV8u6Bp
+
+💻ZAP Proxy - Framework.
+https://www.zaproxy.org/
+
+💻wfuzz - bruteforcing web
+https://lnkd.in/gyyhkZQF
+
+💻Wapiti
+https://lnkd.in/gDaTe5XV
+
+💻w3af
+http://w3af.org/
+
+💻Dirsearch - HTTP bruteforcing.
+https://lnkd.in/gQ-qWnCw
+
+💻Nmap - Port scanning.
+https://nmap.org/
+
+💻Sublist3r - Subdomain discovery.
+https://lnkd.in/g4SG9neM
+
+💻Amass - Subdomain discovery.
+https://lnkd.in/gpBABMBf
+
+💻SQLmap - SQLi exploitation.
+http://sqlmap.org/
+
+💻Nogotifail
+https://lnkd.in/g8PMWqiw
+
+💻Iron Wasp
+https://ironwasp.org/
+
+💻Arachni
+https://lnkd.in/gyD3s7EN
+
+💻Metasploit - Framework.
+https://lnkd.in/gmnyrxuv
+
+💻WPscan - WordPress exploitation.
+https://wpscan.com/
+
+💻Nikto - Webserver scanning
+https://lnkd.in/gV8ErHDW
+
+💻HTTPX - HTTP probing.
+https://lnkd.in/g83CQ5Wn
+
+💻Nuclei - YAML based template scanning.
+https://lnkd.in/gkp4CK2v
+
+💻FFUF - HTTP probing.
+https://lnkd.in/ghRhwWGe
+
+💻Subfinder - Subdomain discovery.
+https://lnkd.in/gmpujTAi
+
+💻Masscan - Mass IP and port scanner.
+https://lnkd.in/g_9PP_7F
+
+💻Lazy Recon - Subdomain discovery.
+https://lnkd.in/geT-Bm9t
+
+💻XSS Hunter - Blind XSS discovery.
+https://xsshunter.com/
+
+💻Aquatone - HTTP based recon.
+https://lnkd.in/gvbB7Rgd
+
+💻LinkFinder - Endpoint discovery through JS files.
+https://lnkd.in/gfRM6Sq6
+
+💻JS-Scan - Endpoint discovery through JS files.
+https://lnkd.in/gCp2EyRY
+
+💻Parameth - Bruteforce GET and POST parameters.
+https://lnkd.in/gsPF4pTM
+
+💻truffleHog - Find credentials in GitHub commits.
+https://lnkd.in/gc5p5Jss
+```
+
+
+```
+👉 APPLICATION PENTESTING TOOLS
+
+✔️WordPress admin finder
+🔗 Link : https://lnkd.in/dyvDJ9dX
+
+✔️Smb scanner tool
+🔗 Link : https://lnkd.in/dgpBTFpa
+
+✔️Heart Bleed scanner
+🔗 Link : https://lnkd.in/dcG385GB
+
+✔️weevely php web shell
+🔗 Link : https://lnkd.in/dxAYb-Va
+
+✔️Webponized web shell
+🔗 Link : https://lnkd.in/dbQHEwrG
+
+✔️Nikto web scanner tool
+🔗 Link : https://lnkd.in/dYE8NcMW
+
+✔️Auto Ip or domain Attacking Tool
+🔗 Link : https://lnkd.in/duch7ggE
+
+✔️Click jacking vulnerability scanner
+🔗 Link : https://lnkd.in/dpirNWRG
+
+✔️All in 1 information gathering and web penetration tool DTect
+🔗 Link : https://lnkd.in/dSH-WanK
+
+✔️Detect phishing URL
+🔗 Link : https://lnkd.in/djeHhvb3
+
+✔️Dos attack tool - Golden eye
+🔗 Link : https://lnkd.in/dHci7XAf
+
+✔️Dos attack with hulk
+🔗 Link : https://lnkd.in/dZMYVfs5
+
+✔️Sql vulnerability scanner
+🔗 Link : https://lnkd.in/dv5vFTDK
+
+✔️hack website with sqlmap
+🔗 Link : https://lnkd.in/dDah_N5u
+
+✔️information and vulnerability scanner with striker
+🔗 Link : https://lnkd.in/dViQEykp
+
+✔️web server attacking tool with dost
+🔗 Link : https://lnkd.in/d-pcrbA8
+
+✔️advanced multithreaded admin panel finder
+🔗 Link : https://lnkd.in/daHfwAZU
+
+✔️Ssl vulnerability scanner
+🔗 Link : https://lnkd.in/dmxRyixm
+
+✔️sublister - Subdomain enumeration
+🔗 Link : https://lnkd.in/d2R6A_-B
+
+✔️WordPress vulnerability scanner and attacker
+🔗 Link : https://lnkd.in/dTi9viG5
+
+✔️Hunner scanner framework
+🔗 Link : https://lnkd.in/dceH9pM6
+
+✔️Red hawk all in 1 information gathering and scanning tool
+🔗 Link : https://lnkd.in/dkBb-8yp
+
+✔️Dos attack tool with Xerxes
+🔗 Link : https://lnkd.in/dbfy73xq
+
+✔️social fish phishing tool
+🔗 Link : https://lnkd.in/dAXKiEZ8
+
+✔️weeman phishing tool no root
+🔗 Link : https://lnkd.in/dq4NiqW5
+
+✔️WordPress security scanner Wpseku
+🔗 Link : https://lnkd.in/dDwTzntt
+
+✔️IDN homograph attack tool
+🔗 Link : https://lnkd.in/dpVkBe3r
+
+✔️Detect security flaws with CMS
+🔗 Link : https://lnkd.in/d4dGXz2k
+
+✔️Fire crack , admin, finders, deface, bing dorking etc
+🔗 Link : https://lnkd.in/dkXhiR5c
+
+✔️Pish web tool
+🔗 Link : https://lnkd.in/dcDFz2xX
+
+✔️MITM attack tool
+🔗 Link : https://lnkd.in/dvCRNsZq
+
+✔️kill shot pentesting framework
+🔗 Link :https://lnkd.in/dUvWJMVW
+```
+
+
+```
+👉 MALWARE ANALYST TOOLS
+
+🧨Cuckoo Sandbox: An open-source sandbox that provides automated analysis of suspicious files and behaviors.
+🔗https://lnkd.in/dgzZiYzY
+
+🧨Any.Run: A web-based interactive sandbox that allows users to run and analyze malware in real-time.
+🔗 https://any.run/
+
+🧨Joe Sandbox: Community Edition of Joe Sandbox offers a free version for malware analysis.
+🔗 https://lnkd.in/dwjPpwQT
+
+🧨IRMA (Incident Response & Malware Analysis): An open-source platform for analyzing malware and performing incident response
+🔗 https://lnkd.in/dzzwCHsk
+
+🧨Viper: A framework for analyzing malware samples. It provides a user-friendly web interface and supports multiple analysis tools.
+🔗 https://lnkd.in/d6-U6YY4
+
+🧨Limon Sandbox: An open-source sandbox developed to automate the analysis of Linux malware.
+🔗 https://lnkd.in/dzM2--Ux
+
+🧨BinaruGuard: Automated malware analysis on a revolutionary bare-metal platform in the cloud.
+🔗https://lnkd.in/dnEF-h-d
+
+🧨Hybrid Analysis: A cloud-based platform that combines sandbox analysis with threat intelligence feeds.
+🔗 https://lnkd.in/dz3rmuwy
+
+🧨Filescan: operating at 10x speed compared to traditional sandboxes with 90% less resource usage
+🔗 https://lnkd.in/dgQM25_B
+
+🧨Sandblast: Its a malware analysis system by Checkpoint
+🔗 https://lnkd.in/drBEghCn
+```
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 👉 LINUX OPERATING SYSTEM
