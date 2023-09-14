@@ -94,6 +94,10 @@ Zoom App
 AI Bot App
 Two players Chess App
 Clock App
+
+TCP + Encrypted Messaging
+UDP + Encrypted Messaging
+NGROK CONNECTION OF BOTH TCP & UDP
 ```
 
 
