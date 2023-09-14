@@ -100,9 +100,28 @@ Windows use systeminfo.
 Linux use ifconfig. Default local IP address is 127.0.0.1 OR  check the wlp2s0 option.
 
 PUBLIC IP ADDRESS -> For connecting to a public server
-Windows GUI check the ip address of network connected to your device. Ethernet or WIFI
-Linux GUI check the ip address of network connected to your device. Ethernet or WIFI 
-                      
+Windows GUI check the ip address of network connected to your device.  i.e Ethernet or WIFI
+Linux GUI check the ip address of network connected to your device. i.e Ethernet or WIFI 
+
+SOCKET PROGRAMMING -> End-point communication i.e kernel, internet, bluetooth
+Example:
+AF_INET -> IPV4
+AF_INET6 ->  IPV6
+
+TCP -> (Transmission Control Protocol) i.e SOCK_STREAM  ->USE_CASE -Detecting and maintaining connection requests, Sending messages/files
+Reliable - Detects packet loss
+Connection-based
+Sequential
+Byte-stream
+Keeps up connection
+
+UDP -> User Datagram Protocol i.e SOCK_DGRAM -> USE_CASE - Real-time data transmission like video/audio, online gaming
+Sends one datagram
+No order
+No guarantee of receiving packets
+Real-time
+Faster
+Less network and PC stress                    
 ```
 
 
@@ -112,9 +131,11 @@ python3 -m http.server
 OR
 python -m http.server
 
-#check ip address
+#Check for local ip address
 #windows use systeminfo.
 #linux use ifconfig. Then check the wlp2s0 option. The default local ip address 127.0.0.1 does not work.
+
+#convert a file to zip folder in order to download it to another machine
 ```
 
 
