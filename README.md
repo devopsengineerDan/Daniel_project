@@ -87,13 +87,13 @@ Master's  
 
 ```
 👉 Python Applications
-Youtube Script + App
-Voice recorder App
-Screen recorder App
-Zoom App
-AI Bot App
-Two players Chess App
-Clock App
+Youtube Script + GUI App
+GUI Voice recorder App
+GUI Screen recorder App
+GUI Zoom App
+GUI AI ASSISTANT Bot App
+GUI Two players Chess App
+GUI Clock App
 
 TCP + Encrypted Messaging
 UDP + Encrypted Messaging
