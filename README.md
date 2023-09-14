@@ -81,6 +81,8 @@ Master's  
 
 ![etl](https://github.com/devopsengineerDan/engineer-dancun-personal-blog/assets/48592378/5aecd34b-e722-4390-ad77-5ed10aa5f3a7)
 ```
+
+
 👉 PYTHON SCRIPTS
 
 -> *** Python Script to Control my Lights using phue philips bulb -> https://www.youtube.com/watch?v=kSruoqDTYt0
@@ -97,7 +99,21 @@ python -m http.server
 #check ip address
 #windows use systeminfo.
 #linux use ifconfig. Then check the wlp2s0 option. The default 127.0.0.1 doesn't work.
+```
 
+
+👉 Hide computer IP address for watching movies
+```
+import requests
+
+proxies = {
+    'https': '96.80.235.1:8080'#Proxy server of your preferred country
+    }
+
+response = requests.get("https://ipinfo.io/json", proxies=proxies)
+
+print(response.text)
+# Once it returns a json format text file with proxy ip address of your preferred country, then it successful. Use it in movie platforms, but some platforms have advanced software and techniques to identify your IP address.
 ```
 
 
