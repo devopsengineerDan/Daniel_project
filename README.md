@@ -84,8 +84,9 @@ Master's  
 
 
 👉 PYTHON SCRIPTS
+
 ```
-Python Applications
+👉 Python Applications
 Youtube Script + App
 Voice recorder App
 Screen recorder App
@@ -162,7 +163,6 @@ response = requests.get("https://ipinfo.io/json", proxies=proxies)
 print(response.text)
 # Once it returns a json format text file with proxy ip address of your preferred country, then it successful. Use it in movie platforms, but some platforms have advanced software and techniques to identify your IP address.
 ```
-```
 
 
 👉 Clock script -> https://www.youtube.com/watch?v=l7IMBy4_nhA
@@ -208,6 +208,8 @@ label.pack(anchor="center")
 time()
 window.mainloop()
 ```
+
+
 👉 Photo Compressor 
 
 This is an awesome Automation Script that will Compress your Photos into lower Sizes by keeping the Quality the same. 
@@ -218,6 +220,8 @@ from tkinter.filedialog import *
 from PIL import Imagefile_loc=askopenfilenames()img = Image.open(file_loc[0])img.save("Compressed.jpg", "JPEG", optimize = True, quality = 10)
 print("Image is Compressed") 
 ```
+
+
 👉Image Watermarker 
 
 You had Probbally used different Photo Editing software to watermark your photos. This simple python script using the PIL module will watermark any image. You can set the Text, location, and even Font. 
@@ -234,6 +238,8 @@ img.show()
 img.save(output_path)img = '1.jpg'
 watermark_Image(img, 'watermarked.jpg','Python', pos=(0, 0)) 
 ```
+
+
 👉 InstaDpViewer 
 
 This Python automation script will help you to view the DP of any Instagram User. Script use module instaloader which will take username as input and download the DP as an output. 
@@ -249,6 +255,8 @@ dp = input("Enter Insta username : ")
 ig.download_profile(dp , profile_pic_only=True)
 print("Your Image is Downloaded") 
 ```
+
+
 👉 Plagiarism Checker 
 
 This is an awesome script that will help you to check the Plagiarism between two files. Now you don’t longer need any software or a web app for Plagiarism checking. This will do your work in a second. 
@@ -262,6 +270,8 @@ checking=SequenceMatcher(None, f1_data, f2_data).ratio()print(f"These files are 
 file_2=input("Enter file 2 path: ")
 Plagerism_checker(file_1, file_2) 
 ```
+
+
 👉 YT Video Downloader 
 
 This is another simple automation script to download Youtube videos. Now you don’t need any web app or software, just use the below code to download any video. 
@@ -289,6 +299,7 @@ yt.streams.first().download()
 print('downloaded', link) 
 ```
 
+
 👉 Convert PDF to CSV 
 
 Sometimes we need to convert our PDF data into CSV format, So for that kind of work, this Python script will be handy for you. I had mentioned the two methods to do this work. 
@@ -302,6 +313,8 @@ df.to_csv('output.csv')# Method 2
 tables = camelot.read_pdf('file.pdf')
 tables.export('file.csv', f='csv', compress=True) 
 ```
+
+
 👉 File Encrypt and Decrypt 
 
 Want to lock your File then this script will be handy for you. Below I mention Encryption and decryption code that can work on any file. 
@@ -330,6 +343,8 @@ filename = input("Enter Your filename: ")
 encrypt(filename, key)
 decrypt(filename, key) 
 ```
+
+
 👉 Battery Notification 
 
 You had seen a battery notification on your Mobile Phone. So what if your Laptop also notifies you about your Battery status. This Python Script will do the exact same work by using 3 modules it can be Battery Notifier. Check out the code below. 
@@ -370,6 +385,8 @@ processThread.start()
 bot.say("Charging is Completed")
 bot.runAndWait() 
 ```
+
+
 👉 Convert Images to PDF 
 
 If you had a lot of images and looking for converting them into a single Pdf then this automation script will be handy for you.
@@ -386,6 +403,8 @@ Pdf.add_page()
 Pdf.image(i,x,y,w,h)
 Pdf.output("yourfile.pdf", "F") 
 ```
+
+
 👉 Text to Speech AI Bot 
 
 If you had known about the Jarvis AI then this script will work similarly. It uses google Text to Speech API to convert your written Text to AI bot voice. checkout the code below. 
