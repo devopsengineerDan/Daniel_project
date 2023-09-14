@@ -90,6 +90,22 @@ Master's  
 -> Automating Scripts + (Youtube,Image, PDF merger) scripts -> https://www.youtube.com/watch?v=vEQ8CXFWLZU
 
 
+
+```
+👉 NETWORK CONCEPTS FOR SOCKET PROGRAMMING
+
+LOCAL IP ADDRESS -> For connecting to a local server
+#check ip address
+Windows use systeminfo.
+Linux use ifconfig. Default local IP address is 127.0.0.1 OR  check the wlp2s0 option.
+
+PUBLIC IP ADDRESS -> For connecting to a public server
+Windows GUI check the ip address of network connected to your device. Ethernet or WIFI
+Linux GUI check the ip address of network connected to your device. Ethernet or WIFI 
+                      
+```
+
+
 👉 Python built-in http server
 ```
 python3 -m http.server
@@ -98,7 +114,7 @@ python -m http.server
 
 #check ip address
 #windows use systeminfo.
-#linux use ifconfig. Then check the wlp2s0 option. The default 127.0.0.1 doesn't work.
+#linux use ifconfig. Then check the wlp2s0 option. The default local ip address 127.0.0.1 does not work.
 ```
 
 
@@ -114,6 +130,7 @@ response = requests.get("https://ipinfo.io/json", proxies=proxies)
 
 print(response.text)
 # Once it returns a json format text file with proxy ip address of your preferred country, then it successful. Use it in movie platforms, but some platforms have advanced software and techniques to identify your IP address.
+```
 ```
 
 
