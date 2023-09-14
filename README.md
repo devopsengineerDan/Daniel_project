@@ -84,8 +84,18 @@ Master's  
 
 
 👉 PYTHON SCRIPTS
+```
+Python Applications
+Youtube Script + App
+Voice recorder App
+Screen recorder App
+Zoom App
+AI Bot App
+Two players Chess App
+```
 
--> *** Python Script to Control my Lights using phue philips bulb -> https://www.youtube.com/watch?v=kSruoqDTYt0
+
+-> ***👉 Python Script to Control my Lights using phue philips bulb -> https://www.youtube.com/watch?v=kSruoqDTYt0
 
 -> Automating Scripts + (Youtube,Image, PDF merger) scripts -> https://www.youtube.com/watch?v=vEQ8CXFWLZU
 
