@@ -83,11 +83,25 @@ Master's  
 ```
 👉 PYTHON SCRIPTS
 
-Python Script to Control my Lights using phue philips bulb -> https://www.youtube.com/watch?v=kSruoqDTYt0
+-> *** Python Script to Control my Lights using phue philips bulb -> https://www.youtube.com/watch?v=kSruoqDTYt0
 
-Automating Scripts + (Youtube,Image, PDF merger) scripts -> https://www.youtube.com/watch?v=vEQ8CXFWLZU
+-> Automating Scripts + (Youtube,Image, PDF merger) scripts -> https://www.youtube.com/watch?v=vEQ8CXFWLZU
 
-Clock script -> https://www.youtube.com/watch?v=l7IMBy4_nhA
+
+👉 Python built-in http server
+```
+python3 -m http.server
+OR
+python -m http.server
+
+#check ip address
+#windows use systeminfo.
+#linux use ifconfig. Then check the wlp2s0 option. The default 127.0.0.1 doesn't work.
+
+```
+
+
+👉 Clock script -> https://www.youtube.com/watch?v=l7IMBy4_nhA
 Download and Install Ds-Digital from official website
 
 ```
