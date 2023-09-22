@@ -2707,6 +2707,10 @@ Then check if there is java, by running: (If it returns nothing java dependencie
 👉 PYTHON           (OFFICIAL)   ->     https://docs.python.org/
                                  ->     https://www.pythontutorial.net/python-oop/
 
+👉 PYTHON EXTENSIONS/PACKAGES    ->     https://www.youtube.com/watch?v=jlWhnrk8go0
+   IN RUST
+
+
 BEST PRACTICE
 
 ### 1.  Initilialize always on Project Folder. 
