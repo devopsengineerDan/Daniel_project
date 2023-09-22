@@ -2607,10 +2607,12 @@ LINUX PLATFORM
 4 Dataspell
 5 Projector (Internet)
 
-6 Pycharm & Rust plugin 
-7 Data Grip 
+6 Pycharm & Rust plugin
+7 Rustrover
+8 Data Grip 
 
-
+CLOUD-BASED DEVELOPMENT ENVIRONMENT
+Project IDX
 
 
 *Alternative for LINUX AND WINDOWS PLATFORM
@@ -2650,6 +2652,9 @@ vcpkg Windows and Linux os package manager -> RIGID and mostly for private useca
 
 
 
+
+
+
 1 BASH EXECUTION OF PYTHON IN LINUX (Here do not use pyinstaller) -> https://www.youtube.com/watch?v=vEQ8CXFWLZU
 2 DESKTOP EXECUTION OF PYTHON IN LINUX (Here do not use pyinstaller) -> https://www.youtube.com/watch?v=9CTmC5Y7QeM
 3 PYTHON INSTALLERS
@@ -2675,6 +2680,16 @@ Then check if there is java, by running: (If it returns nothing java dependencie
 
 
 ```
+👉 AI/ML/DL BEST PRACTICE
+### 1. Data ingestion, storage and transformation;
+### 2. Feature engineering;
+### 3. Training models;
+### 4. Engineering end-to-end ML systems; and,
+### 5. Automating the production of results, decisions and actions of any kind.
+```
+
+
+```
 👉 SOFTWARE ENGINEERING BEST PRACTICE
 
 ### 1. Adhere to Programming Language Standard and Style of writing code.
@@ -2686,6 +2701,7 @@ Then check if there is java, by running: (If it returns nothing java dependencie
 ### 6. Schedule more time. To avoid conflicting on deadline time.
 ### 7. High speed is best for prototyping. Low speed is best for large projects inorder to identify use-cases of design of principles and patterns on the projects for performance, reliability, scalability, adaptability, simplicity, correctness, security and upgradability.
 ```
+
 
 ```
 👉 PYTHON           (OFFICIAL)   ->     https://docs.python.org/
