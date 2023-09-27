@@ -807,11 +807,12 @@ upower -i /org/freedesktop/UPower/devices/battery_BAT0
 ```
 
 ```									
-👉 REMOVE DOT FILES/FOLDER									
+👉 REMOVE DOT FILE/FOLDER									
 rm -rf ~/.<file or folder name> (i.e)
 rm -rf ~/.ssh
 
-
+👉 REMOVE BINARY FILE
+sudo rm -rf /usr/local/bin/surreal
 ```
 
 ```
@@ -828,7 +829,15 @@ sudo apt --fix-broken install
 
 sudo apt update && sudo apt upgrade 
 ```
-									
+
+
+```									
+👉 INSTALL C SOFTWARE									
+Build ->    make
+Install ->  sudo make install
+```
+
+
 ```									
 👉 ENHANCE RESOLUTION
 
