@@ -2618,7 +2618,9 @@ LINUX PLATFORM
 
 6 Pycharm & Rust plugin
 7 Rustrover
-8 Data Grip 
+8 Datalore
+9 Data Grip
+
 
 CLOUD-BASED DEVELOPMENT ENVIRONMENT
 Project IDX
