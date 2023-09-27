@@ -2625,12 +2625,14 @@ Pycharm for micropython
 
 VSCODE PLUGINS   https://youtu.be/u21W_tfPVrY
 Git lens
-Github Copilot 
+Github Copilot
+Tabnine
 vscode live
 Pylance
 Python indent
 vscode icons
 vscode vim
+Mermaid
 Other extensions must have OFFICIAL SUPPORT
 
 
