@@ -981,47 +981,6 @@ Instructions:
 ```
 
 
-```
-👉 INSTALL VSCODE FROM OFFICIAL MICROSOFT REPOSITORY
-
-Step 1: Update the system repository
-
-Run the following command to update the system's repository and ensure you get the latest vscode version:
-
-$ sudo apt update
-
-Step 2: Install Package Dependencies
-
-For proper operation, vscode requires you to install package dependencies. Run the following command to resolve package dependencies:
-
-$ sudo apt install software-properties-common apt-transport-https wget -y
-
-Step 3: Add GPG Key
-
-Import the GPG key provided by Microsoft to verify the package integrity. Enter:
-
-$ wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
-
-Step 4: Add Repository
-
-Run the following command to add the Visual Studio Code repository to your system:
-
-$ sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
-
-Step 5: Install vscode
-
-After enabling the repository, install vscode by running:
-
-$ sudo apt install code
-
-Step 6: Verify Installation
-
-Verify vscode installation by running:
-
-$ code --version
-```
-
-
 ```							     
 👉 INCREASE SCREENCAST TIME TO 9800 SEC
 gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 9800	
@@ -1042,14 +1001,6 @@ sudo apt-get install plank
 BHere’s how my screen looks after applying these steps.efore you use Plank, you should remove the default dock by right-clicking in it and under Panel Settings, clicking on delete.
 Once done, go to Accessory > Plank to launch Plank dock.
 ```
-
-```
-👉 GOOGLE-CHROME INSTALLATION ON DEBIAN DISTRIBUTION
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-sudo apt install ./google-chrome-stable_current_amd64.deb
-sudo apt install google-chrome-stable
-```
-
 
 
 ```							     
@@ -2723,8 +2674,6 @@ Modern -> Inno Setup(Setup is compiled with all the dependencies required, hence
 
 
 
-
-
 REMOVE JAVA, DOCKER, KUBERNETES COMPLETELY
 For java:
 sudo apt remove default-jre
@@ -2734,6 +2683,7 @@ Then check if there is java, by running: (If it returns nothing java dependencie
 ```
 
 
+
 ```
 👉 AI/ML/DL BEST PRACTICE
 ### 1. Data ingestion, storage and transformation;
@@ -2741,6 +2691,55 @@ Then check if there is java, by running: (If it returns nothing java dependencie
 ### 3. Training models;
 ### 4. Engineering end-to-end ML systems; and,
 ### 5. Automating the production of results, decisions and actions of any kind.
+```
+
+
+```
+👉 GOOGLE-CHROME INSTALLATION ON DEBIAN DISTRIBUTION
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb
+sudo apt install google-chrome-stable
+```
+
+
+```
+👉 INSTALL VSCODE FROM OFFICIAL MICROSOFT REPOSITORY
+
+Step 1: Update the system repository
+
+Run the following command to update the system's repository and ensure you get the latest vscode version:
+
+$ sudo apt update
+
+Step 2: Install Package Dependencies
+
+For proper operation, vscode requires you to install package dependencies. Run the following command to resolve package dependencies:
+
+$ sudo apt install software-properties-common apt-transport-https wget -y
+
+Step 3: Add GPG Key
+
+Import the GPG key provided by Microsoft to verify the package integrity. Enter:
+
+$ wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
+
+Step 4: Add Repository
+
+Run the following command to add the Visual Studio Code repository to your system:
+
+$ sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
+
+Step 5: Install vscode
+
+After enabling the repository, install vscode by running:
+
+$ sudo apt install code
+
+Step 6: Verify Installation
+
+Verify vscode installation by running:
+
+$ code --version
 ```
 
 
