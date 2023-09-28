@@ -979,7 +979,49 @@ Instructions:
 
     Reboot your system
 ```
-							     
+
+
+```
+👉 INSTALL VSCODE FROM OFFICIAL MICROSOFT REPOSITORY
+
+Step 1: Update the system repository
+
+Run the following command to update the system's repository and ensure you get the latest vscode version:
+
+$ sudo apt update
+
+Step 2: Install Package Dependencies
+
+For proper operation, vscode requires you to install package dependencies. Run the following command to resolve package dependencies:
+
+$ sudo apt install software-properties-common apt-transport-https wget -y
+
+Step 3: Add GPG Key
+
+Import the GPG key provided by Microsoft to verify the package integrity. Enter:
+
+$ wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
+
+Step 4: Add Repository
+
+Run the following command to add the Visual Studio Code repository to your system:
+
+$ sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
+
+Step 5: Install vscode
+
+After enabling the repository, install vscode by running:
+
+$ sudo apt install code
+
+Step 6: Verify Installation
+
+Verify vscode installation by running:
+
+$ code --version
+```
+
+
 ```							     
 👉 INCREASE SCREENCAST TIME TO 9800 SEC
 gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 9800	
@@ -4958,9 +5000,8 @@ $ source ~/.bashrc
 $ conda list
 $ conda --version
 
-*************************DO NOT INSTALL MICROSOFT VS CODE*****************				
-$ sudo dpkg --remove code        For Microsoft
-
+***-> Install Pytorch from official website and be specific on hardware for optimised performance
+***-> Install Xgboost from official website and be specific on hardware for optimised performance
 +++++++++++++++++++++
 $ cd ~
 cd anaconda3/
@@ -4970,6 +5011,9 @@ conda update conda
 conda deactivate
 				
 +++++++++++++++++++++
+
+
+
 SET UP JUPYTER NOTEBOOK 
 conda install -c anaconda ipykernel
 
