@@ -2616,7 +2616,7 @@ LINUX PLATFORM
 4 Dataspell
 5 Projector (Internet)
 
-6 Pycharm & Rust plugin
+6 Pycharm -> Rust and Micropython plugin
 7 Rustrover
 8 Datalore
 9 Data Grip
@@ -2629,7 +2629,6 @@ Project IDX
 *Alternative for LINUX AND WINDOWS PLATFORM
 Anaconda
 VScode
-Pycharm for micropython
 
 
 
@@ -2639,6 +2638,7 @@ Git lens
 Github Copilot
 Tabnine
 vscode live
+Pylint
 Pylance
 Python indent
 vscode icons
