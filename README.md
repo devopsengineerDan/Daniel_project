@@ -798,6 +798,7 @@ Tax Accountants(policies+best practices)
 Shell companies(ownership) to avoid damage on you                                                                  
 ```
 
+
 # SYSTEM UI, INPUT&&OUTPUT AND PROCESSORS
 
 	 
@@ -2746,7 +2747,7 @@ $ code --version
 ```
 👉 SOFTWARE ENGINEERING BEST PRACTICE
 
-### 1. Adhere to Programming Language Standard and Style of writing code.
+### 1. Adhere to Programming Language Standard library and Style of writing code.
 ### 2. Adhere to Software Design Principles and Patterns.
 ### 3. Naming of variables, functions, classes and modules should be explicit.
 ### 4. In python have __init__.py in folder containing app.
@@ -2765,7 +2766,8 @@ $ code --version
    IN RUST
 
 
-BEST PRACTICE
+BEST PRACTICE + (autopep8, flake8, mypy)
+.gitignore(*.egg-info, *.pyc, .coverage, .tox, /venv*, coverage-html, dist)
 
 ### 1.  Initilialize always on Project Folder. 
 ### 2.  Always have a runtime.txt with version (e.g) python 3.8.6 for backward compatibility with python interpreter. 
@@ -2780,6 +2782,17 @@ BEST PRACTICE
 ### 8.  Write explicit code for readability and scalability.
 ### 9.  Use Data Structures correctly for high performance and memory utilisation.
 ### 10. For engineering best practice use standard documentation,libraries and well established and supported frameworks.
+
+SPEED UP PYTHON EXECUTION ON INTERPRETER
+### 1. Reduce number of times you are using mutability of variables unless during prototyping before the scope is clearly defined. Example of mutable types: list, set, dictionary.
+### 2. Use of type notations (i.e) mypy.
+### 3. Use of pydantic model in API.
+### 4. Use of struct.
+
+SPEED UP PYTHON EXECUTION ON COMPILER
+### 1. The above four points.
+### 2. Use of let immut and let mut in ownership and borrowing.
+### 3. Use of fn when performing function overloading, function overiding and using macros.
 ```
 
 
@@ -2788,7 +2801,7 @@ BEST PRACTICE
 👉 RUST             (OFFICIAL)   ->       https://www.rust-lang.org/learn
  			         ->	  https://education.web3.foundation/docs/introrust
 
-BEST PRACTICE
+BEST PRACTICE + (clippy)
 
 ### 1. Rust simplicity and reduction of complexity.
 ### 2. Rust unsafe{} keyword for performance tuning in hardware. PERFORMANCE_USECASE(Code must be secure & Adhere to Standard Guidelines of unsafe principles) COMPILER CHECKS-> Must be checked by Software Engineer during Software Review and Testing.
@@ -2806,6 +2819,7 @@ BEST PRACTICE
 
 
 BEST PRACTICE Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE 
++(gcc -c -x c -std=c89 -pedantic -pedantic-errors -Wall -Wextra -Wno-comment -Wno-parentheses -Wno-format-zero-length test.c
 
 ### 1A. Simple control flow (e.g) a function should be limited to only one task to ensure readability and should not exceed the size of a page.
 ### 1B. Also do not use goto, setjmp, longjmp statements and recursion which is a fuction that calls onto itself which results to difficult to understand and follow cyclic control flow crafts and run away code which can crush.
@@ -2889,7 +2903,7 @@ Error Code	Meaning
 
 
 ```
-👉 DESIGN PATTERNS FOR SOFTWARE ENGINEERS
+👉 DESIGN PATTERNS AND PRINCIPLES FOR SOFTWARE ENGINEERS
 
 DESIGN PATTERNS -> https://www.youtube.com/watch?v=FLmBqI3IKMA
 1 Observer                                   
@@ -2907,8 +2921,10 @@ DESIGN PATTERNS -> https://www.youtube.com/watch?v=FLmBqI3IKMA
                               4 Senior software engineer                         5 Junior software engineer
 -----------------------------------------------------------------------------------------------------------------------------
 
+CREATIONAL -> singleton, prototype, builder, factory
+STRUCTURAL -> facade, proxy
+BEHAVIOURAL -> observer, iterator, mediator, state
 
-Design Patterns Cheat Sheet
 
 Here’s a quick cheat sheet for lots of design patterns. The examples in this post are linked to Java examples however they are not limited to a single language implementation. Special thanks to Derek Banas.
 
@@ -2960,7 +2976,7 @@ Here’s a quick cheat sheet for lots of design patterns. The examples in this p
 
 
  ```                                          
-👉 SOLID Design Principle -->> Check my notes
+👉 SOLID DESIGN PRINCIPLES -->> Check my notes
 
 What is SOLID Design
 
@@ -7168,6 +7184,16 @@ When you finish, move on to the second step.
 3) Expand Biometric devices. Right-click the fingerprint sensor device that you have and click Uninstall.
 4) You can choose to reboot your computer for Windows to help you locate the driver that it could find for your device or, you can choose to update the driver by yourself.
 ```
+
+
+```
+👉 DRIVING
+
+AVOID OVERTAKING -> Hill, Barriers, Blind corner
+SIDE MIRROR -> Junction, Round-about, Entry/Exit way
+GO SLOW -> Pedestrian-crossing + Bumps, Bridge, Parking
+```
+
 
 👉 The following are further optimization settings that can be figured once your BIOS is modded.
 
