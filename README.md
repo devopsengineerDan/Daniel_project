@@ -2851,13 +2851,6 @@ BEST PRACTICE Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE
 
 
 ```
-👉 WEB
-WEB1- Read
-wEB2- Read and Write
-WEB3- Read, Write and Ownership => AI, Blockchain, IOT =>Distributed System and Database
-```
-
-```
 👉 APIS BEST PRACTICE
 
 🎯 Secure your API with these 16 Practices
@@ -2899,6 +2892,22 @@ Error Code	Meaning
 Error Code	Meaning
 500	Internal Server Error – We had a problem with our server. Try again later.
 503	Service Unavailable – We’re temporarily offline for maintenance. Please try again later.
+```
+
+
+```
+👉 WEB
+WEB1- Read
+wEB2- Read and Write
+WEB3- Read, Write and Ownership => AI, Blockchain, IOT =>Distributed System and Database
+```
+
+
+👉 Deployment templates for common use-cases:
+```
+batch scoring data -> https://github.com/devopsengineerDan/python-bodywork-batch-job-project
+deploying a prediction service with a REST API -> https://github.com/devopsengineerDan/python-bodywork-serve-model-project
+scheduling a continuous-training pipeline -> https://github.com/devopsengineerDan/python-bodywork-ml-pipeline-project
 ```
 
 
@@ -5844,8 +5853,6 @@ Feature subset of X, shape={n_samples, k_features}
  ```
 
 
-
-
 👉 OTHER TECHNIQUES 
 ```
 List of Techniques
@@ -6140,7 +6147,9 @@ Conclusion
 Image for post
 ```
 
-Stock Price Prediction – Machine Learning Project in Python
+
+
+👉 Stock Price Prediction – Machine Learning Project in Python
 ```
 Stock Price Machine learning has significant applications in the stock price prediction. In this machine learning project, we will be talking about predicting the returns on stocks. This is a very complex task and has uncertainties. We will develop this project into two parts:
 
