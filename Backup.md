@@ -2764,6 +2764,40 @@ $ code --version
 
 
 ```
+👉 PYTHON TOPICS
+PYTHON (INTERPRETER) DATA STRUCTURES
+IMMUTABLE
+-Tuple -> Less memory space than list, has less functionalities.
+-Set -> Disorderly arrangment, Different data types.
+MUTABLE
+-List -> Orderly arrangement, Same type. More memory space than tuple, has more functionalities.
+- Dictionary
+ADVANCE PYTHON (INTERPRETER) CONCEPTS
+OOP Fundamentals
+File Handling
+setup.py -> Use toml file
+Dictionary
+Generator
+Metaclass (Knowledge assists you in developing framework i.e django ORM and flask SQL Alchemy, factory pattern, singleton)-> https://www.youtube.com/watch?v=uLPnBaUhjKU
+Macro
+
+FASTAPI CRASH COURSE ->https://www.youtube.com/watch?v=62pP9pfzNRs
+```
+
+
+```
+👉 RUST TOPICS
+RUST CHEATSHEET
+```
+
+
+```
+👉 C TOPICS
+C1.png
+```
+
+
+```
 👉 PYTHON           (OFFICIAL)   ->     https://docs.python.org/
                                  ->     https://www.pythontutorial.net/python-oop/
 
