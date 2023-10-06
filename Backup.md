@@ -836,6 +836,7 @@ sudo apt update && sudo apt upgrade
 👉 INSTALL C SOFTWARE									
 Build ->    make
 Install ->  sudo make install
+            sudo apt-get -y install cmake 
 ```
 
 
@@ -2641,8 +2642,9 @@ Python indent
 vscode icons
 vscode vim
 Mermaid
-Other extensions must have OFFICIAL SUPPORT
 
+-> Other extensions must have OFFICIAL SUPPORT
+-> Exception for Rust language(rust-analyzer, CodeLLDB, Even Better TOML, crates)
 
 
 
