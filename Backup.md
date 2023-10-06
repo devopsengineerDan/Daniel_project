@@ -2080,6 +2080,9 @@ https://lnkd.in/gc5p5Jss
 👉 LINUX OPERATING SYSTEM
 
 ```
+👉 TAILS LINUX INSTALLATION -> https://www.youtube.com/watch?v=gO9fTnMxwYw
+```
+```
 👉 CHECK SYSTEM INFO
 lscpu
 ```
