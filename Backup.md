@@ -2170,6 +2170,8 @@ DAVID BOMBAL -> (Detailed) https://www.youtube.com/watch?v=J8A8rKFZW-M
 ```
 👉 CYBERSECURITY GUIDE
 OWASP CHEETSHEET -> https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
+MIT NETWORK SECURITY -> https://www.youtube.com/watch?v=QOtA76ga_fY&list=PLBMO3ORTdwldCqlHVcbJSOa3GxLS6bpeE
+MIT DYNAMIC PROGRAMMING -> https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLZES21J5RvsHOeSW9Vrvo0EEc2juNe3tX
 ```
 
 
