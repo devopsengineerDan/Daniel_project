@@ -1294,31 +1294,43 @@ https://medium.com/@adinika.15/installing-active-directory-on-windows-server-201
 
 
 # SYSTEM
-			
+
+```			
 sudo passwd root -Change password for root
- 
-RECONFIGURE BROKEN DEPENDENCIES
+```
+
+
+```
+👉 RECONFIGURE BROKEN DEPENDENCIES
 sudo dpkg --configure -a
-				
-				
-DELETE OLD DEPENDENCIES AND FILES
+```				
+
+
+```
+👉 DELETE OLD DEPENDENCIES AND FILES
 sudo apt-get autoremove
 sudo apt-get autoclean				
 OR BEST ALTERNATIVE Check FILE HISTORY on Settings and Clear (File History, Trash and Temporary Files)				
-				
-(PHONE)TERMUX
+```
+
+
+```
+👉 (PHONE)TERMUX
 
 pkg install lynx
 termux-setup-storage
+```
 
-Install Genymotion (ANDROID EMULATOR)
+
+```
+👉 Install Genymotion (ANDROID EMULATOR)
 sudo apt update
 sudo apt install virtualbox
 Download Genymotion from the official website of Genymotion 
 ls -l ~/Downloads/
 chmod +x ~/Downloads/genymotion-3.0.2-linux_x64.bin
 sudo ~/Downloads/genymotion-3.0.2-linux_x64.bin
-
+```
 				
 
 ```
@@ -1412,14 +1424,15 @@ sudo apt install xubuntu-desktop
 ```
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-VIRTUAL BOX
+
 
 MINIKUBE username: “docker“, password: “tcuser“
- 
-RAM 9096
-STORAGE 200.00GB
-Select iso from Storage on Right-Bottom Menu 
- 
+
+
+# VIRTUALIZATION 
+```
+👉 VIRTUALBOX INSTALLATION
+
 INSTALL VIRTUALBOX IN UBUNTU
 sudo apt install virtualbox
 
@@ -1458,7 +1471,7 @@ sudo apt install --reinstall linux-headers-$(uname -r) virtualbox-dkms dkms
 Then reboot your system and after reboot run this command:
 
 sudo modprobe vboxdrv
-
+```
 				
 				
 				
@@ -1535,6 +1548,12 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 								
 ```
 👉 VIRTUALBOX CONFIGURATIONS
+
+RAM 9096
+STORAGE 200.00GB
+Select iso from Storage on Right-Bottom Menu 
+
+-------------------------------------------------------------------
 			
 LINUX OR WINDOWS Depending on Guest or Host				
 				
@@ -2127,472 +2146,6 @@ https://lnkd.in/gc5p5Jss
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-👉 LINUX OPERATING SYSTEM
-
-```
-👉 TAILS LINUX INSTALLATION -> https://www.youtube.com/watch?v=gO9fTnMxwYw
-```
-
-
-
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-(PC)
-			
-Set flash sudo users
-
-sudo adduser dan vboxusers
-
--------------------------------------------
-Set up ssh And Port Forwarding 
-HOST AND GUEST VIRTUAL MACHINE-> https://www.simplified.guide/virtualbox/port-forwarding (CHECK WINDOWS DOC FILE)
-GUEST VIRTUAL MACHINES **BRIDGED**-> https://www.golinuxcloud.com/ssh-into-virtualbox-vm/ (CHECK WINDOWS DOC FILE)		
-
-Name	  Protocol	Host IP	        Host Port     Guest IP	       Guest Port
-Ubuntu	  TCP     	127.0.0.1	8022	      10.0.2.15	       22
-
-
-1)Assigning static ip address to the localhost network
-(((    ifconfig OR ip a    )))
-sudo ifconfig enp9s0 192.168.92.5 netmask 255.255.0.0
-  OR  sudo ifconfig eth0 192.168.92.5 netmask 255.255.0.0
-
-
-sudo route add default gw 192.168.92.1 enp9s0
-  OR  sudo route add default gw 192.168.92.1 eth0
-ping 192.168.92.5
-
-
-2)Setup ssh on virtual machine
-sudo apt install openssh-server
-service ssh status
-sudo systemctl status ssh
-sudo systemctl enable --now ssh
-sudo ufw allow ssh
-
-********************************************************************************************************************************
-3)Virtual machine terminal configure the following:
-++++++++++++++++++++++++++++
-sudo nano /etc/network/interfaces
-
-EDIT THIS FILE
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-#This file describes the network interfaces availableon your system and how to activate them....
-source /etc/network/interfaces.d/*
-
-#The loopback network interface
-auto lo
-iface lo inet loopback
-
-auto eth1 
-iface eth1 inet static
-	address 192.168.92.10
-	netmask 255.255.255.0
-	broadcast 192.168.92.255
-	network 192.168.92.0
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-
-sudo nano /etc/ssh/ssh_config
-sudo nano /etc/ssh/sshd_config
-********************************************************************************************************************************
-
-4)In localhost machine
-sudo apt install openssh-client
-sudo systemctl start ssh
-sudo adduser pentester
-sudo adduser pentester sudo
-sudo service sshd status
-sudo service ssh status
-++++++++++++++++++++++++++
-5)Performing ssh while on localhost machine
-systemctl enable ssh.service
-service ssh start
-
-Performing ssh
-
-ssh pentester@127.0.0.1
-
-       0R   USING PASSWORD
-sudo ssh pentester@127.0.0.1 -p 2000
-
-sudo service ssh status
-
-       OR   USING KEYS
-ssh-keygen
-cat ~/.ssh/id_rsa.pub | ssh pentester@127.0.0.1 -p 2000 "mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat >> ~/.ssh/authorized_keys"
-ssh pentester@127.0.0.1 -p 2000
-
-
-
-sudo systemctl stop ssh
-
-
-++++++++++++++++++++++++++
-loginctl list-sessions 
-loginctl terminate-session 
-++++++++++++++++++++++++++
-
-sudo systemctl disable ssh
-.................................................................................................................................................................
-
-UPGRADING TO FEDORA HIGHER VERSION e.g 34
-
-sudo dnf upgrade --refresh
-sudo dnf install dnf-plugin-system-upgrade
-sudo dnf system-upgrade download --releasever=34
-sudo dnf system-upgrade reboot
-sudo dnf system-upgrade clean
-sudo dnf clean packages
-
-                                        
-UPGRADING TO UBUNTU HIGHER VERSION
-
-
-sudo apt update && sudo apt upgrade
-sudo reboot 
-
-sudo apt --purge autoremove  ->Remove old unused kernels
-
-
-sudo apt install update-manager-core
-sudo do-release-upgrade
-sudo do-release-upgrade -d   ->Pass the -d option to get the latest supported release forcefully
-sudo reboot
-
-lsb_release -a
-
-
-Verify Linux kernel version and other log files
-tail -f /var/log/my-app.log
-uname -mrs
-
-----------------------------------------------------
-
-(OFFICIAL) Gnome 40 Desktop on ubuntu 20
-Install the devacom/gnome-40 and devacom/x11 repositories to fix gnome-shell dependencies:
-
-sudo add-apt-repository ppa:devacom/gnome-40
-sudo add-apt-repository ppa:devacom/x11
-sudo apt-get update
-sudo apt-get upgrade
-
-Install gnome-shell before the upgrade (fix desktop will not load):
-
-sudo apt install ubuntu-desktop gnome-shell gnome-control-center
-
-(UNOFFICIAL) Gnome 40 Desktop on ubuntu 20
-sudo add-apt-repository ppa:shemgp/gnome-40
-sudo apt install mutter
-sudo apt install gnome-shell
-sudo apt install gnome-session
-sudo apt upgrade
-
-
-----------------------------------------------------
-
-REMOVE OLD UBUNTUUPDATEFILES FROM /boot
-
-sudo apt-get-clean
-
-First, get the name of the kernel the system is currently running by using uname like this:
-
-----------------------------------------------------
-ARCH
-REMOVING OLD KERNELS
-
-pacman -Ql pacman-contrib | awk -F"[/ ]" '/\/usr\/bin/ {print $NF}'
-sudo pacman purge linux-image-5.3.0-18-generic
-sudo pacman autoremove
-
-RETAINING LTS STABLE VERSIION
-sudo nano /etc/pacman.conf
-....Then edit the file....
-IgnorePkg = linux
-sudo pacman -Syu
-uname -r
-
-----------------------------------------------------
-DEBIAN
-REMOVING OLD KERNELS
-
-uname -sr
-dpkg -l | grep linux-image | awk '{print$2}'
-sudo apt-get purge linux-image-5.3.0-18-generic
-sudo apt autoremove
-sudo journalctl --vacuum-time=3d
-
------------------------------------------------
-FEDORA
-REMOVING OLD KERNELS
-
-rpm -qa kernel\* |sort -V
-## dnf repoquery set negative --latest-limit ##
-## as how many old kernels you want keep ##
-sudo dnf remove $(dnf repoquery --installonly --latest-limit=-2 -q)
-##Make Amount of Installed Kernels Permanent on Fedora## 
-installonly_limit=2
-
-
----------------------------------------------------
-FEDORA GRUB INSTALL ???? COMPLEX ????
-
-sudo dnf reinstall grub2-efi-x64 shim-x64
-sudo grub2-mkconfig -o /boot/efi/EFI/fedora/grub.cfg
-
---------------------------------------------------
-
-
-Or if you use aptitude use this variant of the command:
-
-sudo aptitude purge linux-image-x.x.x.1-generic
-
-
-Make a note of that because that is the name of the current active kernel you donât want to remove. Now knowing that, we need to figure out what the otherâextraneousâkernels are
-
---------------------------------------------------
-
-CREATING SWAP  AFTER LINUX INSTALLATION
-
-In case you don't want or you're not sure how to create a swap partition, you can create a swap file which will work in the same way as partition. Here are the steps (using terminal):
-
-Create an empty file (1K * 4M = 4 GiB).
-
-sudo mkdir -v /var/cache/swap
-cd /var/cache/swap
-sudo dd if=/dev/zero of=swapfile bs=1K count=4M
-sudo chmod 600 swapfile
-Convert newly created file into a swap space file.
-
-sudo mkswap swapfile
-Enable file for paging and swapping.
-
-sudo swapon swapfile
-Verify by: swapon -s or top:
-
-top -bn1 | grep -i swap
-Should display line like: KiB Swap:  4194300 total,  4194300 free
-
-To disable, use sudo swapoff swapfile command.
-
-Add it into fstab file to make it persistent on the next system boot.
-
-echo "/var/cache/swap/swapfile none swap sw 0 0" | sudo tee -a /etc/fstab
-Re-test swap file on startup by:
-
-sudo swapoff swapfile
-sudo swapon -va
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-FIREWALL CONFIGURATION 
-
-ARCH FIREWALL SETUP
-sudo pacman -S ufw
-sudo ufw enable
-sudo ufw status verbose
-sudo systemctl enable ufw.service
-
-FEDORA FIREWALL SETUP
-Installing firewalld
-Install firewalld:
-Run this command on the command line:
-
-sudo dnf install firewalld
-Starting firewalld
-Start firewalld, by entering the following commands:
-
-$ sudo systemctl unmask firewalld
-$ sudo systemctl start firewalld
-To make firewalld start automatically at system start:
-
-$ sudo systemctl enable firewalld
-Stopping firewalld
-To stop firewalld, enter the following command as root:
-
-$ sudo systemctl stop firewalld
-Prevent firewalld from starting automatically at system start, enter the following command as root:
-
-$ sudo systemctl disable firewalld
-Make sure firewalld is not started by accessing the firewalld D-Bus interface and also if other services require firewalld, enter the following command as root:
-
-$ sudo systemctl mask firewalld
-
-
-DEBIAN 10 FIREWALL SETUP
-
-Step 1  Installing UFW7
-Debian does not install UFW by default. If you followed the entire Initial Server Setup tutorial, you will have installed and enabled UFW. If not, install it now using apt:
-
-sudo apt install ufw
-We will set up UFW and enable it in the following steps.
-
-Step 2  Using IPv6 with UFW (Optional)
-This tutorial is written with IPv4 in mind, but will work for IPv6 as long as you enable it. If your Debian server has IPv6 enabled, you will want to ensure that UFW is configured to support IPv6; this will ensure that UFW will manage firewall rules for IPv6 in addition to IPv4. To configure this, open the UFW configuration file /etc/default/ufw with nano or your favorite editor:
-
-sudo nano /etc/default/ufw
-Then make sure the value of IPV6 is yes. It should look like this:
-
-/etc/default/ufw excerpt
-IPV6=yes
-Save and close the file. Now when UFW is enabled, it will be configured to write both IPv4 and IPv6 firewall rules. Before enabling UFW, however, you will want to ensure that your firewall is configured to allow you to connect via SSH. Lets start with setting the default policies.
-
-Step 3  Setting Up Default Policies
-If youre just getting started with your firewall, the first rules to define are your default policies. These rules handle traffic that does not explicitly match any other rules. By default, UFW is set to deny all incoming connections and allow all outgoing connections. This means anyone trying to reach your server would not be able to connect, while any application within the server would be able to reach the outside world.
-
-Lets set your UFW rules back to the defaults so we can be sure that youll be able to follow along with this tutorial. To set the defaults used by UFW, use these commands:
-
-sudo ufw default deny incoming
-sudo ufw default allow outgoing
-These commands set the defaults to deny incoming and allow outgoing connections. These firewall defaults alone might suffice for a personal computer, but servers typically need to respond to incoming requests from outside users. Well look into that next.
-
-Step 4  Allowing SSH Connections
-If we enabled our UFW firewall now, it would deny all incoming connections. This means that we will need to create rules that explicitly allow legitimate incoming connections  SSH or HTTP connections, for example  if we want our server to respond to those types of requests. If youre using a cloud server, you will probably want to allow incoming SSH connections so you can connect to and manage your server.
-
-To configure your server to allow incoming SSH connections, you can use this command:
-
-sudo ufw allow ssh
-This will create firewall rules that will allow all connections on port 22, which is the port that the SSH daemon listens on by default. UFW knows what port allow ssh means because its listed as a service in the /etc/services file.
-
-However, we can actually write the equivalent rule by specifying the port instead of the service name. For example, this command produces the same result as the one above:
-
-sudo ufw allow 22
-If you configured your SSH daemon to use a different port, you will have to specify the appropriate port. For example, if your SSH server is listening on port 2222, you can use this command to allow connections on that port:
-
-sudo ufw allow 2222
-Now that your firewall is configured to allow incoming SSH connections, you can enable it.
-
-Step 5  Enabling UFW
-To enable UFW, use this command:
-
-sudo ufw enable
-You will receive a warning that says the command may disrupt existing SSH connections. We already set up a firewall rule that allows SSH connections, so it should be fine to continue. Respond to the prompt with y and hit ENTER.
-
-The firewall is now active. Run the sudo ufw status verbose command to see the rules that you have set. The rest of this tutorial covers how to use UFW in more detail, including allowing and denying different types of connections.
-
-Step 6  Allowing Other Connections
-At this point, you should allow all of the other connections that your server needs to function properly. The connections that you should allow depend on your specific needs. Luckily, you already know how to write rules that allow connections based on a service name or port; we already did this for SSH on port 22. You can also do this for:
-
-HTTP on port 80, which is what unencrypted web servers use. To allow this type of traffic, you would type sudo ufw allow http or sudo ufw allow 80.
-HTTPS on port 443, which is what encrypted web servers use. To allow this type of traffic, you would type sudo ufw allow https or sudo ufw allow 443.
-There are other ways to allow connections, however, aside from specifying a port or known service. We will discuss those next.
-
-Specific Port Ranges
-You can specify port ranges with UFW. For example, some applications use multiple ports instead of a single port.
-
-For example, to allow X11 connections, which use ports 6000-6007, use these commands:
-
-sudo ufw allow 6000:6007/tcp
-sudo ufw allow 6000:6007/udp
-When specifying port ranges with UFW, you must specify the protocol (tcp or udp) that the rules should apply to. We havent mentioned this before because not specifying the protocol automatically allows both protocols, which is OK in most cases.
-
-Specific IP Addresses
-When working with UFW, you can also specify IP addresses. For example, if you want to allow connections from a specific IP address, such as a work or home IP address of 203.0.113.4, you need to specify from and then the IP address:
-
-sudo ufw allow from 203.0.113.4
-You can also specify a specific port that the IP address is allowed to connect to by adding to any port followed by the port number. For example, if you want to allow 203.0.113.4 to connect to port 22 (SSH), use this command:
-
-sudo ufw allow from 203.0.113.4 to any port 22
-Subnets
-If you want to allow a subnet of IP addresses, you can do so using CIDR notation to specify a netmask. For example, if you want to allow all of the IP addresses ranging from 203.0.113.1 to 203.0.113.254 you can use this command:
-
-sudo ufw allow from 203.0.113.0/24
-Likewise, you may also specify the destination port that the subnet 203.0.113.0/24 is allowed to connect to. Again, well use port 22 (SSH) as an example:
-
-sudo ufw allow from 203.0.113.0/24 to any port 22
-Connections to a Specific Network Interface
-If you want to create a firewall rule that only applies to a specific network interface, you can do so by specifying allow in on, followed by the name of the network interface.
-
-You may want to look up your network interfaces before continuing. To do so, use this command:
-
-ip addr
-Output
-2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state
-. . .
-3: eth1: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default
-. . .
-The highlighted output indicates the network interface names. They are typically named something like eth0 or enp3s2.
-
-If your server has a public network interface called eth0, for example, you could allow HTTP traffic to it with this command:
-
-sudo ufw allow in on eth0 to any port 80
-Doing so would allow your server to receive HTTP requests from the public internet.
-
-Or, if you want your MySQL database server (port 3306) to listen for connections on the private network interface eth1, you could use this command:
-
-sudo ufw allow in on eth1 to any port 3306
-This would allow other servers on your private network to connect to your MySQL database.
-
-Step 7  Denying Connections
-If you havent changed the default policy for incoming connections, UFW is configured to deny all incoming connections. Generally, this simplifies the process of creating a secure firewall policy by requiring you to create rules that explicitly allow specific ports and IP addresses through.
-
-Sometimes you will want to deny specific connections based on the source IP address or subnet, however, perhaps because you know that your server is being attacked from there. Also, if you want to change your default incoming policy to allow (which is not recommended), you would need to create deny rules for any services or IP addresses that you dont want to allow connections for.
-
-To write deny rules, you can use the commands described above, replacing allow with deny.
-
-For example, to deny HTTP connections, you could use this command:
-
-sudo ufw deny http
-Or if you want to deny all connections from 203.0.113.4 you could use this command:
-
-sudo ufw deny from 203.0.113.4
-Now lets take a look at how to delete rules.
-
-Step 8  Deleting Rules
-Knowing how to delete firewall rules is just as important as knowing how to create them. There are two ways to specify which rules to delete: by the rule number or by the rule itself. This is similar to how the rules were specified when they were created. Well start by explaining the delete by rule number method.
-
-By Rule Number
-If youre using the rule number to delete firewall rules, the first thing youll want to do is get a list of your firewall rules. The UFW status command has the numbered option, which displays numbers next to each rule:
-
-sudo ufw status numbered
-Output
-Status: active
-
-     To                         Action      From
-     --                         ------      ----
-[ 1] 22                         ALLOW IN    15.15.15.0/24
-[ 2] 80                         ALLOW IN    Anywhere
-If we decide that we want to delete rule 2, which allows HTTP connections on port 80, we can specify this in the following UFW delete command:
-
-sudo ufw delete 2
-This will show a confirmation prompt, which you can answer with y/n. Typing y will then delete rule 2. Note that if you have IPv6 enabled, you will want to delete the corresponding IPv6 rule as well.
-
-By Actual Rule
-The alternative to rule numbers is to specify the actual rule to delete. For example, if you want to remove the allow http rule, you could write it like this:
-
-sudo ufw delete allow http
-You can also specify the rule with allow 80 instead of the service name:
-
-sudo ufw delete allow 80
-This method will delete both IPv4 and IPv6 rules, if they exist.
-
-Step 9  Checking UFW Status and Rules
-At any time, you can check the status of UFW with this command:
-
-sudo ufw status verbose
-If UFW is disabled, which is the default, youll see something like this:
-
-Output
-Status: inactive
-If UFW is active, which it should be if you followed Step 3, the output will say that its active and will list any rules that you have set. For example, if the firewall is set to allow SSH (port 22) connections from anywhere, the output might look something like this:
-
-Output
-Status: active
-
-To                         Action      From
---                         ------      ----
-22/tcp                     ALLOW IN    Anywhere
-Use the status command if you want to check how UFW has configured the firewall.
-
-Step 10  Disabling or Resetting UFW (optional)
-If you decide you dont want to use UFW, you can disable it with this command:
-
-sudo ufw disable
-Any rules that you created with UFW will no longer be active. You can always run sudo ufw enable if you need to activate it later.
-
-If you already have UFW rules configured but you decide that you want to start over, you can use the reset command:
-
-sudo ufw reset
-This will disable UFW and delete any rules that you have previously defined. Keep in mind that the default policies wont change to their original settings if you modified them at any point. This should give you a fresh start with UFW.
 
 
 
@@ -2602,21 +2155,35 @@ This will disable UFW and delete any rules that you have previously defined. Kee
 ===============================================================================================================================================
 
 # CYBER SECURITY
-NULLBYTE -> Automated
-DAVID BOMBAL -> Detailed
+NULLBYTE -> (Automated) https://www.youtube.com/watch?v=qpnpI_mF3Aw
+DAVID BOMBAL -> (Detailed) https://www.youtube.com/watch?v=J8A8rKFZW-M
 		
 
 
 ===============================================================================================================================================
-        
+# COMPUTERSCIENCE GUIDE  
+
+1. EDUREKA
+2. free code camp
+3. LINKS
+   
 ```
-👉 CYBERSECURITY
+👉 CYBERSECURITY GUIDE
 OWASP CHEETSHEET -> https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
 ```
 
+
+```
+👉 DATA STRUCTURE AND ALGORITHM GUIDE
+LEETCODE -> https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide
+
+```
+
+
 ```
 👉 DISTRIBUTED SYSTEM GUIDE
- Operating  Systems -> https://youtube.com/channel/UCnhpOONF1c1FtipDF8LPdqQ
+Operating  Systems -> https://youtube.com/channel/UCnhpOONF1c1FtipDF8LPdqQ
+Distributed  Systems
 ```                 
 
     
