@@ -87,17 +87,21 @@ Master's  
 
 ```
 👉 Python Applications
-Youtube Script + GUI App
+------------------------------------------------------
+Run Youtube Script 
+RUN PYINSTALLER ...
 GUI Voice recorder App
-GUI Screen recorder App
-GUI Zoom App
-GUI AI ASSISTANT Bot App
+GUI AI Assistant Bot App
+GUI Motion Detection App
 GUI Two players Chess App
 GUI Clock App
+------------------------------------------------------
 
-TCP + Encrypted Messaging
-UDP + Encrypted Messaging
-NGROK CONNECTION OF BOTH TCP & UDP
+RUN NGROK ... 
+GUI Zoom App 
+TCP + Encrypted Messaging + file
+UDP + Encrypted Messaging + file
+------------------------------------------------------
 ```
 
 
@@ -282,9 +286,27 @@ Plagerism_checker(file_1, file_2)
 This is another simple automation script to download Youtube videos. Now you don’t need any web app or software, just use the below code to download any video. 
 
 ### pip install pytube
+```
+Besy way
 
+from pytube import YouTube
+from sys import argv
+
+link = argv[1]
+yt = YouTube(link)
+
+print("Title: ", yt.title)
+
+print("Views: ", yt.views)
+
+yd = yt.streams.get_highest_resolution()
+
+# Add a folder here
+yd.download('s/YouTubeDownloadFolder')
+```
 ```
 1st way
+
 from pytube import Youtube
 #Insert video URL
 yt_video = YouTube("<video link>")
@@ -296,8 +318,10 @@ v_file = yt_video.streams.filter(file_extension="mp4").get_by_resolution("1080p"
 v_file.download("save_path i.e C:\\Users\Dan\Desktop")
 print(">>>Download Complete")
 ````
-2nd way
+
 ```
+2nd way
+
 import pytubelink = input('Enter Youtube Video URL')
 yt = pytube.Youtube(link)
 yt.streams.first().download()
@@ -434,7 +458,6 @@ main()
 👉 Battery Notification (Working Script)
 
 ```
-
 #Best Practice
 from psutil import sensors_battery
 
@@ -2666,10 +2689,12 @@ vcpkg Windows and Linux os package manager -> RIGID and mostly for private useca
 
 
 
-
+👉 EXECUTING PYTHON (INTERPRETER) CODE
+--------------------------------------------------------------------------------------------------------------------------------------
 1 BASH EXECUTION OF PYTHON IN LINUX (Here do not use pyinstaller) -> https://www.youtube.com/watch?v=vEQ8CXFWLZU
 2 DESKTOP EXECUTION OF PYTHON IN LINUX (Here do not use pyinstaller) -> https://www.youtube.com/watch?v=9CTmC5Y7QeM
 3 PYTHON INSTALLERS
+
 LINUX
 Debreate for debian distribution [.deb]
 Other alternatives -> https://alternativeto.net/software/inno-setup/?platform=linux
@@ -2677,7 +2702,7 @@ Other alternatives -> https://alternativeto.net/software/inno-setup/?platform=li
 WINDOWS [.exe]
 Traditional -> Pyinstaller(Setup must be within the parent directory during execution)
 Modern -> Inno Setup(Setup is compiled with all the dependencies required, hence must NOT be within the parent directory during execution) 
-
+-------------------------------------------------------------------------------------------------------------------------------------
 
 
 REMOVE JAVA, DOCKER, KUBERNETES COMPLETELY
@@ -2692,10 +2717,10 @@ Then check if there is java, by running: (If it returns nothing java dependencie
 
 ```
 👉 AI/ML/DL BEST PRACTICE
-### 1. Data ingestion, storage and transformation;
-### 2. Feature engineering;
-### 3. Training models;
-### 4. Engineering end-to-end ML systems; and,
+### 1. Data cleaning, ingestion, storage and transformation.
+### 2. Feature engineering.
+### 3. Training models.
+### 4. Engineering end-to-end ML systems.
 ### 5. Automating the production of results, decisions and actions of any kind.
 ```
 
