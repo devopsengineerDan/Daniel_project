@@ -7141,11 +7141,26 @@ Then:
 ```
 
 ```
-👉 Softwares
+👉 WINDOWS SOFTWARES
 Download cpu-z    -> ram,cpu,graphics type and storage size
 Download Intel Graphics Command Center and Modify Settings to High/Ultra
-Screen Recorder Pro -> Screenshot
+--------------------------------------------------------------------------
+Screen recorder pro -> Screenshot
 RecForth -> Video Recorder
+Remote Desktop
+Gihosoft Tubeget -> 4k,8k download
+Blue stacks
+--------------------------------------------------------------------------
+Windows Powershell ISE -> Advance
+Windows Powershell
+
+VirtualBox
+Anaconda
+Visual Studio Installer -> Intellicode, Windows universal C runtime, Security Issue Analysis, Windows 11 sdk, 	Embedded IOT tools
+Pycharm Community
+Rustrover
+Conan
+
 ```
 
 ```
