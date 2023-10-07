@@ -83,7 +83,7 @@ Master's  
 ```
 
 
-👉 PYTHON SCRIPTS
+# PYTHON (INTERPRETER) SCRIPTS AND APPLICATIONS
 
 ```
 👉 Python Applications
