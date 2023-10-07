@@ -690,11 +690,6 @@ Cybersecurity
 [7:02 PM, 3/28/2019] Anthony - CEH: https://monova.to/167CEE868BB34A178B72B530BE27CD98EFBE0688
 [7:03 PM, 3/28/2019] Anthony - CEH: https://katcr.co/torrent/307838/udemy-ethical-hacking-with-metasploit-the-penetration-testing-tool.html
 
-OWASP CHEETSHEET: https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
-
-
-
-Distributed Systems: https://youtube.com/channel/UCnhpOONF1c1FtipDF8LPdqQ
 
 Data Engineer: https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide
 
@@ -1027,7 +1022,11 @@ BHere’s how my screen looks after applying these steps.efore you use Plank, yo
 Once done, go to Accessory > Plank to launch Plank dock.
 ```
 
-
+```
+👉 LINUX SOFTWARES
+GNS3 -> Network Design
+  
+```
 ```							     
 👉 LINUX MUST INSTALLATIONS
 
@@ -1205,71 +1204,7 @@ EverSticky allows you to save quick notes on your desktop screen, making it a gr
 Okular is a must-have app for handling documents, as it supports all major file formats such as PDF, ePUB, TIFF, Images, DVI, XPS, and ODT.
 Clementine is a music player with a minimal, easy-to-use interface.
 ```																		
-						
 
-```
-👉 REMOVE
-
-sudo rm -rf 
-```
-
-```
-👉 CONFIGURE
-sudo dpkg --configure -a
-```
-
-```
-👉 FIX FLASH ON UBUNTU TERMINAL 
-
-sudo fdisk -l
-
-1st option
-sudo mkfs.msdos -f 32 /dev/sdb
-DEFRAGMENT sudo e4defrag /dev/sda7
-
-2nd option
-udisksctl power-off -b /dev/sdb
-```
-
-
-
-```
-👉 GNOME TRANSPARENCY(MENU BAR AND TAB)
-Install (Dynamic Panel Transparency ) in ubuntu softwares
-```
-
-```
-👉 GNOME TRANSPARENCY(MENU BAR AND TAB)
-Install  dash-dock extension
-Then terminal write these commands:
--------------------------------------------
-gsettings set org.gnome.shell.extensions.dash-to-dock transparency-mode 'FIXED'
-gsettings set org.gnome.shell.extensions.dash-to-dock background-opacity 0.2
--------------------------------------------
-```
-
-```
-👉 (ARCH && FEDORA) ENABLE PANTHEON DESKTOP ENVIRONMENT
-sudo systemctl disable lightdm.service
-sudo systemctl enable gdm.service
-
-👉 (DEBIAN) ENABLE PANTHEON DESKTOP ENVIRONMENT
-sudo systemctl disable lightdm.service
-sudo systemctl enable gdm.service
- systemctl start gdm
-```
-
-```
-👉 (UBUNTU 20- ONWARDS )XFCE INSTALLATION 
-sudo apt install xfce4
-        (OR)
-	
-sudo add-apt-repository ppa:xubuntu-dev/staging
-sudo apt update
-
-sudo apt upgrade
-sudo apt install xubuntu-desktop
-```
 
 
 
@@ -1384,6 +1319,97 @@ ls -l ~/Downloads/
 chmod +x ~/Downloads/genymotion-3.0.2-linux_x64.bin
 sudo ~/Downloads/genymotion-3.0.2-linux_x64.bin
 
+				
+
+```
+👉 REMOVE
+
+sudo rm -rf 
+```
+
+```
+👉 CONFIGURE
+sudo dpkg --configure -a
+```
+
+```
+👉 FIX FLASH ON UBUNTU TERMINAL 
+
+sudo fdisk -l
+
+1st option
+sudo mkfs.msdos -f 32 /dev/sdb
+DEFRAGMENT sudo e4defrag /dev/sda7
+
+2nd option
+udisksctl power-off -b /dev/sdb
+```
+
+
+```
+👉 CHECK SYSTEM INFO
+lscpu
+```
+
+```
+👉 CHECK NUMBER OF CORES AND THREADS
+lscpu | grep -E '^Thread|^Core|^Socket|^CPU\('
+```
+
+```
+👉 CHECK OS VERSION USING PYTHON
+python -m platform
+python3 -m platform
+```
+
+```
+👉 CHECK OS VERSION
+hostnamectl
+```
+
+```
+👉 CHECK OS VERSION IN DEBIAN
+lsb_release -d
+lsb_release -a
+``````
+
+```
+👉 GNOME TRANSPARENCY(MENU BAR AND TAB)
+Install (Dynamic Panel Transparency ) in ubuntu softwares
+```
+
+```
+👉 GNOME TRANSPARENCY(MENU BAR AND TAB)
+Install  dash-dock extension
+Then terminal write these commands:
+-------------------------------------------
+gsettings set org.gnome.shell.extensions.dash-to-dock transparency-mode 'FIXED'
+gsettings set org.gnome.shell.extensions.dash-to-dock background-opacity 0.2
+-------------------------------------------
+```
+
+```
+👉 (ARCH && FEDORA) ENABLE PANTHEON DESKTOP ENVIRONMENT
+sudo systemctl disable lightdm.service
+sudo systemctl enable gdm.service
+
+👉 (DEBIAN) ENABLE PANTHEON DESKTOP ENVIRONMENT
+sudo systemctl disable lightdm.service
+sudo systemctl enable gdm.service
+ systemctl start gdm
+```
+
+```
+👉 (UBUNTU 20- ONWARDS )XFCE INSTALLATION 
+sudo apt install xfce4
+        (OR)
+	
+sudo add-apt-repository ppa:xubuntu-dev/staging
+sudo apt update
+
+sudo apt upgrade
+sudo apt install xubuntu-desktop
+```
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 VIRTUAL BOX
@@ -2106,32 +2132,7 @@ https://lnkd.in/gc5p5Jss
 ```
 👉 TAILS LINUX INSTALLATION -> https://www.youtube.com/watch?v=gO9fTnMxwYw
 ```
-```
-👉 CHECK SYSTEM INFO
-lscpu
-```
 
-```
-👉 CHECK NUMBER OF CORES AND THREADS
-lscpu | grep -E '^Thread|^Core|^Socket|^CPU\('
-```
-
-```
-👉 CHECK OS VERSION USING PYTHON
-python -m platform
-python3 -m platform
-```
-
-```
-👉 CHECK OS VERSION
-hostnamectl
-```
-
-```
-👉 CHECK OS VERSION IN DEBIAN
-lsb_release -d
-lsb_release -a
-``````
 
 
 
@@ -2603,13 +2604,20 @@ This will disable UFW and delete any rules that you have previously defined. Kee
 # CYBER SECURITY
 NULLBYTE -> Automated
 DAVID BOMBAL -> Detailed
-
-
+		
 
 
 ===============================================================================================================================================
         
+```
+👉 CYBERSECURITY
+OWASP CHEETSHEET -> https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
+```
 
+```
+👉 DISTRIBUTED SYSTEM GUIDE
+ Operating  Systems -> https://youtube.com/channel/UCnhpOONF1c1FtipDF8LPdqQ
+```                 
 
     
 ===============================================================================================================================================
