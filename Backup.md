@@ -2195,6 +2195,7 @@ DAVID BOMBAL -> (Detailed) https://www.youtube.com/watch?v=J8A8rKFZW-M
    
 ```
 👉 CYBERSECURITY GUIDE
+
 OWASP CHEETSHEET -> https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
 MIT NETWORK SECURITY -> https://www.youtube.com/watch?v=QOtA76ga_fY&list=PLBMO3ORTdwldCqlHVcbJSOa3GxLS6bpeE
 MIT DYNAMIC PROGRAMMING -> https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLZES21J5RvsHOeSW9Vrvo0EEc2juNe3tX
@@ -2202,16 +2203,18 @@ MIT DYNAMIC PROGRAMMING -> https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLZE
 
 
 ```
-👉 DATA STRUCTURE AND ALGORITHM GUIDE
-LEETCODE -> https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide
+👉 DATA STRUCTURE AND ALGORITHM GUIDE => https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide
+
+
 
 ```
 
 
 ```
 👉 DISTRIBUTED SYSTEM GUIDE
-Operating  Systems -> https://youtube.com/channel/UCnhpOONF1c1FtipDF8LPdqQ
-Distributed  Systems
+
+Distributed  Systems(Overview) -> https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB
+Distributed  Systems(Advance) -> https://youtube.com/channel/UCnhpOONF1c1FtipDF8LPdqQ
 ```                 
 
     
@@ -2221,7 +2224,6 @@ Distributed  Systems
 
 ```
 👉 DEVELOPMENT SETUP
-
 
 INSTALL GOOGLE-CHROME 
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
@@ -2423,7 +2425,7 @@ C1.png
 
 
 BEST PRACTICE + (autopep8, flake8, mypy)
-.gitignore(*.egg-info, *.pyc, .coverage, .tox, /venv*, coverage-html, dist)
+👉.gitignore(*.egg-info, *.pyc, .coverage, .tox, /venv*, coverage-html, dist)
 
 ### 1.  Initilialize always on Project Folder. 
 ### 2.  Always have a runtime.txt with version (e.g) python 3.8.6 for backward compatibility with python interpreter. 
@@ -2431,8 +2433,12 @@ BEST PRACTICE + (autopep8, flake8, mypy)
           where  4: MAJOR VERSION - Incremented when major changes are made like architectural changes.
                  0: MINOR VERSION - Incremented when minor changes are made which does NOT break the API like adding a new feature
 	        10: PATCH VERSION - Incremented with bug fixes.
-### 4.  Have requirements-dev.txt for testing and deployment(i.e heroku) packages
-### 5.  Have toml file to manage setup configurations.
+### 4.  Have requirements-dev.txt for testing and deployment(i.e heroku) packages.
+### 👉 5.  -Use __init__.py on package or library to be imported.
+           -Use bash for execution in main file. (i.e) #!/usr/bin/env python
+           -Use utf-8 for character encoding in main file. (i.e) # coding: utf-8
+           -Avoid using header links (i.e) HTML,CSS,Pyscript. Have files located locally on project folder
+           -Have pyproject.toml file to manage setup configurations, for flexibility in execution of program  and for points(2,3 and 4).
 ### 6.  Have .gitignore and have necessary files in there.
 ### 7.  Use pipenv to manage virtual environments with python versions.
 ### 8.  Write explicit code for readability and scalability.
