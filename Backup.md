@@ -1028,7 +1028,8 @@ Instructions:
 👉 INCREASE SCREENCAST TIME TO 9800 SEC
 gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 9800	
 ```
-								
+
+	
 ```							     
 👉 CHANGE DOCK IN XFCE
 The default dock is nice and pretty much does what it is for. But again, it looks a bit boring.
@@ -1045,11 +1046,14 @@ BHere’s how my screen looks after applying these steps.efore you use Plank, yo
 Once done, go to Accessory > Plank to launch Plank dock.
 ```
 
+
 ```
 👉 LINUX SOFTWARES
 GNS3 -> Network Design
-  
+ 
 ```
+
+
 ```							     
 👉 LINUX MUST INSTALLATIONS
 
@@ -1449,7 +1453,7 @@ sudo apt install xubuntu-desktop
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
-MINIKUBE username: “docker“, password: “tcuser“
+-> MINIKUBE username: “docker“, password: “tcuser“
 
 
 # VIRTUALIZATION 
@@ -1789,6 +1793,7 @@ https://lnkd.in/gdb3MQn2
 🌀YARAIfy ==> https://yaraify.abuse.ch/
 ```
 
+
 ```
 👉 PENTESTING COURSES
 
@@ -1822,6 +1827,7 @@ https://lnkd.in/ePqK-fNN
 🗝️Cyber Security Free Course by Palo Alto
 https://lnkd.in/eiFkSHiK
 ```
+
 
 ```
 👉 DEVELOPER COURSES
@@ -2167,20 +2173,15 @@ https://lnkd.in/gc5p5Jss
 🔗 https://lnkd.in/drBEghCn
 ```
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-
-
-
-
-
 
 ===============================================================================================================================================
 
 # CYBER SECURITY
+
+```
 NULLBYTE -> (Automated) https://www.youtube.com/watch?v=qpnpI_mF3Aw
 DAVID BOMBAL -> (Detailed) https://www.youtube.com/watch?v=J8A8rKFZW-M
-		
+```		
 
 
 ===============================================================================================================================================
