@@ -56,9 +56,10 @@ Master's  
 2022 -  fam   
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-```
+
 # engineer-dancun-personal-blog project images on MARKDOWN PAGE
 
+```
 ![pipelines-logo](https://github.com/devopsengineerDan/engineer-dancun-personal-blog/assets/48592378/4eb0599c-7062-4e5a-84cf-b03055e87bf1)
 
 
@@ -83,37 +84,9 @@ Master's  
 ```
 
 
-# PYTHON (INTERPRETER) SCRIPTS AND APPLICATIONS
+# NETWORK CONCEPTS FOR SOCKET PROGRAMMING
 
 ```
-👉 Python Applications
-------------------------------------------------------
-Run Youtube Script 
-RUN PYINSTALLER ...
-GUI Voice recorder App
-GUI AI Assistant Bot App
-GUI Motion Detection App
-GUI Two players Chess App
-GUI Clock App
-------------------------------------------------------
-
-RUN NGROK ... 
-GUI Zoom App 
-TCP + Encrypted Messaging + file
-UDP + Encrypted Messaging + file
-------------------------------------------------------
-```
-
-
--> ***👉 Python Script to Control my Lights using phue philips bulb -> https://www.youtube.com/watch?v=kSruoqDTYt0
-
--> Automating Scripts + (Youtube,Image, PDF merger) scripts -> https://www.youtube.com/watch?v=vEQ8CXFWLZU
-
-
-
-```
-👉 NETWORK CONCEPTS FOR SOCKET PROGRAMMING
-
 LOCAL IP ADDRESS -> For connecting to a local server
 #check ip address
 Windows use systeminfo.
@@ -143,6 +116,37 @@ Real-time
 Faster
 Less network and PC stress                    
 ```
+
+
+# PYTHON (INTERPRETER) SCRIPTS AND APPLICATIONS
+
+```
+👉 Python Applications
+------------------------------------------------------
+Run Youtube Script 
+RUN PYINSTALLER ...
+GUI Voice recorder App
+GUI AI Assistant Bot App
+GUI Motion Detection App
+GUI Two players Chess App
+GUI Clock App
+------------------------------------------------------
+
+RUN NGROK ... 
+GUI Zoom App 
+TCP + Encrypted Messaging + file
+UDP + Encrypted Messaging + file
+------------------------------------------------------
+```
+
+
+-> ***👉 Python Script to Control my Lights using phue philips bulb -> https://www.youtube.com/watch?v=kSruoqDTYt0
+
+-------------------------------
+
+👉  Automating Scripts + (Youtube,Image, PDF merger) scripts -> https://www.youtube.com/watch?v=vEQ8CXFWLZU
+
+-------------------------------
 
 
 👉 Python built-in http server
@@ -451,9 +455,7 @@ mixer.music.play()if __name__ == "__main__":
 main()
 ```
 
-
-
-@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 👉 Battery Notification (Working Script)
 
@@ -482,7 +484,7 @@ if __name__ == "__main__":
     print(f"Seconds Left: {battery.secsleft}")
 ```
     
-@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 👉 Battery Notification (Working Script)
 
@@ -496,7 +498,7 @@ print("Approximate time remaining: %s seconds" % (battery_status.secsleft,))
 print("Is power cable connected: %s" % (battery_status.power_plugged,))
 ```
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 👉 Battery Notification 
 
@@ -528,9 +530,7 @@ while (True):
     continue
 
 ```
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 👉 Battery Notification 
 
@@ -2291,17 +2291,6 @@ Then check if there is java, by running: (If it returns nothing java dependencie
 ```
 
 
-
-```
-👉 AI/ML/DL BEST PRACTICE
-### 1. Data cleaning, ingestion, storage and transformation.
-### 2. Feature engineering.
-### 3. Training models.
-### 4. Engineering end-to-end ML systems.
-### 5. Automating the production of results, decisions and actions of any kind.
-```
-
-
 ```
 👉 GOOGLE-CHROME INSTALLATION ON DEBIAN DISTRIBUTION
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
@@ -2544,8 +2533,17 @@ WEB3- Read, Write and Ownership => AI, Blockchain, IOT =>Distributed System and 
 ```
 
 
-👉 Deployment templates for common use-cases:
 ```
+👉 AI/ML/DL BEST PRACTICE
+
+### 1. Data cleaning, ingestion, storage and transformation.
+### 2. Feature engineering.
+### 3. Training models.
+### 4. Engineering end-to-end ML systems.
+### 5. Automating the production of results, decisions and actions of any kind.
+
+👉 Deployment templates for common use-cases:
+
 batch scoring data -> https://github.com/devopsengineerDan/python-bodywork-batch-job-project
 deploying a prediction service with a REST API -> https://github.com/devopsengineerDan/python-bodywork-serve-model-project
 scheduling a continuous-training pipeline -> https://github.com/devopsengineerDan/python-bodywork-ml-pipeline-project
