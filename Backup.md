@@ -55,7 +55,7 @@ Master's  
 
 2022 -  fam   
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 # engineer-dancun-personal-blog project images on MARKDOWN PAGE
 
@@ -118,10 +118,19 @@ Less network and PC stress
 ```
 
 
+```
+Assymetrical RSA Private and Public Key
+Personal - (Secret Key)Private Key -> Decrypt message (RECEIVED)4. -> Signing(sent)2.
+Acessible to the public - Public Key -> Encrypt message (SENT)1. -> Verifies Signature and Message (received)3.
+```
+
+
+
 # PYTHON (INTERPRETER) SCRIPTS AND APPLICATIONS
 
 ```
 👉 Python Applications
+
 ------------------------------------------------------
 Run Youtube Script 
 RUN PYINSTALLER ...
@@ -148,8 +157,8 @@ UDP + Encrypted Messaging + file
 
 -------------------------------
 
-
 👉 Python built-in http server
+
 ```
 python3 -m http.server
 OR
@@ -159,11 +168,13 @@ python -m http.server
 #windows use systeminfo.
 #linux use ifconfig. Then check the wlp2s0 option. The default local ip address 127.0.0.1 does not work.
 
-#convert a file to zip folder in order to download it to another machine
+-> Convert a file to zip folder in order to download it to another machine
 ```
 
+-------------------------------
 
 👉 Hide computer IP address for watching movies
+
 ```
 import requests
 
@@ -177,9 +188,10 @@ print(response.text)
 # Once it returns a json format text file with proxy ip address of your preferred country, then it successful. Use it in movie platforms, but some platforms have advanced software and techniques to identify your IP address.
 ```
 
+-------------------------------
 
 👉 Clock script -> https://www.youtube.com/watch?v=l7IMBy4_nhA
-Download and Install Ds-Digital from official website
+-> Download and Install Ds-Digital from official website
 
 ```
 
@@ -222,6 +234,7 @@ time()
 window.mainloop()
 ```
 
+-------------------------------
 
 👉 Photo Compressor 
 
@@ -234,6 +247,7 @@ from PIL import Imagefile_loc=askopenfilenames()img = Image.open(file_loc[0])img
 print("Image is Compressed") 
 ```
 
+-------------------------------
 
 👉Image Watermarker 
 
@@ -252,6 +266,7 @@ img.save(output_path)img = '1.jpg'
 watermark_Image(img, 'watermarked.jpg','Python', pos=(0, 0)) 
 ```
 
+-------------------------------
 
 👉 InstaDpViewer 
 
@@ -269,6 +284,7 @@ ig.download_profile(dp , profile_pic_only=True)
 print("Your Image is Downloaded") 
 ```
 
+-------------------------------
 
 👉 Plagiarism Checker 
 
@@ -284,12 +300,14 @@ file_2=input("Enter file 2 path: ")
 Plagerism_checker(file_1, file_2) 
 ```
 
+-------------------------------
 
 👉 YT Video Downloader 
 
 This is another simple automation script to download Youtube videos. Now you don’t need any web app or software, just use the below code to download any video. 
 
 ### pip install pytube
+
 ```
 Besy way
 
@@ -307,7 +325,12 @@ yd = yt.streams.get_highest_resolution()
 
 # Add a folder here
 yd.download('s/YouTubeDownloadFolder')
+
+#Windows location to retrieve file or to store downloaded file
+r"C:\Users\User\Desktop"
 ```
+
+
 ```
 1st way
 
@@ -332,6 +355,7 @@ yt.streams.first().download()
 print('downloaded', link) 
 ```
 
+-------------------------------
 
 👉 Convert PDF to CSV 
 
@@ -347,6 +371,7 @@ tables = camelot.read_pdf('file.pdf')
 tables.export('file.csv', f='csv', compress=True) 
 ```
 
+-------------------------------
 
 👉 File Encrypt and Decrypt 
 
@@ -377,6 +402,7 @@ encrypt(filename, key)
 decrypt(filename, key) 
 ```
 
+-------------------------------
 
 👉 Battery Notification 
 
@@ -419,6 +445,7 @@ bot.say("Charging is Completed")
 bot.runAndWait() 
 ```
 
+-------------------------------
 
 👉 Convert Images to PDF 
 
@@ -437,6 +464,7 @@ Pdf.image(i,x,y,w,h)
 Pdf.output("yourfile.pdf", "F") 
 ```
 
+-------------------------------
 
 👉 Text to Speech AI Bot 
 
@@ -451,11 +479,13 @@ tts = gTTS('Learn Python from Medium')
 tts.save('python.mp3')
 mixer.init()
 mixer.music.load('python.mp3')
-mixer.music.play()if __name__ == "__main__":
-main()
+mixer.music.play()
+
+if __name__ == "__main__":
+    main()
 ```
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+-------------------------------
 
 👉 Battery Notification (Working Script)
 
@@ -484,7 +514,7 @@ if __name__ == "__main__":
     print(f"Seconds Left: {battery.secsleft}")
 ```
     
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+-------------------------------
 
 👉 Battery Notification (Working Script)
 
@@ -498,7 +528,7 @@ print("Approximate time remaining: %s seconds" % (battery_status.secsleft,))
 print("Is power cable connected: %s" % (battery_status.power_plugged,))
 ```
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+-------------------------------
 
 👉 Battery Notification 
 
@@ -528,9 +558,9 @@ while (True):
         )
         percent = cur_per
     continue
-
 ```
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+-------------------------------
 
 👉 Battery Notification 
 
@@ -589,11 +619,11 @@ def monitor():
 if __name__ == "__main__":
    monitor()
 ```
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
                                      
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 USEFUL CONTACTS & LINKS
 HASS Consult 0709479479
 020 3258000
@@ -641,10 +671,10 @@ tick NAT
 
 VPN
 VPN address 8ce5083f2021.sn.mynetname.net
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
                                                         
 # STUFF
-
 
 ```
 SAF       07->0,1,2,4,5,6,9
@@ -720,8 +750,7 @@ Fitness -> Chris Heria        https://www.youtube.com/watch?v=3p8EBPVZ2Iw
 web: gunicorn waweru.wsgi --log-file -
 ```
 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 PHONE BACKUP
 
@@ -793,9 +822,8 @@ Standarduser1
 http://portal.jkuat.ac.ke/Home/Index 
 SCT221-0781/2016 
 ID number
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 # FINANCE, MARKETING & ECONOMICS
 
@@ -935,11 +963,6 @@ rm db_profile
 mv .config/dconf/user-old ~/user-settings-delete-later
 dconf load / <old_settings
 ```
-
-
-
-
-
 
 
 ```
@@ -1525,7 +1548,7 @@ sudo modprobe vboxdrv
 2. https://www.youtube.com/watch?v=DYpaX4BnNlg&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=2  -> qemu/kvm qemu/kvm Bridge and NAT networking
 3. https://www.youtube.com/watch?v=1SDvth66i-4&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=3  -> qemu/kvm Snapshots tutorial
 4. https://www.youtube.com/watch?v=0Ny0__uTGfM&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=4  -> qemu/kvm How to migrate a VM to another computer
-5. https://www.youtube.com/watch?v=UcF4JoFqd9E&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=5	-> qemu/kvm DD tutorial - how to clone, backup and          restore disks and partitions
+5. https://www.youtube.com/watch?v=UcF4JoFqd9E&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=5	-> qemu/kvm DD tutorial - how to clone, backup and restore disks and partitions
 								       
 6. https://www.youtube.com/watch?v=N7wvqHvmSN8&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=6  -> qemu/kvm How to enlarge Qemu/kvm virtual disk
 	
