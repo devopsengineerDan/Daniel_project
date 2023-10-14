@@ -1050,7 +1050,7 @@ Once done, go to Accessory > Plank to launch Plank dock.
 ```
 👉 LINUX SOFTWARES
 
-Firewall
+Firewall -> Firewall app
 Chrome
 Firefox
 Vivaldi
