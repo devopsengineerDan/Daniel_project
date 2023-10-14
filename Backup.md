@@ -1049,8 +1049,27 @@ Once done, go to Accessory > Plank to launch Plank dock.
 
 ```
 👉 LINUX SOFTWARES
+
+Firewall
+Chrome
+Firefox
+Vivaldi
+Brave
 GNS3 -> Network Design
- 
+VirtualBox
+QEMU/KVM
+Visual Studio Code
+Postgres + PGAdmin -> Dashboard
+Couchdb + Couchdb Admin -> Dashboard
+Postman
+Slack
+Discord
+Telegram
+Chess
+VLC
+Rythmbox
+Tweaks
+Extensions
 ```
 
 
