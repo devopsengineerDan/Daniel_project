@@ -145,6 +145,7 @@ RUN NGROK ...
 GUI Zoom App 
 TCP + Encrypted Messaging + file
 UDP + Encrypted Messaging + file
+Online Chess
 ------------------------------------------------------
 ```
 
