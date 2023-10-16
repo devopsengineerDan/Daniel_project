@@ -2393,7 +2393,7 @@ $ code --version
 SYSTEM ANALYSIS AND DESIGN
 SYSTEM UML DESIGN
 -> Use-case Diagram
--> Sequential Diagram
+-> Sequence Diagram
 
 ----------
 * BDD - Behaviour Driven Development
