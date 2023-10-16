@@ -130,7 +130,7 @@ Acessible to the public - Public Key -> Encrypt message (SENT)1. -> Verifies Sig
 
 ```
 👉 Python Applications
-
+Acknowledgement: NeuralNine
 ------------------------------------------------------
 Run Youtube Script 
 RUN PYINSTALLER ...
@@ -2385,6 +2385,24 @@ Step 6: Verify Installation
 Verify vscode installation by running:
 
 $ code --version
+```
+
+
+```
+👉 SOFTWARE DESIGN BEST PRACTICE
+SYSTEM ANALYSIS AND DESIGN
+SYSTEM UML DESIGN
+-> Use-case Diagram
+-> Sequential Diagram
+
+----------
+* BDD - Behaviour Driven Development
+* System Flow-chart Diagram
+----------
+
+
+SYSTEM ANALYSIS AND DESIGN
+DATABASE FLOW-CHART DIAGRAM
 ```
 
 
