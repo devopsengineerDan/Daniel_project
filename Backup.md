@@ -2473,10 +2473,13 @@ BEST PRACTICE + (autopep8, flake8, mypy)
 	        10: PATCH VERSION - Incremented with bug fixes.
 ### 4.  Have requirements-dev.txt for testing and deployment(i.e heroku) packages.
 ### 👉 5.  -Use __init__.py on package or library to be imported.
+             * In __init__.py file have this:
+                 __all__ = ["module1", "module2"] 
            -Use bash for execution in main file. (i.e) #!/usr/bin/env python
            -Use utf-8 for character encoding in main file. (i.e) # coding: utf-8
            -Avoid using header links (i.e) HTML,CSS,Pyscript. Have files located locally on project folder
            -Have pyproject.toml file to manage setup configurations, for flexibility in execution of program  and for points(2,3 and 4).
+             * pip install -e .
 ### 6.  Have .gitignore and have necessary files in there.
 ### 7.  Use pipenv to manage virtual environments with python versions.
 ### 8.  Write explicit code for readability and scalability.
