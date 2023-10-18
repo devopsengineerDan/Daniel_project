@@ -103,7 +103,6 @@ Master's  
 
 👉 MIT NETWORK SECURITY -> https://www.youtube.com/watch?v=QOtA76ga_fY&list=PLBMO3ORTdwldCqlHVcbJSOa3GxLS6bpeE
 👉 MIT DYNAMIC PROGRAMMING -> https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLZES21J5RvsHOeSW9Vrvo0EEc2juNe3tX
-
 ```
 
 
@@ -257,10 +256,10 @@ C to LLVM IR Assembly -> https://www.youtube.com/watch?v=wt7a5BOztuM
 
 
 Build    -> gcc main.c -o main
-Complie  ->./main
+Compile  ->./main
 
 								
-Build an entire project using make ->    Check https://github.com/devopsengineerDan/worldOfWalls-game
+Build an entire project using make ->    Check  -  https://github.com/devopsengineerDan/worldOfWalls-game
 Install ->    sudo make install
               sudo apt-get -y install cmake 
 ```
@@ -2028,9 +2027,9 @@ DAVID BOMBAL -> (Detailed) https://www.youtube.com/watch?v=J8A8rKFZW-M
 
 
 ```
-👉 PENTESTING REDTEAM
+👉 PENTESTING REDTEAM FUNDAMENTALS
 
-NULLBYTE -> (Automated) https://www.youtube.com/watch?v=qpnpI_mF3Aw
+HACKERSPLOIT -> https://www.youtube.com/watch?v=ChgqGBwl8NQ&list=PLBf0hzazHTGMjSlPmJ73Cydh9vCqxukCu&index=16
 ```
 
 
@@ -2540,6 +2539,7 @@ https://lnkd.in/gc5p5Jss
 
 
 # ML ENGINEER ROAD MAP
+
 ☀️ Learn SQL
 
 ✅ Aggregations with GROUP BY
@@ -2707,6 +2707,7 @@ vcpkg Windows and Linux os package manager -> RIGID and mostly for private useca
 
 
 👉 EXECUTING PYTHON (INTERPRETER) CODE
+
 --------------------------------------------------------------------------------------------------------------------------------------
 1 BASH EXECUTION OF PYTHON IN LINUX (Here do not use pyinstaller) -> https://www.youtube.com/watch?v=vEQ8CXFWLZU
 2 DESKTOP EXECUTION OF PYTHON IN LINUX (Here do not use pyinstaller) -> https://www.youtube.com/watch?v=9CTmC5Y7QeM
@@ -2723,6 +2724,7 @@ Modern -> Inno Setup(Setup is compiled with all the dependencies required, hence
 
 
 👉 REMOVE JAVA, DOCKER, KUBERNETES COMPLETELY
+
 For java:
 sudo apt remove default-jre
 sudo apt-get remove --purge icedtea-* openjdk-*
@@ -2779,41 +2781,11 @@ Verify vscode installation by running:
 $ code --version
 ```
 
-
-```
-👉 SOFTWARE DESIGN BEST PRACTICE
-SYSTEM ANALYSIS AND DESIGN
-SYSTEM UML DESIGN
--> Use-case Diagram
--> Sequence Diagram
-
-----------
-* BDD - Behaviour Driven Development
-* System Flow-chart Diagram
-----------
-
-
-DATABASE ANALYSIS AND DESIGN
-DATABASE FLOW-CHART DIAGRAM
-```
-
-
-```
-👉 SOFTWARE ENGINEERING BEST PRACTICE
-
-### 1. Adhere to Programming Language Standard library and Style of writing code.
-### 2. Adhere to Software Design Principles and Patterns.
-### 3. Naming of variables, functions, classes and modules should be explicit.
-### 4. In python have __init__.py in folder containing app.
-### 5. Have main function in a seperate file.
-### 5. Software Testing. Software Configuration. Software Deployment.
-### 6. Schedule more time. To avoid conflicting on deadline time.
-### 7. High speed is best for prototyping. Low speed is best for large projects inorder to identify use-cases of design of principles and patterns on the projects for performance, reliability, scalability, adaptability, simplicity, correctness, security and upgradability.
-```
-
+-------------------------------
 
 ```
 👉 PYTHON TOPICS
+
 PYTHON (INTERPRETER) DATA STRUCTURES
 IMMUTABLE
 -Tuple -> Less memory space than list, has less functionalities.
@@ -2836,13 +2808,49 @@ FASTAPI CRASH COURSE ->https://www.youtube.com/watch?v=62pP9pfzNRs
 
 ```
 👉 RUST TOPICS
+
 RUST CHEATSHEET
 ```
 
 
 ```
 👉 C TOPICS
+
 C1.png
+```
+
+-------------------------------
+
+```
+👉 SOFTWARE DESIGN BEST PRACTICE
+
+### SYSTEM ANALYSIS AND DESIGN
+SYSTEM UML DESIGN
+-> Use-case Diagram
+-> Sequence Diagram
+
+----------
+* BDD - Behaviour Driven Development
+* System Flow-chart Diagram
+----------
+
+
+### DATABASE ANALYSIS AND DESIGN
+DATABASE FLOW-CHART DIAGRAM
+```
+
+
+```
+👉 SOFTWARE ENGINEERING BEST PRACTICE
+
+### 1. Adhere to Programming Language Standard library and Style of writing code.
+### 2. Adhere to Software Design Principles and Patterns.
+### 3. Naming of variables, functions, classes and modules should be explicit.
+### 4. In python have __init__.py in folder containing app.
+### 5. Have main function in a seperate file.
+### 5. Software Testing. Software Configuration. Software Deployment.
+### 6. Schedule more time. To avoid conflicting on deadline time.
+### 7. High speed is best for prototyping. Low speed is best for large projects inorder to identify use-cases of design of principles and patterns on the projects for performance, reliability, scalability, adaptability, simplicity, correctness, security and upgradability.
 ```
 
 
@@ -2933,6 +2941,8 @@ BEST PRACTICE Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE
 ### 13. Test your code with unit tests.
 ```
 
+
+
 ```
 👉 Bash Shell BEST PRACTICE
 
@@ -2944,6 +2954,7 @@ BEST PRACTICE Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE
 ### 6. Monitor system logs and security events for signs of potential security threats or vulnerabilities.
 ### 7. Use security tools and software, such as intrusion detection and prevention systems, to detect and respond to potential security threats.
 ```
+
 
 
 ```
@@ -2991,12 +3002,14 @@ Error Code	Meaning
 ```
 
 
+
 ```
 👉 WEB
 WEB1- Read
 wEB2- Read and Write
 WEB3- Read, Write and Ownership => AI, Blockchain, IOT =>Distributed System and Database
 ```
+
 
 
 ```
@@ -3008,6 +3021,7 @@ WEB3- Read, Write and Ownership => AI, Blockchain, IOT =>Distributed System and 
 ### 4. Engineering end-to-end ML systems.
 ### 5. Automating the production of results, decisions and actions of any kind.
 
+
 👉 Deployment templates for common use-cases:
 
 batch scoring data -> https://github.com/devopsengineerDan/python-bodywork-batch-job-project
@@ -3015,6 +3029,7 @@ deploying a prediction service with a REST API -> https://github.com/devopsengin
 scheduling a continuous-training pipeline -> https://github.com/devopsengineerDan/python-bodywork-ml-pipeline-project
 ```
 
+-------------------------------
 
 ```
 👉 DESIGN PATTERNS AND PRINCIPLES FOR SOFTWARE ENGINEERS
@@ -3397,26 +3412,83 @@ Conclusion
 There you have it a SOLID implementation that is also very Pythonic. I'm hoping you've at least warmed up to SOLID if you hadn't before, and for those of you that are learning Python and not sure how to continue writing SOLID code this has been helpful. This, of course, was a curated example that I knew would lend itself to my argument, but in writing this I was still surprised how much changed along the way. Not every problem will fit this exact breakdown, but I've tried to include enough reasoning behind
 my decisions that you can choose the most SOLID & Pythonic implementation in the future.
 ```
-***********************************************************************************************************************************************
-					    			PREREQUISITES
-***********************************************************************************************************************************************
 
-PYCHARM IDE SLOW PROCESS SOLUTION
+--------------------------------------------------------------------------
+
+# PREREQUISITES
+
+```
+👉 PYCHARM IDE SLOW PROCESS SOLUTION
 
 nano /etc/sysctl.conf
 fs.inotify.max_user_watches = 524288
+```
 
-----------------
-PYINSTALLER 
+
+```
+👉 PYINSTALLER 
 
 pyinstaller --onedir --onefile --name=passwordlocker --windowed "/home/dan/PycharmProjects/dancunmanyinsa/manage.py"
 OR
 In the project directory, when the development virtual environment is deactivated, type this on the terminal
 pyinstaller main.py --onefile --noconsole
+```
 
----------------------------------------------------------------------------------------------------------
 
-GITHUB
+```
+👉 KAZAM DEMONSTRATION
+
+sudo apt install kazam
+
+On how to use Kazam Screencaster https://www.youtube.com/watch?v=ADPPpY6ZEI8
+```
+
+
+```
+👉 UI/UX DESIGN (HUGO for WEBSITES)
+
+👉 Simple -> https://www.youtube.com/watch?v=0RKpf3rK57I
+👉 Advanced -> https://www.youtube.com/watch?v=LIFvgrRxdt4
+
+HUGO -> hugo -> To create public folder with static html,css,xml pages
+
+1. create a project folder for github pages  githubname.github.io -(Contain website files i.e html, xml, css and media folder to be deployed and displayed on client)
+   #change name from public to githubname.github.io (check github creating github pages)
+
+2. push to github
+
+3. create a blog -> (Contain content files and  hugo theme)
+   hugo new site blog
+   #change name to your preference
+   
+4. cd personal-blog/
+   #if it's a new project proceed.
+   #if it's not a new project, and you want to update website, add github changes of (folder, file) of the online github repository to this personal blog directory.
+
+5. git init
+
+6. cd.. then cd themes/
+7. git submodule add https://github.com/vaga/hugo-theme-m10c.git
+
+8. cd.. then cd personal-blog/
+9. git submodule add https://github.com/devopsengineerDan/devopsengineerdan.github.io.git
+   #creates a folder called public and inserts devopsengineerdan.github.io website in the directory
+
+10. hugo new posts/best-practices-for-pyspark-ETL.md
+    #Hugo supports Go language which supports yaml, hence in updating the drafts in local server leave it in yaml format in the upper section of the markdown file.
+  
+11. hugo server OR hugo server --watch --verbose
+
+12. #For m10c theme the author used toml as configuration file, hence change yaml format in the upper section of the markdown file to toml format
+    hugo -D then hugo -> To build and update the website from the recent updates in the blog contents and other file changes.
+
+13. push to github -> This is the Blog repository
+    NOTE -> If websites fails to update take the new posts htmls files generated and add them to the website folder cloned from git. Then push the new changes
+```
+
+
+```
+👉 GITHUB
 
 Create Personal Access Token on GitHub
 
@@ -3477,6 +3549,200 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/devopsengineerdan/devopsengineerdan.github.io.git
 git push -u origin main
+```
+
+
+```
+👉 KIVY
+
+Kivy Installation
+
+sudo apt-get install python3-distutils
+
+sudo python3 get-pip.py
+
+sudo apt-get install -y python3-pip build-essential git python3 python3-dev
+
+sudo apt-get install -y libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev libportmidi-dev libswscale-dev libavformat-dev libavcodec-dev zlib1g-dev
+
+sudo apt-get install cython
+
+sudo pip3 install kivy
+
+python3 main.py - code is available
+
+sudo apt-get install libltdl-dev libffi-dev libssl-dev autoconf autotools-dev
+
+sudo apt install -y git zip unzip openjdk-8-jdk python3-pip autoconf libtool pkg-config zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake libffi-dev libssl-dev pip3 install --user --upgrade Cython==0.29.19 virtualenv # the --user should be removed if you do this in a venv
+add the following line at the end of your ~/.bashrc file
+
+export PATH=$PATH:~/.local/bin/ -> Temporary export and it's deleted after exiting terminal ->For permanent export use bash
+Kivy app to apk (Buildozer)
+
+git clone https://github.com/kivy/buildozer.git 
+cd buildozer
+sudo python3 setup.py install 
+
+->Go to the project directory and run
+buildozer init -> Creates spec file
+buildozer android debug -> Creates apk file  (check for the bin directory -> apk)
+Pages 2
+
+    Home
+    Kivy app to android apk
+
+Clone this wiki locally
+
+
+
+buildozer init
+
+######Edit spec file########
+# (str) Title of your application
+title = Driver-Drowsiness-Detection Application
+# (str) Package name
+package.name = Driver-Drowsiness-Detection Package
+# (str) Package domain (needed for android/ios packaging)
+package.domain = org.dancun
+# (list) Source files to include (let empty to include all the files)
+source.include_exts = py,png,jpg,kv,atlas
+# comma separated e.g. requirements = sqlite3,kivy
+requirements = python3, kivy, kivymd, cv2, dlib, playsound, scipy, imutils, pygame
+
+->TO ENABLE DEBUG MODE 
+# (str) Android logcat filters to use
+android.logcat_filters = *:S python:D
+
+buildozer android deploy run
+```
+
+
+```
+👉 HEROKU  ((( H - Conardmomanyi@1 ))) GITHUB  ->  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 
+
+
+web: gunicorn waweru.wsgi --log-file -
+
+*********************************************************************
+sudo snap install --classic heroku
+
+wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+*********************************************************************
+
+******CLONE FROM HEROKU*******
+
+heroku git:clone -a mathematician/your_app_name
+
+
+Collectstatic error while deploying Django app to Heroku
+
+1 disable the collectstatic during a deploy
+
+$ heroku config:set DISABLE_COLLECTSTATIC=1
+
+2 deploy
+
+$ git push heroku master
+
+3 run migrations (django 1.10 added at least one)
+
+$ heroku run python3 manage.py migrate
+
+4 run collectstatic using bower
+
+$ heroku run 'bower install --config.interactive=false;grunt prep;python3 manage.py collectstatic --noinput'
+
+5 enable collecstatic for future deploys
+
+$ heroku config:unset DISABLE_COLLECTSTATIC
+
+6 try it on your own (optional)
+
+$ heroku run python manage.py collectstatic
+
+```
+
+
+```
+👉 GIT COLLABORATION Link http://adzumi.co.ke/blog/github_contribution
+
+As a new developer, contributing to a project can be scary. I get it,  I was there too. It took me way too long to make my first Pull Request.
+
+Contributing is also a great way to learn more about social coding on Github, new technologies and their ecosystems and how to make constructive, helpful bug reports, feature requests and the noblest of all contributions.
+
+STEP 1: SET UP A WORKING COPY ON YOUR COMPUTER
+First of all, you need a local fork of the project, so go ahead and press the âforkâ button on GitHub. This will create a copy of the repository in your own GitHub account and youâll see a note that itâs been forked underneath the project name:
+
+
+
+Now you need a copy locally, so find the clone URL in the right-hand column and use that to clone locally using a terminal:
+
+$ git clone https://github.com/lawrence254/StudentEngagement.git
+Which will do something like this:
+
+
+
+Now navigate to the project's directory:
+
+$ cd StudentEngagement
+Finally, in this stage, you need to set up a new remote that points to the original project so that you can grab any changes and bring them into your local copy. Firstly click on the link to the original repository, itâs labeled âForked fromâ at the top of the GitHub page. This takes you back to the projects main GitHub page, so you can find the Clone URL and use it to create the new remote, which weâll call upstream.
+
+$ git remote add upstream https://github.com/lawrence254/StudentEngagement.git
+You now have two remotes for this project on disk:
+
+origin which points to your GitHub fork of the project. You can read and write to this remote.
+upstream which points to the main projectâs GitHub repository. You can only read from this remote.
+STEP 2: MAKE SOME CHANGES
+This is the fun bit where you get to contribute to the project. The number one rule is to put each piece of work on its own branch. If the project is using git-flow, then it will have both a master and a development branch. The general rule is that if you are adding a new feature then branch from development. If the project only has a master branch, the branch from that. 
+
+For this example, the forked repository had a number of branches already, one of them called 'lawrence'. This is the branch the owner of the repository has been working on. Weâll assume weâre adding a feature in StudentEngagement, so we branch to that branch:
+
+$ git checkout lawrence
+$ git pull upstream lawrence && git push origin lawrence
+Firstly we ensure weâre on the master branch. Then the git pull command will sync our local copy with the upstream project and the git push syncs it to our forked GitHub project. Finally, we checkout to the 'lawrence' branch. 
+
+Now you can add a feature(Or fix a bug).
+
+If the project has tests, run them to ensure you havenât broken anything. You may also add a new test to show that your change fixes the original problem.
+
+STEP 3: CREATE A PULL REQUEST
+To create a Pull Request you need to push your branch to the origin remote and then press some buttons on GitHub.
+
+To push the new branch:
+
+$ git push origin lawrence
+Now swap back to the browser and navigate to your fork of the project (https://github.com/YomZsamora/StudentEngagement in my case) and youâll see that the branch is listed at the top with a handy âCompare & pull requestâ button:
+
+
+
+Go ahead and press the button! 
+
+On this page, ensure that the âbase forkâ points to the correct repository and branch. Then ensure that you provide a good, succinct title for your pull request and explain why you have created it in the description box. Add any relevant issue numbers if you have them.
+
+
+
+If you scroll down a bit, youâll see a diff of your changes. Double check that it contains what you expect.
+
+Once you are happy, press the âCreate pull requestâ button and youâre done.
+
+For your work to be integrated into the project, the maintainers will review your work and either request changes or merge it.
+
+To Summarize
+That's all there is to it. The fundamentals are:
+
+Fork the project & clone locally.
+Create an upstream remote and sync your local copy.
+Ensure you're working on the correct branch.
+Do the work, write good commit messages and read the CONTRIBUTING file if there is one.
+Push to your origin repository.
+Create a new Pull Request in GitHub.
+```
+
+
+
+
+
+--------------------------------------------------------------------------
 
 ------------
 
@@ -3998,7 +4264,7 @@ $ ./hello.py
 
 
 
-**Django flask Fast API Projects**
+**Django, Flask, Fast API Projects**
 -> Check the link https://github.com/devopsengineerDan/python-projects/tree/master/webapps
 -> Check the youtube link https://www.youtube.com/watch?v=3vfum74ggHE
 
@@ -4023,6 +4289,7 @@ python3 -m flask run
 
 
 ***********Fast API***********
+**BEST PRACTICE**
 ADVANTAGES -> https://www.youtube.com/watch?v=cbASjoZZGIw
 ### 1. It is plain Python.
 ### 2. Async built-in.
@@ -4075,256 +4342,24 @@ ADVANTAGES -> https://www.youtube.com/watch?v=cbASjoZZGIw
 			   *************************
 
       
---------------------------------------------------------------------------
-
-```
-👉 KAZAM DEMONSTRATION
-
-sudo apt install kazam
-
-On how to use Kazam Screencaster https://www.youtube.com/watch?v=ADPPpY6ZEI8
-```
-
-
-```
-👉 UI/UX DESIGN (HUGO for WEBSITES)
-Simple -> https://www.youtube.com/watch?v=0RKpf3rK57I
-Advanced -> https://www.youtube.com/watch?v=LIFvgrRxdt4
-
-HUGO -> hugo -> To create public folder with static html,css,xml pages
-
-1. create a project folder for github pages  githubname.github.io -(Contain website files i.e html, xml, css and media folder to be deployed and displayed on client)
-   #change name from public to githubname.github.io (check github creating github pages)
-
-2. push to github
-
-3. create a blog -> (Contain content files and  hugo theme)
-   hugo new site blog
-   #change name to your preference
-   
-4. cd personal-blog/
-   #if it's a new project proceed.
-   #if it's not a new project, and you want to update website, add github changes of (folder, file) of the online github repository to this personal blog directory.
-
-5. git init
-
-6. cd.. then cd themes/
-7. git submodule add https://github.com/vaga/hugo-theme-m10c.git
-
-8. cd.. then cd personal-blog/
-9. git submodule add https://github.com/devopsengineerDan/devopsengineerdan.github.io.git
-   #creates a folder called public and inserts devopsengineerdan.github.io website in the directory
-
-10. hugo new posts/best-practices-for-pyspark-ETL.md
-    #Hugo supports Go language which supports yaml, hence in updating the drafts in local server leave it in yaml format in the upper section of the markdown file.
-  
-11. hugo server OR hugo server --watch --verbose
-
-12. #For m10c theme the author used toml as configuration file, hence change yaml format in the upper section of the markdown file to toml format
-    hugo -D then hugo -> To build and update the website from the recent updates in the blog contents and other file changes.
-
-13. push to github -> This is the Blog repository
-    NOTE -> If websites fails to update take the new posts htmls files generated and add them to the website folder cloned from git. Then push the new changes
-```
-
-```
-👉 KIVY
-
-Kivy Installation
-
-sudo apt-get install python3-distutils
-
-sudo python3 get-pip.py
-
-sudo apt-get install -y python3-pip build-essential git python3 python3-dev
-
-sudo apt-get install -y libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev libportmidi-dev libswscale-dev libavformat-dev libavcodec-dev zlib1g-dev
-
-sudo apt-get install cython
-
-sudo pip3 install kivy
-
-python3 main.py - code is available
-
-sudo apt-get install libltdl-dev libffi-dev libssl-dev autoconf autotools-dev
-
-sudo apt install -y git zip unzip openjdk-8-jdk python3-pip autoconf libtool pkg-config zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake libffi-dev libssl-dev pip3 install --user --upgrade Cython==0.29.19 virtualenv # the --user should be removed if you do this in a venv
-add the following line at the end of your ~/.bashrc file
-
-export PATH=$PATH:~/.local/bin/ -> Temporary export and it's deleted after exiting terminal ->For permanent export use bash
-Kivy app to apk (Buildozer)
-
-git clone https://github.com/kivy/buildozer.git 
-cd buildozer
-sudo python3 setup.py install 
-
-->Go to the project directory and run
-buildozer init -> Creates spec file
-buildozer android debug -> Creates apk file  (check for the bin directory -> apk)
-Pages 2
-
-    Home
-    Kivy app to android apk
-
-Clone this wiki locally
-
-
-
-buildozer init
-
-######Edit spec file########
-# (str) Title of your application
-title = Driver-Drowsiness-Detection Application
-# (str) Package name
-package.name = Driver-Drowsiness-Detection Package
-# (str) Package domain (needed for android/ios packaging)
-package.domain = org.dancun
-# (list) Source files to include (let empty to include all the files)
-source.include_exts = py,png,jpg,kv,atlas
-# comma separated e.g. requirements = sqlite3,kivy
-requirements = python3, kivy, kivymd, cv2, dlib, playsound, scipy, imutils, pygame
-
-->TO ENABLE DEBUG MODE 
-# (str) Android logcat filters to use
-android.logcat_filters = *:S python:D
-
-buildozer android deploy run
-```
-
-
-```
-👉 HEROKU  ((( H - Conardmomanyi@1 ))) GITHUB  ->  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 
-
-
-web: gunicorn waweru.wsgi --log-file -
-
-*********************************************************************
-sudo snap install --classic heroku
-
-wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
-*********************************************************************
-
-******CLONE FROM HEROKU*******
-
-heroku git:clone -a mathematician/your_app_name
-
-
-Collectstatic error while deploying Django app to Heroku
-
-1 disable the collectstatic during a deploy
-
-$ heroku config:set DISABLE_COLLECTSTATIC=1
-
-2 deploy
-
-$ git push heroku master
-
-3 run migrations (django 1.10 added at least one)
-
-$ heroku run python3 manage.py migrate
-
-4 run collectstatic using bower
-
-$ heroku run 'bower install --config.interactive=false;grunt prep;python3 manage.py collectstatic --noinput'
-
-5 enable collecstatic for future deploys
-
-$ heroku config:unset DISABLE_COLLECTSTATIC
-
-6 try it on your own (optional)
-
-$ heroku run python manage.py collectstatic
-
-```
-
-
-```
-👉 GIT COLLABORATION Link http://adzumi.co.ke/blog/github_contribution
-
-As a new developer, contributing to a project can be scary. I get it,  I was there too. It took me way too long to make my first Pull Request.
-
-Contributing is also a great way to learn more about social coding on Github, new technologies and their ecosystems and how to make constructive, helpful bug reports, feature requests and the noblest of all contributions.
-
-STEP 1: SET UP A WORKING COPY ON YOUR COMPUTER
-First of all, you need a local fork of the project, so go ahead and press the âforkâ button on GitHub. This will create a copy of the repository in your own GitHub account and youâll see a note that itâs been forked underneath the project name:
-
-
-
-Now you need a copy locally, so find the clone URL in the right-hand column and use that to clone locally using a terminal:
-
-$ git clone https://github.com/lawrence254/StudentEngagement.git
-Which will do something like this:
-
-
-
-Now navigate to the project's directory:
-
-$ cd StudentEngagement
-Finally, in this stage, you need to set up a new remote that points to the original project so that you can grab any changes and bring them into your local copy. Firstly click on the link to the original repository, itâs labeled âForked fromâ at the top of the GitHub page. This takes you back to the projects main GitHub page, so you can find the Clone URL and use it to create the new remote, which weâll call upstream.
-
-$ git remote add upstream https://github.com/lawrence254/StudentEngagement.git
-You now have two remotes for this project on disk:
-
-origin which points to your GitHub fork of the project. You can read and write to this remote.
-upstream which points to the main projectâs GitHub repository. You can only read from this remote.
-STEP 2: MAKE SOME CHANGES
-This is the fun bit where you get to contribute to the project. The number one rule is to put each piece of work on its own branch. If the project is using git-flow, then it will have both a master and a development branch. The general rule is that if you are adding a new feature then branch from development. If the project only has a master branch, the branch from that. 
-
-For this example, the forked repository had a number of branches already, one of them called 'lawrence'. This is the branch the owner of the repository has been working on. Weâll assume weâre adding a feature in StudentEngagement, so we branch to that branch:
-
-$ git checkout lawrence
-$ git pull upstream lawrence && git push origin lawrence
-Firstly we ensure weâre on the master branch. Then the git pull command will sync our local copy with the upstream project and the git push syncs it to our forked GitHub project. Finally, we checkout to the 'lawrence' branch. 
-
-Now you can add a feature(Or fix a bug).
-
-If the project has tests, run them to ensure you havenât broken anything. You may also add a new test to show that your change fixes the original problem.
-
-STEP 3: CREATE A PULL REQUEST
-To create a Pull Request you need to push your branch to the origin remote and then press some buttons on GitHub.
-
-To push the new branch:
-
-$ git push origin lawrence
-Now swap back to the browser and navigate to your fork of the project (https://github.com/YomZsamora/StudentEngagement in my case) and youâll see that the branch is listed at the top with a handy âCompare & pull requestâ button:
-
-
-
-Go ahead and press the button! 
-
-On this page, ensure that the âbase forkâ points to the correct repository and branch. Then ensure that you provide a good, succinct title for your pull request and explain why you have created it in the description box. Add any relevant issue numbers if you have them.
-
-
-
-If you scroll down a bit, youâll see a diff of your changes. Double check that it contains what you expect.
-
-Once you are happy, press the âCreate pull requestâ button and youâre done.
-
-For your work to be integrated into the project, the maintainers will review your work and either request changes or merge it.
-
-To Summarize
-Thatâs all there is to it. The fundamentals are:
-
-Fork the project & clone locally.
-Create an upstream remote and sync your local copy.
-Ensure you're working on the correct branch.
-Do the work, write good commit messages and read the CONTRIBUTING file if there is one.
-Push to your origin repository.
-Create a new Pull Request in GitHub.
-```
 
 
 
 
 =====================================================================================================================================
+
+
+
 # DEVOPS
 
-### USE TECHNOLOGIES LIKE WEBASSEMBLY AND FLUTTER-LIKE FRAMEWORK FOR PYTHON
+### USE TECHNOLOGIES LIKE WEBASSEMBLY(BUNDLER) 
+### *** BEST APPROACH (FLUTTER-LIKE KIVY) FRAMEWORK , RUST THREADS (LLVM) FOR PYTHON
 
 
 👉 UNINSTALL DOCKER AND KUBERNETES
 
 👉To completely uninstall Docker:
+
 ```
 Step 1
 
@@ -4347,7 +4382,9 @@ sudo rm -rf /var/run/docker.sock
 You have removed Docker from the system completely. 
 ```
 
+
 👉 To completely uninstall Kubernetes:
+
 ```
 kubeadm reset
 sudo apt-get purge kubeadm kubectl kubelet kubernetes-cni kube*   
@@ -4357,6 +4394,7 @@ sudo rm -rf ~/.kube
 kubeadm reset un-configures the cluster made by kubernetes.
 ```
 
+-------------------------------
 
 👉 DOCKER NOTES
 ```
@@ -4370,18 +4408,23 @@ docker tag ubuntu:latest  ef068dae42e5/dockerhub:myfirstimagepush
 docker push ef068dae42e5/dockerhub:myfirstimagepush
 ```
 
+
 👉 DOCKER INITIAL CONFIGURATIONS
  
- 👉 INITIAL DOCKER SETUP FEDORA
- ```
- sudo dnf remove docker-*
- sudo dnf config-manager --disable docker-*
- sudo grubby --update-kernel=ALL --args="systemd.unified_cgroup_hierarchy=0"sudo firewall-cmd --permanent --zone=trusted --  add-interface=docker0
- sudo firewall-cmd --permanent --zone=FedoraWorkstation --add-masquerade
- sudo dnf install moby-engine docker-compose
- sudo systemctl enable docker
-  ```
+👉 INITIAL DOCKER SETUP FEDORA
+ 
+```
+sudo dnf remove docker-*
+sudo dnf config-manager --disable docker-*
+sudo grubby --update-kernel=ALL --args="systemd.unified_cgroup_hierarchy=0"sudo firewall-cmd --permanent --zone=trusted --  add-interface=docker0
+sudo firewall-cmd --permanent --zone=FedoraWorkstation --add-masquerade
+sudo dnf install moby-engine docker-compose
+sudo systemctl enable docker
+```
+
+
 👉 INITIAL DOCKER SETUP UBUNTU
+
 ```
 sudo apt update
 sudo apt install apt-transport-https ca-certificates curl software-properties-common
@@ -4393,10 +4436,8 @@ sudo apt install docker-ce
 sudo systemctl status docker
 ```
 
+-------------------------------
 
-
-
-**********************************************************************************************************************
 👉 KUBERNETES NOTES (TOOLS INCLUDE: KUBECTL, HELM AND JUJU)
 
  ```
@@ -4412,9 +4453,11 @@ The Kubernetes Dashboard and a simple Pod, to test out the cluster
 #install kubectl – command line tool to interact with kubernetes  cluster
 minikube start
 ```
- ```
+ 
 
 👉 INITIAL KUBERNETES SETUP FEDORA
+
+```
  curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-latest.x86_64.rpm
  sudo rpm -ivh minikube-latest.x86_64.rpm
  sudo dnf install @virtualizationsudo apt update
@@ -4431,8 +4474,12 @@ minikube start
  sudo dnf install snapd
  sudo ln -s /var/lib/snapd/snap /snap
  sudo snap install kubectl --classic
- 
+ ```
+
+
  👉 INITIAL KUBERNETES SETUP UBUNTU
+
+ ```
  sudo apt update
  sudo apt install docker.io
  sudo systemctl start docker
@@ -4449,6 +4496,7 @@ sudo nano /etc/fstab
 -->Inside this file, comment out the /swapfile line by preceeding it with a # symbol, as seen below. Then, close this file and save the changes.
 ```
  
+-------------------------------
 
 👉 TUTORIALS DOCKER && KUBERNETES
 
@@ -4948,6 +4996,7 @@ Log in with docker login and repeat the push attempt. Then verify that it exists
 You can now use docker pull sammy/ubuntu-nodejs to pull the image to a new machine and use it to run a new container.
 ```
 
+-------------------------------
 
 👉 KUBERNETES
 
@@ -5087,19 +5136,24 @@ We saw how to configure Docker and other pre-requisites, as well as deploy an Ng
 ```
 
 
+
 =====================================================================================================================================================================
 
 
 
 # AI COMPUTATION
 
-++++++++++++++++++++++
-WEKA DATA SCIENCE SOFTWARE
+```
+👉 WEKA DATA SCIENCE SOFTWARE
+
  cd weka-3-8-3/
  java -jar weka.jar
- 
+```
 
-INSTALLING ANACONDA
+-------------------------------
+
+```
+👉 INSTALLING ANACONDA
 
 ******OLD*******
 cd /tmp
@@ -5138,12 +5192,12 @@ source $HOME/anaconda3/bin/activate
 conda list
 conda update conda
 conda deactivate
-				
-+++++++++++++++++++++
+```				
 
 
+```
+👉 SET UP JUPYTER NOTEBOOK
 
-SET UP JUPYTER NOTEBOOK 
 conda install -c anaconda ipykernel
 
 INSTALL DEBUGGER
@@ -5167,13 +5221,11 @@ Enable  -extension manager
 			  conda create --name Daniel_projects
 			  conda activate Daniel_projects
 			  conda deactivate
+```
 
 
-
-++++++++++++++++++++++++
-
-
-IMPORT FILES FROM DRIVE INTO GOOGLE-COLAB:
+```
+👉 IMPORT FILES FROM DRIVE INTO GOOGLE-COLAB:
 
 STEP-1: Import Libraries
 
@@ -5205,15 +5257,14 @@ xyz = pd.read_csv('resources.csv')
 print(xyz.head(1))
 
 #Repeat STEPs 3 & 4 to load as many files as you require.
+```
 
-
-++++++++++++++++++++++++
-
-
+-------------------------------
 
 👉 FEATURE ENGINEERING  https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114
 
 👉 BEST TECHNIQUE 
+
 ```
 
 •	ExhaustiveFeatureSelector: Optimal feature sets by considering all possible feature combinations
@@ -5953,12 +6004,13 @@ Parameters
 •	X : {array-like, sparse matrix}, shape = [n_samples, n_features]
 Training vectors, where n_samples is the number of samples and n_features is the number of features. New in v 0.13.0: pandas DataFrames are now also accepted as argument for X.
 Returns
-Feature subset of X, shape={n_samples, k_features}
- 
- ```
+Feature subset of X, shape={n_samples, k_features} 
+```
 
+-------------------------------
 
 👉 OTHER TECHNIQUES 
+
 ```
 List of Techniques
 1.Imputation
@@ -6252,9 +6304,12 @@ Conclusion
 Image for post
 ```
 
+-------------------------------
 
+# ML PROJECT
 
 👉 Stock Price Prediction – Machine Learning Project in Python
+
 ```
 Stock Price Machine learning has significant applications in the stock price prediction. In this machine learning project, we will be talking about predicting the returns on stocks. This is a very complex task and has uncertainties. We will develop this project into two parts:
 
@@ -6629,9 +6684,98 @@ python3 stock_app.py
 Summary
 Stock price prediction is a machine learning project for beginners; in this tutorial we learned how to develop a stock cost prediction model and how to build an interactive dashboard for stock analysis. We implemented stock market prediction using the LSTM model. OTOH, Plotly dash python framework for building dashboards.
 ```
+
+
+
 ==============================================================================================================================================================
+
+
+
 # DIGITAL COMPUTATION
 
+
+
+
+
+Flask Application structure
+
+|-Watchlist
+    |-app/
+        |-main/
+            |-__init__.py
+            |-errors.py
+            |-forms.py
+            |-views.py
+        |-static/
+        |-templates/
+        |-__init__.py
+        |-models.py
+        |-requests.py
+    |-tests/
+        |-test_movie.py
+        |-test_review.py
+    |-virtual/
+    |-config.py
+    |-.gitignore
+    |-manage.py
+    |-start.sh
+ 
+-----------------------------------------------------------------------------------------------------------
+FLASK 
+pip3 install -r requirements.txt
+pip3 freeze > requirements.txt
+
+ Application 
+  
+  pip install flask
+  curl https://bootstrap.pypa.io/get-pip.py | python
+  pip install flask-bootstrap
+  python3.6 -m  pip install gunicorn
+  sudo apt-get update
+  sudo apt-get install postgresql postgresql-contrib libpq-dev
+  pip install flask-migrate
+  pip install flask-login
+  pip install flask-uploads
+  pip install flask-mail
+  pip install flask-simplemde markdown2
+
+
+API
+pip install flask-rest-framework
+
+--aniso8601==8.0.0
+click==7.1.2
+Flask==1.1.2
+Flask-RESTful==0.3.8
+Flask-SQLAlchemy==2.4.3
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+pytz==2020.1
+six==1.15.0
+SQLAlchemy==1.3.18
+Werkzeug==1.0.1
+---------------------------------------
+DJANGO
+pip3 install -r requirements.txt
+pip3 freeze > requirements.txt
+
+Application
+
+ pip install django==1.11
+ pip install django-bootstrap4
+ pip install psycopg2
+ pip install python-decouple
+ pip install django-registration==2.4.1
+ pip install djangorestframework
+ pip install django-progressive-web-app
+
+ API 
+pip install djangorestframework
+
+
+
+-------------------------------
 
 
 
@@ -6644,6 +6788,11 @@ $cd travel_project
 $python3 manage.py migrate
 $django-admin startapp travel_app 
 $python3 manage.py runserver
+
+---------------------
+$ python3 manage.py createsuperuser 
+---------------------
+
 
 2 WAY TO DO IT
 $django-admin startproject travel_project
@@ -6669,10 +6818,6 @@ $django-admin startproject heyapp . (view, models, templates)
 
 
 
- 
----------------------
-$ python3 manage.py createsuperuser 
----------------------
 
 $pip3 install pillow #image library
 $pip3 install psycopg2 #connector to db
@@ -6710,6 +6855,7 @@ urlpatterns = [
   url(r'^sw.js', (TemplateView.as_view(template_name="sw.js", content_type='application/javascript', )), name='sw.js'),
 ]
 
+-------------------------------
 
 ******************************************DATABASES*************************************************
 COMMON DB (PLATFORM DEPENDENT)
@@ -6840,91 +6986,7 @@ def email(request):
     return redirect('redirect to a new page')
 
 
-
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-
-
-----------------------------------------------------------------------------------------------------------
-Flask Application structure
-
-|-Watchlist
-    |-app/
-        |-main/
-            |-__init__.py
-            |-errors.py
-            |-forms.py
-            |-views.py
-        |-static/
-        |-templates/
-        |-__init__.py
-        |-models.py
-        |-requests.py
-    |-tests/
-        |-test_movie.py
-        |-test_review.py
-    |-virtual/
-    |-config.py
-    |-.gitignore
-    |-manage.py
-    |-start.sh
- 
------------------------------------------------------------------------------------------------------------
-FLASK 
-pip3 install -r requirements.txt
-pip3 freeze > requirements.txt
-
- Application 
-  
-  pip install flask
-  curl https://bootstrap.pypa.io/get-pip.py | python
-  pip install flask-bootstrap
-  python3.6 -m  pip install gunicorn
-  sudo apt-get update
-  sudo apt-get install postgresql postgresql-contrib libpq-dev
-  pip install flask-migrate
-  pip install flask-login
-  pip install flask-uploads
-  pip install flask-mail
-  pip install flask-simplemde markdown2
-
-
-API
-pip install flask-rest-framework
-
---aniso8601==8.0.0
-click==7.1.2
-Flask==1.1.2
-Flask-RESTful==0.3.8
-Flask-SQLAlchemy==2.4.3
-itsdangerous==1.1.0
-Jinja2==2.11.2
-MarkupSafe==1.1.1
-pytz==2020.1
-six==1.15.0
-SQLAlchemy==1.3.18
-Werkzeug==1.0.1
----------------------------------------
-DJANGO
-pip3 install -r requirements.txt
-pip3 freeze > requirements.txt
-
-Application
-
- pip install django==1.11
- pip install django-bootstrap4
- pip install psycopg2
- pip install python-decouple
- pip install django-registration==2.4.1
- pip install djangorestframework
- pip install django-progressive-web-app
-
- API 
-pip install djangorestframework
---------------------------------------------------------------------------------------------------------
-
-
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+-------------------------------
 
 
 WINDOWS AND UBUNTU PGADMIN4
@@ -6938,7 +7000,7 @@ listen_addresses = '*'
 
 sudo service postgresql restart
 
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+-------------------------------
 
 PGADMIN4 INSTALLATION
 
@@ -6985,7 +7047,7 @@ passwd                          securep@wd
 deactivate
 
 
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
 
 UBUNTU
 sudo apt install postgresql postgresql-contrib
@@ -6993,6 +7055,7 @@ apt-get install postgresql -y
 
 FEDORA
 sudo dnf install postgresql postgresql-contrib 
+
 
 
 sudo systemctl start postgresql
@@ -7023,6 +7086,7 @@ exit
 nano /etc/postgresql/12/main/pg_hba.conf
 systemctl restart postgresql
 
+-------------------------------
 
 PGADMIN4 INSTALLATION NEW CRITERIA
 
@@ -7098,9 +7162,8 @@ Enter new password:
 Enter it again:
 postgres=# \q
 				
-#########################################################
 
-
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 WORKBENCH INSTALLATION
 
 sudo wget https://www.sql-workbench.eu/Workbench-Build125-with-optional-libs.zip
@@ -7115,6 +7178,7 @@ jdbc:postgresql://your.database.server.ip:port.number/name_of_database
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
+-------------------------------
 
 COUCHDB INSTALLATION -->> CHECK OFFICIAL WEBSITE
 
@@ -7128,11 +7192,7 @@ Password: "..."
 
 -> http://localhost:5984/_utils/index.html#verifyinstall
 
-
-
-
-
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+-------------------------------
 
 
 SURREALDB INSTALLATION -->> CHECK OFFICIAL WEBSITE
@@ -7143,22 +7203,16 @@ sudo bash -c "$(wget -O - https://apt.llvm.org/llvm.sh)"
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-
 ------------------LOGIN LINUX & WINDOWS--------------------
 				
 PASSWORD - devopsengineerDan
 PIN - Dan@1997
 
 ROOT - devopsengineer  
-
-
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%						
 
+-------------------------------
 
-				
 # WINDOWS
 
 ```
@@ -7355,6 +7409,7 @@ When you finish, move on to the second step.
 4) You can choose to reboot your computer for Windows to help you locate the driver that it could find for your device or, you can choose to update the driver by yourself.
 ```
 
+-------------------------------
 
 ```
 👉 DRIVING
@@ -7364,11 +7419,11 @@ SIDE MIRROR -> Junction, Round-about, Entry/Exit way
 GO SLOW -> Pedestrian-crossing + Bumps, Bridge, Parking
 ```
 
+-------------------------------
 
 👉 The following are further optimization settings that can be figured once your BIOS is modded.
 
 * These settings are universally recommended optimizations for your hackintosh:
-  
 
 ``` mermaid
 graph TD
