@@ -111,6 +111,7 @@ Master's  
 
 ```
 👉 DATA STRUCTURE AND ALGORITHM GUIDE => https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide
+👉 LEETCODE SOLUTION ALGRITHMS => Leetcode Solution Algorithms.pdf at devopsengineerdan@gmail.com
 
 Algorithms & Data Structures -> https://www.youtube.com/watch?v=XGClOyyliPs&list=PL7yh-TELLS1HgoWUfxGzoaa7PEJ2Q-RfC
 ```
