@@ -1839,7 +1839,7 @@ sudo modprobe vboxdrv
 				
 								
 ```				
-👉QEMU/KEMU				
+👉 QEMU/KEMU				
 				
 1. https://www.youtube.com/watch?v=vyLNpPY-Je0&list=PLqKkf220xDDbW9G0a4XXO50yvHWFq2uOD&index=1  -> qemu/kvm & virt-manager installation on Ubuntu 22.04    (Installation of Linux)
 
