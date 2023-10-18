@@ -1,3 +1,4 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 *Mogire Victor Maranga UNITS IMAGE + DETAILS 5(registrar,skul,dep<->examdean,list,financeVICTORCOMPLETESTATUS)-2(scripts,letter)
 *Shilla 2(scripts,letter)
 @CHARITY -> 0721581667
@@ -54,10 +55,11 @@ Master's  
 4th September 2017 
 
 2022 -  fam   
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-# engineer-dancun-personal-blog project images on MARKDOWN PAGE
+
+
+# engineer-dancun-personal-blog project images on README.md
 
 ```
 ![pipelines-logo](https://github.com/devopsengineerDan/engineer-dancun-personal-blog/assets/48592378/4eb0599c-7062-4e5a-84cf-b03055e87bf1)
@@ -82,6 +84,191 @@ Master's  
 
 ![etl](https://github.com/devopsengineerDan/engineer-dancun-personal-blog/assets/48592378/5aecd34b-e722-4390-ad77-5ed10aa5f3a7)
 ```
+
+
+
+===============================================================================================================================================
+
+
+
+# COMPUTER SCIENCE GUIDE  
+
+1. EDUREKA
+2. free code camp
+3. LINKS
+   
+```
+👉 CYBERSECURITY GUIDE => OWASP CHEETSHEET -> https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
+
+
+👉 MIT NETWORK SECURITY -> https://www.youtube.com/watch?v=QOtA76ga_fY&list=PLBMO3ORTdwldCqlHVcbJSOa3GxLS6bpeE
+👉 MIT DYNAMIC PROGRAMMING -> https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLZES21J5RvsHOeSW9Vrvo0EEc2juNe3tX
+
+```
+
+
+```
+👉 DATA STRUCTURE AND ALGORITHM GUIDE => https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide
+
+
+
+```
+
+
+```
+👉 DESIGN AND ANALYSIS OF ALGORITHM
+
+BIG O Notation -> https://www.youtube.com/watch?v=XMUe3zFhM5c
+Big O Part 1 – Linear Complexity -> https://www.youtube.com/watch?v=OMInLBKYAWg&list=PLTd6ceoshprfdzLWovxULl8Lt7RAFKTe5
+Big O Part 2 – Constant Complexity -> https://www.youtube.com/watch?v=1Md4Uo8LtHI&list=PLTd6ceoshprfdzLWovxULl8Lt7RAFKTe5&index=2
+Big O Part 3 – Quadratic Complexity -> https://www.youtube.com/watch?v=mIjuDg8ky4U&list=PLTd6ceoshprfdzLWovxULl8Lt7RAFKTe5&index=3
+Big O Part 4 – Logarithmic Complexity -> https://www.youtube.com/watch?v=Hatl0qrT0bI&t=26s
+Big O Part 5 – Linearithmic Complexity -> https://www.youtube.com/watch?v=i7CmolBf3HM&t=19s
+Big O Part 6 – Summary of Time Complexities -> https://www.youtube.com/watch?v=XiGedDZGOM8
+Big O Part 7 – Space Complexity versus Time Complexity -> https://www.youtube.com/watch?v=bNjMFtHLioA
+```
+
+
+```
+👉 DISTRIBUTED SYSTEM GUIDE
+
+Distributed  Systems(Overview) -> https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB
+Distributed  Systems(Advance) -> https://youtube.com/channel/UCnhpOONF1c1FtipDF8LPdqQ
+```                 
+
+
+```
+👉 LINUX GUIDE => Linux Bible
+
+Linux -> https://www.youtube.com/watch?v=ghWECXWi9kU&list=PL7yh-TELLS1FRoV4TCJjyEwh_Ye1o9sik
+```
+
+
+```
+👉 SQL GUIDE => https://sqlbolt.com/
+👉 SQLSTYLE GUIDE -> https://github.com/DancunManyinsa/sqlstyle.guide
+
+1. DATABASE (1-4) -> https://www.youtube.com/watch?v=y03oYWDLu0Q&list=PLTd6ceoshprdZIu24-_u00-m2Vf9o5aVC
+
+2. SQL Tutorial(Overview) -> https://www.youtube.com/watch?v=kXQccIONcc4&list=PL7yh-TELLS1FVLG6AFoT-3lVcbJiPTWze
+
+3. SQL Tutorial(Advance) -> https://www.youtube.com/watch?v=YXS6Rk7d_X8&list=PLTd6ceoshprezb2-FnBPcuhoq071N0tYB
+
+4. SQL JOINS -> https://www.youtube.com/watch?v=fx-_7g-Ssgw&list=PLcnJIHtHiTA3eqEjdvS_JBvtcRstjWufE
+```
+
+
+```
+👉 VIM GUIDE => Install Neovim
+
+Vim Tutorial -> https://www.youtube.com/watch?v=jXud3JybsG4&list=PL7yh-TELLS1Eevqs4-XmlSfrFOKb5C97K
+```
+
+
+```
+👉 PYTHON GUIDE => Python Official Documentation
+👉 PTHON CODING STYLE (PEP8) => PEP8 Official Documentation
+
+1. Python OOP Fundamentals -> https://www.youtube.com/watch?v=Ej_02ICOIgs
+   Python OOP Edureka-> https://www.youtube.com/watch?v=SRu1GAfr3LA
+   PEP8 Coding Guidelines -> https://www.youtube.com/watch?v=U2vDWc5sce0
+
+2. Importing your python files(Overview) -> https://www.youtube.com/watch?v=GxCXiSkm6no
+   Importing your python files(Advance)-> https://www.youtube.com/watch?v=e9yMYdnSlUA
+
+3. Tips to organize Python code -> https://www.youtube.com/watch?v=e9yMYdnSlUA
+
+4. Packaging Your Python Code With pyproject.toml -> https://www.youtube.com/watch?v=v6tALyc4C10&list=TLPQMDcxMDIwMjNyZziH_2-ouA&index=4
+
+5. Make Your Python Code More Professional -> https://www.youtube.com/watch?v=PDqy1HoA3QM&list=TLPQMDcxMDIwMjNyZziH_2-ouA&index=5
+
+6. Makefiles in Python For Professional Automation -> https://www.youtube.com/watch?v=Yt-UF7fNLJE&list=TLPQMDcxMDIwMjNyZziH_2-ouA&index=3
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+7. Python Beginner Tutorial -> https://www.youtube.com/watch?v=-eaFKumWT1k&list=PL7yh-TELLS1E6dNCzfQl-NG-KJP3C-4mc
+
+8. Python Intermediate Tutorial -> https://www.youtube.com/watch?v=2S7Xxz9PhaU&list=PL7yh-TELLS1F3KytMVZRFO-xIo_S2_Jg1
+
+9. Python Advanced Tutorials -> https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc
+
+10. Python Tips and Tricks -> https://www.youtube.com/watch?v=Wz5oLT55_jY&list=PL7yh-TELLS1GNyuvPsFEqb7JVMEUTtuau
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+11. Algorithms & Data Structures -> https://www.youtube.com/watch?v=XGClOyyliPs&list=PL7yh-TELLS1HgoWUfxGzoaa7PEJ2Q-RfC
+
+12. Python Data Science Tutorial -> https://www.youtube.com/watch?v=hVcEv7rEN24&list=PL7yh-TELLS1FfO5Q8KHK31VgsrcnWcTAk
+
+13. Python Machine Learning Tutorial -> https://www.youtube.com/watch?v=jg5paDArl3E&list=PL7yh-TELLS1EZGz1-VDltwdwZvPV-jliQ
+```
+
+
+```
+👉 RUST GUIDE => Rust Official Documentation
+
+1. Rust Bites -> https://www.youtube.com/watch?v=gvHPRaZHgD4&list=PLai5B987bZ9C0xK1tZ2wsudOo2zjrD9xX
+
+2. The Rustlang Book -> https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+3. Rust Explained -> https://www.youtube.com/watch?v=784JWR4oxOI
+1) Zero cost abstraction
+2) Rust Ownership based on Resource Acquisition Is Initialization (RAII) Design Pattern
+- It states that resources like: allocated memory, file handles and database connections must be tied to object lifetime. 
+3) Algebraic Data Types(ADT) or Variant types. Example: Enum and Struct
+4) Polymorphism using Traits and Generics
+- Traits are interfaces that define set of functions and methods that types can implement. -> Focuses on functions.
+- Generics enables you to write code that is abstracted over types which leads to reusable and efficient code. -> Focuses on arguments.
+Advantages of Rust Polymorphism
+- Flexibility and composition.
+- Non-invasive and extensive.
+- No fragile base class problem.
+- Default support of static dispatch hence making code performant.
+5) Async/Await
+6) Macros -> Metaprogramming
+- Enables a program to manipulate or generate code at run-time/compile-time.
+-> Macros is a language feature that enables programmer to define custom syntax and perform code generation/code transformation.
+-> Provides a way to write that modifies or generates code during run-time/compile-time.
+NOTE: Macros are hygienic by default hence variables and identifiers do not accidentally clash with variables from surrounding code.
+7) Cargo
+Advantages of cargo
+- Dependency management.
+- Project building.
+- Testing. -> Use CLIPPY for better error handling and error outputs.
+- Package distribution.
+
+4. Memory Management -> https://www.youtube.com/watch?v=NnLdGKoz1ls&list=PLai5B987bZ9BnS7dBlTF9HRop55vYUL7r
+
+5. Idiomatic Rust -> https://www.youtube.com/watch?v=6b-8gpLCrrg&list=PLai5B987bZ9A5MO1oY8uihDWFC5DsdJZq
+
+6. Rayon crate for Parallelism -> https://www.youtube.com/watch?v=YxG7PhZ3fb4&list=PLai5B987bZ9DIGuIrI2-KHqe5ijBTVpk2
+```
+
+
+```
+👉 C GUIDE => C Official Documentation
+
+=> C KNOWLEDGE FOR COMPUTER PROGRAMMING FUNDAMENTALS
+
+Pointers -> https://www.youtube.com/watch?v=Hb-bmAmbwvo&list=PL7yh-TELLS1GafZOVHhCPaCQUt8HrfCZE&index=9
+
+C to LLVM IR Assembly -> https://www.youtube.com/watch?v=wt7a5BOztuM
+
+
+
+Build    -> gcc main.c -o main
+Complie  ->./main
+
+								
+Build an entire project using make ->    Check https://github.com/devopsengineerDan/worldOfWalls-game
+Install ->    sudo make install
+              sudo apt-get -y install cmake 
+```
+
+
+
+===============================================================================================================================================
+
 
 
 # NETWORK CONCEPTS FOR SOCKET PROGRAMMING
@@ -624,7 +811,6 @@ if __name__ == "__main__":
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 USEFUL CONTACTS & LINKS
 HASS Consult 0709479479
 020 3258000
@@ -672,9 +858,11 @@ tick NAT
 
 VPN
 VPN address 8ce5083f2021.sn.mynetname.net
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                                                        
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%    
 # STUFF
 
 ```
@@ -741,18 +929,23 @@ Freelance       Upwork
 Fitness -> Chris Heria        https://www.youtube.com/watch?v=3p8EBPVZ2Iw    
 ```
 
+
 ```
 
 <a href="mailto:dancunmanyinsait@gmail.com" target="_blank">
                        Email: dancunmanyinsait@gmail.com
                     </a>
 ```
+
+
 ```
 web: gunicorn waweru.wsgi --log-file -
 ```
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 PHONE BACKUP
 
 https://findmymobile.samsung.com
@@ -823,13 +1016,19 @@ Standarduser1
 http://portal.jkuat.ac.ke/Home/Index 
 SCT221-0781/2016 
 ID number
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+===============================================================================================================================================
+
+
 
 # FINANCE, MARKETING & ECONOMICS
 
 ```
 BUY BEST PRODUCT AT LOW & FAIR PRICE *NOT* WORST AT LEAST PRICE
+SELL AT HIGH PRICE(BULL) => HIGH PROFIT
 HAVE INVESTORS INTO BUYERS & INCREASE CASHFLOW
 OPERATE AS LOWER MIDDLE-CLASS IN DEBT* 
 
@@ -846,25 +1045,36 @@ Shell companies(ownership) to avoid damage on you
 ```
 
 
-# SYSTEM UI, INPUT&&OUTPUT AND PROCESSORS
 
+===============================================================================================================================================
+
+
+
+# SYSTEM UI, INPUT&&OUTPUT AND PROCESSORS
 	 
 ```									
-👉 CHECK BATTERY									
+👉 CHECK BATTERY
+									
 upower -i /org/freedesktop/UPower/devices/battery_BAT0
 ```
 
+
 ```									
-👉 REMOVE DOT FILE/FOLDER									
+👉 REMOVE DOT FILE/FOLDER
+									
 rm -rf ~/.<file or folder name> (i.e)
 rm -rf ~/.ssh
 
+
 👉 REMOVE BINARY FILE
+
 sudo rm -rf /usr/local/bin/surreal
 ```
 
+
 ```
 👉 RECONFIGURE BROKEN DEPENDENCIES
+
 sudo dpkg --configure -a
 
 sudo apt  autoclean
@@ -876,14 +1086,6 @@ sudo apt-f install
 sudo apt --fix-broken install
 
 sudo apt update && sudo apt upgrade 
-```
-
-
-```									
-👉 INSTALL C SOFTWARE									
-Build ->    make
-Install ->  sudo make install
-            sudo apt-get -y install cmake 
 ```
 
 
@@ -968,12 +1170,15 @@ dconf load / <old_settings
 
 ```
 👉 MAINTENANCE OF SSD
+
 sudo systemctl enable fstrim.timer
 systemctl status fstrim.timer 
 ```
 
+
 ```
 👉 GRUB RESCUE ERROR FIX UBUNTU
+
 sudo update-grub2
 sudo grub-install /dev/sda
 
@@ -982,8 +1187,10 @@ sudo apt-get update
 sudo apt-get install -y boot-repair && boot-repair
 ```
 
+
 ```
 👉 WINDOW DISPLAY ERROR && UNRENSPONSIVE MOUSE UBUNTU
+
 dpkg -l | grep linux-image | awk '{print$2}'
 sudo apt-get install linux-image-5.3.0-18-generic
 OR BEST ALTERNATIVE
@@ -1027,12 +1234,14 @@ Instructions:
 
 ```							     
 👉 INCREASE SCREENCAST TIME TO 9800 SEC
+
 gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 9800	
 ```
 
 	
 ```							     
 👉 CHANGE DOCK IN XFCE
+
 The default dock is nice and pretty much does what it is for. But again, it looks a bit boring.
 
 However, if you want your dock to be better and with a little more customization options, you can install another dock.
@@ -1060,8 +1269,10 @@ GNS3 -> Network Design
 VirtualBox
 QEMU/KVM
 Visual Studio Code
+Anaconda
 Postgres + PGAdmin -> Dashboard
 Couchdb + Couchdb Admin -> Dashboard
+Surrealdb
 Postman
 Slack
 Discord
@@ -1085,6 +1296,8 @@ Radeon-Vulkan = Open source MESA implementation of Vulkan.
 AMDVLK = Open source vulkan components of AMDGPU-Pro driver.
 
 AMDGPU + MESA + Radeon-Vulkan is what is most commonly used by gamers because it has the best game compatibility and performance. 
+
+
 
 MESA INSTALLATION
 $ sudo lshw -c video  OR   sudo lspci -nn | grep -e VGA						
@@ -1115,8 +1328,10 @@ $ sudo apt install \
   level-zero-dev
 ```
 
+
 ```
 👉 FEDORA
+
 Update & Upgrade (DO FIRST):
 sudo dnf upgrade --refresh
 
@@ -1180,8 +1395,10 @@ Just run the above command and you don’t need to do anything else. It’ll mak
 sudo tlp start
 ```
 
+
 ```
 👉 UBUNTU
+
 Update & Upgrade:
 sudo apt update; sudo apt upgrade
 
@@ -1254,13 +1471,94 @@ Clementine is a music player with a minimal, easy-to-use interface.
 
 
 
+===============================================================================================================================================
 
 
-# NETWORKS
 
-Assigning static ip address to the local network
+# COMPUTER NETWORKS
 
-LINUX
+```
+👉 COMPUTER NETWORKS FUNDAMENTALS
+
+-----------------
+IP Adrress
+Subnetting
+Router
+-----------------
+NAT
+
+Firewall + Firewall Types
+VPN Client and VPN Server + VPN Tunnel -> Provides Anonymity(IP address and Location) and Security(Data and Online activity)
+
+Dimilitarized zone
+Port Forwarding
+-----------------
+
+
+
+
+What is IP addressing? How IPv4 works| ipv4 vs ipv6 | 5 types of ip classes | public vs private ip  -> https://www.youtube.com/watch?v=aSZuzkC24XU
+What is subnetting How subnetting works What is subnet mask Explained with real-life exmples -> https://www.youtube.com/watch?v=qulRjRFavJI
+7 OSI layers explained with real examples | osi vs tcp/ip model -> https://www.youtube.com/watch?v=sCYkeo466Qs
+How VPN really works? -> https://www.youtube.com/watch?v=8wDI5_MVdmk
+proxy vs vpn - Which is better ? -> https://www.youtube.com/watch?v=OI-7MplHwi0
+What is the future of load balancing? -> https://www.youtube.com/watch?v=n-E4O8xnDQM
+```
+
+
+```
+👉 NETWORK IP ADDRESSES AND SUBNETTING
+
+What are the IP address classes and their corresponding subnet masks?
+IP subnetting
+Empty Cell	          Subnet Mask	                        Number of Supported Hosts per Network
+Class A	                  255.0.0.0	                        Over 16 million
+Class B	                  255.255.0.0	                        Over 16 thousand
+Class C              	  255.255.255.0	                        254
+```
+
+
+```
+👉 NETWORK COMMANDS => sudo apt install net-tools
+
+ipconfig /all -> Windows ifconfig -> Linux
+nslookup www.google.com -> to get ip address 
+OR nslookup ip address -> to get domain name
+ping www.google.com
+tracert www.google.com
+netstat -a
+
+
+
+
+
+nmcli connection add con-name 'Ethernet' ifname enp9s0 type ethernet
+sudo netdiscover 
+rfkill 
+sudo service NetworkManager start
+sudo service NetworkManager stop  
+```
+
+
+```
+👉 MICROTIK
+
+startx
+service gdm3 restart 
+```
+
+
+```
+👉 NETWORK ADMINISTRATION WINDOWS
+
+https://medium.com/@adinika.15/installing-active-directory-on-windows-server-2012-r2-e9e614770588
+```
+
+
+```
+👉 Assigning static ip address to the local network
+
+👉 LINUX
 
 (((    ifconfig OR ip a    )))
 sudo ifconfig enp9s0 192.168.92.5 netmask 255.255.0.0
@@ -1271,7 +1569,9 @@ sudo route add default gw 192.168.92.1 enp9s0
   OR  sudo route add default gw 192.168.92.1 eth0
 ping 192.168.92.5
 
-WINDOWS
+
+
+👉 WINDOWS
 
 1)To set a static IP address in Windows 7, 8, and 10:
 
@@ -1288,7 +1588,8 @@ WINDOWS
 2)Turn off firewall if pentesting
 
 
-Assigning dynamic ip address to the local network
+
+👉 LINUX ->  Assigning dynamic ip address to the local network
 
 sudo dhclient enp9s0
 ----------------------------------------------------------
@@ -1320,41 +1621,33 @@ host Windows7{
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 sudo systemctl restart isc-dhcp-server
 sudo systemctl status isc-dhcp-server
-
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-
-
-nmcli connection add con-name 'Ethernet' ifname enp9s0 type ethernet 
-
-sudo netdiscover 
-rfkill 
-
-sudo service NetworkManager start
-sudo service NetworkManager stop 
-
-MICROTIK
-startx
-service gdm3 restart 
-
-NETWORK ADMIN WINDOWS 
-https://medium.com/@adinika.15/installing-active-directory-on-windows-server-2012-r2-e9e614770588
+```
 
 
-# SYSTEM
 
-```			
-sudo passwd root -Change password for root
+===============================================================================================================================================
+
+
+
+# COMPUTER SYSTEM
+
+```
+👉 CHANGE ROOT PASSWORD
+		
+sudo passwd root 
 ```
 
 
 ```
 👉 RECONFIGURE BROKEN DEPENDENCIES
+
 sudo dpkg --configure -a
 ```				
 
 
 ```
 👉 DELETE OLD DEPENDENCIES AND FILES
+
 sudo apt-get autoremove
 sudo apt-get autoclean				
 OR BEST ALTERNATIVE Check FILE HISTORY on Settings and Clear (File History, Trash and Temporary Files)				
@@ -1371,6 +1664,7 @@ termux-setup-storage
 
 ```
 👉 Install Genymotion (ANDROID EMULATOR)
+
 sudo apt update
 sudo apt install virtualbox
 Download Genymotion from the official website of Genymotion 
@@ -1386,10 +1680,13 @@ sudo ~/Downloads/genymotion-3.0.2-linux_x64.bin
 sudo rm -rf 
 ```
 
+
 ```
 👉 CONFIGURE
+
 sudo dpkg --configure -a
 ```
+
 
 ```
 👉 FIX FLASH ON UBUNTU TERMINAL 
@@ -1407,38 +1704,51 @@ udisksctl power-off -b /dev/sdb
 
 ```
 👉 CHECK SYSTEM INFO
+
 lscpu
 ```
 
+
 ```
 👉 CHECK NUMBER OF CORES AND THREADS
+
 lscpu | grep -E '^Thread|^Core|^Socket|^CPU\('
 ```
 
+
 ```
 👉 CHECK OS VERSION USING PYTHON
+
 python -m platform
 python3 -m platform
 ```
 
+
 ```
 👉 CHECK OS VERSION
+
 hostnamectl
 ```
 
+
 ```
 👉 CHECK OS VERSION IN DEBIAN
+
 lsb_release -d
 lsb_release -a
-``````
+```
+
 
 ```
 👉 GNOME TRANSPARENCY(MENU BAR AND TAB)
+
 Install (Dynamic Panel Transparency ) in ubuntu softwares
 ```
 
+
 ```
 👉 GNOME TRANSPARENCY(MENU BAR AND TAB)
+
 Install  dash-dock extension
 Then terminal write these commands:
 -------------------------------------------
@@ -1447,19 +1757,26 @@ gsettings set org.gnome.shell.extensions.dash-to-dock background-opacity 0.2
 -------------------------------------------
 ```
 
+
 ```
 👉 (ARCH && FEDORA) ENABLE PANTHEON DESKTOP ENVIRONMENT
+
 sudo systemctl disable lightdm.service
 sudo systemctl enable gdm.service
 
+
+
 👉 (DEBIAN) ENABLE PANTHEON DESKTOP ENVIRONMENT
+
 sudo systemctl disable lightdm.service
 sudo systemctl enable gdm.service
  systemctl start gdm
 ```
 
+
 ```
-👉 (UBUNTU 20- ONWARDS )XFCE INSTALLATION 
+👉 (UBUNTU 20- ONWARDS )XFCE INSTALLATION
+
 sudo apt install xfce4
         (OR)
 	
@@ -1478,7 +1795,10 @@ sudo apt install xubuntu-desktop
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+
+
 # VIRTUALIZATION 
+
 ```
 👉 VIRTUALBOX INSTALLATION
 
@@ -1522,8 +1842,7 @@ Then reboot your system and after reboot run this command:
 sudo modprobe vboxdrv
 ```
 				
-				
-				
+								
 ```				
 👉QEMU/KEMU				
 				
@@ -1592,9 +1911,9 @@ sudo modprobe vboxdrv
 
 NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto-configure-setup-firewall-with-ufw-on-ubuntu-linux/
 (CHECK WINDOWS DOC FILE)
-```											
-				
-								
+```															
+
+	
 ```
 👉 VIRTUALBOX CONFIGURATIONS
 
@@ -1698,6 +2017,30 @@ Others
     kali-desktop-live: Used during a live session when booted from the image
 ```
 
+
+
+===============================================================================================================================================
+
+
+
+# CYBER SECURITY
+
+```
+👉 WIFI HACKING
+NULLBYTE -> (Automated) https://www.youtube.com/watch?v=qpnpI_mF3Aw
+DAVID BOMBAL -> (Detailed) https://www.youtube.com/watch?v=J8A8rKFZW-M
+```		
+
+
+```
+👉 PENTESTING REDTEAM
+
+NULLBYTE -> (Automated) https://www.youtube.com/watch?v=qpnpI_mF3Aw
+```
+
+
+
+# OTHER CYBER SECURITY MATERIALS
 
 ```
 👉 RED TEAM TOOLS
@@ -1941,7 +2284,7 @@ https://lnkd.in/gCrWwaAe
 
 
 ```
-👉 FUNDAMENTALS
+👉 CYBERSECURITY FUNDAMENTALS
 
 **— Cyber Essentials —**
 
@@ -2196,49 +2539,103 @@ https://lnkd.in/gc5p5Jss
 ```
 
 
-===============================================================================================================================================
-
-# CYBER SECURITY
-
-```
-NULLBYTE -> (Automated) https://www.youtube.com/watch?v=qpnpI_mF3Aw
-DAVID BOMBAL -> (Detailed) https://www.youtube.com/watch?v=J8A8rKFZW-M
-```		
-
 
 ===============================================================================================================================================
-# COMPUTERSCIENCE GUIDE  
-
-1. EDUREKA
-2. free code camp
-3. LINKS
-   
-```
-👉 CYBERSECURITY GUIDE
-
-OWASP CHEETSHEET -> https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
-MIT NETWORK SECURITY -> https://www.youtube.com/watch?v=QOtA76ga_fY&list=PLBMO3ORTdwldCqlHVcbJSOa3GxLS6bpeE
-MIT DYNAMIC PROGRAMMING -> https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLZES21J5RvsHOeSW9Vrvo0EEc2juNe3tX
-```
-
-
-```
-👉 DATA STRUCTURE AND ALGORITHM GUIDE => https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide
 
 
 
-```
+# ML ENGINEER ROAD MAP
+☀️ Learn SQL
+
+✅ Aggregations with GROUP BY
+
+✅ Joins (INNER, LEFT, FULL OUTER)
+
+✅ Window Functions
+
+✅ Normalisation
+
+✅ Constraints in SQL
+
+✅ Common Table Expressions
+
+✅ How to design and implement data models and databases using tools such as MySQL, PostgreSQL
+
+☀️ Learn Python Programming
+
+✅ Learn Data Structures, Loops, If Statements
+
+✅ How to use Regular Expressions for data cleaning and extraction tasks
+
+✅ Understand Recursion Functions
+
+✅ Understand Solid Libraries in Python like Pandas, Numpy, Scikit-learn, and Great Expectations
+
+✅ Learn about unit and integration testing
+
+☀️ Learn about Data Modeling
+
+✅ Read about data normalization and 3rd normal form
+
+✅Read about fact, dimension, and aggregate tables
+
+✅ Read about efficient table designs such as cumulative
+
+✅ Learn about complex data types like MAP, ARRAY, and STRUCT
 
 
-```
-👉 DISTRIBUTED SYSTEM GUIDE
+☀️ Learn about Cloud and Distributed Computing
 
-Distributed  Systems(Overview) -> https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB
-Distributed  Systems(Advance) -> https://youtube.com/channel/UCnhpOONF1c1FtipDF8LPdqQ
-```                 
+✅ Learn about Shell Scripting in Linux. Most data engineers use shell scripting for cron jobs, setting up environments, or even working in the distributed environment.
 
-    
+✅ Gain knowledge of working with APIs GET, PUT, and POST. (Requests Library in Python)
+
+✅ Learn the basics of Web Scraping with BeautifulSoup and Selenium libraries
+
+✅ Master Git and Github for version control
+
+✅ Learn Cloud Computing Fundamentals with AWS, Google Cloud and Microsoft Azure
+
+✅ Read about the MapReduce architecture and see how it guided the design of today's distributed computing
+
+✅ Understanding data integration techniques and best practices.
+
+✅ Gain experience working with ETL tools such as Apache NiFi, Apache Kafka, and Talend
+
+✅ Learn about partitioning, skew, and spilling to disk
+
+
+☀️ Learn about Data Quality, Data Governance and Security
+
+✅ Understanding of data governance principles and best practices
+
+✅ How do you write a good data check?
+
+✅ How can you implement the write-audit-publish pattern in your pipelines?
+
+✅ Gain familiarity with data quality and data profiling tools to ensure the accuracy of the data being integrated
+
+✅ Knowledge of data security, privacy, and compliance regulations such as GDPR and CCPA
+
+☀️ Learn about Job Orchestration
+
+✅ Read about CRON
+
+✅ Try out a Scheduler like Airflow or Prefect
+
+☀️ Apply Distributed Compute Principles
+
+✅ A free trial with Snowflake or BigQuery is a good place to start
+
+✅ Try out Apache Spark + S3 if you want to be adventurous
+
+✅Gain knowledge of DevOps principles and CI/CD pipelines
+
+
+
 ===============================================================================================================================================
+
+
 
 # SOFTWARE ENGINEERING (QUANTUM AI, QUANTUM MECHANICS ,AI && DIGITAL COMPUTING) : (ELECTRONICS AND MECHANICS)
 
@@ -2330,7 +2727,7 @@ Modern -> Inno Setup(Setup is compiled with all the dependencies required, hence
 -------------------------------------------------------------------------------------------------------------------------------------
 
 
-REMOVE JAVA, DOCKER, KUBERNETES COMPLETELY
+👉 REMOVE JAVA, DOCKER, KUBERNETES COMPLETELY
 For java:
 sudo apt remove default-jre
 sudo apt-get remove --purge icedtea-* openjdk-*
@@ -6752,17 +7149,26 @@ sudo bash -c "$(wget -O - https://apt.llvm.org/llvm.sh)"
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
+
 ------------------LOGIN LINUX & WINDOWS--------------------
 				
 PASSWORD - devopsengineerDan
 PIN - Dan@1997
 
-ROOT - devopsengineer                                                             
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%							     
+ROOT - devopsengineer  
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%						
+
+
 				
 # WINDOWS
+
 ```
 👉 LOCAL ACCOUNT LOG IN TO WINDOWS 11
+
 In windows 11 pro
 -Sign in options
 -Domain join instead
@@ -6789,8 +7195,10 @@ Then:
 -Enter Local user name and password
 ```
 
+
 ```
 👉 WINDOWS SOFTWARES
+
 Download cpu-z    -> ram,cpu,graphics type and storage size
 Download Intel Graphics Command Center and Modify Settings to High/Ultra
 --------------------------------------------------------------------------
@@ -6809,67 +7217,92 @@ Visual Studio Installer -> Intellicode, Windows universal C runtime, Security Is
 Pycharm Community
 Rustrover
 Conan
-
 ```
+
 
 ```
 👉 CRACKED SOFTWARES
+
 1. 1337x.to OR 1337x.to/#
 2. WINDOWS OFFICE SETUP https://getintopc.com/?s=Office+2016&submit=Search
+
+					
+
+👉 WATCHING MOVIIES SERIES TV
+
+PUTLOCKER ->  https://putlockernew.vc/home
 ```
+
 
 ```
 👉 NETWORK RESET
+
 Reset network to default to remove previous configurations
 ```
 
+
 ```
 👉 STOPPING AUTOUPDATE IN WINDOWS
+
 Go to Settings.
 Go to Network and Internet
 Go to Properties
 Turn on Metered Connection to limit the bandwidth
 ```
 
+
 ```
 👉 COMPUTER SECURITY
+
 Glass Wire Network Security
 Virus Total
 ```
 
+
 ```
-👉 SUSPEND AND HIBERNATE				
+👉 SUSPEND AND HIBERNATE
+				
 SUSPEND -> DO NOTHING - To enable operating the laptop when the lid is down
 HIBERNATE -> ctrl + Delete to run the machine
 ```
 
+
 ```
 👉AVOID OVERHEATING
+
 *RESTART MACHINE TO FREE UP MEMORY, THUS AVOID LAGGNG OF PERFORMANCE
 *CLOSE MACHINE IF NOT IN USE
 ```
 
-```
-👉 CHECK TYPE OF SSD								       
-Go to cmd								       
-  wmic diskdrive get caption, firmwarerevision
-```
 
 ```
-👉 CHECK TRIM TECHNOLOGY IMPLEMENTATION 
+👉 CHECK TYPE OF SSD
+							       
+Go to cmd								       
+wmic diskdrive get caption, firmwarerevision
+```
+
+
+```
+👉 CHECK TRIM TECHNOLOGY IMPLEMENTATION
+
 Go to  cmd
 Check - fsutil behavior query DisableDeleteNotify  
 Enable - fsutil behavior set DisableDeleteNotify 0 
 Disable - fsutil behavior set DisableDeleteNotify 1 
 ```
 
+
 ```
 👉 DISABLE AUTO-UPDATES
+
 Windows + R - services.msc -> Windows update -> Disable
 ```
 
+
 ```
 👉 KEYBOARD SHORTCUTS
+
 Fn + Alt + F4 -> Close window and Shut Down or Reboot
 Windows + R - wmic -> bios get serialnumber
 Windows + R - winver -> To check Windows OS Build
@@ -6878,8 +7311,10 @@ Windows + R- %temp% -> Delete temp files
 Windows + R - optionalfeatures.exe -> Windows Subsystem for Linux				
 ````
 
+
 ```
-👉 FIX FLASH ON WINDOWS TERMINAL 
+👉 FIX FLASH ON WINDOWS TERMINAL
+
 diskpart
 list disk
 attributes disk
@@ -6887,11 +7322,14 @@ attributes disk clear diskonly
 exit
 ```
 
+
 ```
 👉 WINDOWS (UBUNTU TERMINAL)
+
 cd /mnt/c/Users/Dan/
 cd /mnt/c/Users/Dan/Desktop/Projects/
 ```
+
 
 ```
 👉 SETUP WINDOWS HELLO AND FINGERPRINT
@@ -6993,15 +7431,7 @@ graph LR
 
 
 
-					
-
-👉 WATCHING MOVIIES SERIES TV
-```
-PUTLOCKER ->  https://putlockernew.vc/home
-```
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 1) Youtube vids 
 2) 9 Vids + Project management  
 3)
@@ -7041,7 +7471,7 @@ VIDEOS + 2GIT + Printing + (Block Chain & Datastructures Summary Table)
 -> {2Networks+kvmConfigurations, *Subnetting*}Cybersecurity
 
 -> Network Security + Algorithm Design 
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 					
