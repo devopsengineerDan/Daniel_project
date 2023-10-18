@@ -103,14 +103,16 @@ Master's  
 
 👉 MIT NETWORK SECURITY -> https://www.youtube.com/watch?v=QOtA76ga_fY&list=PLBMO3ORTdwldCqlHVcbJSOa3GxLS6bpeE
 👉 MIT DYNAMIC PROGRAMMING -> https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLZES21J5RvsHOeSW9Vrvo0EEc2juNe3tX
+
+👉 Algorithms & Data Structures -> https://www.youtube.com/watch?v=XGClOyyliPs&list=PL7yh-TELLS1HgoWUfxGzoaa7PEJ2Q-RfC
+👉 Python Machine Learning Tutorial -> https://www.youtube.com/watch?v=jg5paDArl3E&list=PL7yh-TELLS1EZGz1-VDltwdwZvPV-jliQ
 ```
 
 
 ```
 👉 DATA STRUCTURE AND ALGORITHM GUIDE => https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide
 
-
-
+Algorithms & Data Structures -> https://www.youtube.com/watch?v=XGClOyyliPs&list=PL7yh-TELLS1HgoWUfxGzoaa7PEJ2Q-RfC
 ```
 
 
@@ -316,6 +318,7 @@ Acessible to the public - Public Key -> Encrypt message (SENT)1. -> Verifies Sig
 
 ```
 👉 Python Applications
+
 Acknowledgement: NeuralNine
 ------------------------------------------------------
 Run Youtube Script 
@@ -1789,7 +1792,7 @@ lsb_release -a
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-
+-------------------------------
 
 # VIRTUALIZATION 
 
@@ -2033,7 +2036,7 @@ DAVID BOMBAL -> (Detailed) https://www.youtube.com/watch?v=J8A8rKFZW-M
 HACKERSPLOIT -> https://www.youtube.com/watch?v=ChgqGBwl8NQ&list=PLBf0hzazHTGMjSlPmJ73Cydh9vCqxukCu&index=16
 ```
 
-
+-------------------------------
 
 # OTHER CYBER SECURITY MATERIALS
 
@@ -2876,12 +2879,14 @@ BEST PRACTICE + (autopep8, flake8, mypy)
 ### 4.  Have requirements-dev.txt for testing and deployment(i.e heroku) packages.
 ### 👉 5.  -Use __init__.py on package or library to be imported.
              * In __init__.py file have this:
-                 __all__ = ["module1", "module2"] 
+                 __all__ = ["module1", "module2"]
+           -Python dev tools  (i.e) Python dev tools image
+           -Python dev imports (i.e) Python dev imports image
            -Use bash for execution in main file. (i.e) #!/usr/bin/env python
            -Use utf-8 for character encoding in main file. (i.e) # coding: utf-8
            -Avoid using header links (i.e) HTML,CSS,Pyscript. Have files located locally on project folder
            -Have pyproject.toml file to manage setup configurations, for flexibility in execution of program  and for points(2,3 and 4).
-             * pip install -e .
+            (i.e) pip install -e .
 ### 6.  Have .gitignore and have necessary files in there.
 ### 7.  Use pipenv to manage virtual environments with python versions.
 ### 8.  Write explicit code for readability and scalability.
@@ -3739,13 +3744,7 @@ Push to your origin repository.
 Create a new Pull Request in GitHub.
 ```
 
-
-
-
-
---------------------------------------------------------------------------
-
-------------
+-------------------------------
 
 STATIC TYPING PYTHON
 
@@ -3753,7 +3752,9 @@ Install mypy
  python3 -m pip install -U mypy'
  mypy example.py
 
--------
+
+
+
 
 
 PYTHON
@@ -3798,7 +3799,8 @@ sudo apt install build-essential libffi-dev git pkg-config
 
 
 
--------
+-------------------------------
+
 RUST
 Install  Rust and Cargo   check online
 $ curl https://sh.rustup.rs -sSf | sh
@@ -3850,7 +3852,9 @@ cargo bench
 
 
 				
--------------
+-------------------------------
+
+
 C Language -> Check C project for a simple c project compilation in the various os in the readme.md section
            -> https://github.com/devopsengineerDan/c-project-rcg
 
@@ -4154,10 +4158,10 @@ Got any doubts? Check our FAQ, write us or join the community in Cpplang Slack #
 				
 ********************************************************************************************************************
 
+
+-------------------------------
+
      
-
-
-****************************************************************************
 **PYTHON,RUST,C LANGUAGES**
 
    ******DEVELOPMENT ENVIRONMENT******
@@ -4185,7 +4189,9 @@ Deactivate                deactivate_rustenv
 👉 Run cargo [STANDARD]
 
 ```
--------   
+-------------------------------
+
+
 **PYTHON LANGUAGE**        
 PIP -> ALWAYS USE PIP3			 
 Install pip/pip3 _ONCE_    Get:           curl https://bootstrap.pypa.io/get-pip.py | python 
@@ -4258,17 +4264,19 @@ Install Dependencies:     pipenv install -r requirements.txt
 Upgrade Dependencies:     pipenv install -r requirements.txt --upgrade
 Deactivate:               deactivate
 
-       
+-------------------------------
+
 ***********PYTHON SCRIPT*******
 $ chmod +x hello.py  # make script executable
 $ ./hello.py
 
+-------------------------------
 
-
-**Django, Flask, Fast API Projects**
+# DJANGO, FLASK , FLASK API PROJECTS
 -> Check the link https://github.com/devopsengineerDan/python-projects/tree/master/webapps
 -> Check the youtube link https://www.youtube.com/watch?v=3vfum74ggHE
 
+-------------------------------
 
 ***********DJANGO**************
 Effect changes:            python3 manage.py makemigrations
@@ -4278,6 +4286,7 @@ Effect changes:            python3 manage.py makemigrations
 
 python3 manage.py runserver
 
+-------------------------------
 
 ***********FLASK**************	
 export FLASK_APP=app.py
@@ -4287,7 +4296,7 @@ flask run
 **To run main function using this command, where FLASK_APP points to __init.py__. __init.py__ sets a variable app to an instance of Flask**
 python3 -m flask run 
 
-
+-------------------------------
 
 ***********Fast API***********
 **BEST PRACTICE**
@@ -4300,7 +4309,9 @@ ADVANTAGES -> https://www.youtube.com/watch?v=cbASjoZZGIw
 ### 6. Authentication built-in. It supports: HTTP Basic, OAuth2 tokens (JWT tokens) and header API keys.
 ### 7. Swagger UI and ReDoc built-in.
 
+-------------------------------
 
+# ERROR MANAGEMENT DJANGO
 
 			   ********NOTE**********
 			   DJANGO
@@ -6781,7 +6792,7 @@ pip install djangorestframework
 
 
 DJANGO
-‐-------------------
+
 ADMIN
 1 WAY TO DO IT
 $django-admin startproject travel_project
@@ -6790,9 +6801,9 @@ $python3 manage.py migrate
 $django-admin startapp travel_app 
 $python3 manage.py runserver
 
----------------------
+======
 $ python3 manage.py createsuperuser 
----------------------
+======
 
 
 2 WAY TO DO IT
