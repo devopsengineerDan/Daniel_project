@@ -1051,43 +1051,6 @@ Shell companies(ownership) to avoid damage on you
 
 
 # SYSTEM UI, INPUT&&OUTPUT AND PROCESSORS
-	 
-```									
-👉 CHECK BATTERY
-									
-upower -i /org/freedesktop/UPower/devices/battery_BAT0
-```
-
-
-```									
-👉 REMOVE DOT FILE/FOLDER
-									
-rm -rf ~/.<file or folder name> (i.e)
-rm -rf ~/.ssh
-
-
-👉 REMOVE BINARY FILE
-
-sudo rm -rf /usr/local/bin/surreal
-```
-
-
-```
-👉 RECONFIGURE BROKEN DEPENDENCIES
-
-sudo dpkg --configure -a
-
-sudo apt  autoclean
-sudo apt clean
-sudo apt autoremove
-sudo dpkg --purge <file-name>
-
-sudo apt-f install
-sudo apt --fix-broken install
-
-sudo apt update && sudo apt upgrade 
-```
-
 
 ```									
 👉 ENHANCE RESOLUTION
@@ -1169,26 +1132,6 @@ dconf load / <old_settings
 
 
 ```
-👉 MAINTENANCE OF SSD
-
-sudo systemctl enable fstrim.timer
-systemctl status fstrim.timer 
-```
-
-
-```
-👉 GRUB RESCUE ERROR FIX UBUNTU
-
-sudo update-grub2
-sudo grub-install /dev/sda
-
-sudo add-apt-repository -y ppa:yannubuntu/boot-repair
-sudo apt-get update
-sudo apt-get install -y boot-repair && boot-repair
-```
-
-
-```
 👉 WINDOW DISPLAY ERROR && UNRENSPONSIVE MOUSE UBUNTU
 
 dpkg -l | grep linux-image | awk '{print$2}'
@@ -1238,7 +1181,56 @@ Instructions:
 gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 9800	
 ```
 
+
+```
+👉 GNOME TRANSPARENCY(MENU BAR AND TAB)
+
+Install (Dynamic Panel Transparency ) in ubuntu softwares
+```
+
+
+```
+👉 GNOME TRANSPARENCY(MENU BAR AND TAB)
+
+Install  dash-dock extension
+Then terminal write these commands:
+-------------------------------------------
+gsettings set org.gnome.shell.extensions.dash-to-dock transparency-mode 'FIXED'
+gsettings set org.gnome.shell.extensions.dash-to-dock background-opacity 0.2
+-------------------------------------------
+```
+
+
+```
+👉 (ARCH && FEDORA) ENABLE PANTHEON DESKTOP ENVIRONMENT
+
+sudo systemctl disable lightdm.service
+sudo systemctl enable gdm.service
+
+
+
+👉 (DEBIAN) ENABLE PANTHEON DESKTOP ENVIRONMENT
+
+sudo systemctl disable lightdm.service
+sudo systemctl enable gdm.service
+ systemctl start gdm
+```
+
+
+```
+👉 (UBUNTU 20- ONWARDS )XFCE INSTALLATION
+
+sudo apt install xfce4
+        (OR)
 	
+sudo add-apt-repository ppa:xubuntu-dev/staging
+sudo apt update
+
+sudo apt upgrade
+sudo apt install xubuntu-desktop
+```
+
+ 
 ```							     
 👉 CHANGE DOCK IN XFCE
 
@@ -1638,11 +1630,61 @@ sudo passwd root
 ```
 
 
+```									
+👉 CHECK BATTERY
+									
+upower -i /org/freedesktop/UPower/devices/battery_BAT0
+```
+
+
+```									
+👉 REMOVE DOT FILE/FOLDER
+									
+rm -rf ~/.<file or folder name> (i.e)
+rm -rf ~/.ssh
+
+
+👉 REMOVE BINARY FILE
+
+sudo rm -rf /usr/local/bin/surreal
+```
+
+
 ```
 👉 RECONFIGURE BROKEN DEPENDENCIES
 
 sudo dpkg --configure -a
-```				
+
+sudo apt  autoclean
+sudo apt clean
+sudo apt autoremove
+sudo dpkg --purge <file-name>
+
+sudo apt-f install
+sudo apt --fix-broken install
+
+sudo apt update && sudo apt upgrade 
+```
+
+
+```
+👉 MAINTENANCE OF SSD
+
+sudo systemctl enable fstrim.timer
+systemctl status fstrim.timer 
+```
+
+
+```
+👉 GRUB RESCUE ERROR FIX UBUNTU
+
+sudo update-grub2
+sudo grub-install /dev/sda
+
+sudo add-apt-repository -y ppa:yannubuntu/boot-repair
+sudo apt-get update
+sudo apt-get install -y boot-repair && boot-repair
+```
 
 
 ```
@@ -1739,53 +1781,6 @@ lsb_release -a
 ```
 
 
-```
-👉 GNOME TRANSPARENCY(MENU BAR AND TAB)
-
-Install (Dynamic Panel Transparency ) in ubuntu softwares
-```
-
-
-```
-👉 GNOME TRANSPARENCY(MENU BAR AND TAB)
-
-Install  dash-dock extension
-Then terminal write these commands:
--------------------------------------------
-gsettings set org.gnome.shell.extensions.dash-to-dock transparency-mode 'FIXED'
-gsettings set org.gnome.shell.extensions.dash-to-dock background-opacity 0.2
--------------------------------------------
-```
-
-
-```
-👉 (ARCH && FEDORA) ENABLE PANTHEON DESKTOP ENVIRONMENT
-
-sudo systemctl disable lightdm.service
-sudo systemctl enable gdm.service
-
-
-
-👉 (DEBIAN) ENABLE PANTHEON DESKTOP ENVIRONMENT
-
-sudo systemctl disable lightdm.service
-sudo systemctl enable gdm.service
- systemctl start gdm
-```
-
-
-```
-👉 (UBUNTU 20- ONWARDS )XFCE INSTALLATION
-
-sudo apt install xfce4
-        (OR)
-	
-sudo add-apt-repository ppa:xubuntu-dev/staging
-sudo apt update
-
-sudo apt upgrade
-sudo apt install xubuntu-desktop
-```
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
