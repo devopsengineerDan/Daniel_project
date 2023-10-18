@@ -2458,8 +2458,9 @@ C1.png
 👉 PYTHON           (OFFICIAL)   ->     https://docs.python.org/
                                  ->     https://www.pythontutorial.net/python-oop/
 
-👉 PYTHON EXTENSIONS/PACKAGES    ->     https://www.youtube.com/watch?v=jlWhnrk8go0
-   IN RUST
+👉 PYTHON EXTENSIONS/PACKAGES IN RUST
+                                 ->     https://www.youtube.com/watch?v=jlWhnrk8go0
+                                 ->     https://www.youtube.com/watch?v=DpUlfWP_gtg
 
 
 BEST PRACTICE + (autopep8, flake8, mypy)
