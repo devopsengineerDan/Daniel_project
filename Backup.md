@@ -91,6 +91,32 @@ Master's  
 
 
 
+# LIFE
+
+1 Cybersecurity
+2 Armory
+3 Chess
+                                                              1 Silence
+							      2 Reading, Listening
+	                                                      3 Speaking
+                                                              4 Golf
+      1 Forex
+      2 Pool table
+      3 Swimming
+                                                               1 Eat and Drink
+							       2 Land
+	                                                       3 Exercise
+
+
+                                                           
+							   
+===============================================================================================================================================
+# TECHNOLOGY & SCIENCE
+
+===============================================================================================================================================
+
+
+
 # COMPUTER SCIENCE GUIDE  
 
 1. EDUREKA
