@@ -3735,9 +3735,9 @@ Push to your origin repository.
 Create a new Pull Request in GitHub.
 ```
 
--------------------------------
 
-👉 PYTHON 
+
+# PYTHON 
 
 ```
 👉 PYTHON INSTALLATION
