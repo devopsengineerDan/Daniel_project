@@ -6957,7 +6957,7 @@ Source code
 
 -------------------------------
 
-👉 DJANGO && POGRESQL CONNECTION 
+👉 DJANGO && EMAIL CONNECTION 
 
 ```
 DATABASES = {
@@ -7006,7 +7006,7 @@ def email(request):
     return redirect('redirect to a new page')
 ```
 
--------------------------------
+
 
 # DATABASES
 
