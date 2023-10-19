@@ -6846,13 +6846,9 @@ Stock price prediction is a machine learning project for beginners; in this tuto
 
 
 
+# DJANGO MODELS
 
-
-
-
-
-
-
+```
 $pip3 install pillow #image library
 $pip3 install psycopg2 #connector to db
 
@@ -6888,25 +6884,13 @@ from django.views.generic import TemplateView
 urlpatterns = [
   url(r'^sw.js', (TemplateView.as_view(template_name="sw.js", content_type='application/javascript', )), name='sw.js'),
 ]
+```
 
 -------------------------------
 
-******************************************DATABASES*************************************************
-COMMON DB (PLATFORM DEPENDENT)
-Relational db:            postreSQL 
-Document db:              CouchDB
-Graph and cloud web db:   Cassandra
+👉 DJANGO && MONGODB CONNECTION
 
-MULTI-PURPOSE (PLATFORM AGNOSTIC)
-General purpose db:       SurrealDB
-
-
-
-
-
-
-DJANGO && MONGODB CONNECTION
-
+```
 1)django_mongodb_engine
 2)djongo -> transpiler you write sql queries and it transpiles to mongo nosql queries
 
@@ -6969,11 +6953,13 @@ and othersâŠ fully supported.
 Important links
 Full Documentation
 Source code
+```
 
+-------------------------------
 
-DJANGO && POGRESQL CONNECTION 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+👉 DJANGO && POGRESQL CONNECTION 
 
+```
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
@@ -6989,12 +6975,12 @@ DATABASES = {
 
 	 SETTINGS.PY
 
-EMAIL_BACKEND = âdjango.core.mail.backends.smtp.EmailBackendâ
-EMAIL_HOST = âsmtp.gmail.comâ
+EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
+EMAIL_HOST = "smtp.gmail.com"
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
-EMAIL_HOST_USER = âyour_account@gmail.comâ
-EMAIL_HOST_PASSWORD = âyour accountâs passwordâ
+EMAIL_HOST_USER = "your_account@gmail.com"
+EMAIL_HOST_PASSWORD = "your account's password"
 
         ((( OR )))
 		
@@ -7003,7 +6989,7 @@ EMAIL_HOST = "smtp.gmail.com"
 EMAIL_USE_SSL = True
 EMAIL_PORT = 465
 EMAIL_HOST_USER = "your_account@gmail.com"
-EMAIL_HOST_PASSWORD = "your accountâs password"
+EMAIL_HOST_PASSWORD = "your account's password"
   
   VIEWS.PY
 
@@ -7018,28 +7004,29 @@ def email(request):
     recipient_list = ['receiver@gmail.com',]
     send_mail( subject, message, email_from, recipient_list )
     return redirect('redirect to a new page')
-
-
--------------------------------
-
-
-WINDOWS AND UBUNTU PGADMIN4
-
-WINDOWS FIX FOR POSTGRES CONFIGURATION 
-
-By default the PostgreSQL server will listen only on a local loop-back interface 127.0.0.1. If you need to configure your PostreSQL server to listen on all networks you will need to configure its main configuration file /etc/postgresql/10/main/postgresql.conf:
-$ sudo nano /etc/postgresql/10/main/postgresql.conf
-and add the following line somewhere to the CONNECTIONS AND AUTHENTICATION section:
-listen_addresses = '*'
-
-sudo service postgresql restart
+```
 
 -------------------------------
 
-PGADMIN4 INSTALLATION
+# DATABASES
 
-PREVIOUS CRITERIA
+```
+COMMON DB (PLATFORM DEPENDENT)
+Relational db:            postreSQL 
+Document db:              CouchDB
+Graph and cloud web db:   Cassandra
 
+MULTI-PURPOSE (PLATFORM AGNOSTIC)
+General purpose db:       SurrealDB
+```
+
+
+
+# POSTGRESQL PGADMIN4 INSTALLATION
+
+👉 PGADMIN4 INSTALLATION PREVIOUS CRITERIA
+
+```
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 sudo apt-get install virtualenv python3-pip libpq-dev python3-dev
 
@@ -7082,14 +7069,14 @@ deactivate
 
 
 
-
+-----------------------------------------------------------------
 UBUNTU
 sudo apt install postgresql postgresql-contrib
 apt-get install postgresql -y              
-
+-----------------------------------------------------------------
 FEDORA
 sudo dnf install postgresql postgresql-contrib 
-
+-----------------------------------------------------------------
 
 
 sudo systemctl start postgresql
@@ -7119,11 +7106,12 @@ exit
 
 nano /etc/postgresql/12/main/pg_hba.conf
 systemctl restart postgresql
+```
 
--------------------------------
 
-PGADMIN4 INSTALLATION NEW CRITERIA
+👉 PGADMIN4 INSTALLATION NEW CRITERIA
 
+```
 # Install the public key for the repository (if not done previously):
 sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
 
@@ -7211,11 +7199,25 @@ sudo sh sqlworkbench.sh
 jdbc:postgresql://your.database.server.ip:port.number/name_of_database
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+```
+
+
+👉 WINDOWS FIX FOR POSTGRES CONFIGURATION 
+
+```
+By default the PostgreSQL server will listen only on a local loop-back interface 127.0.0.1. If you need to configure your PostreSQL server to listen on all networks you will need to configure its main configuration file /etc/postgresql/10/main/postgresql.conf:
+$ sudo nano /etc/postgresql/10/main/postgresql.conf
+and add the following line somewhere to the CONNECTIONS AND AUTHENTICATION section:
+listen_addresses = '*'
+
+sudo service postgresql restart
+```
 
 -------------------------------
 
-COUCHDB INSTALLATION -->> CHECK OFFICIAL WEBSITE
+# COUCHDB INSTALLATION -->> CHECK OFFICIAL WEBSITE
 
+```
 systemctl status couchdb.service
 
 Run on browser URL:
@@ -7225,14 +7227,17 @@ Username: admin
 Password: "..."
 
 -> http://localhost:5984/_utils/index.html#verifyinstall
+```
 
 -------------------------------
 
 
-SURREALDB INSTALLATION -->> CHECK OFFICIAL WEBSITE
+# SURREALDB INSTALLATION -->> CHECK OFFICIAL WEBSITE
 
+```
 sudo apt install clang
 sudo bash -c "$(wget -O - https://apt.llvm.org/llvm.sh)"
+```
 
 
 
@@ -7245,7 +7250,7 @@ PIN - Dan@1997
 ROOT - devopsengineer  
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%						
 
--------------------------------
+
 
 # WINDOWS
 
