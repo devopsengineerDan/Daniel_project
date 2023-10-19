@@ -4273,18 +4273,58 @@ $ ./hello.py
 
 #  PYTHON FRAMEWORKS
 
-👉 DJANGO, FLASK , FLASK API PROJECTS
+👉 DJANGO, FastAPI , FLASK  PROJECTS
 
 ```
 -> Check the link https://github.com/devopsengineerDan/python-projects/tree/master/webapps
 -> Check the youtube link https://www.youtube.com/watch?v=3vfum74ggHE
 ```
 
--------------------------------
 
 # DJANGO
 
-👉 Effecting changes in Django
+👉 STARTING A PROJECT IN DJANGO
+
+```
+ADMIN
+1 WAY TO DO IT
+$django-admin startproject travel_project
+$cd travel_project
+$python3 manage.py migrate
+$django-admin startapp travel_app 
+$python3 manage.py runserver
+
+======
+$ python3 manage.py createsuperuser 
+======
+
+
+2 WAY TO DO IT
+$django-admin startproject travel_project
+$cd travel_project
+$python3 manage.py migrate
+$python3 manage.py runserver
+$python3 manage.py startapp travel_app 
+$python3 manage.py runserver
+
+
+**NOT SURE**
+SIMPLE APP
+$django-admin startproject travel_project
+$cd travel_project
+(NOT SURE)$django startproject travel_project (wsgi, setting)
+$ python3 manage.py startapp travel_app  (view, models, templates)
+$python3 manage.py runserver
+
+
+**NOT SURE**
+$django-admin startproject heyapp (wsgi, setting)
+$django-admin startproject heyapp . (view, models, templates)
+```
+
+
+👉 EFFECTING CHANGES IN DJANGO
+
 ```
 Effect changes:            python3 manage.py makemigrations
                            python3 manage.py migrate
@@ -4292,6 +4332,27 @@ Effect changes:            python3 manage.py makemigrations
 
 
 python3 manage.py runserver
+```
+
+
+👉 DJANGO DEPENDENCIES
+
+```
+pip3 install -r requirements.txt
+pip3 freeze > requirements.txt
+
+Application
+
+ pip install django==1.11
+ pip install django-bootstrap4
+ pip install psycopg2
+ pip install python-decouple
+ pip install django-registration==2.4.1
+ pip install djangorestframework
+ pip install django-progressive-web-app
+
+ API 
+pip install djangorestframework
 ```
 
 -------------------------------
@@ -4314,6 +4375,32 @@ python3 manage.py runserver
 
 # FLASK
 
+👉 FLASK APPLICATION STRUCTURE
+
+```
+|-Watchlist
+    |-app/
+        |-main/
+            |-__init__.py
+            |-errors.py
+            |-forms.py
+            |-views.py
+        |-static/
+        |-templates/
+        |-__init__.py
+        |-models.py
+        |-requests.py
+    |-tests/
+        |-test_movie.py
+        |-test_review.py
+    |-virtual/
+    |-config.py
+    |-.gitignore
+    |-manage.py
+    |-start.sh
+``` 
+
+
 👉 EXECUTING FLASK APPLICATION
 
 ```
@@ -4323,6 +4410,42 @@ flask run
 **BEST PRACTICE**
 **To run main function using this command, where FLASK_APP points to __init.py__. __init.py__ sets a variable app to an instance of Flask**
 python3 -m flask run 
+```
+
+
+👉 FLASK DEPENDENCIES
+
+```
+pip3 install -r requirements.txt
+pip3 freeze > requirements.txt
+
+Application Dependencies
+  pip install flask
+  pip install flask-bootstrap
+  pip install gunicorn
+  pip install flask-migrate
+  pip install flask-login
+  pip install flask-uploads
+  pip install flask-mail
+  pip install flask-simplemde markdown2
+
+
+API Dependencies
+  pip install flask-rest-framework
+
+Other Dependencies
+--aniso8601==8.0.0
+click==7.1.2
+Flask==1.1.2
+Flask-RESTful==0.3.8
+Flask-SQLAlchemy==2.4.3
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+pytz==2020.1
+six==1.15.0
+SQLAlchemy==1.3.18
+Werkzeug==1.0.1
 ```
 
 -------------------------------
@@ -4371,8 +4494,6 @@ python3 -m flask run
 			   
 			   *************************
 ```
-      
-
 
 
 
@@ -6727,124 +6848,7 @@ Stock price prediction is a machine learning project for beginners; in this tuto
 
 
 
-Flask Application structure
 
-|-Watchlist
-    |-app/
-        |-main/
-            |-__init__.py
-            |-errors.py
-            |-forms.py
-            |-views.py
-        |-static/
-        |-templates/
-        |-__init__.py
-        |-models.py
-        |-requests.py
-    |-tests/
-        |-test_movie.py
-        |-test_review.py
-    |-virtual/
-    |-config.py
-    |-.gitignore
-    |-manage.py
-    |-start.sh
- 
------------------------------------------------------------------------------------------------------------
-FLASK 
-pip3 install -r requirements.txt
-pip3 freeze > requirements.txt
-
- Application 
-  
-  pip install flask
-  curl https://bootstrap.pypa.io/get-pip.py | python
-  pip install flask-bootstrap
-  python3.6 -m  pip install gunicorn
-  sudo apt-get update
-  sudo apt-get install postgresql postgresql-contrib libpq-dev
-  pip install flask-migrate
-  pip install flask-login
-  pip install flask-uploads
-  pip install flask-mail
-  pip install flask-simplemde markdown2
-
-
-API
-pip install flask-rest-framework
-
---aniso8601==8.0.0
-click==7.1.2
-Flask==1.1.2
-Flask-RESTful==0.3.8
-Flask-SQLAlchemy==2.4.3
-itsdangerous==1.1.0
-Jinja2==2.11.2
-MarkupSafe==1.1.1
-pytz==2020.1
-six==1.15.0
-SQLAlchemy==1.3.18
-Werkzeug==1.0.1
----------------------------------------
-DJANGO
-pip3 install -r requirements.txt
-pip3 freeze > requirements.txt
-
-Application
-
- pip install django==1.11
- pip install django-bootstrap4
- pip install psycopg2
- pip install python-decouple
- pip install django-registration==2.4.1
- pip install djangorestframework
- pip install django-progressive-web-app
-
- API 
-pip install djangorestframework
-
-
-
--------------------------------
-
-
-
-DJANGO
-
-ADMIN
-1 WAY TO DO IT
-$django-admin startproject travel_project
-$cd travel_project
-$python3 manage.py migrate
-$django-admin startapp travel_app 
-$python3 manage.py runserver
-
-======
-$ python3 manage.py createsuperuser 
-======
-
-
-2 WAY TO DO IT
-$django-admin startproject travel_project
-$cd travel_project
-$python3 manage.py migrate
-$python3 manage.py runserver
-$python3 manage.py startapp travel_app 
-$python3 manage.py runserver
-
-
-**NOT SURE**
-SIMPLE APP
-$django-admin startproject travel_project
-$cd travel_project
-(NOT SURE)$django startproject travel_project (wsgi, setting)
-$ python3 manage.py startapp travel_app  (view, models, templates)
-$python3 manage.py runserver
-
-
-**NOT SURE**
-$django-admin startproject heyapp (wsgi, setting)
-$django-admin startproject heyapp . (view, models, templates)
 
 
 
