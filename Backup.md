@@ -255,16 +255,6 @@ Advantages of cargo
 Pointers -> https://www.youtube.com/watch?v=Hb-bmAmbwvo&list=PL7yh-TELLS1GafZOVHhCPaCQUt8HrfCZE&index=9
 
 C to LLVM IR Assembly -> https://www.youtube.com/watch?v=wt7a5BOztuM
-
-
-
-Build    -> gcc main.c -o main
-Compile  ->./main
-
-								
-Build an entire project using make ->    Check  -  https://github.com/devopsengineerDan/worldOfWalls-game
-Install ->    sudo make install
-              sudo apt-get -y install cmake 
 ```
 
 
@@ -2637,7 +2627,7 @@ https://lnkd.in/gc5p5Jss
 
 
 
-# SOFTWARE ENGINEERING (QUANTUM AI, QUANTUM MECHANICS ,AI && DIGITAL COMPUTING) : (ELECTRONICS AND MECHANICS)
+# SOFTWARE ENGINEERING (QUANTUM AI, QUANTUM MECHANICS ,AI && DIGITAL COMPUTING) : (ANALOGUE ELECTRONICS AND MECHANICS)
 
 ```
 👉 DEVELOPMENT SETUP
@@ -3747,18 +3737,10 @@ Create a new Pull Request in GitHub.
 
 -------------------------------
 
-STATIC TYPING PYTHON
+👉 PYTHON 
 
-Install mypy 
- python3 -m pip install -U mypy'
- mypy example.py
-
-
-
-
-
-
-PYTHON
+```
+👉 PYTHON INSTALLATION
 
 Install pip3          sudo apt install python3-pip
                       python -m pip install --upgrade pip
@@ -3769,7 +3751,12 @@ Install python dev    sudo apt-get install build-essential libssl-dev libffi-dev
 		      sudo apt install python3-setuptools
 		      sudo apt install libpq-dev
 		      pip install python-dev-tools
-				
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	
 *****NOTE*****
 bash_profile is executed for login shells, while . bashrc is executed for interactive non-login shells. When you login (type username and password) via console, either sitting at the machine, or remotely via ssh: . bash_profile is executed to configure your shell before the initial command prompt.
 
@@ -3790,30 +3777,111 @@ CHECK BEST METHOD
 OR (BEST METHOD)
 $ export PATH="$HOME/.python3/bin:$PATH" -> AND ADD python/bin  FOR KALI LINUX
 $ echo $PATH
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 				
-MICROPYTHON
+👉 MICROPYTHON INSTALLATION
+
 sudo apt install micropython
 sudo apt install build-essential libffi-dev git pkg-config
-
-
-
-
+```
 
 -------------------------------
 
-RUST
+👉 BEST PRACTICE FOR PIP
+
+```
+Install pip3:         sudo apt install python3-pip
+                      python -m pip install --upgrade pip
+		      OR python3 -m pip install --upgrade pip
+	
+Freeze Dependencies:       pip freeze
+                           pip freeze > requirements.txt
+			   
+Install Dependencies:      pip3 install -r requirements.txt
+                           OR
+			   python3 -m pip install -r requirements. txt
+Upgrade Dependencies:      pip3 install -r requirements.txt --upgrade
+			   
+Deactivate:                deactivate
+```
+
+-------------------------------
+
+👉 OLD Python env	 
+
+```
+Install _ONCE_               -> 1st Option
+				sudo apt-get install python3-venv
+                                pip install --force-reinstall virtualenv
+	                     -> 2nd Option
+		                pip install virtualenv
+				
+**Go to Project Folder**				
+Create env:     virtualenv -p /usr/bin/python3.8 venv				
+Activate env:   source venv/bin/activate 				
+```		  
+				
+
+👉 NEW Python env
+
+```
+Install pip3 _ONCE_    sudo apt install python3-pip
+
+Install _ONCE_               -> 1st Option
+                                pip3 install pipenv
+		                export PATH="$HOME/.pipenv/bin:$PATH"
+                                echo $PATH
+	                     -> 2nd Option
+				sudo apt install python3-venv
+                                export PATH="$HOME/.pipenv/bin:$PATH"
+                                echo $PATH
+
+    
+**Go to Project Folder**
+
+Create env:     python3 -m venv my-project-env
+Activate env:   source my-project-env/bin/activate
+Deactivate env: deactivate			
+	
+*************************
+$ which python3.8
+*************************
+
+Create:                   pipenv --python /usr/bin/python3.8
+Activate:                 pipenv shell
+
+Freeze Dependencies:      pip freeze
+			  pip freeze > requirements.txt
+			  
+			  
+Install Dependencies:     pipenv install -r requirements.txt
+Upgrade Dependencies:     pipenv install -r requirements.txt --upgrade
+Deactivate:               deactivate
+```
+
+
+
+# RUST
+
+👉 RUST INSTALLATION
+
+```
 Install  Rust and Cargo   check online
 $ curl https://sh.rustup.rs -sSf | sh
 $ source $HOME/.cargo/env
 $ export PATH="$HOME/.cargo/bin:$PATH"
 $ echo $PATH
+```
 
-***************************
+-------------------------------
 
-CARGO -> Rust Build System(Build and Compile) and Package Manager(Manages dependencies)
+👉 NAIVE APPROACH
 
-**ADVANCE USER**
+```
 cargo new portfolio  - create "project folder" portfolio 
 
 cd portfolio
@@ -3822,22 +3890,20 @@ cd src
 
 gedit main.rs  -> create and edit main.rs file
 
-rustc main.rs  ->  build and compile program
+rustc main.rs  ->  build program
 
-./main    ->  run  program
+./main    ->  compile and run program
+```
 
-------------
+-------------------------------
 
-**APPRENTICE USER**
-cargo new portfolio  - create "project folder" portfolio 
+👉 CARGO BEST PRACTICE
+👉 CARGO -> Rust Build System(Build and Compile) and Package Manager(Manages dependencies)
+👉 CARGO COMMANDS
 
-cd portfolio
-
-cd src
-
-gedit main.rs
-
-1st Option:(ONE SIMPLE COMMAND) 
+```
+cargo init <project-name>
+1st Option:(ONE SIMPLE COMMAND)
 cargo run 
 2nd Option:(BEST PRACTICE)
 cargo check
@@ -3850,25 +3916,60 @@ cargo clean
 OTHER COMMANDS
 cargo fix -> Ensure your use case is defined whether you are doing parallelism or concurrency.
 cargo bench
+```
 
-
-				
 -------------------------------
 
+👉  RUST ENVIRONMENT => Rust uses cache memory unlike shared memory in Python
 
-C Language -> Check C project for a simple c project compilation in the various os in the readme.md section
-           -> https://github.com/devopsengineerDan/c-project-rcg
+```
+Dependencies aren’t normally installed into the cargo directory in Rust. There is a cache directory that is shared, but it’s a true cache and therefore not a problem in the way a shared lib directory is.
+
+Since dependencies aren’t shared there’s no real need for isolated per-project rust installs. Cargo will pull the correct dependencies for your project when you build it and link only those dependencies into the final program, regardless of what other programs you may have built before.
+```
 
 
 
+# C
+
+👉 C DEVELOPMENT TOOLS INSTALLATION 
+
+```
 sudo apt install build-essential
 sudo apt install cmake
+```
+
+-------------------------------
+
+👉 CONAN PACKAGE MANAGER INSTALLATION
+
+```
 pip install conan   -> C/C++ PACKAGE MANAGER	
 export PATH="$HOME/.conan/bin:$PATH"
 echo $PATH
+```
 
+-------------------------------
 
-*******CLANG******	
+👉 BUILD AND COMPILE USING GCC COMPILER
+
+```
+Build    -> gcc main.c -o main
+Compile  ->./main
+
+								
+Build and Run/Compile/Execute an entire COMPLETED project using make ->    Check  -  https://github.com/devopsengineerDan/worldOfWalls-game
+Install ->    sudo make install
+              sudo apt-get -y install cmake
+Build ->      make
+Run ->        make run
+```
+
+-------------------------------
+
+👉 CLANG
+
+```
 Install Clang on Debian
 
 Step 1. First, make sure that all your system packages are up-to-date by running the following apt commands in the terminal.
@@ -4155,153 +4256,51 @@ To use the 32-bit binaries, you will also have to change your project build:
     In macOS, you need to add the definition -DCMAKE_OSX_ARCHITECTURES=i386.
 
 Got any doubts? Check our FAQ, write us or join the community in Cpplang Slack #conan channel!
-				
-				
-********************************************************************************************************************
+```				
 
 
--------------------------------
 
+# PYTHON SCRIPTING
      
-**PYTHON,RUST,C LANGUAGES**
-
-   ******DEVELOPMENT ENVIRONMENT******
-👉 RUST LANGUAGE ->Initilialize always on Project Folder	
-
-👉  Rust uses cache memory unlike shared memory in Python
-``
- Dependencies aren’t normally installed into the cargo directory in Rust. There is a cache directory that is shared, but it’s a true cache and therefore not a problem in the way a shared lib directory is.
-
-Since dependencies aren’t shared there’s no real need for isolated per-project rust installs. Cargo will pull the correct dependencies for your project when you build it and link only those dependencies into the final program, regardless of what other programs you may have built before.
-``
-
+👉 MAKE PYTHON SCRIPT EXECUTABLE
 
 ```
-👉 --DEPRECATED-- Rustenv
-
-Install _ONCE_            pip install rustenv
-			  export PATH="$HOME/.rustenv/bin:$PATH"
-                          echo $PATH
-				
-Create                    rustenv  renv
-Activate                  ./renv/bin/activate
-Deactivate                deactivate_rustenv
-
-👉 Run cargo [STANDARD]
-
-```
--------------------------------
-
-
-**PYTHON LANGUAGE**        
-PIP -> ALWAYS USE PIP3			 
-Install pip/pip3 _ONCE_    Get:           curl https://bootstrap.pypa.io/get-pip.py | python 
-                           Upgrade:       pip install --upgrade pip
-
-
-OR
-
-**BEST PRACTICE FOR PIP**
-Install pip3:         sudo apt install python3-pip
-                      python -m pip install --upgrade pip
-		      OR python3 -m pip install --upgrade pip
-	
-Freeze Dependencies:       pip freeze
-                           pip freeze > requirements.txt
-			   
-Install Dependencies:      pip3 install -r requirements.txt
-                           OR
-			   python3 -m pip install -r requirements. txt
-Upgrade Dependencies:      pip3 install -r requirements.txt --upgrade
-			   
-Deactivate:                deactivate
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-OLD Python env	 
-
-Install _ONCE_               -> 1st Option
-				sudo apt-get install python3-venv
-                                pip install --force-reinstall virtualenv
-	                     -> 2nd Option
-		                pip install virtualenv
-				
-**Go to Project Folder**				
-Create env:     virtualenv -p /usr/bin/python3.8 venv				
-Activate env:   source venv/bin/activate 
-				
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++			  
-				
-
-NEW Python env
-
-Install pip3 _ONCE_    sudo apt install python3-pip
-
-Install _ONCE_               -> 1st Option
-                                pip3 install pipenv
-		                export PATH="$HOME/.pipenv/bin:$PATH"
-                                echo $PATH
-	                     -> 2nd Option
-				sudo apt install python3-venv
-                                export PATH="$HOME/.pipenv/bin:$PATH"
-                                echo $PATH
-
-    
-**Go to Project Folder**
-Create env:     python3 -m venv my-project-env
-Activate env:   source my-project-env/bin/activate
-Deactivate env: deactivate			
-	
-*************************
-$ which python3.8
-*************************
-Create:                   pipenv --python /usr/bin/python3.8
-Activate:                 pipenv shell
-
- Freeze Dependencies:     pip freeze
-			  pip freeze > requirements.txt
-			  
-			  
-Install Dependencies:     pipenv install -r requirements.txt
-Upgrade Dependencies:     pipenv install -r requirements.txt --upgrade
-Deactivate:               deactivate
-
--------------------------------
-
-***********PYTHON SCRIPT*******
-$ chmod +x hello.py  # make script executable
+$ chmod +x hello.py  
 $ ./hello.py
+```
 
--------------------------------
 
-# DJANGO, FLASK , FLASK API PROJECTS
+
+#  PYTHON FRAMEWORKS
+
+👉 DJANGO, FLASK , FLASK API PROJECTS
+
+```
 -> Check the link https://github.com/devopsengineerDan/python-projects/tree/master/webapps
 -> Check the youtube link https://www.youtube.com/watch?v=3vfum74ggHE
+```
 
 -------------------------------
 
-***********DJANGO**************
+# DJANGO
+
+👉 Effecting changes in Django
+```
 Effect changes:            python3 manage.py makemigrations
                            python3 manage.py migrate
  
 
 
 python3 manage.py runserver
+```
 
 -------------------------------
 
-***********FLASK**************	
-export FLASK_APP=app.py
-export FLASK_ENV=development
-flask run
-**BEST PRACTICE**
-**To run main function using this command, where FLASK_APP points to __init.py__. __init.py__ sets a variable app to an instance of Flask**
-python3 -m flask run 
+# FastAPI
 
--------------------------------
+👉 BEST PRACTICE =>  -> https://www.youtube.com/watch?v=cbASjoZZGIw
 
-***********Fast API***********
-**BEST PRACTICE**
-ADVANTAGES -> https://www.youtube.com/watch?v=cbASjoZZGIw
+```
 ### 1. It is plain Python.
 ### 2. Async built-in.
 ### 3. Data validation built-in. By using pydantic models.
@@ -4309,10 +4308,28 @@ ADVANTAGES -> https://www.youtube.com/watch?v=cbASjoZZGIw
 ### 5. Errors are in json. While in flask errors are displayed in html.
 ### 6. Authentication built-in. It supports: HTTP Basic, OAuth2 tokens (JWT tokens) and header API keys.
 ### 7. Swagger UI and ReDoc built-in.
+```
 
 -------------------------------
 
-# ERROR MANAGEMENT DJANGO
+# FLASK
+
+👉 EXECUTING FLASK APPLICATION
+
+```
+export FLASK_APP=app.py
+export FLASK_ENV=development
+flask run
+**BEST PRACTICE**
+**To run main function using this command, where FLASK_APP points to __init.py__. __init.py__ sets a variable app to an instance of Flask**
+python3 -m flask run 
+```
+
+-------------------------------
+
+# ERROR MANAGEMENT IN PYTHON
+
+```
 
 			   ********NOTE**********
 			   DJANGO
@@ -4353,7 +4370,7 @@ ADVANTAGES -> https://www.youtube.com/watch?v=cbASjoZZGIw
 
 			   
 			   *************************
-
+```
       
 
 
