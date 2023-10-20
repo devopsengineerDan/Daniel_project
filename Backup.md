@@ -179,11 +179,9 @@ Linux -> https://www.youtube.com/watch?v=ghWECXWi9kU&list=PL7yh-TELLS1FRoV4TCJjy
 👉 SQL GUIDE => https://sqlbolt.com/
 👉 SQLSTYLE GUIDE -> https://github.com/DancunManyinsa/sqlstyle.guide
 
-1. DATABASE (1-4) -> https://www.youtube.com/watch?v=y03oYWDLu0Q&list=PLTd6ceoshprdZIu24-_u00-m2Vf9o5aVC
+1. DATABASE Normalization(1-4) & SQL Tutorial -> https://www.youtube.com/watch?v=y03oYWDLu0Q&list=PLTd6ceoshprdZIu24-_u00-m2Vf9o5aVC
 
 2. SQL Tutorial(Overview) -> https://www.youtube.com/watch?v=kXQccIONcc4&list=PL7yh-TELLS1FVLG6AFoT-3lVcbJiPTWze
-
-3. SQL Tutorial(Advance) -> https://www.youtube.com/watch?v=YXS6Rk7d_X8&list=PLTd6ceoshprezb2-FnBPcuhoq071N0tYB
 
 4. SQL JOINS -> https://www.youtube.com/watch?v=fx-_7g-Ssgw&list=PLcnJIHtHiTA3eqEjdvS_JBvtcRstjWufE
 ```
@@ -286,6 +284,58 @@ Pointers -> https://www.youtube.com/watch?v=Hb-bmAmbwvo&list=PL7yh-TELLS1GafZOVH
 C to LLVM IR Assembly -> https://www.youtube.com/watch?v=wt7a5BOztuM
 ```
 
+-------------------------------
+
+```
+👉 LINEAR ALGEBRA GUIDE -> https://www.youtube.com/watch?v=6MD_CTQGDyo&list=PLTd6ceoshprfZs1VIzGHDt-MYgVewC5tc
+```
+
+
+```
+👉 CRYPTOGRAPHY GUIDE
+
+Cryptography (Overview) -> https://www.youtube.com/watch?v=v8nlTZleKFw&list=PLTd6ceoshprcUyoyOQ_2dCvr5GPi5w_T7
+Cryptography (Detailed) -> https://www.youtube.com/watch?v=1bSjcU2GeG0&list=PL58C6Q25sEEHXvACYxiav_lC2DqSlC7Og
+```
+
+
+```
+👉 DATA REPRESENTATION GUIDE-> https://www.youtube.com/watch?v=cJNm938Xwao&list=PLTd6ceoshprfijQztP-IKey4OV7nkr_va
+```
+
+
+```
+👉 COMPILATION GUIDE -> https://www.youtube.com/watch?v=cxNlb2GTKIc&list=PLTd6ceoshpreZuklA7RBMubSmhE0OHWh_
+```
+
+
+```
+👉 OPERATING SYSTEM GUIDE
+
+OS (Overview) -> https://www.youtube.com/watch?v=p9yZNLeOj4s&list=PLTd6ceoshprdCI72yuKI_VexnJygy-34e
+OS (Detailed) -> https://www.youtube.com/watch?v=QTQ8zym8Au0&list=PLWPirh4EWFpGkHH9JTKH9KsnfAA471Fhy
+```
+
+
+```
+👉 COMPUTER ARCHITECTURE GUIDE -> https://www.youtube.com/watch?v=_I8CLQazom0&list=PLTd6ceoshprfg23JMtwGysCm4tlc0I1ou
+```
+
+
+```
+👉 DIGITAL ELECTRONICS GUIDE
+
+Bitwise Operator -> https://www.youtube.com/watch?v=bizj3dle8Qc&list=PLTd6ceoshprdJUxsjWLGidOToR1_9uIq_
+Logic Gates -> https://www.youtube.com/watch?v=fw-N9P38mi4&list=PLTd6ceoshprfc_VVJYunO1BN9peCTMQgr
+Karnaugh Maps -> https://www.youtube.com/watch?v=3vkMgTmieZI&list=PLTd6ceoshpre9qoX0l_uyNnL_4W0Yl-FT
+Latches and FlipFlops -> https://www.youtube.com/watch?v=-aQH0ybMd3U&list=PLTd6ceoshpreKyY55hA4vpzAUv9hSut1H
+Boolean Algebra -> https://www.youtube.com/watch?v=EPJf4owqwdA&list=PLTd6ceoshprcTJdg5AI6i2D2gZR5r8_Aw
+```
+
+
+```
+👉 ANALOGUE ELECTRONICS GUIDE ->
+```
 
 
 ===============================================================================================================================================
@@ -3098,11 +3148,16 @@ Flask => Small to Medium to Large -scale projects  projects ( Flexibility in lib
 # SOFTWARE DEBUGGING
 
 ```
-1. SPECIFIC  ✅  - Programming language version
+1. SPECIFIC  ✅  - Programming language runtime version
                  - TOML configuration
 
 
-✅ PYTHON 2.7 (GUI, GAMES, MOBILE) => Most libraries were written in Python 2.7
+             ✅  - PYTHON 2.7 (GUI, GAMES, MOBILE) => Most libraries were written in Python 2.7
+
+2. READ DOCUMENTATION
+3. LOGGING ERROR FROM STANDARD DEGUGGER
+4. LOGGING ERROR FROM THIRD-PARTIES LINTERS
+5. Take a break.
 ```
 
 
