@@ -1275,14 +1275,14 @@ Once done, go to Accessory > Plank to launch Plank dock.
 👉 LINUX SOFTWARES
 
 Firewall -> Firewall app
-Chrome
+Chrome => Check below setup  Official installation of Google Chrome
 Firefox
 Vivaldi
 Brave
 GNS3 -> Network Design
 VirtualBox
 QEMU/KVM
-Visual Studio Code
+Visual Studio Code => Check below setup  Official installation of Microsoft VSCode
 Anaconda
 Postgres + PGAdmin -> Dashboard
 Couchdb + Couchdb Admin -> Dashboard
@@ -2807,6 +2807,10 @@ $ code --version
 
 -------------------------------
 
+
+
+# TOPICS
+
 ```
 👉 PYTHON TOPICS
 
@@ -2844,6 +2848,10 @@ C1.png
 ```
 
 -------------------------------
+
+
+
+# SOFTWARE BEST PRACTICE
 
 ```
 👉 SOFTWARE DESIGN BEST PRACTICE
@@ -3031,6 +3039,7 @@ Error Code	Meaning
 
 ```
 👉 WEB
+
 WEB1- Read
 wEB2- Read and Write
 WEB3- Read, Write and Ownership => AI, Blockchain, IOT =>Distributed System and Database
@@ -3057,8 +3066,66 @@ scheduling a continuous-training pipeline -> https://github.com/devopsengineerDa
 
 -------------------------------
 
+
+
+# SOFTWARE USE-CASE
+
+👉 PYTHON INTERPRETER APPLICATION USE-CASE 
+
 ```
-👉 DESIGN PATTERNS AND PRINCIPLES FOR SOFTWARE ENGINEERS
+Data Science
+Networks
+I/O Processes
+```
+
+
+👉 PYTHON FRAMEWORKS
+
+```
+Django => Large- scale Projects (Cosistency and Standard libraries) - asgi
+FastAPI => Small to Medium to Large -scale projects (Cosistency and Standard libraries) - asgi
+Flask => Small to Medium to Large -scale projects  projects ( Flexibility in libraries) - wsgi and asgi
+✅ wsgi is used for few processes.
+```
+
+
+👉 SQL => Consistency, Control and Perfomance
+
+-------------------------------
+
+
+
+# SOFTWARE DEBUGGING
+
+```
+1. SPECIFIC  ✅  - Programming language version
+                 - TOML configuration
+
+
+✅ PYTHON 2.7 (GUI, GAMES, MOBILE) => Most libraries were written in Python 2.7
+```
+
+
+-------------------------------
+
+
+
+# ALGORITHM
+
+```
+1. SECURE => FIXED
+2. SIMPLE (FIXED TARGET & FIXED NUMBER OF RECURSION) => Accurate, Correct, Effective
+3. ADAPTIVE => Efficient Data Interpretation/Transformation & Space Efficient
+4. COMPLETE => High Performance & Backward Compatibility
+5. PERFECT => FIXED
+```
+
+
+
+# DESIGN PATTERNS AND PRINCIPLES IN SOFTWARE ENGINEERING
+
+```
+👉 DESIGN PATTERNS 
 
 DESIGN PATTERNS -> https://www.youtube.com/watch?v=FLmBqI3IKMA
 1 Observer                                   
@@ -3441,6 +3508,8 @@ my decisions that you can choose the most SOLID & Pythonic implementation in the
 
 --------------------------------------------------------------------------
 
+
+
 # PREREQUISITES
 
 ```
@@ -3764,6 +3833,8 @@ Push to your origin repository.
 Create a new Pull Request in GitHub.
 ```
 
+--------------------------------------------------------------------------
+
 
 
 # PYTHON 
@@ -3933,7 +4004,8 @@ rustc main.rs  ->  build program
 ```
 cargo init <project-name>
 1st Option:(ONE SIMPLE COMMAND)
-cargo run 
+cargo run
+✅ cargo --release
 2nd Option:(BEST PRACTICE)
 cargo check
 cargo build -> build and compile
