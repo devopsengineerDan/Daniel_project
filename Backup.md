@@ -122,9 +122,32 @@ Master's  
 =>  STATES                          =>  UK
 =>  HORUS hand gesture              =>  ROYAL hand gesture
 ```
+
+
+
 ===============================================================================================================================================
+
+
+
+
 # TECHNOLOGY & SCIENCE
 
+### PROFESSIONS
+
+```
+                                                           1. (33 DEGREES) SENIOR SOFTWARE ENGINEER
+
+2. (32 DEGREES) SENIOR SECURITY ENGINEER
+
+                                                           3. COMPUTER ENGINEER
+                                                           4. SOFTWARE ENGINEER
+                                                           5. FRAMEWORKER
+8. COMPUTER SCIENTIST                                      6. DEVELOPER
+                                                           7. PROGRAMMER
+
+
+                                                           9. ELECTRICAL & MECHANICAL ENGINEER    
+```
 ===============================================================================================================================================
 
 
