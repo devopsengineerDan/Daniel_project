@@ -400,7 +400,8 @@ Acessible to the public - Public Key -> Encrypt message (SENT)1. -> Verifies Sig
 
 Acknowledgement: NeuralNine
 ------------------------------------------------------
-Run Youtube Script 
+Run Youtube Script
+Bluetooth Script
 RUN PYINSTALLER ...
 GUI Voice recorder App
 GUI AI Assistant Bot App
@@ -411,7 +412,7 @@ GUI Clock App
 
 RUN NGROK ... 
 GUI Zoom App
-HTTP Server
+HTTP Server Script
 TCP + Encrypted Messaging + file
 UDP + Encrypted Messaging + file
 Online Chess
