@@ -97,22 +97,31 @@ Master's  
 
 ```
 
-1 Cybersecurity
+1 Cybersecurity*
 2 Armory
 3 Chess
-                                                              1 Silence
-							      2 Reading, Listening
-	                                                      3 Speaking
+                                                              1 Silence, Listening*
+							      2 Reading
+	                                                      3 Speaking*
                                                               4 Golf
-      1 Forex
-      2 Pool table
+      1 Forex*
+      2 Pool table*
       3 Swimming
                                                                1 Eat and Drink
-							       2 Land
-	                                                       3 Exercise
+							       2 Exercise and Land
+	                                                       3 Drive( AUTO* & MANUAL*)
 ```
-                                                        
-							   
+
+
+👉 KINGSHIP
+
+```                                                        
+=>  DAVID               =>   KEVIN     
+=>  DANIEL              =>   MAULID
+
+=>  STATES                          =>  UK
+=>  HORUS hand gesture              =>  ROYAL hand gesture
+```
 ===============================================================================================================================================
 # TECHNOLOGY & SCIENCE
 
@@ -401,7 +410,8 @@ GUI Clock App
 ------------------------------------------------------
 
 RUN NGROK ... 
-GUI Zoom App 
+GUI Zoom App
+HTTP Server
 TCP + Encrypted Messaging + file
 UDP + Encrypted Messaging + file
 Online Chess
