@@ -366,7 +366,12 @@ Boolean Algebra -> https://www.youtube.com/watch?v=EPJf4owqwdA&list=PLTd6ceoshpr
 
 
 ```
-👉 ANALOGUE ELECTRONICS GUIDE ->
+👉 ANALOGUE ELECTRONICS GUIDE => Images
+
+
+MIT CLASSICAL MECHANICS/PHYSICS -> https://www.youtube.com/watch?v=nvjwr9PTBP8&list=PLaLOVNqqD-2HUv0qoYzSj0SBOIO_pLtW4
+MIT STATISTICAL MECHANICS -> https://www.youtube.com/watch?v=4RX_lpoGRBg&list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg
+MIT ENGINEERING DYNAMICS -> https://www.youtube.com/playlist?list=PLUl4u3cNGP62esZEwffjMAsEMW_YArxYC
 ```
 
 
