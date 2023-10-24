@@ -366,7 +366,7 @@ Boolean Algebra -> https://www.youtube.com/watch?v=EPJf4owqwdA&list=PLTd6ceoshpr
 
 
 ```
-👉 ANALOGUE ELECTRONICS GUIDE => Images
+👉 ANALOGUE ELECTRONICS GUIDE => Electronics Images
 
 
 MIT CLASSICAL MECHANICS/PHYSICS -> https://www.youtube.com/watch?v=nvjwr9PTBP8&list=PLaLOVNqqD-2HUv0qoYzSj0SBOIO_pLtW4
