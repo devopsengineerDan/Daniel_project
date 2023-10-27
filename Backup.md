@@ -123,10 +123,60 @@ Master's  
 =>  HORUS hand gesture              =>  ROYAL hand gesture
 ```
 
+### PAST
+
+```
+=> SCIENCE/PHILOSOPHY                                              => RELIGION
+                                                       
+                                 
+
+Security(Death)                                                    Fear(Death)
+ 
+                                         
+                   Character(TIME)                                                          Dogma(TIME)
+
+ 
+Science(Within Scope)                                              Morality(Within Scope)
+Imagination(Out of Scope)                                          Disease(Out of Scope) 
+
+                                                                   
+                   Logos(Poverty/Death)                                                           Ignorance(Poverty/Death)
+```
 
 
-===============================================================================================================================================
+### PRESENT -> PROTECT LIFE AND NATURE
 
+
+### FUTURE
+
+```
+🗝️                                                                                           🗝️                                                                
+SECURITY                                                                                     KNOW
+
+                          SOLUTION PROVIDER                                 CONNECT THE DOTS
+
+                                                                                             COMPETITIVE
+
+
+
+
+
+
+
+✅                                                             ✅                                                         ✅
+SECURITY                                                       SECURITY                                                   SECURITY
+
+
+                                                        
+                 Brits                                                           Professional                                                    Consistency                                  
+
+
+USA                                                             Follow-up                                                 Discipline
+ 
+
+
+                 (Imagination/Poverty/Death)                                     Original                                                        Hardwork
+```
 
 
 
@@ -148,6 +198,95 @@ Master's  
 
                                                            9. ELECTRICAL & MECHANICAL ENGINEER    
 ```
+
+### PROFESSIONS
+
+```
+✅ [GENERAL]
+
+                                                               UPGRADE
+
+
+SECURITY   
+
+                                                               SIMPLE(ACCURATE, CORRECT, EFFECTIVE)
+
+
+ADAPTABILITY & SCALABILITY
+
+
+                                                               PERFORMANCE & RELIABILITY
+     
+
+                                             
+✅ [SPECIFIC]
+
+👉 WEB3 ENGINEER MAJOR 
+-> AI & Quantum
+-> Distributed System
+
+-----------------------------------------------------------------------
+
+                                 WebAssembly (LLVM + Assembly)
+
+
+                                 Web (Native)
+
+
+
+Mobile (Native)
+
+
+
+                                 Desktop (Native)
+-----------------------------------------------------------------------
+
+👉 ACHIEVING CROSSPLATFORM (PLATFORM AGNOSTIC)
+1. LLVM
+2. KIVY(Language API Wrapper, Operating System and Kernel Driver API implementation) 
+
+
+👉 SOFTWARE-> INTERPRETED & COMPILED
+
+
+
+👉PROGRAMMING LANGUAGE
+
+----------
+HTML & HTMLX
+CSS & SASS
+----------
+PYTHON -> JSON
+RUST(SAFE[Software Optimisation] & UNSAFE[Zig Implementation -> Hardware Optimisation]) -> JSON
+----------
+SQL & NOSQL
+RestAPI & GraphQL
+----------
+C & ASSEMBLY
+LLVM IR & ASSEMBLY
+----------
+TOML
+BASH
+----------
+👉 FRAMEWORKS
+
+------------
+WEB
+Python -> Django, fastAPI, Flask
+Rust -> Rocket, Actix
+------------
+MOBILE
+Python -> Kivy
+Rust -> Tauri
+------------
+DESKTOP
+Python -> Tkinter
+Rust ->`Tauri
+------------
+```
+
+
+
 ===============================================================================================================================================
 
 
@@ -1357,6 +1496,25 @@ sudo apt-get update
 sudo apt-get install plank
 BHere’s how my screen looks after applying these steps.efore you use Plank, you should remove the default dock by right-clicking in it and under Panel Settings, clicking on delete.
 Once done, go to Accessory > Plank to launch Plank dock.
+```
+
+
+```
+👉 LINUX OPERATING SYSTEM DISTRIBUTIONS
+
+ARCH (OPENSUSE TUMBLEWEED) => Install on KVM
+FEDORA
+DEBIAN
+UBUNTU (Software Availability)
+----------
+KALI PURPLE + KALI LINUX
+METASPLOITABLE
+WINDOWS 10
+----------
+TAILS => Install on USB-NVME  https://www.youtube.com/watch?v=gO9fTnMxwYw
+Install these OS on USB-NVME:
+KALI PURPLE + KALI LINUX
+WINDOWS 10
 ```
 
 
@@ -2904,29 +3062,39 @@ $ code --version
 👉 PYTHON TOPICS
 
 PYTHON (INTERPRETER) DATA STRUCTURES
-IMMUTABLE
+✅ IMMUTABLE
 -Tuple -> Less memory space than list, has less functionalities.
 -Set -> Disorderly arrangment, Different data types.
-MUTABLE
+✅ MUTABLE
 -List -> Orderly arrangement, Same type. More memory space than tuple, has more functionalities.
 - Dictionary
-ADVANCE PYTHON (INTERPRETER) CONCEPTS
-OOP Fundamentals
+✅ ADVANCE PYTHON (INTERPRETER) CONCEPTS
+✅ OOP Fundamentals
 File Handling
 setup.py -> Use toml file
 Dictionary
 Generator
 Metaclass (Knowledge assists you in developing framework i.e django ORM and flask SQL Alchemy, factory pattern, singleton)-> https://www.youtube.com/watch?v=uLPnBaUhjKU
 Macro
-
-FASTAPI CRASH COURSE ->https://www.youtube.com/watch?v=62pP9pfzNRs
+✅ PYTHON POLYMORHISM
+1. Abstraction
+2. Inheritance
+3. Generics
+✅ FASTAPI CRASH COURSE ->https://www.youtube.com/watch?v=62pP9pfzNRs
 ```
 
 
 ```
 👉 RUST TOPICS
 
-RUST CHEATSHEET
+✅ RUST CHEATSHEET
+Rust tuples
+Rust HashMap is equivalent to Python Dictionary
+
+✅ Ownership and Borrowing:
+1. Function in which initializes the mutable variable is the owner of the variable.
+2. The function can manipulate the variable in any number of times.
+3. Once the function exits the variable is not accessible to the borrower.
 ```
 
 
@@ -3206,12 +3374,49 @@ Flask => Small to Medium to Large -scale projects  projects ( Flexibility in lib
 
 # ALGORITHM
 
+
+✅ GENERAL
+
 ```
 1. SECURE => FIXED
 2. SIMPLE (FIXED TARGET & FIXED NUMBER OF RECURSION) => Accurate, Correct, Effective
 3. ADAPTIVE => Efficient Data Interpretation/Transformation & Space Efficient
 4. COMPLETE => High Performance & Backward Compatibility
 5. PERFECT => FIXED
+```
+
+
+✅ SPECIFIC
+
+```
+***
+RUNTIME => Number of primitive operations needed to solve a task/job.
+PRIMITIVE OPERATIONS => Declarative and Boolean Conditional Statements.
+***
+STATIC (TIME COMPLEXITY)
+1. Fixed size.
+2. [Fixed and Reduced] Number of Iteration.
+3. Completion.
+------------
+APPLICATION
+- Python Speed Up Interpreter Performance.
+- Use Data Structure Appropriately in terms of Performance.
+- Use built-in functions (e.g) iter in python, match in Rust and C to achieve zero-cost abstraction.
+***
+DYNAMIC (SPACE COMPLEXITY)
+1. [Reduced] Number of Iteration.
+2. Stop OR Delete an Iteration.
+3. Continuous.
+-------------------
+APPLICATION
+-> [Use Data Structure Appropriately in terms of Space utilisation.]
+- Tuples occupy less memory space than list in Python.
+- List in Python and Vector in Rust have more functionality.
+- Define object data (e.g) 32 bit or 64 bit.
+***
+ASYMPTOTIC GROWTH => Linear Algorithm is Best in the very long-term/dynamic.
+BIG-O NOTATION => Check summary
+***
 ```
 
 
@@ -7450,6 +7655,14 @@ ROOT - devopsengineer
 # WINDOWS
 
 ```
+👉 WINDOWS OPERATING SYSTEM
+
+WINDOWS 10 => OLD HARDWARE
+WINDOWS LATEST RELEASE => NEWER HARDWARE
+```
+
+
+```
 👉 LOCAL ACCOUNT LOG IN TO WINDOWS 11
 
 In windows 11 pro
@@ -7496,10 +7709,24 @@ Windows Powershell
 
 VirtualBox
 Anaconda
-Visual Studio Installer -> Intellicode, Windows universal C runtime, Security Issue Analysis, Windows 11 sdk, 	Embedded IOT tools
+Visual Studio Installer 
 Pycharm Community
 Rustrover
 Conan
+```
+
+
+```
+👉 MICROSOFT VISUAL STUDIO INSTALLER (Individual Components)
+
+IntelliCode
+Windows Universal C Runtime
+Security Issue Analysis
+Windows 10 SDK
+Windows 11 SDK
+Embedded and IOT Tools
+Windows Performance Toolkit
+USB Device Connectivity
 ```
 
 
