@@ -250,11 +250,12 @@ Mobile (Native)
 
 
 
-👉PROGRAMMING LANGUAGE
+👉 PROGRAMMING LANGUAGE
 
 ----------
 HTML & HTMLX
 CSS & SASS
+🌀 PYSCRIPT(Python Implementation)
 ----------
 PYTHON -> JSON
 RUST(SAFE[Software Optimisation] & UNSAFE[Zig Implementation -> Hardware Optimisation]) -> JSON
@@ -268,6 +269,9 @@ LLVM IR & ASSEMBLY
 TOML
 BASH
 ----------
+🌀 MICROPYTHON(Python Implementation)
+POSIX
+----------
 👉 FRAMEWORKS
 
 ------------
@@ -280,7 +284,7 @@ Python -> Kivy
 Rust -> Tauri
 ------------
 DESKTOP
-Python -> Tkinter
+Python -> Tkinter[In-built/Standard]
 Rust ->`Tauri
 ------------
 ```
@@ -553,7 +557,7 @@ Less network and PC stress
 
 
 ```
-Assymetrical RSA Private and Public Key
+Asymmetrical RSA Private and Public Key
 Personal - (Secret Key)Private Key -> Decrypt message (RECEIVED)4. -> Signing(sent)2.
 Acessible to the public - Public Key -> Encrypt message (SENT)1. -> Verifies Signature and Message (received)3.
 ```
@@ -747,7 +751,7 @@ This is another simple automation script to download Youtube videos. Now you don
 ### pip install pytube
 
 ```
-Besy way
+🌀 Best way
 
 from pytube import YouTube
 from sys import argv
@@ -761,11 +765,31 @@ print("Views: ", yt.views)
 
 yd = yt.streams.get_highest_resolution()
 
-# Add a folder here
+# Add a folder here in both linux and windows
 yd.download('s/YouTubeDownloadFolder')
 
-#Windows location to retrieve file or to store downloaded file
+
+
+# Windows location to retrieve file or to store downloaded file
 r"C:\Users\User\Desktop"
+
+# Executing python script
+python3 youtube_downloader.py "https://www.youtube.com/watch?v=--BSK3cxh3U"
+
+
+
+🌀 Using an automated script
+1 Ensure script is on the same directory are Python script.
+2 If you have used external dependencies, ensure python pip environment is activated to get access to the external dependencies used in the script.
+3 nano youtube_downloader.sh
+4. # Write the following:
+
+#!/bin/bash
+
+cd /home/dan/Desktop/Projects/Python Scripts/youtube-downloader
+python youtube_downloader.py $1
+
+5 ./youtube_downloader.sh "https://www.youtube.com/watch?v=5t8BStaWRgM"
 ```
 
 
