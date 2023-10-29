@@ -779,6 +779,7 @@ python3 youtube_downloader.py "https://www.youtube.com/watch?v=--BSK3cxh3U"
 
 
 🌀 Using an automated script
+
 1 Ensure script is on the same directory are Python script.
 2 If you have used external dependencies, ensure python pip environment is activated to get access to the external dependencies used in the script.
 3 nano youtube_downloader.sh
