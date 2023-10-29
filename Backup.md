@@ -1333,6 +1333,9 @@ Shell companies(ownership) to avoid damage on you
 FONT SIZE -> 1.30
 CHANGE SCALING FROM 200 TO 100
 CHANGE TO PORTRAIT THEN RETURN SCALING TO 200 THEN RETURN TO LANDSCAPE
+---------------------------------
+🌀 ENSURE YOU EXECUTE ON X11/XORG
+
 cvt 3840 2160
 xrandr --newmode "MyMode" 712.75  3840 4160 4576 5312  2160 2163 2168 2237 -hsync +vsync
 xrandr --addmode eDP-1 "MyMode"
@@ -1342,8 +1345,9 @@ cvt 2560 1440
 xrandr --newmode "MyMode" 312.25  2560 2752 3024 3488  1440 1443 1448 1493 -hsync +vsync
 xrandr --addmode eDP-1 "MyMode"
 If Mymode exists give the newmode a different name
+---------------------------------
+🌀 INSTALL arandr TO CHECK DISPLAY TYPES (e.g eDP-1, Virtual-1)
 
-INSTALL arandr TO CHECK DISPLAY TYPES (e.g eDP-1, Virtual-1)
 sudo apt install arandr
 ```
 									
