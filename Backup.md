@@ -124,7 +124,7 @@ Master's  
 ```
 
 
-```
+
 ☀️ 33 DEGREES
 
 ✅
@@ -206,10 +206,9 @@ Snake & Lion
 Bear
                  
                         Lion & Snake              
-```
 
 
-```
+
 ☀️ 32 DEGREES
 ☀️ JAHBULON
     BUL- Baal ON- Osiris                         JAH - Harmonious, Integrated, Industry
@@ -221,7 +220,6 @@ SECURITY                                        SECURITY -> Dieus
                                                  Free & Forgiveness -> Vacuum
                                  
       Justice/Violence                                                          Private -> Logos    
-```
 
 
 
@@ -2944,7 +2942,6 @@ https://lnkd.in/gc5p5Jss
 
 # ML ENGINEER ROAD MAP
 
-```
 ☀️ Learn SQL
 
 ✅ Aggregations with GROUP BY
@@ -3030,7 +3027,7 @@ https://lnkd.in/gc5p5Jss
 ✅ Try out Apache Spark + S3 if you want to be adventurous
 
 ✅Gain knowledge of DevOps principles and CI/CD pipelines
-```
+
 
 
 ===============================================================================================================================================
