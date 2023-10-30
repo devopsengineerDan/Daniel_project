@@ -124,7 +124,7 @@ Master's  
 ```
 
 
-
+```
 ☀️ 33 DEGREES
 
 ✅
@@ -220,6 +220,7 @@ SECURITY                                        SECURITY -> Dieus
                                                  Free & Forgiveness -> Vacuum
                                  
       Justice/Violence                                                          Private -> Logos    
+```
 
 
 
