@@ -123,6 +123,108 @@ Master's  
 =>  HORUS hand gesture              =>  ROYAL hand gesture
 ```
 
+
+```
+☀️ 33 DEGREES
+
+✅
+UPGRADE                                                 UPGRADE
+SECURITY                                                SECURITY
+
+
+             Time[MONEY]                                                       Truth[FEEL]
+   
+             
+Energy                                                  Imagination
+
+
+             Vibration[VIOLENCE]                                                         Reality[JUSTICE]
+ 
+ 							     
+✅
+UPGRADE                                                 UPGRADE
+Rigid[SECURITY]                                         SECURITY[DOMINATE]
+
+
+                      Light                                                    Know[CONQUER]
+                      
+                      
+Opinion                                                  Connect the dots
+
+
+                      Rigid                                                     Competitive[WIN]
+
+
+✅
+UPGRADE                                                                                    UPGRADE
+SECURITY                                                                                   SECURITY
+
+
+                     SIMPLE(ACCURATE, CORRECT, EFFECTIVE)                                                           Consistency[PRIORITIZE,CONSCIENCE,SCHEDULE]
+
+
+ADAPTABILITY & SCALABILITY                                                                 Discipline
+
+
+                      PERFORMANCE & RELIABILITY                                                                     Hardwork
+                                                              
+                                                          
+                                                                                                                                  
+-----------------------------------------------------------------------------------------------------------
+
+
+
+✅ [ART]
+Dark
+ |
+Red
+               Red
+                |
+               White
+               
+Blue   
+                 
+               Red -> Violence              
+
+
+✅ [SCIENCE]
+HTML && CSS
+                        
+               Python
+
+Rust 
+
+               C
+
+✅ [ANIMAL]
+Snake & Lion 
+                 Bull
+                        Eagle 
+                         |
+                        Lion
+ 
+Bear
+                 
+                        Lion & Snake              
+```
+
+
+```
+☀️ 32 DEGREES
+☀️ JAHBULON
+    BUL- Baal ON- Osiris                         JAH - Harmonious, Integrated, Industry
+✅ (Saturn/Toth)[USA] Mind/Nature              ☀️ (Lion/Eagle)UK Heart/Life
+SECURITY                                        SECURITY -> Dieus
+
+      Cost                                                                      Personal -> Equilibrium
+      
+                                                 Free & Forgiveness -> Vacuum
+                                 
+      Justice/Violence                                                          Private -> Logos    
+```
+
+
+
 ### PAST
 
 ```
@@ -144,7 +246,9 @@ Imagination(Out of Scope)                                          Disease(Out o
 ```
 
 
+
 ### PRESENT -> PROTECT LIFE AND NATURE
+
 
 
 ### FUTURE
@@ -2937,16 +3041,19 @@ https://lnkd.in/gc5p5Jss
 ```
 👉 DEVELOPMENT SETUP
 
-INSTALL GOOGLE-CHROME 
+👉 INSTALL GOOGLE-CHROME
+Install in Softwares
+OR
+
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo apt install ./google-chrome-stable_current_amd64.deb
 sudo apt install google-chrome-stable
 
 
-GITLAB
+👉 GITLAB
 
-LINUX PLATFORM
-*JETBRAINS
+
+👉 JETBRAINS
 1 Toolbox
 2 Space (Internet) 
 
@@ -2960,45 +3067,89 @@ LINUX PLATFORM
 9 Data Grip
 
 
-CLOUD-BASED DEVELOPMENT ENVIRONMENT
+👉 CLOUD-BASED DEVELOPMENT ENVIRONMENT
 Project IDX
 
 
-*Alternative for LINUX AND WINDOWS PLATFORM
+👉 Alternative for JETBRAINS
 Anaconda
 VScode
 
 
 
 
-VSCODE PLUGINS   https://youtu.be/u21W_tfPVrY
-Git lens
-Github Copilot
-Tabnine
-vscode live
-Pylint
-Pylance
-Python indent
-vscode icons
-vscode vim
-Mermaid
+👉 Vscode A MUST Installation
 
--> Other extensions must have OFFICIAL SUPPORT
--> Exception for Rust language(rust-analyzer, CodeLLDB, Even Better TOML, crates)
+✅ [VSCODE PLUGINS]
+VSCode Icons Team - vscode-icons
+✅ [VIM]
+vscodevim - Vim
+✅ [GITHUB]
+Github - Github Copilot
+Github - Github Copilot Chat
+Github - Github Theme
+Gitlens
+✅ [LIVE SHARE]
+Microsoft - All Live Share plugins
+✅ [HTML]
+✅ [XML]
+RedHat - xml
+✅ [CSS]
+Syler - sass
+✅ [PYTHON]
+Microsoft - Python
+Microsoft - Pylance
+Microsoft - Pylint
+Microsoft - Black Formatter
+Microsoft - autopep8
+Microsoft - isort
+Kevin Rose - Python Indent
+✅ [RUST]
+rust-analyzer
+CodeLLDB
+Even Better TOML
+crates
+✅ [C]
+Microsoft - C/C++ IntelliSense
+Microsoft - C/C++ Extension Pack
+Microsoft - C/C++ Themes
+Microsoft - CMake Tools
+LLVM - clangd
+✅ POSTMAN]
+Postman
+✅ [POSTGRESQL]
+Microsoft - postgreSQL
+✅ [COUCHBASE]
+Couchbase
+Couchbase - Couchbase Lite
+✅ [SURREALQL]
+SurrealDB - SurrealQL
+✅ [PRETTIER SQL]
+inferrinizzard - Prettier SQL VSCode
+✅ [JUPYTER]
+Microsoft - All Jupyter plugins
+✅ [MARKDOWN PREVIEW MERMAID]
+Matt Bierner - Markdown Preview Mermaid 
+✅ [YAML]
+RedHat - yaml
+✅ [ARDUINO]
+Microsoft - Arduino
+✅ [SERIAL MONITOR]
+Microsoft - Serial Monitor
 
 
 
 
-WINDOWS PLATFORM
+👉 WINDOWS PLATFORM
 Anaconda
 VScode
-Pycharm for micropython
+Pycharm -> Rust and Micropython plugin
+Rustrover
 
 
 
 
-
-C LANGUAGE
+👉 C LANGUAGE
 Conan package manager -> MUTIPLATFORM and FLEXIBLE
 vcpkg Windows and Linux os package manager -> RIGID and mostly for private usecase (i.e) Microsoft
 
@@ -7913,6 +8064,18 @@ GO SLOW -> Pedestrian-crossing + Bumps, Bridge, Parking
 
 ```
 👉 Tourbillon WATCH
+````
+
+-------------------------------
+
+```
+👉 HARDWARE
+
+1 Original Type- C cable(including Original Fast-charger header)
+2 Type -C usb port extension(including ethernet port)
+3 usb-nvme stick
+4 Portable mifi
+5 Power-bank
 ````
 
 -------------------------------
