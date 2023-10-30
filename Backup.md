@@ -687,8 +687,8 @@ GUI Clock App
 RUN NGROK ... 
 GUI Zoom App
 HTTP Server Script
-TCP + Encrypted Messaging + file
-UDP + Encrypted Messaging + file
+TCP + Advanced TCP
+UDP 
 Online Chess
 ------------------------------------------------------
 ```
