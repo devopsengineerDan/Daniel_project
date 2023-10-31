@@ -124,9 +124,9 @@ Master's  
 ```
 
 
-```
 ☀️ 33 DEGREES
 
+```
 ✅
 UPGRADE                                                 UPGRADE
 SECURITY                                                SECURITY
@@ -206,11 +206,13 @@ Snake & Lion
 Bear
                  
                         Lion & Snake              
-
+```
 
 
 ☀️ 32 DEGREES
-☀️ JAHBULON
+
+```
+🧨 JAHBULON
     BUL- Baal ON- Osiris                         JAH - Harmonious, Integrated, Industry
 ✅ (Saturn/Toth)[USA] Mind/Nature              ☀️ (Lion/Eagle)UK Heart/Life
 SECURITY                                        SECURITY -> Dieus
@@ -2316,13 +2318,21 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 
 RAM 9096
 STORAGE 200.00GB
-Select iso from Storage on Right-Bottom Menu 
+Select iso from Storage on Right-Bottom Menu
+
+👉 KALI VIRTUALBOX INSTALLATION
+
+Go to preferences, select kali virtualbox file and select the configuration options. Then proceed with installation.
+
+👉 METASPLOITABLE INSTALLATION
+
+Follow the usual virtual hardisk installation. But don't create a new virtual hardisk, use an already existing virtual hardisk.
 
 -------------------------------------------------------------------
 			
 LINUX OR WINDOWS Depending on Guest or Host				
 				
-*VIRTUALBOX GUEST ADDITIONS ISO + Install	http://download.virtualbox.org/virtualbox/5.0.24/VBoxGuestAdditions_5.0.24.iso
+🧨 VIRTUALBOX GUEST ADDITIONS ISO + Install	http://download.virtualbox.org/virtualbox/5.0.24/VBoxGuestAdditions_5.0.24.iso
 ADDING GUEST EDITION ISO TO ENLARGE THE SCREEN + OTHER FEATURES
 TERMINAL OPTION  
 # su
@@ -2334,13 +2344,13 @@ TERMINAL OPTION
 UI OPTION
 
 
-*VIRTUALBOX EXTENSION PACK HOST  -> Oracle_VM_VirtualBox_Extension_Pack-6.1.26.vbox-extpack
+🧨 VIRTUALBOX EXTENSION PACK HOST  -> Oracle_VM_VirtualBox_Extension_Pack-6.1.26.vbox-extpack
 ->Go to File, Preferences, Extensions, Add Oracle_VM_VirtualBox_Extension_Pack
 
-*ACCESSING THE HOST FROM GUEST
+🧨 ACCESSING THE HOST FROM GUEST
 ->Go to Settings, Shared Folders, Machine Folders, Choose Folder Path e.g Downloads, Select Auto-mount and (Make-permanent will appear afterwards)
 
-*CONNECTING VMS TO A COMMON NETWORK
+🧨 CONNECTING VMS TO A COMMON NETWORK
 ->Go to File, Preferences, Network, Add NAT Network (e.g)Network Name: NATNetworkPentesting Network CIDR: 10.0.2.0/24   --> You can also do Port Forwarding
 ```
 
