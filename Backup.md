@@ -476,7 +476,8 @@ Vim Tutorial -> https://www.youtube.com/watch?v=jXud3JybsG4&list=PL7yh-TELLS1Eev
 👉 PYTHON GUIDE => Python Official Documentation
 👉 PTHON CODING STYLE (PEP8) => PEP8 Official Documentation
 
-1. Python OOP Fundamentals -> https://www.youtube.com/watch?v=Ej_02ICOIgs
+1. Fundamental Concepts of Object Oriented Programming -> https://www.youtube.com/watch?v=m_MQYyJpIjg
+   Python OOP Fundamentals -> https://www.youtube.com/watch?v=Ej_02ICOIgs
    Python OOP Edureka-> https://www.youtube.com/watch?v=SRu1GAfr3LA
    PEP8 Coding Guidelines -> https://www.youtube.com/watch?v=U2vDWc5sce0
 
