@@ -3161,7 +3161,7 @@ vcpkg Windows and Linux os package manager -> RIGID and mostly for private useca
 --------------------------------------------------------------------------------------------------------------------------------------
 1 BASH EXECUTION OF PYTHON IN LINUX (Here do not use pyinstaller) -> https://www.youtube.com/watch?v=vEQ8CXFWLZU
 2 DESKTOP EXECUTION OF PYTHON IN LINUX (Here do not use pyinstaller) -> https://www.youtube.com/watch?v=9CTmC5Y7QeM
-3 PYTHON INSTALLERS
+3 PYTHON INSTALLERS -> https://www.youtube.com/watch?v=p3tSLatmGvU
 
 LINUX
 Debreate for debian distribution [.deb]
@@ -8062,7 +8062,7 @@ GO SLOW -> Pedestrian-crossing + Bumps, Bridge, Parking
 -------------------------------
 
 ```
-👉 Tourbillon WATCH
+👉 Tourbillon WATCH        Facebook: mercelsha muqpal
 ````
 
 -------------------------------
