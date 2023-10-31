@@ -8070,9 +8070,9 @@ GO SLOW -> Pedestrian-crossing + Bumps, Bridge, Parking
 ```
 👉 HARDWARE
 
-1 Original Type- C cable(including Original Fast-charger header)
-2 Type -C usb port extension(including ethernet port)
-3 usb-nvme stick
+1 Original Type-C cable(including Original Fast-charger header)
+2 Type-C usb port extension(including ethernet port)
+3 usbC-nvme stick
 4 Portable mifi
 5 Power-bank
 ````
