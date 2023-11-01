@@ -389,7 +389,7 @@ Python -> Kivy
 Rust -> Tauri
 ------------
 DESKTOP
-Python -> Tkinter[In-built/Standard]
+Python -> Tkinter[In-built/Standard] -> Kivy
 Rust ->`Tauri
 ------------
 ```
