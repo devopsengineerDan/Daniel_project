@@ -678,8 +678,9 @@ Acessible to the public - Public Key -> Encrypt message (SENT)1. -> Verifies Sig
 Acknowledgement: NeuralNine
 ------------------------------------------------------
 Run Youtube Script
-Bluetooth Script
+
 RUN PYINSTALLER ...
+# WINDOWS
 GUI Voice recorder App
 GUI AI Assistant Bot App
 GUI Motion Detection App
@@ -687,8 +688,10 @@ GUI Two players Chess App
 GUI Clock App
 ------------------------------------------------------
 
-RUN NGROK ... 
+RUN NGROK ...
+# WINDOWS
 GUI Zoom App
+# BOTH WINDOWS AND LINUX
 HTTP Server Script
 TCP + Advanced TCP
 UDP 
