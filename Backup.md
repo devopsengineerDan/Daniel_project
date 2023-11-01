@@ -213,15 +213,15 @@ Bear
 
 ```
 🧨 JAHBULON
-    BUL- Baal ON- Osiris                         JAH - Harmonious, Integrated, Industry
-✅ (Saturn/Toth)[USA] Mind/Nature              ☀️ (Lion/Eagle)UK Heart/Life
-SECURITY                                        SECURITY -> Dieus
+    BUL- Baal ON- Osiris                                            JAH - Harmonious, Integrated, Industry
+🌑 (Saturn/Toth)[USA] Mind/Nature                                   ☀️ (Lion/Eagle)UK Heart/Life
+SECURITY                                                            SECURITY -> Dieus
 
-      Cost                                                                      Personal -> Equilibrium
+                   Cost(Nothing is free)                                                                 Personal -> Equilibrium
       
-                                                 Free & Forgiveness -> Vacuum
+Mistake(Punishment)                                                 Free & Forgiveness -> Vacuum
                                  
-      Justice/Violence                                                          Private -> Logos    
+                   Justice(Selfish)                                                                      Private -> Logos    
 ```
 
 
@@ -681,16 +681,16 @@ Run Youtube Script
 
 RUN PYINSTALLER ...
 # WINDOWS
-GUI Voice recorder App
-GUI AI Assistant Bot App
-GUI Motion Detection App
+GUI Voice recorder App -> https://www.youtube.com/watch?v=u_xNvC9PpHA
+GUI AI Voice Assistant Bot App -> https://www.youtube.com/watch?v=F62wb_jfUUw
+GUI Motion Detection App -> https://www.youtube.com/watch?v=QPjPyUJeYYE
 GUI Two players Chess App
 GUI Clock App
 ------------------------------------------------------
 
 RUN NGROK ...
 # WINDOWS
-GUI Zoom App
+GUI Zoom App -> https://www.youtube.com/watch?v=bJOvYgSqrOs
 # BOTH WINDOWS AND LINUX
 HTTP Server Script
 TCP + Advanced TCP
