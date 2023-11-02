@@ -7908,9 +7908,14 @@ Pycharm Community
 Rustrover
 Visual Studio Installer 
 Conan
+Whatsapp
+Teams=> Windows 10
+Telegram
+Skype
+Bluestacks
+One Note for Windows 10
 Netflix
-
-
+MPCH(Media Classic Home)
 ```
 
 
