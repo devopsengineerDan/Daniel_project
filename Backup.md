@@ -7893,12 +7893,16 @@ Then:
 Download cpu-z    -> ram,cpu,graphics type and storage size
 Download Intel Graphics Command Center and Modify Settings to High/Ultra
 
+Glass Wire Network Security
+Avast Offline
+
 --------------------------------------------------------------------------
 Screen recorder pro -> Screenshot
 RecForth -> Video Recorder
 Remote Desktop
 Gihosoft Tubeget -> 4k,8k download
-Blue stacks
+IDM
+4k Downloader
 --------------------------------------------------------------------------
 Windows Powershell ISE -> Advance
 VirtualBox
