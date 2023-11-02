@@ -7892,6 +7892,7 @@ Then:
 
 Download cpu-z    -> ram,cpu,graphics type and storage size
 Download Intel Graphics Command Center and Modify Settings to High/Ultra
+
 --------------------------------------------------------------------------
 Screen recorder pro -> Screenshot
 RecForth -> Video Recorder
@@ -7900,14 +7901,16 @@ Gihosoft Tubeget -> 4k,8k download
 Blue stacks
 --------------------------------------------------------------------------
 Windows Powershell ISE -> Advance
-Windows Powershell
-
 VirtualBox
+Windows Powershell
 Anaconda
-Visual Studio Installer 
 Pycharm Community
 Rustrover
+Visual Studio Installer 
 Conan
+Netflix
+
+
 ```
 
 
@@ -8091,6 +8094,9 @@ GO SLOW -> Pedestrian-crossing + Bumps, Bridge, Parking
 3 usbC-nvme stick
 4 Portable mifi
 5 Power-bank
+
+==> Portable [COMPANY] 5G mifi(All lines)
+==> Samsung 990 Pro ssd(Tails,Kali, Kali Purple)
 ````
 
 -------------------------------
