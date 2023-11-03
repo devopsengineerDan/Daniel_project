@@ -3112,9 +3112,10 @@ Syler - sass
 ✅ [PYTHON]
 Microsoft - Python
 Microsoft - Pylance
+Microsoft - Flake8 -> [Standard]
 Microsoft - Pylint
 Microsoft - Black Formatter
-Microsoft - autopep8
+Microsoft - autopep8 -> [Standard]
 Microsoft - isort
 Kevin Rose - Python Indent
 ✅ [RUST]
@@ -3345,7 +3346,7 @@ DATABASE FLOW-CHART DIAGRAM
                                  ->     https://www.youtube.com/watch?v=DpUlfWP_gtg
 
 
-BEST PRACTICE + (autopep8, flake8, mypy)
+BEST PRACTICE + (autopep8, flake8, mypy -> TESTING)
 👉.gitignore(*.egg-info, *.pyc, .coverage, .tox, /venv*, coverage-html, dist)
 
 ### 1.  Initilialize always on Project Folder. 
@@ -3389,7 +3390,7 @@ SPEED UP PYTHON EXECUTION ON COMPILER
 👉 RUST             (OFFICIAL)   ->       https://www.rust-lang.org/learn
  			         ->	  https://education.web3.foundation/docs/introrust
 
-BEST PRACTICE + (clippy)
+BEST PRACTICE + (clippy -> TESTING)
 
 ### 1. Rust simplicity and reduction of complexity.
 ### 2. Rust unsafe{} keyword for performance tuning in hardware. PERFORMANCE_USECASE(Code must be secure & Adhere to Standard Guidelines of unsafe principles) COMPILER CHECKS-> Must be checked by Software Engineer during Software Review and Testing.
