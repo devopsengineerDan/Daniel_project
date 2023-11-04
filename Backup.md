@@ -3176,7 +3176,7 @@ vcpkg Windows and Linux os package manager -> RIGID and mostly for private useca
 --------------------------------------------------------------------------------------------------------------------------------------
 1 BASH EXECUTION OF PYTHON IN LINUX (Here do not use pyinstaller) -> https://www.youtube.com/watch?v=vEQ8CXFWLZU
 2 DESKTOP EXECUTION OF PYTHON IN LINUX (Here do not use pyinstaller) -> https://www.youtube.com/watch?v=9CTmC5Y7QeM
-3 PYTHON INSTALLERS -> https://www.youtube.com/watch?v=p3tSLatmGvU
+3 PYINSTALLER -> https://www.youtube.com/watch?v=p3tSLatmGvU
 
 LINUX
 Debreate for debian distribution [.deb]
@@ -4022,6 +4022,8 @@ pyinstaller --onedir --onefile --name=passwordlocker --windowed "/home/dan/Pycha
 OR
 In the project directory, when the development virtual environment is deactivated, type this on the terminal
 pyinstaller main.py --onefile --noconsole
+
+PYINSTALLER -> https://www.youtube.com/watch?v=p3tSLatmGvU
 ```
 
 
@@ -4074,6 +4076,13 @@ HUGO -> hugo -> To create public folder with static html,css,xml pages
 
 13. push to github -> This is the Blog repository
     NOTE -> If websites fails to update take the new posts htmls files generated and add them to the website folder cloned from git. Then push the new changes
+```
+
+
+```
+👉 NGROK
+
+ngrok config add-authtoken 2V4ZbMGhudJBSB8F1Z303Qf0yFc_2i9fWkV8ECNg6bL8zfABS
 ```
 
 
