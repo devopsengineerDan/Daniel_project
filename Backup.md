@@ -701,6 +701,39 @@ Online Chess
 ```
 
 
+```
+✅ Software Programs which can be executed.
+
+# BOTH WINDOWS AND LINUX
+HTTP Server Script
+
+# WINDOWS => ON DIFFERENT MACHINES
+Bluetooth Script
+Zoom Script
+
+# LINUX => ON EITHER SAME MACHINE OR DIFFERENT MACHINES
+TCP + Advanced TCP
+UDP 
+
+
+---------------------------------------------------------------------------
+👉 RUN PYINSTALLER ...
+
+GUI Two players Chess App
+GUI Clock App
+---------------------------------------------------------------------------
+
+
+
+
+---------------------------------------------------------------------------
+👉 RUN NGROK ... => https://www.youtube.com/watch?v=hs7GLsHQCPQ
+HTTP Server Script
+---------------------------------------------------------------------------
+```
+
+-------------------------------
+
 -> ***👉 Python Script to Control my Lights using phue philips bulb -> https://www.youtube.com/watch?v=kSruoqDTYt0
 
 -------------------------------
@@ -721,6 +754,14 @@ python -m http.server
 #linux use ifconfig. Then check the wlp2s0 option. The default local ip address 127.0.0.1 does not work.
 
 -> Convert a file to zip folder in order to download it to another machine
+
+---------------------------------------------------------------------------
+✅ RUN NGROK ... => https://www.youtube.com/watch?v=hs7GLsHQCPQ
+HTTP Server Script
+python3 -m http.server
+ngrok config add-authtoken 2V4ZbMGhudJBSB8F1Z303Qf0yFc_2i9fWkV8ECNg6bL8zfABS
+ngrok http [port-displayed-above]
+---------------------------------------------------------------------------
 ```
 
 -------------------------------
@@ -3185,7 +3226,14 @@ Other alternatives -> https://alternativeto.net/software/inno-setup/?platform=li
 
 WINDOWS [.exe]
 Traditional -> Pyinstaller(Setup must be within the parent directory during execution)
-Modern -> Inno Setup(Setup is compiled with all the dependencies required, hence must NOT be within the parent directory during execution) 
+Modern -> Inno Setup(Setup is compiled with all the dependencies required, hence must NOT be within the parent directory during execution)
+
+👉 PYINSTALLER => https://www.youtube.com/watch?v=p3tSLatmGvU
+
+pyinstaller --onedir --onefile --name=passwordlocker --windowed "/home/dan/PycharmProjects/dancunmanyinsa/manage.py"
+OR
+In the project directory, when the development virtual environment is deactivated, type this on the terminal
+pyinstaller main.py --onefile --noconsole
 -------------------------------------------------------------------------------------------------------------------------------------
 
 
