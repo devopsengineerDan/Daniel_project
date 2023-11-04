@@ -687,14 +687,15 @@ GUI Motion Detection App -> https://www.youtube.com/watch?v=QPjPyUJeYYE
 GUI Two players Chess App
 GUI Clock App
 ------------------------------------------------------
-
+# BOTH WINDOWS AND LINUX
+Bluetooth Script -> https://www.youtube.com/watch?v=8pMaR-WUc6U
 RUN NGROK ...
 # WINDOWS
 GUI Zoom App -> https://www.youtube.com/watch?v=bJOvYgSqrOs
 # BOTH WINDOWS AND LINUX
 HTTP Server Script
-TCP + Advanced TCP
-UDP 
+TCP + Advanced TCP -> https://www.youtube.com/watch?v=F_JDA96AdEI
+UDP -> https://www.youtube.com/watch?v=3qlhbez-RPI 
 Online Chess
 ------------------------------------------------------
 ```
