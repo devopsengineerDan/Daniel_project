@@ -4080,7 +4080,7 @@ HUGO -> hugo -> To create public folder with static html,css,xml pages
 
 
 ```
-👉 NGROK
+👉 NGROK => https://www.youtube.com/watch?v=hs7GLsHQCPQ
 
 ngrok config add-authtoken 2V4ZbMGhudJBSB8F1Z303Qf0yFc_2i9fWkV8ECNg6bL8zfABS
 ```
