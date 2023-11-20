@@ -124,6 +124,46 @@ Master's  
 ```
 
 
+☀️ SUMMARY
+
+```
+✅
+=> Natural Resources
+=> Technology and Science
+=> Gold and Money
+
+
+                           ✅
+                           =>Military                                         -> Harmonious
+                           =>Complex (Scientific Research and Entertainment)  -> Integrated
+                           =>Industrial                                       -> Industry
+
+
+
+
+
+✅
+Be Confident and Huumble
+Lead with empathy
+Organized
+Ops Clandestine
+Charismatic
+Kaizen
+
+
+
+
+
+✅                                                                                                               ✅
+2PHASES                                                                                                          TIME
+🌑 Moon =>Saturn, Fox, Thoth                                                  ☀️ Sun =>Lion, Eagle
+[Death]
+                            [Chaotic]                                                                   RIGHT WAY
+[Mistake/Lustful Punished]
+                            [Selfish Violence]                                                                   REALISTIC
+```
+
+
 ☀️ 33 DEGREES
 
 ```
@@ -214,7 +254,7 @@ Bear
 ```
 🧨 JAHBULON
     BUL- Baal ON- Osiris                                            JAH - Harmonious, Integrated, Industry
-🌑 (Saturn/Toth)[USA] Mind/Nature                                   ☀️ (Lion/Eagle)UK Heart/Life
+🌑 (Saturn, Fox, Toth)[USA] Mind/Nature                                   ☀️ (Lion, Eagle)UK Heart/Life
 SECURITY                                                            SECURITY -> Dieus
 
                    Cost(Nothing is free)                                                                 Personal -> Equilibrium
@@ -3137,6 +3177,8 @@ VScode
 
 👉 Vscode A MUST Installation
 
+✅ [CODE RUNNER] => Download in windows
+code runner
 ✅ [VSCODE PLUGINS]
 VSCode Icons Team - vscode-icons
 ✅ [VIM]
@@ -3173,7 +3215,7 @@ Microsoft - C/C++ Extension Pack
 Microsoft - C/C++ Themes
 Microsoft - CMake Tools
 LLVM - clangd
-✅ POSTMAN]
+✅ [POSTMAN]
 Postman
 ✅ [POSTGRESQL]
 Microsoft - postgreSQL
