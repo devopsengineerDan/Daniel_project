@@ -8137,9 +8137,9 @@ Windows + R - optionalfeatures.exe -> Windows Subsystem for Linux
 
 diskpart
 list disk
-attributes disk
-attributes disk clear diskonly
-exit
+- attributes disk 2                              - select disk 2
+- attributes disk 2 clear diskonly               - clean
+- exit                                           - exit
 ```
 
 
