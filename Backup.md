@@ -1509,7 +1509,23 @@ save for emergency(high)->investment(medium)->asset/property(low)#Gold, Land and
 PROTECTION
 Lawyers
 Tax Accountants(policies+best practices)
-Shell companies(ownership) to avoid damage on you                                                                  
+Shell companies(ownership) to avoid damage on you
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+MANAGING SYSTEM
+
+                                                      MANAGING PEOPLE
+
+
+
+MANGING CASHFLOW => High Incomes
+                 => Low Expenses
+MARKETING => High Sales
+
+
+                                                      MANAGING SYSTEM                                                                   
 ```
 
 
