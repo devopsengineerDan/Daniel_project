@@ -2554,6 +2554,82 @@ HACKERSPLOIT -> https://www.youtube.com/watch?v=ChgqGBwl8NQ&list=PLBf0hzazHTGMjS
 # OTHER CYBER SECURITY MATERIALS
 
 ```
+👉 SOC ANALYST TOOLS
+
+AlienVault: https://bit.ly/42Z9mzG
+LogRhythm: https://bit.ly/3NkUaXy
+IBM Q-Radar: https://bit.ly/3prU4FW
+Splunk: https://bit.ly/44mPdV4
+
+𝐈𝐃𝐒 𝐓𝐨𝐨𝐥𝐬:
+
+OSSEC: https://bit.ly/46rKovu
+Snort: https://bit.ly/3PrO4Yi
+
+𝐄𝐃𝐑/𝐗𝐃𝐑 𝐓𝐨𝐨𝐥𝐬:
+
+CrowdStrike: https://bit.ly/3Nw9L73
+Carbon Black: https://bit.ly/3D85MZD
+Sentinel One: https://bit.ly/3CLgp4l
+Defender for Endpoint: https://bit.ly/3r1ZyYq
+
+𝐖𝐢𝐫𝐞𝐬𝐡𝐚𝐫𝐤:
+
+Wireshark Masterclass: https://bit.ly/45TkEXp
+```
+
+
+```
+👉 𝗠𝗮𝗹𝘄𝗮𝗿𝗲 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗖𝗼𝘂𝗿𝘀𝗲 𝗮𝗻𝗱 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻
+
+1) Ultimate Malware Analysis by Zero2Automated
+https://lnkd.in/dN7v2zNj
+
+2) Practical Junior Malware Research by TCM Security
+https://lnkd.in/dR6mTmQ8
+
+3) Giac Reverse Engineering and Malware by SANS
+https://lnkd.in/d6UvAbun
+
+4) Certified Malware Analyst by Ethical Hackers Academy
+https://lnkd.in/dt3xQFQT
+
+5) Malware Analysis by Red Team Academy
+https://lnkd.in/duBMbZV8
+
+6) Malware Analysis Course by Black Storm Security
+https://lnkd.in/dwhn_uuH
+
+7) Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software
+https://lnkd.in/dmyhKDBV
+
+8) Malware Analysis Fundamentals by Let's Defend
+https://lnkd.in/dSDUeyP7
+
+9) Malware Analysis Detection Engineering
+https://lnkd.in/dSEA37wQ
+
+10) Malware Analysis Master by Mandiant
+https://lnkd.in/dNM54d2C
+
+11) CS6038/CS5138 Malware Analysis
+https://class.malware.re/
+
+12) Malware Analysis CSCI 4976 by RPISEC
+https://lnkd.in/dC7kZkAK
+
+13) Reverse Engineering 101 by Malware Unicorn
+https://lnkd.in/dwGu22if
+
+14) Purple Team Analyst by CyberwarfareLabs
+https://lnkd.in/dBAqYG3j
+
+15) Advanced Endpoint Investigation
+https://lnkd.in/dgTBDWaW
+```
+
+
+```
 👉 RED TEAM TOOLS
 
 1-NETWORK ANALYSIS
