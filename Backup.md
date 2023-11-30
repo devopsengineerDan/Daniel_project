@@ -1761,7 +1761,7 @@ WINDOWS 10
 
 Firewall -> Firewall app
 Chrome => Check below setup  Official installation of Google Chrome
-Firefox
+Firefox => SaveFrom.net helper extension
 Vivaldi
 Brave
 GNS3 -> Network Design
@@ -8099,14 +8099,19 @@ Gihosoft Tubeget -> 4k,8k download
 IDM
 4k Downloader
 --------------------------------------------------------------------------
+Chrome
+Firefox => SaveFrom.net helper extension
+Brave
 Windows Powershell ISE -> Advance
 VirtualBox
 Windows Powershell
 Anaconda
 Pycharm Community
-Rustrover
-Visual Studio Installer 
+*Rustrover
+*Visual Studio Installer
+Cmake
 Conan
+Eclipse -> c/c++ development, embedded c/c++, scientific c/c++ -> mingw-get-setup.exe + Go Advanced System Settings then Go to Environment variables then  Go to System variables, Select Path then Select edit, Add C:\MinGW\bin, Save then OK and Restart computer
 Whatsapp
 Teams=> Windows 10
 Telegram
