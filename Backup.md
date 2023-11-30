@@ -1761,7 +1761,7 @@ WINDOWS 10
 
 Firewall -> Firewall app
 Chrome => Check below setup  Official installation of Google Chrome
-Firefox => SaveFrom.net helper extension
+Firefox => SaveFrom.net helper extension, DuckDuckGo Privacy Essentials extension
 Vivaldi
 Brave
 GNS3 -> Network Design
@@ -8100,7 +8100,7 @@ IDM
 4k Downloader
 --------------------------------------------------------------------------
 Chrome
-Firefox => SaveFrom.net helper extension
+Firefox => SaveFrom.net helper extension, DuckDuckGo Privacy Essentials extension
 Brave
 Windows Powershell ISE -> Advance
 VirtualBox
