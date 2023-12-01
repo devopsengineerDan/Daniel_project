@@ -1444,6 +1444,8 @@ KRA
 A012540149K
 engineerDaniel@1234
 
+https://adili.eacc.go.ke/ LOGIN-> dancunmoruri@gmail.com -> CONARDMOMANYI@1daniel
+
 Microsoft Teams: conardmomanyi1234
 Microsoft acc:dancunmoruri@gmail.com Conardmomanyi123
 
