@@ -2521,7 +2521,12 @@ Menu
     kali-tools-forensics: Forensic tools – Live & Offline
     kali-tools-reporting: Reporting tools
 
-Others
+OTHER ESSENTIAL TOOLS
+
+anonsurf => For Hiding IP(Making you anonymous)
+sudo apt install wifiphisher cri-tools hubble imhex kustomize rekono-kbx rz-ghidra
+
+Others Ways
 
     kali-linux-large: Our previous default tools for amd64/i386 images
     kali-linux-everything: Every metapackage and tool listed here
