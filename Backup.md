@@ -2523,7 +2523,8 @@ Menu
 
 OTHER ESSENTIAL TOOLS
 
-anonsurf => For Hiding IP(Making you anonymous)
+🧨 Install anonsurf => For Hiding IP(Making you anonymous)
+🧨 Type kali-undercover => Change desktop environment to Windows
 sudo apt install wifiphisher cri-tools hubble imhex kustomize rekono-kbx rz-ghidra
 
 Others Ways
