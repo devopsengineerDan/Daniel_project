@@ -1310,6 +1310,8 @@ https://thintech.co.ke/  Consultance
 
 Network configuration
 
+MICROTIK ->  C4:AD:34:B3:41:30 -> 192.168.88.1
+
 PPoE user 0711444518
 PPoE password 0000
 IP address 10.5.10.52 
