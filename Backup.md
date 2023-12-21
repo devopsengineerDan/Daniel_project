@@ -2413,10 +2413,10 @@ sudo modprobe vboxdrv
 ► 7:11 Setting up shared folders								    
 								       
 8. Port Forwarding in KVM https://www.cyberciti.biz/faq/kvm-forward-ports-to-guests-vm-with-ufw-on-linux/
-   (CHECK WINDOWS DOC FILE)
+   (CHECK WINDOWS DOC FILE) IN DRIVE
 
 NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto-configure-setup-firewall-with-ufw-on-ubuntu-linux/
-(CHECK WINDOWS DOC FILE)
+(CHECK WINDOWS DOC FILE) IN DRIVE
 ```															
 
 	
@@ -2538,6 +2538,76 @@ Others Ways
 ```
 
 
+```
+👉 MAKE YOUR IP ADDRESS ANONYMOUS
+
+I. Cloning the anonsurf repo in the local system
+
+Open a terminal window by using Ctrl+Alt+T and execute the apt command to download anonsurf by cloning anonsurf from the GitHub repository:
+
+$ git clone https://github.com/Und3rf10w/kali-anonsurf.git
+
+II. Installing anonsurf 
+
+Now, Change the directory to where anonsurf is already downloaded by executing the following command:
+
+$ cd kali-anonsurf/
+
+III. Changing File permissions of the installed
+
+Before we execute the installer, we need to change the file permissions using the following command,
+
+$ chmod +x installer.sh
+
+IV. Executing the installer
+
+Then, install anonsurf using the command mentioned below. Press Y to confirm when prompted. This process will take few minutes after which we should be able keep our personal data clear off the prying eyes.
+
+$ sudo ./installer.sh
+
+
+Anonsurf is installed successfully. To check if the installation of the anonsurf has succeeded we can simply enter,
+
+$ anonsurf
+
+V. Working with various anonsurf options
+
+We can start anonsurf service in anon mode by running the following command:
+sudo anonsurf start
+
+=> Changing the identity using tor 
+
+What the change option effectively does is that it changes the tor circuit. Now, all the computer traffic is routed via 3 nodes by default namely Guard, relay, and exit.
+
+Depending on the flavour of the installation it could be sudo anonsurf changeid or just use:
+
+$ sudo anonsurf change
+
+=> Checking the current IP address
+
+To check your current IP address, execute the following command:
+
+$ sudo anonsurf myip
+
+=> Checking the current status of the network
+
+To check the status, Run the following command:
+
+$ sudo anonsurf status
+
+=> Stopping the anonsurf service
+
+To stop anonsurf, execute the following command:
+
+$ anonsurf stop
+
+=> Get more information on anonsurf
+
+To know more about anonsurf, You can refer to the help page by running the following command:
+$ anonsurf help
+```
+
+
 
 ===============================================================================================================================================
 
@@ -2550,14 +2620,31 @@ Others Ways
 
 NULLBYTE -> (Automated) https://www.youtube.com/watch?v=qpnpI_mF3Aw
 DAVID BOMBAL -> (Detailed) https://www.youtube.com/watch?v=J8A8rKFZW-M
+```
+
+
+```
+👉 API HACKING
+
 JOHN HAMMOND->  How To Hack APIs with Python  -> https://www.youtube.com/watch?v=NIceKjhZhrI
-```		
+```
+
+ 
+```
+ 👉 INCIDENT RESPONSE
+
+ MITRE ATT&CK FRAMEWORK  -> https://mitre-attack.github.io/attack-navigator/
+ MITRE ATT&CK FRAMEWORK Tutorials
+ Basic -> https://www.youtube.com/watch?v=WmQPtk3Ybxs
+ Advance -> https://www.youtube.com/watch?v=ujaoOWmkGLY
+```
 
 
 ```
 👉 PENTESTING REDTEAM FUNDAMENTALS
 
 HACKERSPLOIT -> https://www.youtube.com/watch?v=ChgqGBwl8NQ&list=PLBf0hzazHTGMjSlPmJ73Cydh9vCqxukCu&index=16
+Edureka Ethical Hacking 10hours -> https://www.youtube.com/watch?v=dz7Ntp7KQGA
 ```
 
 -------------------------------
