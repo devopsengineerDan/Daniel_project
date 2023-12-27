@@ -1744,6 +1744,15 @@ Once done, go to Accessory > Plank to launch Plank dock.
 ```
 👉 LINUX OPERATING SYSTEM DISTRIBUTIONS
 
+@@@@@@@@@@@@
+    For Debian / Ubuntu: .deb packages installed by apt and dpkg
+    For Rocky / Fedora / RHEL: .rpm packages installed by yum, dnf for Fedora
+    For openSUSE: .rpm packages installed by zypper
+    For Arch: .aur packages installed by pacman
+    For FreeBSD: .txz packages installed by pkg
+@@@@@@@@@@@@
+
+
 ARCH (OPENSUSE TUMBLEWEED) => Install on KVM
 FEDORA
 DEBIAN
@@ -1764,6 +1773,7 @@ WINDOWS 10
 👉 LINUX SOFTWARES
 
 Firewall -> Firewall app
+Anonsurf
 Chrome => Check below setup  Official installation of Google Chrome
 Firefox => SaveFrom.net helper extension, DuckDuckGo Privacy Essentials extension
 Vivaldi
@@ -2608,12 +2618,44 @@ $ anonsurf help
 ```
 
 
+```
+👉 RECONNAISSANCE TOOLS
+
+sudo apt install webhttrack
+sudo apt install telnet => Banner Grabbing 
+telnet ip address
+netcat ip address
+whatweb ip address
+dmitry -p ip address
+dmitry -pb ip address
+theHarvester
+```
+
+
+```
+👉 NETWORK REMOTE ATTACK
+
+sudo apt install rsh-client
+```
+
+
+
+# SCRIPTING 
+
+
+```
+👉 NETWORK SCANNING
+
+pip install python-nmap
+```
+
+
 
 ===============================================================================================================================================
 
 
 
-# CYBER SECURITY
+# CYBER SECURITY ===> CISM CERTIFICATION  www.isaca.org/cismapp -> In order to be CISM Certified
 
 ```
 👉 WIFI HACKING
@@ -8186,7 +8228,8 @@ Then:
 Download cpu-z    -> ram,cpu,graphics type and storage size
 Download Intel Graphics Command Center and Modify Settings to High/Ultra
 
-Glass Wire Network Security
+Glass Wire Network Security => Firewall
+PortMaster -> Block advertisement, deception, tracker => VPN
 Avast Offline
 
 --------------------------------------------------------------------------
