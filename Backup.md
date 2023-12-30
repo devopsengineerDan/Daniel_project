@@ -557,6 +557,8 @@ Vim Tutorial -> https://www.youtube.com/watch?v=jXud3JybsG4&list=PL7yh-TELLS1Eev
 ```
 👉 RUST GUIDE => Rust Official Documentation
 
+=> Rust images
+
 1. Rust Bites -> https://www.youtube.com/watch?v=gvHPRaZHgD4&list=PLai5B987bZ9C0xK1tZ2wsudOo2zjrD9xX
 
 2. The Rustlang Book -> https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
@@ -598,7 +600,7 @@ Advantages of cargo
 ```
 👉 C GUIDE => C Official Documentation
 
-=> C KNOWLEDGE FOR COMPUTER PROGRAMMING FUNDAMENTALS
+=> C KNOWLEDGE FOR COMPUTER PROGRAMMING FUNDAMENTALS  => C images
 
 Pointers -> https://www.youtube.com/watch?v=Hb-bmAmbwvo&list=PL7yh-TELLS1GafZOVHhCPaCQUt8HrfCZE&index=9
 
@@ -2205,6 +2207,14 @@ sudo grub-install /dev/sda
 sudo add-apt-repository -y ppa:yannubuntu/boot-repair
 sudo apt-get update
 sudo apt-get install -y boot-repair && boot-repair
+
+
+👉 GRUB UNABLE TO DETECT OTHER OPERATING SYSTEMS
+
+Install os-prober (usually installed already) 
+Edit the /etc/default/grub file to add GRUB_DISABLE_OS_PROBER=false to this file. 
+Save this file.
+Update grub (https://itsfoss.com/update-grub/) and Grub should see other operating systems now.
 ```
 
 
