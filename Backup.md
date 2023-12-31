@@ -2153,6 +2153,15 @@ sudo passwd root
 ```
 
 
+```
+👉 BYPASSING SECURITY FOR AN SYSTEM AUDITOR
+
+-> Bypass Label Processing (BLP)
+-> System Exits
+-> Special System Login IDs
+```
+
+
 ```									
 👉 CHECK BATTERY
 									
