@@ -2556,7 +2556,7 @@ OTHER ESSENTIAL TOOLS
 
 🧨 Install anonsurf => For Hiding IP(Making you anonymous)
 🧨 Type kali-undercover => Change desktop environment to Windows
-sudo apt install wifiphisher cri-tools hubble imhex kustomize rekono-kbx rz-ghidra
+🧨 sudo apt install wifiphisher cri-tools hubble imhex kustomize rekono-kbx rz-ghidra
 
 Others Ways
 
@@ -2568,7 +2568,7 @@ Others Ways
 
 
 ```
-👉 MAKE YOUR IP ADDRESS ANONYMOUS
+👉 MAKE YOUR IP ADDRESS ANONYMOUS USING ANONSURF
 
 I. Cloning the anonsurf repo in the local system
 
@@ -2637,6 +2637,32 @@ $ anonsurf help
 ```
 
 
+
+-------------------------------
+
+
+
+# RED TEAM
+
+## TOOLS
+
+👉 MANAGING NETWORK MONITORING AND MALWARE DETECTION -> Aurora software
+👉 MANAGING LOGS FOR AN AUDITOR -> SIEM system e.g Splunk software
+
+
+
+## SCRIPTS
+
+
+
+-------------------------------
+
+
+
+# RED TEAM
+
+## TOOLS
+
 ```
 👉 RECONNAISSANCE TOOLS
 
@@ -2659,8 +2685,7 @@ sudo apt install rsh-client
 
 
 
-# SCRIPTING 
-
+## SCRIPTS
 
 ```
 👉 NETWORK SCANNING
@@ -8247,9 +8272,13 @@ Then:
 Download cpu-z    -> ram,cpu,graphics type and storage size
 Download Intel Graphics Command Center and Modify Settings to High/Ultra
 
-Glass Wire Network Security => Firewall
-PortMaster -> Block advertisement, deception, tracker => VPN
-Avast Offline
+=>Glass Wire Network Security => Firewall
+=>PortMaster -> Block advertisement, deception, tracker => VPN
+
+=>Windows Defender
+=>Avast Offline
+
+=>WPD -> Remove logs and DISABLE WINDOWS UPDATE
 
 --------------------------------------------------------------------------
 Screen recorder pro -> Screenshot
