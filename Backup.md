@@ -2642,12 +2642,14 @@ $ anonsurf help
 
 
 
-# RED TEAM
+# BLUE TEAM
 
 ## TOOLS
 
+```
 👉 MANAGING NETWORK MONITORING AND MALWARE DETECTION -> Aurora software
 👉 MANAGING LOGS FOR AN AUDITOR -> SIEM system e.g Splunk software
+```
 
 
 
