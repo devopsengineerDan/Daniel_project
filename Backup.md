@@ -1330,7 +1330,7 @@ tick NAT
 
 VPN
 VPN address 8ce5083f2021.sn.mynetname.net
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 
@@ -2552,13 +2552,9 @@ Menu
     kali-tools-forensics: Forensic tools – Live & Offline
     kali-tools-reporting: Reporting tools
 
+
+
 OTHER ESSENTIAL TOOLS
-
-🧨 Install anonsurf => For Hiding IP(Making you anonymous)
-🧨 Type kali-undercover => Change desktop environment to Windows
-🧨 sudo apt install wifiphisher cri-tools hubble imhex kustomize rekono-kbx rz-ghidra
-
-Others Ways
 
     kali-linux-large: Our previous default tools for amd64/i386 images
     kali-linux-everything: Every metapackage and tool listed here
@@ -2647,8 +2643,13 @@ $ anonsurf help
 ## TOOLS
 
 ```
-👉 MANAGING NETWORK MONITORING AND MALWARE DETECTION -> Aurora software
-👉 MANAGING LOGS FOR AN AUDITOR -> SIEM system e.g Splunk software
+🧨 MANAGING NETWORK MONITORING AND MALWARE DETECTION => Aurora software
+
+🧨 SECURITY IN SOFTWARE DEVELOPMENT => STRIDE Software Design Development
+🧨 Cloud Access Security Broker CASB => Microsoft Defender for Cloud
+🧨 Cloud Broker
+
+🧨 MANAGING LOGS FOR AN AUDITOR => SIEM system e.g Splunk software
 ```
 
 
@@ -2664,6 +2665,13 @@ $ anonsurf help
 # RED TEAM
 
 ## TOOLS
+
+```
+🧨 Install anonsurf => For Hiding IP(Making you anonymous)
+🧨 Type kali-undercover => Change desktop environment to Windows
+🧨 sudo apt install wifiphisher cri-tools hubble imhex kustomize rekono-kbx rz-ghidra
+```
+
 
 ```
 👉 RECONNAISSANCE TOOLS
@@ -8311,6 +8319,17 @@ Bluestacks
 One Note for Windows 10
 Netflix
 MPCH(Media Classic Home)
+
+
+
+👉 OPENSOURCE                           👉 PROPRIETORY
+logseq/appflowy/anytype                 obsidian/Notion         -> Note taking
+mattermost                              slack/microsoftteams          
+focalboard                              trello
+libreoffice                             adobe
+vscodium                                vscode
+nextcloud                               googleworksheet/ microsoft365
+thunderbird                             gmail/outlook
 ```
 
 
