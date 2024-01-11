@@ -2716,13 +2716,16 @@ pip install python-nmap
 
 NULLBYTE -> (Automated) https://www.youtube.com/watch?v=qpnpI_mF3Aw
 DAVID BOMBAL -> (Detailed) https://www.youtube.com/watch?v=J8A8rKFZW-M
+
+👉 STEAL WIFI PASSWORD
+CYBER MENTOR -> https://www.youtube.com/watch?v=1nWPbKitj9w
 ```
 
 
 ```
 👉 API HACKING
 
-JOHN HAMMOND->  How To Hack APIs with Python  -> https://www.youtube.com/watch?v=NIceKjhZhrI
+JOHN HAMMOND ->  How To Hack APIs with Python  -> https://www.youtube.com/watch?v=NIceKjhZhrI
 ```
 
  
