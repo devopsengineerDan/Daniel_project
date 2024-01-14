@@ -96,19 +96,27 @@ Master's  
 👉 SUMMARY
 
 ```
-
+🌀 SECURITY AND SILENCE
 1 Cybersecurity*
 2 Armory
 3 Chess
-                                                              1 Silence, Listening*
-							      2 Reading
-	                                                      3 Speaking*
-                                                              4 Golf
+
+                                                               🌀 ACCURATE AND PRIORITY
+                                                               1 Silence, Listening*
+							       2 Reading
+	                                                       3 Speaking*
+                                                               4 Golf
+
+
+      🌀 ADAPT IN (CONTEXTUAL SCOPE)
       1 Forex*
       2 Pool table*
       3 Swimming
+
+
+                                                               🌀 PERFORMANCE AND PERFECTION
                                                                1 Eat and Drink
-							       2 Exercise and Land
+							       2 Exercise and LAND and RENTAL PROPERTIES AND SERVICE WORK
 	                                                       3 Drive( AUTO* & MANUAL*)
 ```
 
@@ -2710,6 +2718,20 @@ pip install python-nmap
 
 
 # CYBER SECURITY ===> CISM CERTIFICATION  www.isaca.org/cismapp -> In order to be CISM Certified
+
+
+```
+=>Intermediate
+🌀 NULLBYTE
+🌀 DAVID BOMBAL
+🌀 CYBER MENTOR
+
+
+
+=>Adnance
+🌀 JOHN HAMMOND
+```
+
 
 ```
 👉 WIFI HACKING
@@ -8628,6 +8650,20 @@ VIDEOS + 2GIT + Printing + (Block Chain & Datastructures Summary Table)
 
 -> Network Security + Algorithm Design 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+10hrs Cybersecurity
+CybersecurityVIDEOS
+Hackersploit (BLUE AND RED TEAM)
+=> Hack the Box
+
+
+=> FREE TIME Network Security Videos
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 
 					
