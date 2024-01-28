@@ -453,7 +453,15 @@ Rust ->`Tauri
 1. EDUREKA
 2. free code camp
 3. LINKS
-   
+
+```
+MICROTIK ROUTER CONFIGURATION
+👉 MICROTIK ZERO TO HERO -> https://www.youtube.com/watch?v=Gf-iCjh2Bwg&list=PLlEVCBdM7ELM3S7Ew3HtbaX6ZUB_Pfihh
+
+👉 MICROTIK FUNDAMENTALS -> https://www.youtube.com/watch?v=76nK1LXyPMA&list=PLCvN_Pl1Blxh2ejJCGI4T-xzL3VrYtsKS
+```
+
+
 ```
 👉 CYBERSECURITY GUIDE => OWASP CHEETSHEET -> https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
 
