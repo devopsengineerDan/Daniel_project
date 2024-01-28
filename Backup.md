@@ -2746,6 +2746,7 @@ pip install python-nmap
 
 NULLBYTE -> (Automated) https://www.youtube.com/watch?v=qpnpI_mF3Aw
 DAVID BOMBAL -> (Detailed) https://www.youtube.com/watch?v=J8A8rKFZW-M
+Wireless Hacking WIFITE WIFI PHISHER -> https://www.youtube.com/watch?v=FVBti1vhJVA
 
 👉 STEAL WIFI PASSWORD
 CYBER MENTOR -> https://www.youtube.com/watch?v=1nWPbKitj9w
