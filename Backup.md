@@ -1324,37 +1324,6 @@ https://foht.co.ke/  Software Engineer
 https://thintech.co.ke/  Consultance
 
 -------------------
-
-
-👉 MICROTIK ROUTER CONFIGURATION
-```
-Default Network IP Address -> 192.168.88.1
-
-Microtik Routers MAC Addresses
-NEW C4:AD:34:B3:41:33  
-OLD CC:2D:E0:62:46:38
-C4:AD:34:B3:41:30
-```
- 
-
-```
-PPoE user 0711444518
-PPoE password 0000
-IP address 10.5.10.52 
-Gateway 10.5.10.1
-tick Firewall Router 
-
-Local Network 
-IP address 192.168.88.1
-Netmask 255.255.255.0(/24)
-tick DHCP Server 
-
-DHCP Server Range 192.168.88.10.192.168.88.254
-tick NAT 
-
-VPN
-VPN address 8ce5083f2021.sn.mynetname.net
-```
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -2084,7 +2053,35 @@ sudo service NetworkManager stop
 👉 MICROTIK
 
 startx
-service gdm3 restart 
+service gdm3 restart
+
+👉 MICROTIK ROUTER CONFIGURATION
+
+Default Network IP Address -> 192.168.88.1
+
+Microtik Routers MAC Addresses
+NEW C4:AD:34:B3:41:33  
+OLD CC:2D:E0:62:46:38
+C4:AD:34:B3:41:30
+
+ 
+👉 PPOE
+PPoE user 0711444518
+PPoE password 0000
+IP address 10.5.10.52 
+Gateway 10.5.10.1
+tick Firewall Router 
+
+Local Network 
+IP address 192.168.88.1
+Netmask 255.255.255.0(/24)
+tick DHCP Server 
+
+DHCP Server Range 192.168.88.10.192.168.88.254
+tick NAT 
+
+VPN
+VPN address 8ce5083f2021.sn.mynetname.net
 ```
 
 
