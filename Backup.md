@@ -96,7 +96,7 @@ Master's  
 👉 SUMMARY
 
 ```
-🌀 SECURITY AND SILENCE
+🌀 SECURITY(PERFECTION/COMPLETE) AND SILENCE
 1 Cybersecurity*
 2 Armory
 3 Chess
@@ -114,7 +114,7 @@ Master's  
       3 Swimming
 
 
-                                                               🌀 PERFORMANCE AND PERFECTION
+                                                               🌀 PERFORMANCE AND PERFECTION(COMPLETE)
                                                                1 Eat and Drink
 							       2 Exercise and LAND and RENTAL PROPERTIES AND SERVICE WORK
 	                                                       3 Drive( AUTO* & MANUAL*)
@@ -1718,6 +1718,14 @@ sudo apt upgrade
 sudo apt install xubuntu-desktop
 ```
 
+
+```
+👉 REMOVE XUBUNTU
+
+sudo apt-get autoremove --purge xubuntu-* && sudo apt-get autoremove --purge xfce*
+sudo apt-get autoremove --purge $( dpkg-query -l *xubuntu* | grep ii | tr -s " " | cut -d" " -f2; dpkg-query -l *xfce* | grep 'ii' | tr -s " " | cut -d" " -f2 )
+```
+
  
 ```							     
 👉 CHANGE DOCK IN XFCE
@@ -2696,6 +2704,26 @@ $ anonsurf help
 
 
 ```
+👉 WIFITE
+
+iwconfig
+sudo ifconfig wlp2s0 up
+sudo apt install aircrack-ng
+sudo apt install wifite
+
+
+sudo airmon-ng check
+sudo airmon-ng check kill
+sudo airmon-ng start wlp2s0
+
+
+sudo airmon-ng start wlp2s0mon
+sudo wifite --kill
+select
+```
+
+
+```
 👉 RECONNAISSANCE TOOLS
 
 sudo apt install webhttrack
@@ -2742,7 +2770,7 @@ pip install python-nmap
 
 
 
-=>Adnance
+=>Advance
 🌀 JOHN HAMMOND
 ```
 
