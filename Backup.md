@@ -2734,6 +2734,11 @@ whatweb ip address
 dmitry -p ip address
 dmitry -pb ip address
 theHarvester
+
+Sublist3r by Ahmed Aboul-Ela is arguably the simplest subdomain scraping tool that comes to mind. This light-weight Python script gathers subdomains from numerous search engines, SSL certificates, and websites such as DNS Dumpster. The set-up process on my personal machine was as straightforward as:
+$ git clone https://github.com/aboul3la/Sublist3r.git
+$ cd Sublist3r
+$ sudo pip install -r requirements.txt
 ```
 
 
