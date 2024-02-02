@@ -1708,6 +1708,9 @@ sudo systemctl enable gdm.service
 ```
 👉 (UBUNTU 20- ONWARDS )XFCE INSTALLATION
 
+sudo apt install xfce4 xfce4-goodies
+        (OR)
+
 sudo apt install xfce4
         (OR)
 	
