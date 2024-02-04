@@ -3801,7 +3801,7 @@ DATABASE FLOW-CHART DIAGRAM
                                  ->     https://www.youtube.com/watch?v=DpUlfWP_gtg
 
 
-BEST PRACTICE + (autopep8, flake8, mypy -> TESTING)
+BEST PRACTICE + (autopep8 idiomatic python using flake8, pytest and hypothesis, mypy => TESTING)
 👉.gitignore(*.egg-info, *.pyc, .coverage, .tox, /venv*, coverage-html, dist)
 
 ### 1.  Initilialize always on Project Folder. 
