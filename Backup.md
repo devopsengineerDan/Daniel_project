@@ -1445,8 +1445,8 @@ engineerDaniel@1234
 https://adili.eacc.go.ke/ LOGIN-> dancunmoruri@gmail.com -> CONARDMOMANYI@1daniel
 
 Microsoft Teams: conardmomanyi1234
-Microsoft acc: dancunmoruri@gmail.com     Conardmomanyi123
-Microsoft acc: dancun.moruri@outlook.com
+Microsoft acc: dancunmoruri@gmail.com     Conardmomanyi123 => Teams, Skype
+Microsoft acc: dancun.moruri@outlook.com  => security code for dancunmoruri@gmail.com => Microsoft OneDrive, Microsoft Office 365
 
 SAF PORTAL: @@aUrsAP@w9x.j@
 
@@ -1473,7 +1473,8 @@ telcom:
 
 phone: 1493
 whats-app:147369
-computer os: observer computer hardware: creator windows: d@97
+computer os: windows: d@97/devopsengineer
+             linux Debian-based: devopsengineerDan  RPM-based: Magazine@987
 github: conardmomanyimoruri
 
 STEAM DETAILS
@@ -3566,6 +3567,21 @@ https://lnkd.in/gc5p5Jss
 
 
 # SOFTWARE ENGINEERING (QUANTUM AI, QUANTUM MECHANICS ,AI && DIGITAL COMPUTING) : (ANALOGUE ELECTRONICS AND MECHANICS)
+
+
+
+```
+=>AI
+🌀 Patrick Loeber
+🌀 Dr. Alex Loannides
+
+
+
+=>SOFTWARE
+🌀 Fireship
+🌀 Isaac Harris-Holt
+```
+
 
 ```
 👉 DEVELOPMENT SETUP
