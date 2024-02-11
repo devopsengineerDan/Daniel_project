@@ -1843,7 +1843,8 @@ GNOME EXTENSIONS
 -> Floating dock
 
 -------------------------------------------------------------------------------------------------------									
-LINUX APPS A MUST INSTALLATION    https://www.makeuseof.com/must-have-applications-for-linux-users/
+LINUX PRODUCTIVITY APPS A MUST INSTALLATION    https://www.makeuseof.com/must-have-applications-for-linux-users/
+🌀 Also check WINDOWS SECTION
 									
 Libreoffice
 Mozilla Firefox
@@ -1868,7 +1869,7 @@ Clementine is a music player with a minimal, easy-to-use interface.
 
 
 ```							     
-👉 LINUX A MUST INSTALLATIONS
+👉 LINUX A MUST CPU AND GPU DRIVERS INSTALLATIONS
 
 AMD DRIVERS
 AMDGPU = AMD open source kernel display driver.
@@ -2022,6 +2023,39 @@ sudo apt install gnome-tweak-tool
 
 GNOME Extensions:
 https://extensions.gnome.org/
+```
+
+
+```
+👉 OPENSSH IN OPENSUSE
+
+ 1. Refresh zypper's package list.
+
+> sudo zypper refresh
+
+2. Install openssh package if not already installed (optional).
+
+> sudo zypper install --no-confirm openssh
+
+3. Start sshd service via systemd.
+
+> sudo systemctl start sshd
+
+4. Check if sshd is successfully started (optional).
+
+> sudo systemctl status sshd
+
+5. Enable sshd during system startup.
+
+> sudo systemctl enable sshd
+
+6. Enable firewall rule for ssh.
+
+> sudo firewall-cmd --permanent --add-service=ssh
+
+7. Reload firewall rules.
+
+> sudo firewall-cmd --reload
 ```
 															
 
