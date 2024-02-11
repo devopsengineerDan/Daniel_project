@@ -2057,6 +2057,88 @@ https://extensions.gnome.org/
 7. Reload firewall rules.
 
 > sudo firewall-cmd --reload
+
+
+
+👉 SECURE SSH ON LINUX
+
+1. Disable Root Login
+This setting should be set by default, this makes it to where all root logins via SSH are unallowed. System administrators would log in via their user account and escalate via su or sudo commands. To verify this setting or modify it on your own, you can run nano /etc/ssh/sshd_config and set the PermitRootLogin parameter to no if it is not already done. To make sure the setting is applied, you’ll need to restart the service using systemctl restart sshd or service sshd restart.
+
+2. Disable SSH Protocol 1
+SSH Protocol 1 should be disabled by default on newer versions of SSH and Linux. However, if you run an older version of either, ensure that only Protocol 2 is being used. Use nano /etc/ssh/sshd_config to edit the configuration file and look for the Protocol parameter and set it to 2.
+
+3. Disable Host-Based Authentication
+Host-based authentication is one method of controlling who and how someone can authenticate to your Linux server via SSH. It’s also not recommended; consider a machine that is compromised but is allowed access to your server. Threat actors now have the ability to log in via SSH to your Linux server thanks to host-based authentication. 
+
+The Center for Internet Security (CIS) playbook recommends to  lock down this setting in favor of using public key-based authentication. To do this, run nano /etc/ssh/sshd_config to edit the SSH configuration file. Find the parameter HostBasedAuthentication and set it to no. Keep in mind that this setting applies only to SSH using Protocol 2, so make sure you are using this protocol version as mentioned above.
+
+You can also ensure that setting the parameter IgnoreRHosts is set to yes to require your users to authenticate via an approved method. This parameter tells your SSH configuration to ignore the .rhosts and .shosts file.
+
+4. Disable Empty Passwords
+Make sure that all users authenticating with your Linux server via SSH have to use some form of authentication rather than an empty password string. To do this, type nano /etc/ssh/sshd_config into the command line, find the parameter PermitEmptyPasswords and ensure this is set to no. 
+
+5. Enable and Use Key-Based Authentication
+Public key-based authentication is a great method for users to authenticate to your Linux servers using SSH. You’ll need to be able to generate key pairs (public and private key pairs) and lock down or at least audit changes to the home directory in which these key pairs are saved on your server.
+
+Ideally you should both audit and lock down said folder. By default this folder is located here ~/.ssh/. Lock the folder down to just root and wheel using chown root:wheel ~/.ssh/id_rsa and chown root:wheel ~/.ssh/id_rsa.pub. Reviewing audit logs can help you ensure that no unauthorized changes are being made.
+
+Generating SSH keys for this type of authentication is out of scope for this blog post, but you can accomplish this by using the ssh-keygen command. You should also use a longer bit length key like RSA 4096 or higher (4096 is the smallest recommended key length).
+
+6. Enforce a Limit to the Maximum Number of Authentication Attempts
+Enabling a limit to the maximum number of authentication attempts through SSH mitigates the risk of a successful brute force attack within your environment. This is an easy control to put in place as it is simply editing a parameter within your SSH configuration file. To do this, use nano /etc/ssh/sshd_config, find the parameter MaxAuthTries and set it to a more appropriate value. The recommendation from CIS is four attempts or less.
+
+7. Enforce an Idle Timeout
+Leaving SSH sessions logged in and idle or unattended without a control can increase your attack surface. If an attacker were to gain access to a machine where an unattended SSH session was left open, it would be too easy for them to unleash a whole host of nefarious actions against your Linux SSH server.
+
+To mitigate this risk, use nano /etc/ssh/sshd_config to adjust the parameters for ClientAliveInterval. This value is in seconds and determines the actual length of time before a timeout. A value of 300 or less is recommended for a five-minute session timeout.
+
+8. Disable Users’ Ability to Set Environment Variables
+By default OpenSSH in a Linux system allows users the ability to set or modify environment variables within their sessions. This setting is not advised since it could allow a user to bypass the controls you’ve put in place. For example, a user can set a variable to have a process execute a malicious package. To stop any potential malicious action in SSH, set the parameter PermitUserEnvironment to no in /etc/ssh/sshd_config.
+
+9. Audit Changes to Keys and to SSHD_Config
+Auditing changes to your SSH keys and to your SSH configuration file are extremely important. You don’t know what you can’t see, and visibility is a key component of any security program. Knowing when changes occurred, how they occurred, and who administered those changes — authorized or otherwise — should be a priority. You can use tools such as auditd, ssh-audit, and more to maintain that visibility.
+
+10. Enforce SSH to Use PAM
+Within the context of Linux, PAM is Pluggable Authentication Modules, and should be enabled for SSH by default. You can check and set whether PAM is enabled for SSH by looking for the UsePAM parameter and making sure that it is set to yes. This will allow you to disable host-based authentication in the PAM configuration, as well as edit other security settings such as keyboard authentication and even multi-factor authentication.
+
+11. Restrict SSH Access to Users/Groups That Need It
+Keeping in mind the principle of least privilege, you should narrow the scope of who needs to connect via SSH into your servers. Managing the groups and users who can have this ability is easily accomplished in Linux.
+
+One way is to access the AllowUsers and AllowGroups parameters within the /etc/ssh/sshd_config file. Then, populate the parameters with a list of the users and groups that exist on the server who should have access to SSH into your server. You can also leverage the DenyUsers and DenyGroups parameters to explicitly call out who cannot connect via SSH into your server.
+
+12. Disable X11 Forwarding
+With X11 forwarding, a remote user can access a graphical application installed on a Linux server. If left unchecked, hackers can use it to monitor other users’ keystrokes or perform malicious activity by opening other X11 connections to remote clients. It’s recommended to disable this. The parameter X11Forwarding should be set to no in the SSH configuration file. You can do this by running nano /etc/ssh/sshd_config and then modify the parameter. Restart your server or at least connect via SSH to make sure your configuration changes are applied.
+
+13. Disable Port Forwarding
+Local port forwarding via SSH can be used legitimately inside of an environment. Leaving this configuration on, however, can leave you exposed to a threat actor creating their own backdoor tunnels into your environment.
+
+It is recommended that you disable this setting, which you can do inside of the SSH configuration file at this location /etc/ssh/sshd_config. The parameter for this particular setting is called AllowTcpForwarding, and setting this to no will prevent users from being able to exploit this feature in your environment.
+
+14. Use UFW or Firewalld to Restrict Access
+Uncomplicated firewall (UFW) and Firewalld — open source programs that manage firewalls within Linux — are not enabled by default on their respective distributions, or distros. However, you can use them to further lock down which SSH connections are allowed and from what networks or IP addresses you want connections to come from. Make sure to remove less restrictive rules that may already be in place before adding in your own rules.
+
+15. Limit the Maximum Number of Concurrent Sessions
+Restricting the maximum number of open SSH sessions adds an extra layer of security by further hardening your SSH configurations. This can also mitigate a denial of service attack (DoS), especially if you know how many users are expected to be on the same server at the same time. The CIS recommendation is to limit this to a maximum of four concurrent connections. You can do this by running nano /etc/ssh/sshd_config and modifying the parameter maxsessions to four or less, depending on your needs.
+
+16. Change Log Level of SSH in Linux
+Ensuring that SSH is logging appropriately can help find potential bad actors. It’s important to have just the right amount of information, as this will make it easier to find the key security information that you need.
+
+The default log level, INFO, records only user login activity and can leave you wanting for more information, especially if you are in the middle of responding to an incident. VERBOSE is preferred as it will detail logout time in addition to login time and other pertinent information. To change this, edit the LogLevel parameter and change the value from INFO to VERBOSE. You can do this by running nano /etc/ssh/sshd_config to edit the SSH configuration file.
+
+17. Set a Warning Banner
+Banner messages can be a deterrent for threat actors, since it places a stern warning to users who connect to your machine via SSH that their access is being logged and any unauthorized use will be tracked and prosecuted (in some environments this last part is of particular import). While this may not stop all potential attackers, it could deter some who see this and decide against proceeding.
+
+To set a warning banner, edit your SSH configuration file at /etc/ssh/sshd_config and modify the Banner parameter to show the directory where to place your banner file with your warning message.
+
+18. Change the Default Port
+Security through obscurity is not true security; changing the default SSH port will not make your server more secure. What it will do is prevent it from being easily discovered when port scanning an environment. Avoiding using 22 or some other derivative like 2222 will likely skate by some lower-skilled bad actors. 
+
+To make this modification, edit the SSH configuration file using nano /etc/ssh/sshd_config and find the parameter called Port. This will likely be commented out so it will appear like # Port 22. Remove the # and change the port number from 22 to another port. 
+
+Restart the SSH service. If you made changes to your UFW or Firewalld configuration, make sure the new port is reflected in your rules to ensure you still can connect to the server via SSH on the new port.
+
+🌀 Install Blumira: Security for IT Teams
 ```
 															
 
@@ -2747,10 +2829,13 @@ $ anonsurf help
 
 ```
 🧨 MANAGING NETWORK MONITORING AND MALWARE DETECTION => Aurora software
+🧨🧨🧨 Threat Protection, Detection and Response => Blumira
 
 🧨 SECURITY IN SOFTWARE DEVELOPMENT => STRIDE Software Design Development
 🧨 Cloud Access Security Broker CASB => Microsoft Defender for Cloud
 🧨 Cloud Broker
+
+
 
 🧨 MANAGING LOGS FOR AN AUDITOR => SIEM system e.g Splunk software
 ```
