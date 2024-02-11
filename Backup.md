@@ -1811,7 +1811,9 @@ WINDOWS 10
 👉 LINUX SOFTWARES
 
 Firewall -> Firewall app
-Anonsurf
+Install Anonsurf => Cybersecurity installation section
+Remove ssh and openssh
+------------------------------------------------------------------------------------------------------
 Chrome => Check below setup  Official installation of Google Chrome
 Firefox => SaveFrom.net helper extension, DuckDuckGo Privacy Essentials extension
 Vivaldi
