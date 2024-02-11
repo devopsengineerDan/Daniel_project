@@ -8791,7 +8791,7 @@ VIDEOS + 2GIT + Printing + (Block Chain & Datastructures Summary Table)
 
 
 
-10hrs Cybersecurity
+10hrs Cybersecurity + PwnFunction Web Security
 CybersecurityVIDEOS
 Hackersploit (BLUE AND RED TEAM)
 => Hack the Box
@@ -8799,6 +8799,18 @@ Hackersploit (BLUE AND RED TEAM)
 
 => FREE TIME Network Security Videos
 
+
+=> API
+
+Patrick Loeber(Django, FastAPI, Flask)
+
+software-project-based-learning GitHub
+--------------
+Django https://codeburst.io/create-a-django-api-in-under-20-minutes-2a082a60f6f3
+Flask https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xxiii-application-programming-interfaces-apis
+--------------
+
+Rodney Osodo(API, Python Wrapper) 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
