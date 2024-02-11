@@ -1445,7 +1445,8 @@ engineerDaniel@1234
 https://adili.eacc.go.ke/ LOGIN-> dancunmoruri@gmail.com -> CONARDMOMANYI@1daniel
 
 Microsoft Teams: conardmomanyi1234
-Microsoft acc:dancunmoruri@gmail.com Conardmomanyi123
+Microsoft acc: dancunmoruri@gmail.com     Conardmomanyi123
+Microsoft acc: dancun.moruri@outlook.com
 
 SAF PORTAL: @@aUrsAP@w9x.j@
 
@@ -1559,8 +1560,34 @@ If Mymode exists give the newmode a different name
 
 sudo apt install arandr
 ```
-									
-									
+
+
+```
+👉 REDSHIFT
+
+sudo apt-get install redshift redshift-gtk
+redshift -O 3000K -r -P
+
+OR
+
+nano ~/.config/redshift.conf
+
+[redshift]
+temp-day=3600
+temp-night=3300
+gamma=0.8
+brightness=0.8
+adjustment-method=randr
+location-provider=manual
+
+
+[manual]
+
+lat=31.78
+lon=35.21
+```
+
+																		
 ```
 ---------------------- GNOME INSTALLATION ---------------------
 👉 VANILLA GNOME BROKEN DEPENDECIES
@@ -1673,12 +1700,16 @@ gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length
 ```
 👉 GNOME TRANSPARENCY(MENU BAR AND TAB)
 
-Install (Dynamic Panel Transparency ) in ubuntu softwares
+Install (Dynamic Panel Transparency ) in ubuntu 
+
+OR NEW
+
+Install Transparent Shell gnome-extension
 ```
 
 
 ```
-👉 GNOME TRANSPARENCY(MENU BAR AND TAB)
+👉 GNOME TRANSPARENCY(DASH TO DOCK)
 
 Install  dash-dock extension
 Then terminal write these commands:
@@ -1785,6 +1816,7 @@ Chrome => Check below setup  Official installation of Google Chrome
 Firefox => SaveFrom.net helper extension, DuckDuckGo Privacy Essentials extension
 Vivaldi
 Brave
+Gnome Night Light OR Redshift
 GNS3 -> Network Design
 VirtualBox
 QEMU/KVM
@@ -8378,6 +8410,7 @@ IDM
 Chrome
 Firefox => SaveFrom.net helper extension, DuckDuckGo Privacy Essentials extension
 Brave
+Microsoft Night Ligt OR Flux
 Windows Powershell ISE -> Advance
 VirtualBox
 Windows Powershell
@@ -8581,7 +8614,7 @@ GO SLOW -> Pedestrian-crossing + Bumps, Bridge, Parking
 -------------------------------
 
 ```
-👉 Tourbillon WATCH      👉 Japanese Kei off-road truck 4x4   👉 Facebook: mercelsha muqpal
+👉 Tourbillon WATCH      👉 Japanese Kei off-road truck 4x4   👉 Facebook: mercelsha muqpal 👉 Dell xps 13" 9310 i7 11th gen OR BEST  15" 9530 i9 13th gen
 ````
 
 -------------------------------
@@ -8596,7 +8629,7 @@ GO SLOW -> Pedestrian-crossing + Bumps, Bridge, Parking
 5 Power-bank
 
 ==> Portable [COMPANY] 5G mifi(All lines)
-==> Samsung 990 Pro ssd(Tails,Kali, Kali Purple)
+==> Samsung 990 Pro ssd(Tails,Kali, Kali Purple, Windows10 Recovery iso)
 ````
 
 -------------------------------
