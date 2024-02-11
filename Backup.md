@@ -1473,9 +1473,20 @@ telcom:
 
 phone: 1493
 whats-app:147369
+
+devopsengineerdan@gmail.com conardmomanyimoruri
+dancunmanyinsait@gmail.com CONARDMOMANYI@123456
+dancunmoruri@gmail.com CONARDMOMANYI@654321
+
 computer os: windows: d@97/devopsengineer
-             linux Debian-based: devopsengineerDan  RPM-based: Magazine@987
-github: conardmomanyimoruri
+             linux Debian-based: devopsengineerDan  RPM-based: Magazine@987 Guest:Magazine@987
+	     
+github: dancunmanyinsait@gmail.comconardmomanyimoruri
+        dancummoruri@gmail.comconardmomanyimoruri
+	
+discord: david_softwareengineer  dancummoruri@gmail.com  QWERTY@987
+
+slack : Sign in with dancunmanyinsait@gmail.com
 
 STEAM DETAILS
 DanAlphaandOmega
