@@ -2039,38 +2039,6 @@ https://extensions.gnome.org/
 
 
 ```
-👉 OPENSSH IN OPENSUSE
-
- 1. Refresh zypper's package list.
-
-> sudo zypper refresh
-
-2. Install openssh package if not already installed (optional).
-
-> sudo zypper install --no-confirm openssh
-
-3. Start sshd service via systemd.
-
-> sudo systemctl start sshd
-
-4. Check if sshd is successfully started (optional).
-
-> sudo systemctl status sshd
-
-5. Enable sshd during system startup.
-
-> sudo systemctl enable sshd
-
-6. Enable firewall rule for ssh.
-
-> sudo firewall-cmd --permanent --add-service=ssh
-
-7. Reload firewall rules.
-
-> sudo firewall-cmd --reload
-
-
-
 👉 SECURE SSH ON LINUX
 
 1. Disable Root Login
@@ -2150,6 +2118,46 @@ To make this modification, edit the SSH configuration file using nano /etc/ssh/s
 Restart the SSH service. If you made changes to your UFW or Firewalld configuration, make sure the new port is reflected in your rules to ensure you still can connect to the server via SSH on the new port.
 
 🌀 Install Blumira: Security for IT Teams
+
+
+
+👉 OPENSSH IN OPENSUSE
+
+ 1. Refresh zypper's package list.
+
+> sudo zypper refresh
+
+2. Install openssh package if not already installed (optional).
+
+> sudo zypper install --no-confirm openssh
+
+3. Start sshd service via systemd.
+
+> sudo systemctl start sshd
+
+4. Check if sshd is successfully started (optional).
+
+> sudo systemctl status sshd
+
+5. Enable sshd during system startup.
+
+> sudo systemctl enable sshd
+
+6. Enable firewall rule for ssh.
+
+> sudo firewall-cmd --permanent --add-service=ssh
+
+7. Reload firewall rules.
+
+> sudo firewall-cmd --reload
+
+
+
+👉 ssh file transfer tools: scp and rsync.
+
+We can use both of these tools to transfer files between Linux machines. However, we should consider scp when the file size is small — it’s a simple copy tool and is widely available. In our day-to-day use, scp is the easy choice for small, one-off transfers.
+
+We would benefit most from rsync when file size is big or when we need more complex and efficient synchronization. It’s also the better choice for recurring tasks like cron jobs and scripts.
 ```
 															
 
