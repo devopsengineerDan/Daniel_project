@@ -1822,10 +1822,13 @@ WINDOWS 10
 ```
 👉 LINUX SOFTWARES
 
+🧨🌀 SYSTEM HARDENING
 Firewall -> Firewall app
 Install Anonsurf => Cybersecurity installation section
 Remove ssh, openssh, ftp
+
 ------------------------------------------------------------------------------------------------------
+
 Chrome => Check below setup  Official installation of Google Chrome
 Firefox => SaveFrom.net helper extension, DuckDuckGo Privacy Essentials extension
 Vivaldi
@@ -2650,7 +2653,46 @@ sudo modprobe vboxdrv
 
 NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto-configure-setup-firewall-with-ufw-on-ubuntu-linux/
 (CHECK WINDOWS DOC FILE) IN DRIVE
-```															
+```
+
+
+       
+===============================================================================================================================================
+
+
+
+# CYBER SECURITY ===> CISM CERTIFICATION  www.isaca.org/cismapp -> In order to be CISM Certified
+
+
+
+```
+=>Intermediate
+🌀 NULLBYTE
+🌀 DAVID BOMBAL
+🌀 CYBER MENTOR
+
+
+
+=>Advance
+🌀 JOHN HAMMOND
+🌀 PwnFunction
+```
+
+
+```
+👉 Objective: Networks, API, Database and EDR Artificial Intelligence System
+🌀 Interest in research: http,tcp,udp
+🧨 Implementation and Tools: ssh,ftp,os
+```
+
+
+
+-------------------------------
+
+
+
+# INSTALLATIONS
+
 
 	
 ```
@@ -2937,25 +2979,8 @@ pip install python-nmap
 
 
 
-===============================================================================================================================================
+# CYBER SECURITY MATERIALS
 
-
-
-# CYBER SECURITY ===> CISM CERTIFICATION  www.isaca.org/cismapp -> In order to be CISM Certified
-
-
-```
-=>Intermediate
-🌀 NULLBYTE
-🌀 DAVID BOMBAL
-🌀 CYBER MENTOR
-
-
-
-=>Advance
-🌀 JOHN HAMMOND
-🌀 PwnFunction
-```
 
 
 ```
@@ -2994,9 +3019,15 @@ HACKERSPLOIT -> https://www.youtube.com/watch?v=ChgqGBwl8NQ&list=PLBf0hzazHTGMjS
 Edureka Ethical Hacking 10hours -> https://www.youtube.com/watch?v=dz7Ntp7KQGA
 ```
 
+
+
 -------------------------------
 
+
+
 # OTHER CYBER SECURITY MATERIALS
+
+
 
 ```
 👉 SOC ANALYST TOOLS
@@ -8548,6 +8579,10 @@ Then:
 Download cpu-z    -> ram,cpu,graphics type and storage size
 Download Intel Graphics Command Center and Modify Settings to High/Ultra
 
+--------------------------------------------------------------------------
+
+🧨🌀 SYSTEM HARDENING
+
 =>Glass Wire Network Security => Firewall
 =>PortMaster -> Block advertisement, deception, tracker => VPN
 
@@ -8557,13 +8592,16 @@ Download Intel Graphics Command Center and Modify Settings to High/Ultra
 =>WPD -> Remove logs and DISABLE WINDOWS UPDATE
 
 --------------------------------------------------------------------------
+
 Screen recorder pro -> Screenshot
 RecForth -> Video Recorder
 Remote Desktop
 Gihosoft Tubeget -> 4k,8k download
 IDM
 4k Downloader
+
 --------------------------------------------------------------------------
+
 Chrome
 Firefox => SaveFrom.net helper extension, DuckDuckGo Privacy Essentials extension
 Brave
