@@ -8967,6 +8967,9 @@ Rodney Osodo(API, Python Wrapper)
 
 Prevention -> https://github.com/devopsengineerDan/cybersecurity-IPS-IntrusionPreventionSystem
 Detection -> https://github.com/devopsengineerDan/cybersecurity-maltrail
+
+
+My blog devopsengineerdan/alexloannides blog -> ML Pipeline part 1 and 2
 https://github.com/devopsengineerDan/pyspark-ETL-project-and-airflow-Data-pipeline
 
 
