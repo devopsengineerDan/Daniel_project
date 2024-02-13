@@ -2667,9 +2667,11 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 
 ```
 =>Intermediate
-🌀 NULLBYTE
-🌀 DAVID BOMBAL
-🌀 CYBER MENTOR
+🌀 NULLBYTE(Red Team)
+🌀 DAVID BOMBAL(Both)
+-------------------------------------
+🌀 HACKERSPLOIT(Both)
+🌀 CYBER MENTOR(Blue Team)
 
 
 
@@ -2680,7 +2682,7 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 
 
 ```
-👉 Objective: Networks, API, Database and EDR Artificial Intelligence System
+👉 Objective: Networks, API, Database and Endpoint Detection Response[Protection|Detection(Sniffer Analyser)|Response(BlueTeam and RedTeam)]Artificial Intelligence System
 🌀 Interest in research: http,tcp,udp
 🧨 Implementation and Tools: ssh,ftp,os
 ```
@@ -8934,12 +8936,13 @@ VIDEOS + 2GIT + Printing + (Block Chain & Datastructures Summary Table)
 
 
 10hrs Cybersecurity + PwnFunction Web Security
-CybersecurityVIDEOS
-Hackersploit (BLUE AND RED TEAM)
-=> Hack the Box
+-> Overview: CybersecurityVIDEOS
+-> Further: Hackersploit (BLUE AND RED TEAM)
+
+=> 2nd FREE TIME Hack the Box
 
 
-=> FREE TIME Network Security Videos
+=> 1st FREE TIME Network Security Videos
 
 
 => API
@@ -8953,6 +8956,20 @@ Flask https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xxiii-ap
 --------------
 
 Rodney Osodo(API, Python Wrapper) 
+
+=> DATABASE
+
+1. DATABASE Normalization(1-4) & SQL Tutorial -> https://www.youtube.com/watch?v=y03oYWDLu0Q&list=PLTd6ceoshprdZIu24-_u00-m2Vf9o5aVC
+
+2. SQL Tutorial(Overview) -> https://www.youtube.com/watch?v=kXQccIONcc4&list=PL7yh-TELLS1FVLG6AFoT-3lVcbJiPTWze
+
+=> EDR Artificial Intelligence System
+
+Prevention -> https://github.com/devopsengineerDan/cybersecurity-IPS-IntrusionPreventionSystem
+Detection -> https://github.com/devopsengineerDan/cybersecurity-maltrail
+https://github.com/devopsengineerDan/pyspark-ETL-project-and-airflow-Data-pipeline
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
