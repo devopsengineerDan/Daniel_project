@@ -1824,7 +1824,7 @@ WINDOWS 10
 
 Firewall -> Firewall app
 Install Anonsurf => Cybersecurity installation section
-Remove ssh and openssh
+Remove ssh, openssh, ftp
 ------------------------------------------------------------------------------------------------------
 Chrome => Check below setup  Official installation of Google Chrome
 Firefox => SaveFrom.net helper extension, DuckDuckGo Privacy Essentials extension
