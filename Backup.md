@@ -3811,9 +3811,13 @@ Microsoft - Pylance
 Microsoft - Flake8 -> [Standard]
 Microsoft - Pylint
 Microsoft - Black Formatter
+Microsoft - Mypy ->[Standard]
 Microsoft - autopep8 -> [Standard]
 Microsoft - isort
+Microsoft - Tensorboard
 Kevin Rose - Python Indent
+✅ [INTELLICODE]
+Microsoft Intellicode Plugins
 ✅ [RUST]
 rust-analyzer
 CodeLLDB
@@ -3842,6 +3846,8 @@ Microsoft - All Jupyter plugins
 Matt Bierner - Markdown Preview Mermaid 
 ✅ [YAML]
 RedHat - yaml
+✅ [ROS]
+Microsoft ROS
 ✅ [ARDUINO]
 Microsoft - Arduino
 ✅ [SERIAL MONITOR]
