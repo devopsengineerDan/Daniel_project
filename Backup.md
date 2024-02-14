@@ -2685,6 +2685,31 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 👉 Objective: Networks, API, Database and Endpoint Detection Response[Protection|Detection(Sniffer Analyser)|Response(BlueTeam and RedTeam)]Artificial Intelligence System
 🌀 Interest in research: http,tcp,udp
 🧨 Implementation and Tools: ssh,ftp,os
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🧨 Endpoint Detection Response[Protection|Detection(Sniffer Analyser)|Response(BlueTeam and RedTeam)]Artificial Intelligence System
+
+1. Data Cleaning
+2. ETL
+3. Data Pipeline
+4. CI/CD
+------------------------
+🧨 OWASP
+
+Networks                             API                                              Database
+https + Domain                       XML                                              SQL postgreSQL
+tcp,udp                              RestAPI                                          NOSQL SurrealQL
+                                     GraphQL
+                                     Websockets: Django,FastAPI,Flask
+------------------------
+🧨 Hack The Box/ Try Hack Me
+
+Networks                             API                                              Database
+https + Domain                       XML                                              SQL
+tcp,udp                              RestAPI                                          NOSQL
+                                     GraphQL
+                                     Websockets: Django,FastAPI,Flask
+
 ```
 
 
@@ -8939,10 +8964,11 @@ VIDEOS + 2GIT + Printing + (Block Chain & Datastructures Summary Table)
 -> Overview: CybersecurityVIDEOS
 -> Further: Hackersploit (BLUE AND RED TEAM)
 
-=> 2nd FREE TIME Hack the Box
 
 
 => 1st FREE TIME Network Security Videos
+
+
 
 
 => API
@@ -8957,11 +8983,19 @@ Flask https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xxiii-ap
 
 Rodney Osodo(API, Python Wrapper) 
 
+GraphQL
+Fireship  ->  https://www.youtube.com/watch?v=eIQh02xuVw4
+NetNinja  ->  https://www.youtube.com/watch?v=xMCnDesBggM&list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y
+
+
+
 => DATABASE
 
 1. DATABASE Normalization(1-4) & SQL Tutorial -> https://www.youtube.com/watch?v=y03oYWDLu0Q&list=PLTd6ceoshprdZIu24-_u00-m2Vf9o5aVC
-
 2. SQL Tutorial(Overview) -> https://www.youtube.com/watch?v=kXQccIONcc4&list=PL7yh-TELLS1FVLG6AFoT-3lVcbJiPTWze
+
+
+
 
 => EDR Artificial Intelligence System
 
@@ -8973,6 +9007,9 @@ https://devopsengineerdan.github.io/  My blog name devopsengineerdan which is de
 https://github.com/devopsengineerDan/pyspark-ETL-project-and-airflow-Data-pipeline
 
 
+
+
+=> Cybersecurity Objective UP TOP
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
