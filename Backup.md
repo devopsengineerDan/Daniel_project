@@ -1423,15 +1423,17 @@ IMEI (slot 1): 355258091801717
 IMEI (slot 2): 355259091801715
 
 
-SAMSUNG A12
-Model number:  SM-A125F/DS 
-Serial number: R58R52PA7MD
-IMEI (slot 1): 359573262171914
-IMEI (slot 2): 359613632171911
+REDMI Note 11
+Model number:  2201117TG
+Serial number: 5e8e89e1
+IMEI (slot 1): 867654067277828
+IMEI (slot 2): 867654067277836
 
 
 LINUX CHECK SERIAL NUMBER -> sudo dmidecode -s system-serial-number
-DELL 7480                 -> 8BNNYM2
+X1 Carbon ThinkPad   Serial Number: PF15VBBQ     Machine Type Model: 20KGS6J300
+
+
 
 
 
@@ -1481,10 +1483,10 @@ dancunmoruri@gmail.com CONARDMOMANYI@654321
 computer os: windows: d@97/devopsengineer
              linux Debian-based: devopsengineerDan  RPM-based: Magazine@987 Guest:Magazine@987
 	     
-github: dancunmanyinsait@gmail.comconardmomanyimoruri
-        dancummoruri@gmail.comconardmomanyimoruri
+github: dancunmanyinsait@gmail.com: conardmomanyimoruri
+        dancummoruri@gmail.com: conardmomanyimoruri
 	
-discord: david_softwareengineer  dancummoruri@gmail.com  QWERTY@987
+discord: _softwareengineer_  dancummoruri@gmail.com: QWERTY@987
 
 slack : Sign in with dancunmanyinsait@gmail.com
 
@@ -1527,18 +1529,18 @@ Shell companies(ownership) to avoid damage on you
 ----------------------------------------------------------------------------------------------------------------------------------
 
 
-MANAGING SYSTEM
+MANAGING SYSTEM[ACTIVE]
 
-                                                      MANAGING PEOPLE
+                                                      MANAGING PEOPLE[ACTIVE]
 
 
-
-MANGING CASHFLOW => High Incomes
+[ACTIVE]
+MANAGING CASHFLOW => High Incomes
                  => Low Expenses
 MARKETING => High Sales
 
 
-                                                      MANAGING SYSTEM                                                                   
+                                                      MANAGING SYSTEM[ACTIVE]                                                                  
 ```
 
 
@@ -2361,7 +2363,14 @@ sudo passwd root
 
 
 ```
-👉 BYPASSING SECURITY FOR AN SYSTEM AUDITOR
+👉 SUSPEND LAPTOP
+		
+Power Button Behaviour -> Suspend
+```
+
+
+```
+👉 BYPASSING SECURITY FOR A SYSTEM AUDITOR
 
 -> Bypass Label Processing (BLP)
 -> System Exits
@@ -2702,7 +2711,7 @@ tcp,udp                              RestAPI                                    
                                      GraphQL
                                      Websockets: Django,FastAPI,Flask
 ------------------------
-🧨 Hack The Box/ Try Hack Me
+🧨 Hack The Box[ADVANCE]/Try Hack Me[BASIC]
 
 Networks                             API                                              Database
 https + Domain                       XML                                              SQL
@@ -2929,11 +2938,6 @@ $ anonsurf help
 ```
 
 
-
-## SCRIPTS
-
-
-
 -------------------------------
 
 
@@ -2946,62 +2950,6 @@ $ anonsurf help
 🧨 Install anonsurf => For Hiding IP(Making you anonymous)
 🧨 Type kali-undercover => Change desktop environment to Windows
 🧨 sudo apt install wifiphisher cri-tools hubble imhex kustomize rekono-kbx rz-ghidra
-```
-
-
-```
-👉 WIFITE
-
-iwconfig
-sudo ifconfig wlp2s0 up
-sudo apt install aircrack-ng
-sudo apt install wifite
-
-
-sudo airmon-ng check
-sudo airmon-ng check kill
-sudo airmon-ng start wlp2s0
-
-
-sudo airmon-ng start wlp2s0mon
-sudo wifite --kill
-select
-```
-
-
-```
-👉 RECONNAISSANCE TOOLS
-
-sudo apt install webhttrack
-sudo apt install telnet => Banner Grabbing 
-telnet ip address
-netcat ip address
-whatweb ip address
-dmitry -p ip address
-dmitry -pb ip address
-theHarvester
-
-Sublist3r by Ahmed Aboul-Ela is arguably the simplest subdomain scraping tool that comes to mind. This light-weight Python script gathers subdomains from numerous search engines, SSL certificates, and websites such as DNS Dumpster. The set-up process on my personal machine was as straightforward as:
-$ git clone https://github.com/aboul3la/Sublist3r.git
-$ cd Sublist3r
-$ sudo pip install -r requirements.txt
-```
-
-
-```
-👉 NETWORK REMOTE ATTACK
-
-sudo apt install rsh-client
-```
-
-
-
-## SCRIPTS
-
-```
-👉 NETWORK SCANNING
-
-pip install python-nmap
 ```
 
 
@@ -3917,7 +3865,13 @@ sudo apt install google-chrome-stable
 
 
 ```
-👉 INSTALL VSCODE FROM OFFICIAL MICROSOFT REPOSITORY
+👉 INSTALL VSCODE
+
+FLATHUB [BEST OPTION]
+
+OR
+
+FROM OFFICIAL MICROSOFT REPOSITORY
 
 Step 1: Update the system repository
 
@@ -4017,9 +3971,19 @@ C1.png
 ```
 👉 SOFTWARE PERFORMANCE BOOST
 
-Reduce pixels in images.
-Use local scripts on project folder and Compress Front-end scripts. e.g htmx, css, pyscript
+1. Reduce pixels in images.
+2. Use local scripts on project folder and Compress Front-end scripts. e.g htmx, css, pyscript
+```
 
+
+```
+👉 SEARCH ENGINE OPTIMIZATION
+
+1.  <meta charset="UTF-8">
+2.  <meta name="Description" content="Details regarding the website or web application">
+3. HTML Validation
+4. Content is King - Have great content
+5. Key words and Back Links
 ```
 
 
@@ -4186,7 +4150,8 @@ BEST PRACTICE Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE
 
 
 4xx
-Error Code	Meaning
+Error   Meaning
+Code	
 400	Bad Request – Your request sucks
 401	Unauthorized – Your API key is wrong
 403	Forbidden – The kitten requested is hidden for administrators only
@@ -4200,7 +4165,8 @@ Error Code	Meaning
 
 
 5xx
-Error Code	Meaning
+Error   Meaning
+Code	
 500	Internal Server Error – We had a problem with our server. Try again later.
 503	Service Unavailable – We’re temporarily offline for maintenance. Please try again later.
 ```
@@ -4259,7 +4225,7 @@ Flask => Small to Medium to Large -scale projects  projects ( Flexibility in lib
 ```
 
 
-👉 SQL => Consistency, Control and Perfomance
+👉 SQL => Consistency, Control and Performance
 
 -------------------------------
 
