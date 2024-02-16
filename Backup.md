@@ -3742,6 +3742,7 @@ https://lnkd.in/gc5p5Jss
 =>SOFTWARE
 🌀 Fireship
 🌀 Isaac Harris-Holt
+🌀 CodeDoner
 ```
 
 
@@ -4014,6 +4015,15 @@ C1.png
 # SOFTWARE BEST PRACTICE
 
 ```
+👉 SOFTWARE PERFORMANCE BOOST
+
+Reduce pixels in images.
+Use local scripts on project folder and Compress Front-end scripts. e.g htmx, css, pyscript
+
+```
+
+
+``` 
 👉 SOFTWARE DESIGN BEST PRACTICE
 
 ### SYSTEM ANALYSIS AND DESIGN
@@ -8731,7 +8741,7 @@ Virus Total
 ```
 👉 SUSPEND AND HIBERNATE
 				
-SUSPEND -> DO NOTHING - To enable operating the laptop when the lid is down
+SUSPEND -> DO NOTHING - To enable operating the laptop when you close the lid 
 HIBERNATE -> ctrl + Delete to run the machine
 ```
 
