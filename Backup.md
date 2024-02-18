@@ -4006,8 +4006,14 @@ DATABASE FLOW-CHART DIAGRAM
 ```
 
 
+
+
+
 ```
 👉 SOFTWARE ENGINEERING BEST PRACTICE
+
+🎯 SECURITY: gitignore files with security keys and use OTP message to manage payments when consuming apis from payment application system.
+🎯 DOTFILES
 
 ### 1. Adhere to Programming Language Standard library and Style of writing code.
 ### 2. Adhere to Software Design Principles and Patterns.
