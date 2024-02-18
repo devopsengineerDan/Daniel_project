@@ -1827,7 +1827,7 @@ WINDOWS 10
 🧨🌀 SYSTEM HARDENING
 Firewall -> Firewall app
 Install Anonsurf => Cybersecurity installation section
-Remove ssh, openssh, ftp
+Remove ssh, openssh, ftp, pkexec
 
 ------------------------------------------------------------------------------------------------------
 
