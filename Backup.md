@@ -1794,6 +1794,39 @@ Once done, go to Accessory > Plank to launch Plank dock.
 
 
 ```
+👉 FINGERPRINT LOGIN DEBIAN => https://ubuntuhandbook.org/index.php/2024/02/fingerprint-reader-t480s/#google_vignette
+
+INSTALL
+
+sudo add-apt-repository ppa:uunicorn/open-fprintd
+sudo apt install open-fprintd fprintd-clients python3-validity
+sudo systemctl status python3-validity.service
+sudo systemctl enable python3-validity.service
+sudo systemctl start python3-validity.service
+fprintd-enroll
+sudo pam-auth-update
+=> In next screen, use up/down arrow keys to choose “Fingerprint authentication”, then press space-bar to enable/disable it. Finally, press Tab to highlight OK and hit Enter.
+sudo systemctl enable open-fprintd-resume open-fprintd-suspend
+
+
+REMOVE
+
+    First, open terminal (Ctrl+Alt+T) and run command to re-configure PAM:
+
+    sudo pam-auth-update
+
+    In the screen, disable fingerprint authentication then, hit Tab and enter.
+    Next, run command to uninstall the python3-validity driver:
+
+    sudo apt remove --autoremove open-fprintd fprintd-clients python3-validity
+
+    Also, remove the Ubuntu PPA by running command:
+
+    sudo add-apt-repository --remove ppa:uunicorn/open-fprintd
+```
+
+
+```
 👉 LINUX OPERATING SYSTEM DISTRIBUTIONS
 
 @@@@@@@@@@@@
@@ -1808,7 +1841,7 @@ Once done, go to Accessory > Plank to launch Plank dock.
 ARCH (OPENSUSE TUMBLEWEED) => Install on KVM
 FEDORA
 DEBIAN
-UBUNTU (Software Availability)
+UBUNTU (Software Availability + [Ubuntu 20.04 version] for [High Display and HZ] after upgrading from 18.04 version)
 ----------
 KALI PURPLE + KALI LINUX
 METASPLOITABLE
