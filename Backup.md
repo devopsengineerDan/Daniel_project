@@ -1874,6 +1874,13 @@ WINDOWS 10
 
 
 ```
+👉 UBUNTU STUDIO APPS
+
+sudo apt install ubuntustudio-controls ubuntustudio-installer ubuntustudio-desktop
+```
+
+
+```
 👉 LINUX SOFTWARES
 
 🧨🌀 SYSTEM HARDENING
