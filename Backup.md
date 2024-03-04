@@ -2729,18 +2729,31 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 
 
 ```
+=> Overview
+🌀 The PC SEcurity Channel
+
+
+
 =>Intermediate
 🌀 NULLBYTE(Red Team)
 🌀 DAVID BOMBAL(Both)
 -------------------------------------
 🌀 HACKERSPLOIT(Both)
-🌀 CYBER MENTOR(Blue Team)
+
 
 
 
 =>Advance
-🌀 JOHN HAMMOND
 🌀 PwnFunction
+🌀 John Hammond
+🌀 Low Level Learning
+
+🌀 Live Overflow
+🌀 Cyber Mentor
+
+🌀 IppSec
+🌀 STOK
+🌀 Nicolas Gregoire
 ```
 
 
@@ -8698,6 +8711,12 @@ Then:
 
 
 ```
+👉 ANDROID
+
+SPlayer => Movies
+SnapTube => Music
+
+
 👉 WINDOWS SOFTWARES
 
 Download cpu-z    -> ram,cpu,graphics type and storage size
@@ -8760,6 +8779,7 @@ vscodium                                vscode
 nextcloud                               googleworksheet/ microsoft365
 thunderbird                             gmail/outlook
 ```
+
 
 
 ```
