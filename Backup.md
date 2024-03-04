@@ -1480,8 +1480,7 @@ devopsengineerdan@gmail.com conardmomanyimoruri
 dancunmanyinsait@gmail.com CONARDMOMANYI@123456
 dancunmoruri@gmail.com CONARDMOMANYI@654321
 
-computer os: windows: d@97/devopsengineer
-             linux Debian-based: devopsengineerDan  RPM-based: Magazine@987 Guest:Magazine@987
+
 	     
 github: dancunmanyinsait@gmail.com: conardmomanyimoruri
         dancummoruri@gmail.com: conardmomanyimoruri
@@ -1490,7 +1489,27 @@ discord: _softwareengineer_  dancummoruri@gmail.com: QWERTY@987
 
 slack : Sign in with dancunmanyinsait@gmail.com
 
-STEAM DETAILS
+-----------------------------------------------------------------
+OS:
+
+Windows Admin devopsengineer/d@97
+Windows Vbox Admin debian devopsYTRewq@987
+Windows Vbox Root debian  devopsYTREWQ@987
+
+
+
+Ubuntu Admin devopsYTRewq@987
+Ubuntu Root  devopsYTREWQ@987
+Ubuntu Vbox OSs && openSUSE Tumbleweed Hgfdsa Root HGFDSA
+Ubuntu Guest Magazine@987 
+
+
+Fedora Admin devopsYTRewq@987
+Fedora Root  devopsYTREWQ@987
+
+-----------------------------------------------------------------
+
+STEAM DETAILS:
 DanAlphaandOmega
 Standarduser1
 
@@ -1860,7 +1879,7 @@ WINDOWS 10
 🧨🌀 SYSTEM HARDENING
 Firewall -> Firewall app
 Install Anonsurf => Cybersecurity installation section
-Remove ssh, openssh, ftp, pkexec,policykit-1
+Remove ssh, openssh, ftp, pkexec,policykit-1 => sudo apt remove openssh-client
 sudo apt remove pkexec
 sudo apt purge policykit-1
 
@@ -2725,6 +2744,15 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 ```
 
 
+
+-------------------------------
+
+
+
+# OBJECTIVE
+
+
+
 ```
 👉 Objective: Networks, API, Database and Endpoint Detection Response[Protection|Detection(Sniffer Analyser)|Response(BlueTeam and RedTeam)]Artificial Intelligence System
 🌀 Interest in research: http,tcp,udp
@@ -2753,9 +2781,44 @@ https + Domain                       XML                                        
 tcp,udp                              RestAPI                                          NOSQL
                                      GraphQL
                                      Websockets: Django,FastAPI,Flask
-
 ```
 
+
+
+-------------------------------
+
+
+
+# CYBERSECURITY BEST PRACTICES
+
+
+
+```
+===> Download from Official Websites
+
+===> BROWSER, OS, [WEB, DESKTOP, MOBILE APPLICATION] => UPDATE & UPGRADE
+
+XML
+- No APIs, Docs, PDFs
+--------------------------------------------------------------------------------
+- Basic html index page
+     
+
+
+APIs (JSON, Python Frameworks, GraphQL) => UPDATE & UPGRADE
+- Use Authorisation Control
+
+FRONTEND (HTML, CSS, Pyscript) => UPDATE & UPGRADE
+- User Interface + Interactivity
+- Dynamic Templates + URLS on [Basic] html pages
+
+
+BACKEND (Python Frameworks) + (Python) => UPDATE & UPGRADE
+- No Dynamic Templates + URLS on [User inputs]
+--------------------------------------------------------------------------------
+- CSRF Token original + Encrypted Randomization after [User Form Authorisation] 
+- Dynamic Templates + URLS on html pages after [User Form Authorisation]
+```
 
 
 -------------------------------
@@ -3729,6 +3792,11 @@ https://lnkd.in/gc5p5Jss
 ```
 
 
+
+-------------------------------
+
+
+
 ```
 👉 DEVELOPMENT SETUP
 
@@ -3945,11 +4013,15 @@ Verify vscode installation by running:
 $ code --version
 ```
 
+
+
 -------------------------------
 
 
 
 # TOPICS
+
+
 
 ```
 👉 PYTHON TOPICS
@@ -4001,7 +4073,9 @@ C1.png
 
 
 
-# SOFTWARE BEST PRACTICE
+# SOFTWARE BEST PRACTICES
+
+
 
 ```
 👉 SOFTWARE PERFORMANCE BOOST
@@ -8766,6 +8840,11 @@ HIBERNATE -> ctrl + Delete to run the machine
 							       
 Go to cmd								       
 wmic diskdrive get caption, firmwarerevision
+
+
+👉 FIX SSD
+
+chkdsk
 ```
 
 
