@@ -9088,9 +9088,34 @@ VIDEOS + 2GIT + Printing + (Block Chain & Datastructures Summary Table)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-
-10hrs Cybersecurity + PwnFunction Web Security
 -> Overview: CybersecurityVIDEOS
+
+
+
+10hrs Cybersecurity-> https://www.youtube.com/watch?v=JcaYwZ5fqjU 
+
+Ethical Hacking in 15 Hours - 2023 Edition - Learn to Hack! (Part 1) -> https://www.youtube.com/watch?v=3FNYvj2U0HM
+Ethical Hacking in 15 Hours - 2023 Edition - Learn to Hack! (Part 2) -> https://www.youtube.com/watch?v=sH4JCwjybGs
+
+PwnFunction 
+[Web Security]
+Open Redirect Vulnerability Explained -> https://www.youtube.com/watch?v=4Jk_I-cw4WE&list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ
+HTTP Parameter Pollution Explained -> https://www.youtube.com/watch?v=QVZBl8yxVX0&list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ&index=2
+Insecure Direct Object Reference (IDOR) Explained -> https://www.youtube.com/watch?v=rloqMGcPMkI&list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ&index=3
+Cross-Site Request Forgery (CSRF) Explained -> https://www.youtube.com/watch?v=eWEgUcHPle0&list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ&index=5
+Cross-Site Scripting (XSS) Explained -> https://www.youtube.com/watch?v=EoaDgUgS6QA&list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ&index=7
+Insecure Deserialization Attack Explained -> https://www.youtube.com/watch?v=jwzeJU_62IQ&list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ&index=9
+Don't make random HTTP requests -> https://www.youtube.com/watch?v=RCJdPiogUIk&list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ&index=10
+
+
+[Binary Exploitation]
+What are Executables? | bin 0x00 -> https://www.youtube.com/watch?v=WnqOhgI_8wA&list=PLI_rLWXMqpSkAYfar0HRA7lykydwmRY_2&index=1
+How some functions can be Dangerous | bin 0x01 -> https://www.youtube.com/watch?v=EJtUW2AklVs&list=PLI_rLWXMqpSkAYfar0HRA7lykydwmRY_2&index=3
+Why you should Close Your Files | bin 0x02 -> https://www.youtube.com/watch?v=6SA6S9Ca5-U&list=PLI_rLWXMqpSkAYfar0HRA7lykydwmRY_2&index=3
+Dangerous Code Hidden in Plain Sight for 12 years -> https://www.youtube.com/watch?v=6SA6S9Ca5-U&list=PLI_rLWXMqpSkAYfar0HRA7lykydwmRY_2&index=3
+
+
+
 -> Further: Hackersploit (BLUE AND RED TEAM)
 
 
