@@ -1498,13 +1498,13 @@ Windows Vbox Root debian  devopsYTREWQ@987
 
 
 
-Ubuntu Admin devopsYTRewq@987
+Ubuntu Admin devopsYtrewq@987
 Ubuntu Root  devopsYTREWQ@987
 Ubuntu Vbox OSs && openSUSE Tumbleweed Hgfdsa Root HGFDSA
 Ubuntu Guest Magazine@987 
 
 
-Fedora Admin devopsYTRewq@987
+Fedora Admin devopsYtrewq@987
 Fedora Root  devopsYTREWQ@987
 
 -----------------------------------------------------------------
