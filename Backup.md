@@ -1489,6 +1489,9 @@ discord: _softwareengineer_  dancummoruri@gmail.com: QWERTY@987
 
 slack : Sign in with dancunmanyinsait@gmail.com
 
+telegram: Daniel @daniel_softwareengineer +254711444518
+          David  @david_softwareengineer +254706738969
+
 -----------------------------------------------------------------
 OS:
 
