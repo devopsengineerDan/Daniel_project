@@ -1863,7 +1863,7 @@ REMOVE
 ARCH (OPENSUSE TUMBLEWEED) => Install on KVM
 FEDORA
 DEBIAN
-UBUNTU (Software Availability + [Ubuntu 20.04 version] for [High Display and HZ] after upgrading from 18.04 version)
+UBUNTU (Software Availability + [Ubuntu 20.04 version] for [High Display and HZ] after upgrading from 18.04 version + [Ubuntu 22.04 version] for Best fingerprint support and performance)
 ----------
 KALI PURPLE + KALI LINUX
 METASPLOITABLE
