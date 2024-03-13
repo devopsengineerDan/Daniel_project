@@ -1921,7 +1921,7 @@ Gnome Tweaks
 GNOME EXTENSIONS
 -> Transparent Shell for debian packages Transparent Top Bar for rpm packages
 -> Open weather
--> Floating dock
+-> dash-to-dock Floating dock
 
 -------------------------------------------------------------------------------------------------------									
 LINUX PRODUCTIVITY APPS A MUST INSTALLATION    https://www.makeuseof.com/must-have-applications-for-linux-users/
