@@ -1892,7 +1892,7 @@ Install Anonsurf => Cybersecurity installation section
 Remove ssh, openssh, ftp, pkexec,policykit-1 => sudo apt remove openssh-client
 sudo apt remove pkexec
 sudo apt purge policykit-1
-
+sudo apt remove smbclient
 ------------------------------------------------------------------------------------------------------
 
 Chrome => Check below setup  Official installation of Google Chrome
@@ -2736,6 +2736,7 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 
 # CYBER SECURITY ===> CISM CERTIFICATION  www.isaca.org/cismapp -> In order to be CISM Certified
 
+👉👉👉  Keep Notes => Documentation of Commands and Scripts
 
 
 ```
@@ -2817,9 +2818,17 @@ tcp,udp                              RestAPI                                    
 
 
 ```
+===>  Remove Remote Connection [ssh, openssh, smbclient, active directory, PolicyKit-1 and pkexec, etc] in Linux and [active directory] in Windows
+
 ===> Download from Official Websites
 
 ===> BROWSER, OS, [WEB, DESKTOP, MOBILE APPLICATION] => UPDATE & UPGRADE
+
+
+
+
+
+
 
 XML
 - No APIs, Docs, PDFs
@@ -2841,7 +2850,38 @@ BACKEND (Python Frameworks) + (Python) => UPDATE & UPGRADE
 --------------------------------------------------------------------------------
 - CSRF Token original + Encrypted Randomization after [User Form Authorisation] 
 - Dynamic Templates + URLS on html pages after [User Form Authorisation]
+
+
+
+SQL INJECTION
+Limit user input name + consider it as String
+Limit user password + consider it as String
 ```
+
+
+
+-------------------------------
+
+
+
+# CYBERSECURITY WEBSITES AND VULNERABLE MACHINES
+
+
+
+```
+👉 CYBERSECURITY WEBSITES => Google search site:tesla.com filetype:csv or filetype:pdf
+www.shodan.com -> Identify vulnerable website/ webapp/ mobile app
+www.dehashed.com -> Identify cracked passwords
+nmap tool, sublist3r, owasp amass -> Information gathering
+www.builtwith.com, wapplyzer -> Identify technology used in a website/ webapp
+
+👉 VULNERABLE MACHINES
+Metasploitable -> Linux
+Kioptrix from Vulhub Website -> Linux
+vulnserver -> On Windows machine
+immunity debugger -> On Windows machine
+```
+
 
 
 -------------------------------
@@ -2896,6 +2936,16 @@ UI OPTION
    
 ```
 👉 INSTALL KALI PURPLE THEN INSTALL KALI LINUX PENTESTING TOOLS
+
+
+👉 SOLVE FUNCTIONALITY PROBLEMS OF KALI TOOLS
+
+Check Repository -> git clone https://github.com/Dewalt-arch/pimpmykali.git
+OR
+Update and upgrade Kali
+
+
+👉 INSTALLATION OF KALI TOOLS
 				
 *Install kali tools ( install katoolin) 
       OR
@@ -2906,6 +2956,7 @@ UI OPTION
 Install Advance Pentesting Tools
     sudo apt install offsec-pwk
     sudo apt install offsec-awae
+
 System
 
     kali-linux-core: Base Kali Linux System – core items that are always included
