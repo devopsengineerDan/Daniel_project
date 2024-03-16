@@ -105,4 +105,8 @@ hydra, metasploit -> Root login via ssh/samba [Credential Stuffing Attack]
 metasploit, openfuck -> Exploiting
 PwnFunction -> Exploiting Buffer Overflow in Linux
 cybersecurity Mentor part 2 -> Exploiting Buffer Overflow in Windows
+
+
+ssh,samba,telnet
+Active Directory
 ```
