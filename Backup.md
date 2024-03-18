@@ -1888,6 +1888,7 @@ sudo apt install ubuntustudio-controls ubuntustudio-installer ubuntustudio-deskt
 
 🧨🌀 SYSTEM HARDENING
 Firewall -> Firewall app
+Use latest Wifi/ Internet Security Standard e.g WPA2
 Install Anonsurf => Cybersecurity installation section
 Remove ssh, openssh, ftp, pkexec,policykit-1 => sudo apt remove openssh-client
 sudo apt remove pkexec
@@ -2820,10 +2821,15 @@ tcp,udp                              RestAPI                                    
 ```
 ===>  Remove Remote Connection [ssh, openssh, smbclient, active directory, PolicyKit-1 and pkexec, etc] in Linux and [active directory] in Windows
 
-===> Download from Official Websites
+===> Download from Official Websites to avoid malicious software AND Delete default system utility or software 
 
 ===> BROWSER, OS, [WEB, DESKTOP, MOBILE APPLICATION] => UPDATE & UPGRADE
 
+
+1 Use Firewall Hardware and Software 
+2 Use latest Wifi/Internet Security standard e.g WPA2
+3 Use antivirus 
+4 Use software to remove tracking e.g WPD -> Remove logs and DISABLE WINDOWS UPDATE
 
 
 
@@ -8788,6 +8794,7 @@ Download Intel Graphics Command Center and Modify Settings to High/Ultra
 🧨🌀 SYSTEM HARDENING
 
 =>Glass Wire Network Security => Firewall
+=>Use latest Wifi/ Internet Security Standard e.g WPA2
 =>PortMaster -> Block advertisement, deception, tracker => VPN
 
 =>Windows Defender
