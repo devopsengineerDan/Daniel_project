@@ -3024,6 +3024,25 @@ OTHER ESSENTIAL TOOLS
 
 
 ```
+👉 MAC ADDRESS SPOOFING + ANONSURF
+
+packeth - Mac Address spoofing and Network Detection Evasion
+
+OR
+
+arp- a -> Windows check mac address
+sudo apt install macchanger
+macchanger -r eth0
+=>AUTOMATING MAC ADDRESS SPOOFING
+crontab -e
+@reboot macchanger -r eth0
+
+
+----------------------------------------------------------------------------------
+
+
+
+
 👉 MAKE YOUR IP ADDRESS ANONYMOUS USING ANONSURF
 
 I. Cloning the anonsurf repo in the local system
