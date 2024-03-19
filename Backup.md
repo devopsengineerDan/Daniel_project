@@ -8778,10 +8778,11 @@ Then:
 
 
 ```
-👉 ANDROID
+👉 ANDROID MOBILE PHONE
 
 SPlayer => Movies
 SnapTube => Music
+TetherFi=> Wifi hotspot
 
 
 👉 WINDOWS SOFTWARES
