@@ -2781,7 +2781,8 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 ```
 👉 Objective: Networks, API, Database and Endpoint Detection Response[Protection|Detection(Sniffer Analyser)|Response(BlueTeam and RedTeam)]Artificial Intelligence System
 🌀 Interest in research: http,tcp,udp
-🧨 Implementation and Tools: ssh,ftp,os
+🧨🧨 Implementation and Tools: ssh,ftp,samba,telnet,linux os, forensics
+🧨🧨 Controls: Two factor Authentication + Very Strong Pasword/Keys Hash + Key Hash Logins to Secure Hard drive Partition + USB Key Hash Login
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🧨 Endpoint Detection Response[Protection|Detection(Sniffer Analyser)|Response(BlueTeam and RedTeam)]Artificial Intelligence System
@@ -2813,7 +2814,7 @@ tcp,udp                              GraphQL
                                      Websockets: Django,FastAPI,Flask                  
                            
 ------------------------
-🧨 Network protocols(Samba, telnet,ssh) + Linux [Bash, File System] + C Memory Management
+🧨 Network protocols(Samba, telnet,ssh) + Linux OS [Bash, File System] + C Memory Management + Forensics
 ```
 
 
