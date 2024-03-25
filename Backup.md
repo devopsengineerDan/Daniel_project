@@ -2790,22 +2790,30 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 2. ETL
 3. Data Pipeline
 4. CI/CD
+
 ------------------------
 🧨 OWASP
 
-Networks                             API                                              Database
-https + Domain                       XML                                              SQL postgreSQL
-tcp,udp                              RestAPI                                          NOSQL SurrealQL
-                                     GraphQL
+Networks                             Web[HTML,CSS,Pyscrpt] +API                                        Database
+                                    
+https + Domain                       XML                                                               SQL
+Bluetooth                            RestAPI                                                           NOSQL
+tcp,udp                              GraphQL
                                      Websockets: Django,FastAPI,Flask
+ 
 ------------------------
 🧨 Hack The Box[ADVANCE]/Try Hack Me[BASIC]
 
-Networks                             API                                              Database
-https + Domain                       XML                                              SQL
-tcp,udp                              RestAPI                                          NOSQL
-                                     GraphQL
-                                     Websockets: Django,FastAPI,Flask
+
+Networks                             API                                                               Database
+                             
+https + Domain                       XML                                                               SQL
+Bluetooth                            RestAPI                                                           NOSQL
+tcp,udp                              GraphQL
+                                     Websockets: Django,FastAPI,Flask                  
+                           
+------------------------
+🧨 Network protocols(Samba, telnet,ssh) + Linux [Bash, File System] + C Memory Management
 ```
 
 
@@ -8798,6 +8806,9 @@ Then:
 
 ```
 👉 ANDROID MOBILE PHONE
+
+Samsung Sound settings ->  Separate Apps feature ( Separate Audio to a specific app And Bluetooth Audio to a specific app) 
+Samsung Music Settings-> Crossfade
 
 SPlayer => Movies
 SnapTube => Music
