@@ -8811,8 +8811,10 @@ Then:
 Samsung Sound settings ->  Separate Apps feature ( Separate Audio to a specific app And Bluetooth Audio to a specific app) 
 Samsung Music Settings-> Crossfade
 
-SPlayer => Movies
-SnapTube => Music
+Onstream/ Netflix => Movies Streaming
+SPlayer => Movies/Video Player
+SnapTube => Music Downloader
+Lark Player Studio/ Samsung Music => Music Player
 TetherFi=> Wifi hotspot
 
 
