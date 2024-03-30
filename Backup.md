@@ -2756,12 +2756,16 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 
 
 =>Advance
-🌀 PwnFunction
+🌀 PwnFunction 🌀 https://pwning.tech/  https://github.com/Notselwyn/
 🌀 John Hammond
 🌀 Low Level Learning
 
+
+
 🌀 Live Overflow
 🌀 Cyber Mentor
+
+
 
 🌀 IppSec
 🌀 STOK
