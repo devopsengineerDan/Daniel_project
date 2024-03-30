@@ -1492,6 +1492,9 @@ slack : Sign in with dancunmanyinsait@gmail.com
 telegram: Daniel @daniel_softwareengineer +254711444518
           David  @david_softwareengineer +254706738969
 
+linode -> GITHUB
+SimpleAnalytics -> dancummoruri@gmail.com
+Cloudflare -> dancummoruri@gmail.com
 -----------------------------------------------------------------
 OS:
 
@@ -2431,6 +2434,13 @@ sudo passwd root
 👉 SUSPEND LAPTOP
 		
 Power Button Behaviour -> Suspend
+```
+
+
+```
+👉 LINUX CHECK SERIAL NUMBER 
+
+sudo dmidecode -s system-serial-number
 ```
 
 
