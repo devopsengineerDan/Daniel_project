@@ -5020,6 +5020,17 @@ ngrok config add-authtoken 2V4ZbMGhudJBSB8F1Z303Qf0yFc_2i9fWkV8ECNg6bL8zfABS
 
 
 ```
+👉 GITHUB ADD IMAGE on README.md
+
+Go to README.md
+Select Issues
+Select New Issue
+Select Paste, drop, or click to add files
+=> Once the link has been generated copy. Go to your README.md section and paste it there.
+
+
+
+
 👉 GITHUB
 
 Create Personal Access Token on GitHub
