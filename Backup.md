@@ -1500,7 +1500,7 @@ Ngrok -> dancunmoruri@gmail.com
 
 linode -> GITHUB
 SimpleAnalytics -> dancummoruri@gmail.com
-Cloudflare -> dancummoruri@gmail.com
+Cloudflare -> dancummoruri@gmail.com : <span class="Button-label">1Paste, drop, or click to add files</span>
 
 
 
