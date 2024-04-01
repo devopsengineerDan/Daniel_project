@@ -1495,7 +1495,7 @@ telegram: Daniel @daniel_softwareengineer +254711444518
 
 Datalore -> dancunmoruri@gmail.com
 Heroku -> GITHUB
-Ngrok -> dancunmoruri@gmail.com
+Ngrok -> GITHUB
 
 
 linode -> GITHUB
