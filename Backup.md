@@ -818,9 +818,11 @@ python -m http.server
 ---------------------------------------------------------------------------
 ✅ RUN NGROK ... => https://www.youtube.com/watch?v=hs7GLsHQCPQ
 HTTP Server Script
-python3 -m http.server
+python3 -m http.server 9999/OR any other port number past 1000
+Then open a second terminal and run
 ngrok config add-authtoken 2V4ZbMGhudJBSB8F1Z303Qf0yFc_2i9fWkV8ECNg6bL8zfABS
-ngrok http [port-displayed-above]
+ngrok http [port-above]
+Then within go to a different machine and type the [link displayed] [e.g https://97f0-102-219-208-122.ngrok-free.app]   on the browser 
 ---------------------------------------------------------------------------
 ```
 
