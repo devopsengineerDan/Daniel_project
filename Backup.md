@@ -93,6 +93,58 @@ Master's  
 
 # LIFE
 
+---------------
+1                                          2
+Information                                Observation
+Communication(Space<->Complete)            Accurate <-> Feel <-> Behaviour <-> Pattern
+
+
+PROTECT Life, Liberty, Equality and Property
+9 SNAKE + LION  => 33  [WE]
+
+
+       @[UP] BULL  => WHY
+                                
+				LION + EAGLE => WHY
+
+
+          => HOW 
+          6 ADAPT
+	  8 REVIEW
+
+                                => WHAT [MINE]
+                                3 LION + SNAKE 
+
+---------------
+1 DAVID                       2 DANIEL
+Security                      Security
+Consistency                   Accurate(Simple, Prioritise, Levels - high to low)            
+Discipline                    Adaptive within Scope
+Hard work(Realistic)          Realistic(High performance and Continuity)
+
+---------------
+1 FATHER                   2 POLITICS              3 POLITICS
+Know                       Character               Time
+Connect the dots           Emotions                Way
+Competitive                Logical                 Realistic
+
+---------------
+HEALTH
+1
+Silence 
+            Breathe
+
+Water  
+            Soup and Food
+	    
+---------------	   
+
+
+
+===================================================================================================================================================================================================================================================
+
+
+
 👉 SUMMARY
 
 ```
