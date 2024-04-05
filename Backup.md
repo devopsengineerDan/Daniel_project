@@ -1572,6 +1572,7 @@ Ubuntu Admin devopsYtrewq@987
 Ubuntu Root  devopsYTREWQ@987
 Ubuntu Vbox OSs && openSUSE Tumbleweed Hgfdsa Root HGFDSA
 Ubuntu Guest Magazine@987 
+Ubuntu 20.04 Kingdom@#987
 
 
 Fedora Admin devopsYtrewq@987
@@ -1931,7 +1932,7 @@ REMOVE
 ARCH (OPENSUSE TUMBLEWEED) => Install on KVM
 FEDORA
 DEBIAN
-UBUNTU (Software Availability + [Ubuntu 20.04 version] for [High Display and HZ] after upgrading from 18.04 version + [Ubuntu 22.04 version] for Best fingerprint support and performance)
+UBUNTU (Software Availability + [Ubuntu 20.04 version] for [High Display and HZ] after upgrading from 18.04 version OR INITIAL Ubuntu 20.04 INSTALLATION // FLASH DRIVE Ubuntu 20.04 for Fixing Grub Boot Loader   + [Ubuntu 22.04 version] for Best fingerprint support and performance)
 ----------
 KALI PURPLE + KALI LINUX
 METASPLOITABLE
@@ -2580,6 +2581,19 @@ Install os-prober (usually installed already)
 Edit the /etc/default/grub file to add GRUB_DISABLE_OS_PROBER=false to this file. 
 Save this file.
 Update grub (https://itsfoss.com/update-grub/) and Grub should see other operating systems now.
+
+👉 FLASH DRIVE Ubuntu 20.04 for Fixing Grub Boot Loader
+
+1 Install Grub
+sudo add-apt-repository -y ppa:yannubuntu/boot-repair
+sudo apt-get update
+sudo apt-get install -y boot-repair && boot-repair
+2 Select Advanced Options
+3 Grub Location
+Select OS to boot from
+4 Edit Grub configuration file
+5 Select Apply and OK
+
 ```
 
 
