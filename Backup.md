@@ -91,7 +91,8 @@ Master's  
 
 
 
-# LIFE
+# LIFE 
+===> LIFE IS WHAT YOU MAKE OF IT AND [KNOW AND GET IT]
 
 ---------------
 1                                          2
