@@ -92,7 +92,7 @@ Master's  
 
 
 # LIFE 
-===> LIFE IS WHAT YOU MAKE OF IT AND [KNOW AND GET IT]
+===> LIFE IS WHAT YOU MAKE OF IT AND [KNOW << AND >> GET IT]
 
 ---------------
 1                                          2
@@ -129,16 +129,56 @@ Know                       Character               Time
 Connect the dots           Emotions                Way
 Competitive                Logical                 Realistic
 
----------------
-HEALTH
-1
-Silence 
-            Breathe
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Water  
-            Soup and Food
-	    
----------------	   
+👉 HEALTHY DIET
+
+```
+[GOD + WEALTH] 
+Silence + Listen
+Speak 
+ 
+                   Breathe
+                   
+           Water
+           
+                   Bones soup + Vitamins, less Carbohydrates and more Proteins
+```
+
+=================================
+
+👉 RELATIONSHIP WITH ENVIRONMENT
+
+```
+                      [GOD + WEALTH]       => SPIRIT/ WILL  => SECURITY
+                      SILENCE + LISTEN
+                      SPEAK
+                      
+                      
+                                   SEX[Validation] => PSYCHOLOGY  => GREED
+                                   
+                                   
+                                   
+                                   ENTERTAINMENT[Love] => ESTEEM  => FEAR
+                                   
+                                 
+                                   
+                                   FOOD[Gift/Reward] => BACKGROUND  => HATE
+```
+                                
+====================
+
+👉 BEHAVIOUR I HATE
+
+```
+SCARCITY/Moon                ABUNDANCE/Sun
+                             =>  GOAL ORIENTED 
+UNDESICIVENESS + IRRATIONAL  =>  Extreme DESIGN and DESICIVENESS + RATIONAL 97%[SIMPLE ** CATEGORIZE] && Avoid [Extreme Chaos and Extreme Paralysis plus Speed] 
+
+LAZY + STAGNANT              =>  CONTINUOUS PROCESS IMPROVEMENT and GROWTH
+
+MEAN                         =>  PRODUCTIVE and RESULT ORIENTED
+```
 
 
 
@@ -154,7 +194,7 @@ Water
 2 Armory
 3 Chess
 
-                                                               🌀 ACCURATE AND PRIORITY
+                                                               🌀 ACCURATE AND PRIORITY(TIME BOUND)
                                                                1 Silence, Listening*
 							       2 Reading
 	                                                       3 Speaking*
