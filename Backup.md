@@ -2523,6 +2523,23 @@ sudo systemctl status isc-dhcp-server
 ```
 
 
+```
+👉 RESOLVED BLOCKED WIFI BY VPN(Wifi connection without internet access) IN LINUX
+
+=> STOP VPN FROM  RUNNING  e.g sudo anonsurf stop
+cd /etc/
+sudo nano resolv.conf
+
+--------------------------------------------
+#nameserver ::1
+
+nameserver 8.8.8.8
+nameserver 8.8.4.4
+-----------------------------------------------
+
+```
+
+
 
 ===============================================================================================================================================
 
@@ -2541,6 +2558,25 @@ sudo passwd root
 👉 SUSPEND LAPTOP
 		
 Power Button Behaviour -> Suspend
+```
+
+
+```
+👉 KILL A SYSTEM PROCESS
+
+ps aux | grep -i dpkg
+sudo kill 1977
+sudo kill -9 1977 => FORCE KILL
+
+
+
+
+
+👉 DELETE A LOCKED SYSTEM PROCESS
+
+sudo rm /var/cache/apt/archives/lock
+sudo dpkg --configure -a
+sudo apt clean
 ```
 
 
