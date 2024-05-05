@@ -8913,6 +8913,13 @@ ROOT - devopsengineer
 # WINDOWS
 
 ```
+👉 UEFI SETTINGS
+
+Recovery -> Advanced Startup -> Advanced Options -> Uefi Settings
+```
+
+
+```
 👉 WINDOWS OPERATING SYSTEM
 
 WINDOWS 10 => OLD HARDWARE
@@ -8980,6 +8987,8 @@ Download Intel Graphics Command Center and Modify Settings to High/Ultra
 =>Avast Offline
 
 =>WPD -> Remove logs and DISABLE WINDOWS UPDATE
+
+👉 System Protection ON
 
 👉 BITLOCKER
 https://account.microsoft.com/devices/recoverykey
