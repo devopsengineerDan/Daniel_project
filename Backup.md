@@ -1542,8 +1542,8 @@ engineerDaniel@1234
 https://adili.eacc.go.ke/ LOGIN-> dancunmoruri@gmail.com -> CONARDMOMANYI@1daniel
 
 Microsoft Teams: conardmomanyi1234
-Microsoft acc: dancunmoruri@gmail.com     Conardmomanyi123 => Teams, Skype
-Microsoft acc: dancun.moruri@outlook.com  => security code for dancunmoruri@gmail.com => Microsoft OneDrive, Microsoft Office 365
+Microsoft acc: dancunmoruri@gmail.com  => Passwd:  Conardmomanyi123 => Security code for 0711444518 => Microsoft Teams, Skype, Microsoft OneDrive, Microsoft Office 365
+Microsoft acc: dancun.moruri@outlook.com  => Security code for dancunmoruri@gmail.com => Microsoft Teams, Skype, Microsoft OneDrive, Microsoft Office 365
 
 SAF PORTAL: @@aUrsAP@w9x.j@
 
@@ -8980,6 +8980,16 @@ Download Intel Graphics Command Center and Modify Settings to High/Ultra
 =>Avast Offline
 
 =>WPD -> Remove logs and DISABLE WINDOWS UPDATE
+
+👉 BITLOCKER
+https://account.microsoft.com/devices/recoverykey
+Microsoft Acc: dancunmoruri@gmail.com
+KEY ID-> 8FFABF93
+RECOVERY KEY -> 330803-554235-096261-513920-197538-644919-496243-011418
+
+Microsoft Acc: dancun.moruri@outlook.com
+KEY ID-> 
+RECOVERY KEY -> 
 
 --------------------------------------------------------------------------
 
