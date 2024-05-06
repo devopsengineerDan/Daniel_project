@@ -2568,6 +2568,16 @@ Power Button Behaviour -> Suspend
 
 
 ```
+👉 QUICK SOLUTION
+
+ Restart/Reboot
+sudo dpkg --configure -a
+sudo apt update
+sudo apt upgrade
+```
+
+
+```
 👉 KILL A SYSTEM PROCESS
 
 ps aux | grep -i dpkg
