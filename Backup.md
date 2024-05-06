@@ -1672,7 +1672,19 @@ MANAGING CASHFLOW => High Incomes
 MARKETING => High Sales
 
 
-                                                      MANAGING SYSTEM[ACTIVE]                                                                  
+                                                      MANAGING SYSTEM[ACTIVE]
+
+----------------------------------------------------------------------------------------------------------------------------------
+Reap Big Time
+Give Little + Benefits
+
+
+                                                       Investment(Stake Holder + Receive Dividents)
+
+Portfolio (Buy Low Sell High)
+
+                                                       Salary
+                                                                
 ```
 
 
