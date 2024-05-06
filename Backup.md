@@ -2063,6 +2063,12 @@ Clementine is a music player with a minimal, easy-to-use interface.
 ```							     
 👉 LINUX A MUST CPU AND GPU DRIVERS INSTALLATIONS
 
+NVIDIA => #Linux AMUST Installations Guide.docx file in drive
+MUX => Configure between using nvidia and intel
+
+
+
+
 AMD DRIVERS
 AMDGPU = AMD open source kernel display driver.
 AMDGPU-Pro = Proprietary display driver and API implementations.
@@ -4566,7 +4572,7 @@ Code
 
 
 
-```
+``` 
 👉 WEB
 
 WEB1- Read
@@ -4591,6 +4597,16 @@ WEB3- Read, Write and Ownership => AI, Blockchain, IOT =>Distributed System and 
 batch scoring data -> https://github.com/devopsengineerDan/python-bodywork-batch-job-project
 deploying a prediction service with a REST API -> https://github.com/devopsengineerDan/python-bodywork-serve-model-project
 scheduling a continuous-training pipeline -> https://github.com/devopsengineerDan/python-bodywork-ml-pipeline-project
+
+👉 TOOLS
+
+Data Science -> PyTorch, Tensorflow
+
+ML Engineering -> DVC, DVC Pipelines
+
+Data Engineering -> Dagster/Bodywork for docker and kubernetes use-case, Ibis, SQL Alchemy, Django SQL, Surrealdb
+
+Software Engineering -> Pydantic 
 ```
 
 -------------------------------
