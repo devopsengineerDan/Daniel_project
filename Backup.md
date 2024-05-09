@@ -1574,7 +1574,7 @@ whats-app:147369
 devopsengineerdan@gmail.com conardmomanyimoruri
 dancunmanyinsait@gmail.com CONARDMOMANYI@123456
 dancunmoruri@gmail.com CONARDMOMANYI@654321
-
+eagleoverflow@gmail.com SUNANDPLANETS => dancunmoruri@gmail.com
 
 	     
 github: dancunmanyinsait@gmail.com: conardmomanyimoruri
@@ -2949,10 +2949,16 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 
 
 
+
 =>Advance
 🌀 PwnFunction 🌀 https://pwning.tech/  https://github.com/Notselwyn/
 🌀 John Hammond
 🌀 Low Level Learning
+-------------------------------------
+🌀 Try Hack Me => https://www.youtube.com/c/AlmondForce
+🌀 Hack the Box => https://www.youtube.com/c/ippsec
+🌀 Hack the Box => https://www.youtube.com/c/CryptoCat23
+
 
 
 
