@@ -1574,7 +1574,8 @@ whats-app:147369
 devopsengineerdan@gmail.com conardmomanyimoruri
 dancunmanyinsait@gmail.com CONARDMOMANYI@123456
 dancunmoruri@gmail.com CONARDMOMANYI@654321
-eagleoverflow@gmail.com SUNANDPLANETS => dancunmoruri@gmail.com
+BUSINESS ACCOUNT[Cybersecurity and AI ]eagleoverflow@gmail.com SUNANDPLANETS => dancunmoruri@gmail.com
+quantumaiquant@gmail.com SUNANDPLANETS => dancunmoruri@gmail.com
 
 	     
 github: dancunmanyinsait@gmail.com: conardmomanyimoruri
