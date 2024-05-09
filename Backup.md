@@ -2954,6 +2954,7 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 🌀 PwnFunction 🌀 https://pwning.tech/  https://github.com/Notselwyn/
 🌀 John Hammond
 🌀 Low Level Learning
+🌀  Crow
 -------------------------------------
 🌀 Try Hack Me => https://www.youtube.com/c/AlmondForce
 🌀 Hack the Box => https://www.youtube.com/c/ippsec
