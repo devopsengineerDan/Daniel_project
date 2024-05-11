@@ -1650,7 +1650,19 @@ ID number
 
 # FINANCE, MARKETING & ECONOMICS
 
+🌀 David, Bull
+🌀 Daniel
+--------------------------------------------
+🌀 Kevin
+🌀 Photon Trading
+--------------------------------------------
+🌀 Howard Marks
+🌀 Buffet
+
+
 ```
+👉 BEST PRACTICES
+
 BUY BEST PRODUCT AT LOW & FAIR PRICE *NOT* WORST AT LEAST PRICE
 SELL AT HIGH PRICE(BULL) => HIGH PROFIT
 HAVE INVESTORS INTO BUYERS & INCREASE CASHFLOW
@@ -1669,6 +1681,7 @@ Shell companies(ownership) to avoid damage on you
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
+👉 MANAGEMENT
 
 MANAGING SYSTEM[ACTIVE]
 
@@ -1684,6 +1697,9 @@ MARKETING => High Sales
                                                       MANAGING SYSTEM[ACTIVE]
 
 ----------------------------------------------------------------------------------------------------------------------------------
+
+👉 TYPES OF INCOMES
+
 Reap Big Time
 Give Little + Benefits
 
