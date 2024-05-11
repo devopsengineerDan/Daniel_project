@@ -94,10 +94,17 @@ Master's  
 # LIFE 
 ===> LIFE IS WHAT YOU MAKE OF IT AND [KNOW << AND >> GET IT]
 
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                                                     Security
+Vested interest                                      Wisdom/ Sound Reason/ Illuminated Light/ Accurate Consciousness/ A+ / Science Religion   => Dogmatic Supersticion
+Incompetence                                         Love   => Fear
+Corruption                                           Wisdom/Sound Action   => Ignorance of mob/crowd
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
 ---------------
-1                                          2
-Information                                Observation
-Communication(Space<->Complete)            Accurate <-> Feel <-> Behaviour <-> Pattern
+1                                                                    2
+Information  KNOW(GOD + Wealth)                                      Observation
+Communication(Space<->Complete)                                      Accurate <-> Feel <-> Behaviour <-> Pattern
 
 
 PROTECT Life, Liberty, Equality and Property
@@ -125,9 +132,9 @@ Hard work(Realistic)          Realistic(High performance and Continuity)
 
 ---------------
 1 FATHER                   2 POLITICS              3 POLITICS
-Know                       Character               Time
-Connect the dots           Emotions                Way
-Competitive                Logical                 Realistic
+Know                       Character               Time => Within time bound
+Connect the dots           Emotions                Way => Within scope
+Competitive                Logical                 Realistic => Within required resources
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -353,16 +360,17 @@ Bear
 ☀️ 32 DEGREES
 
 ```
-🧨 JAHBULON
-    BUL- Baal ON- Osiris                                            JAH - Harmonious, Integrated, Industry
-🌑 (Saturn, Fox, Toth)[USA] Mind/Nature                                   ☀️ (Lion, Eagle)UK Heart/Life
+🧨🧨🧨🧨🧨🧨🧨🧨🧨 JAHBULON
+
+    BUL -> Baal ON- Osiris                                            JAH -> Harmonious, Integrated, Industry
+🌑 (Saturn, Fox, Toth)[USA] Mind/Nature  MINE/ CAPITALIST           ☀️ (Lion, Eagle)UK Heart/Life  WE/ OURS/ SOCIALIST
 SECURITY                                                            SECURITY -> Dieus
 
-                   Cost(Nothing is free)                                                                 Personal -> Equilibrium
+                   Cost(Nothing is free)                                                                 Personal -> Equilibrium/ Balanced/ Neutral
       
 Mistake(Punishment)                                                 Free & Forgiveness -> Vacuum
                                  
-                   Justice(Selfish)                                                                      Private -> Logos    
+                   Justice(Selfish)                                                                      Private -> Logos/ Logical    
 ```
 
 
