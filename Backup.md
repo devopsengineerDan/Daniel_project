@@ -1650,6 +1650,8 @@ ID number
 
 # FINANCE, MARKETING & ECONOMICS
 
+=====> PSYCHOLOGIST 🌀 Dr. Steven Burger
+
 🌀 David, Bull
 🌀 Daniel
 --------------------------------------------
