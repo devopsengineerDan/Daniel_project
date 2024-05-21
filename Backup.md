@@ -94,12 +94,43 @@ Master's  
 # LIFE 
 ===> LIFE IS WHAT YOU MAKE OF IT AND [KNOW << AND >> GET IT]
 
+
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
                                                                                             Security
 Vested interest                                      WAR                                    Wisdom/ Sound Reason/ Illuminated Light/ Accurate Consciousness/ A+ / Science Religion   => Dogmatic Supersticion                          
 Incompetence                                         DISEASE                                Love   => Fear
 Corruption                                           POVERTY/ VIOLENCE                      Wisdom/Sound Action   => Ignorance of mob/crowd
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+SECURITY
+STABILITY
+PERFORMANCE
+=========================
+(A+)Accurate and Conscious && 9, 6 and 3 Dimensional plus Be in Harmony with nature
+--------------
+Analysis(Simple, Accurate, Categorise)             Emotional Intelligence => Ordained
+Operations                                         Social Awareness => Chosen
+Implementation(Complete)                           Logical => Elected
+--------------
+Numbers[Make Huge Gain/Profit] + [Offer Minimal Reward plus Blessings] + [Operate within a BUDGET], (Reduce randomness, Reduce Loss) || (Be aware of threat/Killers, Opportunists, Destroyers)
+
+=========================
+SECURITY Limitless
+CONSISTENCY Limitless
+DiSCIPLINE Limitless
+HARDWORK Limitless
+-------------
+SECURITY Limit
+Time within Bound
+Way within Sope
+Resources within Limit
+--------------
+SECURITY
+Feel(Be Neutral and Have Awareness)
+Energy
+Vibration
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
 
 ---------------
 1                                                                    2
@@ -180,7 +211,7 @@ Speak
 ```
 SCARCITY/Moon                ABUNDANCE/Sun
                              =>  GOAL ORIENTED 
-UNDESICIVENESS + IRRATIONAL  =>  Extreme DESIGN and DESICIVENESS + RATIONAL 97%[SIMPLE ** CATEGORIZE] && Avoid [Extreme Chaos and Extreme Paralysis plus Speed] 
+UNDESICIVENESS + IRRATIONAL  =>  ***EXTREME*** DESIGN and DESICIVENESS + RATIONAL 97%[SIMPLE ** CATEGORIZE] && Avoid [Extreme Chaos and Extreme Paralysis plus Speed] 
 
 LAZY + STAGNANT              =>  CONTINUOUS PROCESS IMPROVEMENT and GROWTH
 
