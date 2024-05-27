@@ -1566,7 +1566,7 @@ IMEI (slot 2): 867654067277836
 
 LINUX CHECK SERIAL NUMBER -> sudo dmidecode -s system-serial-number
 X1 Carbon ThinkPad   Serial Number: PF15VBBQ     Machine Type Model: 20KGS6J300
-
+BIOS Supervisor: Right index/ devopsengineer
 
 
 
