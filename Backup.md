@@ -95,12 +95,12 @@ Master's  
 ===> LIFE IS WHAT YOU MAKE OF IT AND [KNOW << AND >> GET IT]
 
 
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
                                                                                             Security
 Vested interest                                      WAR                                    Wisdom/ Sound Reason/ Illuminated Light/ Accurate Consciousness/ A+ / Science Religion   => Dogmatic Supersticion                          
 Incompetence                                         DISEASE                                Love   => Fear
 Corruption                                           POVERTY/ VIOLENCE                      Wisdom/Sound Action   => Ignorance of mob/crowd
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 SECURITY
 STABILITY
