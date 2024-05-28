@@ -211,7 +211,7 @@ Speak
 ```
 SCARCITY/Moon                ABUNDANCE/Sun
                              =>  GOAL ORIENTED 
-UNDESICIVENESS + IRRATIONAL  =>  ***EXTREME*** DESIGN and DESICIVENESS + RATIONAL 97%[SIMPLE ** CATEGORIZE] && Avoid [Extreme Chaos and Extreme Paralysis plus Speed] 
+CHAOS + UNDESICIVENESS + IRRATIONAL  =>  ***EXTREME*** DESIGN and DESICIVENESS + RATIONAL 97%[SIMPLE ** CATEGORIZE] && Avoid [Extreme Chaos and Extreme Paralysis plus Speed] 
 
 LAZY + STAGNANT              =>  CONTINUOUS PROCESS IMPROVEMENT and GROWTH
 
