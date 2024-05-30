@@ -2046,6 +2046,11 @@ DEBIAN
 UBUNTU (Software Availability + [Ubuntu 20.04 version] for [High Display and HZ] after upgrading from 18.04 version OR INITIAL Ubuntu 20.04 INSTALLATION // FLASH DRIVE Ubuntu 20.04 for Fixing Grub Boot Loader   + [Ubuntu 22.04 version] for Best fingerprint support and performance)
 ----------
 KALI PURPLE + KALI LINUX
+^^^^^^^^^^^^^^^^^^^^^^^^
+🧨🧨🧨🧨 KALI DISTRIBUTIONS FOR COMPLETE INSTALLATION OF TOOLS
+Kali Linux Live/Installer 2023 VERSION
+Kali Purple 1ST EDITION 2024 VERSION
+^^^^^^^^^^^^^^^^^^^^^^^^
 METASPLOITABLE
 WINDOWS 10
 ----------
@@ -9518,8 +9523,8 @@ Dangerous Code Hidden in Plain Sight for 12 years -> https://www.youtube.com/wat
 
 
 
-=> 1st FREE TIME Network Security Videos
-
+=====> 1ST FREE TIME Network Security Videos
+=====> 2ND PYTHON NEURALNINE ADVANCED -> HARDDISK
 
 
 
@@ -9563,6 +9568,44 @@ https://github.com/devopsengineerDan/pyspark-ETL-project-and-airflow-Data-pipeli
 
 => Cybersecurity Objective UP TOP
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@ AI TOOLS For Business Optimization
+EntryPointAI.com/Masterclass 
+
+
+
+
+
+
+@ IOT FUNDAMENTALS 2 WEEKS
+Espressif Systems => Getting started with ESP-IDF
+Science Buddies => How to use a breadboard
+LeftyMaker => How to use a breadboard
+
+1ST PROJECT
+Low Level Learning - esp32 setup
+Low Level Learning - esp32 wireless network connectivity and TCPIP connection
+***Low Level Learning - IOT Kettle Heater Project via Wifi and TCPIP
+
+2ND PROJECT 
+***IOT HOME LIGHT SYSTEM
+
+
+
+
+
+
+
+@ API FUNDAMENTALS 2 WEEKS
+=> Building an Restful API
+Django
+Flask
+fastAPI
+Rodney API
+
+
+Django Github API => Consuming a Restful API
+SendyAPI Wrapper => Consuming a Restful API + Building an Restful API
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
