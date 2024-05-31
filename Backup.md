@@ -1734,11 +1734,13 @@ MARKETING => High Sales
 👉 TYPES OF INCOMES
 
 
-GOVERNMENT [MILITARY/LAWS] INSURANCE
-MEDIUM [BUSINESSES/TRANSACTION] INSURANCE - Black Rock
-PRIVATE [PROPERTY/EQUITY] INSURANCE - Black Stone
+🧨 GOVERNMENT [MILITARY/LAWS] INSURANCE                                                    
+🧨 MEDIUM [BUSINESSES/TRANSACTION] INSURANCE - Black Rock
+🧨 PRIVATE [PROPERTY/EQUITY] INSURANCE - Black Stone
 
 
+HIGH INTEREST 🌀 BONDS INVESTESTMENT IN [STRONG GVT] during HIGH INTEREST RATES OF CURRENCY in the capacity of Big Bank/ Big Business ===> because currency is being diluted hence losing value and offering it as loan will return interest/profit
+LOW INTERSET 🌀 HOLD Big Business/ Big Property during LOW INTEREST RATES OF CURRENCY ===> because currency is gaining value
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
