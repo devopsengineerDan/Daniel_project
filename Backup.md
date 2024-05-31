@@ -1734,15 +1734,17 @@ MARKETING => High Sales
 👉 TYPES OF INCOMES
 
 
-GOVERNMENT INSURANCE
-MEDIUM BUSINESSES INSURANCE - Black Rock
-PRIVATE EQUITY INSURANCE - Black Stone
+GOVERNMENT [MILITARY/LAWS] INSURANCE
+MEDIUM [BUSINESSES/TRANSACTION] INSURANCE - Black Rock
+PRIVATE [PROPERTY/EQUITY] INSURANCE - Black Stone
 
 
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-🧨 Reap Big Time
+
+
+🧨 Reap BIG TIME
 🌀 Give Little + Benefits
 
                                                        BANKS (STAKE)
