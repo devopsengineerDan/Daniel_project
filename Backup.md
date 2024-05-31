@@ -1733,14 +1733,23 @@ MARKETING => High Sales
 
 👉 TYPES OF INCOMES
 
-Reap Big Time
-Give Little + Benefits
+
+GOVERNMENT INSURANCE
+MEDIUM BUSINESSES INSURANCE - Black Rock
+PRIVATE EQUITY INSURANCE - Black Stone
 
 
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+🧨 Reap Big Time
+🌀 Give Little + Benefits
+
+                                                       BANKS (STAKE)
                                                        Investment(Stake Holder + Receive Dividents)
-
+BROKER
 Portfolio (Buy Low Sell High)
-
+                                                       HEDGE FUND (COMMISSION)
                                                        Salary
                                                                 
 ```
@@ -1832,7 +1841,7 @@ E: Sub-process /usr/bin/dpkg returned an error code (1)
 sudo sed -i "s/gdm3-theme.gresource/gdm-theme.gresource/" /var/lib/dpkg/info/vanilla-gnome-default-settings.postinst && sudo apt -f install
 
 sudo apt install vanilla-gnome-desktop
-sudo apt install gnome-session gnome-terminal
+sudo apt install gnome gnome-session gnome-terminal
 
 sudo apt update && sudo apt upgrade
 sudo apt install ubuntu-gnome-desktop
@@ -2645,8 +2654,14 @@ Power Button Behaviour -> Suspend
 ```
 👉 QUICK SOLUTION
 
- Restart/Reboot
+==> OFFLINE
+Restart/Reboot
 sudo dpkg --configure -a
+sudo apt --fix-broken install
+
+----------------------------------------------------
+
+==> ONLINE
 sudo apt update
 sudo apt upgrade
 ```
@@ -4668,8 +4683,14 @@ Code
 👉 WEB
 
 WEB1- Read
+
 wEB2- Read and Write
-WEB3- Read, Write and Ownership => AI, Blockchain, IOT =>Distributed System and Database
+
+WEB3- Read, Write and Ownership    => AI,
+                                   => Blockchain
+                                   => (Distributed System and Database)
+                                   => LLVM
+                                   => IOT
 ```
 
 
@@ -4710,8 +4731,11 @@ Software Engineering -> Pydantic
 👉 PYTHON INTERPRETER APPLICATION USE-CASE 
 
 ```
-Data Science
-Networks
+Cybersecurity
+Computer Networks
+
+Data Science, AI
+Web, Stand-alone Applications
 I/O Processes
 ```
 
