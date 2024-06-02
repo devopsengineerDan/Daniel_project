@@ -4700,7 +4700,7 @@ wEB2- Read and Write
 WEB3- Read, Write and Ownership    => AI,
                                    => Blockchain
                                    => (Distributed System and Database)
-                                   => LLVM
+                                   => LLVM and Web Assembly
                                    => IOT
 ```
 
