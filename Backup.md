@@ -2069,7 +2069,7 @@ KALI PURPLE + KALI LINUX
 ^^^^^^^^^^^^^^^^^^^^^^^^
 🧨🧨🧨🧨 KALI DISTRIBUTIONS FOR COMPLETE INSTALLATION OF TOOLS
 Kali Linux Live/Installer 2023 VERSION
-Kali Purple 1ST EDITION 2024 VERSION
+Kali Purple 2023 VERSION
 ^^^^^^^^^^^^^^^^^^^^^^^^
 METASPLOITABLE
 WINDOWS 10
