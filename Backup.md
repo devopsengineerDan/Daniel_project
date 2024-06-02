@@ -6313,14 +6313,17 @@ Werkzeug==1.0.1
 ```
 
 			   ********NOTE**********
+                           AUDIO
+                           -> portaudio error
+                           sudo apt-get install portaudio19-dev python-all-dev
 			   DJANGO
-			   ->dev error
+			   -> dev error
 			   sudo apt install libpq-dev
 
-			   ->psycopg2 error
+			   -> psycopg2 error
 			   pip install psycopg2-binary 
 			   
-			   ->django_heroku error
+			   -> django_heroku error
 			   pip install django_heroku OR  pip install django-on-heroku
 			   --------------------------------------------------------------------------------------------
                            AI && QUANTUM
