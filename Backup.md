@@ -142,7 +142,7 @@ PROTECT Life, Liberty, Equality and Property
 9 SNAKE + LION  => 33  [WE]
 
 
-       @[UP] BULL  => WHY
+       @[UP] BULL  => WHY                                                                
                                 
 				LION + EAGLE => WHY
 
@@ -153,7 +153,14 @@ PROTECT Life, Liberty, Equality and Property
 
                                 => WHAT [MINE]
                                 3 LION + SNAKE 
+				
+       🧨🧨🧨🧨🧨🧨LIFE CRUCIAL LESSONS🧨🧨🧨🧨🧨🧨🧨
 
+       WORK + GET REWARD
+       
+       NO RANDMNESS                                   NO LOSING OF MONEY
+       Opportunist/Take Advantage                     Steal
+       => Little Token                                => Little Token
 ---------------
 1 DAVID                       2 DANIEL
 Security                      Security
