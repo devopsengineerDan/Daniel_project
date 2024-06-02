@@ -6106,12 +6106,20 @@ $ ./hello.py
 👉 DJANGO, FastAPI , FLASK  PROJECTS
 
 ```
+👉 CRASH COURSES
+
 -> Check the link https://github.com/devopsengineerDan/python-projects/tree/master/webapps
 -> Check the youtube link https://www.youtube.com/watch?v=3vfum74ggHE
 ```
 
 
 # DJANGO
+
+```
+👉 CRASH COURSE => https://www.youtube.com/watch?v=EuBQU_miReM
+👉 RESTFUL API => https://www.youtube.com/watch?v=i5JykvxUk_A
+```
+
 
 👉 STARTING A PROJECT IN DJANGO
 
@@ -6201,9 +6209,20 @@ pip install djangorestframework
 ### 7. Swagger UI and ReDoc built-in.
 ```
 
+```
+👉 CRASH COURSE => https://www.youtube.com/watch?v=62pP9pfzNRs
+👉 RESTFUL API => https://www.youtube.com/watch?v=tLKKmouUams
+👉 CREATING RESTFUL APIS FOR MACHINE LEARNING MODELS => https://www.youtube.com/watch?v=5PgqzVG9SCk
+```
+
 -------------------------------
 
 # FLASK
+
+```
+👉 CRASH COURSE => https://www.youtube.com/watch?v=Z1RJmh_OqeA
+👉 RESTFUL API => https://www.youtube.com/watch?v=qbLc5a9jdXo
+```
 
 👉 FLASK APPLICATION STRUCTURE
 
