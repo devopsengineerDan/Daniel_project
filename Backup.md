@@ -3341,12 +3341,25 @@ crontab -e
 @reboot macchanger -r eth0
 
 
+
 ----------------------------------------------------------------------------------
 
 
 
+👉 MAKE YOUR IP ADDRESS ANONYMOUS
 
-👉 MAKE YOUR IP ADDRESS ANONYMOUS USING ANONSURF
+ 🧨🧨  USING (Github anonymous-browsing-tool) AUTO TOR ====> IP ADDRESS [Application and Data Link Layers]
+
+1. git clone https://github.com/devopsengineerDan/anonymous-browsing-tool.git
+2. cd anonymous-browsing-tool
+3. python3 install.py
+4. aut
+5. 5 ===> 5 seconds
+6. 0 ===> [0 to infinte IP change]
+
+7. go to your browser / pc change sock proxy to 127.0.0.1:9050
+
+ 🧨🧨  USING (Github anonsurf-tool)ANONSURF  ====> MAC ADDRESS [Presentation, Session, Transport, Network & Data link Layers]
 
 I. Cloning the anonsurf repo in the local system
 
