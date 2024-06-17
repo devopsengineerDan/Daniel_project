@@ -1699,6 +1699,17 @@ ID number
 🌀 Howard Marks
 🌀 Buffet
 
+------------------------------------------------------------------------------------------
+MT4 3b
+Position Sizing + Lot Sizing Formulae ======> 4a
+======> Trading Simulator 4a -> Search for Kion Hi 
+======> Forex Position Sizing Calculator ---> Adam Khoo
+======> Back Test -> Soft4FX, Deriv
+======> Journaling -> [FREE]MyFXbook -> Search for PiranhaProfits Forex Trade Journal [PAID]Edgewonk, Trading Vault
+
+======> NEWS -> Forex Factory(Adjust Time to My Local Time and Zone)
+
+
 
 ```
 👉 BEST PRACTICES
@@ -4599,8 +4610,30 @@ DATABASE FLOW-CHART DIAGRAM
 
 BEST PRACTICE + (autopep8 idiomatic python using flake8, pytest and hypothesis, mypy => TESTING)
 🌀.gitignore(*.egg-info, *.pyc, .coverage, .tox, /venv*, coverage-html, dist)
+
+
+```
 🌀
-🌀
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore log files
+*.log
+
+# Ignore build artifacts
+/build/
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+```
+
+🌀 https://github.com/devopsengineerDan/dot-gitignore/blob/master/.gitignore
+
+🌀 https://github.com/devopsengineerDan/gitignore/blob/main/
+
+
 
 
 
