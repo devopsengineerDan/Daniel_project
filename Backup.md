@@ -3163,9 +3163,38 @@ BACKEND (Python Frameworks) + (Python) => UPDATE & UPGRADE
 
 
 SQL INJECTION
-Limit user input name + consider it as String
-Limit user password + consider it as String
+Limit user input name + consider it as String[Input Validation]
+Limit user password + consider it as String[Input Validation]
 ```
+
+
+# CYBERSECURITY  AND SOFTWARE ENGINEERING BEST PRACTICES
+
+
+```
+  🧨🧨🧨 SOFTWARE ENGINEERING BEST PRACTICES
+  
+  Search Engine Optimization =>  XML 
+  Frontend => HTML, HTMX, CSS, Pyscript
+  Data => CSSRF, JSON 
+  Templating => Both Frontend and Backend
+  Backend => Django, Flask, fastAPI
+  Backend API => Django, Flask, fastAPI
+  Backend Serialization and Deserialization => Django, Flask, fastAPI
+  
+  ************************************************************************************************************************************************************************************
+  
+  🧨🧨🧨 CYBERSECURITY BEST PRACTICES IN SOFTWARE ENGINEERING
+  
+  Search Engine Optimization =>  XML must receive security updates and upgrades + used only in links of URL Domains
+  Frontend => HTML, HTMX, CSS, Pyscript must receive security updates and upgrades + programming languages must be strongly-typed
+  Data => CSRF, JSON (Automatically secured when programming languages and frameworks receive security updates and upgrades) + both must use randomized signatures + csrf token login must have time limit then it must expire
+  Dynamic Templating => Both Frontend and Backend must receive security updates and upgrades + must only be used in page text details or images + NOT data connected to the database e.g user inputs
+  Backend => Python, Django, Flask, fastAPI must receive security updates and upgrades + must use packages, libraries supported and maintained by the framework organization
+  Backend API => Python, Django, Flask, fastAPI must receive security updates and upgrades + must use strong and highly secure security key + security key must NOT be stored within the application folder
+  Backend Serialization and Deserialization => Python, Django, Flask, fastAPI must receive security updates and upgrades + both Serialization and Deserialization must occur in server side and ouput transferred to client-side + server must NOT 
+  receive serialized data from client-side to deserialize or server must NOT receive deserialized data from client-side to serialize
+``` 
 
 
 
@@ -4194,16 +4223,25 @@ https://lnkd.in/gc5p5Jss
 
 
 ```
-=>AI
+=> AI
 🌀 Patrick Loeber
 🌀 Dr. Alex Loannides
 
 
 
-=>SOFTWARE
+=> FOREX
+🌀 Nick McCullum -> Trading Algorithm Basics -> https://www.youtube.com/watch?v=xfzGZB4HhEE
+🌀 TradeOptionsWithMe Detailed -> https://www.youtube.com/watch?v=EeSrQdab0s0&list=PLtqRgJ_TIq8Y6YG8G-ETIFW_36mvxMLad
+
+
+
+=> SOFTWARE
 🌀 Fireship
 🌀 Isaac Harris-Holt
 🌀 CodeDoner
+🌀 free codecamp
+
+
 ```
 
 
@@ -4507,7 +4545,7 @@ C1.png
 2.  <meta name="Description" content="Details regarding the website or web application">
 3. HTML Validation
 4. Content is King - Have great content
-5. Key words and Back Links
+5. Key Words and Back Links
 ```
 
 
@@ -4537,7 +4575,7 @@ DATABASE FLOW-CHART DIAGRAM
 👉 SOFTWARE ENGINEERING BEST PRACTICE
 
 🎯 SECURITY: gitignore files with security keys and use OTP message to manage payments when consuming apis from payment application system.
-🎯 DOTFILES
+🎯 DOTFILES ON MY GITHUB
 
 ### 1. Adhere to Programming Language Standard library and Style of writing code.
 ### 2. Adhere to Software Design Principles and Patterns.
@@ -4560,7 +4598,11 @@ DATABASE FLOW-CHART DIAGRAM
 
 
 BEST PRACTICE + (autopep8 idiomatic python using flake8, pytest and hypothesis, mypy => TESTING)
-👉.gitignore(*.egg-info, *.pyc, .coverage, .tox, /venv*, coverage-html, dist)
+🌀.gitignore(*.egg-info, *.pyc, .coverage, .tox, /venv*, coverage-html, dist)
+🌀
+🌀
+
+
 
 ### 1.  Initilialize always on Project Folder. 
 ### 2.  Always have a runtime.txt with version (e.g) python 3.8.6 for backward compatibility with python interpreter. 
@@ -6106,8 +6148,22 @@ To use the 32-bit binaries, you will also have to change your project build:
     In macOS, you need to add the definition -DCMAKE_OSX_ARCHITECTURES=i386.
 
 Got any doubts? Check our FAQ, write us or join the community in Cpplang Slack #conan channel!
-```				
+```
 
+    
+# HTML
+
+👉 HTML5 EMAIL
+
+```
+<form action="https://formsubmit.co/your@email.com" method="POST">
+     <input type="text" name="name" required placeholder="Name">
+     <input type="email" name="email" required placeholder="Email">
+     <input type="text" name="subject" required placeholder="Subject">
+     <textarea name="msg" required placeholder="Message"></textarea>
+     <button type="submit">Send</button>
+</form> 
+```
 
 
 # PYTHON SCRIPTING
@@ -6120,10 +6176,31 @@ $ ./hello.py
 ```
 
 
-
 #  PYTHON FRAMEWORKS
 
 👉 DJANGO, FastAPI , FLASK  PROJECTS
+
+```
+🌀 Corey -> Django and Flask Develomepment + DEPLOYMENT -> https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p
+🌀 Caleb -> Django and Flask Develomepment + Restful API  -> https://www.youtube.com/watch?v=EuBQU_miReM
+🌀 Code with Tomi -> Django and fastAPI -> https://www.youtube.com/watch?v=pRNhdI9PVmg
+
+
+
+🌀 =================> *****************         ZUPLO API MANAGEMENT                 *****************
+
+
+
+API WRAPPER Basics -> https://www.youtube.com/watch?v=Wp08QedI1ig
+API WRAPPER Detailed -> https://www.youtube.com/watch?v=ZCu2QMgXcKI
+
+
+
+API Key Authorization Postman -> https://www.youtube.com/watch?v=fjv3qfIDW6Y
+API Key Authentication Best Practices -> https://www.youtube.com/watch?v=ooyOmiczY1g
+API User Authentication and Token Authentication -> https://www.youtube.com/watch?v=5GxQ1rLTwaU
+```
+
 
 ```
 👉 CRASH COURSES
@@ -6157,29 +6234,6 @@ $python3 manage.py runserver
 ======
 $ python3 manage.py createsuperuser 
 ======
-
-
-2 WAY TO DO IT
-$django-admin startproject travel_project
-$cd travel_project
-$python3 manage.py migrate
-$python3 manage.py runserver
-$python3 manage.py startapp travel_app 
-$python3 manage.py runserver
-
-
-**NOT SURE**
-SIMPLE APP
-$django-admin startproject travel_project
-$cd travel_project
-(NOT SURE)$django startproject travel_project (wsgi, setting)
-$ python3 manage.py startapp travel_app  (view, models, templates)
-$python3 manage.py runserver
-
-
-**NOT SURE**
-$django-admin startproject heyapp (wsgi, setting)
-$django-admin startproject heyapp . (view, models, templates)
 ```
 
 
@@ -6192,6 +6246,18 @@ Effect changes:            python3 manage.py makemigrations
 
 
 python3 manage.py runserver
+```
+
+
+👉 DJANGO [sql query]
+
+```
+View query -> python3 manage.py sqlmigrate movies(app-name)
+ 
+Apply specific query change -> python3 manage.py sqlmigrate movies 0001
+
+Apply all queries changes   -> python3 manage.py makemigrations
+                            -> python3 manage.py migrate
 ```
 
 
@@ -6275,7 +6341,7 @@ pip install djangorestframework
 👉 EXECUTING FLASK APPLICATION
 
 ```
-export FLASK_APP=app.py
+export FLASK_APP=application/main.py
 export FLASK_ENV=development
 flask run
 **BEST PRACTICE**
@@ -6320,6 +6386,59 @@ Werkzeug==1.0.1
 ```
 
 -------------------------------
+
+# APIS
+
+```
+=================================> PYTHON FRAMEWORKS use MVT Design(Model View Template)
+
+
+METHODS
+
+HTTP METHODS                PYTHON/FRAMEWORK METHODS                                          DATABASE QUERY METHODS
+GET                         get    ===> Index  ("/")                                           / / / 
+POST                        add    -> @ POST                                                  create [A NEW RECORD]
+GET                         get    -> @ GET                                                   read
+GET                         update -> @ PUT                                                   update content that already exists   
+GET                         delete -> @ DELETE                                                delete
+
+
+
+
+
+GET ====> Information is attached to the URL
+POST ====> Information is attached to the Request Body
+
+
+
+
+
+
+API
+
+====> ADVANCE
+Create API + Test API Key using Postman         Create API + Test API Key using Postman
+Consume API Wrapper                                 Create API Wrapper
+Consume API                                         Consume API
+
+====> INTERMEDIATE
+Create API                                          Consume API
+Consume API
+
+
+
+CREATE API
+views.py                                                 serializers.py                                models.py
+1. gets data from model                                  1. gets data from model                       1. creates python object mapper used to store data similar to sql
+2. serializes data from serializers
+3. return json 
+```
+
+
+
+-------------------------------
+
+
 
 # ERROR MANAGEMENT IN PYTHON
 
