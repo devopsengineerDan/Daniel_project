@@ -9591,12 +9591,30 @@ Dangerous Code Hidden in Plain Sight for 12 years -> https://www.youtube.com/wat
 
 
 
--> Further: Hackersploit (BLUE AND RED TEAM)
 
 
 
-=====> 1ST FREE TIME Network Security Videos
-=====> 2ND PYTHON NEURALNINE ADVANCED -> HARDDISK
+
+
+
+
+
+
+
+==================================================> Further: Hackersploit (BLUE AND RED TEAM)
+
+
+
+
+
+==================================================> 1ST FREE TIME Network Security Videos
+
+
+
+
+
+
+
 
 
 
@@ -9681,6 +9699,25 @@ SendyAPI Wrapper => Consuming a Restful API + Building an Restful API
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
+
+
+
+
+
+
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+
+2 PROJECTS + {Electric cable connection + Tester Screw driver} && TOOLS
+                                                  {
+                                                  Fan Blower + Tool box + Carbon Fiber Electrostatic Discharge Anti-Static ESD Gloves - Polyurethane Palm Coated 
+                                                  Voltage Tester + Solder tool
+                                                  }
+2 CERTS 
+  
+  
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 					
 					
