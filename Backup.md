@@ -4586,7 +4586,35 @@ DATABASE FLOW-CHART DIAGRAM
 👉 SOFTWARE ENGINEERING BEST PRACTICE
 
 🎯 SECURITY: gitignore files with security keys and use OTP message to manage payments when consuming apis from payment application system.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🎯 DOTFILES ON MY GITHUB
+
+🌀.gitignore(*.egg-info, *.pyc, .coverage, .tox, /venv*, coverage-html, dist)
+🌀
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore log files
+*.log
+
+# Ignore build artifacts
+/build/
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+
+
+🌀 https://github.com/devopsengineerDan/dot-gitignore/blob/master/.gitignore
+
+🌀 https://github.com/devopsengineerDan/gitignore/blob/main/
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 ### 1. Adhere to Programming Language Standard library and Style of writing code.
 ### 2. Adhere to Software Design Principles and Patterns.
@@ -4609,31 +4637,6 @@ DATABASE FLOW-CHART DIAGRAM
 
 
 BEST PRACTICE + (autopep8 idiomatic python using flake8, pytest and hypothesis, mypy => TESTING)
-🌀.gitignore(*.egg-info, *.pyc, .coverage, .tox, /venv*, coverage-html, dist)
-
-
-```
-🌀
-# Ignore temporary files
-*.tmp
-*.temp
-
-# Ignore log files
-*.log
-
-# Ignore build artifacts
-/build/
-
-# Ignore IDE specific files
-.idea/
-.vscode/
-```
-
-🌀 https://github.com/devopsengineerDan/dot-gitignore/blob/master/.gitignore
-
-🌀 https://github.com/devopsengineerDan/gitignore/blob/main/
-
-
 
 
 
