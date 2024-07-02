@@ -3141,12 +3141,15 @@ tcp,udp                              GraphQL
 
 
 1 Use Firewall Hardware and Software 
-2 Use latest Wifi/Internet Security standard e.g WPA2
-3 Use antivirus 
+2 Use latest Wifi/Internet Security standard e.g WPA2     <===>   CONSTANTLY CHANGE Router [STRONG Password]
+3 Use Antivirus 
 4 Use software to remove tracking e.g WPD -> Remove logs and DISABLE WINDOWS UPDATE
+5 Encrypt Partition Drive
 
 
-
+6 Anonsurf  for MAC ADDRESS PROTECTION and NETWORK DEFENSE PROTECTION
+7 Auto-tor for BROWSER PROXY <=> IP ADDRESS PROXY 
+******************************************************************************************************************************************************************************************
 
 
 
@@ -5455,13 +5458,30 @@ git add README.md
 git add .
 git commit -m "first commit"
 git branch -M main
+
+
+******************************************************************************************************************************************************************************
 #To avoid conflicts
+
+FIRST OPTION
 git checkout -b secondbranch ->Creates another branch named secondbranch
 OR
 git branch secondbranch ->Creates another branch named secondbranch
 git 
 git remote add origin https://github.com/devopsengineerDan/Driver-Drowsiness-Detection.git
 git push -u origin main
+
+SECOND OPTION
+git clone "_git repository link here_"
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin "_git repository link here_"
+git push -u origin main
+******************************************************************************************************************************************************************************
+
+
 
 GIT PUSHING PROJECT TO GITHUB TO GH-PAGES
 Create project projectname.github.io
