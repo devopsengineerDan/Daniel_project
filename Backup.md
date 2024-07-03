@@ -3144,8 +3144,8 @@ tcp,udp                              GraphQL
 2 Use latest Wifi/Internet Security standard e.g WPA2     <===>   CONSTANTLY CHANGE Router [STRONG Password]
 3 Use Antivirus 
 4 Use software to remove tracking e.g WPD -> Remove logs and DISABLE WINDOWS UPDATE
-5 Encrypt Partition Drive
-
+5 ======> Encrypt Partition Drive
+  ======> If using Kali on BARE METAL, Remove storage devices containing DATA
 
 6 Anonsurf  for MAC ADDRESS PROTECTION and NETWORK DEFENSE PROTECTION
 7 Auto-tor for BROWSER PROXY <=> IP ADDRESS PROXY 
