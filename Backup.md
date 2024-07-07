@@ -3147,8 +3147,8 @@ tcp,udp                              GraphQL
 5 ======> Encrypt Partition Drive
   ======> If using Kali on BARE METAL, Remove storage devices containing DATA
 
-6 Anonsurf  for MAC ADDRESS PROTECTION and NETWORK DEFENSE PROTECTION
-7 Auto-tor for BROWSER PROXY <=> IP ADDRESS PROXY 
+6 Anonsurf (anonsurf-tool) for MAC ADDRESS PROTECTION and NETWORK DEFENSE PROTECTION
+7 Auto-tor (anonymous-browsing-tool) for BROWSER PROXY <=> IP ADDRESS PROXY 
 ******************************************************************************************************************************************************************************************
 
 
