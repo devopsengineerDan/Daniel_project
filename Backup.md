@@ -1748,8 +1748,12 @@ ID number
 🌀 Kevin
 🌀 Photon Trading
 --------------------------------------------
-🌀 Howard Marks
-🌀 Buffet
+                           🌀 Howard Marks
+			   
+🌀 Jim Simons -> Medallion Fund
+🌀 Alex Gerko -> XTX
+
+                           🌀 Buffet -> Berkshire Hathawa
 
 ------------------------------------------------------------------------------------------
 MT4 3b
@@ -1820,11 +1824,11 @@ LOW INTERSET 🌀 HOLD Big Business/ Big Property during LOW INTEREST RATES OF C
 🌀 Give Little + Benefits
 
                                                        BANKS (STAKE)
-                                                       Investment(Stake Holder + Receive Dividents)
+                                                      ==> Investment(Stake Holder + Receive Dividents)
 BROKER
-Portfolio (Buy Low Sell High)
+==> Portfolio (Buy Low Sell High)
                                                        HEDGE FUND (COMMISSION)
-                                                       Salary
+                                                      ==>  Salary
                                                                 
 ```
 
