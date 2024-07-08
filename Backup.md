@@ -92,6 +92,8 @@ Master's  
 
 
 # LIFE 
+
+```
 ===> LIFE IS WHAT YOU MAKE OF IT AND [KNOW << AND >> GET IT]
 
 
@@ -173,6 +175,56 @@ Hard work(Realistic)          Realistic(High performance and Continuity)
 Know                       Character               Time => Within time bound
 Connect the dots           Emotions                Way => Within scope
 Competitive                Logical                 Realistic => Within required resources
+```
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# WEALTH
+
+```
+
+--------------------------
+INCREASE IN WEALTH + GOD[Accurate, Conscious on Both Parties, Generous]
+1 Don't Discuss Income, If so Have it on the Low.
+2 Investor<=>Receiver , [Devops Engineer and Scientist] ,Database Engineer.
+3 Understand System, Policy, Contract.
+
+*** SILENCE (ALL SENSES)
+READ
+===> WRITE (ACCURATE, ORDERLY, COMPLETE)
+===> SPEAK (ACCURATE, ORDERLY, COMPLETE)
+--------------------------
+
+
+
+
+GOVERNANCE=> Cybersecurity Systems, AI Systems
+STOCK=> Stake Holders
+BUSINESS=> Big Insurances, Big Banks
+PROPERTY=> Farming Projects, Academies, [Rentals] Real Estate Properties, [Sell] Real Estate Properties || Lands || Natural Resources
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1 ===> INCREASE IN WEALTH(High Performance_in_PRODUCTIVITY)
+
+2 ===> LAYERING(High Performance_in_PRODUCTIVITY)
+
+
+
+
+LARGE
+MEDIUM
+SMALL
+
+
+
+
+3 ===> KNOWN ASSETS(High Performance_in_PRODUCTIVITY)
+**********************************************
+===> SOURCE -> Already Existing Assets, Loan
+
+===> ADD UP -> Orderly, Realistic
+**********************************************
+```
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
