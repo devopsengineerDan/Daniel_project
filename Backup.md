@@ -239,7 +239,7 @@ Speak
                    
            Water
            
-                   Bones soup + Vitamins, less Carbohydrates and more Proteins
+                   [Bones soup & Milk] + Vitamins + LESS Carbohydrates + MORE Proteins[Eggs & Beans] 
 ```
 
 =================================
@@ -2165,7 +2165,7 @@ sudo apt remove smbclient
 ------------------------------------------------------------------------------------------------------
 
 Chrome => Check below setup  Official installation of Google Chrome
-Firefox => SaveFrom.net helper extension, DuckDuckGo Privacy Essentials extension
+Firefox => SaveFrom.net helper extension, DuckDuckGo Privacy Essentials extension, Netcraft Extension
 Vivaldi
 Brave
 Gnome Night Light OR Redshift
@@ -6259,7 +6259,7 @@ Got any doubts? Check our FAQ, write us or join the community in Cpplang Slack #
 ```
 
     
-# HTML
+# HTML, HTMX, CSS, PYSCRIPT
 
 👉 HTML5 EMAIL
 
@@ -6271,6 +6271,21 @@ Got any doubts? Check our FAQ, write us or join the community in Cpplang Slack #
      <textarea name="msg" required placeholder="Message"></textarea>
      <button type="submit">Send</button>
 </form> 
+```
+
+--------------------------
+
+```
+===============> TEMPLATES                                 
+BOOTSTRAPMADE.COM 
+BOOTSTRAP TEMPLATES + HTML TEMPLATES on my Drive
+
+
+GOOGLE MAP LOCATION HTML5 ===> https://www.youtube.com/watch?v=s3g04pbAJBA
+
+
+FORM SUBMIT  ===> use random email ,CC, _captcha [To secure from Malicious Bots and Spam Emails], Table Format of email contents, Thank you
+             ===> https://www.youtube.com/watch?v=iSobU_DjNN4
 ```
 
 
@@ -6539,7 +6554,16 @@ CREATE API
 views.py                                                 serializers.py                                models.py
 1. gets data from model                                  1. gets data from model                       1. creates python object mapper used to store data similar to sql
 2. serializes data from serializers
-3. return json 
+3. return json
+
+
+
+
+--------------------------
+Example of Create API + Test API Key using Postman
+GENERATE API  TOKEN ==> DJANGO  ===> https://www.youtube.com/watch?v=wv8b3tzShq4
+--------------------------
+
 ```
 
 
@@ -9371,6 +9395,22 @@ WINDOWS LATEST RELEASE => NEWER HARDWARE
 
 
 ```
+👉 WINDOWS 11 ACTIVATION
+
+    Windows 11 Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+    Windows 11 Home N: 3KHY7-WNT83-DGQKR-F7HPR-844BM
+    Windows 11 Pro: W269N-WFGWX-YVC9B-4J6C9-T83GX
+    Windows 11 Pro N: MH37W-N47XK-V7XM9-C7227-GCQG9
+    Windows 11 Education: NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
+    Windows 11 Education N: 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
+
+For example, if you want to activate Windows 11 Pro, use the command 
+Step 1: slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+Step 2: slmgr /skms kms.msguides.com OR slmgr /skms kms8.msguides.com
+Step 3: slmgr /ato
+
+----------------------------------------------------------------------------------------------
+
 👉 LOCAL ACCOUNT LOG IN TO WINDOWS 11
 
 In windows 11 pro
@@ -9455,7 +9495,7 @@ IDM
 --------------------------------------------------------------------------
 
 Chrome
-Firefox => SaveFrom.net helper extension, DuckDuckGo Privacy Essentials extension
+Firefox => SaveFrom.net helper extension, DuckDuckGo Privacy Essentials extension, Netcraft Extension
 Brave
 Microsoft Night Ligt OR Flux
 Windows Powershell ISE -> Advance
@@ -9885,6 +9925,19 @@ https://github.com/devopsengineerDan/pyspark-ETL-project-and-airflow-Data-pipeli
 
 => Cybersecurity Objective UP TOP
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 @ AI TOOLS For Business Optimization
 EntryPointAI.com/Masterclass 
@@ -9895,9 +9948,25 @@ EntryPointAI.com/Masterclass
 
 
 @ IOT FUNDAMENTALS 2 WEEKS
+```
 Espressif Systems => Getting started with ESP-IDF
 Science Buddies => How to use a breadboard
 LeftyMaker => How to use a breadboard
+--------------------------
+IOT
+===> First Build
+Flush + Press Reset Button
+Build
+Run Program
+
+
+===> PUTTY
+#!/bin/bash
+sudo chmod 666 /dev/ttyUSB0
+
+putty
+--------------------------
+```
 
 1ST PROJECT
 Low Level Learning - esp32 setup
@@ -9908,9 +9977,7 @@ Low Level Learning - esp32 wireless network connectivity and TCPIP connection
 ***IOT HOME LIGHT SYSTEM
 
 
-
-
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 @ API FUNDAMENTALS 2 WEEKS
@@ -9935,15 +10002,12 @@ SendyAPI Wrapper => Consuming a Restful API + Building an Restful API
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-
-2 PROJECTS + {Electric cable connection + Tester Screw driver} && TOOLS
+2 PROJECTS + [TV Guard] + {Electric cable connection + Tester Screw driver} && TOOLS
                                                   {
                                                   Fan Blower + Tool box + Carbon Fiber Electrostatic Discharge Anti-Static ESD Gloves - Polyurethane Palm Coated 
-                                                  Voltage Tester + Solder tool
+                                                  Voltage Tester + Solder Tool
                                                   }
-2 CERTS 
-  
-  
+               
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 					
