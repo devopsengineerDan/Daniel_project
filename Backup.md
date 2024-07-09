@@ -2130,7 +2130,7 @@ REMOVE
 ARCH (OPENSUSE TUMBLEWEED) => Install on KVM
 FEDORA
 DEBIAN
-UBUNTU (Software Availability + [Ubuntu 20.04 version] for [High Display and HZ] after upgrading from 18.04 version OR INITIAL Ubuntu 20.04 INSTALLATION // FLASH DRIVE Ubuntu 20.04 for Fixing Grub Boot Loader   + [Ubuntu 22.04 version] for Best fingerprint support and performance)
+UBUNTU (Software Availability +  [MX Linux 23.3 version in kvm-qemu on VIRTUAL MACHINE MANAGER for [Best Display] +  [Ubuntu 20.04 version] for [High Display and Best Refresh Rate HZ] after upgrading from 18.04 version OR INITIAL Ubuntu 20.04 INSTALLATION // FLASH DRIVE Ubuntu 20.04 for Fixing Grub Boot Loader   + [Ubuntu 22.04 version] for Best fingerprint support and Best performance)
 ----------
 KALI PURPLE + KALI LINUX
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -3012,7 +3012,7 @@ sudo modprobe vboxdrv
 				
 								
 ```				
-👉 QEMU/KEMU
+👉 QEMU/KEMU + VIRTUAL MACHINE MANAGER
 
 👉 NOT CONNECTING TO THE INTERNET -> sudo service libvirtd restart
 		
