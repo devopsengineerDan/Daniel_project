@@ -2968,6 +2968,8 @@ lsb_release -a
 ```
 👉 VIRTUALBOX INSTALLATION
 
+👉 NOT CONNECTING TO THE INTERNET -> sudo service libvirtd restart
+
 INSTALL VIRTUALBOX IN UBUNTU
 sudo apt install virtualbox
 
