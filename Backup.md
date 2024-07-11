@@ -154,15 +154,44 @@ PROTECT Life, Liberty, Equality and Property
 	  8 REVIEW
 
                                 => WHAT [MINE]
-                                3 LION + SNAKE 
+                                3 LION + SNAKE
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 				
        🧨🧨🧨🧨🧨🧨LIFE CRUCIAL LESSONS🧨🧨🧨🧨🧨🧨🧨
+
+AWARE                                         ALIVE
+INCREASE IN WEALTH                            A+ [Accurate, (Know your Position and other Parties Positions and Be Alive to Yourself and to all other Parties), Humble and Generous/Kind]
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Portfolio Gain/ Brokerage                                       Salary                                SHORT/LOSS/STEAL  => Result to Destruction then DEATH
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Naive
+Foolish
+Ignorance/ Stupid
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Undecisive/ Stagnant       => Careful Decision Making to be CORRECT and EFFECTIVE
+Chaos                      => Intelligent Adapting to be BETTER
+Rigid/ Brick Wall          => Productive while GAINING       
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
        WORK + GET REWARD
        
        NO RANDMNESS                                   NO LOSING OF MONEY
        Opportunist/Take Advantage                     Steal
        => Little Token                                => Little Token
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
 ---------------
 1 DAVID                       2 DANIEL
 Security                      Security
@@ -186,7 +215,7 @@ Competitive                Logical                 Realistic => Within required 
 --------------------------
 INCREASE IN WEALTH + GOD[Accurate, Conscious on Both Parties, Generous]
 1 Don't Discuss Income, If so Have it on the Low.
-2 Investor<=>Receiver , [Devops Engineer and Scientist] ,Database Engineer.
+2 Investor<=>Gain, [Devops Engineer and Scientist] ,Database Engineer.
 3 Understand System, Policy, Contract.
 
 *** SILENCE (ALL SENSES)
@@ -268,13 +297,13 @@ Speak
 👉 BEHAVIOUR I HATE
 
 ```
-SCARCITY/Moon                ABUNDANCE/Sun
-                             =>  GOAL ORIENTED 
-CHAOS + UNDESICIVENESS + IRRATIONAL  =>  ***EXTREME*** DESIGN and DESICIVENESS + RATIONAL 97%[SIMPLE ** CATEGORIZE] && Avoid [Extreme Chaos and Extreme Paralysis plus Speed] 
+SCARCITY/Moon                                 ABUNDANCE/Sun
+                                              =>  GOAL ORIENTED 
+CHAOS + UNDESICIVENESS + IRRATIONAL           =>  ***EXTREME*** DESIGN and DESICIVENESS + RATIONAL 97%[SIMPLE ** CATEGORIZE] && Avoid [Extreme Chaos and Extreme Paralysis plus Speed] 
 
-LAZY + STAGNANT              =>  CONTINUOUS PROCESS IMPROVEMENT and GROWTH
+LAZY + STAGNANT                               =>  CONTINUOUS PROCESS IMPROVEMENT and GROWTH
 
-MEAN                         =>  PRODUCTIVE and RESULT ORIENTED
+MEAN                                          =>  PRODUCTIVE and RESULT ORIENTED
 ```
 
 
@@ -519,7 +548,7 @@ USA                                                             Follow-up       
  
 
 
-                 (Imagination/Poverty/Death)                                 Original                                                     Hardwork
+         🧨🧨🧨(Imagination/Poverty/Death)                                 Original                                                     Hardwork
 ```
 
 
