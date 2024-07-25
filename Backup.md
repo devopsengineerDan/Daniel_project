@@ -1769,6 +1769,7 @@ ID number
 
 # FINANCE, MARKETING & ECONOMICS
 
+```
 =====> PSYCHOLOGIST 🌀 Dr. Steven Burger
 
 🌀 David, Bull
@@ -1776,15 +1777,26 @@ ID number
 --------------------------------------------
 🌀 Kevin
 🌀 Photon Trading
---------------------------------------------
-                           🌀 Howard Marks
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FOREX EXCHANGE                                                                                                                                              STOCK EXCHANGE                   
+                           🌀 Howard Marks                                                                                                                  🌀 Buffet -> Berkshire Hathawa
+
 			   
 🌀 Jim Simons -> Medallion Fund
 🌀 Alex Gerko -> XTX
 
-                           🌀 Buffet -> Berkshire Hathawa
+                                                                     
+🧨 Quant Researcher, Quant Engineer, Quant Trader, Quant Portfolio Manager
 
-------------------------------------------------------------------------------------------
+🌀 Quant - Korean Yuppie -> https://www.youtube.com/watch?v=kFiiMymTtO0
+🌀 Quant Books - QuantPy -> https://www.youtube.com/watch?v=ZSavDAaKy50
+🌀 Quant Resources - Coding Jesus -> https://www.youtube.com/watch?v=cXNL4JKBL6w
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 MT4 3b
 Position Sizing + Lot Sizing Formulae ======> 4a
 ======> Trading Simulator 4a -> Search for Kion Hi 
@@ -1793,7 +1805,7 @@ Position Sizing + Lot Sizing Formulae ======> 4a
 ======> Journaling -> [FREE]MyFXbook -> Search for PiranhaProfits Forex Trade Journal [PAID]Edgewonk, Trading Vault
 
 ======> NEWS -> Forex Factory(Adjust Time to My Local Time and Zone)
-
+```
 
 
 ```
