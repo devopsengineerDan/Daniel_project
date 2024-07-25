@@ -165,6 +165,9 @@ PROTECT Life, Liberty, Equality and Property
 AWARE                                         ALIVE
 INCREASE IN WEALTH                            A+ [Accurate, (Know your Position and other Parties Positions and Be Alive to Yourself and to all other Parties), Humble and Generous/Kind]
 
+SEX                   DOPAMINE (CORP+CARE)            TIME <=> FEEL
+ENTERTAINMENT         FEAR (PROSTITUTE)               WAY <=> ENERGY
+FOOD+WATER            DETORIORATE (DRUNKARD)          REALISTIC(OWN) <=> VIBRATION    
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  Portfolio Gain/ Brokerage                                       Salary                                SHORT/LOSS/STEAL  => Result to Destruction then DEATH
