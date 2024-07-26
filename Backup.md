@@ -603,18 +603,20 @@ ADAPTABILITY & SCALABILITY
 
 -----------------------------------------------------------------------
 
-                                 WebAssembly (LLVM + Assembly)
+🧨🧨🧨BUNDLER ====> BUILD ENGINE
+
+                                 WebAssembly App (LLVM + Assembly)
 
 
-                                 Web (Native)
-
-
-
-Mobile (Native)
+                                 Web App (Native) + Progressive Web App => WEBSITE
 
 
 
-                                 Desktop (Native)
+Mobile App (Native)
+
+
+
+                                 Desktop App (Native)
 -----------------------------------------------------------------------
 
 👉 ACHIEVING CROSSPLATFORM (PLATFORM AGNOSTIC)
@@ -4359,8 +4361,6 @@ https://lnkd.in/gc5p5Jss
 🌀 Isaac Harris-Holt
 🌀 CodeDoner
 🌀 free codecamp
-
-
 ```
 
 
@@ -4400,7 +4400,7 @@ sudo apt install google-chrome-stable
 
 👉 CLOUD-BASED DEVELOPMENT ENVIRONMENT
 Project IDX
-
+Github Codespaces
 
 👉 Alternative for JETBRAINS
 Anaconda
@@ -4901,6 +4901,9 @@ WEB3- Read, Write and Ownership    => AI,
                                    => (Distributed System and Database)
                                    => LLVM and Web Assembly
                                    => IOT
+
+🧨🧨🧨 PROGRESSIVE WEB APPS
+🧨🧨🧨 BUNDLER
 ```
 
 
