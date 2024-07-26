@@ -1776,6 +1776,7 @@ ID number
 
 ```
 =====> PSYCHOLOGIST 🌀 Dr. Steven Burger
+=====> 🧨🧨🧨🧨🧨🧨 FinCrime Agent
 
 🌀 David, Bull
 🌀 Daniel
@@ -1874,8 +1875,7 @@ LOW INTERSET 🌀 HOLD Big Business/ Big Property during LOW INTEREST RATES OF C
 BROKER
 ==> Portfolio (Buy Low Sell High)
                                                        HEDGE FUND (COMMISSION)
-                                                      ==>  Salary
-                                                                
+                                                      ==>  Salary                                                             
 ```
 
 
