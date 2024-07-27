@@ -514,7 +514,7 @@ Science(Within Scope)                                              Morality(With
 Imagination(Out of Scope)                                          Disease(Out of Scope) 
 
                                                                    
-                   Logos(Poverty/Death)                                                           Ignorance(Poverty/Death)
+                   Logos(Poverty/Death)                                                     Ignorance(Poverty/Death)
 ```
 
 
@@ -1773,6 +1773,48 @@ ID number
 
 
 # FINANCE, MARKETING & ECONOMICS
+
+```
+----------------------------------
+TRADES => Futures, Commodities, Stocks, Cryptocurrency, Forex
+===> BEST PRACTICE
+Banks -> *LOANS(BIG MONEY, Small Money-> School Fees), *ATM
+Investor -> *DON'T HAVE PRIOR COMMUNICATION WITH INVESTOR* Cryptocurrency, Gift, =>[LAST RESOLUTION] Given property on Lease
+NO LIFE INSURANCE WHATSOEVER
+WEALTH NEEDS TO [LAYERING & OWNERSHIP LAWS], [ADD UP/MAKE SENSE] and COMPLY WITH TAX REGULATIONS
+
+===> FLAGS
+===> Fraud, Market Manipulation, Bribery, Sedition, Tax Evasion, Embezzlement, Identity Theft, Money Laundery, Forgery/ Counterfeiting, Theft
+----------------------------------
+         LEADER
+CLASS
+         TRIBE
+----------------------------------
+1ST                         INSERTION**** ORIGIN and COMPARABLE to Income, Social Status, Type of Occupation [Wealthy Family, Foreign Businesses/Currency, Local] => [Shell Banks/Companies and Tax Haven]
+LAYERING TRANSACTIONS ****(Far From Carcass)
+                            INTEGRATION 
+
+2ND                         INSERTION
+NORMAL BUSINESS TRANSACTIONS 
+                            INTEGRATION 
+----------------------------------  
+LAYERING TRANSACTIONS     
+1 Customer Details updated before A LARGE Transaction => An Account Taker over and Layering Activity
+2 LARGE DEPOSIT which is => NOT COMPARABLE to Income, Social Status, Type of Occupation
+3 Detection of Structuring => Large number of transactions below a reporting threshold in a specific period of Time
+4 Unusual spending pattern => NOT COMPARABLE to Income, Social Status, Type of Occupation
+5 Dormant Accounts/Businesses => which display LARGE Transactions in Bank and Business Accounting Books
+6 Low Buyers Diversity => Same Buyers on a business which usually receives variety of Buyers
+7 Disproportionate Flow-Through => NOT MAKING BUSINESS SENSE[Spending More and No Profit]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+8 High Risk Countries => Countries known for Bank Secrecy/Financial Crime/Tax Haven
+9 Immediate Withdrawal to Private Wallets => Large Amount Deposited then IMMEDIATELY Large Amount Withdrawn
+10 Cash Transactions => VERY LARGE CASH Transaction
+11 Frequent conversions Crypto-FIAT or FIAT-Crypto => VERY LARGE and FREQUENT Transaction
+12 A NORMAL BUSINESS MUST REGISTER PROFIT AND LOSS
+----------------------------------
+```
+
 
 ```
 =====> PSYCHOLOGIST 🌀 Dr. Steven Burger
