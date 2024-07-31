@@ -9811,7 +9811,7 @@ GO SLOW -> Pedestrian-crossing + Bumps, Bridge, Parking
 -------------------------------
 
 ```
-👉 Tourbillon WATCH      👉 Japanese Kei off-road truck 4x4   👉 Facebook: mercelsha muqpal 👉 Dell xps 13" 9310 i7 11th gen OR BEST  15" 9530 i9 13th gen
+👉 Tourbillon WATCH      👉 Japanese Kei off-road truck 4x4   👉 Facebook: mercelsha muqpal 👉 Dell xps 13" 9310 i7 11th gen OR BEST  15" 9530 i9 13th gen[RAZOR,APPLE,DELL XPS,X1 CARBON THINKPAD]
 ````
 
 -------------------------------
