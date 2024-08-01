@@ -10053,17 +10053,17 @@ EntryPointAI.com/Masterclass
 
 @ IOT FUNDAMENTALS 2 WEEKS
 ```
-Espressif Systems => Getting started with ESP-IDF
+Espressif Systems => Getting started with ESP-IDF  ->
 Science Buddies => How to use a breadboard
 LeftyMaker => How to use a breadboard
 --------------------------
-IOT
+IOT 
 ===> First Build
 Flush + Press Reset Button
 Build
 Run Program
 
-
+IOT 
 ===> PUTTY
 #!/bin/bash
 sudo chmod 666 /dev/ttyUSB0
@@ -10072,14 +10072,15 @@ putty
 --------------------------
 ```
 
+```
 1ST PROJECT
-Low Level Learning - esp32 setup
+Low Level Learning - esp32 setup -> https://www.youtube.com/watch?v=dOVjb2wXI84
 Low Level Learning - esp32 wireless network connectivity and TCPIP connection
-***Low Level Learning - IOT Kettle Heater Project via Wifi and TCPIP
+***Low Level Learning - IOT Kettle Heater Project via Wifi and TCPIP -> https://www.youtube.com/watch?v=8-JE3RdyEds
 
 2ND PROJECT 
-***IOT HOME LIGHT SYSTEM
-
+***IOT HOME LIGHT SYSTEM ->
+```
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
