@@ -10053,9 +10053,10 @@ EntryPointAI.com/Masterclass
 
 @ IOT FUNDAMENTALS 2 WEEKS
 ```
-Espressif Systems => Getting started with ESP-IDF  ->
-Science Buddies => How to use a breadboard
-LeftyMaker => How to use a breadboard
+Espressif Systems => Getting started with ESP-IDF  -> https://www.youtube.com/watch?v=J8zc8mMNKtc
+👉 ADVANCE USER => Embedotronics Technologies => ESP-IDF tutorials -> https://www.youtube.com/watch?v=fD7B9LI45Rk&list=PLmiBQYp1gExu4n2svyvwGCMv0geIOTw0X
+Science Buddies => How to use a breadboard -> https://www.youtube.com/watch?v=6WReFkfrUIk
+LeftyMaker => How to use a breadboard -> https://www.youtube.com/watch?v=W6mixXsn-Vc
 --------------------------
 IOT 
 ===> First Build
@@ -10073,7 +10074,7 @@ putty
 
 1ST PROJECT
 Low Level Learning - esp32 setup -> https://www.youtube.com/watch?v=dOVjb2wXI84
-Low Level Learning - esp32 wireless network connectivity and TCPIP connection
+Low Level Learning - esp32 wireless network connectivity and TCPIP connection -> https://www.youtube.com/watch?v=_dRrarmQiAM
 ***Low Level Learning - IOT Kettle Heater Project via Wifi and TCPIP -> https://www.youtube.com/watch?v=8-JE3RdyEds
 
 2ND PROJECT 
