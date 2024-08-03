@@ -9889,9 +9889,9 @@ graph LR
     id3-->|Config TDP Configurations|Down;
 ```
 
-
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+```
 1) Youtube vids 
 2) 9 Vids + Project management  
 3)
@@ -10029,7 +10029,7 @@ https://github.com/devopsengineerDan/pyspark-ETL-project-and-airflow-Data-pipeli
 
 => Cybersecurity Objective UP TOP
 
-
+```
 
 
 
@@ -10043,9 +10043,11 @@ https://github.com/devopsengineerDan/pyspark-ETL-project-and-airflow-Data-pipeli
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-@ AI TOOLS For Business Optimization
-EntryPointAI.com/Masterclass 
 
+@ AI TOOLS For Business Optimization
+```
+EntryPointAI.com/Masterclass 
+```
 
 
 
@@ -10083,8 +10085,9 @@ Low Level Learning - esp32 wireless network connectivity and TCPIP connection ->
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 @ API FUNDAMENTALS 2 WEEKS
+
+```
 => Building an Restful API
 Django
 Flask
@@ -10094,27 +10097,27 @@ Rodney API
 
 Django Github API => Consuming a Restful API
 SendyAPI Wrapper => Consuming a Restful API + Building an Restful API
+```
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 
 
-
-
-
-
+```
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-
 2 PROJECTS + [TV Guard] + {Electric cable connection + Tester Screw driver} && TOOLS
                                                   {
                                                   Fan Blower + Tool box + Carbon Fiber Electrostatic Discharge Anti-Static ESD Gloves - Polyurethane Palm Coated 
                                                   Voltage Tester + Solder Tool
                                                   }
+2 CERTS 
+
+ASSEMBLE DESKTOP SERVER *******************************
                
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-					
+```					
 					
 					
 					
