@@ -10088,7 +10088,7 @@ Low Level Learning - esp32 wireless network connectivity and TCPIP connection ->
 @ API FUNDAMENTALS 2 WEEKS
 
 ```
-=> Building an Restful API
+=> Building a Restful API
 Django
 Flask
 fastAPI
