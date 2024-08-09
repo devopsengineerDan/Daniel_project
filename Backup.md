@@ -8,7 +8,6 @@ September 50k-> Dn Backend **James Go Ahead For October**4TScripts + ChairLetter
 October -> **James Go Ahead**4TScripts + ChairLetter
 
 
-
 OR 
 
 [Victor's Resemblance]
