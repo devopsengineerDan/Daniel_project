@@ -671,16 +671,23 @@ Rust ->`Tauri
 
 ===============================================================================================================================================
 
+# ACADEMIA
 
+# FINANCIAL ENGINEERING 
 
-# COMPUTER SCIENCE GUIDE  
+```
+👉 FINANCIAL ENGINEERING GUIDE  ->  Backup.md README SECTION
+                                ->  https://www.youtube.com/watch?v=UewlVUZliV0
+```
+
+# COMPUTER SCIENCE => SOFTWARE ENGINEERING 
 
 1. EDUREKA
 2. free code camp
 3. LINKS
 
 ```
-MICROTIK ROUTER CONFIGURATION
+MICROTIK ROUTER CONFIGURATION GUIDE
 👉 MICROTIK ZERO TO HERO -> https://www.youtube.com/watch?v=Gf-iCjh2Bwg&list=PLlEVCBdM7ELM3S7Ew3HtbaX6ZUB_Pfihh
 
 👉 MICROTIK FUNDAMENTALS -> https://www.youtube.com/watch?v=76nK1LXyPMA&list=PLCvN_Pl1Blxh2ejJCGI4T-xzL3VrYtsKS
@@ -708,7 +715,7 @@ Algorithms & Data Structures -> https://www.youtube.com/watch?v=XGClOyyliPs&list
 
 
 ```
-👉 DESIGN AND ANALYSIS OF ALGORITHM
+👉 DESIGN AND ANALYSIS OF ALGORITHM GUIDE
 
 BIG O Notation -> https://www.youtube.com/watch?v=XMUe3zFhM5c
 Big O Part 1 – Linear Complexity -> https://www.youtube.com/watch?v=OMInLBKYAWg&list=PLTd6ceoshprfdzLWovxULl8Lt7RAFKTe5
@@ -906,6 +913,13 @@ MIT STATISTICAL MECHANICS -> https://www.youtube.com/watch?v=4RX_lpoGRBg&list=PL
 MIT ENGINEERING DYNAMICS -> https://www.youtube.com/playlist?list=PLUl4u3cNGP62esZEwffjMAsEMW_YArxYC
 ```
 
+
+
+# TELECOMMUNICATION, ELECTRICAL AND ELECTRONICS ENGINEERING 
+
+```
+👉 COMPUTER MOTHERBOARD ELECTRONICS GUIDE -> https://m.youtube.com/@electronicsrepairbasics_erb
+```
 
 ===============================================================================================================================================
 
@@ -10133,6 +10147,7 @@ SendyAPI Wrapper => Consuming a Restful API + Building an Restful API
                                                   {
                                                   Fan Blower + Tool box + Carbon Fiber Electrostatic Discharge Anti-Static ESD Gloves - Polyurethane Palm Coated 
                                                   Voltage Tester + Solder Tool
+COMPUTER MOTHERBOARD ELECTRONICS GUIDE -> https://m.youtube.com/@electronicsrepairbasics_erb
                                                   }
 2 CERTS 
 
