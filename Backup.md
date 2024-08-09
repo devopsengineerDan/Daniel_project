@@ -1932,6 +1932,29 @@ BROKER
 
 
 
+# DATA CENTRE
+
+```
+👉 DATA CENTRE => www.flex.com
+
+👉 CYBERSECURITY
+
+DOMAIN Security 
+PHYSICAL Security
+NETWORK Security
+PERIMETER  Security
+ENDPOINT  Security
+APPLICATION  Security
+DATA Security
+USER Education  Security
+```
+
+
+
+===============================================================================================================================================
+
+
+
 # SYSTEM UI, INPUT&&OUTPUT AND PROCESSORS
 
 ```									
@@ -9653,8 +9676,8 @@ USB Device Connectivity
 👉 CRACKED SOFTWARES
 
 1. 1337x.to OR 1337x.to/#
-2. WINDOWS OFFICE SETUP https://getintopc.com/?s=Office+2016&submit=Search
-
+2. WINDOWS OFFICE SETUP -> https://getintopc.com/?s=Office+2016&submit=Search
+3. GAME -> https://gametrex.com
 					
 
 👉 WATCHING MOVIIES SERIES TV
