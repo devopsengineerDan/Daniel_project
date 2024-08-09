@@ -10147,7 +10147,7 @@ SendyAPI Wrapper => Consuming a Restful API + Building an Restful API
                                                   {
                                                   Fan Blower + Tool box + Carbon Fiber Electrostatic Discharge Anti-Static ESD Gloves - Polyurethane Palm Coated 
                                                   Voltage Tester + Solder Tool
-COMPUTER MOTHERBOARD ELECTRONICS GUIDE -> https://m.youtube.com/@electronicsrepairbasics_erb
+👉  COMPUTER MOTHERBOARD ELECTRONICS GUIDE -> https://m.youtube.com/@electronicsrepairbasics_erb
                                                   }
 2 CERTS 
 
