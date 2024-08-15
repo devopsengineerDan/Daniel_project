@@ -1857,6 +1857,8 @@ FOREX EXCHANGE                                                                  
 
                                                                      
 🧨 Quant Researcher, Quant Engineer, Quant Trader, Quant Portfolio Manager
+🧨🧨🧨  Quant Engineer - LechGrzelak -> https://lechgrzelak.com/
+
 
 🌀 Quant - Korean Yuppie -> https://www.youtube.com/watch?v=kFiiMymTtO0
 🌀 Quant Books - QuantPy -> https://www.youtube.com/watch?v=ZSavDAaKy50
