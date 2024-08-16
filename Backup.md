@@ -677,6 +677,10 @@ Rust ->`Tauri
 ```
 👉 FINANCIAL ENGINEERING GUIDE  ->  Backup.md README SECTION
                                 ->  https://www.youtube.com/watch?v=UewlVUZliV0
+
+🧨 Computational Finance -> https://www.youtube.com/watch?v=IRMn6JQvU8A&list=PL6zzGYGhbWrPaI-op1UfNl0uDglxdkaOB
+🧨 Computational Finance Q&A -> https://www.youtube.com/watch?v=brKYNyyI2Zs&list=PL6zzGYGhbWrPzu3MojPq24denhjJ4kFCI
+🧨 Financial Engineering Course -> https://www.youtube.com/watch?v=oX7iyvZsAak&list=PL6zzGYGhbWrMpjEKDtnrHWyIj-oVLKCYD
 ```
 
 # COMPUTER SCIENCE => SOFTWARE ENGINEERING 
