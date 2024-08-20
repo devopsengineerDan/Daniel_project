@@ -4755,6 +4755,34 @@ C1.png
 3. HTML Validation
 4. Content is King - Have great content
 5. Key Words and Back Links
+
+🎯 SEARCH ENGINE OPTIMIZATION
+ <!-- This site is optimized with the Yoast SEO plugin v22.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Sterling Crown Tutors</title>
+	<meta name="description" content="We offer high-quality academic tutoring for our students." />
+	<link rel="canonical" href="https://sterlingtuitioncentre.github.io/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Sterling Crown Tutors />
+	<meta property="og:description" content="We offer high-quality academic tutoring for our students." />
+	<meta property="og:url" content="https://sterlingtuitioncentre.github.io/" />
+	<meta property="article:modified_time" content="2024-8-05T12:44:22+00:00" />
+	<meta property="og:image" content="img/logo.png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	🎯  <meta name="google-site-verification" content="XtmfApHLWkQ32uN3BV8mb3LgLNFMF5h3UHFd0_JfIf8" />
+	<!-- / Yoast SEO plugin. -->
+
+
+
+
+👉  THIRD-PARTY BOTS
+
+ LIVE CHAT BOT + NEWS LETTER => https://www.tidio.com/
+ NEWS LETTER => https://app.beehiiv.com/subscribers
+ 
+ 
+ WHATSAPP LIVE CHAT => https://elfsight.com/
+ WHATSAPP BOT =>https://portal.infobip.com/
 ```
 
 
