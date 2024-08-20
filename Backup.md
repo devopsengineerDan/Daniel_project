@@ -4769,7 +4769,7 @@ C1.png
 	<meta property="article:modified_time" content="2024-8-05T12:44:22+00:00" />
 	<meta property="og:image" content="img/logo.png" />
 	<meta name="twitter:card" content="summary_large_image" />
-	🎯  <meta name="google-site-verification" content="XtmfApHLWkQ32uN3BV8mb3LgLNFMF5h3UHFd0_JfIf8" />
+	🎯 => GENERATE THE KEY ON GOOGLE  <meta name="google-site-verification" content="XtmfApHLWkQ32uN3BV8mb3LgLNFMF5h3UHFd0_JfIf8" />
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -4778,10 +4778,11 @@ C1.png
 👉  THIRD-PARTY BOTS
 
  LIVE CHAT BOT + NEWS LETTER => https://www.tidio.com/
- NEWS LETTER => https://app.beehiiv.com/subscribers
+ 🎯 LIVE CHAT BOT + NEWS LETTER => https://www.chatwoot.com/
+
+ 🎯 NEWS LETTER => https://app.beehiiv.com/subscribers
  
- 
- WHATSAPP LIVE CHAT => https://elfsight.com/
+ 🎯 WHATSAPP LIVE CHAT => https://elfsight.com/
  WHATSAPP BOT =>https://portal.infobip.com/
 ```
 
