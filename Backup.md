@@ -10191,6 +10191,7 @@ ASSEMBLE DESKTOP SERVER *******************************
 
 ```
 
+
 ```
 👉  sterlingtuitioncentre0.github.io
 {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}
@@ -10199,7 +10200,16 @@ sterlingtuitioncentre0@gmail.com
 CateMolly1992
 
 ```
-					
+
+
+```
+👉 TRADING
+
+https://www.henriotgroup.com/
+https://www.gammadeltafund.com/
+https://www.tradingview.com/symbols/AUDUSD/?utm_campaign=ticker-tape&utm_medium=widget_new&utm_source=www-gammadeltafund-com.filesusr.com
+https://t.me/thegammadeltafund
+```					
 					
 
 
