@@ -1737,6 +1737,8 @@ slack : Sign in with dancunmanyinsait@gmail.com
 telegram: Daniel @daniel_softwareengineer +254711444518
           David  @david_softwareengineer +254706738969
 
+   
+blueskyapp: https://bsky.app/ @engineerdancun ALPHA@987
 
 Datalore -> dancunmoruri@gmail.com
 Heroku -> GITHUB
