@@ -5712,7 +5712,8 @@ git push -u origin main
 
 
 
-GIT PUSHING PROJECT TO GITHUB TO GH-PAGES
+👉 GIT PUSHING PROJECT TO GITHUB TO GH-PAGES
+
 Create project projectname.github.io
 git add README.md
 git add .
@@ -5720,6 +5721,12 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/devopsengineerdan/devopsengineerdan.github.io.git
 git push -u origin main
+```
+
+
+```
+👉 SETTING UP DOMAIN NAME DEPLOYING WEBAPPLICATION/WEBSITE
+   ====>https://www.youtube.com/watch?v=p1QU3kLFPdg
 ```
 
 
