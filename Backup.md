@@ -672,6 +672,46 @@ Rust ->`Tauri
 
 # ACADEMIA
 
+🧨 STUDYING BEST PRACTICE
+
+```
+----------------------------------------------------------
+**** STRONGEST<=> HIGHEST <=> GREATEST
+
+*1
+HAVE THE CLEAR PICTURE OF A SUBJECT
+HAVE AN OVERVIEW & BASIC UNDERSTANDING
+HAVE AN DETAILED UNDERSTANDING
+
+
+
+*2
+1ST STAGE                                                2ND STAGE   
+CONSUMPTION PERIOD                                       DIGESTION PERIOD
+P => Procedural  ==> Practice                            E => Evidence ==> Store
+A => Analogous ==> Critic + Prior Studying               R => Reference ==> Rehearse
+C => Conceptual ==> Mapping    
+                                       
+----------------------------------------------------------
+*3
+SIMPLE => [ACCURATE & CATEGORIZE]
+COMPLEX  => [RESEARCH & ADAPTIVE]
+COMPLICATED  => [REPETITION]
+
+
+
+*4
+CREATE => HYPOTHESISE                 
+EVALUATE => PRIORITISE
+ANALYSE => COMPARISON
+APPLY[SIMPLE, COMPLEX, DIFFICULT] => PROBLEM SOLVING
+UNDERSTAND => EXPLAIN
+REMEMBER[REPETITIVE] => REGURGITATE
+
+----------------------------------------------------------
+
+```
+
 # FINANCIAL ENGINEERING 
 
 ```
@@ -1755,7 +1795,10 @@ Google AdSense -> dancunmoruri@gmail.com
 
 INGOT->DAVIDQwerty@987#
 Metatrader->Daniel@987#
+
+
 -----------------------------------------------------------------
+
 OS:
 
 Windows Admin devopsengineer/d@97
