@@ -1792,9 +1792,28 @@ Cloudflare -> dancummoruri@gmail.com : <span class="Button-label">1Paste, drop, 
 
 Google AdSense -> dancunmoruri@gmail.com 
 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 INGOT->DAVIDQwerty@987#
-Metatrader->Daniel@987#
+
+---------------------------------
+You can login to your demo account in MetaTrader using the following details:
+
+Login: 999971273
+
+Master Password: Daniel@3#
+
+Investor (Read-Only Password): !NgNxH13
+
+Account Type: PRO-USD
+
+Platform: MT5
+
+Server: IngotAfrica-Demo2
+
+For security reasons, we recommend that you change your MetaTrader password after your first login.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 
 
 -----------------------------------------------------------------
