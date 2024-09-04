@@ -9795,12 +9795,19 @@ USB Device Connectivity
 
 
 ```
-👉 AI TOOLS For Business Optimizatio
+👉 AI TOOLS For Business Optimization
 
-=> Tinywow.com
+Tinywow Collection of AI Tools => https://tinywow.com/
+Free Pik => https://www.freepik.com/free-photos-vectors/letterhead
 @@@@@@@@@@@@@ EntryPointAI.com/Masterclass
 ```
 
+
+```
+👉 EDITING TOOLS 
+
+PDF, IMAGE, WORD CONVERTER => https://online2pdf.com/
+```
 
 ```
 👉 CRACKED SOFTWARES
@@ -10256,6 +10263,7 @@ Rodney API
 
 
 Django Github API => Consuming a Restful API
+Flask News API => Consuming a Restful API
 SendyAPI Wrapper => Consuming a Restful API + Building an Restful API
 ```
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
