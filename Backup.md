@@ -1971,18 +1971,20 @@ Shell companies(ownership) to avoid damage on you
 
 👉 MANAGEMENT
 
-MANAGING SYSTEM[ACTIVE]
-
-                                                      MANAGING PEOPLE[ACTIVE]
+🧨Managing SYSTEM[ACTIVE]
+🧨Managing CASHFLOW => High Incomes
+                 => Low Expenses
+                                                      🧨Managing PEOPLE[ACTIVE]
 
 
 [ACTIVE]
-MANAGING CASHFLOW => High Incomes
+🧨Managing CASHFLOW => High Incomes
                  => Low Expenses
-MARKETING => High Sales
+🧨PARTNERSHIP
+🧨MARKETING => High Sales
 
-
-                                                      MANAGING SYSTEM[ACTIVE]
+                                                      🧨 BUY ASSET <=> SELL SERVICE
+                                                      🧨Managing SYSTEM[ACTIVE]
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
