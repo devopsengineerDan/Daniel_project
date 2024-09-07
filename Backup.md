@@ -734,6 +734,7 @@ MICROTIK ROUTER CONFIGURATION GUIDE
 👉 MICROTIK ZERO TO HERO -> https://www.youtube.com/watch?v=Gf-iCjh2Bwg&list=PLlEVCBdM7ELM3S7Ew3HtbaX6ZUB_Pfihh
 
 👉 MICROTIK FUNDAMENTALS -> https://www.youtube.com/watch?v=76nK1LXyPMA&list=PLCvN_Pl1Blxh2ejJCGI4T-xzL3VrYtsKS
+👉 Step by Step Configure Mikrotik Router as a switch -> GOOGLE DRIVE
 ```
 
 
@@ -2020,14 +2021,14 @@ BROKER
 
 
 
-# DATA CENTRE
+# DATA CENTRE (TELECOMMUNICATIONS, ROUTER CONFIGURATION, COMPUTER NETWORK CONFIGURATION, CLOUD/SERVER CONFIGURATION, HARDWARE)
 
 ```
 👉 DATA CENTRE => www.flex.com
 
 👉 CYBERSECURITY
 
-DOMAIN Security 
+🧨🧨🧨 DOMAIN Security 
 PHYSICAL Security
 NETWORK Security
 PERIMETER  Security
@@ -2039,6 +2040,23 @@ USER Education  Security
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+```
+🧨 TELECOMMUNICATIONS => [HARDWARE + CABLE] , NETWORK-RANGE DESIGN
+🧨 ROUTER CONFIGURATION => [HARDWARE + CABLE] , CONFIGURATION
+
+
+                                                                              🧨 COMPUTER NETWORK CONFIGURATION                                 🧨 CLOUD/SERVER CONFIGURATION => [SYSTEM ADMINISTRATOR]
+							                       [DESIGN AND ANALYSIS OF NETWORK]                                 🧨 HARDWARE => [Large storage + Modern] RAM, SSD, GRAPHICS CARD
+							                       [CONFIGURE DNS, DHCP, Active Directory]                          🧨 INSTALLATION AND MAINTENANCE
+			                                                       [NETWORK ADMINISTRATOR]                                          🧨🧨 SOLDERING OF NON-CRUSIAL SEMI-CONDUCTORS
+```
+
+
+  
 ===============================================================================================================================================
 
 
