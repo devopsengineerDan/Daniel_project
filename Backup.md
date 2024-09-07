@@ -230,6 +230,9 @@ READ
 
 
 GOVERNANCE=> Cybersecurity Systems, AI Systems
+GOLD
+BIG CURRENCIES => DOLLAR, POUND
+MINERALS => OIL, HIGH VALUE MINERALS
 STOCK=> Stake Holders
 BUSINESS=> Big Insurances, Big Banks
 PROPERTY=> Farming Projects, Academies, [Rentals] Real Estate Properties, [Sell] Real Estate Properties || Lands || Natural Resources
