@@ -1945,10 +1945,32 @@ MT4 3b
 Position Sizing + Lot Sizing Formulae ======> 4a
 ======> Trading Simulator 4a -> Search for Kion Hi 
 ======> Forex Position Sizing Calculator ---> Adam Khoo
-======> Back Test -> Soft4FX, Deriv
+
+
+
+======> Back Test -> Soft4FX, Deriv, GoChatting
+======> Identify Strength of Currency -> FX Blue
+======> 🧨 Dollar Index => USDX / DXY
+======> NEWS -> Forex Factory(Adjust Time to My Local Time and Zone)
+
+
+======> TRADING -> TradingView
+1 GOLD
+2 -> Stock
+  -> EQUITY -> Derivatives, Options
+  -> Currencies ,CFDs
+
+
+
 ======> Journaling -> [FREE]MyFXbook -> Search for PiranhaProfits Forex Trade Journal [PAID]Edgewonk, Trading Vault
 
-======> NEWS -> Forex Factory(Adjust Time to My Local Time and Zone)
+
+========================================================================================
+
+MT5 CHART CUSTOMIZATION
+SCHEME :  Colour on white
+BACKGROUND : Old Lace
+FOREGROUND :  Black
 ```
 
 
