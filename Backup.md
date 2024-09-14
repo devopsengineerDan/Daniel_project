@@ -3814,7 +3814,8 @@ $ anonsurf help
 ```
 🧨 Install anonsurf => For Hiding IP(Making you anonymous)
 🧨 Type kali-undercover => Change desktop environment to Windows
-🧨 sudo apt install wifiphisher cri-tools hubble imhex kustomize rekono-kbx rz-ghidra
+WIFI => 🧨 sudo apt install wifiphisher cri-tools hubble imhex kustomize rekono-kbx rz-ghidra
+Rasberry Pi => 🧨 sudo apt install netexec netscanner obsidian sippts sprayhound
 ```
 
 
