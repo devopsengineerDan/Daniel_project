@@ -3598,6 +3598,14 @@ UI OPTION
 ```
 👉 INSTALL KALI PURPLE THEN INSTALL KALI LINUX PENTESTING TOOLS
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+👉 KALI NETHUNTER - ANDROID - MOBILE
+    Install Dependencies In Termux pkg update -y && pkg install wget -y
+    Download Script In HOME wget https://raw.githubusercontent.com/rc-chuah/Kali-Nethunter-In-Termux/master/install-nethunter-full-termux
+    Give Execution Permission chmod +x install-nethunter-full-termux
+    Run Script ./install-nethunter-full-termux
+    Now Just Start Kali Nethunter nethunter
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 👉 SOLVE FUNCTIONALITY PROBLEMS OF KALI TOOLS
 
