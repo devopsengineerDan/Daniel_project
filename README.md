@@ -8,7 +8,6 @@
 
  # FINANCE
  
- ----------------------------
 ```
  Finance and Investments
  Portfolio Management
