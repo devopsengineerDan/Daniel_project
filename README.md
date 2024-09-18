@@ -9,7 +9,7 @@
  # FINANCE
  
  ----------------------------
-
+```
  Finance and Investments
  Portfolio Management
  Advanced Portfolio Management
@@ -17,28 +17,27 @@
  * Fixed Income Investments Analysis
  * Alternative Investments Analysis
  Equity Investments Analysis
- 
+``` 
  ----------------------------
- 
+```
 Professional Ethics and Governance
 Regulation of Financial Markets
-
+```
 ----------------------------
-
+```
 Public Finance and Taxation
 Corporate Finance
 Private Finance
-
+```
 ----------------------------
-
+```
  Financial Accounting
  Quantitative Analysis
  Econometrics
  Derivatives
-
+```
  ----------------------------
-
+```
  FINANCIAL MODELLING && DATA ANALYTICS
-
-
+```
  
