@@ -854,8 +854,8 @@ Vim Tutorial -> https://www.youtube.com/watch?v=jXud3JybsG4&list=PL7yh-TELLS1Eev
 ```
 👉 RUST GUIDE => Rust Official Documentation
 
-=> Rust images
-
+=> 🧨 Rust IMAGES
+=> 🧨 RUST CRASH COURSE https://www.youtube.com/watch?v=lzKeecy4OmQ
 1. Rust Bites -> https://www.youtube.com/watch?v=gvHPRaZHgD4&list=PLai5B987bZ9C0xK1tZ2wsudOo2zjrD9xX
 
 2. The Rustlang Book -> https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
@@ -897,7 +897,8 @@ Advantages of cargo
 ```
 👉 C GUIDE => C Official Documentation
 
-=> C KNOWLEDGE FOR COMPUTER PROGRAMMING FUNDAMENTALS  => C images
+=> C KNOWLEDGE FOR COMPUTER PROGRAMMING FUNDAMENTALS
+=> 🧨 C IMAGES
 
 Pointers -> https://www.youtube.com/watch?v=Hb-bmAmbwvo&list=PL7yh-TELLS1GafZOVHhCPaCQUt8HrfCZE&index=9
 
