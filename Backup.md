@@ -772,6 +772,8 @@ Big O Part 4 – Logarithmic Complexity -> https://www.youtube.com/watch?v=Hatl0
 Big O Part 5 – Linearithmic Complexity -> https://www.youtube.com/watch?v=i7CmolBf3HM&t=19s
 Big O Part 6 – Summary of Time Complexities -> https://www.youtube.com/watch?v=XiGedDZGOM8
 Big O Part 7 – Space Complexity versus Time Complexity -> https://www.youtube.com/watch?v=bNjMFtHLioA
+
+🧨🧨🧨 ADVANCE -> https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
 ```
 
 
