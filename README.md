@@ -6,7 +6,7 @@
 ![4](https://github.com/user-attachments/assets/36d5bb3a-3303-4342-80b8-f803c8004535)
 ![5](https://github.com/user-attachments/assets/c9d2c8bf-7466-4e91-821e-82aa00eeb6d0)
 
- # FINANCE
+ # FINANCE  FUNDAMENTALS
  
 ```
  Finance and Investments
@@ -39,4 +39,19 @@ Private Finance
 ```
  FINANCIAL MODELLING && DATA ANALYTICS
 ```
+
+ # FOREX PROP FUNDS
  
+```
+FUNDED NEXT
+FUNDING TRADERS.COM
+```
+
+# QUANT ENGINEER
+
+```
+=>PEPPERSTONE Broker
+=> Interactive Broker
+=>DUKASCOPY-Swiss Banking Group
+=>QUANT CONNECT - Secure Data Centre for Models [Telecommunication, Short Fibre Cable, Performant Quant Models, Performant Hardware]
+```
