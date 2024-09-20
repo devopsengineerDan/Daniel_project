@@ -2981,7 +2981,7 @@ Power Button Behaviour -> Suspend
 
 
 ```
-👉 QUICK SOLUTION
+👉 QUICK SOLUTION KERNEL OS OPERATIONS
 
 ==> OFFLINE
 Restart/Reboot
