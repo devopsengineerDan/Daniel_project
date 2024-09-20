@@ -1800,7 +1800,6 @@ Cloudflare -> dancummoruri@gmail.com : <span class="Button-label">1Paste, drop, 
 Google AdSense -> dancunmoruri@gmail.com 
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
 INGOT->DAVIDQwerty@987#
 
 ---------------------------------
@@ -1820,8 +1819,9 @@ Server: IngotAfrica-Demo2
 
 For security reasons, we recommend that you change your MetaTrader password after your first login.
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-
+WEB -> QuantTrader@97#
+ACC -> DAVIDTrader@97#
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 -----------------------------------------------------------------
 
