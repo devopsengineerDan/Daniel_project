@@ -1970,10 +1970,26 @@ Position Sizing + Lot Sizing Formulae ======> 4a
 
 ========================================================================================
 
-MT5 CHART CUSTOMIZATION
+
+🧨 MT5 CHART CUSTOMIZATION
 SCHEME :  Colour on white
 BACKGROUND : Old Lace
 FOREGROUND :  Black
+
+
+========================================================================================
+
+
+🧨 TRADING VIEW TOOLS
+Rectangle
+Path
+Ellipse
+Long Position
+Short Position
+Trend
+Hoizontal Line 
+Horizontal Ray
+Price Range
 ```
 
 
