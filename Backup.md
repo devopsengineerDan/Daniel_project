@@ -1822,6 +1822,8 @@ For security reasons, we recommend that you change your MetaTrader password afte
 WEB -> QuantTrader@97#
 ACC -> DAVIDTrader@97#
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Forex Blue   quantdancun -> dancunmoruri@gmail.com -> DancunIQ@543&&
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 -----------------------------------------------------------------
 
