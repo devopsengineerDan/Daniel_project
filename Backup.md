@@ -1917,6 +1917,8 @@ NORMAL BUSINESS TRANSACTIONS
 
 
 ```
+TRADING [Forex Trading and Stock Trading]
+ 
 =====> PSYCHOLOGIST 🌀 Dr. Steven Burger
 =====> 🧨🧨🧨🧨🧨🧨 FinCrime Agent
 
@@ -1993,6 +1995,40 @@ Trend
 Hoizontal Line 
 Horizontal Ray
 Price Range
+```
+
+
+```
+🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
+Indicator
+FluidTrades - SMC Lite
+
+=======================================================================================================================================
+
+
+
+
+Specific|Measurable|Achievable|Realistic|Time Bound
+---------------------------------------------------------
+****INGOT NOTES*****
+BEST-MARKETABLE-IRREPLACABLE
+---------------------------------------------------------
+RESPECT LAWS + MANAGE RESOURCES + RISK MANAGEMENT
+
+
+
+
+=======================================================================================================================================
+
+OPPOSITE IS TRUE AND RESULTS TO A LOSS
+1 Subscribe to an A Booking Broker ===> OPPOSITE is a B Booking Broker 
+2 Large Deposit, Large Lot size, Large Leverage | Small Deposit, Small Lot size, Small Leverage
+3 Always use Trailing Stop Loss(Modify Stop Loss)
+
+
+
+
+🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
 ```
 
 
