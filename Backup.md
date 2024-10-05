@@ -630,7 +630,7 @@ Mobile App (Native)
 
 
 
-👉 PROGRAMMING LANGUAGE
+👉 PROGRAMMING LANGUAGES
 
 ----------
 HTML & HTMLX
@@ -652,6 +652,9 @@ BASH
 🌀 MICROPYTHON(Python Implementation)
 POSIX
 ----------
+
+
+
 👉 FRAMEWORKS
 
 ------------
@@ -667,6 +670,14 @@ DESKTOP
 Python -> Tkinter[In-built/Standard] -> Kivy
 Rust ->`Tauri
 ------------
+
+
+
+👉 CLOUD SERVICES
+Amazon(Large Applications), Google(Linux), Azure(Microsoft Windows)
+
+👉 DEPLOYMENT
+Heroku, Linode, NameCheap
 ```
 
 
@@ -5246,7 +5257,7 @@ Cybersecurity
 Computer Networks
 
 Data Science, AI
-Web, Stand-alone Applications
+[Web, Stand-alone, Console] Applications
 I/O Processes
 ```
 
@@ -5332,7 +5343,7 @@ APPLICATION
 - Define object data (e.g) 32 bit or 64 bit.
 ***
 ASYMPTOTIC GROWTH => Linear Algorithm is Best in the very long-term/dynamic.
-BIG-O NOTATION => Check summary
+BIG-O NOTATION => Check summary pdfs and BOOK
 ***
 ```
 
