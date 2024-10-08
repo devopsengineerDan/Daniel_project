@@ -2042,6 +2042,7 @@ RESPECT LAWS + MANAGE RESOURCES + RISK MANAGEMENT
 
 ******🧨 FX BLUE ==> AWARE of BASE CURRENCY STRENGTH [USD] 🧨****
 *****🧨 FOREX FACTORY ==> AWARE of FUNDAMENTALS [Economic News, Fed Speech, Politics, Natural Calamities] 🧨*****
+******🧨 NOT EVERY DAY IS A TRADING DAY 🧨****
 
 FUNDAMENTAL ====> 5 MINUTES
 NORMAL DAY  ====> 15 MINUTES
@@ -2051,7 +2052,8 @@ NORMAL DAY  ====> 15 MINUTES
 7. Be PATIENT with the trading market then PLACE YOUR TRADE
 8. Trade AFTER a CONFIRMATION CANDLESTICK
 9. ====> DO NOT Trade small wick and small body
-   ====> DO NOT Trade CONSOLIDATION small wick and small body  
+   ====> DO NOT Trade CONSOLIDATION small wick and small body
+   ====> DO NOT Trade Doji Candlestick / Indecision / Equal Sellers and Buyers Volumes  
 
 
 
