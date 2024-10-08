@@ -169,7 +169,10 @@ ENTERTAINMENT         FEAR (PROSTITUTE)               WAY <=> ENERGY
 FOOD+WATER            DETORIORATE (DRUNKARD)          REALISTIC(OWN) <=> VIBRATION    
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- Portfolio Gain/ Brokerage                                       Salary                                SHORT/LOSS/STEAL  => Result to Destruction then DEATH
+ Portfolio Gain/ Brokerage
+                                         Salary
+
+                                                               🧨🧨🧨 SHORT/LOSS/STEAL  => Result to Destruction then DEATH
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -321,19 +324,19 @@ MEAN                                          =>  PRODUCTIVE and RESULT ORIENTED
 
 ```
 🌀 SECURITY(PERFECTION/COMPLETE) AND SILENCE
-1 Cybersecurity*
+1 Cybersecurity🧨🧨🧨
 2 Armory
 3 Chess
 
                                                                🌀 ACCURATE AND PRIORITY(TIME BOUND)
-                                                               1 Silence, Listening*
+                                                               1 Silence, Listening🧨🧨🧨
 							       2 Reading
 	                                                       3 Speaking*
                                                                4 Golf
 
 
       🌀 ADAPT IN (CONTEXTUAL SCOPE)
-      1 Forex*
+      1 Forex🧨🧨🧨
       2 Pool table*
       3 Swimming
 
@@ -2022,7 +2025,7 @@ FluidTrades - SMC Lite
 Specific|Measurable|Achievable|Realistic|Time Bound
 ---------------------------------------------------------
 ****INGOT NOTES*****
-BEST-MARKETABLE-IRREPLACABLE
+🧨🧨🧨BEST<->MARKETABLE<->IRREPLACABLE🧨🧨🧨
 ---------------------------------------------------------
 RESPECT LAWS + MANAGE RESOURCES + RISK MANAGEMENT
 
@@ -2031,10 +2034,23 @@ RESPECT LAWS + MANAGE RESOURCES + RISK MANAGEMENT
 
 =======================================================================================================================================
 
-OPPOSITE IS TRUE AND RESULTS TO A LOSS
+🧨🧨🧨OPPOSITE IS TRUE AND RESULTS TO A LOSS WHEN PLACING TRADES🧨🧨🧨
 1 Subscribe to an A Booking Broker ===> OPPOSITE is a B Booking Broker 
 2 Large Deposit, Large Lot size, Large Leverage | Small Deposit, Small Lot size, Small Leverage
-3 Always use Trailing Stop Loss(Modify Stop Loss)
+3 Always use Trailing Take Profit and Stop Loss(Modify Take Profit and Stop Loss)
+
+
+
+*****🧨 AWARE of FUNDAMENTALS[Economic News, Fed Speech, Politics, Natural Calamities] 🧨***** 
+FUNDAMENTAL ====> 5 MINUTES
+NORMAL DAY  ====> 15 MINUTES
+4. Trade after a FUNDAMENTAL.
+5. Trade what you see not what you think.
+6. Trade in harmony with the Trend not AGAINST.
+7. Be PATIENT with the trading market then PLACE YOUR TRADE
+8. Trade AFTER a CONFIRMATION CANDLESTICK
+9. ====> DO NOT Trade small wick and small body
+   ====> DO NOT Trade CONSOLIDATION small wick and small body  
 
 
 
