@@ -35,7 +35,8 @@ Private Finance
  Econometrics
  Derivatives
 ```
- ----------------------------
+ 
+ #  33 MASTERY
 ```
  FINANCIAL MODELLING && DATA ANALYTICS
 ```
@@ -50,8 +51,13 @@ FUNDING TRADERS.COM
 # QUANT ENGINEER
 
 ```
-=>PEPPERSTONE Broker
+=> https://x.com/pyquantnews
+=> https://www.pyquantnews.com/
+```
+ ----------------------------
+```
+=> PEPPERSTONE Broker
 => Interactive Broker
-=>DUKASCOPY-Swiss Banking Group
-=>QUANT CONNECT - Secure Data Centre for Models [Telecommunication, Short Fibre Cable, Performant Quant Models, Performant Hardware]
+=> DUKASCOPY-Swiss Banking Group
+=> QUANT CONNECT - Secure Data Centre for Models [Telecommunication, Short Fibre Cable, Performant Quant Models, Performant Hardware]
 ```
