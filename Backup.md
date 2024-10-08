@@ -2040,8 +2040,9 @@ RESPECT LAWS + MANAGE RESOURCES + RISK MANAGEMENT
 3 Always use Trailing Take Profit and Stop Loss(Modify Take Profit and Stop Loss)
 
 
+******🧨 FX BLUE ==> AWARE of BASE CURRENCY STRENGTH [USD] 🧨****
+*****🧨 FOREX FACTORY ==> AWARE of FUNDAMENTALS [Economic News, Fed Speech, Politics, Natural Calamities] 🧨*****
 
-*****🧨 AWARE of FUNDAMENTALS[Economic News, Fed Speech, Politics, Natural Calamities] 🧨***** 
 FUNDAMENTAL ====> 5 MINUTES
 NORMAL DAY  ====> 15 MINUTES
 4. Trade after a FUNDAMENTAL.
