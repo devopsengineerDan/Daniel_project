@@ -2039,11 +2039,15 @@ RESPECT LAWS + MANAGE RESOURCES + RISK MANAGEMENT
 2 Large Deposit, Large Lot size, Large Leverage | Small Deposit, Small Lot size, Small Leverage
 3 Always use Trailing Take Profit and Stop Loss(Modify Take Profit and Stop Loss)
 
-
+-------------------------------------------------------------------------------------------------------------------------------
 ******🧨 FX BLUE ==> AWARE of BASE CURRENCY STRENGTH [USD] 🧨****
 *****🧨 FOREX FACTORY ==> AWARE of FUNDAMENTALS [Economic News, Fed Speech, Politics, Natural Calamities] 🧨*****
 ******🧨 NOT EVERY DAY IS A TRADING DAY 🧨****
-
+-------------------------------------------------------------------------------------------------------------------------------
+******🧨 DO NOT EXCHANGE MONEY WITH LIQUID PROVIDER, ONCE PRICE HAS REACHED HIGHEST POINT,  EXIT TRADE 🧨****
+******🧨 DO NOT TRADE RESISTANCE OR SUPPORT 🧨****
+******🧨 DO NOT TRADE HIGHEST POINT => BEAR TRAP OR LOWEST POINT => BULL TRAP 🧨****
+-------------------------------------------------------------------------------------------------------------------------------
 FUNDAMENTAL ====> 5 MINUTES
 NORMAL DAY  ====> 15 MINUTES
 4. Trade after a FUNDAMENTAL.
