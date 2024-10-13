@@ -2048,12 +2048,18 @@ RESPECT LAWS + MANAGE RESOURCES + RISK MANAGEMENT
 ******🧨 DO NOT TRADE RESISTANCE OR SUPPORT 🧨****
 ******🧨 DO NOT TRADE HIGHEST POINT => BEAR TRAP OR LOWEST POINT => BULL TRAP 🧨****
 -------------------------------------------------------------------------------------------------------------------------------
-FUNDAMENTAL ====> 2 MINUTES FOR ENTRY, CHECK ANALYSIS ON 15 MINUTES, FOREX FACTORY *** REFRESH ***  1 MIN AND 30 SECONDS
-% FOR SPIKE == WICK, K FOR MOVEMENT == BODY
-PLACE TRADE WHEN  BODY IS FORMED
+🧨 FUNDAMENTAL ====> 2 MINUTES FOR ENTRY, CHECK ANALYSIS ON 15 MINUTES, FOREX FACTORY *** REFRESH ***  1 MIN AND 30 SECONDS 🧨
+🧨 % FOR SPIKE == WICK, K FOR MOVEMENT == BODY 🧨
+🧨 PLACE TRADE WHEN  BODY IS FORMED 🧨
 ========================================================
-NORMAL DAY  ====> 15 MINUTES FOR ENTRY, CHECK ANALYSIS ON 4HR, 1HR, 1DY, 1WK, 1MTH
+🧨 NORMAL DAY  ====> 15 MINUTES FOR ENTRY, CHECK ANALYSIS ON 4HR, 1HR, 1DY, 1WK, 1MTH 🧨
 ========================================================
+Higher Time Frame    Lower Time Frame
+	W		H4
+	D		H1
+	H4		M15
+	H1		M5
+	M15		M1
 -------------------------------------------------------------------------------------------------------------------------------
 4. Trade after a FUNDAMENTAL.
 5. Trade what you see not what you think.
