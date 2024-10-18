@@ -2046,7 +2046,7 @@ RESPECT LAWS + MANAGE RESOURCES + RISK MANAGEMENT
 -------------------------------------------------------------------------------------------------------------------------------
 ******🧨 DO NOT EXCHANGE MONEY WITH LIQUID PROVIDER, ONCE PRICE HAS REACHED HIGHEST POINT,  EXIT TRADE 🧨****
 ******🧨 DO NOT TRADE RESISTANCE OR SUPPORT 🧨****
-******🧨 DO NOT TRADE HIGHEST POINT => BEAR TRAP OR LOWEST POINT => BULL TRAP 🧨****
+******🧨 DO NOT TRADE STOP LOSS HUNT/SWEEP For Example: HIGHEST POINT => BEAR TRAP OR LOWEST POINT => BULL TRAP 🧨****
 -------------------------------------------------------------------------------------------------------------------------------
 🧨 FUNDAMENTAL ====> 2 MINUTES FOR ENTRY, CHECK ANALYSIS ON 15 MINUTES, FOREX FACTORY *** REFRESH ***  1 MIN AND 30 SECONDS 🧨
 🧨 % FOR SPIKE == WICK, K FOR MOVEMENT == BODY 🧨
