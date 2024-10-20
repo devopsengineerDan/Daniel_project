@@ -35,8 +35,11 @@ Private Finance
  Econometrics
  Derivatives
 ```
+
+ ----------------------------------------------------------------------------------------------
  
  #  33 MASTERY
+ 
 ```
  FINANCIAL MODELLING && DATA ANALYTICS
 ```
@@ -46,6 +49,7 @@ Private Finance
 ```
 FUNDED NEXT
 FUNDING TRADERS.COM
+SMB Capital
 ```
 
 # QUANT ENGINEER
@@ -61,3 +65,7 @@ FUNDING TRADERS.COM
 => DUKASCOPY-Swiss Banking Group
 => QUANT CONNECT - Secure Data Centre for Models [Telecommunication, Short Fibre Cable, Performant Quant Models, Performant Hardware]
 ```
+
+![1](https://github.com/user-attachments/assets/021b4fc1-56f4-45fc-a384-abfde6508ef0)
+
+![2](https://github.com/user-attachments/assets/572a9efe-7f3e-492c-803f-959aef9bdbba)
