@@ -2027,9 +2027,12 @@ Specific|Measurable|Achievable|Realistic|Time Bound
 
 ---------------------------------------------------------
 
-****FOREX BACKUP*****
-****INGOT NOTES*****
-****HFM NOTES*****
+👉 ****FOREX BACKUP*****
+👉 ****INGOT BROKER NOTES*****
+👉 ****HFM BROKER NOTES*****
+👉 ****PHOTON TRADING NOTES*****
+👉 ****KEVIN SUMMARY NOTES*****
+
 
 🧨🧨🧨BEST<->MARKETABLE<->IRREPLACABLE🧨🧨🧨
 
@@ -2086,6 +2089,11 @@ Higher Time Frame    Lower Time Frame
 👉 Trade Timing
 👉 Trade Style
 👉 Trade Structure ===> Entry and Exit
+
+
+
+👉 MANAGE YOUR RESOURCES
+👉 RISK MANAGEMENT
 
 
 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
