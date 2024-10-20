@@ -2014,6 +2014,7 @@ Price Range
 
 ```
 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
+
 Indicator
 FluidTrades - SMC Lite
 
@@ -2023,10 +2024,17 @@ FluidTrades - SMC Lite
 
 
 Specific|Measurable|Achievable|Realistic|Time Bound
+
 ---------------------------------------------------------
+
+****FOREX BACKUP*****
 ****INGOT NOTES*****
+****HFM NOTES*****
+
 🧨🧨🧨BEST<->MARKETABLE<->IRREPLACABLE🧨🧨🧨
+
 ---------------------------------------------------------
+
 RESPECT LAWS + MANAGE RESOURCES + RISK MANAGEMENT
 
 
@@ -2034,9 +2042,10 @@ RESPECT LAWS + MANAGE RESOURCES + RISK MANAGEMENT
 
 =======================================================================================================================================
 
-🧨🧨🧨OPPOSITE IS TRUE AND RESULTS TO A LOSS WHEN PLACING TRADES🧨🧨🧨
+🧨🧨🧨🧨🧨🧨🧨🧨🧨OPPOSITE IS TRUE AND RESULTS TO A LOSS WHEN PLACING TRADES🧨🧨🧨🧨🧨🧨🧨🧨🧨
+
 1 Subscribe to an A Booking Broker ===> OPPOSITE is a B Booking Broker 
-2 Large Deposit, Large Lot size, Large Leverage | Small Deposit, Small Lot size, Small Leverage
+2 ===> PSYCHOLOGY ===> Large Deposit, Large Lot size, Large Leverage | Small Deposit, Small Lot size, Small Leverage
 3 Always use Trailing Take Profit and Stop Loss(Modify Take Profit and Stop Loss)
 
 -------------------------------------------------------------------------------------------------------------------------------
@@ -2071,6 +2080,12 @@ Higher Time Frame    Lower Time Frame
    ====> DO NOT Trade Doji Candlestick / Indecision / Equal Sellers and Buyers Volumes  
 
 
+👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉 TRADING EDGE
+👉 Trade Candlestick
+👉 Trade Setup
+👉 Trade Timing
+👉 Trade Style
+👉 Trade Structure ===> Entry and Exit
 
 
 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
