@@ -1993,6 +1993,7 @@ Position Sizing + Lot Sizing Formulae ======> 4a
 
 
 🧨 MT5 CHART CUSTOMIZATION
+
 SCHEME :  Colour on white
 BACKGROUND : Old Lace
 FOREGROUND :  Black
@@ -2002,6 +2003,7 @@ FOREGROUND :  Black
 
 
 🧨 TRADING VIEW TOOLS
+
 Rectangle
 Path
 Ellipse
@@ -2085,6 +2087,7 @@ Higher Time Frame    Lower Time Frame
    ====> DO NOT Trade CONSOLIDATION small wick and small body
    ====> DO NOT Trade Doji Candlestick / Indecision / Equal Sellers and Buyers Volumes  
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉 TRADING EDGE
 👉 Trade Candlestick
@@ -2098,6 +2101,17 @@ Higher Time Frame    Lower Time Frame
 
 👉 MANAGE YOUR RESOURCES
 👉 RISK MANAGEMENT
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉 RETURNS
+👉 Multiple Orders of 1 Lot size
+👉 Multiple Orders of 1 Lot size + Other Lot Sizes
+
+
+👉 One Order of 1 Lot size
+
+
 
 
 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
