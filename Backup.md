@@ -1936,11 +1936,13 @@ TRADING [Forex Trading and Stock Trading]
 =====> PSYCHOLOGIST 🌀 Dr. Steven Burger
 =====> 🧨🧨🧨🧨🧨🧨 FinCrime Agent
 
-🌀 David, Bull
+🌀 David, BULL[When You See It Swing The Bat Hard]
 🌀 Daniel
 --------------------------------------------
 🌀 Kevin
 🌀 Photon Trading
+
+🌀 SMB Capital
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -2014,6 +2016,7 @@ Price Range
 
 ```
 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
+
 
 Indicator
 FluidTrades - SMC Lite
@@ -2089,6 +2092,7 @@ Higher Time Frame    Lower Time Frame
 👉 Trade Timing
 👉 Trade Style
 👉 Trade Structure ===> Entry and Exit
+👉 BULL[When You See It Swing The Bat Hard]
 
 
 
