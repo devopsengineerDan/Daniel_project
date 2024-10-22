@@ -246,11 +246,11 @@ PROPERTY=> Farming Projects, Academies, [Rentals] Real Estate Properties, [Sell]
 2 ===> LAYERING(High Performance_in_PRODUCTIVITY)
 
 
-
-
-LARGE
-MEDIUM
-SMALL
+SUPREME
+CENTRAL ===> Central Bank
+LARGE   ===> MARKET MAKER ===> Institutional Investor
+MEDIUM  ===> MARKET MOVER/ MARKET SHAKER ===> Super Banks
+SMALL   ===> Retail Investor
 
 
 
@@ -468,8 +468,9 @@ HTML && CSS
                Python
 
 Rust 
-
+               Zig
                C
+
 
 ✅ [ANIMAL]
 Snake & Lion 
