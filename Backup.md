@@ -2096,7 +2096,7 @@ Higher Time Frame    Lower Time Frame
 👉 Trade Timing
 👉 Trade Style
 👉 Trade Structure ===> Entry and Exit
-👉 BULL[When You See It Swing The Bat Hard]
+👉 BULL ===> [When You See It Swing The Bat Hard]
 
 
 
@@ -2106,8 +2106,8 @@ Higher Time Frame    Lower Time Frame
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉 RETURNS
-👉 Multiple Orders of 1 Lot size
-👉 Multiple Orders of 1 Lot size + Other Lot Sizes
+👉 Multiple Orders of 1 Lot size                              👉 STOP LOSS + [ TP + CLOSE ALL TRADES ]
+👉 BULL ===> Multiple Orders of 1 Lot size + Other Lot Sizes  👉 STOP LOSS + [ No TP + CLOSE ALL TRADES ]
 
 
 👉 One Order of 1 Lot size
