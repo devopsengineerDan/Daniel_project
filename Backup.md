@@ -2084,14 +2084,16 @@ Higher Time Frame    Lower Time Frame
 6. Trade in harmony with the Trend not AGAINST.
 7. Be PATIENT with the trading market then PLACE YOUR TRADE
 8. Trade AFTER a CONFIRMATION CANDLESTICK
-9. ====> DO NOT Trade small wick and small body
+9. AVOID THESE CANDLESTICKS
+   ====> DO NOT Trade small wick and small body
    ====> DO NOT Trade CONSOLIDATION small wick and small body
    ====> DO NOT Trade Doji Candlestick / Indecision / Equal Sellers and Buyers Volumes  
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉 TRADING EDGE
+👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉 TRADING EDGE 🧨ONLY PLACE QUALITY TRADES🧨
 👉 Trade Candlestick
+   15 MIN [5 MIN => OBSERVATION] [10 MIN => ACTUAL TRADE]
 👉 Trade Setup
 👉 Trade Timing
 👉 Trade Style
@@ -2105,9 +2107,9 @@ Higher Time Frame    Lower Time Frame
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉 RETURNS
-👉 Multiple Orders of 1 Lot size                              👉 STOP LOSS + [ TP + CLOSE ALL TRADES ]
-👉 BULL ===> Multiple Orders of 1 Lot size + Other Lot Sizes  👉 STOP LOSS + [ No TP + CLOSE ALL TRADES ]
+👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉 RETURNS 🧨ONLY PLACE QUALITY TRADES🧨
+👉 Multiple Orders of 1 Lot size                              👉 STOP LOSS + 5 PIPS [ No TP + CLOSE ALL TRADES ]
+👉 BULL ===> Multiple Orders of 1 Lot size + Other Lot Sizes  👉 STOP LOSS + 10 PIPS [ No TP + CLOSE ALL TRADES ]
 
 
 👉 One Order of 1 Lot size
