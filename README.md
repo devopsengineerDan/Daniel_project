@@ -63,6 +63,8 @@ Private Finance
 
 ![2](https://github.com/user-attachments/assets/572a9efe-7f3e-492c-803f-959aef9bdbba)
 
+![photo_2024-10-23_11-48-26](https://github.com/user-attachments/assets/e9fc2a1b-5da7-45ad-8716-c058cd513eae)
+
  ----------------------------------------------------------------------------------------------
  
 ## FOREX PROP FUNDS
