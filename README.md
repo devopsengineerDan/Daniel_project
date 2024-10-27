@@ -59,7 +59,6 @@ FUNDED NEXT
 FUNDING TRADERS.COM
 SMB Capital
 ```
------------------------------------------------------------------------------------------------
 
 ## TRADING RESOURCES
 
