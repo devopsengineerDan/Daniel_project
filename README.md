@@ -157,8 +157,6 @@ Horizontal Ray
 Price Range
 ```
 
-----------------------------------------------------------------------------------------------
-
 # TRADING BEST PRACTICES
 
 ![1](https://github.com/user-attachments/assets/021b4fc1-56f4-45fc-a384-abfde6508ef0)
@@ -167,9 +165,11 @@ Price Range
 
 ![photo_2024-10-23_11-48-26](https://github.com/user-attachments/assets/e9fc2a1b-5da7-45ad-8716-c058cd513eae)
 
+-----------------------------------------------------------------------------------------------
 
+# ENTRY CHECKLIST BEST PRACTICES
 
-# ENTRY CHECKLIST
+-----------------------------------------------------------------------------------------------
 
 # DAWN STRATEGY BEST PRACTICES
 
@@ -248,8 +248,10 @@ Higher Time Frame    Lower Time Frame
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉 TRADING EDGE 🧨ONLY PLACE QUALITY TRADES🧨
-👉 Trade Candlestick
-   15 MIN [5 MIN => OBSERVATION] [10 MIN => ACTUAL TRADE]
+👉 ONLY Trade Candlestick
+   🧨 15 MIN [5 MIN => OBSERVATION] [10 MIN => ACTUAL TRADE]
+   🧨 First Three Candlesticks -> High Probability Trades | High Profit| Low Risk
+   🧨 After First Three Candlesticks -> Less Probability Trades | Low Profit| High Risk
 👉 Trade Setup
 👉 Trade Timing
 👉 Trade Style
