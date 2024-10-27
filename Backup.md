@@ -1932,8 +1932,8 @@ NORMAL BUSINESS TRANSACTIONS
 
 
 ```
-TRADING [Forex Trading and Stock Trading]
- 
+👉 TRADING RESOURCES
+
 =====> PSYCHOLOGIST 🌀 Dr. Steven Burger
 =====> 🧨🧨🧨🧨🧨🧨 FinCrime Agent
 
@@ -1947,11 +1947,12 @@ TRADING [Forex Trading and Stock Trading]
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+STOCK EXCHANGE   
+🌀 Howard Marks
+🌀 Buffet -> Berkshire Hathawa
 
-FOREX EXCHANGE                                                                                                                                              STOCK EXCHANGE                   
-                           🌀 Howard Marks                                                                                                                  🌀 Buffet -> Berkshire Hathawa
-
-			   
+FOREX EXCHANGE                                                                                                                  
+                                                   		   
 🌀 Jim Simons -> Medallion Fund
 🌀 Alex Gerko -> XTX
 
@@ -1963,163 +1964,7 @@ FOREX EXCHANGE                                                                  
 🌀 Quant - Korean Yuppie -> https://www.youtube.com/watch?v=kFiiMymTtO0
 🌀 Quant Books - QuantPy -> https://www.youtube.com/watch?v=ZSavDAaKy50
 🌀 Quant Resources - Coding Jesus -> https://www.youtube.com/watch?v=cXNL4JKBL6w
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-MT4 3b
-Position Sizing + Lot Sizing Formulae ======> 4a
-======> Trading Simulator 4a -> Search for Kion Hi 
-======> Forex Position Sizing Calculator ---> Adam Khoo
-
-
-
-======> Back Test -> Soft4FX, Deriv, GoChatting
-======> Identify Strength of Currency -> FX Blue
-======> 🧨 Dollar Index => USDX / DXY
-======> NEWS -> Forex Factory(Adjust Time to My Local Time and Zone)
-
-
-======> TRADING -> TradingView
-1 GOLD
-2 -> Stock
-  -> EQUITY -> Derivatives, Options
-  -> Currencies ,CFDs
-
-
-
-======> Journaling -> [FREE]MyFXbook -> Search for PiranhaProfits Forex Trade Journal [PAID]Edgewonk, Trading Vault
-
-
-========================================================================================
-
-
-🧨 MT5 CHART CUSTOMIZATION
-
-SCHEME :  Colour on white
-BACKGROUND : Old Lace
-FOREGROUND :  Black
-
-
-========================================================================================
-
-
-🧨 TRADING VIEW TOOLS
-
-Rectangle
-Path
-Ellipse
-Long Position
-Short Position
-Trend
-Hoizontal Line 
-Horizontal Ray
-Price Range
 ```
-
-
-```
-🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
-
-
-Indicator
-FluidTrades - SMC Lite
-
-=======================================================================================================================================
-
-
-
-
-Specific|Measurable|Achievable|Realistic|Time Bound
-
----------------------------------------------------------
-
-👉 ****FOREX BACKUP*****
-👉 ****INGOT BROKER NOTES*****
-👉 ****HFM BROKER NOTES*****
-👉 ****PHOTON TRADING NOTES*****
-👉 ****KEVIN SUMMARY NOTES*****
-
-
-🧨🧨🧨BEST<->MARKETABLE<->IRREPLACABLE🧨🧨🧨
-
----------------------------------------------------------
-
-RESPECT LAWS + MANAGE RESOURCES + RISK MANAGEMENT
-
-
-
-
-=======================================================================================================================================
-
-🧨🧨🧨🧨🧨🧨🧨🧨🧨OPPOSITE IS TRUE AND RESULTS TO A LOSS WHEN PLACING TRADES🧨🧨🧨🧨🧨🧨🧨🧨🧨
-
-1 Subscribe to an A Booking Broker ===> OPPOSITE is a B Booking Broker 
-2 ===> PSYCHOLOGY ===> Large Deposit, Large Lot size, Large Leverage | Small Deposit, Small Lot size, Small Leverage
-3 Always use Trailing Take Profit and Stop Loss(Modify Take Profit and Stop Loss)
-
--------------------------------------------------------------------------------------------------------------------------------
-******🧨 FX BLUE ==> AWARE of BASE CURRENCY STRENGTH [USD] 🧨****
-*****🧨 FOREX FACTORY ==> AWARE of FUNDAMENTALS [Economic News, Fed Speech, Politics, Natural Calamities] 🧨*****
-******🧨 NOT EVERY DAY IS A TRADING DAY 🧨****
--------------------------------------------------------------------------------------------------------------------------------
-******🧨 DO NOT EXCHANGE MONEY WITH LIQUID PROVIDER, ONCE PRICE HAS REACHED HIGHEST POINT,  EXIT TRADE 🧨****
-******🧨 DO NOT TRADE RESISTANCE OR SUPPORT 🧨****
-******🧨 DO NOT TRADE STOP LOSS HUNT/SWEEP For Example: HIGHEST POINT => BEAR TRAP OR LOWEST POINT => BULL TRAP 🧨****
--------------------------------------------------------------------------------------------------------------------------------
-🧨 FUNDAMENTAL ====> 2 MINUTES FOR ENTRY, CHECK ANALYSIS ON 15 MINUTES, FOREX FACTORY *** REFRESH ***  1 MIN AND 30 SECONDS 🧨
-🧨 % FOR SPIKE == WICK, K FOR MOVEMENT == BODY 🧨
-🧨 PLACE TRADE WHEN  BODY IS FORMED 🧨
-========================================================
-🧨 NORMAL DAY  ====> 15 MINUTES FOR ENTRY, CHECK ANALYSIS ON 4HR, 1HR, 1DY, 1WK, 1MTH 🧨
-========================================================
-Higher Time Frame    Lower Time Frame
-	W		H4
-	D		H1
-	H4		M15
-	H1		M5
-	M15		M1
--------------------------------------------------------------------------------------------------------------------------------
-4. Trade after a FUNDAMENTAL.
-5. Trade what you see not what you think.
-6. Trade in harmony with the Trend not AGAINST.
-7. Be PATIENT with the trading market then PLACE YOUR TRADE
-8. Trade AFTER a CONFIRMATION CANDLESTICK
-9. AVOID THESE CANDLESTICKS
-   ====> DO NOT Trade small wick and small body
-   ====> DO NOT Trade CONSOLIDATION small wick and small body
-   ====> DO NOT Trade Doji Candlestick / Indecision / Equal Sellers and Buyers Volumes  
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉 TRADING EDGE 🧨ONLY PLACE QUALITY TRADES🧨
-👉 Trade Candlestick
-   15 MIN [5 MIN => OBSERVATION] [10 MIN => ACTUAL TRADE]
-👉 Trade Setup
-👉 Trade Timing
-👉 Trade Style
-👉 Trade Structure ===> Entry and Exit
-👉 BULL ===> [When You See It Swing The Bat Hard]
-
-
-
-👉 MANAGE YOUR RESOURCES
-👉 RISK MANAGEMENT
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉 RETURNS 🧨ONLY PLACE QUALITY TRADES🧨
-👉 [ 0.1 LOT ] Multiple Orders of 1 Lot size                              👉 STOP LOSS + 5 PIPS [ No TP + CLOSE ALL TRADES ]
-👉 [ 1 LOT ] BULL ===> Multiple Orders of 1 Lot size + Other Lot Sizes  👉 STOP LOSS + 10 PIPS [ No TP + CLOSE ALL TRADES ] A* TRADE
-
-
-👉 One Order of 1 Lot size
-
-
-
-
-🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
-```
-
 
 ```
 👉 BEST PRACTICES
