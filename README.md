@@ -59,24 +59,7 @@ FUNDED NEXT
 FUNDING TRADERS.COM
 SMB Capital
 ```
-
-------------------------------------------------------------------------------------------------
-
-## STRATEGY SETTINGS
-
-![EMA Strategy](https://github.com/user-attachments/assets/429779b1-5f95-4f30-865a-95e1524a0a44)
-
-![SMC Strategy](https://github.com/user-attachments/assets/ceaccd0e-60e5-4ef2-9e48-b3385a19e605)
-
-## TRADING BEST PRACTICES
-
-![1](https://github.com/user-attachments/assets/021b4fc1-56f4-45fc-a384-abfde6508ef0)
-
-![2](https://github.com/user-attachments/assets/572a9efe-7f3e-492c-803f-959aef9bdbba)
-
-![photo_2024-10-23_11-48-26](https://github.com/user-attachments/assets/e9fc2a1b-5da7-45ad-8716-c058cd513eae)
-
- ----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 
 ## TRADING RESOURCES
 
@@ -113,9 +96,15 @@ FOREX EXCHANGE
 🌀 Quant Resources - Coding Jesus -> https://www.youtube.com/watch?v=cXNL4JKBL6w
 ```
 
-----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
-## SETTINGS
+## STRATEGY SETTINGS
+
+![EMA Strategy](https://github.com/user-attachments/assets/429779b1-5f95-4f30-865a-95e1524a0a44)
+
+![SMC Strategy](https://github.com/user-attachments/assets/ceaccd0e-60e5-4ef2-9e48-b3385a19e605)
+
+## PLATFORM SETTINGS
 
 ```
 MT4 3b
@@ -168,9 +157,21 @@ Horizontal Ray
 Price Range
 ```
 
+----------------------------------------------------------------------------------------------
+
+# TRADING BEST PRACTICES
+
+![1](https://github.com/user-attachments/assets/021b4fc1-56f4-45fc-a384-abfde6508ef0)
+
+![2](https://github.com/user-attachments/assets/572a9efe-7f3e-492c-803f-959aef9bdbba)
+
+![photo_2024-10-23_11-48-26](https://github.com/user-attachments/assets/e9fc2a1b-5da7-45ad-8716-c058cd513eae)
+
+
+
 # ENTRY CHECKLIST
 
-# BEST PRACTICES
+# DAWN STRATEGY BEST PRACTICES
 
 ```
 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
