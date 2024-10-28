@@ -165,6 +165,15 @@ Price Range
 
 ![photo_2024-10-23_11-48-26](https://github.com/user-attachments/assets/e9fc2a1b-5da7-45ad-8716-c058cd513eae)
 
+===>TRADE VUE PLATFORM 
+
+HIGHLIGHT REEL
+EASY MONEY TRADE
+
+DAILY REPORT CARD TRADE
+DAILY TRADING JOURNAL 
+DAILY PLAYBOOK
+
 -----------------------------------------------------------------------------------------------
 
 # TIME ZONES BEST PRACTICES
