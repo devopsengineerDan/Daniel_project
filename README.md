@@ -179,7 +179,7 @@ Price Range
 
 -----------------------------------------------------------------------------------------------
 
-# TIME ZONES BEST PRACTICES
+### 1 TIME ZONES BEST PRACTICES
 
 ![photo_19_2024-10-18_20-40-19](https://github.com/user-attachments/assets/5f31b35c-14c4-4c0c-8496-64313da30b2c)
 
@@ -187,10 +187,14 @@ Price Range
 
 -----------------------------------------------------------------------------------------------
 
-# ENTRY CHECKLIST BEST PRACTICES
+### 2 TRADE BIAS AND TRADE ENTRY CHECKLIST BEST PRACTICES
 
 ![Entry](https://github.com/user-attachments/assets/50d611ea-f3b4-405f-bb4d-07231fb783ce)
 
+
+-----------------------------------------------------------------------------------------------
+
+### 3 TRADE RULES, EQUITY MANAGEMENT, RISK MANAGEMENT
 
 -----------------------------------------------------------------------------------------------
 
