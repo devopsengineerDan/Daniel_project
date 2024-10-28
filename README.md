@@ -169,6 +169,8 @@ Price Range
 
 # ENTRY CHECKLIST BEST PRACTICES
 
+![entry](https://github.com/user-attachments/assets/23ded758-fb84-4f18-ba6f-f686823ac7a0)
+
 -----------------------------------------------------------------------------------------------
 
 # DAWN STRATEGY BEST PRACTICES
