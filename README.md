@@ -157,7 +157,7 @@ Horizontal Ray
 Price Range
 ```
 
-# TRADING BEST PRACTICES
+# ELITE TRADING BEST PRACTICES
 
 ![1](https://github.com/user-attachments/assets/021b4fc1-56f4-45fc-a384-abfde6508ef0)
 
@@ -167,9 +167,18 @@ Price Range
 
 -----------------------------------------------------------------------------------------------
 
+# TIME ZONES BEST PRACTICES
+
+![photo_19_2024-10-18_20-40-19](https://github.com/user-attachments/assets/5f31b35c-14c4-4c0c-8496-64313da30b2c)
+
+![photo_20_2024-10-18_20-40-19](https://github.com/user-attachments/assets/c7658bb6-6c4f-4a9d-80f1-f0930af918da)
+
+-----------------------------------------------------------------------------------------------
+
 # ENTRY CHECKLIST BEST PRACTICES
 
 ![entry](https://github.com/user-attachments/assets/23ded758-fb84-4f18-ba6f-f686823ac7a0)
+
 
 -----------------------------------------------------------------------------------------------
 
