@@ -187,7 +187,7 @@ Price Range
 
 -----------------------------------------------------------------------------------------------
 
-### 2 TRADE BIAS AND TRADE ENTRY CHECKLIST BEST PRACTICES
+### 2 TRADE BIAS AND TRADE ENTRY CHECKLIST BEST PRACTICES + FUNDAMENTALS
 
 ![Entry](https://github.com/user-attachments/assets/50d611ea-f3b4-405f-bb4d-07231fb783ce)
 
@@ -196,6 +196,7 @@ Price Range
 
 ### 3 TRADE RULES, EQUITY MANAGEMENT, RISK MANAGEMENT BEST PRACTICES
 
+> INGOT BROKER
 -----------------------------------------------------------------------------------------------
 
 # DAWN STRATEGY BEST PRACTICES
@@ -305,7 +306,7 @@ Higher Time Frame    Lower Time Frame
 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
 ```
 
-# ICT STRATEGY
+# ICT STRATEGY - HFM BROKER
 
 > RANGE / CONSOLIDATION / CHOPPY
 
