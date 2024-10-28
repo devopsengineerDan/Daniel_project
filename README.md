@@ -277,7 +277,7 @@ Higher Time Frame    Lower Time Frame
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉 RETURNS 🧨ONLY PLACE QUALITY TRADES🧨
-👉 [ 0.1 LOT ] Multiple Orders of 1 Lot size                              👉 STOP LOSS + 5 PIPS [ No TP + CLOSE ALL TRADES ]
+👉 [ 0.1 LOT ] Multiple Orders of 1 Lot size                            👉 STOP LOSS + 5 PIPS [ No TP + CLOSE ALL TRADES ]
 👉 [ 1 LOT ] BULL ===> Multiple Orders of 1 Lot size + Other Lot Sizes  👉 STOP LOSS + 10 PIPS [ No TP + CLOSE ALL TRADES ] A* TRADE
 
 
