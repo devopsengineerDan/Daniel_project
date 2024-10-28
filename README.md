@@ -168,10 +168,13 @@ Price Range
 > ===>TRADE VUE PLATFORM 
 
 > HIGHLIGHT REEL
+
 > EASY MONEY TRADE
 
 > DAILY REPORT CARD TRADE
-> DAILY TRADING JOURNAL 
+
+> DAILY TRADING JOURNAL
+
 > DAILY PLAYBOOK
 
 -----------------------------------------------------------------------------------------------
