@@ -301,6 +301,28 @@ Higher Time Frame    Lower Time Frame
 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
 ```
 
+# ICT STRATEGY
+
+> RANGE / CONSOLIDATION / CHOPPY
+
+> MOMENTUM / DISPLACEMENT
+
+> IMPULSIVE MOVE
+
+
+> # FAIR VALUE GAP
+
+> # VOLUME IMBALANCE
+
+> # GAP
+
+
+> ## Buy Side Liquidity ==> BUY STOP LOSS  HUNT
+
+> ## Sell Side Liquidity ==> SELL STOP LOSS  HUNT
+
+
+
 
 # QUANT ENGINEER PROFESSIONAL
 
