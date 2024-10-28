@@ -189,14 +189,16 @@ Price Range
 
 ### 2 TRADE BIAS AND TRADE ENTRY CHECKLIST BEST PRACTICES + FUNDAMENTALS
 
-![Entry](https://github.com/user-attachments/assets/50d611ea-f3b4-405f-bb4d-07231fb783ce)
+![photo_37_2024-10-18_20-40-19](https://github.com/user-attachments/assets/bb5c44d5-77c7-452b-8249-8c6cbc031da0)
 
+![Entry](https://github.com/user-attachments/assets/50d611ea-f3b4-405f-bb4d-07231fb783ce)
 
 -----------------------------------------------------------------------------------------------
 
 ### 3 TRADE RULES, EQUITY MANAGEMENT, RISK MANAGEMENT BEST PRACTICES
 
 > INGOT BROKER
+
 -----------------------------------------------------------------------------------------------
 
 # DAWN STRATEGY BEST PRACTICES
