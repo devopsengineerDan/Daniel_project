@@ -322,7 +322,21 @@ Higher Time Frame    Lower Time Frame
 > Sell Side Liquidity ==> SELL STOP LOSS  HUNT
 
 
-
+![photo_1_2024-10-28_09-52-31](https://github.com/user-attachments/assets/d208da64-9f07-4c41-b854-242296c49dee)
+![photo_2_2024-10-28_09-52-31](https://github.com/user-attachments/assets/db156769-f06d-46b4-863d-fa4079a0a8e9)
+![photo_3_2024-10-28_09-52-31](https://github.com/user-attachments/assets/6daa00cb-17e9-4585-836e-e6d61fd450e2)
+![photo_4_2024-10-28_09-52-31](https://github.com/user-attachments/assets/24555c0b-2c36-4e4b-9394-c58ec1b6a55e)
+![photo_5_2024-10-28_09-52-31](https://github.com/user-attachments/assets/bc22f3e9-1095-40c1-93c9-1028f056c12f)
+![photo_6_2024-10-28_09-52-31](https://github.com/user-attachments/assets/b7d8fc67-c05d-4ad0-a27f-094d539b6397)
+![photo_7_2024-10-28_09-52-31](https://github.com/user-attachments/assets/c4ed4a35-19c6-4514-8f27-453cebd4a978)
+![photo_8_2024-10-28_09-52-31](https://github.com/user-attachments/assets/578e74e6-9fbd-4328-92e7-6ed2318ab089)
+![photo_9_2024-10-28_09-52-31](https://github.com/user-attachments/assets/661be51b-1215-419a-bcfe-92b2c66ff063)
+![photo_10_2024-10-28_09-52-31](https://github.com/user-attachments/assets/2d54bce4-6be5-4e94-bbd8-1bc0136fb133)
+![photo_11_2024-10-28_09-52-31](https://github.com/user-attachments/assets/e0b4783e-9590-489d-8f1d-4443c0f29134)
+![photo_12_2024-10-28_09-52-31](https://github.com/user-attachments/assets/8fd849f2-f318-4e1d-9006-ad3221b3fc1d)
+![photo_13_2024-10-28_09-52-31](https://github.com/user-attachments/assets/f2c2e503-6e8d-4bd8-b206-756875e61b4d)
+![photo_14_2024-10-28_09-52-31](https://github.com/user-attachments/assets/3267e163-03c3-4073-8d76-63792b159ed5)
+![photo_15_2024-10-28_09-52-31](https://github.com/user-attachments/assets/b84d5153-7efa-4171-8b1c-966cc367981c)
 
 # QUANT ENGINEER PROFESSIONAL
 
