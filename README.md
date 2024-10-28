@@ -194,7 +194,7 @@ Price Range
 
 -----------------------------------------------------------------------------------------------
 
-### 3 TRADE RULES, EQUITY MANAGEMENT, RISK MANAGEMENT
+### 3 TRADE RULES, EQUITY MANAGEMENT, RISK MANAGEMENT BEST PRACTICES
 
 -----------------------------------------------------------------------------------------------
 
