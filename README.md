@@ -310,16 +310,16 @@ Higher Time Frame    Lower Time Frame
 > IMPULSIVE MOVE
 
 
-> # FAIR VALUE GAP
+> FAIR VALUE GAP
 
-> # VOLUME IMBALANCE
+> VOLUME IMBALANCE
 
-> # GAP
+> GAP
 
 
-> ## Buy Side Liquidity ==> BUY STOP LOSS  HUNT
+> Buy Side Liquidity ==> BUY STOP LOSS  HUNT
 
-> ## Sell Side Liquidity ==> SELL STOP LOSS  HUNT
+> Sell Side Liquidity ==> SELL STOP LOSS  HUNT
 
 
 
