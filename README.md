@@ -321,6 +321,9 @@ Higher Time Frame    Lower Time Frame
 > GAP
 
 
+
+> TIME BASED LIQUIDITY (TBL)
+
 > Buy Side Liquidity ==> BUY STOP LOSS  HUNT
 
 > Sell Side Liquidity ==> SELL STOP LOSS  HUNT
