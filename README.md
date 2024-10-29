@@ -175,7 +175,7 @@ Price Range
 
 > DAILY TRADING JOURNAL
 
-> DAILY PLAYBOOK
+> DAILY PLAYBOOK  ===> Setup + Entry
 
 -----------------------------------------------------------------------------------------------
 
