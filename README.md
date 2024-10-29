@@ -48,17 +48,9 @@ Private Finance
 ![4](https://github.com/user-attachments/assets/36d5bb3a-3303-4342-80b8-f803c8004535)
 ![5](https://github.com/user-attachments/assets/c9d2c8bf-7466-4e91-821e-82aa00eeb6d0)
 
+----------------------------------------------------------------------------------------------
 
-# FINANCIAL ANALYST PROFESSIONAL
 
-
-## FOREX PROP FUNDS
- 
-```
-FUNDED NEXT
-FUNDING TRADERS.COM
-SMB Capital
-```
 ## TRADING FUNDAMENTALS RESOURCES
 
 ```
@@ -92,6 +84,18 @@ FOREX EXCHANGE
 🌀 Quant - Korean Yuppie -> https://www.youtube.com/watch?v=kFiiMymTtO0
 🌀 Quant Books - QuantPy -> https://www.youtube.com/watch?v=ZSavDAaKy50
 🌀 Quant Resources - Coding Jesus -> https://www.youtube.com/watch?v=cXNL4JKBL6w
+```
+
+
+# FINANCIAL ANALYST PROFESSIONAL
+
+
+## FOREX PROP FUNDS
+ 
+```
+FUNDED NEXT
+FUNDING TRADERS.COM
+SMB Capital
 ```
 
 
