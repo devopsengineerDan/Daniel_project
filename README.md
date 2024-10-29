@@ -19,18 +19,18 @@
  * Alternative Investments Analysis
  Equity Investments Analysis
 ``` 
- ----------------------------
+ 
 ```
 Professional Ethics and Governance
 Regulation of Financial Markets
 ```
-----------------------------
+
 ```
 Public Finance and Taxation
 Corporate Finance
 Private Finance
 ```
-----------------------------
+
 ```
  Financial Accounting
  Quantitative Analysis
