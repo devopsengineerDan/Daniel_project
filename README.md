@@ -59,8 +59,7 @@ FUNDED NEXT
 FUNDING TRADERS.COM
 SMB Capital
 ```
-
-## TRADING RESOURCES
+## TRADING FUNDAMENTALS RESOURCES
 
 ```
 =====> PSYCHOLOGIST 🌀 Dr. Steven Burger
@@ -156,6 +155,7 @@ Hoizontal Line
 Horizontal Ray
 Price Range
 ```
+
 
 # ELITE TRADING BEST PRACTICES
 
@@ -308,6 +308,8 @@ Higher Time Frame    Lower Time Frame
 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
 ```
 
+-----------------------------------------------------------------------------------------------
+
 # ICT STRATEGY - HFM BROKER
 
 > RANGE / CONSOLIDATION / CHOPPY
@@ -347,6 +349,7 @@ Higher Time Frame    Lower Time Frame
 ![photo_13_2024-10-28_09-52-31](https://github.com/user-attachments/assets/f2c2e503-6e8d-4bd8-b206-756875e61b4d)
 ![photo_14_2024-10-28_09-52-31](https://github.com/user-attachments/assets/3267e163-03c3-4073-8d76-63792b159ed5)
 ![photo_15_2024-10-28_09-52-31](https://github.com/user-attachments/assets/b84d5153-7efa-4171-8b1c-966cc367981c)
+
 
 # QUANT ENGINEER PROFESSIONAL
 
