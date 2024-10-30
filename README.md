@@ -189,6 +189,12 @@ Price Range
 
 ![photo_20_2024-10-18_20-40-19](https://github.com/user-attachments/assets/c7658bb6-6c4f-4a9d-80f1-f0930af918da)
 
+![FUNDAAMENTALS](https://github.com/user-attachments/assets/d672d588-5fe2-410c-9659-aef771d228b3)
+
+
+> 4AM
+> 10AM - 3PM - 7PM
+
 -----------------------------------------------------------------------------------------------
 
 ### 2 TRADE BIAS AND TRADE ENTRY CHECKLIST BEST PRACTICES + FUNDAMENTALS
@@ -199,7 +205,7 @@ Price Range
 
 -----------------------------------------------------------------------------------------------
 
-### 3 TRADE RULES, EQUITY MANAGEMENT, RISK MANAGEMENT BEST PRACTICES
+### 3 TRADE PLAN && TRADE RULES | EQUITY MANAGEMENT && RISK MANAGEMENT BEST PRACTICES
 
 > INGOT BROKER
 
