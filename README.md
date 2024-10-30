@@ -200,9 +200,9 @@ Price Range
 
 ### 2 TRADE BIAS AND TRADE ENTRY CHECKLIST BEST PRACTICES + FUNDAMENTALS
 
-![photo_37_2024-10-18_20-40-19](https://github.com/user-attachments/assets/bb5c44d5-77c7-452b-8249-8c6cbc031da0)
+![title](static/img/alpha1.jpg)
+![title](static/img/alpha2.png)
 
-![Entry](https://github.com/user-attachments/assets/50d611ea-f3b4-405f-bb4d-07231fb783ce)
 
 -----------------------------------------------------------------------------------------------
 
