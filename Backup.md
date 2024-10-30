@@ -10327,6 +10327,8 @@ SendyAPI Wrapper => Consuming a Restful API + Building an Restful API
 👉  COMPUTER MOTHERBOARD ELECTRONICS GUIDE -> https://m.youtube.com/@electronicsrepairbasics_erb
                                                   }
 2 CERTS 
+After getting 1ST CERT = DESTROY PAPER in the Folder.
+AFTER getting 2ND CERT = REST.
 
 ASSEMBLE DESKTOP SERVER *******************************
                
