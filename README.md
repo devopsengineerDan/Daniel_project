@@ -344,6 +344,7 @@ Higher Time Frame    Lower Time Frame
 
 > Sell Side Liquidity ==> SELL STOP LOSS  HUNT
 
+![title](static/img/1.jpg)
 
 ![photo_1_2024-10-28_09-52-31](https://github.com/user-attachments/assets/d208da64-9f07-4c41-b854-242296c49dee)
 ![photo_2_2024-10-28_09-52-31](https://github.com/user-attachments/assets/db156769-f06d-46b4-863d-fa4079a0a8e9)
