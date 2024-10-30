@@ -185,11 +185,11 @@ Price Range
 
 ### 1 TIME SESSIONS BEST PRACTICES
 
-![photo_19_2024-10-18_20-40-19](https://github.com/user-attachments/assets/5f31b35c-14c4-4c0c-8496-64313da30b2c)
+![title](static/img/time1.jpg)
 
-![photo_20_2024-10-18_20-40-19](https://github.com/user-attachments/assets/c7658bb6-6c4f-4a9d-80f1-f0930af918da)
+![title](static/img/time2.jpg)
 
-![FUNDAAMENTALS](https://github.com/user-attachments/assets/d672d588-5fe2-410c-9659-aef771d228b3)
+![title](static/img/time3.jpg)
 
 
 > 4AM
@@ -201,8 +201,8 @@ Price Range
 ### 2 TRADE BIAS AND TRADE ENTRY CHECKLIST BEST PRACTICES + FUNDAMENTALS
 
 ![title](static/img/alpha1.jpg)
-![title](static/img/alpha2.png)
 
+![title](static/img/alpha2.png)
 
 -----------------------------------------------------------------------------------------------
 
