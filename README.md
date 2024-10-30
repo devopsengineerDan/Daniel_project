@@ -163,11 +163,12 @@ Price Range
 
 # ELITE TRADING BEST PRACTICES
 
-![1](https://github.com/user-attachments/assets/021b4fc1-56f4-45fc-a384-abfde6508ef0)
+![title](static/img/elite1.jpg)
 
-![2](https://github.com/user-attachments/assets/572a9efe-7f3e-492c-803f-959aef9bdbba)
+![title](static/img/elite2.jpg)
 
-![photo_2024-10-23_11-48-26](https://github.com/user-attachments/assets/e9fc2a1b-5da7-45ad-8716-c058cd513eae)
+![title](static/img/elite3.jpg)
+
 
 > ===>TRADE VUE PLATFORM 
 
