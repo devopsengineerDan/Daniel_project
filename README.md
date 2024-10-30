@@ -101,9 +101,9 @@ SMB Capital
 
 ## STRATEGY SETTINGS
 
-![EMA Strategy](https://github.com/user-attachments/assets/429779b1-5f95-4f30-865a-95e1524a0a44)
+![title](static/img/strategy1.png)
 
-![SMC Strategy](https://github.com/user-attachments/assets/ceaccd0e-60e5-4ef2-9e48-b3385a19e605)
+![title](static/img/strategy2.png)
 
 -----------------------------------------------------------------------------------------------
 
