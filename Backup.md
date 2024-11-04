@@ -236,7 +236,28 @@ Obedient(Disobedient)
 👉 Daniel, [7/13/24 10:42 AM]
 3 Britain_USA Goat Laws. China_Russia Sheep Laws . Agreement_Transaction
 A+ ----- All
-3 Market No Chase, Rush, Force(Try to bend Nail).  LeaderBlackRock_Sun and Partial Judge, Class,Tribe/Family. THERE IS NO HEAVEN_(CREATE) HEAVEN AND THERE IS HELL.
+3 Market No Chase, Rush, Force(Try to bend Nail).  Leader is BlackRock_Sun and Partial Judge, Class,Tribe/Family. THERE IS NO HEAVEN_(CREATE) HEAVEN AND THERE IS HELL.
+
+***************************************************************************************************************************************************************************************
+
+Increase in Wealth to achieve Objective
+**
+% Awareness to achieve Objective
+% Actor to achieve Objective
+% UP Increase Logical  ------  [BEING, IMPROVE, HARMONY WITH NATURE]-Appearance(Objective), Emotions(Equilibrium-Move within Scope), DOWN Increase Logical(Entanglement)
+
+***************************************************************************************************************************************************************************************
+
+£ UNDERSTAND [System, Policy/Law, Contract, System]
+£ CONMAN, LIER, THIEF
+£ UNDERSTAND SYSTEM ======= BE IN HARMONY WITH NATURE 
+£ TRANSFER FUNDS TO PROPERTY MANAGEMENT
+
+***************************************************************************************************************************************************************************************
+
+%Daniel [Consistency,Discipline, Hardwork], Humble_Kind
+%Dad [Survive, Know to Detail, Connect the Dots, Competitive]
+%DEATH - SUN *Harmony with nature [within scope and budget]  ---§   MOON - DEATH *Add up in nature [within scope and budget]
 
 
 👉 Daniel, [7/14/24 11:53 AM]
@@ -368,6 +389,15 @@ MEAN                                          =>  PRODUCTIVE and RESULT ORIENTED
 👉 SUMMARY
 
 ```
+🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
+POOL
+14   1    5
+ 8   11              12      7
+6    13              10      9
+ 4    2   15
+3 White
+🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
+
 🌀 SECURITY(PERFECTION/COMPLETE) AND SILENCE
 1 Cybersecurity🧨🧨🧨
 2 Armory
@@ -376,7 +406,7 @@ MEAN                                          =>  PRODUCTIVE and RESULT ORIENTED
 
                                                                🌀 ACCURATE AND PRIORITY(TIME BOUND)
                                                                1 Silence, Listening🧨🧨🧨
-							       2 Reading
+							       2 Reading, Writing
 	                                                       3 Speaking*
                                                                4 Golf
 
