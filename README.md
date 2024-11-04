@@ -205,6 +205,9 @@ Price Range
 
 ![title](static/img/alpha2.png)
 
+![title](static/img/33.jpg)
+
+
 -----------------------------------------------------------------------------------------------
 
 ### 3 TRADE PLAN && TRADE RULES | EQUITY MANAGEMENT && RISK MANAGEMENT BEST PRACTICES
