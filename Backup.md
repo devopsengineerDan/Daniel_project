@@ -10319,20 +10319,21 @@ SendyAPI Wrapper => Consuming a Restful API + Building an Restful API
 
 ```
 
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-2 PROJECTS + [TV Guard] + {Electric cable connection + Tester Screw driver} && TOOLS
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+👉 2 ELECTRONIC PROJECTS + [TV Guard] + {Electric cable connection + Tester Screw driver} && TOOLS
                                                   {
                                                   Fan Blower + Tool box + Carbon Fiber Electrostatic Discharge Anti-Static ESD Gloves - Polyurethane Palm Coated 
                                                   Voltage Tester + Solder Tool
-👉  COMPUTER MOTHERBOARD ELECTRONICS GUIDE -> https://m.youtube.com/@electronicsrepairbasics_erb
+🧨  COMPUTER MOTHERBOARD ELECTRONICS GUIDE -> https://m.youtube.com/@electronicsrepairbasics_erb
                                                   }
-2 CERTS 
+👉 2 CERTS 
 After getting 1ST CERT = DESTROY PAPER in the Folder.
 AFTER getting 2ND CERT = REST.
 
-ASSEMBLE DESKTOP SERVER *******************************
-               
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+👉 WIRING *******************************
+👉 ASSEMBLE DESKTOP SERVER *******************************
+👉 SOLDERING *******************************              
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 ```
 
