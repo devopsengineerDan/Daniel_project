@@ -326,7 +326,8 @@ MEAN                                          =>  PRODUCTIVE and RESULT ORIENTED
 🌀 SECURITY(PERFECTION/COMPLETE) AND SILENCE
 1 Cybersecurity🧨🧨🧨
 2 Armory
-3 Chess
+3 Pool table* , Guitar*
+4 Chess
 
                                                                🌀 ACCURATE AND PRIORITY(TIME BOUND)
                                                                1 Silence, Listening🧨🧨🧨
@@ -337,7 +338,7 @@ MEAN                                          =>  PRODUCTIVE and RESULT ORIENTED
 
       🌀 ADAPT IN (CONTEXTUAL SCOPE)
       1 Forex🧨🧨🧨
-      2 Pool table*
+      2 Pool table* , Guitar*
       3 Swimming
 
 
@@ -413,7 +414,7 @@ SECURITY                                                SECURITY
 Energy                                                  Imagination
 
 
-             Vibration[VIOLENCE]                                                         Reality[JUSTICE]
+             Vibration[VIOLENCE]                                                Reality[JUSTICE]
  
  							     
 ✅
@@ -626,7 +627,7 @@ Mobile App (Native)
 -----------------------------------------------------------------------
 
 👉 ACHIEVING CROSSPLATFORM (PLATFORM AGNOSTIC)
-1. LLVM
+1. LLVM + Assembly
 2. KIVY(Language API Wrapper, Operating System and Kernel Driver API implementation) 
 
 
@@ -2062,14 +2063,37 @@ USER Education  Security
 
 
 ```
+
+🧨🧨 CYBERSECURITY && ARTIFICIAL INTELLIGENCE
+
+
+
+
 🧨 TELECOMMUNICATIONS => [HARDWARE + CABLE] , NETWORK-RANGE DESIGN
 🧨 ROUTER CONFIGURATION => [HARDWARE + CABLE] , CONFIGURATION
+🧨 ASSEMBLE DESKTOP SERVER [INSTALLATION, MAINTENANCE AND CUSTOMIZATION]
+
+                                                                               🧨 COMPUTER NETWORK CONFIGURATION                                 🧨 CLOUD/SERVER CONFIGURATION => [SYSTEM ADMINISTRATOR]
+							                       🌀 [DESIGN AND ANALYSIS OF NETWORK]                              🌀 HARDWARE => [Large storage + Modern] RAM, SSD, GRAPHICS CARD
+                                                                                                                                                🌀 WIRING
+							                       🌀 WINDOWS[CONFIGURE DNS, DHCP, Active Directory]                🌀 ASSEMBLE DESKTOP SERVER [INSTALLATION, MAINTENANCE AND CUSTOMIZATION]
+			                                                       🌀 LINUX && WINDOWS[NETWORK ADMINISTRATOR]                       🌀🌀🌀 SOLDERING OF NON-CRUSIAL SEMI-CONDUCTORS
 
 
-                                                                              🧨 COMPUTER NETWORK CONFIGURATION                                 🧨 CLOUD/SERVER CONFIGURATION => [SYSTEM ADMINISTRATOR]
-							                       [DESIGN AND ANALYSIS OF NETWORK]                                 🧨 HARDWARE => [Large storage + Modern] RAM, SSD, GRAPHICS CARD
-							                       [CONFIGURE DNS, DHCP, Active Directory]                          🧨 INSTALLATION AND MAINTENANCE
-			                                                       [NETWORK ADMINISTRATOR]                                          🧨🧨 SOLDERING OF NON-CRUSIAL SEMI-CONDUCTORS
+
+
+
+
+🧨🧨 SOFTWARE ENGINEERING
+
+
+🧨🧨🧨🧨🧨 PROJECTS
+👉 2 ELECTRONIC PROJECTS
+👉 Network
+   Education => Tutor, Books, School ERP
+   Car
+👉 2FA, Bulk SMS Integration, OTP Money, Fingerprint
+
 ```
 
 
@@ -10331,8 +10355,8 @@ After getting 1ST CERT = DESTROY PAPER in the Folder.
 AFTER getting 2ND CERT = REST.
 
 👉 WIRING *******************************
-👉 ASSEMBLE DESKTOP SERVER *******************************
-👉 SOLDERING *******************************              
+👉 ASSEMBLE DESKTOP SERVER [INSTALLATION, MAINTENANCE AND CUSTOMIZATION] *******************************
+👉 SOLDERING OF NON-CRUSIAL SEMI-CONDUCTORS *******************************              
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 ```
