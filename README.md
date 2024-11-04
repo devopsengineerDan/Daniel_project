@@ -205,8 +205,9 @@ Price Range
 
 ![title](static/img/alpha2.png)
 
-![title](static/img/33.jpg)
+![title](static/img/33A.jpg)
 
+![title](static/img/33B.jpg)
 
 -----------------------------------------------------------------------------------------------
 
