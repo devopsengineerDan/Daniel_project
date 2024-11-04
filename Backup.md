@@ -189,7 +189,7 @@ Rigid/ Brick Wall          => Productive while GAINING
 
        WORK + GET REWARD
        
-       NO RANDMNESS                                   NO LOSING OF MONEY
+       NO RANDOMNESS                                   NO LOSING OF MONEY
        Opportunist/Take Advantage                     Steal
        => Little Token                                => Little Token
 
@@ -209,6 +209,36 @@ Hard work(Realistic)          Realistic(High performance and Continuity)
 Know                       Character               Time => Within time bound
 Connect the dots           Emotions                Way => Within scope
 Competitive                Logical                 Realistic => Within required resources
+
+---------------
+
+👉 Sheep<=>Goat*******************************
+👉 LISTEN && BE IN HARMONY WITH NATURE*******************************
+👉 AGREEMENT && TRANSACTION*******************************
+
+---------------
+
+👉 Daniel, [7/13/24 10:42 AM]
+3 Britain_USA Goat Laws. China_Russia Sheep Laws . Agreement_Transaction
+A+ ----- All
+3 Market No Chase, Rush, Force(Try to bend Nail).  LeaderBlackRock_Sun and Partial Judge, Class,Tribe/Family. THERE IS NO HEAVEN_(CREATE) HEAVEN AND THERE IS HELL.
+
+
+👉 Daniel, [7/14/24 11:53 AM]
+EXTEME==VICE==PUNISHMENT ---> IAMNOT
+
+
+👉 Daniel, [7/14/24 11:58 AM]
+Images Warren Buffet, Bill Gates, Zuckerberg 
+CR7, Messi
+New Zealand Rugby
+
+
+👉 Daniel, [7/14/24 12:06 PM]
+Net worth plan
+Banks
+Daniel
+Family
 ```
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
