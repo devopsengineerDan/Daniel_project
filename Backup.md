@@ -180,6 +180,7 @@ Naive
 Foolish
 Ignorance/ Stupid
 
+🧨🧨🧨 CON(Naive)-LIE(Foolishness)-THEFT(Ignorance)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Undecisive/ Stagnant       => Careful Decision Making to be CORRECT and EFFECTIVE
@@ -213,10 +214,24 @@ Competitive                Logical                 Realistic => Within required 
 ---------------
 
 👉 Sheep<=>Goat*******************************
+Humble(Arrogant)
+Kind(Mean)
+++++++++++++++++++++
+Discipline(Not on Track)
+Obedient(Disobedient)
+++++++++++++++++++++  
 👉 LISTEN && BE IN HARMONY WITH NATURE*******************************
-👉 AGREEMENT && TRANSACTION*******************************
+👉 [ACCEPT+AGREEMENT]=>TRANSACTION*******************************
 
 ---------------
+
+🧨 SECURITY
+🧨 RESPONSIBLE
+                   🧨 PLAN
+🧨 GROWTH
+                   🧨  EXECUTE
+---------------
+
 
 👉 Daniel, [7/13/24 10:42 AM]
 3 Britain_USA Goat Laws. China_Russia Sheep Laws . Agreement_Transaction
