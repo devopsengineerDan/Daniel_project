@@ -182,12 +182,12 @@ Ignorance/ Stupid
 
 🧨🧨🧨 CON(Naive)-LIE(Foolishness)-THEFT(Ignorance)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+🌀
 Undecisive/ Stagnant       => Careful Decision Making to be CORRECT and EFFECTIVE
 Chaos                      => Intelligent Adapting to be BETTER
 Rigid/ Brick Wall          => Productive while GAINING       
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+🌀
        WORK + GET REWARD
        
        NO RANDOMNESS                                   NO LOSING OF MONEY
@@ -239,7 +239,7 @@ A+ ----- All
 3 Market No Chase, Rush, Force(Try to bend Nail).  Leader is BlackRock_Sun and Partial Judge, Class,Tribe/Family. THERE IS NO HEAVEN_(CREATE) HEAVEN AND THERE IS HELL.
 
 ***************************************************************************************************************************************************************************************
-
+🌀
 Increase in Wealth to achieve Objective
 **
 % Awareness to achieve Objective
@@ -247,17 +247,36 @@ Increase in Wealth to achieve Objective
 % UP Increase Logical  ------  [BEING, IMPROVE, HARMONY WITH NATURE]-Appearance(Objective), Emotions(Equilibrium-Move within Scope), DOWN Increase Logical(Entanglement)
 
 ***************************************************************************************************************************************************************************************
-
+🌀
 £ UNDERSTAND [System, Policy/Law, Contract, System]
 £ CONMAN, LIER, THIEF
 £ UNDERSTAND SYSTEM ======= BE IN HARMONY WITH NATURE 
 £ TRANSFER FUNDS TO PROPERTY MANAGEMENT
 
 ***************************************************************************************************************************************************************************************
-
+🌀
 %Daniel [Consistency,Discipline, Hardwork], Humble_Kind
 %Dad [Survive, Know to Detail, Connect the Dots, Competitive]
 %DEATH - SUN *Harmony with nature [within scope and budget]  ---§   MOON - DEATH *Add up in nature [within scope and budget]
+
+***************************************************************************************************************************************************************************************
+🌀
+================> INTERACTION WITH ENVIRONMENT
+
+Story-Telling => Dismiss
+Entertaining => Condone
+Educational => Exploit
+
+
+Desire
+Dream
+Pain<=>Need
+
+===> SURVIVE
+===> AWARENESS
+Simple => Obvious [Overstand && Know to Detail && Complete Duty]
+Complex => Overengineering && EXPERIMENTATION [Adapt, Review, Innovate=Invent]
+Complicated => Ignorance && PERSISTENT [Understand]
 
 
 👉 Daniel, [7/14/24 11:53 AM]
@@ -285,7 +304,7 @@ Family
 
 --------------------------
 INCREASE IN WEALTH + GOD[Accurate, Conscious on Both Parties, Generous]
-1 Don't Discuss Income, If so Have it on the Low.
+1 Don't Discuss Income, If so Have it on the LOW.
 2 Investor<=>Gain, [Devops Engineer and Scientist] ,Database Engineer.
 3 Understand System, Policy, Contract.
 
@@ -393,11 +412,15 @@ MEAN                                          =>  PRODUCTIVE and RESULT ORIENTED
 POOL
 14   1    5
  8   11              12      7
-6    13              10      9
+ 6   13              10      9
  4    2   15
-3 White
+ 3 White
 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
+```
 
+![title](static/img/pool.jpg)
+
+```
 🌀 SECURITY(PERFECTION/COMPLETE) AND SILENCE
 1 Cybersecurity🧨🧨🧨
 2 Armory
