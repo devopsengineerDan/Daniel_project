@@ -351,6 +351,7 @@ INNOVATE + INVENT
 ```
 
 --------------------------
+👉
 INCREASE IN WEALTH + GOD[Accurate, Conscious on Both Parties, Generous]
 1 Don't Discuss Income, If so Have it on the LOW.
 2 Investor<=>Gain, [Devops Engineer and Scientist] ,Database Engineer.
@@ -364,7 +365,7 @@ READ
 
 
 
-
+👉
 GOVERNANCE=> Cybersecurity Systems, AI Systems
 GOLD
 BIG CURRENCIES => DOLLAR, POUND
@@ -374,11 +375,12 @@ BUSINESS=> Big Insurances, Big Banks
 PROPERTY=> Farming Projects, Academies, [Rentals] Real Estate Properties, [Sell] Real Estate Properties || Lands || Natural Resources
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+👉
 1 ===> INCREASE IN WEALTH(High Performance_in_PRODUCTIVITY)
 
 2 ===> LAYERING(High Performance_in_PRODUCTIVITY)
 
-
+👉
 SUPREME
 CENTRAL ===> Central Bank
 LARGE   ===> MARKET MAKER ===> Institutional Investor
@@ -387,13 +389,26 @@ SMALL   ===> Retail Investor
 
 
 
-
+👉
 3 ===> KNOWN ASSETS(High Performance_in_PRODUCTIVITY)
 **********************************************
 ===> SOURCE -> Already Existing Assets, Loan
 
 ===> ADD UP -> Orderly, Realistic
 **********************************************
+👉
+WORK KNOWLEDGE + BUSINESS KNOWLEDGE 
+WISDOM <==> ACTION
+GOOD LUCK
+---------------------------
+👉
+FOREIGN INVESTORS
+LOCAL INVESTORS
+LOANS
+---------------------------
+👉
+  No Knowledge
+  Don't know what you're saying
 ```
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
