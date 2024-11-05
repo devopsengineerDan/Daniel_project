@@ -377,7 +377,7 @@ Higher Time Frame    Lower Time Frame
 => PEPPERSTONE Broker
 => Interactive Broker
 => DUKASCOPY-Swiss Banking Group
-=> QUANT CONNECT - Secure Data Centre for Models [Telecommunication, Short Fibre Cable, Performant Quant Models, Performant Hardware]
+=> QUANT CONNECT - Secure Data Centre for Models [Telecommunication, Short Fibre Cable, SOLID INFORMATION, Performant Quant Models, Performant Hardware, (STABLE + HIGH PERFORMANT + BACKUP) INTERNET && ELECTRICITY]
 ```
 
 
