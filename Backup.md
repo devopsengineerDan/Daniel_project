@@ -294,6 +294,54 @@ Net worth plan
 Banks
 Daniel
 Family
+
+
+
+🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
+
+MANAGER [BLAZING TORCH, ORDAINED=>Consientious, CHOSEN=>Charismatic, ELECTED=>Mature]
+         RESPONSIBLE      BUSINESS SENSE[Finance,Marketing,Economics] <==> [BUSINESS TIME, BUSINESS ADAPT, BUSINESS PROFIT AND LOSS]
+         LAW
+
+
+
+
+
+
+
+         SILENCE**************
+         Self Mastery                        PSYCHOLOGY[MINE+ENVIRONMENT]       FEEL <=> TIME             [Who am I + What Position am I, Who is the other party + What Position is the other party]
+         Listen *ALL SENSES*                                                    ENERGY <=> WAY             Where are we
+         Write + Communicate                                                    VIBRATION <=> REALISTIC    What Message[SILENCE + ALLOWANCE FOR ENVIRONMENT + TO RESPOND] + How to Pass Message[ORDERLY] + COMPLETE Message   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADAPT
+REVIEW
+INNOVATE + INVENT
+
+
+
+
+
+
+
+         Performance
+         Quality IN ALL**************
+         Stability
+🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
 ```
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
