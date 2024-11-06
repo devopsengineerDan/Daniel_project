@@ -289,7 +289,8 @@ Higher Time Frame    Lower Time Frame
 🧨 9. AVOID THESE CANDLESTICKS
    ====> DO NOT Trade small wick and small body
    ====> DO NOT Trade CONSOLIDATION small wick and small body
-   ====> DO NOT Trade Doji Candlestick / Indecision / Equal Sellers and Buyers Volumes  
+   ====> DO NOT Trade Doji Candlestick / Indecision / Equal Sellers and Buyers Volumes
+   ====> DO NOT Trade Order Block
 🧨 10. TRADE SETUP + ENTRY + [NOT EVERY DAY IS A TRADING DAY]
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -315,7 +316,7 @@ Higher Time Frame    Lower Time Frame
    🧨 TIME [15 MINUTES]
    => 0.5 10MIN-5MIN
    => 1.0 13MIN -10MIN and @@@@@@@@@@@@ Guided by PREVIOUS CANDLESTICK + 5MIN-0MIN @@@@@@@@@@@@
-   => AIM for Specific Target Price and OrderBlock
+   => AIM for Specific Target Price and Order Block
 
 
 👉 Trade Setup
