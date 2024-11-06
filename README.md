@@ -293,7 +293,7 @@ Higher Time Frame    Lower Time Frame
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉 🧨🧨🧨 RESOURCE MANAGEMENT + TRADING EDGE ONLY PLACE QUALITY TRADES  && A + TRADES 🧨🧨🧨
+👉👉👉👉👉👉👉👉👉👉👉👉👉 🧨🧨🧨 RESOURCE MANAGEMENT + TRADING EDGE ONLY PLACE QUALITY TRADES  && A + TRADES 🧨🧨🧨
 
 👉👉👉 ONLY Trade CANDLESTICK + TRADE ON LARGE SCREEN + CANDLESTICK TIME PERIOD
 
@@ -330,7 +330,7 @@ Higher Time Frame    Lower Time Frame
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉 🧨🧨🧨 RESOURCE MANAGEMENT + RISK MANAGEMENT 🧨🧨🧨
+👉👉👉👉👉👉👉👉👉👉👉👉👉 🧨🧨🧨 RESOURCE MANAGEMENT + RISK MANAGEMENT 🧨🧨🧨
 
 👉 [ 0.1 OR 0.2 LOT  ] Multiple Orders                      👉 STOP LOSS + 5 PIPS [ No TP + CLOSE ALL TRADES ]
 👉 [ 1 LOT ] BULL ===> Multiple Orders                      👉 STOP LOSS + 10 PIPS [ No TP + CLOSE ALL TRADES ] A* TRADE
