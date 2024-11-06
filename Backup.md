@@ -492,7 +492,7 @@ POOL
 🌀 SECURITY(PERFECTION/COMPLETE) AND SILENCE
 1 Cybersecurity🧨🧨🧨
 2 Armory
-3 Pool table* , Guitar*
+3 Pool table* , Guitar* 🧨🧨 YOUTUBE + SONGSTERR 🧨🧨
 4 Chess
 
                                                                🌀 ACCURATE AND PRIORITY(TIME BOUND)
@@ -504,7 +504,7 @@ POOL
 
       🌀 ADAPT IN (CONTEXTUAL SCOPE)
       1 Forex🧨🧨🧨
-      2 Pool table* , Guitar*
+      2 Pool table* , Guitar* 🧨🧨 YOUTUBE + SONGSTERR 🧨🧨
       3 Swimming
 
 
