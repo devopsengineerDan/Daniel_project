@@ -293,11 +293,23 @@ Higher Time Frame    Lower Time Frame
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉 TRADING EDGE 🧨ONLY PLACE QUALITY TRADES🧨
+👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉 TRADING EDGE 🧨🧨🧨ONLY PLACE QUALITY TRADES🧨🧨🧨
+
 👉 ONLY Trade Candlestick
-   🧨 15 MIN [5 MIN => OBSERVATION] [10 MIN => ACTUAL TRADE]
+   🧨 15 MIN [FIRST 5 MIN => OBSERVATION] [10 MIN => ACTUAL TRADE]
    🧨 First Three Candlesticks -> High Probability Trades | High Profit| Low Risk
-   🧨 After First Three Candlesticks -> Less Probability Trades | Low Profit| High Risk
+   🧨 AFTER First Three Candlesticks -> Less Probability Trades | Low Profit| High Risk
+-------------------------------------------------------------------------------------------------------------------------------
+   🧨 LOT SIZE
+   0.1 and 0.2 => SMALL momentum/displacement 
+   0.5 => MEDIUM momentum/displacement
+   1.0 => HIGH momentum/displacement => FUNDAMENTAL
+
+   🧨 TIME [15 MINUTES]
+   => 0.5 10MIN-5MIN
+   => 1.0 13MIN -10MIN and 5MIN-0MIN
+   => AIM for Specific Target Price and OrderBlock
+
 👉 Trade Setup
 👉 Trade Timing
 👉 Trade Style
