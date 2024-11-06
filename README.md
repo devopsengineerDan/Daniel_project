@@ -286,10 +286,11 @@ Higher Time Frame    Lower Time Frame
 6. Trade in harmony with the Trend not AGAINST.
 7. Be PATIENT with the trading market then PLACE YOUR TRADE
 8. Trade AFTER a CONFIRMATION CANDLESTICK
-9. AVOID THESE CANDLESTICKS
+🧨 9. AVOID THESE CANDLESTICKS
    ====> DO NOT Trade small wick and small body
    ====> DO NOT Trade CONSOLIDATION small wick and small body
    ====> DO NOT Trade Doji Candlestick / Indecision / Equal Sellers and Buyers Volumes  
+🧨 10. TRADE SETUP + ENTRY + [NOT EVERY DAY IS A TRADING DAY]
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
