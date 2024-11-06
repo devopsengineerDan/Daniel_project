@@ -305,7 +305,11 @@ Higher Time Frame    Lower Time Frame
    🧨 LOT SIZE
    0.1 and 0.2 => SMALL momentum/displacement 
    0.5 => MEDIUM momentum/displacement
-   1.0 => HIGH momentum/displacement => FUNDAMENTAL
+
+   1.0 => HIGH momentum/displacement => FUNDAMENTAL ===> M CAPITAL
+   2.5 OR 3.0 => HIGH momentum/displacement => FUNDAMENTAL ===> B CAPITAL
+   4.5 OR 5.0 => HIGH momentum/displacement => FUNDAMENTAL ===> T CAPITAL
+
 
    🧨 TIME [15 MINUTES]
    => 0.5 10MIN-5MIN
