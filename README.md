@@ -315,16 +315,29 @@ Higher Time Frame    Lower Time Frame
    4.5 OR 5.0 => HIGH momentum/displacement => FUNDAMENTAL ===> T CAPITAL
 
 
-   🧨 TIME [15 MINUTES]
+   🧨 TIME [15 MINUTES] ELECTIONS[POLITICS]
    => 0.5 10MIN-5MIN
    => 1.0 13MIN -10MIN and @@@@@@@@@@@@ Guided by PREVIOUS CANDLESTICK + 5MIN-0MIN @@@@@@@@@@@@
-   => AIM for Specific Target Price and Order Block
+   => AIM for Specific Target Price AND / OR Order Block
 
--------------------------------------------------------------------------------------------------------------------------------
+
+   🧨 TIME [15 MINUTES] FUNDAMENTAL
+   => 0.5 13MIN-10MIN
+   => 1.0 13MIN -10MIN and @@@@@@@@@@@@ Guided by PREVIOUS CANDLESTICK + 10MIN-5MIN @@@@@@@@@@@@
+   => AIM for Specific Target Price AND / OR Order Block
+
+
+
    🧨 CANDLESTICK OBSERVATION
    => Candlestick Previous Patterns
-   =>  Candlestick Behaiour
-   =>  Candlestick Duration / Time Period to form
+   => Candlestick Behaviour
+   => Candlestick Duration / Time Period To Form 
+       👉 Less Time To Form LARGE Candlestick
+       👉 More Time To Form SMALL Candlestick
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
 👉 Trade Setup
 👉 Trade Timing
 👉 Trade Style
