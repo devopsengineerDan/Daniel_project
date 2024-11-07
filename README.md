@@ -244,15 +244,17 @@ Specific|Measurable|Achievable|Realistic|Time Bound
 
 🧨🧨🧨BEST<->MARKETABLE<->IRREPLACABLE🧨🧨🧨
 
+
 ---------------------------------------------------------
+
 
 RESPECT LAWS + MANAGE RESOURCES + RISK MANAGEMENT
 
 
-
-
 =======================================================================================================================================
 
+
+🧨🧨🧨🧨🧨🧨🧨🧨🧨 TRADING RULES 🧨🧨🧨🧨🧨🧨🧨🧨🧨
 🧨🧨🧨🧨🧨🧨🧨🧨🧨OPPOSITE IS TRUE AND RESULTS TO A LOSS WHEN PLACING TRADES🧨🧨🧨🧨🧨🧨🧨🧨🧨
 
 1 Subscribe to an A Booking Broker ===> OPPOSITE is a B Booking Broker 
@@ -307,7 +309,7 @@ Higher Time Frame    Lower Time Frame
    🧨 LOT SIZE
    0.1 and 0.2 => SMALL momentum/displacement 
    0.5 => MEDIUM momentum/displacement
-
+ 
    1.0 => HIGH momentum/displacement => FUNDAMENTAL ===> M CAPITAL
    2.5 OR 3.0 => HIGH momentum/displacement => FUNDAMENTAL ===> B CAPITAL
    4.5 OR 5.0 => HIGH momentum/displacement => FUNDAMENTAL ===> T CAPITAL
@@ -318,7 +320,11 @@ Higher Time Frame    Lower Time Frame
    => 1.0 13MIN -10MIN and @@@@@@@@@@@@ Guided by PREVIOUS CANDLESTICK + 5MIN-0MIN @@@@@@@@@@@@
    => AIM for Specific Target Price and Order Block
 
-
+-------------------------------------------------------------------------------------------------------------------------------
+   🧨 CANDLESTICK OBSERVATION
+   => Candlestick Previous Patterns
+   =>  Candlestick Behaiour
+   =>  Candlestick Duration / Time Period to form
 👉 Trade Setup
 👉 Trade Timing
 👉 Trade Style
