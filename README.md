@@ -369,7 +369,11 @@ Higher Time Frame    Lower Time Frame
 
 > PD-ARRAY => Price level in which price react to Bullish or Bearish
 
-> Open Interest
+> OPEN INTERSEST
+
+> SLLIPAGE => During FUNDAMENTALS Affects Take Profit and Stop Loss
+
+
 
 
 
@@ -380,6 +384,8 @@ Higher Time Frame    Lower Time Frame
 > IMPULSIVE MOVE
 
 
+
+
 > FAIR VALUE GAP
 
 > VOLUME IMBALANCE
@@ -388,11 +394,15 @@ Higher Time Frame    Lower Time Frame
 
 
 
+
 > TIME BASED LIQUIDITY (TBL)
 
 > Buy Side Liquidity ==> BUY STOP LOSS  HUNT
 
 > Sell Side Liquidity ==> SELL STOP LOSS  HUNT
+
+
+
 
 ![title](static/img/1.jpg)
 ![title](static/img/2.jpg)
