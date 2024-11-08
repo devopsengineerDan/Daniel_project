@@ -365,6 +365,14 @@ Higher Time Frame    Lower Time Frame
 
 # ICT STRATEGY - HFM BROKER
 
+> LOT => CONTRACT SIZE
+
+> PD-ARRAY => Price level in which price react to Bullish or Bearish
+
+> Open Interest
+
+
+
 > RANGE / CONSOLIDATION / CHOPPY
 
 > MOMENTUM / DISPLACEMENT
