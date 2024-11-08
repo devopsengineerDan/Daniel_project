@@ -369,7 +369,7 @@ Higher Time Frame    Lower Time Frame
 
 > PD-ARRAY => Price level in which price react to Bullish or Bearish
 
-> OPEN INTERSEST
+> OPEN INTERSEST => Total number of Future Contracts HELD/OPEN by market participants at the end of a day
 
 > SLLIPAGE => During FUNDAMENTALS Affects Take Profit and Stop Loss
 
