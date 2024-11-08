@@ -330,10 +330,10 @@ Higher Time Frame    Lower Time Frame
 
    🧨 CANDLESTICK OBSERVATION
    => Candlestick Previous Patterns
-   => Candlestick Behaviour
+   => Candlestick Behaviour => IMPULSIVE or NOT
    => Candlestick Duration / Time Period To Form 
-       👉 Less Time To Form LARGE Candlestick
-       👉 More Time To Form SMALL Candlestick
+       👉 Less Time To Form => LARGE Candlestick
+       👉 More Time To Form => SMALL Candlestick
 
 -------------------------------------------------------------------------------------------------------------------------------
 
