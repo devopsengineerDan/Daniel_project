@@ -383,6 +383,12 @@ Higher Time Frame    Lower Time Frame
 
 > IMPULSIVE MOVE
 
+> RETRACEMENT
+
+> REVERSAL
+
+> EXPANSION
+
 
 
 
