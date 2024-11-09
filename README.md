@@ -371,7 +371,7 @@ Higher Time Frame    Lower Time Frame
 
 > OPEN INTERSEST => Total number of Future Contracts HELD/OPEN by market participants at the end of a day
 
-> SLLIPAGE => During FUNDAMENTALS Affects Take Profit and Stop Loss
+> SLIPPAGE => During FUNDAMENTALS Affects Take Profit and Stop Loss
 
 
 
@@ -392,6 +392,7 @@ Higher Time Frame    Lower Time Frame
 
 
 
+
 > FAIR VALUE GAP
 
 > VOLUME IMBALANCE
@@ -401,11 +402,28 @@ Higher Time Frame    Lower Time Frame
 
 
 
+
+
+> LIQUIDITY POOL
+
+> LIQUIDITY VOID
+
+> STOP RUN
+
+> EQUILIBRIUM
+
+
+
+
+
+
 > TIME BASED LIQUIDITY (TBL)
 
 > Buy Side Liquidity ==> BUY STOP LOSS  HUNT
 
 > Sell Side Liquidity ==> SELL STOP LOSS  HUNT
+
+
 
 
 
