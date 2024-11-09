@@ -95,6 +95,9 @@ FOREX EXCHANGE
 ```
 FUNDED NEXT
 FUNDING TRADERS.COM
+thelegendstrading.com
+
+
 SMB Capital
 ```
 
