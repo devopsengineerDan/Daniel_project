@@ -314,8 +314,14 @@ Higher Time Frame    Lower Time Frame
    0.5 => MEDIUM momentum/displacement
  
    1.0 => HIGH momentum/displacement => FUNDAMENTAL ===> M CAPITAL
+
+*******************************************************************************************************************************
+👉👉👉 1 MIN TIME FRAME
+
    2.5 OR 3.0 => HIGH momentum/displacement => FUNDAMENTAL ===> B CAPITAL
    4.5 OR 5.0 => HIGH momentum/displacement => FUNDAMENTAL ===> T CAPITAL
+
+*******************************************************************************************************************************
 
 
    🧨 TIME [15 MINUTES] ELECTIONS[POLITICS]
