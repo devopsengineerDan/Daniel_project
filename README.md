@@ -331,13 +331,13 @@ Higher Time Frame    Lower Time Frame
 
    🧨 TIME-FRAME [15 MINUTES] ELECTIONS[POLITICS]
    => 0.5 10MIN-5MIN
-   => 1.0 13MIN -10MIN and @@@@@@@@@@@@ Guided by PREVIOUS CANDLESTICK + 5MIN-0MIN @@@@@@@@@@@@
+   => 1.0 13MIN -10MIN and @@@@@@@@@@@@ Guided by PREVIOUS CANDLESTICK + 5MIN-0MIN-PD ARRAY @@@@@@@@@@@@
    => AIM for Specific Target Price AND / OR Order Block
 
 
    🧨 TIME-FRAME [15 MINUTES] FUNDAMENTAL
    => 0.5 13MIN-10MIN
-   => 1.0 13MIN -10MIN and @@@@@@@@@@@@ Guided by PREVIOUS CANDLESTICK + 10MIN-5MIN @@@@@@@@@@@@
+   => 1.0 13MIN -10MIN and @@@@@@@@@@@@ Guided by PREVIOUS CANDLESTICK + 10MIN-5MIN-PD ARRAY @@@@@@@@@@@@
    => AIM for Specific Target Price AND / OR Order Block
 
 
