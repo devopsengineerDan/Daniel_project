@@ -861,6 +861,7 @@ LLVM IR & ASSEMBLY
 ----------
 TOML
 BASH
+POWERSHELL
 ----------
 🌀 MICROPYTHON(Python Implementation)
 POSIX
