@@ -310,27 +310,30 @@ Higher Time Frame    Lower Time Frame
 
 -------------------------------------------------------------------------------------------------------------------------------
    🧨 LOT SIZE
+
+👉👉👉 15 MIN TIME-FRAME
+
    0.1 and 0.2 => SMALL momentum/displacement 
    0.5 => MEDIUM momentum/displacement
- 
+========================================================================== 
    1.0 => HIGH momentum/displacement => FUNDAMENTAL ===> M CAPITAL
 
 *******************************************************************************************************************************
-👉👉👉 1 MIN TIME FRAME
+👉👉👉 1 MIN TIME-FRAME
 
    2.5 OR 3.0 => HIGH momentum/displacement => FUNDAMENTAL ===> B CAPITAL
    4.5 OR 5.0 => HIGH momentum/displacement => FUNDAMENTAL ===> T CAPITAL
 
-*******************************************************************************************************************************
 
 
-   🧨 TIME [15 MINUTES] ELECTIONS[POLITICS]
+
+   🧨 TIME-FRAME [15 MINUTES] ELECTIONS[POLITICS]
    => 0.5 10MIN-5MIN
    => 1.0 13MIN -10MIN and @@@@@@@@@@@@ Guided by PREVIOUS CANDLESTICK + 5MIN-0MIN @@@@@@@@@@@@
    => AIM for Specific Target Price AND / OR Order Block
 
 
-   🧨 TIME [15 MINUTES] FUNDAMENTAL
+   🧨 TIME-FRAME [15 MINUTES] FUNDAMENTAL
    => 0.5 13MIN-10MIN
    => 1.0 13MIN -10MIN and @@@@@@@@@@@@ Guided by PREVIOUS CANDLESTICK + 10MIN-5MIN @@@@@@@@@@@@
    => AIM for Specific Target Price AND / OR Order Block
@@ -374,7 +377,7 @@ Higher Time Frame    Lower Time Frame
 
 # ICT STRATEGY - HFM BROKER
 
-> LOT => CONTRACT SIZE
+> LOT SIZE => CONTRACT SIZE
 
 > PD-ARRAY => Price level in which price react to Bullish or Bearish
 
