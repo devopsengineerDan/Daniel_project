@@ -301,10 +301,16 @@ Family
 
                                🧨 TIME => PURPOSE
                                                   
-🧨 TALENT AND REVIEW => GROWTH
+🧨 TALENT AND REVIEW => GROWTH => WAY
 
                                🧨  PRACTICE TO MAKE PERFECT => PHYSICAL NEED
 
+
+
+                               🧨 INFORMATION => OBSERVE, FEEL, LISTEN, TASTE, 6TH SENSE
+                               🧨 SILENCE
+                               🧨 STRATEGIC COMMUNICATION
+                               🧨 HARMONY WITH NATURE
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ==> SECURITY
@@ -3167,6 +3173,13 @@ nameserver 8.8.4.4
 
 
 # COMPUTER SYSTEM
+
+```
+🧨🧨🧨 BIOS 🧨🧨🧨
+
+==> Windows Button + B 
+```
+
 
 ```
 👉 CHANGE ROOT PASSWORD
