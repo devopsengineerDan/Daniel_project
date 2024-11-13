@@ -323,8 +323,8 @@ Higher Time Frame    Lower Time Frame
 *******************************************************************************************************************************
 👉👉👉 1 MIN TIME-FRAME
 
-   👉 2.5 OR 3.0 => HIGH momentum/displacement => FUNDAMENTAL ===> B CAPITAL
-   👉 4.5 OR 5.0 => HIGH momentum/displacement => FUNDAMENTAL ===> T CAPITAL
+   👉 🧨2.5 OR 3.0 => HIGH momentum/displacement => FUNDAMENTAL ===> B CAPITAL - 🧨1 MIN TIME-FRAME 
+   👉 🧨4.5 OR 5.0 => HIGH momentum/displacement => FUNDAMENTAL ===> T CAPITAL - 🧨1 MIN TIME-FRAME 
 
 
 
@@ -333,15 +333,16 @@ Higher Time Frame    Lower Time Frame
    => 0.5 10MIN-5MIN
    => AIM for Specific Target Price AND / OR Order Block
 ========================================================================== 
-   => 1.0 13MIN -10MIN and @@@@@@@@@@@@ Guided by PREVIOUS CANDLESTICK + 5MIN-0MIN-PD ARRAY @@@@@@@@@@@@
+   => 1.0 13MIN -10MIN and @@@@@@@@@@@@ Guided by PREVIOUS CANDLESTICK + 10MIN-5MIN-PD ARRAY @@@@@@@@@@@@
    => AIM for Specific Target Price AND / OR Order Block
 
 
    🧨 TIME-FRAME [15 MINUTES] 
    => 0.5 13MIN-10MIN
+   => 🧨1.0 13MIN-10MIN [INVERTED HAMMER / SHOOTING HAMMER]
    => AIM for Specific Target Price AND / OR Order Block
 ==========================================================================
-   👉👉👉 1 MIN TIME-FRAME
+   👉👉👉 1 MIN TIME-FRAME 
    => 1.0 13MIN -10MIN and @@@@@@@@@@@@ Guided by PREVIOUS CANDLESTICK + 10MIN-5MIN-PD ARRAY @@@@@@@@@@@@
    => AIM for Specific Target Price AND / OR Order Block
 
