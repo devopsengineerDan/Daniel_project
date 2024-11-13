@@ -200,7 +200,7 @@ Price Range
 
 > 8AM - 10AM - 12PM
 
->  3PM - 7PM - 9PM OR 15:00hrs - 18:00hrs - 21:00hrs
+>  3PM - 7PM - 9PM [- 11 PM on ELECTIONS] OR 15:00hrs - 18:00hrs - 21:00hrs [- 23:00hrs on ELECTIONS] 
 
 -----------------------------------------------------------------------------------------------
 
@@ -315,28 +315,33 @@ Higher Time Frame    Lower Time Frame
 
 👉👉👉 15 MIN TIME-FRAME
 
-   0.1 and 0.2 => SMALL momentum/displacement 
-   0.5 => MEDIUM momentum/displacement
+   👉 0.1 and 0.2 => SMALL momentum/displacement 
+   👉 0.5 => MEDIUM momentum/displacement
 ========================================================================== 
-   1.0 => HIGH momentum/displacement => FUNDAMENTAL ===> M CAPITAL
+   👉 1.0 => HIGH momentum/displacement => FUNDAMENTAL ===> M CAPITAL
 
 *******************************************************************************************************************************
 👉👉👉 1 MIN TIME-FRAME
 
-   2.5 OR 3.0 => HIGH momentum/displacement => FUNDAMENTAL ===> B CAPITAL
-   4.5 OR 5.0 => HIGH momentum/displacement => FUNDAMENTAL ===> T CAPITAL
+   👉 2.5 OR 3.0 => HIGH momentum/displacement => FUNDAMENTAL ===> B CAPITAL
+   👉 4.5 OR 5.0 => HIGH momentum/displacement => FUNDAMENTAL ===> T CAPITAL
 
 
 
 
-   🧨 TIME-FRAME [15 MINUTES] ELECTIONS[POLITICS]
+   🧨 TIME-FRAME [15 MINUTES] ELECTIONS[POLITICS] FUNDAMENTAL
    => 0.5 10MIN-5MIN
+   => AIM for Specific Target Price AND / OR Order Block
+========================================================================== 
    => 1.0 13MIN -10MIN and @@@@@@@@@@@@ Guided by PREVIOUS CANDLESTICK + 5MIN-0MIN-PD ARRAY @@@@@@@@@@@@
    => AIM for Specific Target Price AND / OR Order Block
 
 
-   🧨 TIME-FRAME [15 MINUTES] FUNDAMENTAL
+   🧨 TIME-FRAME [15 MINUTES] 
    => 0.5 13MIN-10MIN
+   => AIM for Specific Target Price AND / OR Order Block
+==========================================================================
+   👉👉👉 1 MIN TIME-FRAME
    => 1.0 13MIN -10MIN and @@@@@@@@@@@@ Guided by PREVIOUS CANDLESTICK + 10MIN-5MIN-PD ARRAY @@@@@@@@@@@@
    => AIM for Specific Target Price AND / OR Order Block
 
