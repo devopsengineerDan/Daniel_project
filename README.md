@@ -6,7 +6,16 @@
 ```
  FINANCIAL MODELLING && DATA ANALYTICS
 ```
+# PROFESSIONALS
 
+```
+Research,Market| Finance Analyst
+Asset Manager
+------------------------------
+Broker [STOCK|EQUITY,DERIVATIVES|CFD's|FOREX|CRYPTOCURRENCY] ===> NON-DEALING LICENSE
+------------------------------
+Investment Banker ===> DEALING LICENSE
+```
 
 ## FINANCE  FUNDAMENTALS
  
