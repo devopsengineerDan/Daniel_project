@@ -3,7 +3,7 @@
 
 #  33 MASTERY
  
-```s
+```
  FINANCIAL MODELLING && DATA ANALYTICS
 ```
 # PROFESSIONALS
@@ -15,9 +15,10 @@ Asset Manager
 Broker [STOCK|EQUITY,DERIVATIVES|CFD's|FOREX|CRYPTOCURRENCY] ===> NON-DEALING LICENSE
 ------------------------------
 Investment Banker ===> DEALING LICENSE
+===========================================================================================================
 
 🧨🧨🧨 NSE Nairobi Stock Exchange
-capital Markets Authority
+🧨🧨🧨 Capital Markets Authority
 ```
 
 ## FINANCE  FUNDAMENTALS
