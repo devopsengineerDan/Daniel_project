@@ -1,5 +1,5 @@
 
-> [!ALERT]
+> ***Alert***
 
 > `Ensure that the Asana application is not installed in the system`
 
