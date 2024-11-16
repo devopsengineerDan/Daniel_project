@@ -1,9 +1,3 @@
-
-> ***Alert***
-
-> `Ensure that the Asana application is not installed in the system`
-
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 *Mogire Victor Maranga UNITS IMAGE + DETAILS 5(registrar,skul,dep<->examdean,list,financeVICTORCOMPLETESTATUS)-2(scripts,letter)
 *Shilla 2(scripts,letter)
