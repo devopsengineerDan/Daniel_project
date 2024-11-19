@@ -331,6 +331,7 @@ Family
 
                        ==> CONSCIOUSNESS
                        ==> BELIEF
+                       ==> 🧨🧨🧨👉👉👉 CONSTITUTION / AGREEMENT
 
 ENERGY
 
