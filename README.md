@@ -473,6 +473,8 @@ Higher Time Frame    Lower Time Frame
 
 > The Inner Circle Trader Channel ======> 5MARKET MAKER , 3PRECISION CONCEPTS,  SNIPER => 3SCALPING 2OPTIMAL TRADE ENTRY
 
+> PRICE DELIVERY =====> Expansion -> Retracement -> Reversal -> Consolidation -> Expansion-> REPEAT
+
 ![title](static/img/1.jpg)
 ![title](static/img/2.jpg)
 ![title](static/img/3.jpg)
