@@ -432,7 +432,6 @@ Higher Time Frame    Lower Time Frame
 
 > MARKET STRUCTURE / OVERALL MARKET TREND
 
-> EXPANSION
 
 
 
@@ -449,7 +448,7 @@ Higher Time Frame    Lower Time Frame
 
 
 
-> LIQUIDITY POOL
+> LIQUIDITY POOL / LIQUIDITY SWEEP
 
 > LIQUIDITY VOID
 
