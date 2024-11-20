@@ -454,7 +454,7 @@ Higher Time Frame    Lower Time Frame
 
 > STOP RUN
 
-> EQUILIBRIUM
+> PRICE EQUILIBRIUM
 
 
 
