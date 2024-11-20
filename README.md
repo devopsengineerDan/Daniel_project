@@ -342,8 +342,10 @@ Higher Time Frame    Lower Time Frame
    👉 🧨2.5 OR 3.0 => HIGH momentum/displacement => FUNDAMENTAL ===> B CAPITAL - 🧨1 MIN TIME-FRAME🧨
    👉 🧨4.5 OR 5.0 => HIGH momentum/displacement => FUNDAMENTAL ===> T CAPITAL - 🧨1 MIN TIME-FRAME🧨
 
-✅ 0.5 VERY LONG TRADES
-✅ 1.0 LONG TRADES
+
+   ✅ 0.5 VERY LONG TRADES
+   ✅ 1.0 LONG TRADES
+
 
    ✅ 
    🧨 TIME-FRAME [15 MINUTES] ELECTIONS[POLITICS] FUNDAMENTAL
