@@ -342,22 +342,25 @@ Higher Time Frame    Lower Time Frame
    👉 🧨2.5 OR 3.0 => HIGH momentum/displacement => FUNDAMENTAL ===> B CAPITAL - 🧨1 MIN TIME-FRAME🧨
    👉 🧨4.5 OR 5.0 => HIGH momentum/displacement => FUNDAMENTAL ===> T CAPITAL - 🧨1 MIN TIME-FRAME🧨
 
+✅ 0.5 VERY LONG TRADES
+✅ 1.0 LONG TRADES
 
-
+   ✅ 
    🧨 TIME-FRAME [15 MINUTES] ELECTIONS[POLITICS] FUNDAMENTAL
-   => 0.5 10MIN-5MIN
+   => 0.5 10MIN->5MIN
    => AIM for Specific Target Price AND / OR Order Block
 ========================================================================== 
-   => 1.0 13MIN -10MIN and @@@@@@@@@@@@ Guided by PREVIOUS CANDLESTICK + 10MIN-0MIN-PD ARRAY @@@@@@@@@@@@
+   => 1.0 13MIN -10MIN and @@@@@@@@@@@@ Guided by PREVIOUS CANDLESTICK + 10MIN->0MIN->PD ARRAY / Target Price @@@@@@@@@@@@
    => AIM for Specific Target Price AND / OR Order Block
 
 
 
+   
    🧨 TIME-FRAME [15 MINUTES]  🧨SMALL+EASY MONEY🧨
-   => 0.5 13MIN-10MIN
+   => 0.5 13MIN->10MIN
    => AIM for Specific Target Price AND / OR Order Block
 ========================================================================== 
-   => 🧨1.0 13MIN-10MIN [INVERTED HAMMER / SHOOTING HAMMER]
+   => 🧨1.0 13MIN->10MIN [INVERTED HAMMER / SHOOTING HAMMER]
    => AIM for Specific Target Price AND / OR Order Block
 
 
@@ -367,8 +370,9 @@ Higher Time Frame    Lower Time Frame
    => 1.0 
    => AIM for Specific END OF I MIN
 ==========================================================================
+   ✅ 
    👉👉👉 AFTER FUNDAMENTAL 🧨PULLBACK / RETEST🧨
-   => 1.0 13MIN -10MIN and @@@@@@@@@@@@ Guided by PREVIOUS CANDLESTICK + 10MIN-5MIN-PD ARRAY @@@@@@@@@@@@
+   => 1.0 13MIN -10MIN and @@@@@@@@@@@@ Guided by PREVIOUS CANDLESTICK + 10MIN-5MIN-PD ARRAY / Target Price @@@@@@@@@@@@
    => AIM for Specific Target Price AND / OR Order Block
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
