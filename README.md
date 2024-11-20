@@ -280,14 +280,21 @@ RESPECT LAWS + MANAGE RESOURCES + RISK MANAGEMENT
 3 Always use Trailing Take Profit and Stop Loss(Modify Take Profit and Stop Loss)
 
 -------------------------------------------------------------------------------------------------------------------------------
-******🧨 FX BLUE ==> AWARE of BASE CURRENCY STRENGTH [USD] 🧨****
-*****🧨 FOREX FACTORY ==> AWARE of FUNDAMENTALS [Economic News, Fed Speech, Politics, Natural Calamities] 🧨*****
-******🧨 NOT EVERY DAY IS A TRADING DAY 🧨****
+******🧨 FX BLUE ==> AWARE of BASE CURRENCY STRENGTH [USD] 🧨******
+**** *🧨 FOREX FACTORY ==> AWARE of FUNDAMENTALS [Economic News, Fed Speech, Politics, Natural Calamities] 🧨******
+******🧨 NOT EVERY DAY IS A TRADING DAY 🧨******
+
 -------------------------------------------------------------------------------------------------------------------------------
-******🧨 DO NOT EXCHANGE MONEY WITH LIQUID PROVIDER, ONCE PRICE HAS REACHED HIGHEST POINT,  EXIT TRADE 🧨****
-******🧨 DO NOT TRADE RESISTANCE OR SUPPORT 🧨****
-******🧨 DO NOT TRADE STOP LOSS HUNT/SWEEP For Example: HIGHEST POINT => BEAR TRAP OR LOWEST POINT => BULL TRAP 🧨****
+******🧨 DO NOT EXCHANGE MONEY WITH LIQUID PROVIDER, ONCE PRICE HAS REACHED HIGHEST POINT,  EXIT TRADE 🧨******
+******🧨 DO NOT TRADE RESISTANCE, SUPPORT🧨******
+******🧨 DO NOT TRADE ORDER BLOCK🧨******
+******🧨 DO NOT TRADE STOP LOSS HUNT, LIQUIDITY SWEEP For Example: HIGHEST POINT => BEAR TRAP OR LOWEST POINT => BULL TRAP 🧨******
+******🧨 9. AVOID THESE CANDLESTICKS 🧨******
+   ====> DO NOT Trade small wick and small body
+   ====> DO NOT Trade CONSOLIDATION small wick and small body
+   ====> DO NOT Trade Doji Candlestick / Indecision / Equal Sellers and Buyers Volumes
 -------------------------------------------------------------------------------------------------------------------------------
+
 🧨 FUNDAMENTAL ====> 2 MINUTES FOR ENTRY, CHECK ANALYSIS ON 15 MINUTES, FOREX FACTORY *** REFRESH ***  1 MIN AND 30 SECONDS 🧨
 🧨 % FOR SPIKE == WICK, K FOR MOVEMENT == BODY 🧨
 🧨 PLACE TRADE WHEN  BODY IS FORMED 🧨
@@ -306,12 +313,8 @@ Higher Time Frame    Lower Time Frame
 6. Trade in harmony with the Trend not AGAINST.
 7. Be PATIENT with the trading market then PLACE YOUR TRADE
 8. Trade AFTER a CONFIRMATION CANDLESTICK
-🧨 9. AVOID THESE CANDLESTICKS
-   ====> DO NOT Trade small wick and small body
-   ====> DO NOT Trade CONSOLIDATION small wick and small body
-   ====> DO NOT Trade Doji Candlestick / Indecision / Equal Sellers and Buyers Volumes
-   ====> DO NOT Trade Order Block
-🧨 10. TRADE SETUP + ENTRY + [NOT EVERY DAY IS A TRADING DAY]
+
+🧨 9. TRADE SETUP + ENTRY + [NOT EVERY DAY IS A TRADING DAY]
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -372,11 +375,18 @@ Higher Time Frame    Lower Time Frame
 
 
    🧨 CANDLESTICK OBSERVATION
-   => Candlestick Previous Patterns
-   => Candlestick Behaviour => IMPULSIVE or NOT
-   => Candlestick Duration / Time Period To Form 
+   WHY  => Candlestick Duration / Time Period To Form 
        👉 Less Time To Form => LARGE Candlestick
        👉 More Time To Form => SMALL Candlestick
+   HOW  => Candlestick Behaviour => IMPULSIVE or NOT
+   WHAT => Candlestick Previous Patterns
+       👉 BODY tells Story and WICK tells Destruction
+
+   🧨 ORDER BLOCK OBSERVATION
+       👉 1 Resistance
+       👉 2 Equilibrium
+       👉 3 Support
+
 
 -------------------------------------------------------------------------------------------------------------------------------
 
