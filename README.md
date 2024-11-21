@@ -390,7 +390,7 @@ Higher Time Frame    Lower Time Frame
 
    🧨 ORDER BLOCK OBSERVATION
        👉 1 Resistance
-       👉 2 Equilibrium
+       👉 2 Equilibrium / Fibonacci
        👉 3 Support
 
 
@@ -470,7 +470,7 @@ Higher Time Frame    Lower Time Frame
 
 > STOP RUN
 
-> PRICE EQUILIBRIUM
+> PRICE EQUILIBRIUM /FIBONACCI
 
 
 
