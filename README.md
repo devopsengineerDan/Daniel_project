@@ -103,15 +103,22 @@ FOREX EXCHANGE
 # FINANCIAL ANALYST PROFESSIONAL
 
 
-## FOREX PROP FUNDS
+## FOREX COMPANIES
  
 ```
 FUNDED NEXT
 FUNDING TRADERS.COM
+
+
+
 thelegendstrading.com
-
-
 SMB Capital
+
+
+
+XTX Markets
+Renaissance Technologies
+Henriot Group => Gamma Delta Fund
 ```
 
 
