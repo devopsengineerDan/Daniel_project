@@ -429,7 +429,7 @@ Higher Time Frame    Lower Time Frame
 
 > PD-ARRAY => Price level in which price react to Bullish or Bearish
 
-> OPEN INTERSEST => Total number of Future Contracts HELD/OPEN by market participants at the end of a day
+> OPEN INTEREST => Total number of Future Contracts HELD/OPEN by market participants at the end of a day
 
 > SLIPPAGE => During FUNDAMENTALS Affects Take Profit and Stop Loss
 
@@ -448,6 +448,8 @@ Higher Time Frame    Lower Time Frame
 > REVERSAL / MARKET SHIFT
 
 > MARKET STRUCTURE / OVERALL MARKET TREND
+
+> IMPULSIVE PRICE SWING (High / Low)
 
 
 
@@ -469,11 +471,20 @@ Higher Time Frame    Lower Time Frame
 
 > LIQUIDITY VOID
 
+> LIQUIDITY RUN
+
 > STOP RUN
 
-> PRICE EQUILIBRIUM /FIBONACCI
 
 
+
+> PRICE EQUILIBRIUM / FIBONACCI / FAIR VALUATION
+
+> EQUILIBRIUM PRICE vs DISCOUNT PRICE / EQUILIBRIUM PRICE vs PREMIUM PRICE
+
+> PRICE DELIVERY =====> Expansion  ->  Retracement  ->  Reversal  ->  Consolidation  ->  Expansion  ->  REPEAT
+
+> PRICE DELIVERY =====> Accumulatio  ->  Manipulation  ->  Distribution
 
 
 
