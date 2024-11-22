@@ -191,16 +191,21 @@ Rigid/ Brick Wall          => Productive while GAINING
 
 🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀
 
+🧨🧨🧨 CONSIENTIOUS, CHARISMATIC, MATURE  ======> Hold Strong, Move Fast
 =========>  WORK + GET REWARD => SOLUTION PROVIDER
 
-=========> PURPOSE
-=========> GROWTH
-=========> LIVELIHOOD / SHELTER
+
+
+=========> PURPOSE     🧨🧨🧨 DESICIVE
+=========> GROWTH      🧨🧨🧨 ADAPTIVE
+=========> LIVELIHOOD / SHELTER    🧨🧨🧨 PRODUCTIVE ACTION
 
 🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀
-                                                     🧨 NO SPECULATION
+
+
+                                                     🧨🧨🧨 NO SPECULATION
  
-       🧨 NO RANDOMNESS                              🧨 NO LOSING OF MONEY
+       🧨🧨🧨 NO RANDOMNESS                          🧨🧨🧨 NO LOSING OF MONEY
        Opportunist/Take Advantage                    Steal
        => Little Token                               => Little Token
 
