@@ -487,7 +487,9 @@ Higher Time Frame    Lower Time Frame
 
 > PRICE EQUILIBRIUM / FIBONACCI / FAIR VALUATION
 
-> EQUILIBRIUM PRICE vs DISCOUNT PRICE(50% - 60%) / EQUILIBRIUM PRICE vs PREMIUM PRICE(79% - Reversal)
+> EQUILIBRIUM PRICE vs DISCOUNT PRICE(BUYERS) / EQUILIBRIUM PRICE vs PREMIUM PRICE(SELLERS)
+
+> AIM for (79% - Reversal)
 
 > PRICE DELIVERY =====> Expansion  ->  Retracement  ->  Reversal  ->  Consolidation  ->  Expansion  ->  REPEAT
 
