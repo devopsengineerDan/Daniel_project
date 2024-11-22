@@ -343,15 +343,16 @@ Higher Time Frame    Lower Time Frame
    👉 🧨4.5 OR 5.0 => HIGH momentum/displacement => FUNDAMENTAL ===> T CAPITAL - 🧨1 MIN TIME-FRAME🧨
 
 
-   ✅ 0.5 VERY LONG TRADES
-   ✅ 1.0 LONG TRADES
+   ✅ 0.5 VERY LONG TRADES  
+   ✅ 1.0 LONG TRADES ===> RETEST / PULLBACK
 
 
-   ✅ 
+   
    🧨 TIME-FRAME [15 MINUTES] ELECTIONS[POLITICS] FUNDAMENTAL
    => 0.5 10MIN->5MIN
    => AIM for Specific Target Price AND / OR Order Block
-========================================================================== 
+==========================================================================
+   ✅
    => 1.0 13MIN -10MIN and @@@@@@@@@@@@ Guided by PREVIOUS CANDLESTICK + 10MIN->0MIN->PD ARRAY / Target Price @@@@@@@@@@@@
    => AIM for Specific Target Price AND / OR Order Block
 
