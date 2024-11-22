@@ -159,7 +159,7 @@ PROTECT Life, Liberty, Equality and Property
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 				
-       🧨🧨🧨🧨🧨🧨LIFE CRUCIAL LESSONS🧨🧨🧨🧨🧨🧨🧨
+       🧨🧨🧨🧨🧨🧨🧨 LIFE CRUCIAL LESSONS 🧨🧨🧨🧨🧨🧨🧨🧨
 
 AWARE                                         ALIVE
 INCREASE IN WEALTH                            A+ [Accurate, (Know your Position and other Parties Positions and Be Alive to Yourself and to all other Parties), Humble and Generous/Kind]
@@ -175,24 +175,34 @@ FOOD+WATER            DETORIORATE (DRUNKARD)          REALISTIC(OWN) <=> VIBRATI
                                                                🧨🧨🧨 SHORT/LOSS/STEAL  => Result to Destruction then DEATH
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+        🧨🧨🧨🧨🧨🧨🧨🧨  BAD SITUATIONS  🧨🧨🧨🧨🧨🧨🧨🧨
+Naive 
+Foolish / Laziness
+Ignorance / Stupid
 
-Naive
-Foolish
-Ignorance/ Stupid
-
-🧨🧨🧨 CON(Naive)-LIE(Foolishness)-THEFT(Ignorance)
+🧨🧨🧨 CON(Naive) - LIE(Foolishness) - THEFT(Ignorance)
+🧨🧨🧨 Delay -   Excuse -  Failure
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🌀
+
 Undecisive/ Stagnant       => Careful Decision Making to be CORRECT and EFFECTIVE
 Chaos                      => Intelligent Adapting to be BETTER
 Rigid/ Brick Wall          => Productive while GAINING       
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🌀
-       WORK + GET REWARD
-       
-       NO RANDOMNESS                                   NO LOSING OF MONEY
-       Opportunist/Take Advantage                     Steal
-       => Little Token                                => Little Token
+
+🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀
+
+=========>  WORK + GET REWARD => SOLUTION PROVIDER
+
+=========> PURPOSE
+=========> GROWTH
+=========> LIVELIHOOD / SHELTER
+
+🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀
+                                                     🧨 NO SPECULATION
+ 
+       🧨 NO RANDOMNESS                              🧨 NO LOSING OF MONEY
+       Opportunist/Take Advantage                    Steal
+       => Little Token                               => Little Token
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -270,7 +280,7 @@ Educational => Exploit
 
 Desire
 Dream
-Pain<=>Need
+Pain <===> Need
 
 ===> SURVIVE
 ===> AWARENESS
