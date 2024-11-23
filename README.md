@@ -352,7 +352,8 @@ Higher Time Frame    Lower Time Frame
 
    ✅ 0.5 VERY LONG TRADES  
    ✅ 1.0 LONG TRADES ===> RETEST / PULLBACK
-
+   ✅ CLOSE TRADES AT 1PM
+   ✅ THEN TRADE RETEST / PULLBACK
 
    
    🧨 TIME-FRAME [15 MINUTES] ELECTIONS[POLITICS] FUNDAMENTAL
@@ -444,6 +445,7 @@ Higher Time Frame    Lower Time Frame
 
 
 
+
 > RANGE / CONSOLIDATION / CHOPPY
 
 > MOMENTUM / DISPLACEMENT Candlestick
@@ -463,11 +465,13 @@ Higher Time Frame    Lower Time Frame
 
 
 
+
 > FAIR VALUE GAP
 
 > VOLUME IMBALANCE
 
 > GAP
+
 
 
 
@@ -481,6 +485,13 @@ Higher Time Frame    Lower Time Frame
 > LIQUIDITY RUN
 
 > STOP RUN
+
+> HIGH RESISTANCE LIQUIDITY RUN => 79% and Higher Fibonnacci
+
+>LOW RESISTANCE LIQUIDITY RUN => 50% and Lower Fibonnacci
+
+
+
 
 
 
@@ -498,11 +509,17 @@ Higher Time Frame    Lower Time Frame
 
 
 
+
+
+
 > TIME BASED LIQUIDITY (TBL)
 
 > Buy Side Liquidity ==> BUY STOP LOSS  HUNT
 
 > Sell Side Liquidity ==> SELL STOP LOSS  HUNT
+
+
+
 
 
 
