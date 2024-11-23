@@ -354,6 +354,12 @@ Higher Time Frame    Lower Time Frame
    ✅ 1.0 LONG TRADES ===> RETEST / PULLBACK
    ✅ CLOSE TRADES AT 1PM
    ✅ THEN TRADE RETEST / PULLBACK
+------------------------------------------------------------------------------
+   🧨 AVOID Equilibrium Consolidation, Fundamental Retracement, Swing Reversal
+
+
+
+
 
    
    🧨 TIME-FRAME [15 MINUTES] ELECTIONS[POLITICS] FUNDAMENTAL
