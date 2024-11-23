@@ -355,7 +355,7 @@ Higher Time Frame    Lower Time Frame
    ✅ CLOSE TRADES AT 1PM
    ✅ THEN TRADE RETEST / PULLBACK
 ------------------------------------------------------------------------------
-   🧨 AVOID Equilibrium Consolidation, Fundamental Retracement, Swing Reversal
+   🧨 AVOID Equilibrium WIDE Consolidation, Fundamental LONG Retracement, Swing LONG Reversal
 
 
 
