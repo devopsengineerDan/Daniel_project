@@ -467,7 +467,7 @@ Higher Time Frame    Lower Time Frame
 
 > IMPULSIVE PRICE SWING (High / Low)
 
-
+> FAKE-OUTS
 
 
 
