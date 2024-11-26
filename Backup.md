@@ -10630,8 +10630,157 @@ https://www.henriotgroup.com/
 https://www.gammadeltafund.com/
 https://www.tradingview.com/symbols/AUDUSD/?utm_campaign=ticker-tape&utm_medium=widget_new&utm_source=www-gammadeltafund-com.filesusr.com
 https://t.me/thegammadeltafund
-```					
+```
+
+
+
+
+
+
+
+
+
+
+##############################################################################################################################################################################################################################################
 					
+
+===============================================================================================    
+
+30M => 10M[2Bedroom @ 10M] * 1[HOUSE] + 20M[2Bedroom @ 8/9M EACH] * 2[HOUSES] ===> SPACIOUS HOUSE + PREMIUM WELL-ESTABLISHED AREA ===> EXTRA HIGH-END
+   
+   
+    => 4M/2M BALANCE
+    => Week=75K Month=300K 12%=Year=3.6M 9Years=32,400,000 + 300,000 BONUS
+    
+    
+    MALINDI => [BLUFF NGO OWNERSHIP] ===> CONCRETE-WIRE FENCE + TREE PLANTING + FARMING(1Manager and 1Dweller)
+    1=> 1M 25 HECTARES => MINE FOREX ----> MALINDI HIGH-END RENTAL RESIDENTIAL APARTMENTS
+    2=> 1M 25 HECTARES => DAD and Refund After a Year 100K Per Month FROM DAD'S BUSKET ----> MALINDI HIGH-END RENTAL RESIDENTIAL APARTMENTS
+    
+    
+    MALINDI => [BLUFF NGO OWNERSHIP] ===> CONCRETE-WIRE FENCE + TREE PLANTING + FARMING(1Manager and 2Dwellers)
+    => 4M/2M BALANCE =>  4M 100 HECTARES => 4M BALANCE
+    1=> 50 HECTARES =>  HIGH-END HOTEL RESORT + GOLF COURSE
+    2=> 50 HECTARES => 25 HECTARES ----> MALINDI HIGH-END RENTAL RESIDENTIAL APARTMENTS
+                    => 25 HECTARES ----> MALINDI HIGH-END RENTAL RESIDENTIAL APARTMENTS
+    
+===============================================================================================    
+
+30M => 10M[2Bedroom @ 10M] * 1[HOUSE] ===> SPACIOUS HOUSE + PREMIUM WELL-ESTABLISHED AREA ===> EXTRA HIGH-END => BACKUP @@@ TOP CREAM
+    => 15M [2Bedroom @ 5M EACH] * 3[HOUSES] ===> SPACIOUS HOUSE + PREMIUM WELL-ESTABLISHED AREA ===> HIGH-END
+    => 4M [4 _Seperate Lands_ REMOTE LARGE pieces of lands @ 1M EACH] * 4[MASSIVE LANDS]  ===> CONCRETE-WIRE FENCE + TREE PLANTING + FARMING(1Manager and 4Dwellers)
+       
+    => 1M BALANCE OF SECOND DEAL1[SWANAPOLE DAD LAND NAIVASHA @ 1M] * 1[MASSIVE LAND]  ===> CONCRETE-WIRE FENCE + TREE PLANTING + FARMING(1Manager and 1Dweller) + CONTINUOUS BASKET FILLING
+   
+    => Week=75K Month=300K 12%=Year=3.6M 9Years=32,400,000 + 300,000 BONUS
+
+-----------------------------------------------------------------------------------------------
+
+30M => 10M[2Bedroom @ 10M]  * 1[HOUSE] ===> SPACIOUS HOUSE + PREMIUM WELL-ESTABLISHED AREA ===> EXTRA HIGH-END => 33 ENGINEER @@@ TOP CREAM  
+    => 1M[ZOLLY {COMPLETE SCHOOL FEES} + {HOUSE RENT 2 YEARS + 2 YEARS LIVELIHOOD}] 
+    => 1M SUPPORT OF ZOLLY + BERRETTA
+    *******=> GOAL *******===> (ZOLLY + MUM) UNTIL SCHOOL ENDS, NEED ZOLLY EXPERTISE(ACCONTING, TAX, ASSET MANAGEMENT----> International Certification in the 3)
+    => 1M[HEALTH COVER + INSURANCE COVER]
+    
+    
+    => 10M BALANCE OF SECOND DEAL2
+    => Week=75K Month=300K 12%=Year=3.6M 9Years=32,400,000 + 300,000 BONUS 
+        
+-----------------------------------------------------------------------------------------------
+
+30M => 10M[2Bedroom @ 10M]  * 1[HOUSE] ===> SPACIOUS HOUSE + PREMIUM WELL-ESTABLISHED AREA ===> EXTRA HIGH-END => SOFTWARE ENGINEER @@@ TOP CREAM
+    => 10M [2 Seperate REMOTE VERY LARGE pieces of lands @ ***RANCH*** 5M EACH] * 2[RANCH LANDS]  ===> CONCRETE-WIRE FENCE + TREE PLANTING + FARMING(1Manager and 2Dweller)
+   
+   
+    => 10M BALANCE OF SECOND DEAL3
+    => Week=75K Month=300K 12%=Year=3.6M 9Years=32,400,000 + 300,000 BONUS 
+    
+-----------------------------------------------------------------------------------------------
+ 
+30M => 10M[2Bedroom @ 10M]  * 1[HOUSE] ===> SPACIOUS HOUSE + PREMIUM WELL-ESTABLISHED AREA ===> EXTRA HIGH-END => SECURITY ENGINEER @@@ TOP CREAM
+ 
+ 
+    => 20M BALANCE OF SECOND DEAL4
+    => Week=75K Month=300K 12%=Year=3.6M 9Years=32,400,000 + 300,000 BONUS
+    
+-----------------------------------------------------------------------------------------------
+ 
+30M => 10M[2Bedroom @ 10M]  * 1[HOUSE] ===> SPACIOUS HOUSE + PREMIUM WELL-ESTABLISHED AREA ===> EXTRA HIGH-END => ALPHA AND OMEGA ENGINEER @@@ TOP CREAM
+ 
+ 
+    => 20M BALANCE OF SECOND DEAL5[10M{GROUND-WORK + MISCELLENEOUS} + 10M{RESORT GET-AWAY + CLASSROOMS SECTION}]
+    => Week=75K Month=300K 12%=Year=3.6M 9Years=32,400,000 + 300,000 BONUS
+    
+    
+===============================================================================================    
+
+2M => 2M[1Bedroom @ 2M] * 1[HOUSE] ===> SPACIOUS HOUSE + PREMIUM WELL-ESTABLISHED AREA => EXTRA HIGH-END
+   => Week=5K Month=20K 12%=Year=240K 9Years=2,160,000 + 20,000 BONUS
+
+===============================================================================================  
+2 HOUSES
+1ST HOUSE => CONTINUOUS BASKET FILLING + MARKET SHOCK ABSORBER
+2ND HOUSE => DAD GOES --> CUT COST OF HOUSE ZOLLY MOM + BERRETTA POULTRY BUSINESS
+          => CONTINUOUS BASKET FILLING + MARKET SHOCK ABSORBER
+===============================================================================================
+ 
+ 
+*****************************************************************************************************************************************
+ 
+BACKUP LIFE BASKET => ***USED**1M BALANCE OF SECOND DEAL1* + 12/13M BALANCE OF SECOND DEAL2 + 10M BALANCE OF SECOND DEAL3 + 20M BALANCE OF SECOND DEAL4 + ***USED**20M BALANCE OF SECOND DEAL5* 
+                   => FOREX CONTINUOUS INCOME
+                   
+RENT BASKET => 120K => 1YEARS RENT=2025
+            => 120K => 1YEAR=2026
+            => 120K => 1YEAR RENT[1EXTRA]=2027
+            
+LIVELIHOOD BASKET => 120K + 120K
+MEDICAL COVER => 
+
+DAD 
+=> INVESTMENT => PER MONTH
+=> RELATIONSHIP => PER MONTH
+=> MEDICAL COVER => PER MONTH
+=> MISCELLENEOUS => PER MONTH
+
+WIVES => PER MONTH
+=> INVESTMENT => PER MONTH
+=> RELATIONSHIP => PER MONTH
+=> MEDICAL COVER => PER MONTH
+=> MISCELLENEOUS => PER MONTH 
+
+FAMILY 
+=> INVESTMENT => PER MONTH
+=> RELATIONSHIP => PER MONTH
+=> MEDICAL COVER => PER MONTH
+=> MISCELLENEOUS => PER MONTH 
+
+*****************************************************************************************************************************************
+
+2025 => B => FINANCIAL ENGINEERING [DOC + SCRIPTS] [100K + 300K] -> If it goes as planned save CASH
+2027 => M => BUSINESS ADMINISTRATION [DOC + SCRIPTS] [100K + 300K] -> If it goes as planned give out [300K + 300K = 600K CASH NEXT YEAR]
+
+*****************************************************************************************************************************************
+
+2028 => GIVE 600K CASH TO SYSTEM JAMES + VACATE RUAI HOUSE 
+
+===> ***HAVE*** 1. BROKERAGE Institution + 2. SECURITIES Institution  + 3. LIQUIDITY Institution
+===> START FAMILY
+
+*****************************************************************************************************************************************
+
+2035 => TERMINATE CONTRACT with my 2 CLIENTS 
+     ------> MAINTAIN CONNECTION WITH 2 CLIENTS
+     => FREE MAN From my 2 CLIENTS
+     => WITHDRAW From HENRIOT GROUP GAMMA DELTA + WITHDRAW INVESTED MONEY + INTEREST
+     ------> MAINTAIN CONNECTION WITH HENRIOT GROUP GAMMA DELTA PROFESSIONALS 
+        
+===> ***HAVE*** 1. BROKERAGE Institution + 2. SECURITIES Institution  + 3. LIQUIDITY Institution
+===> MAINTAIN FAMILY
+
+===> ENTER GOVERNMENT
+
+*****************************************************************************************************************************************
 
 
 
