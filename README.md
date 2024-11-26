@@ -351,9 +351,9 @@ Higher Time Frame    Lower Time Frame
    👉 🧨2.5 OR 3.0 => HIGH momentum/displacement => FUNDAMENTAL ===> B CAPITAL - 🧨1 MIN TIME-FRAME🧨
    👉 🧨4.5 OR 5.0 => HIGH momentum/displacement => FUNDAMENTAL ===> T CAPITAL - 🧨1 MIN TIME-FRAME🧨
 
-   🌀 DAY TRADER => HAVE A TARGET && TRUST YOUR STRATEGY 🌀
-   ✅ 0.5 VERY LONG TRADES  
-   ✅ 1.0 LONG TRADES ===> RETEST / PULLBACK
+   🌀 DAY TRADER => HAVE A TARGET && TRUST YOUR STRATEGY 🌀 MEDIUM & LARGE SCALE 🌀
+   ✅ 0.5 VERY LONG TRADES [VERY LARGE SCALE] 
+   ✅ 1.0 LONG TRADES ===> RETEST / PULLBACK [MEDIUM & LARGE SCALE]
    ✅ CLOSE TRADES AT 1PM
    ✅ THEN TRADE RETEST / PULLBACK
 ------------------------------------------------------------------------------
@@ -368,8 +368,8 @@ Higher Time Frame    Lower Time Frame
    => 0.5 10MIN->5MIN
    => AIM for Specific Target Price AND / OR Order Block
 ==========================================================================
-  🌀 SCALPER => DON'T EXCHANGE MONEY WITH LIQUIDITY PROVIDER / MARKET MAKER 🌀
-   ✅
+   🌀 SCALPER => DON'T EXCHANGE MONEY WITH LIQUIDITY PROVIDER / MARKET MAKER 🌀 SMALL SCALE 🌀
+   ✅ 1.0 LONG TRADES ===> RETEST / PULLBACK [SMALL SCALE]
    => 1.0 13MIN -10MIN and @@@@@@@@@@@@ Guided by PREVIOUS CANDLESTICK + 10MIN->0MIN->PD ARRAY / Target Price @@@@@@@@@@@@
    => AIM for Specific Target Price AND / OR Order Block
 
@@ -386,12 +386,13 @@ Higher Time Frame    Lower Time Frame
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-   👉👉👉 1 MIN TIME-FRAME FUNDAMENTAL 🧨BREAKOUT🧨
+ 👉👉👉 1 MIN TIME-FRAME FUNDAMENTAL 🧨BREAKOUT🧨
    => 1.0 
    => AIM for Specific END OF I MIN
 ==========================================================================
-   ✅ 
-   👉👉👉 AFTER FUNDAMENTAL 🧨PULLBACK / RETEST🧨
+   🌀 SCALPER => DON'T EXCHANGE MONEY WITH LIQUIDITY PROVIDER / MARKET MAKER 🌀 SMALL SCALE 🌀
+   ✅ 1.0 LONG TRADES ===> RETEST / PULLBACK [SMALL SCALE]
+👉👉👉 AFTER FUNDAMENTAL 🧨PULLBACK / RETEST🧨
    => 1.0 13MIN -10MIN and @@@@@@@@@@@@ Guided by PREVIOUS CANDLESTICK + 10MIN-5MIN-PD ARRAY / Target Price @@@@@@@@@@@@
    => AIM for Specific Target Price AND / OR Order Block
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
