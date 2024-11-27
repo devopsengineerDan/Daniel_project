@@ -4815,6 +4815,15 @@ https://lnkd.in/gc5p5Jss
 # SOFTWARE ENGINEERING (QUANTUM AI, QUANTUM MECHANICS ,AI && DIGITAL COMPUTING) : (ANALOGUE ELECTRONICS AND MECHANICS)
 
 
+🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨 CONFIGURATIONS 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
+
+```
+👉 DOMAIN HOSTING
+👉 WEB HOSTING
+👉 EMAIL HOSTING
+👉 SEARCH ENGINE OPTIMIZATION
+```
+
 
 ```
 => AI
