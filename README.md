@@ -291,8 +291,11 @@ RESPECT LAWS + MANAGE RESOURCES + RISK MANAGEMENT
 -------------------------------------------------------------------------------------------------------------------------------
 ******🧨 FX BLUE ==> AWARE of BASE CURRENCY STRENGTH [USD] 🧨******
 **** *🧨 FOREX FACTORY ==> AWARE of FUNDAMENTALS [Economic News, Fed Speech, Politics, Natural Calamities] 🧨******
-******🧨 NOT EVERY DAY IS A TRADING DAY 🧨******
+******🧨 NOT EVERY DAY IS A TRADING DAY, YOU DON'T HAVE TO PLACE A TRADE, HENCE SAVE MONEY IN YOUR ACCOUNT <-----> ONLY PLACE QUALITY TRADES 🧨******
 
+      ✅ TRADE ON TWO FULL SCREEN -----> PRICE EMPHASIS -----> TREND EMPHASIS
+      ✅ REQUIRES FULL ATTENTION
+      ✅ BODY TELLS THE STORY, WICK TELLS THE DESTRUCTION
 -------------------------------------------------------------------------------------------------------------------------------
 ******🧨 DO NOT EXCHANGE MONEY WITH LIQUID PROVIDER, ONCE PRICE HAS REACHED HIGHEST POINT,  EXIT TRADE 🧨******
 ******🧨 DO NOT TRADE RESISTANCE, SUPPORT🧨******
