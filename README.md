@@ -296,6 +296,9 @@ RESPECT LAWS + MANAGE RESOURCES + RISK MANAGEMENT
       ✅ TRADE ON TWO FULL SCREEN -----> PRICE EMPHASIS -----> TREND EMPHASIS
       ✅ REQUIRES FULL ATTENTION
       ✅ BODY TELLS THE STORY, WICK TELLS THE DESTRUCTION
+
+      ✅ TRADE AS -----> SMART MONEY INSTITUTIONS
+                  -----> RETAIL TRADER
 -------------------------------------------------------------------------------------------------------------------------------
 ******🧨 DO NOT EXCHANGE MONEY WITH LIQUID PROVIDER, ONCE PRICE HAS REACHED HIGHEST POINT,  EXIT TRADE 🧨******
 ******🧨 DO NOT TRADE RESISTANCE, SUPPORT🧨******
