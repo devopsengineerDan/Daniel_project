@@ -10659,7 +10659,8 @@ https://t.me/thegammadeltafund
 
 
 ##############################################################################################################################################################################################################################################
-					
+
+
 
 ===============================================================================================    
 
@@ -10678,8 +10679,7 @@ https://t.me/thegammadeltafund
     MALINDI => [BLUFF NGO OWNERSHIP] ===> CONCRETE-WIRE FENCE + TREE PLANTING + FARMING(1Manager and 2Dwellers)
     => 4M/2M BALANCE =>  4M 100 HECTARES => 4M BALANCE
     1=> 50 HECTARES =>  HIGH-END HOTEL RESORT + GOLF COURSE
-    2=> 50 HECTARES => 25 HECTARES ----> MALINDI HIGH-END RENTAL RESIDENTIAL APARTMENTS
-                    => 25 HECTARES ----> MALINDI HIGH-END RENTAL RESIDENTIAL APARTMENTS
+    2=> 50 HECTARES => 25 HECTARES ----> MALINDI HIGH-END RENTAL RESIDENTIAL APARTMENTS                    => 25 HECTARES ----> MALINDI HIGH-END RENTAL RESIDENTIAL APARTMENTS
     
 ===============================================================================================    
 
@@ -10696,7 +10696,7 @@ https://t.me/thegammadeltafund
 30M => 10M[2Bedroom @ 10M]  * 1[HOUSE] ===> SPACIOUS HOUSE + PREMIUM WELL-ESTABLISHED AREA ===> EXTRA HIGH-END => 33 ENGINEER @@@ TOP CREAM  
     => 1M[ZOLLY {COMPLETE SCHOOL FEES} + {HOUSE RENT 2 YEARS + 2 YEARS LIVELIHOOD}] 
     => 1M SUPPORT OF ZOLLY + BERRETTA
-    *******=> GOAL *******===> (ZOLLY + MUM) UNTIL SCHOOL ENDS, NEED ZOLLY EXPERTISE(ACCONTING, TAX, ASSET MANAGEMENT----> International Certification in the 3)
+    *******=> GOAL *******===> (ZOLLY + MUM) UNTIL SCHOOL ENDS, NEED ZOLLY EXPERTISE(ACCOUNTING, TAX, ASSET MANAGEMENT----> International Certification in the 3)
     => 1M[HEALTH COVER + INSURANCE COVER]
     
     
@@ -10709,7 +10709,7 @@ https://t.me/thegammadeltafund
     => 10M [2 Seperate REMOTE VERY LARGE pieces of lands @ ***RANCH*** 5M EACH] * 2[RANCH LANDS]  ===> CONCRETE-WIRE FENCE + TREE PLANTING + FARMING(1Manager and 2Dweller)
    
    
-    => 10M BALANCE OF SECOND DEAL3
+    => 10M BALANCE OF SECOND DEAL3 -----> => 10M [2 Seperate REMOTE VERY LARGE pieces of lands @ ***RANCH*** 5M EACH] * 2[RANCH LANDS]  ===> CONCRETE-WIRE FENCE + TREE PLANTING + FARMING(1Manager and 2Dweller)
     => Week=75K Month=300K 12%=Year=3.6M 9Years=32,400,000 + 300,000 BONUS 
     
 -----------------------------------------------------------------------------------------------
@@ -10737,25 +10737,27 @@ https://t.me/thegammadeltafund
 ===============================================================================================  
 2 HOUSES
 1ST HOUSE => CONTINUOUS BASKET FILLING + MARKET SHOCK ABSORBER
-2ND HOUSE => DAD GOES --> CUT COST OF HOUSE ZOLLY MOM + BERRETTA POULTRY BUSINESS
+
+2ND HOUSE => DAD 1M LOAN 
+          => DAD GOES --> CUT COST OF HOUSE ZOLLY MOM + BERRETTA POULTRY BUSINESS
           => CONTINUOUS BASKET FILLING + MARKET SHOCK ABSORBER
 ===============================================================================================
  
  
 *****************************************************************************************************************************************
  
-BACKUP LIFE BASKET => ***USED**1M BALANCE OF SECOND DEAL1* + 12/13M BALANCE OF SECOND DEAL2 + 10M BALANCE OF SECOND DEAL3 + 20M BALANCE OF SECOND DEAL4 + ***USED**20M BALANCE OF SECOND DEAL5* 
+BACKUP LIFE BASKET => ***USED**1M BALANCE OF SECOND DEAL1* + 12/13M BALANCE OF SECOND DEAL2 + ***USED**10M BALANCE OF SECOND DEAL3* + 20M BALANCE OF SECOND DEAL4 + ***USED**20M BALANCE OF SECOND DEAL5* 
                    => FOREX CONTINUOUS INCOME
                    
-RENT BASKET => 120K => 1YEARS RENT=2025
+RENT BASKET => 120K => 1YEAR RENT=2025
             => 120K => 1YEAR=2026
             => 120K => 1YEAR RENT[1EXTRA]=2027
             
 LIVELIHOOD BASKET => 120K + 120K
-MEDICAL COVER => 
-
+MEDICAL COVER => 120K
+DAD LOAN => HOME UTILITY SECURITY
 DAD 
-=> INVESTMENT => PER MONTH
+=> INVESTMENT => LOAN PAY PER MONTH
 => RELATIONSHIP => PER MONTH
 => MEDICAL COVER => PER MONTH
 => MISCELLENEOUS => PER MONTH
@@ -10772,6 +10774,27 @@ FAMILY
 => MEDICAL COVER => PER MONTH
 => MISCELLENEOUS => PER MONTH 
 
+ => ***CREATE & DELETE*** LIGHT TECHNOLOGIES ACCOUNT   
+ => ***CREATE & DELETE*** REALTORS ACCOUNT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+ => DAWN ACCOUNT ----> (SAVINGS----> International Certification in the 1) 
+ => DTB SAVINGS ACCOUNT ----> (SAVINGS----> International Certification in the 1)  
+ 
+ => DAWN DANIEL ACCOUNT ----> (ENGINEERING[SOFTWARES && LABS(TELECOMMUNICATION/CLOUD SOFTWARE+HARDWARE/CYBERSECURITY)]----> International Certification in the 8) 
+    DAWN DANIEL NGO ACCOUNT   
+    DAWN DANIEL NGO ACCOUNT
+ => DAWN MURUNGI ACCOUNT ----> (ENGINEERING[BUILDING CONSTRUCTION, ROADS]----> International Certification in the 2) 
+    DAWN MURUNGI NGO ACCOUNT
+ => DAWN SWANAPOLE ACCOUNT ----> (IT, FLOWERS, APPLE, AVOCADO, WATER----> International Certification in the 5) 
+    DAWN SWANAPOLE NGO ACCOUNT 
+ => DAWN JOHNSON MANAGEMENT ACCOUNT ----> (ACCOUNTING, TAX, ASSET MANAGEMENT----> International Certification in the 3) 
+    DAWN JOHNSON NGO ACCOUNT
+  
+  BIG LANDS
+  MALINDI ----> HOTEL/RESTAURANT + GOLF COURSE
+  2 RANCHES ----> GOLF COURSE + SCHOOL&&CHURCH 
+  2 RANCHES ----> AVOCADO&&APPLE FARM + FARMING               
 *****************************************************************************************************************************************
 
 2025 => B => FINANCIAL ENGINEERING [DOC + SCRIPTS] [100K + 300K] -> If it goes as planned save CASH
@@ -10785,19 +10808,55 @@ FAMILY
 ===> START FAMILY
 
 *****************************************************************************************************************************************
-
-2035 => TERMINATE CONTRACT with my 2 CLIENTS 
+2025 + 9 = 2034
+2034 DEC => TERMINATE CONTRACT with my 2 CLIENTS 
      ------> MAINTAIN CONNECTION WITH 2 CLIENTS
      => FREE MAN From my 2 CLIENTS
      => WITHDRAW From HENRIOT GROUP GAMMA DELTA + WITHDRAW INVESTED MONEY + INTEREST
      ------> MAINTAIN CONNECTION WITH HENRIOT GROUP GAMMA DELTA PROFESSIONALS 
-        
-===> ***HAVE*** 1. BROKERAGE Institution + 2. SECURITIES Institution  + 3. LIQUIDITY Institution
-===> MAINTAIN FAMILY
+         
+         => DELETE LIGHT TECHNOLOGIES ACCOUNT   
+         => DELETE REALTORS ACCOUNT
+         
+         => MAINTAIN DTB ACCOUNT
+         
+2035 =====> LET EVERYTHING COOL
 
-===> ENTER GOVERNMENT
+2036 =====> RETRIEVE OWNERSHIP FROM ZOLLY
+
+      ===> ***HAVE*** 1. BROKERAGE Institution + 2. SECURITIES Institution  + 3. LIQUIDITY Institution
+      ===> MAINTAIN FAMILY
+      ===> ENTER GOVERNMENT
 
 *****************************************************************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							       
+								       
+							
+
+
+
 
 
 
