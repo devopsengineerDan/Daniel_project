@@ -2291,6 +2291,11 @@ ENDPOINT  Security
 APPLICATION  Security
 DATA Security
 USER Education  Security
+
+👉 DOMAIN HOSTING
+👉 WEB HOSTING
+👉 EMAIL HOSTING
+👉 SEARCH ENGINE OPTIMIZATION
 ```
 
 
@@ -2326,9 +2331,11 @@ USER Education  Security
 
 🧨🧨🧨🧨🧨 PROJECTS
 👉 2 ELECTRONIC PROJECTS
-👉 Network
-   Education => Tutor, Books, School ERP
-   Car
+👉 Network + CUSTOMER SUPPORT + MANAGEMENT SYSTEM
+👉 MANAGEMENT SYSTEM
+👉 HR MANAGEMENT SYSTEM
+   -> Education => Tutor, Books, School ERP
+   -> Car
 👉 2FA, Bulk SMS Integration, OTP Money, Fingerprint
 
 ```
@@ -5135,7 +5142,8 @@ C1.png
 👉 SOFTWARE PERFORMANCE BOOST
 
 1. Reduce pixels in images.
-2. Use local scripts on project folder and Compress Front-end scripts. e.g htmx, css, pyscript
+2. Have local scripts on project folder"; Don't Use API's or LINKS.
+3. Compress Front-end scripts. e.g htmx, css, pyscript
 ```
 
 
