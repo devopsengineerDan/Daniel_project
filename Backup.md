@@ -10774,22 +10774,31 @@ FAMILY
 => MEDICAL COVER => PER MONTH
 => MISCELLENEOUS => PER MONTH 
 
- => ***CREATE & DELETE*** LIGHT TECHNOLOGIES ACCOUNT   
- => ***CREATE & DELETE*** REALTORS ACCOUNT
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+ => ***CREATE ON 2025 & DELETE ON 2035*** LIGHT TECHNOLOGIES ACCOUNT ---> DTB ACC   
+ => ***CREATE ON 2025 & DELETE ON 2035*** REALTORS ACCOUNT ---> DTB ACC
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 
- => DAWN ACCOUNT ----> (SAVINGS----> International Certification in the 1) 
- => DTB SAVINGS ACCOUNT ----> (SAVINGS----> International Certification in the 1)  
- 
+ => DAWN ACCOUNT ----> (SAVINGS, TAX AVOIDANCE NOT EVASION, BANK MONEY MARKET FUND----> International Certification in the 3) 
+ => LIGHT MANAGEMENT LTD ACCOUNT REGISTERED in Sychelles
+     ----> Receive revenue from JOHNSON REALTORS ACCOUNT
+     ----> Transfer Received Revenue to DAWN ACCOUNT 
+ => DTB SAVINGS ACCOUNT ----> (SAVINGS----> International Certification in the 1)
+
+
  => DAWN DANIEL ACCOUNT ----> (ENGINEERING[SOFTWARES && LABS(TELECOMMUNICATION/CLOUD SOFTWARE+HARDWARE/CYBERSECURITY)]----> International Certification in the 8) 
     DAWN DANIEL NGO ACCOUNT   
     DAWN DANIEL NGO ACCOUNT
  => DAWN MURUNGI ACCOUNT ----> (ENGINEERING[BUILDING CONSTRUCTION, ROADS]----> International Certification in the 2) 
     DAWN MURUNGI NGO ACCOUNT
  => DAWN SWANAPOLE ACCOUNT ----> (IT, FLOWERS, APPLE, AVOCADO, WATER----> International Certification in the 5) 
-    DAWN SWANAPOLE NGO ACCOUNT 
- => DAWN JOHNSON MANAGEMENT ACCOUNT ----> (ACCOUNTING, TAX, ASSET MANAGEMENT----> International Certification in the 3) 
+    DAWN SWANAPOLE NGO ACCOUNT    
+ => DAWN JOHNSON MANAGEMENT ACCOUNT ----> (ACCOUNTING, TAX, ASSET MANAGEMENT----> International Certification in the 3)
+    ***CREATE ON 2035*** JOHNSON REALTORS ACCOUNT
     DAWN JOHNSON NGO ACCOUNT
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
   
   BIG LANDS
   MALINDI ----> HOTEL/RESTAURANT + GOLF COURSE
