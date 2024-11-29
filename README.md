@@ -576,9 +576,10 @@ Higher Time Frame    Lower Time Frame
 
 # LIGHT TECHNOLOGIES LTD
 
-🧨 REALTORS FIRM 🧨HAVE_REALTORS_LICENSE🧨
-👉 Investment Firm 🧨NO_CMA_LICENSE && NO_INVESTMENT_LICENSE🧨
+PUBLIC => 🧨 HENRIOT REALTORS LTD FIRM 🧨HAVE_REALTORS_LICENSE🧨
 
+CLIENT => 👉 Investment Firm🧨NO_CMA_LICENSE && NO_INVESTMENT_LICENSE🧨
+PUBLIC => 🧨 LIGHT TECHNOLOGIES LTD🧨HAVE_REALTORS_LICENSE🧨
 ```
 
 Is your Capital working hard enough?
