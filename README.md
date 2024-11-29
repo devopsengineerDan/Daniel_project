@@ -444,10 +444,46 @@ Higher Time Frame    Lower Time Frame
 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
 ```
 
------------------------------------------------------------------------------------------------
 
-# ICT STRATEGY - HFM BROKER
+========================================================================================================================================================================================================================
+   
+# TREND EMPHASIS
 
+### 1ST -> SMC STRATEGY
+
+```
+> SMART MONEY CONCEPT (SMC) STRATEGY 
+
+> TIME BASED LIQUIDITY (TBL) STRATEGY 
+
+> Buy-Side Liquidity STRATEGY ==> BUY-STOP LOSS  HUNT
+
+> Sell-Side Liquidity STRATEGY ==> SELL-STOP LOSS  HUNT
+```
+
+### 2ND -> PRICE ACTION STRATEGY
+
+```
+> ALL HFM BROKER PRICE ACTION STRATEGIES
+```
+
+
+# PRICE EMPHASIS
+
+### 1ST -> DEMAND AND SUPPLY
+
+```
+> PRICE ACTION BASED ON MARKET STRUCTURE AND TIME INTERVAL STRATEGY
+```
+
+### 2ND -> ICT STRATEGY 
+
+```
+> ALL HFM BROKER ICT STRATEGIES
+```
+
+
+```
 > LOT SIZE => CONTRACT SIZE
 
 > PD-ARRAY => Price level in which price react to Bullish or Bearish
@@ -519,19 +555,9 @@ Higher Time Frame    Lower Time Frame
 
 > PRICE DELIVERY =====> Expansion  ->  Retracement  ->  Reversal  ->  Consolidation  ->  Expansion  ->  REPEAT
 
-> PRICE DELIVERY =====> Accumulatio  ->  Manipulation  ->  Distribution
+> PRICE DELIVERY =====> Accumulation  ->  Manipulation  ->  Distribution
 
 
-
-
-
-
-
-> TIME BASED LIQUIDITY (TBL)
-
-> Buy Side Liquidity ==> BUY STOP LOSS  HUNT
-
-> Sell Side Liquidity ==> SELL STOP LOSS  HUNT
 
 
 
@@ -542,6 +568,12 @@ Higher Time Frame    Lower Time Frame
 > 1ST The Inner Circle Trader Channel <======> 5MARKET MAKER , 3PRECISION CONCEPTS,  SNIPER => 3SCALPING 2OPTIMAL TRADE ENTRY
 
 > 2ND 2016 ICT Private Mentorship Core Con <======> PRICE DELIVERY =====> Expansion -> Retracement -> Reversal -> Consolidation -> Expansion-> REPEAT
+
+> 2022 MENTORSHIP
+
+> 2023 MENTORSHIP
+```
+
 
 ![title](static/img/1.jpg)
 ![title](static/img/2.jpg)
@@ -557,6 +589,7 @@ Higher Time Frame    Lower Time Frame
 ![title](static/img/12.png)
 ![title](static/img/13.png)
 
+========================================================================================================================================================================================================================
 
 # QUANT ENGINEER PROFESSIONAL
 
