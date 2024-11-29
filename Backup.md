@@ -5463,6 +5463,11 @@ Software Engineering -> Pydantic
 👉 PYTHON INTERPRETER APPLICATION USE-CASE 
 
 ```
+------------
+👉 SIMULATION
+👉 RESEARCH
+👉 BACK-TESTING
+------------
 Cybersecurity
 Computer Networks
 
