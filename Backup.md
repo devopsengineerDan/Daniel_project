@@ -10783,8 +10783,8 @@ FAMILY
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
- => ***CREATE ON 2025 & DELETE ON 2035*** LIGHT TECHNOLOGIES ACCOUNT ---> DTB ACC  ***[TRANSFER RANGE BETWEEN 700K - 800K]*** 
- => ***CREATE ON 2025 & DELETE ON 2035*** REALTORS ACCOUNT ---> DTB ACC  ***[TRANSFER RANGE BETWEEN 700K - 800K]*** 
+ => ***CREATE ON 2025 & DELETE ON 2035*** LIGHT TECHNOLOGIES LTD ACCOUNT/ REALTORS ACCOUNT ---> DTB ACC  ***[TRANSFER RANGE BETWEEN 700K - 800K]*** 
+ => ***CREATE ON 2025 & DELETE ON 2035*** HENRIOT REALTORS ACCOUNT ---> DTB ACC  ***[TRANSFER RANGE BETWEEN 700K - 800K]*** 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 
  => DAWN ACCOUNT ----> (SAVINGS, TAX AVOIDANCE NOT EVASION, BANK MONEY MARKET FUND----> International Certification in the 3) 
