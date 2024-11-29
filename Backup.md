@@ -10696,11 +10696,12 @@ https://t.me/thegammadeltafund
 30M => 10M[2Bedroom @ 10M]  * 1[HOUSE] ===> SPACIOUS HOUSE + PREMIUM WELL-ESTABLISHED AREA ===> EXTRA HIGH-END => 33 ENGINEER @@@ TOP CREAM  
     => 1M[ZOLLY {COMPLETE SCHOOL FEES} + {HOUSE RENT 2 YEARS + 2 YEARS LIVELIHOOD}] 
     => 1M SUPPORT OF ZOLLY + BERRETTA
-    *******=> GOAL *******===> (ZOLLY + MUM) UNTIL SCHOOL ENDS, NEED ZOLLY EXPERTISE(ACCOUNTING, TAX, ASSET MANAGEMENT----> International Certification in the 3)
-    => 1M[HEALTH COVER + INSURANCE COVER]
+    *******=> GOAL *******===> (ZOLLY + MOM) UNTIL SCHOOL ENDS, NEED ZOLLY EXPERTISE(ACCOUNTING, TAX, ASSET MANAGEMENT----> International Certification in the 3)
+    => 1M[HEALTH COVER + INSURANCE COVER ZOLLY + MOM]
+    -----> TOTAL 3M
+    -----> BALLANCE 10M-3M=7M / 10M-2M=8M
     
-    
-    => 10M BALANCE OF SECOND DEAL2
+    => 10M BALANCE OF SECOND DEAL2 -----> => 17M/18M [2 Seperate REMOTE VERY LARGE **THE BIGGEST***pieces of lands @ ***RANCH*** 17M/18M] * 1[RANCH LAND]  ===> CONCRETE-WIRE FENCE + TREE PLANTING + FARMING(1Manager and 3Dwellers)
     => Week=75K Month=300K 12%=Year=3.6M 9Years=32,400,000 + 300,000 BONUS 
         
 -----------------------------------------------------------------------------------------------
@@ -10746,7 +10747,7 @@ https://t.me/thegammadeltafund
  
 *****************************************************************************************************************************************
  
-BACKUP LIFE BASKET => ***USED**1M BALANCE OF SECOND DEAL1* + 12/13M BALANCE OF SECOND DEAL2 + ***USED**10M BALANCE OF SECOND DEAL3* + 20M BALANCE OF SECOND DEAL4 + ***USED**20M BALANCE OF SECOND DEAL5* 
+BACKUP LIFE BASKET => ***USED**1M BALANCE OF SECOND DEAL1* + ***USED**17/18M BALANCE OF SECOND DEAL2* + ***USED**10M BALANCE OF SECOND DEAL3* + 20M BALANCE OF SECOND DEAL4 + ***USED**20M BALANCE OF SECOND DEAL5* 
                    => FOREX CONTINUOUS INCOME
                    
 RENT BASKET => 120K => 1YEAR RENT=2025
@@ -10777,8 +10778,8 @@ FAMILY
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
- => ***CREATE ON 2025 & DELETE ON 2035*** LIGHT TECHNOLOGIES ACCOUNT ---> DTB ACC   
- => ***CREATE ON 2025 & DELETE ON 2035*** REALTORS ACCOUNT ---> DTB ACC
+ => ***CREATE ON 2025 & DELETE ON 2035*** LIGHT TECHNOLOGIES ACCOUNT ---> DTB ACC  ***[TRANSFER RANGE BETWEEN 700K - 800K]*** 
+ => ***CREATE ON 2025 & DELETE ON 2035*** REALTORS ACCOUNT ---> DTB ACC  ***[TRANSFER RANGE BETWEEN 700K - 800K]*** 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 
  => DAWN ACCOUNT ----> (SAVINGS, TAX AVOIDANCE NOT EVASION, BANK MONEY MARKET FUND----> International Certification in the 3) 
@@ -10801,9 +10802,10 @@ FAMILY
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
   
   BIG LANDS
-  MALINDI ----> HOTEL/RESTAURANT + GOLF COURSE
-  2 RANCHES ----> GOLF COURSE + SCHOOL&&CHURCH 
-  2 RANCHES ----> AVOCADO&&APPLE FARM + FARMING               
+  MALINDI ----> [HOTEL/RESTAURANT && GOLF COURSE]
+  2 RANCHES ----> [HOTEL/RESTAURANT && GOLF COURSE] + SCHOOL&&CHURCH 
+  2 RANCHES ----> [DRAGON FRUIT, AVOCADO && APPLE FARM] + [GOATS, SHEEP, RABBITS, GOOSE, DUCKS, POULTRY FARM] 
+  1 SOLID BIGGEST RANCH ----> [TREES && HAY SELLING FARM]
 *****************************************************************************************************************************************
 
 2025 => B => FINANCIAL ENGINEERING [DOC + SCRIPTS] [100K + 300K] -> If it goes as planned save CASH
@@ -10824,18 +10826,17 @@ FAMILY
      => WITHDRAW From HENRIOT GROUP GAMMA DELTA + WITHDRAW INVESTED MONEY + INTEREST
      ------> MAINTAIN CONNECTION WITH HENRIOT GROUP GAMMA DELTA PROFESSIONALS 
          
-         => DELETE LIGHT TECHNOLOGIES ACCOUNT   
-         => DELETE REALTORS ACCOUNT
-         
-         => MAINTAIN DTB ACCOUNT
+***=> DELETE LIGHT TECHNOLOGIES ACCOUNT   
+***=> DELETE REALTORS ACCOUNT
+***=> MAINTAIN DTB ACCOUNT
          
 2035 =====> LET EVERYTHING COOL
 
 2036 =====> RETRIEVE OWNERSHIP FROM ZOLLY
 
-      ===> ***HAVE*** 1. BROKERAGE Institution + 2. SECURITIES Institution  + 3. LIQUIDITY Institution
+2036  ===> ***HAVE*** 1. BROKERAGE Institution + 2. SECURITIES Institution  + 3. LIQUIDITY Institution
       ===> MAINTAIN FAMILY
-      ===> ENTER GOVERNMENT
+      ===> ENTER GOVERNMENT ***KANU***
 
 *****************************************************************************************************************************************
 
