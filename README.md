@@ -15,7 +15,7 @@ Asset Manager
 Broker [STOCK|EQUITY,DERIVATIVES|CFD's|FOREX|CRYPTOCURRENCY] ===> NON-DEALING LICENSE
 ------------------------------
 Investment Banker ===> DEALING LICENSE
-===========================================================================================================
+==========================================================================================================
 
 🧨🧨🧨 NSE Nairobi Stock Exchange
 🧨🧨🧨 Capital Markets Authority
@@ -482,6 +482,7 @@ Higher Time Frame    Lower Time Frame
 > ALL HFM BROKER ICT STRATEGIES
 ```
 
+ ----------------------------
 
 ```
 > LOT SIZE => CONTRACT SIZE
@@ -539,7 +540,7 @@ Higher Time Frame    Lower Time Frame
 
 > HIGH RESISTANCE LIQUIDITY RUN => 79% and Higher Fibonnacci
 
->LOW RESISTANCE LIQUIDITY RUN => 50% and Lower Fibonnacci
+> LOW RESISTANCE LIQUIDITY RUN => 50% and Lower Fibonnacci
 
 
 
@@ -574,6 +575,7 @@ Higher Time Frame    Lower Time Frame
 > 2023 MENTORSHIP
 ```
 
+ ----------------------------
 
 ![title](static/img/1.jpg)
 ![title](static/img/2.jpg)
