@@ -574,4 +574,48 @@ Higher Time Frame    Lower Time Frame
 => QUANT CONNECT - Secure Data Centre for Models [Telecommunication, Short Fibre Cable, SOLID INFORMATION, Performant Quant Models, Performant Hardware, (STABLE + HIGH PERFORMANT + BACKUP) INTERNET && ELECTRICITY]
 ```
 
+# LIGHT TECHNOLOGIES LTD
+
+🧨 REALTORS FIRM 🧨HAVE_REALTORS_LICENSE🧨
+👉 Investment Firm 🧨NO_CMA_LICENSE && NO_INVESTMENT_LICENSE🧨
+
+```
+
+Is your Capital working hard enough?
+
+Data is the core of our alpha.
+Our approach to Financial markets involves nothing more than simplicity & common sense!
+It’s data – that powers each decision we make, positioning Henriot as a pioneer of the next generation of investment management. 
+
+The pillars to our Investment Philosophy
+Our investment philosophy seeks to enable the creation of holistic investment solutions for clients, via implementation of Key Pillars.
+Volatility is Opportunity
+Volatile markets occasionally offer extraordinary opportunities, and having cash allows us to take advantage of these. We see volatility as more of an opportunity rather than a risk
+Rationality & Common sense goes a long way!
+We believe the simpler the thesis, the better. We simply try to focus on finding big gaps between the current price and a conservative estimate of intrinsic value.
+Time Arbitrage
+The ability to invest on a longer time horizon than most other people is one of Henriot’s most important advantages.
+
+
+Quantamental investing is Fast, Reliable, and Consistent.
+Market Amplification
+Market Amplification through Consistency, Discipline and Objectivity. Quantamental trading is characterized by its consistency, discipline, and objectivity.
+Hunt for positive Alpha
+Henriot achieves extensive diversification through various different financial instruments and applying multiple completely different trading strategies. Thousands of different strategy variations catch trends, react to market waves, find repetitive patterns and seasonalities.
+Humans can distinguish alpha from Noise
+Human intervention can effectively distinguish alpha from noise Machine learning and Algo trading models has the potential to help investors find alpha in unexpected places. In as much as we always aim to achieve 'no touch' of our models, we still  evaluate every trade placed. 
+
+Dive into the new age of Quantamental Investing.
+Our Solution
+Long-biased Equity Investing
+Henriot’s investment approach is meticulously crafted to identify and select assets with the highest potential for capital appreciation. Our proprietary algorithmic model, designed in-house, analyzes millions of data points monthly to pinpoint companies with a high probability score. This score encompasses a blend of critical metrics. 
+Proprietary Research
+Our Market Intelligence team conducts thorough fundamental research and integrates it with advanced machine learning methods, macroeconomic analysis, sell-side research, and quantitative approaches. This combination empowers our investment teams with unique insights and innovative products, helping them uncover potentially profitable alpha-generating opportunities.
+Quant Modelling
+By leveraging a unique set of data feeds and variables, our quantamental model ranks companies into scores, allowing us to systematically target investments that demonstrate robust fundamentals and strong market positioning.
+Global Macro Investing
+Our global macro business consists of portfolio team focused on generating uncorrelated returns. They achieve this through discretionary investments in developed and emerging markets across various asset classes.
+
+
+```
 
