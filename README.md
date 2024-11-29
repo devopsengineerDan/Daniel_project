@@ -570,6 +570,7 @@ Higher Time Frame    Lower Time Frame
 ```
 => PEPPERSTONE Broker
 => Interactive Broker
+=> MyFXBook
 => DUKASCOPY-Swiss Banking Group
 => QUANT CONNECT - Secure Data Centre for Models [Telecommunication, Short Fibre Cable, SOLID INFORMATION, Performant Quant Models, Performant Hardware, (STABLE + HIGH PERFORMANT + BACKUP) INTERNET && ELECTRICITY]
 ```
@@ -618,5 +619,13 @@ Global Macro Investing
 Our global macro business consists of portfolio team focused on generating uncorrelated returns. They achieve this through discretionary investments in developed and emerging markets across various asset classes.
 
 
+---------------------------------------------------------------------------------------
+
+
+No experience needed
+Top up the account, join
+"Gamma Delta Fund" and let us run the game.
+Consistent Return
+Target 8% yearly return based on initial deposit
 ```
 
