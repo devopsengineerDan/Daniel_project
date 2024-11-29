@@ -10788,7 +10788,7 @@ FAMILY
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 
  => DAWN ACCOUNT ----> (SAVINGS, TAX AVOIDANCE NOT EVASION, BANK MONEY MARKET FUND----> International Certification in the 3) 
- => LIGHT MANAGEMENT LTD ACCOUNT REGISTERED in Sychelles
+ => EAGLE MANAGEMENT LTD ACCOUNT REGISTERED in Sychelles ----> 🧨HAVE ALL REQUIRED LICENSES IN SEYCHELLES && STATIONED COUNTRY, Now Kenya🧨 
      ----> Receive revenue from JOHNSON REALTORS ACCOUNT
      ----> Transfer Received Revenue to DAWN ACCOUNT 
  => DTB SAVINGS ACCOUNT ----> (SAVINGS----> International Certification in the 1)
@@ -10802,8 +10802,10 @@ FAMILY
  => DAWN SWANAPOLE ACCOUNT ----> (IT, FLOWERS, APPLE, AVOCADO, WATER----> International Certification in the 5) 
     DAWN SWANAPOLE NGO ACCOUNT    
  => DAWN JOHNSON MANAGEMENT ACCOUNT ----> (ACCOUNTING, TAX, ASSET MANAGEMENT----> International Certification in the 3)
-    ***CREATE ON 2035*** JOHNSON REALTORS ACCOUNT
-    DAWN JOHNSON NGO ACCOUNT
+                                    ----> 🧨HAVE LICENSES IN ACCOUNTING, TAX, ASSET MANAGEMENT🧨   
+				    ---->🧨🧨🧨HAVE LICENSE IN HENRIOT REALTORS LTD🧨 => THEN STOP BUSINESS IN 2034🧨🧨🧨
+    ***CREATE ON 2035*** JOHNSON REALTORS ACCOUNT ----> 🧨HAVE LICENSE IN REALTORS🧨  
+    ***CREATE ON 2035*** DAWN JOHNSON NGO ACCOUNT ----> 🧨HAVE LICENSE IN NGO🧨 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
   
   BIG LANDS
