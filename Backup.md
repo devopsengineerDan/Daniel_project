@@ -10686,7 +10686,24 @@ https://t.me/thegammadeltafund
     1=> 50 HECTARES =>  HIGH-END HOTEL RESORT + GOLF COURSE
     2=> 50 HECTARES => 25 HECTARES ----> MALINDI HIGH-END RENTAL RESIDENTIAL APARTMENTS                    => 25 HECTARES ----> MALINDI HIGH-END RENTAL RESIDENTIAL APARTMENTS
     
+===============================================================================================   
+PROFOUND WISDOM
+30M --> 8M,8M  7M,7M 
+--------------------
+15M --> 8M     7M 
+1M  --> ZOLLY FEE
+1M  --> ZOLLY + MOM 2YRS RENT + 30K UPKEEP
+ 1=> 1M 25 HECTARES 
+ 2=> 1M 25 HECTARES 
+ 3=> 4M 100 HECTARES
+1M --> HOUSE UTILITY BACKUP
+1M --> FENCE
+""""""""""""
+1M --> DAD'S LOAN 50K PER MONTH
+3M --> 1 BEDROOM OFFICE --> RENT THE PREMISE
+1M --> 500K SCHOOL / 500K SECURITY
 ===============================================================================================    
+
 
 30M => 10M[2Bedroom @ 10M] * 1[HOUSE] ===> SPACIOUS HOUSE + PREMIUM WELL-ESTABLISHED AREA ===> EXTRA HIGH-END => BACKUP @@@ TOP CREAM
     => 15M [2Bedroom @ 5M EACH] * 3[HOUSES] ===> SPACIOUS HOUSE + PREMIUM WELL-ESTABLISHED AREA ===> HIGH-END
@@ -10787,7 +10804,7 @@ FAMILY
  => ***CREATE ON 2025 & DELETE ON 2035*** HENRIOT REALTORS ACCOUNT ---> DTB ACC  ***[TRANSFER RANGE BETWEEN 700K - 800K]*** 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 
- => DAWN ACCOUNT ----> (SAVINGS, TAX AVOIDANCE NOT EVASION, BANK MONEY MARKET FUND----> International Certification in the 3) 
+ => DAWN(LION GROUP MANAGEMENT LTD)  ACCOUNT ----> (SAVINGS, TAX AVOIDANCE NOT EVASION, BANK MONEY MARKET FUND----> International Certification in the 3) 
  => EAGLE MANAGEMENT LTD ACCOUNT REGISTERED in Sychelles ----> 🧨HAVE ALL REQUIRED LICENSES IN SEYCHELLES && STATIONED COUNTRY, Now Kenya🧨 
      ----> Receive revenue from JOHNSON REALTORS ACCOUNT
      ----> Transfer Received Revenue to DAWN ACCOUNT 
