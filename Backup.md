@@ -10686,25 +10686,29 @@ https://t.me/thegammadeltafund
     
     MALINDI => [BLUFF NGO OWNERSHIP] ===> CONCRETE-WIRE FENCE + TREE PLANTING + FARMING(1Manager and 2Dwellers)
     => 4M/2M BALANCE =>  4M 100 HECTARES => 4M BALANCE
-    1=> 50 HECTARES =>  HIGH-END HOTEL RESORT + GOLF COURSE
-    2=> 50 HECTARES => 25 HECTARES ----> MALINDI HIGH-END RENTAL RESIDENTIAL APARTMENTS                    => 25 HECTARES ----> MALINDI HIGH-END RENTAL RESIDENTIAL APARTMENTS
+    1=> 2M --> 50 HECTARES =>  HIGH-END HOTEL RESORT + GOLF COURSE
+    2=> 2M --> 50 HECTARES => 25 HECTARES ----> MALINDI HIGH-END RENTAL RESIDENTIAL APARTMENTS                    => 25 HECTARES ----> MALINDI HIGH-END RENTAL RESIDENTIAL APARTMENTS
     
 ===============================================================================================   
 PROFOUND WISDOM
-30M --> 8M,8M  7M,7M 
+30M --> 8M,8M  7M,7M   👉👉👉 ===> 8M[1. PLACE NOT KILELESHWA, 2. Upperhill, 3.Nyari OR Enaki] 7M[1. Garden City, 2. Junction Mall, 3. Muthaiga]
 --------------------
-15M --> 8M     7M 
+👉15M --> 8M     7M 
+👉10M
 1M  --> ZOLLY FEE
-1M  --> ZOLLY + MOM 2YRS RENT + 30K UPKEEP
+1M  --> ZOLLY + MOM 2YRS RENT + 15K 2YRS UPKEEP
  1=> 1M 25 HECTARES 
  2=> 1M 25 HECTARES 
  3=> 4M 100 HECTARES
 1M --> HOUSE UTILITY BACKUP
 1M --> FENCE
+
 """"""""""""
 1M --> DAD'S LOAN 50K PER MONTH
 3M --> 1 BEDROOM OFFICE --> RENT THE PREMISE
 1M --> 500K SCHOOL / 500K SECURITY
+"""""""""""""
+👉👉👉 4M FOREX COMMITMENT FOR 4M 4 LANDS DOWN HERE.....
 ===============================================================================================    
 
 
