@@ -10322,11 +10322,18 @@ GO SLOW -> Pedestrian-crossing + Bumps, Bridge, Parking
 ````
 
 ```
-🧨🧨🧨🧨🧨 AVOID PHALLOIDIN && PARABENS TOXINS
+🧨🧨🧨🧨🧨
+> AVOID PHALLOIDIN && PARABENS TOXINS
+> AVOID ANTI- PROSPRANE ROLLONS
+> AVOID TAMPONS, BENZENE ALSO..
+
+
 🧨🧨🧨🧨🧨
 > USE CARBON FILTERS FOR WATER
 > GET RID OF FRAGRANCE PRODUCTS
-
+> TAKE ORGANIC FOODS AND DRINKS
+> USE ORGANIC PADS
+> USE COMFORTABLE BRAS
 ```
 
 -------------------------------
