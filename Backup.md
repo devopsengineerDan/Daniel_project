@@ -10716,7 +10716,9 @@ PROFOUND WISDOM
 3M --> 1 BEDROOM OFFICE --> RENT THE PREMISE
 1M --> 500K SCHOOL / 500K SECURITY
 """""""""""""
-👉👉👉 4M FOREX COMMITMENT FOR 4M 4 LANDS DOWN HERE.....
+👉👉👉 TOTAL => 5M  FOREX COMMITMENT
+    👉  4M 4 LANDS DOWN HERE.....
+    👉  1M FENCE
 ===============================================================================================    
 
 
@@ -10731,8 +10733,8 @@ PROFOUND WISDOM
 -----------------------------------------------------------------------------------------------
 
 30M => 10M[2Bedroom @ 10M]  * 1[HOUSE] ===> SPACIOUS HOUSE + PREMIUM WELL-ESTABLISHED AREA ===> EXTRA HIGH-END => 33 ENGINEER @@@ TOP CREAM  
-    => 1M[ZOLLY {COMPLETE SCHOOL FEES} + {HOUSE RENT 2 YEARS + 2 YEARS LIVELIHOOD}] 
-    => 1M SUPPORT OF ZOLLY + BERRETTA
+    => 1M[ZOLLY {COMPLETE SCHOOL FEES}]
+    => 1M SUPPORT OF [ZOLLY + BERRETTA {HOUSE RENT 2 YEARS + 2 YEARS LIVELIHOOD}] 
     *******=> GOAL *******===> (ZOLLY + MOM) UNTIL SCHOOL ENDS, NEED ZOLLY EXPERTISE(ACCOUNTING, TAX, ASSET MANAGEMENT----> International Certification in the 3)
     => 1M[HEALTH COVER + INSURANCE COVER ZOLLY + MOM]
     -----> TOTAL 3M
