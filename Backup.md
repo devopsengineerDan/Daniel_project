@@ -10699,7 +10699,7 @@ https://t.me/thegammadeltafund
     
 ===============================================================================================   
 PROFOUND WISDOM
-30M --> 8M,8M  7M,7M   👉👉👉 ===> 8M[1.Nyari OR Enaki, 2. ***WAIT***Upperhill, 3. ***WAIT***PLACE NOT KILELESHWA,] 7M[1. Garden City, 2. Junction Mall, 3. Muthaiga]
+30M --> 8M,8M  7M,7M   👉👉👉 ===> 8M[1.Brookside, 2. ***WAIT***Upperhill, 3. ***WAIT***Nyari OR Enaki !!!!!! PLACE NOT KILELESHWA,] 7M[1. Garden City, 2. Junction Mall, 3. Muthaiga]
 --------------------
 👉15M --> 8M     7M 
 👉10M
