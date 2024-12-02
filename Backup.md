@@ -10323,7 +10323,10 @@ GO SLOW -> Pedestrian-crossing + Bumps, Bridge, Parking
 
 ```
 🧨🧨🧨🧨🧨 AVOID PHALLOIDIN && PARABENS TOXINS
-🧨🧨🧨🧨🧨USE CARBON FILTERS FOR WATER
+🧨🧨🧨🧨🧨
+> USE CARBON FILTERS FOR WATER
+> GET RID OF FRAGRANCE PRODUCTS
+
 ```
 
 -------------------------------
