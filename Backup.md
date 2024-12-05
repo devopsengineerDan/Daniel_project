@@ -1960,6 +1960,9 @@ PHONE BACKUP
 
 https://findmymobile.samsung.com
 
+CHECK IMEI CODE ORIGINAL ANDROID PHONE ===> *#06#
+CHECK ORIGINAL SAMSUNG PHONE ===> *#0*#
+
 SAMSUNG S8
 Model number:  SM-G950FD 
 Serial number: RF8K21X3L2K
@@ -2007,15 +2010,21 @@ ID: 35687960
 #jkuat co-op acc: 01129098952900
 #equity acc: 1520179881302
 #equity business paybill: 247247
+National
 saf: 0711444518 PIN1:1274 PIN2:8411 PUK1:98828111 PUK2:15573510 CHEDA:1496
 MOM SAF NUMBER: 0721160802 PIN: 9970
 saf buy airtime to telcom baybill 215215 acc telcom number
-telcom: 0771587812
-*telkom: 0771587812
 
-work
+
+Work
 saf: 0706738969 PIN1:8218 PIN2:5372 PUK1:42844297 PUK2:28282050 CHEDA:1493
-telcom: 
+
+Fam
+
+***WORK***
+telcom: 0771587812
+AIRTEL 0787062079 PIN => 0000 PUK => 38908427
+
 
 phone: 1493
 whats-app:147369
