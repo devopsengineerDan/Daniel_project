@@ -2060,9 +2060,12 @@ Cloudflare -> dancummoruri@gmail.com : <span class="Button-label">1Paste, drop, 
 
 
 Google AdSense -> dancunmoruri@gmail.com 
-
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-INGOT->DAVIDQwerty@987#
+FUNDEDNEXT -> CHRISTINE@9# 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Fundingpips -> Alpha1@987#
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+INGOT -> DAVIDQwerty@987#
 
 ---------------------------------
 You can login to your demo account in MetaTrader using the following details:
@@ -2081,6 +2084,7 @@ Server: IngotAfrica-Demo2
 
 For security reasons, we recommend that you change your MetaTrader password after your first login.
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+HFM
 WEB -> QuantTrader@97#
 ACC -> DAVIDTrader@97#
 Your email/ticket reference number is: 3918327963. Please include this ticket number in the subject line of all future correspondence regarding this issue.
