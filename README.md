@@ -338,6 +338,8 @@ RESPECT LAWS + MANAGE RESOURCES + RISK MANAGEMENT
 ******🧨 DO NOT TRADE STOP LOSS HUNT[BUY, SELL, BUY STOP, SELL STOP], LIQUIDITY SWEEP For Example: HIGHEST POINT => BEAR TRAP OR LOWEST POINT => BULL TRAP 🧨******
 ******🧨 9. AVOID THESE CANDLESTICKS 🧨******
    ====> DO NOT Trade small wick and small body
+   ====> DO NOT Trade very large wick on both sides and small body
+   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
    ====> DO NOT Trade CONSOLIDATION small wick and small body
    ====> DO NOT Trade Doji Candlestick / Indecision / Equal Sellers and Buyers Volumes
 -------------------------------------------------------------------------------------------------------------------------------
