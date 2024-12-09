@@ -2065,7 +2065,8 @@ FUNDEDNEXT -> CHRISTINE@9#
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 Fundingpips -> Alpha1@987#
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-INGOT -> DAVIDQwerty@987#
+INGOT 
+ WEB -> DAVIDQwerty@987#
 
 ---------------------------------
 You can login to your demo account in MetaTrader using the following details:
@@ -2083,6 +2084,11 @@ Platform: MT5
 Server: IngotAfrica-Demo2
 
 For security reasons, we recommend that you change your MetaTrader password after your first login.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+EXNESS
+WEB -> AlphaOmega@987#
+ACC -> Quant*@987#
+DEMO -> Pro#1Trader
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 HFM
 WEB -> QuantTrader@97#
