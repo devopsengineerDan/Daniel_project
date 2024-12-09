@@ -2320,6 +2320,9 @@ USER Education  Security
 ```
 
 🧨🧨 CYBERSECURITY && ARTIFICIAL INTELLIGENCE
+👉 CONTROLS ===> DATA PREVENTION + RETRIEVAL
+            ===> ENCRYPTION
+
 
 
 
@@ -10856,7 +10859,7 @@ FAMILY
  => DAWN SWANAPOLE ACCOUNT ----> (IT, FLOWERS, APPLE, AVOCADO, WATER----> International Certification in the 5) 
     DAWN SWANAPOLE NGO ACCOUNT    
  => DAWN JOHNSON MANAGEMENT ACCOUNT ----> (ACCOUNTING, TAX, ASSET MANAGEMENT----> International Certification in the 3)
-                                    ----> 🧨HAVE LICENSES IN ACCOUNTING, TAX, ASSET MANAGEMENT🧨   
+                                    ----> 🧨HAVE LICENSES IN ACCOUNTING, TAX, ASSET MANAGEMENT, HR, REALTORS🧨   
 				    ---->🧨🧨🧨HAVE LICENSE IN HENRIOT REALTORS LTD🧨 => THEN STOP BUSINESS IN 2034🧨🧨🧨
     ***CREATE ON 2035*** JOHNSON REALTORS ACCOUNT ----> 🧨HAVE LICENSE IN REALTORS🧨  
     ***CREATE ON 2035*** DAWN JOHNSON NGO ACCOUNT ----> 🧨HAVE LICENSE IN NGO🧨 
@@ -10899,6 +10902,14 @@ FAMILY
       ===> MAINTAIN FAMILY
       ===> ENTER GOVERNMENT ***KANU***
 
+
+       🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
+       =====> BANK
+       =====> CHURCH
+       -------
+       =====> EMPLOYEE SAVINGS
+       =====> NGO
+       🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
 *****************************************************************************************************************************************
 
 
