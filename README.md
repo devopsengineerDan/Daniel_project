@@ -615,7 +615,7 @@ Higher Time Frame    Lower Time Frame
 PUBLIC => 🧨 HENRIOT REALTORS LTD FIRM 🧨HAVE_REALTORS_LICENSE🧨
 
 CLIENT => 👉 Investment Firm🧨NO_CMA_LICENSE && NO_INVESTMENT_LICENSE🧨
-PUBLIC => 🧨 LIGHT TECHNOLOGIES LTD🧨HAVE_REALTORS_LICENSE🧨
+PUBLIC => 🧨 LIGHT TECHNOLOGIES LTD🧨HAVE_ MANAGEMENT && NGO _LICENSE🧨
 ```
 
 Is your Capital working hard enough?
