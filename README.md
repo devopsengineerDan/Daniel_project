@@ -245,6 +245,38 @@ Price Range
 # DAWN STRATEGY BEST PRACTICES
 
 ```
+✅ ✅ ✅ Lot Sizing Tips (FUND / MONEY / ASSET MANAGEMENT) ✅ ✅ ✅  
+
+50 usd :-
+High risk = 0.10 lot
+Mid risk = 0.05 lot
+Low risk = 0.01 lot
+
+100 usd :-
+High risk = 0.20 lot
+Mid risk = 0.10 lot
+Low risk = 0.01 lot
+
+200 usd :-
+High risk = 0.40 lot
+Mid risk = 0.20 lot
+Low risk = 0.02 lot
+
+500 usd :- 
+High risk = 1.00 lot
+Mid risk = 0.50 lot
+Low risk = 0.05 lot
+
+1000 usd :-
+High risk = 2.00 lot
+Mid risk = 1.00 lot
+Low risk = 0.10 lot
+
+If you have an amount that is different from the amount above. Take the amount that is closest to the amount above and try to calculate.
+```
+
+
+```
 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
 
 
