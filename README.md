@@ -696,3 +696,7 @@ Consistent Return
 Target 8% yearly return based on initial deposit
 ```
 
+![title](static/img/QUANT_BUSINESS_1.jpg)
+
+![title](static/img/QUANT_BUSINESS_2.jpg)
+
