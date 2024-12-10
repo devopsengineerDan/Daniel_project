@@ -2092,7 +2092,7 @@ Pro Trader ACC -> Quant*@987#
 Pro DEMO -> Pro#1Trader
 
 Standard Trader ACC ->Python*@#97
-Standard DEMO -> Pro#1Trader
+Standard DEMO -> Standard#1
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 HFM
