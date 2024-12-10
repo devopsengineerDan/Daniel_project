@@ -2071,9 +2071,7 @@ INGOT
 ---------------------------------
 You can login to your demo account in MetaTrader using the following details:
 
-Login: 999971273
 
-Master Password: Daniel@3#
 
 Investor (Read-Only Password): !NgNxH13
 
@@ -2082,13 +2080,20 @@ Account Type: PRO-USD
 Platform: MT5
 
 Server: IngotAfrica-Demo2
+Login: 999971273
+Master: Daniel@3#
 
 For security reasons, we recommend that you change your MetaTrader password after your first login.
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 EXNESS
 WEB -> AlphaOmega@987#
-ACC -> Quant*@987#
-DEMO -> Pro#1Trader
+
+Pro Trader ACC -> Quant*@987#
+Pro DEMO -> Pro#1Trader
+
+Standard Trader ACC ->Python*@#97
+Standard DEMO -> Pro#1Trader
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 HFM
 WEB -> QuantTrader@97#
