@@ -397,14 +397,14 @@ Higher Time Frame    Lower Time Frame
    ✅ CLOSE TRADES AT 1PM
    ✅ THEN TRADE RETEST / PULLBACK
 ------------------------------------------------------------------------------
-   🧨 AVOID Equilibrium WIDE Consolidation, Fundamental LONG Retracement, Swing LONG Reversal
-
+   🧨 AVOID Price Equilibrium WIDE Consolidation, Fundamental LONG Retracement, Swing LONG Reversal
+   ✅ TRADE BREAKOUT, RETEST, FUNDAMENTAL RETEST
 
 
 
 
    
-   🧨 TIME-FRAME [15 MINUTES] ELECTIONS[POLITICS] FUNDAMENTAL
+   👉👉👉🧨 TIME-FRAME [15 MINUTES] ELECTIONS[POLITICS] FUNDAMENTAL
    => 0.5 10MIN->5MIN
    => AIM for Specific Target Price AND / OR Order Block
 ==========================================================================
@@ -426,7 +426,7 @@ Higher Time Frame    Lower Time Frame
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
- 👉👉👉 1 MIN TIME-FRAME FUNDAMENTAL 🧨BREAKOUT🧨
+ 🧨🧨🧨AVOID🧨🧨🧨 1 MIN TIME-FRAME FUNDAMENTAL 🧨BREAKOUT🧨
    => 1.0 
    => AIM for Specific END OF I MIN
 ==========================================================================
@@ -496,7 +496,9 @@ Higher Time Frame    Lower Time Frame
 
 > SWING HIGH STRATEGY 
 
-> SWING LOW STRATEGY 
+> SWING LOW STRATEGY
+
+> PRICE EQUILIBRIUM
 ```
 
 ### 2ND -> PRICE ACTION STRATEGY
