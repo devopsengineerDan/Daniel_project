@@ -2086,12 +2086,12 @@ Master: Daniel@3#
 For security reasons, we recommend that you change your MetaTrader password after your first login.
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 EXNESS
-WEB -> AlphaOmega@987#
+WEB -> ALPHA1one@987#
 
 Pro Trader ACC -> Quant*@987#
 Pro DEMO -> Pro#1Trader
 
-Standard Trader ACC ->Python*@#97
+Standard Trader ACC -> Python*@#97
 Standard DEMO -> Standard#1
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
