@@ -334,7 +334,7 @@ RESPECT LAWS + MANAGE RESOURCES + RISK MANAGEMENT
 -------------------------------------------------------------------------------------------------------------------------------
 ******🧨 DO NOT EXCHANGE MONEY WITH LIQUID PROVIDER, ONCE PRICE HAS REACHED HIGHEST POINT,  EXIT TRADE 🧨******
 ******🧨 DO NOT TRADE RESISTANCE, SUPPORT🧨******
-******🧨 DO NOT TRADE ORDER BLOCK🧨******
+******🧨 DO NOT TRADE ORDER BLOCK && PRICE EQUILIBRIUM 🧨******
 ******🧨 DO NOT TRADE STOP LOSS HUNT[BUY, SELL, BUY STOP, SELL STOP], LIQUIDITY SWEEP For Example: HIGHEST POINT => BEAR TRAP OR LOWEST POINT => BULL TRAP 🧨******
 ******🧨 9. AVOID THESE CANDLESTICKS 🧨******
    ====> DO NOT Trade small wick and small body
@@ -369,7 +369,7 @@ Higher Time Frame    Lower Time Frame
 
 👉👉👉👉👉👉👉👉👉👉👉👉👉 🧨🧨🧨 RESOURCE MANAGEMENT + TRADING EDGE ONLY PLACE QUALITY TRADES  && A + TRADES 🧨🧨🧨
 
-👉👉👉 ONLY Trade CANDLESTICK + TRADE ON LARGE SCREEN + CANDLESTICK TIME PERIOD
+👉👉👉👉👉👉👉👉👉👉👉👉👉 🧨🧨🧨 ONLY Trade CANDLESTICK + TRADE ON LARGE SCREEN + CANDLESTICK TIME PERIOD 🧨🧨🧨
 
    🧨 15 MIN [FIRST 5 MIN => OBSERVATION] [10 MIN => ACTUAL TRADE]
    🧨 First Three Candlesticks -> High Probability Trades | High Profit| Low Risk
@@ -398,7 +398,7 @@ Higher Time Frame    Lower Time Frame
    ✅ THEN TRADE RETEST / PULLBACK
 ------------------------------------------------------------------------------
    🧨 AVOID Price Equilibrium WIDE Consolidation, Fundamental LONG Retracement, Swing LONG Reversal
-   ✅ TRADE BREAKOUT, RETEST, FUNDAMENTAL RETEST
+   ✅ TRADE BREAKOUT, RETEST, FUNDAMENTAL RETEST ***ONLY***
 
 
 
