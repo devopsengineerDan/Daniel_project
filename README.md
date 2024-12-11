@@ -397,8 +397,8 @@ Higher Time Frame    Lower Time Frame
    ✅ CLOSE TRADES AT 1PM
    ✅ THEN TRADE RETEST / PULLBACK
 ------------------------------------------------------------------------------
-   🧨 AVOID Price Equilibrium WIDE Consolidation, Fundamental LONG Retracement, Swing LONG Reversal
-   ✅ TRADE BREAKOUT, RETEST, FUNDAMENTAL RETEST ***ONLY***
+   🧨 AVOID 1. Price Equilibrium WIDE Consolidation, 2. Fundamental LONG Retracement, 3. Swing LONG Reversal ====>  FUNDAMENTAL BREAKOUT
+   ✅ TRADE 1. BREAKOUT, 2. RETEST, 3. FUNDAMENTAL RETEST ***ONLY***
 
 
 
