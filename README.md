@@ -387,7 +387,7 @@ Higher Time Frame    Lower Time Frame
 
 *******************************************************************************************************************************
 👉👉👉 1 MIN TIME-FRAME
-
+    
    👉 🧨2.5 OR 3.0 => HIGH momentum/displacement => FUNDAMENTAL ===> B CAPITAL - 🧨1 MIN TIME-FRAME🧨
    👉 🧨4.5 OR 5.0 => HIGH momentum/displacement => FUNDAMENTAL ===> T CAPITAL - 🧨1 MIN TIME-FRAME🧨
 
@@ -404,7 +404,7 @@ Higher Time Frame    Lower Time Frame
 
 
    
-   👉👉👉🧨 TIME-FRAME [15 MINUTES] ELECTIONS[POLITICS] FUNDAMENTAL
+   👉👉👉 🧨 TIME-FRAME [15 MINUTES] ELECTIONS[POLITICS] FUNDAMENTAL
    => 0.5 10MIN->5MIN
    => AIM for Specific Target Price AND / OR Order Block
 ==========================================================================
@@ -449,7 +449,7 @@ Higher Time Frame    Lower Time Frame
 
    🧨 ORDER BLOCK OBSERVATION
        👉 1 Resistance
-       👉 2 Equilibrium / Fibonacci
+       👉 2 Price Equilibrium / Fibonacci
        👉 3 Support
 
 
