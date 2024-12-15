@@ -2065,6 +2065,8 @@ Google AdSense -> dancunmoruri@gmail.com
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 PEPPERSTONE ---> eagleoverflow@gmail.com
+Wallet#1 -> Johnson1*@#!33A
+Professional Trader -> Royal^&*99GRAnd
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 EXNESS ---> quantumaiquant@gmail.com
 WEB -> ALPHA1one@987#
