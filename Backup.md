@@ -2060,12 +2060,26 @@ Cloudflare -> dancummoruri@gmail.com : <span class="Button-label">1Paste, drop, 
 
 
 Google AdSense -> dancunmoruri@gmail.com 
+
+=============================================================================================================================================================================
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-FUNDEDNEXT -> CHRISTINE@9# 
+PEPPERSTONE ---> eagleoverflow@gmail.com
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-Fundingpips -> Alpha1@987#
+EXNESS ---> quantumaiquant@gmail.com
+WEB -> ALPHA1one@987#
+
+Pro Trader ACC -> Quant*@987#
+Pro DEMO -> Pro#1Trader
+
+Standard Trader ACC -> Python*@#97
+Standard DEMO -> Standard#1
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-INGOT 
+FUNDEDNEXT ---> dancunmoruri@gmail.com -> CHRISTINE@9# 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Fundingpips ---> dancunmoruri@gmail.com -> Alpha1@987#
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+INGOT ---> dancunmoruri@gmail.com 
  WEB -> DAVIDQwerty@987#
 
 ---------------------------------
@@ -2085,22 +2099,22 @@ Master: Daniel@3#
 
 For security reasons, we recommend that you change your MetaTrader password after your first login.
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-EXNESS
-WEB -> ALPHA1one@987#
-
-Pro Trader ACC -> Quant*@987#
-Pro DEMO -> Pro#1Trader
-
-Standard Trader ACC -> Python*@#97
-Standard DEMO -> Standard#1
-
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-HFM
+HFM ---> dancunmoruri@gmail.com
 WEB -> QuantTrader@97#
 ACC -> DAVIDTrader@97#
 Your email/ticket reference number is: 3918327963. Please include this ticket number in the subject line of all future correspondence regarding this issue.
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 Forex Blue   quantdancun -> dancunmoruri@gmail.com -> DancunIQ@543&&
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+=============================================================================================================================================================================
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BINANCE ---> quantumaiquant@gmail.com  Entity ==> LIGHT TECHNOLOGIES ==> Quantitative*99%@EASING#33
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+SKRILL ---> dancunmoruri@gmail.com ==> MasterClass*@ALPHA1&!BLISS33   ==> 339791 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+GOOGLEPAY ---> dancunmoruri@gmail.com
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 -----------------------------------------------------------------
