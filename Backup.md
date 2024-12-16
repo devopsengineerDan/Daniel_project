@@ -1987,11 +1987,13 @@ BIOS Supervisor: Right index/ devopsengineer
 
 .................................................
 
-KRA 
+=============================================================================================================================================================================
+
+KRA --->  dancunmoruri@gmail.com  ---> 0711444518
 A012540149K
 engineerDaniel@1234
 
-https://adili.eacc.go.ke/ LOGIN-> dancunmoruri@gmail.com -> CONARDMOMANYI@1daniel
+https://adili.eacc.go.ke/ LOGIN -> dancunmoruri@gmail.com -> CONARDMOMANYI@1daniel
 
 Microsoft Teams: conardmomanyi1234
 Microsoft acc: dancunmoruri@gmail.com  => Passwd:  Conardmomanyi123 => Security code for 0711444518 => Microsoft Teams, Skype, Microsoft OneDrive, Microsoft Office 365
@@ -2115,10 +2117,36 @@ Forex Blue   quantdancun -> dancunmoruri@gmail.com -> DancunIQ@543&&
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 BINANCE ---> quantumaiquant@gmail.com  Entity ==> LIGHT TECHNOLOGIES ==> Quantitative*99%@EASING#33
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-SKRILL ---> dancunmoruri@gmail.com ==> MasterClass*@ALPHA1&!BLISS33   PN ---> 339791 
+SKRILL ---> dancunmoruri@gmail.com ---> 0706738969 ==> MasterClass*@ALPHA1&!BLISS33   PN ---> 339791 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-GOOGLEPAY ---> dancunmoruri@gmail.com
+GOOGLEPAY ---> dancunmoruri@gmail.com ---> 0706738969
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+PAYPAL ---> dancunmoruri@gmail.com ---> 0711444518 -> STRONGESTunion1^#!99
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+=============================================================================================================================================================================
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+SAVINGS => DTB ---> dancunmoruri@gmail.com   ---> 0711444518     PN --->    %%%-ATM DETAILS-%%%
+ACC 382 ===> DRIVE dancunmoruri@gmail.com
+*382#
+Paybill -> 516600
+5951948001 -> 963385
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+SAVINGS => DUKASCOPY_Swiss_Banking_Group ---> dancunmoruri@gmail.com  ---> 0706738969   PN --->   %%%-ATM DETAILS-%%%
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+SAVINGS => SBM ---> dancunmoruri@gmail.com   ---> 0706738969     PN --->    %%%-ATM DETAILS-%%%
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+======================================================
+SAVINGS => ABSA ---> dancunmoruri@gmail.com   ---> HOME FAM NUMBER     PN --->    %%%-ATM DETAILS-%%%
+======================================================
+BUSINESS => ABSA ---> dancunmoruri@gmail.com   ---> HOME FAM NUMBER     PN --->    %%%-ATM DETAILS-%%%
+======================================================
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+=============================================================================================================================================================================
 
 -----------------------------------------------------------------
 
