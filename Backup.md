@@ -2070,6 +2070,7 @@ Professional Trader -> Royal^&*99GRAnd
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 EXNESS ---> quantumaiquant@gmail.com
 WEB -> ALPHA1one@987#
+PN ---> 979891
 
 Pro Trader ACC -> Quant*@987#
 Pro DEMO -> Pro#1Trader
@@ -2114,7 +2115,7 @@ Forex Blue   quantdancun -> dancunmoruri@gmail.com -> DancunIQ@543&&
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 BINANCE ---> quantumaiquant@gmail.com  Entity ==> LIGHT TECHNOLOGIES ==> Quantitative*99%@EASING#33
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-SKRILL ---> dancunmoruri@gmail.com ==> MasterClass*@ALPHA1&!BLISS33   ==> 339791 
+SKRILL ---> dancunmoruri@gmail.com ==> MasterClass*@ALPHA1&!BLISS33   PN ---> 339791 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 GOOGLEPAY ---> dancunmoruri@gmail.com
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
