@@ -2115,14 +2115,17 @@ Forex Blue   quantdancun -> dancunmoruri@gmail.com -> DancunIQ@543&&
 =============================================================================================================================================================================
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-BINANCE ---> quantumaiquant@gmail.com  Entity ==> LIGHT TECHNOLOGIES ==> Quantitative*99%@EASING#33
+BINANCE ---> quantumaiquant@gmail.com    Entity ==> LIGHT TECHNOLOGIES    ==> Quantitative*99%@EASING#33
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-SKRILL ---> dancunmoruri@gmail.com ---> 0706738969 ==> MasterClass*@ALPHA1&!BLISS33   PN ---> 339791 
+SKRILL ---> dancunmoruri@gmail.com   ---> 0706738969   ==> MasterClass*@ALPHA1&!BLISS33   PN ---> 339791 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+PAYPAL  ---> dancunmoruri@gmail.com -  --> 0711444518   ==>  &Newton99%#SCIENTIST
+<---OR--->
 GOOGLEPAY ---> dancunmoruri@gmail.com ---> 0706738969
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-PAYPAL ---> dancunmoruri@gmail.com ---> 0711444518 -> STRONGESTunion1^#!99
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 
 =============================================================================================================================================================================
 
