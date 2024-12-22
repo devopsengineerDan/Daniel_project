@@ -301,7 +301,7 @@ Specific|Measurable|Achievable|Realistic|Time Bound
 👉 ****KEVIN SUMMARY NOTES*****
 
 
-🧨🧨🧨BEST<->MARKETABLE<->IRREPLACABLE🧨🧨🧨
+🧨🧨🧨 BEST<->MARKETABLE<->IRREPLACABLE 🧨🧨🧨
 
 
 ---------------------------------------------------------
@@ -314,23 +314,54 @@ RESPECT LAWS + MANAGE RESOURCES + RISK MANAGEMENT
 
 
 🧨🧨🧨🧨🧨🧨🧨🧨🧨 TRADING RULES 🧨🧨🧨🧨🧨🧨🧨🧨🧨
-🧨🧨🧨🧨🧨🧨🧨🧨🧨OPPOSITE IS TRUE AND RESULTS TO A LOSS WHEN PLACING TRADES🧨🧨🧨🧨🧨🧨🧨🧨🧨
+🧨🧨🧨🧨🧨🧨🧨🧨🧨 OPPOSITE IS TRUE AND RESULTS TO A LOSS WHEN PLACING TRADES 🧨🧨🧨🧨🧨🧨🧨🧨🧨
 
 1 Subscribe to an A Booking Broker ===> OPPOSITE is a B Booking Broker 
 2 ===> PSYCHOLOGY ===> Large Deposit, Large Lot size, Large Leverage | Small Deposit, Small Lot size, Small Leverage
 3 Always use Trailing Take Profit and Stop Loss(Modify Take Profit and Stop Loss)
 
--------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
 ******🧨 FX BLUE ==> AWARE of BASE CURRENCY STRENGTH [USD] 🧨******
 **** *🧨 FOREX FACTORY ==> AWARE of FUNDAMENTALS [Economic News, Fed Speech, Politics, Natural Calamities] 🧨******
 ******🧨 NOT EVERY DAY IS A TRADING DAY, YOU DON'T HAVE TO PLACE A TRADE, HENCE SAVE MONEY IN YOUR ACCOUNT <-----> ONLY PLACE QUALITY TRADES 🧨******
 
-      ✅ TRADE ON TWO FULL SCREEN -----> PRICE EMPHASIS -----> TREND EMPHASIS
-      ✅ REQUIRES FULL ATTENTION
-      ✅ BODY TELLS THE STORY, WICK TELLS THE DESTRUCTION
 
-      ✅ TRADE AS -----> SMART MONEY INSTITUTIONS
+👉👉👉👉👉👉👉👉👉👉👉👉👉 🧨🧨🧨 RESOURCE MANAGEMENT + TRADING EDGE ONLY PLACE QUALITY TRADES  && A + TRADES 🧨🧨🧨
+
+👉👉👉👉👉👉👉👉👉👉👉👉👉 🧨🧨🧨 ONLY Trade CANDLESTICK + TRADE ON LARGE SCREEN + CANDLESTICK TIME PERIOD 🧨🧨🧨
+
+   🧨 15 MIN [FIRST 5 MIN => OBSERVATION] [10 MIN => ACTUAL TRADE]
+   🧨 First Three Candlesticks -> High Probability Trades | High Profit| Low Risk
+   🧨 AFTER First Three Candlesticks -> Less Probability Trades | Low Profit| High Risk
+
+   ✅ TRADE ON TWO FULL SCREEN -----> PRICE EMPHASIS -----> TREND EMPHASIS
+   ✅ REQUIRES FULL ATTENTION
+   ✅ BODY TELLS THE STORY, WICK TELLS THE DESTRUCTION
+
+   ✅ TRADE AS    -----> SMART MONEY INSTITUTIONS TRADER
                   -----> RETAIL TRADER
+-----------------------------------------------------------------------------------------------------------------------------------------
+   ✅ 🌀 DAY TRADER => HAVE [TARGET + ORIGIN PRICE] && TRUST YOUR STRATEGY 🌀 MEDIUM SCALE TRADE && LARGE SCALE TRADE 🌀
+   ✅ 0.5 VERY LONG TRADES [VERY LARGE SCALE] 
+   ✅ 1.0 LONG TRADES ===> RETEST / PULLBACK [MEDIUM & LARGE SCALE]
+   ✅ CLOSE TRADES AT 1PM
+   ✅ THEN TRADE BREAKOUT && RETEST / PULLBACK
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+   🧨🧨🧨 AVOID 1. Price Equilibrium WIDE Consolidation ---> 🧨CLOSE AT PROFIT🧨 , 2. Fundamental LONG Retracement ---> 🧨CLOSE AFTER OBSERVING THE CANDLE STICK🧨 , 3. Swing LONG Reversal <====>  FUNDAMENTAL BREAKOUT
+   ✅ TRADE 1. BREAKOUT, 2. RETEST, 3. FUNDAMENTAL RETEST ***ONLY***
+-----------------------------------------------------------------------------------------------------------------------------------------
+   ✅ LOT SIZE/ CONTRACT SIZE
+   1 TOTAL VOLUME LOT SIZE
+   2 NUMBER OF ORDERS PLACED && 🧨EQUIVALENT TO FUNDS IN YOUR ACCOUNT🧨
+   3 MARGIN RATIO && 🧨ALLOWANCE🧨 IN NUMBER OF ORDERS PLACED CREATING ROOM FOR RETRACEMENT    ------> PEPPERSTONE 1:300
+                                                                                               ------> EXNESS 1:200
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
 -------------------------------------------------------------------------------------------------------------------------------
 ******🧨 DO NOT EXCHANGE MONEY WITH LIQUID PROVIDER, ONCE PRICE HAS REACHED HIGHEST POINT,  EXIT TRADE 🧨******
 ******🧨 DO NOT TRADE RESISTANCE, SUPPORT🧨******
@@ -367,13 +398,9 @@ Higher Time Frame    Lower Time Frame
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-👉👉👉👉👉👉👉👉👉👉👉👉👉 🧨🧨🧨 RESOURCE MANAGEMENT + TRADING EDGE ONLY PLACE QUALITY TRADES  && A + TRADES 🧨🧨🧨
 
-👉👉👉👉👉👉👉👉👉👉👉👉👉 🧨🧨🧨 ONLY Trade CANDLESTICK + TRADE ON LARGE SCREEN + CANDLESTICK TIME PERIOD 🧨🧨🧨
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-   🧨 15 MIN [FIRST 5 MIN => OBSERVATION] [10 MIN => ACTUAL TRADE]
-   🧨 First Three Candlesticks -> High Probability Trades | High Profit| Low Risk
-   🧨 AFTER First Three Candlesticks -> Less Probability Trades | Low Profit| High Risk
 
 -------------------------------------------------------------------------------------------------------------------------------
    🧨 LOT SIZE
@@ -390,16 +417,6 @@ Higher Time Frame    Lower Time Frame
     
    👉 🧨2.5 OR 3.0 => HIGH momentum/displacement => FUNDAMENTAL ===> B CAPITAL - 🧨1 MIN TIME-FRAME🧨
    👉 🧨4.5 OR 5.0 => HIGH momentum/displacement => FUNDAMENTAL ===> T CAPITAL - 🧨1 MIN TIME-FRAME🧨
-
-   🌀 DAY TRADER => HAVE [TARGET + ORIGIN PRICE] && TRUST YOUR STRATEGY 🌀 MEDIUM & LARGE SCALE 🌀
-   ✅ 0.5 VERY LONG TRADES [VERY LARGE SCALE] 
-   ✅ 1.0 LONG TRADES ===> RETEST / PULLBACK [MEDIUM & LARGE SCALE]
-   ✅ CLOSE TRADES AT 1PM
-   ✅ THEN TRADE RETEST / PULLBACK
-------------------------------------------------------------------------------
-   🧨 AVOID 1. Price Equilibrium WIDE Consolidation, 2. Fundamental LONG Retracement, 3. Swing LONG Reversal ====>  FUNDAMENTAL BREAKOUT
-   ✅ TRADE 1. BREAKOUT, 2. RETEST, 3. FUNDAMENTAL RETEST ***ONLY***
-
 
 
 
