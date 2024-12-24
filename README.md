@@ -125,8 +125,13 @@ Henriot Group => Gamma Delta Fund
 ## STRATEGY SETTINGS
 
 ![title](static/img/strategy1.png)
+![title](static/img/strategy1_IMPROVED.png)
+
+![title](static/img/strategy1_21_IMPROVED.jpg)
 
 ![title](static/img/strategy2.png)
+![title](static/img/strategy2_IMPROVED.jpg)
+
 
 -----------------------------------------------------------------------------------------------
 
@@ -518,13 +523,21 @@ Higher Time Frame    Lower Time Frame
 > PRICE EQUILIBRIUM
 ```
 
-### 2ND -> DEMAND AND SUPPLY
+### 2ND -> DEMAND AND SUPPLY STRATEGY
 
 ```
-> PRICE ACTION BASED ON MARKET STRUCTURE AND TIME INTERVAL STRATEGY
+> PRICE ACTION BASED ON MARKET STRUCTURE AND TIME INTERVAL[30MIN,DY,WK,MTH] STRATEGY
 ```
 
-### 3RD -> PRICE ACTION STRATEGY
+### 3RD -> EXPONENTIAL MOVING AVERAGES STRATEGY
+
+```
+> 7
+> 21
+```
+---------------------
+
+### 4TH -> PRICE ACTION STRATEGY
 
 ```
 > ALL HFM BROKER PRICE ACTION STRATEGIES
@@ -533,13 +546,39 @@ Higher Time Frame    Lower Time Frame
 
 # PRICE EMPHASIS
 
-### 1ST -> ICT STRATEGY 
+### 1ST -> SMC STRATEGY
 
 ```
-> ALL HFM BROKER ICT STRATEGIES
+> SMART MONEY CONCEPT (SMC) STRATEGY 
+
+> [XAU/USD 3AM TIME + TIME-ZONE] BASED LIQUIDITY (TBL) STRATEGY 
+
+> Buy-Side Liquidity STRATEGY ==> BUY-STOP LOSS  HUNT
+
+> Sell-Side Liquidity STRATEGY ==> SELL-STOP LOSS  HUNT
+
+> SWING HIGH STRATEGY 
+
+> SWING LOW STRATEGY
+
+> PRICE EQUILIBRIUM
 ```
 
- ----------------------------
+### 2ND -> ICT STRATEGY 
+
+```
+> ALL HFM BROKER ICT STRATEGIES + GITHUB README
+```
+
+### 3RD -> FIBONACCI STRATEGY 
+
+```
+> ALL HFM BROKER FIBONACCI STRATEGIES 
+```
+
+ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+# ICT STRATEGY
 
 ```
 > LOT SIZE => CONTRACT SIZE
