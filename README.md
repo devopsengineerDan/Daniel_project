@@ -513,11 +513,19 @@ Higher Time Frame    Lower Time Frame
 ### 2ND -> EMA STRATEGY + GOLDEN RULES
 
 ```
+> 7
+> 21
+> GOLDEN RULES
+-----------------------------------------------------------------------------------------------------------------------------------------
+   🧨🧨🧨 AVOID 1. Price Equilibrium WIDE Consolidation ---> 🧨CLOSE AT PROFIT🧨 , 2. Fundamental LONG Retracement ---> 🧨CLOSE AFTER OBSERVING THE CANDLE STICK🧨 , 3. Swing LONG Reversal <====>  FUNDAMENTAL BREAKOUT
+   ✅ TRADE 1. BREAKOUT, 2. RETEST, 3. FUNDAMENTAL RETEST ***ONLY***
+-----------------------------------------------------------------------------------------------------------------------------------------
 ```
 
 ### 3RD -> FIBONACCI STRATEGY
 
 ```
+> ALL HFM BROKER FIBONACCI STRATEGIES 
 ```
 
 # TREND EMPHASIS
