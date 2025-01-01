@@ -250,7 +250,11 @@ Price Range
 # DAWN STRATEGY BEST PRACTICES
 
 ```
+✅ ✅ ✅ CONSISTENCY | DISCIPLINE | PATIENCE ✅ ✅ ✅ 
 ✅ ✅ ✅ Lot Sizing Tips (FUND / MONEY / ASSET MANAGEMENT) ✅ ✅ ✅  
+>>>>>>>>>>>>>>>>>>>>   Ksh. 1M = 5 LOT   <<<<<<<<<<<<<<<<<<<<<<<<<<
+
+--------------------------------------------------------------------------------
 
 50 usd :-
 High risk = 0.10 lot
@@ -284,20 +288,14 @@ If you have an amount that is different from the amount above. Take the amount t
 ```
 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
 
-
-Indicators [EMA]
+>>> TRADING VIEW TOOLS
+Indicators [EMA] 7 && 21
 FluidTrades - SMC Lite
 Fibonnacci
 
 
 
 =======================================================================================================================================
-
-
-
-Specific|Measurable|Achievable|Realistic|Time Bound
-
----------------------------------------------------------
 
 👉 ****FOREX BACKUP*****
 👉 ****INGOT BROKER NOTES*****
@@ -306,19 +304,21 @@ Specific|Measurable|Achievable|Realistic|Time Bound
 👉 ****KEVIN SUMMARY NOTES*****
 
 
-🧨🧨🧨 BEST<->MARKETABLE<->IRREPLACABLE 🧨🧨🧨
-
+🧨🧨🧨 SMART [Specific|Measurable|Achievable|Realistic|Time Bound] 🧨🧨🧨
 
 ---------------------------------------------------------
 
+🧨🧨🧨 BEST <---> MARKETABLE <---> IRREPLACABLE 🧨🧨🧨
 
-RESPECT LAWS + MANAGE RESOURCES + RISK MANAGEMENT
+---------------------------------------------------------
+
+🧨🧨🧨 RESPECT LAWS + MANAGE RESOURCES + RISK MANAGEMENT 🧨🧨🧨
 
 
 =======================================================================================================================================
 
 
-🧨🧨🧨🧨🧨🧨🧨🧨🧨 TRADING RULES 🧨🧨🧨🧨🧨🧨🧨🧨🧨
+🧨🧨🧨🧨🧨🧨🧨🧨🧨 GOLDEN TRADING RULES 🧨🧨🧨🧨🧨🧨🧨🧨🧨
 🧨🧨🧨🧨🧨🧨🧨🧨🧨 OPPOSITE IS TRUE AND RESULTS TO A LOSS WHEN PLACING TRADES 🧨🧨🧨🧨🧨🧨🧨🧨🧨
 
 1 Subscribe to an A Booking Broker ===> OPPOSITE is a B Booking Broker 
@@ -327,7 +327,7 @@ RESPECT LAWS + MANAGE RESOURCES + RISK MANAGEMENT
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 ******🧨 FX BLUE ==> AWARE of BASE CURRENCY STRENGTH [USD] 🧨******
-**** *🧨 FOREX FACTORY ==> AWARE of FUNDAMENTALS [Economic News, Fed Speech, Politics, Natural Calamities] 🧨******
+******🧨 FOREX FACTORY ==> AWARE of FUNDAMENTALS [Economic News, Fed Speech, Politics, Natural Calamities] 🧨******
 ******🧨 NOT EVERY DAY IS A TRADING DAY, YOU DON'T HAVE TO PLACE A TRADE, HENCE SAVE MONEY IN YOUR ACCOUNT <-----> ONLY PLACE QUALITY TRADES 🧨******
 
 
@@ -493,7 +493,7 @@ Higher Time Frame    Lower Time Frame
 
 👉👉👉👉👉👉👉👉👉👉👉👉👉 🧨🧨🧨 RESOURCE MANAGEMENT + RISK MANAGEMENT 🧨🧨🧨
 
-👉 [ 0.1 OR 0.2 LOT  ] Multiple Orders                      👉 STOP LOSS + 5 PIPS [ No TP + CLOSE ALL TRADES ]
+✅ ✅ ✅  ELECTIONS ✅ ✅ ✅
 👉 [ 1 LOT ] BULL ===> Multiple Orders                      👉 STOP LOSS + 10 PIPS [ No TP + CLOSE ALL TRADES ] A* TRADE
 
     
@@ -502,7 +502,24 @@ Higher Time Frame    Lower Time Frame
 
 
 ========================================================================================================================================================================================================================
-   
+
+# XAU/USD EMPHASIS
+
+### 1ST -> TIME STRATEGY
+
+```
+```
+
+### 2ND -> EMA STRATEGY + GOLDEN RULES
+
+```
+```
+
+### 3RD -> FIBONACCI STRATEGY
+
+```
+```
+
 # TREND EMPHASIS
 
 ### 1ST -> SMC STRATEGY
@@ -523,7 +540,7 @@ Higher Time Frame    Lower Time Frame
 > PRICE EQUILIBRIUM
 ```
 
-### 2ND -> DEMAND AND SUPPLY STRATEGY
+### 2ND -> DEMAND AND SUPPLY STRATEGY (ICT)
 
 ```
 > PRICE ACTION BASED ON MARKET STRUCTURE AND TIME INTERVAL[30MIN,DY,WK,MTH] STRATEGY
