@@ -1,15 +1,39 @@
 # EXCHANGE MARKET[STOCK, FOREX, CRYPTOCURRENCY]
 
+#### FINANCIAL INSTRUMENTS
+
+```
+✅ FOREX EXCHANGE
+   ---> CURRENCIES
+   ---> COMMODITIES
+```
+
+```
+✅ STOCK EXCHANGE 
+   ---> CFDs
+   ---> OPTIONS
+-----------------------------------------------------------
+   (EQUITY) ---> DERIVATIVES
+-----------------------------------------------------------
+   ---> INDICES [US100,US500] ===> Highly Volatile [US30]
+   ---> STOCK
+```
+
+```
+✅ CRYPTOCURRENCY ===> BINANCE
+   ---> Bitcoin
+```
 
 #  33 MASTERY
  
 ```
  FINANCIAL MODELLING && DATA ANALYTICS
 ```
+
 # PROFESSIONALS
 
 ```
-Research,Market| Finance Analyst
+Research <---> Market| Financial Analyst
 Asset Manager
 ------------------------------
 Broker [STOCK|EQUITY,DERIVATIVES|CFD's|FOREX|CRYPTOCURRENCY] ===> NON-DEALING LICENSE
