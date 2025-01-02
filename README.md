@@ -12,15 +12,16 @@
 ✅ STOCK EXCHANGE
    ---> STOCK =====> LONG-TERM PERIOD [5-10-25-100]YRS
               =====> MEDIUM-TERM PERIOD [MONTHS-5]YRS
-================================================================================================================
+====================================================================================================================
    ---> INDICES with Medium Volatility [US100,US500] ===> Highly Volatile INDEX [US30]
 
--------------------------------------------------------------------------------------------------  
-   (NOT AN ACTUAL STOCK) (CONTRACT BETWEEN YOU AND BROKER) ---> CFDs
-   ***** COMPLEX ***** (NOT AN ACTUAL STOCK) (CONTRACT BETWEEN TWO INVESTORS) ---> OPTIONS
--------------------------------------------------------------------------------------------------  
-   (EQUITY) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN TWO INVESTORS) ---> DERIVATIVES
--------------------------------------------------------------------------------------------------  
+-------------------------------------------------------------------------------------------------
+👉 CFDs ---> (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN YOU AND BROKER)
+-------------------------------------------------------------------------------------------------
+👉 (EQUITY) <-> DERIVATIVES 
+ >>> FUTURES ---> (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN TWO INVESTORS) 
+ >>> OPTIONS --->  ***** COMPLEX ***** (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN TWO INVESTORS) 
+-------------------------------------------------------------------------------------------------    
 ```
 
 ```
