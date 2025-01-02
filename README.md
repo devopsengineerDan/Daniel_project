@@ -534,12 +534,19 @@ Higher Time Frame    Lower Time Frame
 
 # XAU/USD EMPHASIS
 
-### 1ST -> TIME STRATEGY
+### 1ST -> PRICE STRATEGY
+
+```
+>>> ORIGINAL PRICE
+>>> TARGET PRICE
+```
+
+### 2ND -> TIME STRATEGY
 
 ```
 ```
 
-### 2ND -> EMA STRATEGY + GOLDEN RULES
+### 3RD -> EMA STRATEGY + GOLDEN RULES
 
 ```
 > 7
@@ -551,7 +558,7 @@ Higher Time Frame    Lower Time Frame
 -----------------------------------------------------------------------------------------------------------------------------------------
 ```
 
-### 3RD -> FIBONACCI STRATEGY
+### 4TH -> FIBONACCI STRATEGY
 
 ```
 > ALL HFM BROKER FIBONACCI STRATEGIES 
@@ -723,10 +730,6 @@ Higher Time Frame    Lower Time Frame
 > 2022 MENTORSHIP
 
 > 2023 MENTORSHIP
-
-> 2024 MENTORSHIP
-
-> 2025 MENTORSHIP
 ```
 
  ----------------------------
