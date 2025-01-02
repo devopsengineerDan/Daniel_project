@@ -16,8 +16,8 @@
    ---> INDICES with Medium Volatility [US100,US500] ===> Highly Volatile INDEX [US30]
 
 ----------------------------------------------------------------------  
-   (NOT ACTUAL STOCK) (CONTRACT BETWEEN YOU AND BROKER) ---> CFDs
-   (NOT ACTUAL STOCK) (CONTRACT BETWEEN TWO INVESTORS) ---> OPTIONS
+   (NOT AN ACTUAL STOCK) (CONTRACT BETWEEN YOU AND BROKER) ---> CFDs
+   (NOT AN ACTUAL STOCK) (CONTRACT BETWEEN TWO INVESTORS) ---> OPTIONS
 ----------------------------------------------------------------------  
    (EQUITY) (BASED ON AN ACTUAL ASSET/SECURITY) ---> DERIVATIVES
 ----------------------------------------------------------------------  
