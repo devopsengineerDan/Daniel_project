@@ -17,7 +17,7 @@
 
 -------------------------------------------------------------------------------------------------  
    (NOT AN ACTUAL STOCK) (CONTRACT BETWEEN YOU AND BROKER) ---> CFDs
-   (NOT AN ACTUAL STOCK) (CONTRACT BETWEEN TWO INVESTORS) ---> OPTIONS
+   ***** COMPLEX ***** (NOT AN ACTUAL STOCK) (CONTRACT BETWEEN TWO INVESTORS) ---> OPTIONS
 -------------------------------------------------------------------------------------------------  
    (EQUITY) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN TWO INVESTORS) ---> DERIVATIVES
 -------------------------------------------------------------------------------------------------  
