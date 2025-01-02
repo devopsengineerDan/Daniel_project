@@ -15,7 +15,7 @@
 -----------------------------------------------------------
    (EQUITY) ---> DERIVATIVES
 -----------------------------------------------------------
-   ---> INDICES [US100,US500] ===> Highly Volatile [US30]
+   ---> INDICES with Medium Volatility [US100,US500] ===> Highly Volatile INDEX [US30]
    ---> STOCK
 ```
 
