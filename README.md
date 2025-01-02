@@ -4,19 +4,23 @@
 
 ```
 ✅ FOREX EXCHANGE
-   ---> CURRENCIES
    ---> COMMODITIES
+   ---> CURRENCIES
 ```
 
 ```
-✅ STOCK EXCHANGE 
+✅ STOCK EXCHANGE
+   ---> STOCK =====> LONG-TERM PERIOD [25-100]YRS
+              =====> MEDIUM-TERM PERIOD [2-5]YRS
+========================================================================================
+   ---> INDICES with Medium Volatility [US100,US500] ===> Highly Volatile INDEX [US30]
+
+-----------------------------------------------------------  
    (STOCK) ---> CFDs
-   ---> OPTIONS
+   (STOCK) ---> OPTIONS
 -----------------------------------------------------------
    (EQUITY) ---> DERIVATIVES
 -----------------------------------------------------------
-   ---> INDICES with Medium Volatility [US100,US500] ===> Highly Volatile INDEX [US30]
-   ---> STOCK
 ```
 
 ```
