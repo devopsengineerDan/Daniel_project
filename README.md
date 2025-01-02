@@ -10,7 +10,7 @@
 
 ```
 ✅ STOCK EXCHANGE 
-   ---> CFDs
+   (STOCK) ---> CFDs
    ---> OPTIONS
 -----------------------------------------------------------
    (EQUITY) ---> DERIVATIVES
