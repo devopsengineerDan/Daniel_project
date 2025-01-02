@@ -723,6 +723,10 @@ Higher Time Frame    Lower Time Frame
 > 2022 MENTORSHIP
 
 > 2023 MENTORSHIP
+
+> 2024 MENTORSHIP
+
+> 2025 MENTORSHIP
 ```
 
  ----------------------------
