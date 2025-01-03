@@ -770,7 +770,7 @@ Higher Time Frame    Lower Time Frame
 => Interactive Broker
 => MyFXBook
 => DUKASCOPY-Swiss Banking Group
-=> QUANT CONNECT - Secure Data Centre for Models [Telecommunication, Short Fibre Cable, SOLID INFORMATION, Performant Quant Models, Performant Hardware, (STABLE + HIGH PERFORMANT + BACKUP) INTERNET && ELECTRICITY]
+=> QUANT CONNECT - SECURE Data Centre for Quantitative Models [HIGH-PERFORMANT Telecommunication, Short HIGH-PERFORMANT Fibre Cable, SOLID INFORMATION, HIGH-PERFORMANT Quant Models, HIGH-PERFORMANT Hardware, (STABLE + HIGH-PERFORMANT + BACKUP) INTERNET && ELECTRICITY]
 ```
 
 # LIGHT MANAGEMENT LTD
