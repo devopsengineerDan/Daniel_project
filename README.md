@@ -286,7 +286,7 @@ Price Range
 
 ```
 ✅ ✅ ✅ CONSISTENCY | DISCIPLINE | PATIENCE ✅ ✅ ✅ 
-✅ ✅ ✅ Lot Sizing Tips (FUND / MONEY / ASSET MANAGEMENT) ✅ ✅ ✅  
+✅ ✅ ✅ Lot Sizing Tips (FUND / MONEY / ASSET MANAGEMENT) Credit: Nick Pot Analogy ✅ ✅ ✅  
 >>>>>>>>>>>>>>>>>>>>   Ksh. 1M = 5 LOT   <<<<<<<<<<<<<<<<<<<<<<<<<<
 
 --------------------------------------------------------------------------------
