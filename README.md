@@ -4,24 +4,37 @@
 
 ```
 ✅ STOCK EXCHANGE
-👉 ---> STOCK =====> LONG-TERM PERIOD [5-10-25-100]YRS
-              =====> MEDIUM-TERM PERIOD [MONTHS-5]YRS
-====================================================================================================================
+👉 ---> STOCK =====> LONG-TERM PERIOD [5-10-25-100]YRS ----> GOLD, BANK | GOVERNMENT, RELIGION, EDUCATION
+                                                       ----> ARMORY, TECHNOLOGY(SOFTWARE, HARDWARE), ENTERTAINMENT
+                                                       ----> PROPERTIES, LANDS, PLANTS, ANIMALS 
+
+              =====> MEDIUM-TERM PERIOD [MONTHS-5]YRS --->  ✅ CRYPTOCURRENCY EXCHANGE ===> BINANCE
+                                                            =====>  HOLD + TRANSFER PROFITS ELSEWHERE
+                                                            =====>  USE MARGIN when ACTIVELY TRADING && NO MARGIN when NOT ACTIVELY TRADING
+                                                                                                       (  1. Sui
+                                                                                                          ---------------
+                                                                                                          2. Bitcoin -> Secure
+                                                                                                          3. Etherium -> Universal
+                                                                                                          4. Solana -> Retail
+                                                                                                       )
+
+
+==================================================================================================================================
 👉 ---> INDICES with Medium Volatility [US100,US500] ===> Highly Volatile INDEX [US30]
-====================================================================================================================
+==================================================================================================================================
 👉 INDEX FUND
 👉 EXCHANGE TRADED FUND
 👉 MUTUAL FUND
+----------------------------------------------------------------------------------------------------------------------------------
 
 
-
--------------------------------------------------------------------------------------------------
+==================================================================================================================================
 👉 CFDs ---> (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN YOU AND BROKER)
--------------------------------------------------------------------------------------------------
+==================================================================================================================================
 👉 (EQUITY) <-> DERIVATIVES 
  >>> FUTURES ---> (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN TWO INVESTORS) 
  >>> OPTIONS --->  ***** COMPLEX ***** (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN TWO INVESTORS) 
--------------------------------------------------------------------------------------------------    
+----------------------------------------------------------------------------------------------------------------------------------
 ```
 
 ```
@@ -30,10 +43,7 @@
    ---> CURRENCIES
 ```
 
-```
-✅ CRYPTOCURRENCY EXCHANGE ===> BINANCE
-   ---> Bitcoin
-```
+
 
 #  33 MASTERY
  
