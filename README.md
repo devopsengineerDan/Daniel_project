@@ -4,8 +4,8 @@
 
 ```
 ✅ STOCK EXCHANGE
-👉 ---> STOCK =====> LONG-TERM PERIOD [5-10-25-100]YRS ----> GOLD, BANK | GOVERNMENT, RELIGION, EDUCATION
-                                                       ----> ARMORY, TECHNOLOGY(SOFTWARE, HARDWARE), ENTERTAINMENT
+👉 ---> STOCK =====> LONG-TERM PERIOD [5-10-25-100]YRS ----> (GOLD + MINERALS), BANKS | GOVERNMENT, RELIGION, EDUCATION
+                                                       ----> ARMORY, MINERALS, TECHNOLOGY(SOFTWARE, HARDWARE), ENTERTAINMENT
                                                        ----> PROPERTIES, LANDS, PLANTS, ANIMALS 
 
               =====> MEDIUM-TERM PERIOD [MONTHS-5]YRS --->  ✅ CRYPTOCURRENCY EXCHANGE ===> BINANCE
