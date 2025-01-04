@@ -560,6 +560,8 @@ Higher Time Frame    Lower Time Frame
 ### 2ND -> TIME STRATEGY
 
 ```
+🧨 5AM CANDLESTICK
+🧨 INDECISION CANDLESTICK / PROPULSION PD-ARRAY
 ```
 
 ### 3RD -> EMA STRATEGY + GOLDEN RULES
@@ -746,6 +748,10 @@ Higher Time Frame    Lower Time Frame
 > 2022 MENTORSHIP
 
 > 2023 MENTORSHIP
+
+> 2024 MENTORSHIP
+
+> 2025 MENTORSHIP
 ```
 
  ----------------------------
