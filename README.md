@@ -12,6 +12,7 @@
               =====> MEDIUM-TERM PERIOD [MONTHS-5-10-25]YRS ---> ✅ CRYPTOCURRENCY EXCHANGE ===> BINANCE
                                                             🧨 =====>  HOLD + TRANSFER PROFITS ELSEWHERE
                                                             🧨 =====>  USE MARGIN when ACTIVELY TRADING && NO MARGIN when NOT ACTIVELY TRADING
+                                                            🧨 =====>  ON INFORMATION OF COLLAPSE ON CRYPTOCURRENCY SELL ALL TOKENS
                                                                                                        (  1. Sui
                                                                                                           ---------------
                                                                                                           2. Bitcoin -> Secure
