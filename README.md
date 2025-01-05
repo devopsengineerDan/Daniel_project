@@ -4,13 +4,14 @@
 
 ```
 ✅ STOCK EXCHANGE
+
 👉 ---> STOCK =====> LONG-TERM PERIOD [5-10-25-100]YRS ----> (GOLD + MINERALS), BANKS | GOVERNMENT, RELIGION, EDUCATION
                                                        ----> ARMORY, MINERALS, TECHNOLOGY(SOFTWARE, HARDWARE), ENTERTAINMENT
                                                        ----> PROPERTIES, LANDS, PLANTS, ANIMALS 
 
-              =====> MEDIUM-TERM PERIOD [MONTHS-5]YRS --->  ✅ CRYPTOCURRENCY EXCHANGE ===> BINANCE
-                                                            =====>  HOLD + TRANSFER PROFITS ELSEWHERE
-                                                            =====>  USE MARGIN when ACTIVELY TRADING && NO MARGIN when NOT ACTIVELY TRADING
+              =====> MEDIUM-TERM PERIOD [MONTHS-5-10-25]YRS ---> ✅ CRYPTOCURRENCY EXCHANGE ===> BINANCE
+                                                            🧨 =====>  HOLD + TRANSFER PROFITS ELSEWHERE
+                                                            🧨 =====>  USE MARGIN when ACTIVELY TRADING && NO MARGIN when NOT ACTIVELY TRADING
                                                                                                        (  1. Sui
                                                                                                           ---------------
                                                                                                           2. Bitcoin -> Secure
@@ -20,7 +21,9 @@
 
 
 ==================================================================================================================================
-👉 ---> INDICES with Medium Volatility [US100,US500] ===> Highly Volatile INDEX [US30]
+=====> SHORT-TERM PERIOD [1]DAY
+👉 ---> INDICES [US100,US500] ---> Medium Volatility 
+   >>>  INDEX [US30] ---> Highly Volatile
 ==================================================================================================================================
 👉 INDEX FUND
 👉 EXCHANGE TRADED FUND
@@ -29,7 +32,8 @@
 
 
 ==================================================================================================================================
-👉 CFDs ---> (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN YOU AND BROKER)
+=====> SHORT-TERM PERIOD [1]DAY
+👉 ---> CFDs ---> (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN YOU AND BROKER)
 ==================================================================================================================================
 👉 (EQUITY) <-> DERIVATIVES 
  >>> FUTURES ---> (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN TWO INVESTORS) 
@@ -39,8 +43,10 @@
 
 ```
 ✅ FOREX EXCHANGE
-   ---> COMMODITIES
-   ---> CURRENCIES
+
+=====> SHORT-TERM PERIOD [1]DAY
+👉 ---> COMMODITIES
+👉 ---> CURRENCIES
 ```
 
 
@@ -553,14 +559,14 @@ Higher Time Frame    Lower Time Frame
 ### 1ST -> PRICE STRATEGY
 
 ```
->>> ORIGINAL PRICE
->>> TARGET PRICE
+🧨 >>> ORIGINAL PRICE
+🧨 >>> TARGET PRICE
 ```
 
 ### 2ND -> TIME STRATEGY
 
 ```
-🧨 5AM CANDLESTICK
+🧨 5AM CANDLESTICK / PD-ARRAY
 🧨 INDECISION CANDLESTICK / PROPULSION PD-ARRAY
 ```
 
