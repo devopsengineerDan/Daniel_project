@@ -3938,17 +3938,37 @@ UI OPTION
 ->Go to File, Preferences, Network, Add NAT Network (e.g)Network Name: NATNetworkPentesting Network CIDR: 10.0.2.0/24   --> You can also do Port Forwarding
 ```
 
-   
+### KALI TOOLS  BACKUP
+
+```
+✅ GOOGLE DRIVE ====> eagleoverflow@gmail.com ---> KALI FOLDER
+✅ GITLAB ====> (GITHUB AUTHENTICATION  dancunmanyinsait@gmail.com  https://github.com/DancunManyinsa) ---> GITLAB https://gitlab.com/DancunManyinsa/all-kali-tools
+```
+
+
 ```
 👉 INSTALL KALI PURPLE THEN INSTALL KALI LINUX PENTESTING TOOLS
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 👉 KALI NETHUNTER - ANDROID - MOBILE
+
     Install Dependencies In Termux pkg update -y && pkg install wget -y
     Download Script In HOME wget https://raw.githubusercontent.com/rc-chuah/Kali-Nethunter-In-Termux/master/install-nethunter-full-termux
     Give Execution Permission chmod +x install-nethunter-full-termux
     Run Script ./install-nethunter-full-termux
     Now Just Start Kali Nethunter nethunter
+
+
+   (OR)
+
+
+    termux-setup-storage
+    pkg install wget
+    wget -O install-nethunter-termux https://offs.ec/2MceZWr
+    chmod +x install-nethunter-termux
+    ./install-nethunter-termux
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 👉 SOLVE FUNCTIONALITY PROBLEMS OF KALI TOOLS
@@ -5490,7 +5510,7 @@ WEB1- Read
 
 wEB2- Read and Write
 
-WEB3- Read, Write and Ownership    => AI,
+WEB3- Read, Write and Ownership    => AI
                                    => Blockchain
                                    => (Distributed System and Database)
                                    => LLVM and Web Assembly
