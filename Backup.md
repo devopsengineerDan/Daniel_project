@@ -3941,9 +3941,11 @@ UI OPTION
 ### KALI TOOLS  BACKUP
 
 ```
-✅ KALI TOOLS SOURCE CODES  ----->  GOOGLE DRIVE ====> eagleoverflow@gmail.com ---> KALI FOLDER
-✅ KALI TOOLS DESCRIPTION AND FUNCTIONS  ------>  https://www.kali.org/tools/all-tools/
-✅ KALI TOOLS DESCRIPTION  ------>  GITLAB ====> (GITHUB AUTHENTICATION  dancunmanyinsait@gmail.com  https://github.com/DancunManyinsa) ---> GITLAB https://gitlab.com/DancunManyinsa/all-kali-tools
+✅ KALI TOOLS SOURCE CODES  ------>   GOOGLE DRIVE ====> eagleoverflow@gmail.com ------>  KALI FOLDER
+✅ KALI TOOLS SOURCE CODES  ------>  GITHUB ====> devopsengineerdan@gmail.com devopsengineerDan ------> Cybersecurity Repositories
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+✅ KALI TOOLS DESCRIPTION AND FUNCTIONS  ------>   https://www.kali.org/tools/all-tools/
+✅ KALI TOOLS DESCRIPTION  ------>  GITLAB ====> (GITHUB AUTHENTICATION  dancunmanyinsait@gmail.com  https://github.com/DancunManyinsa) ------>  GITLAB https://gitlab.com/DancunManyinsa/all-kali-tools
 ```
 
 
