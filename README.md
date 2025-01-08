@@ -5,10 +5,16 @@
 ```
 ✅ STOCK EXCHANGE
 
-👉 ---> STOCK =====> LONG-TERM PERIOD [5-10-25-100]YRS ----> (GOLD + MINERALS), BANKS | GOVERNMENT, RELIGION, EDUCATION
+👉 ---> STOCK =====> LONG-TERM PERIOD [5-10-25-100]YRS        🧨🧨🧨 KENYA/AFRICA && CHINA🧨🧨🧨
+                                                       ----> (GOLD + MINERALS), BANKS | GOVERNMENT, RELIGION, EDUCATION
                                                        ----> ARMORY, MINERALS, TECHNOLOGY(SOFTWARE, HARDWARE), ENTERTAINMENT
-                                                       ----> PROPERTIES, LANDS, PLANTS, ANIMALS 
-
+                                                       ----> PROPERTIES, LANDS, PLANTS, ANIMALS
+                                                       ===================================================================
+                                                              🧨🧨🧨 US && CHINA🧨🧨🧨
+                                                             👉 INDEX FUND
+                                                             👉 EXCHANGE TRADED FUND
+                                                             👉 MUTUAL FUND
+                                                       ===================================================================
               =====> MEDIUM-TERM PERIOD [MONTHS-5-10-25]YRS ---> ✅ CRYPTOCURRENCY EXCHANGE ===> BINANCE
                                                             🧨 =====>  HOLD + TRANSFER PROFITS ELSEWHERE
                                                             🧨 =====>  USE MARGIN when ACTIVELY TRADING && NO MARGIN when NOT ACTIVELY TRADING
@@ -23,12 +29,13 @@
 
 ==================================================================================================================================
 =====> SHORT-TERM PERIOD [1]DAY
-👉 ---> INDICES [US100,US500] ---> Medium Volatility 
+👉 ---> INDICES [US100,US500] ---> Medium Volatility
+👉 ---> INDEX  NDX100
+👉 ---> S & P USA ECONOMY
+
    >>>  INDEX [US30] ---> Highly Volatile
 ==================================================================================================================================
-👉 INDEX FUND
-👉 EXCHANGE TRADED FUND
-👉 MUTUAL FUND
+
 ----------------------------------------------------------------------------------------------------------------------------------
 
 
