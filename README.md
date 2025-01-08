@@ -338,6 +338,43 @@ If you have an amount that is different from the amount above. Take the amount t
 
 
 ```
+🧨🧨🧨 NEWS ANALYSIS
+
+
+💡 **Notion Tip:** Create a new page and select `Daily entry` ****from the list of template options to automatically generate the format below every day
+
+
+
+✅ ✅ ✅ NFP (non Farm Payroll)- non farm professionals ✅ ✅ ✅
+
+-we avoid trading a day prior it because there is a cloud in price that prevents clarity in price and demanding that high level of degree of clarity would be a mayhem
+
+-in NFP price tends to attack the nearest liquidity pool and if prior the release of the news there was that Orderflow in price nfp may tend to break that monotony not all the times but most of the times 
+
+-and here price respects HTF PD arrays not with the highest degree of precision but price may overshoot it with some few handles 
+
+
+
+✅ ✅ ✅ FOMC & FEDERAL FUND RATE ✅ ✅ ✅
+
+-It is normally released at 2pm ET 
+
+-if there are no news in the morning session its advisable to avoid trading the morning session prior fomc but if there is some clarity in price you can execute on the trade and be out of the market place before 10:30 go for the low hanging fruit objective
+
+-in this price respects HTF OF  with that high degree of precision and our main target is the low hanging fruit objective dont be overzealous 
+
+-when feds are speaking price does not reprice as a result of price reacting to what they have said but their words are just utilized  as a smoke screen to make price vulgar by the market makers
+
+-we trade at the last hour macro because price may trade softer
+
+
+✅ ✅ ✅ CPI NUMBER ✅ ✅ ✅
+
+This is a straight bullet where liquidity is purged..it necessarily does not have to be that macro other macros can also be incorporated of the other news.. this is just what is normally anticipated for price to do.. its not the beyond end all panacea
+```
+
+
+```
 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
 
 >>> TRADING VIEW TOOLS
@@ -379,7 +416,7 @@ Fibonnacci
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 ******🧨 FX BLUE ==> AWARE of BASE CURRENCY STRENGTH [USD] 🧨******
-******🧨 FOREX FACTORY ==> AWARE of FUNDAMENTALS [Economic News, Fed Speech, Politics, Natural Calamities] 🧨******
+******🧨 FOREX FACTORY https://www.forexfactory.com/ ==> AWARE of FUNDAMENTALS [Economic News, Fed Speech, Politics, Natural Calamities] 🧨******
 ******🧨 NOT EVERY DAY IS A TRADING DAY, YOU DON'T HAVE TO PLACE A TRADE, HENCE SAVE MONEY IN YOUR ACCOUNT <-----> ONLY PLACE QUALITY TRADES 🧨******
 
 
