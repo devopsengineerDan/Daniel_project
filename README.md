@@ -824,7 +824,7 @@ Higher Time Frame    Lower Time Frame
 
 ###### BUY-SIDE LIQUIDITY AND SELL-SIDE LIQUIDITY
 
-![title](static/img/Buy-side-and-Sell-side-Liquidity.jpg
+![title](static/img/Buy-side-and-Sell-side-Liquidity.jpg)
 
 ========================================================================================================================================================================================================================
 
