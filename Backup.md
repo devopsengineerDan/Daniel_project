@@ -3684,14 +3684,13 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 
 # CYBER SECURITY ===> CISM CERTIFICATION  www.isaca.org/cismapp -> In order to be CISM Certified
 
+```
 👉 CISSP and CCSP => EVERYTHING
                                👉 POLICIES and COMPLIANCE => EVERYTHING
 👉 CISM => CRYPTOGRAPHY
                                👉 CISA => EVERYTHING
+```
 
-
-
-   
 
 👉👉👉  Keep Notes => Documentation of Commands and Scripts
 
