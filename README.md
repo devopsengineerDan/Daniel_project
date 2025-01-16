@@ -310,11 +310,17 @@ Price Range
 
 ```
 ✅ ✅ ✅ CONSISTENCY | DISCIPLINE | PATIENCE ✅ ✅ ✅ 
-✅ ✅ ✅ Lot Sizing Tips (FUND / MONEY / ASSET MANAGEMENT) Credit: Nick Pot Analogy ✅ ✅ ✅  
+✅ ✅ ✅ Lot Sizing Tips (FUND / MONEY / ASSET MANAGEMENT) Credit: Nick Pot Analogy ✅ ✅ ✅
+--------------------------------------------------------------------------------
 >>>>>>>>>>>>>>>>>>>>   Ksh. 1M = 5 LOT   <<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>  pep 1:400  <<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>  ex 1:300  <<<<<<<<<<<<<<<<<<<<<<<<<<
 --------------------------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>   Ksh. 200,000 = 5 LOT   <<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>  pep 1:200  <<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>  ex 1:100  <<<<<<<<<<<<<<<<<<<<<<<<<<
+--------------------------------------------------------------------------------
+
 
 50 usd :-
 High risk = 0.10 lot
@@ -654,7 +660,7 @@ Higher Time Frame    Lower Time Frame
 > PRICE EQUILIBRIUM
 ```
 
-### 2ND -> DEMAND AND SUPPLY STRATEGY (ICT)
+### 2ND -> DEMAND AND SUPPLY STRATEGY (ICT) 👉👉👉👉👉 CALCULATING TAKE PROFIT
 
 ```
 > PRICE ACTION BASED ON MARKET STRUCTURE AND TIME INTERVAL[30MIN,DY,WK,MTH] STRATEGY
@@ -665,6 +671,11 @@ Higher Time Frame    Lower Time Frame
 ```
 > 7
 > 21
+> GOLDEN RULES
+-----------------------------------------------------------------------------------------------------------------------------------------
+   🧨🧨🧨 AVOID 1. Price Equilibrium WIDE Consolidation ---> 🧨CLOSE AT PROFIT🧨 , 2. Fundamental LONG Retracement ---> 🧨CLOSE AFTER OBSERVING THE CANDLE STICK🧨 , 3. Swing LONG Reversal <====>  FUNDAMENTAL BREAKOUT
+   ✅ TRADE 1. BREAKOUT, 2. RETEST, 3. FUNDAMENTAL RETEST ***ONLY***
+-----------------------------------------------------------------------------------------------------------------------------------------
 ```
 ---------------------
 
