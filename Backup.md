@@ -3684,7 +3684,37 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 
 # CYBER SECURITY ===> CISM CERTIFICATION  www.isaca.org/cismapp -> In order to be CISM Certified
 
+👉 CISSP and CCSP => EVERYTHING
+                               👉 POLICIES and COMPLIANCE => EVERYTHING
+👉 CISM => CRYPTOGRAPHY
+                               👉 CISA => EVERYTHING
+
+
+
+   
+
 👉👉👉  Keep Notes => Documentation of Commands and Scripts
+
+
+👉👉👉 CYBERSECURITY SERVICES
+
+```
+1. Cyber Risk and Compliance Assessments
+
+2. Cyber Security Strategy
+
+3. Cyber Risk Program Development
+
+4. Cyber Awareness & Education
+
+5. Technology Risk Management
+
+---------------------------------
+
+6. Cyber Product Lab
+
+7. Red Team Exercises
+```
 
 
 ```
