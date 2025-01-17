@@ -840,8 +840,11 @@ Higher Time Frame    Lower Time Frame
 
 👉👉👉👉👉 Buy- side liquidity cleared out then price dumps lower for Sell-side liquidity
 
-![title](static/img/Buy-side-and-Sell-side-Liquidity.jpg)
+![title](static/img/Buy-side-and-Sell-side-Liquidity-1.jpg)
 ![title](static/img/Buy-side-and-Sell-side-Liquidity-2.jpg)
+![title](static/img/Buy-side-and-Sell-side-Liquidity-3.jpg)
+![title](static/img/Buy-side-and-Sell-side-Liquidity-4.jpg)
+![title](static/img/Buy-side-and-Sell-side-Liquidity-5.jpg)
 
 ========================================================================================================================================================================================================================
 
