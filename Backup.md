@@ -161,6 +161,16 @@ PROTECT Life, Liberty, Equality and Property
 				
        🧨🧨🧨🧨🧨🧨🧨 LIFE CRUCIAL LESSONS 🧨🧨🧨🧨🧨🧨🧨🧨
 
+
+👉👉👉👉👉👉👉👉 ULTIMATE SUPREME
+🧨🧨🧨 SECURITY
+🧨🧨🧨 CORRECT + EFFECTIVE
+🧨🧨🧨 WEALTH
+🧨🧨🧨 KARMA
+👉👉👉👉👉👉👉👉 ULTIMATE SUPREME
+
+
+
 AWARE                                         ALIVE
 INCREASE IN WEALTH                            A+ [Accurate, (Know your Position and other Parties Positions and Be Alive to Yourself and to all other Parties), Humble and Generous/Kind]
 
@@ -175,18 +185,25 @@ FOOD+WATER            DETORIORATE (DRUNKARD)          REALISTIC(OWN) <=> VIBRATI
                                                                🧨🧨🧨 SHORT/LOSS/STEAL  => Result to Destruction then DEATH
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-        🧨🧨🧨🧨🧨🧨🧨🧨  BAD SITUATIONS  🧨🧨🧨🧨🧨🧨🧨🧨
-Naive 
-Foolish / Laziness
-Ignorance / Stupid
+        🧨🧨🧨🧨🧨🧨🧨🧨  BAD SITUATIONS LEADING TO DEATH  🧨🧨🧨🧨🧨🧨🧨🧨
+
+🧨🧨🧨 Naive / Lack of [Knowledge + Innovation]
+🧨🧨🧨 Foolish / Laziness
+🧨🧨🧨 Ignorance / Stupid
 
 🧨🧨🧨 CON(Naive) - LIE(Foolishness) - THEFT(Ignorance)
 🧨🧨🧨 Delay -   Excuse -  Failure
+
+                          🧨🧨🧨 MONEY
+                          🧨🧨🧨 WIFE
+                          🧨🧨🧨 LAND / PROPERTY
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+                           🧨🧨🧨 => SECURITY
 Undecisive/ Stagnant       => Careful Decision Making to be CORRECT and EFFECTIVE
 Chaos                      => Intelligent Adapting to be BETTER
-Rigid/ Brick Wall          => Productive while GAINING       
+Rigid/ Brick Wall          => Productive while GAINING
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀
@@ -210,6 +227,18 @@ Rigid/ Brick Wall          => Productive while GAINING
        => Little Token                               => Little Token
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+👉👉👉👉👉👉👉👉 RELIGION AND POLITICS
+
+👉👉👉 MAN => SHIELD
+TRADITION AND BEAUTY => TRUTH, IMAGINATION, REALITY
+
+
+👉👉👉 WOMAN => FREEDOM
+GOD AND MY RIGHT
+OUT OF MANY ONE => CHAOS AND DIVISION TO ONE/UNITY
+SHIED AND HOPE OF LIBERTY
 
 
 
