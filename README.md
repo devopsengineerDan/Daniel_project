@@ -309,6 +309,12 @@ Price Range
 # DAWN STRATEGY BEST PRACTICES
 
 ```
+            💡 STUDY 
+💡 RESEACH         💡 DEMO TRADE    <===>     💡 ACTUAL TRADE
+```
+
+
+```
 ✅ ✅ ✅ CONSISTENCY | DISCIPLINE | PATIENCE ✅ ✅ ✅ 
 ✅ ✅ ✅ Lot Sizing Tips (FUND / MONEY / ASSET MANAGEMENT) Credit: Nick Pot Analogy ✅ ✅ ✅
 --------------------------------------------------------------------------------
