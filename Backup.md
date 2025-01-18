@@ -232,13 +232,22 @@ Rigid/ Brick Wall          => Productive while GAINING
 👉👉👉👉👉👉👉👉 RELIGION AND POLITICS
 
 👉👉👉 MAN => SHIELD
+SECURITY AND [INNOVATION + INVENTION]
 TRADITION AND BEAUTY => TRUTH, IMAGINATION, REALITY
 
+🧨CHINA
+🧨RUSSIA
+🧨 OTHER STATES
 
 👉👉👉 WOMAN => FREEDOM
 GOD AND MY RIGHT
 OUT OF MANY ONE => CHAOS AND DIVISION TO ONE/UNITY
 SHIED AND HOPE OF LIBERTY
+
+🧨 UK
+🧨 EUROPE
+🧨 USA
+🧨 OTHER STATES
 
 
 
@@ -487,7 +496,7 @@ PROPERTY=> Farming Projects, Academies, [Rentals] Real Estate Properties, [Sell]
 👉
 SUPREME
 CENTRAL ===> Central Bank
-LARGE   ===> MARKET MAKER ===> Institutional Investor
+LARGE   ===> MARKET MAKER && Liquidity Provider/Institutional Investor
 MEDIUM  ===> MARKET MOVER/ MARKET SHAKER ===> Super Banks
 SMALL   ===> Retail Investor
 
