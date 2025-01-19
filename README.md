@@ -878,7 +878,19 @@ Higher Time Frame    Lower Time Frame
 > DAWN GROUP NGO
 ```
 
-# TAX MANAGEMENT 
+----
+
+# INVESTMENT COMPANY/[INDIVIDUAL TRADER]
+
+### 1 RISK DISCOLURE AGREEMENT + COMPENSATION
+
+```
+>>> If Funds not used for Investment, its Illegal and MUST be FULLY COMPENSATED[INITIAL INVESTED CAPITAL]
+>>> If Funds used for Investment, Investment company can decide not to compensate the clients and hence Ruin Investment company Reputation.
+>>> If Funds used for Investment, Investment company can decide to PARTIALLY 1/8 compensate the clients and hence Salvage Investment company Reputation. 
+```
+
+### 2 TAX MANAGEMENT 
 
 ```
 >>> OFFSHORE ASSET MANAGEMENT ===> SEYCHELLES
@@ -886,6 +898,7 @@ Higher Time Frame    Lower Time Frame
 > CAPITAL  GAIN TAX
 >>> FAMILY HOME COMPANY ===> KENYA
 ```
+----
 
 # QUANT GROUP CONSULTANCY COMPANY
 
