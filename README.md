@@ -887,7 +887,7 @@ Higher Time Frame    Lower Time Frame
 ```
 >>> If Funds not used for Investment, its Illegal and MUST be FULLY COMPENSATED[INITIAL INVESTED CAPITAL]
 >>> If Funds used for Investment, Investment company can decide not to compensate the clients and hence Ruin Investment company Reputation.
->>> If Funds used for Investment, Investment company can decide to PARTIALLY 1/8 compensate the clients and hence Salvage Investment company Reputation. 
+>>> If Funds used for Investment, Investment company can decide to PARTIALLY 1/8 compensate the clients under MEDIATION/ IN-HOUSE  DISCUSSIONS and hence Salvage Investment company Reputation. 
 ```
 
 ### 2 TAX MANAGEMENT 
