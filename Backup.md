@@ -3725,8 +3725,15 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 ```
 👉 CISSP and CCSP => EVERYTHING
                                👉 POLICIES and COMPLIANCE => EVERYTHING
+                               -> Data Protection
+                               -> E-Council
 👉 CISM => CRYPTOGRAPHY
+-> OWASP
+-> OSCP
                                👉 CISA => EVERYTHING
+                               -> CPT
+                               -> eCPPT
+
 ```
 
 
