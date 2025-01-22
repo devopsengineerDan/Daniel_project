@@ -30,9 +30,9 @@
 
 ==================================================================================================================================
 =====> SHORT-TERM PERIOD [1]DAY
-👉 ---> INDICES [US100,US500] ---> Medium Volatility
-👉 ---> INDEX  NDX100
-👉 ---> S & P USA ECONOMY
+       🧨🧨🧨 INDICES 🧨🧨🧨  ---> Medium Volatility
+👉 ---> INDEX US100 / NDX100 / NASDAQ
+👉 ---> INDEX US500 / S&P500 USA ECONOMY
 
    >>>  INDEX [US30] ---> Highly Volatile
 ==================================================================================================================================
@@ -844,10 +844,11 @@ Higher Time Frame    Lower Time Frame
 ![title](static/img/13.png)
 
 
+# XAU/USD
 
-###### BUY-SIDE LIQUIDITY AND SELL-SIDE LIQUIDITY
+### BUY-SIDE LIQUIDITY AND SELL-SIDE LIQUIDITY
 
-👉👉👉👉👉 Buy- side liquidity cleared out then price dumps lower for Sell-side liquidity
+👉👉👉👉👉 Buy-side liquidity cleared out then price dumps lower for Sell-side liquidity
 
 ![title](static/img/Buy-side-and-Sell-side-Liquidity-1.jpg)
 ![title](static/img/Buy-side-and-Sell-side-Liquidity-2.jpg)
@@ -855,6 +856,15 @@ Higher Time Frame    Lower Time Frame
 ![title](static/img/Buy-side-and-Sell-side-Liquidity-4.jpg)
 ![title](static/img/Buy-side-and-Sell-side-Liquidity-5.jpg)
 ![title](static/img/Buy-side-and-Sell-side-Liquidity-6.jpg)
+
+# INDICES
+
+![title](static/img/Indices-1.jpg)
+![title](static/img/Indices-2.jpg)
+![title](static/img/Indices-3.jpg)
+![title](static/img/Indices-4.jpg)
+![title](static/img/Indices-5.jpg)
+
 
 
 ========================================================================================================================================================================================================================
