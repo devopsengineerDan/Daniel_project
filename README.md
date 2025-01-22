@@ -735,7 +735,7 @@ Higher Time Frame    Lower Time Frame
 ```
 > FVG
 > Open Interest
-> Weekly Encrouchment
+> Weekly Encroachment
 > PRICE ACTION EXPERIENCE
 ```
 
