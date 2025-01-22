@@ -728,6 +728,17 @@ Higher Time Frame    Lower Time Frame
 > ALL HFM BROKER FIBONACCI STRATEGIES 
 ```
 
+------
+
+# INDICES STRATEGY
+
+```
+> FVG
+> Open Interest
+> Weekly Encrouchment
+> PRICE ACTION EXPERIENCE
+```
+
  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 # ICT STRATEGY
