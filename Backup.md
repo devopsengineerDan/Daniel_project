@@ -2031,6 +2031,8 @@ KRA --->  dancunmoruri@gmail.com  ---> 0711444518
 A012540149K
 engineerDaniel@1234
 
+PSC ---> ID --->  dancunmoruri@gmail.com  --->  GODISFAITHFUL@9#amen
+
 https://adili.eacc.go.ke/ LOGIN -> dancunmoruri@gmail.com -> CONARDMOMANYI@1daniel
 
 Microsoft Teams: conardmomanyi1234
@@ -2083,8 +2085,11 @@ discord: _softwareengineer_  dancummoruri@gmail.com: QWERTY@987
 
 slack : Sign in with dancunmanyinsait@gmail.com
 
-telegram: Daniel @daniel_softwareengineer +254711444518
-          David  @david_softwareengineer +254706738969
+telegram: Daniel @daniel_softwareengineer +254711444518 ------> 1473
+          David  @david_softwareengineer +254706738969  ------> 1473
+
+whatsapp: +254711444518 -------> 147369
+          +254706738969 -------> 147369
 
    
 blueskyapp: https://bsky.app/ @engineerdancun ALPHA@987
