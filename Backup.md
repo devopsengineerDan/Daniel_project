@@ -199,10 +199,10 @@ FOOD+WATER            DETORIORATE (DRUNKARD)          REALISTIC(OWN) <=> VIBRATI
                           🧨🧨🧨 LAND / PROPERTY
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-                           🧨🧨🧨 => SECURITY
-Undecisive/ Stagnant       => Careful Decision Making to be CORRECT and EFFECTIVE
-Chaos                      => Intelligent Adapting to be BETTER
-Rigid/ Brick Wall          => Productive while GAINING
+                           🧨🧨🧨 => SECURITY SUFFERING <===> CERTAINITY
+UNCERTAINITY <===> Undecisive/ Stagnant       => Careful Decision Making to be CORRECT and EFFECTIVE
+DELLUSIONAL <===> Chaos                       => Intelligent Adapting to be BETTER
+SUFFERING <===> Rigid/ Brick Wall             => Productive while GAINING
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -333,7 +333,7 @@ Complicated => Ignorance && PERSISTENT [Understand]
 
 
 👉 Daniel, [7/14/24 11:53 AM]
-EXTEME==VICE==PUNISHMENT ---> IAMNOT
+EXTREME==VICE==PUNISHMENT ---> IAMNOT
 
 
 👉 Daniel, [7/14/24 11:58 AM]
