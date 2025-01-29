@@ -3744,8 +3744,11 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 
 👉👉👉  Keep Notes => Documentation of Commands and Scripts
 
-
 👉👉👉 CYBERSECURITY SERVICES ======> 🌀🌀🌀🌀  https://fortifycyber.com/
+
+👉👉👉 BLUE TEAM OWASP      ======> https://cheatsheetseries.owasp.org/
+👉👉👉 BLUE TEAM FORENSICS  ======>  https://artifacts.readthedocs.io/en/latest
+👉👉👉 RED TEAM             ======>  https://www.ired.team/
 
 ```
 1. Cyber Risk and Compliance Assessments
