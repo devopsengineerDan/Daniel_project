@@ -455,10 +455,10 @@ Fibonnacci
    ✅ REQUIRES FULL ATTENTION
    ✅ BODY TELLS THE STORY, WICK TELLS THE DESTRUCTION
 
-   ✅ TRADE AS    -----> SMART MONEY INSTITUTIONS TRADER
-                  -----> RETAIL TRADER
+   ✅ TRADE AS    👉 -----> SMART MONEY INSTITUTIONS TRADER
+                  👉 -----> RETAIL TRADER
 -----------------------------------------------------------------------------------------------------------------------------------------
-   ✅ 🌀 DAY TRADER => HAVE [TARGET + ORIGIN PRICE] && TRUST YOUR STRATEGY 🌀 MEDIUM SCALE TRADE && LARGE SCALE TRADE 🌀
+   ✅ 🌀 DAY TRADER => HAVE [TARGET + ORIGIN PRICE] && TRUST YOUR STRATEGY 🌀 MEDIUM SCALE TRADE  🌀 LARGE SCALE TRADE
    ✅ 0.5 VERY LONG TRADES [VERY LARGE SCALE] 
    ✅ 1.0 LONG TRADES ===> RETEST / PULLBACK [MEDIUM & LARGE SCALE]
    ✅ CLOSE TRADES AT 1PM
