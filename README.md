@@ -318,19 +318,39 @@ Price Range
 
 
 ```
+* FBS 1:1000 For Short Duration Trade ===> PRICE EMPHASIS STRATEGY
+-----------------------------------------------------------------------------------------------
+1 LARGE CASH For Long Duration Trade ===> TREND EMPHASIS STRATEGY
+2 GOD'S GRACE For Short and Long Duration Trade ===> PRICE AND TREND EMPHASIS STRATEGY
+3 SMALL CASH For Short Duration Trade ===> Price  EMPHASIS STRATEGY
+```
+
+
+```
 ✅ ✅ ✅ CONSISTENCY | DISCIPLINE | PATIENCE ✅ ✅ ✅ 
 ✅ ✅ ✅ Lot Sizing Tips (FUND / MONEY / ASSET MANAGEMENT) Credit: Nick Pot Analogy ✅ ✅ ✅
 --------------------------------------------------------------------------------
+1 LARGE CASH For Long Duration Trade ===> TREND EMPHASIS STRATEGY
 >>>>>>>>>>>>>>>>>>>>   Ksh. 1M = 5 LOT   <<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>  pep 1:400  <<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>  ex 1:300  <<<<<<<<<<<<<<<<<<<<<<<<<<
 --------------------------------------------------------------------------------
+2 GOD'S GRACE For Short and Long Duration Trade ===> PRICE AND TREND EMPHASIS STRATEGY
 >>>>>>>>>>>>>>>>>>>>   Ksh. 200,000 = 5 LOT   <<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>  pep 1:200  <<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>  ex 1:100  <<<<<<<<<<<<<<<<<<<<<<<<<<
 --------------------------------------------------------------------------------
+3 SMALL CASH For Short Duration Trade ===> Price  EMPHASIS STRATEGY
+>>>>>>>>>>>>>>>>>>>>   Ksh. 50,000 = 2 LOT   <<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>  pep 1:100  <<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>  ex 1:100  <<<<<<<<<<<<<<<<<<<<<<<<<<
+```
 
 
+---------------------------------
+
+
+```
 50 usd :-
 High risk = 0.10 lot
 Mid risk = 0.05 lot
