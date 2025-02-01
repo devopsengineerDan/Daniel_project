@@ -318,11 +318,12 @@ Price Range
 
 
 ```
-* FBS 1:1000 For Short Duration Trade ===> PRICE EMPHASIS STRATEGY
+
+* FBS 1:1000 For VERY Short Duration Trade ===> XAU/USD && PRICE EMPHASIS STRATEGY
 -----------------------------------------------------------------------------------------------
-1 LARGE CASH For Long Duration Trade ===> TREND EMPHASIS STRATEGY
-2 GOD'S GRACE For Short and Long Duration Trade ===> PRICE AND TREND EMPHASIS STRATEGY
-3 SMALL CASH For Short Duration Trade ===> Price  EMPHASIS STRATEGY
+1 LARGE CASH For Long Duration Trade ===> XAU/USD && TREND EMPHASIS STRATEGY
+2 GOD'S GRACE For Short and Long Duration Trade ===> XAU/USD && PRICE AND TREND EMPHASIS STRATEGY
+3 SMALL CASH For Short Duration Trade ===> XAU/USD && Price  EMPHASIS STRATEGY
 ```
 
 
@@ -381,7 +382,7 @@ If you have an amount that is different from the amount above. Take the amount t
 
 
 ```
-🧨🧨🧨 NEWS ANALYSIS
+ NEWS ANALYSIS
 
 
 💡 **Notion Tip:** Create a new page and select `Daily entry` ****from the list of template options to automatically generate the format below every day
