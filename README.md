@@ -318,7 +318,6 @@ Price Range
 
 
 ```
-
 * FBS 1:1000 For VERY Short Duration Trade ===> XAU/USD && PRICE EMPHASIS STRATEGY
 -----------------------------------------------------------------------------------------------
 1 LARGE CASH For Long Duration Trade ===> XAU/USD && TREND EMPHASIS STRATEGY
@@ -330,6 +329,11 @@ Price Range
 ```
 ✅ ✅ ✅ CONSISTENCY | DISCIPLINE | PATIENCE ✅ ✅ ✅ 
 ✅ ✅ ✅ Lot Sizing Tips (FUND / MONEY / ASSET MANAGEMENT) Credit: Nick Pot Analogy ✅ ✅ ✅
+
+--------------------------------------------------------------------------------
+* LARGE CASH FBS 1:1000 For VERY Short Duration Trade ===> XAU/USD && PRICE EMPHASIS STRATEGY
+>>>>>>>>>>>>>>>>>>>>   Ksh. 200,000 = 5 LOT   <<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>  pep 1:1000  <<<<<<<<<<<<<<<<<<<<<<<<<<
 --------------------------------------------------------------------------------
 1 LARGE CASH For Long Duration Trade ===> TREND EMPHASIS STRATEGY
 >>>>>>>>>>>>>>>>>>>>   Ksh. 1M = 5 LOT   <<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -345,6 +349,8 @@ Price Range
 >>>>>>>>>>>>>>>>>>>>   Ksh. 50,000 = 2 LOT   <<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>  pep 1:100  <<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>  ex 1:100  <<<<<<<<<<<<<<<<<<<<<<<<<<
+--------------------------------------------------------------------------------
+
 ```
 
 
