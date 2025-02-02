@@ -311,12 +311,15 @@ Price Range
 
 # DAWN STRATEGY BEST PRACTICES
 
+```
 🧨🧨🧨🧨🧨 TREND FOLLOWER  => STRATEGIC AND TACTIC
 🧨🧨🧨🧨🧨 FINANCIAL INSTITUTION  &&  RETAIL INSTITUTION
 🧨🧨🧨🧨🧨 GOAL =>
                      3 # Security Fund -----> TO BE MINE && INVEST IN ASSETS
                      2 # My Fund -----> CONTINUOUS TRADING    
                      1 # Investor Fund -----> RECREATE INVESTOR'S CAPITAL + AGREED PROFIT
+```
+
 
 ```
             💡 STUDY 
