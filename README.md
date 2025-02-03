@@ -318,6 +318,16 @@ Price Range
                      3 # Security Fund -----> TO BE MINE && INVEST IN ASSETS
                      2 # My Fund -----> CONTINUOUS TRADING    
                      1 # Investor Fund -----> RECREATE INVESTOR'S CAPITAL + AGREED PROFIT
+🧨🧨🧨🧨🧨 SECURITY
+           INTELLIGENCE + INNOVATION
+
+                                           AWARENESS
+                                           ATTITUDE
+
+                   CHARISMATIC
+                   EMPATHETIC
+                                           SKILLS
+                                           QUALIFICATIONS                 
 ```
 
 
