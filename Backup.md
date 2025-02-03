@@ -420,7 +420,7 @@ MANAGER [BLAZING TORCH, ORDAINED=>Consientious, CHOSEN=>Charismatic, ELECTED=>Ma
 
 
 
-         SILENCE**************
+         SILENCE **************
          Self Mastery                        PSYCHOLOGY[MINE+ENVIRONMENT]       FEEL <=> TIME             [Who am I + What Position am I, Who is the other party + What Position is the other party]
          Listen *ALL SENSES*                                                    ENERGY <=> WAY             Where are we
          Write + Communicate                                                    VIBRATION <=> REALISTIC    What Message[SILENCE + ALLOWANCE FOR ENVIRONMENT + TO RESPOND] + How to Pass Message[ORDERLY] + COMPLETE Message   
@@ -472,8 +472,8 @@ INCREASE IN WEALTH + GOD[Accurate, Conscious on Both Parties, Generous]
 
 *** SILENCE (ALL SENSES)
 READ
-===> WRITE (ACCURATE, ORDERLY, COMPLETE)
-===> SPEAK (ACCURATE, ORDERLY, COMPLETE)
+🧨🧨🧨🧨🧨 ===> WRITE (ACCURATE, ORDERLY <=> ADAPT, COMPLETE)
+🧨🧨🧨🧨🧨 ===> SPEAK (ACCURATE, ORDERLY <=> ADAPT, COMPLETE)
 --------------------------
 
 
