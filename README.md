@@ -326,7 +326,7 @@ Price Range
 
                    CHARISMATIC
                    EMPATHETIC
-                                           SKILLS
+                                           SKILLS ===> Accurate, [Adapt, Synchronous], [Hardwork 97%]
                                            QUALIFICATIONS                 
 ```
 
