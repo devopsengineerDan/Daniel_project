@@ -118,7 +118,7 @@ Numbers[Make Huge Gain/Profit] + [Offer Minimal Reward plus Blessings] + [Operat
 =========================
 SECURITY Limitless
 CONSISTENCY Limitless
-DiSCIPLINE Limitless
+DISCIPLINE Limitless
 HARDWORK Limitless
 -------------
 SECURITY Limit
@@ -191,7 +191,7 @@ FOOD+WATER            DETORIORATE (DRUNKARD)          REALISTIC(OWN) <=> VIBRATI
 🧨🧨🧨 Foolish / Laziness
 🧨🧨🧨 Ignorance / Stupid
 
-🧨🧨🧨 CON(Naive) - LIE(Foolishness) - THEFT(Ignorance)
+🧨🧨🧨 CON(Naive)/Obvious - LIE(Foolishness)/Petty - THEFT(Ignorance)/Stingy<->MinuteDetails
 🧨🧨🧨 Delay -   Excuse -  Failure
 
                           🧨🧨🧨 MONEY
@@ -199,7 +199,7 @@ FOOD+WATER            DETORIORATE (DRUNKARD)          REALISTIC(OWN) <=> VIBRATI
                           🧨🧨🧨 LAND / PROPERTY
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-                           🧨🧨🧨 => SECURITY SUFFERING <===> CERTAINITY
+                                             🧨🧨🧨 => SECURITY SUFFERING <===> CERTAINITY
 UNCERTAINITY <===> Undecisive/ Stagnant       => Careful Decision Making to be CORRECT and EFFECTIVE
 DELLUSIONAL <===> Chaos                       => Intelligent Adapting to be BETTER
 SUFFERING <===> Rigid/ Brick Wall             => Productive while GAINING
@@ -218,9 +218,10 @@ SUFFERING <===> Rigid/ Brick Wall             => Productive while GAINING
 =========> LIVELIHOOD / SHELTER    🧨🧨🧨 PRODUCTIVE ACTION
 
 🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀
-
-
+       🧨🧨🧨 SECURITY
+                                                     🧨🧨🧨 AHEAD OF TIME <=> KNOWLEDGE <=> UNDERSTANDING <=> WISDOM <=> ACTION   
                                                      🧨🧨🧨 NO SPECULATION
+                                                     => Little Token
  
        🧨🧨🧨 NO RANDOMNESS                          🧨🧨🧨 NO LOSING OF MONEY
        Opportunist/Take Advantage                    Steal
@@ -563,7 +564,7 @@ Speak
                                 
 ====================
 
-👉 BEHAVIOUR I HATE
+👉👉👉👉👉👉👉👉👉 BEHAVIOUR I HATE
 
 ```
 SCARCITY/Moon                                 ABUNDANCE/Sun
@@ -576,6 +577,36 @@ MEAN                                          =>  PRODUCTIVE and RESULT ORIENTED
 ```
 
 
+
+===================================================================================================================================================================================================================================================
+
+🧨🧨🧨 WORK MANAGER
+
+Exness ---> Stocks
+Pepperstone <==> Copy Trading ---> Commodity
+BINANCE / BETTER ALTERNATIVE ---> Cryptocurency
+
+Ingot
+Henriot
+
+
+Real-Estate Properties + Lands
+Asset Management && Tax-Compliance && Off-shore
+BANKING + Brokerage Firms + UPTOP WEALTH ITEMS + PROPERTIES GOALS     --------> POLITICS [KANU && MASON] Sheep VS Goats
+                                                                      --------> NGO<=>RELIGION 
+								      --------> SCHOOL 
+	      
+----------------------------------------------------                    
+
+🧨🧨🧨 OWNERSHIP
+
+David ===> TRANSPORT
+Dawn Labs <---> Samuel && Dominic ===> TECHNOLOGY
+Daniel ===> GOLF ACADEMIES
+
+Farming + Lands => Quant Group                                                             
+                                                                                                    
+                                                                                          
 
 ===================================================================================================================================================================================================================================================
 
@@ -970,7 +1001,7 @@ Heroku, Linode, NameCheap
 
 ```
 ----------------------------------------------------------
-**** STRONGEST<=> HIGHEST <=> GREATEST
+**** STRONGEST <=> HIGHEST <=> GREATEST
 
 *1
 HAVE THE CLEAR PICTURE OF A SUBJECT
