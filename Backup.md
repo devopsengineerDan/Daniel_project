@@ -580,6 +580,7 @@ MEAN                                          =>  PRODUCTIVE and RESULT ORIENTED
 
 ===================================================================================================================================================================================================================================================
 
+```
 🧨🧨🧨 WORK MANAGER
 
 Exness ---> Stocks
@@ -590,14 +591,18 @@ Ingot
 Henriot
 
 
-Real-Estate Properties + Lands
-Asset Management && Tax-Compliance && Off-shore
-BANKING + Brokerage Firms + UPTOP WEALTH ITEMS + PROPERTIES GOALS     --------> POLITICS [KANU && MASON] Sheep VS Goats
+Real-Estate Properties + Lands + PROPERTIES GOALS
+Asset Management && Tax-Compliance && Off-shore Wealth
+BANKING + Brokerage Firms + Investments[Tangible + Stocks] + UPTOP WEALTH ITEMS 
+
+                                                                      --------> POLITICS [KANU && MASON] Sheep VS Goats
                                                                       --------> NGO<=>RELIGION 
 								      --------> SCHOOL 
+```
 	      
 ----------------------------------------------------                    
 
+```
 🧨🧨🧨 OWNERSHIP
 
 David ===> TRANSPORT
@@ -605,9 +610,9 @@ Dawn Labs <---> Samuel && Dominic ===> TECHNOLOGY
 Daniel ===> GOLF ACADEMIES
 
 Farming + Lands => Quant Group                                                             
-                                                                                                    
+```                                                                                                    
                                                                                           
-
+   
 ===================================================================================================================================================================================================================================================
 
 
