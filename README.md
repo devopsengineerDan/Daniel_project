@@ -316,7 +316,7 @@ Price Range
 🧨🧨🧨🧨🧨 FINANCIAL INSTITUTION  &&  RETAIL INSTITUTION
 🧨🧨🧨🧨🧨 GOAL =>
                      3 # Security Fund -----> SECURITIES[TO BE MINE + INVEST IN MORE ASSETS]
-                     2 # My Fund -----> SHOCK ABSORBER[CONTINUOUS TRADING + CASHFLOW]    
+                     2 # Exchange Fund -----> SHOCK ABSORBER[CONTINUOUS TRADING + CASHFLOW]    
                      1 # Investor Fund -----> RISK FREE[RECREATE INVESTOR'S CAPITAL + AGREED PROFIT]
 🧨🧨🧨🧨🧨 SECURITY
            INTELLIGENCE + INNOVATION
