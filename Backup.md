@@ -2068,6 +2068,7 @@ A012540149K
 engineerDaniel@1234
 
 PSC ---> ID --->  dancunmoruri@gmail.com  --->  GODISFAITHFUL@9#amen
+npsc ---> GodIsFaithful@97
 
 https://adili.eacc.go.ke/ LOGIN -> dancunmoruri@gmail.com -> CONARDMOMANYI@1daniel
 
