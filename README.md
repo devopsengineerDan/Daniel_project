@@ -320,14 +320,43 @@ Price Range
                      1 # Investor Fund -----> RECREATE INVESTOR'S CAPITAL + AGREED PROFIT
 🧨🧨🧨🧨🧨 SECURITY
            INTELLIGENCE + INNOVATION
-
+           [ORDAINED]
+                                           [IN HARMONY WITH NATURE] 
                                            AWARENESS
                                            ATTITUDE
-
+                   [CHOSEN]
                    CHARISMATIC
                    EMPATHETIC
+                                           [ELECTED]
                                            SKILLS ===> Accurate, [Adapt, Synchronous], [Hardwork 97%]
                                            QUALIFICATIONS                 
+```
+
+
+```
+🧨 SECURITY ===> INCREASE IN WEALTH
+            ===> HARMONY WITH NATURE
+
+                               🧨 BULL ===> SWING THE BAT
+                                       ===> CAREFUL
+                                                            🧨 AWARENESS ===> PRICE ---> Detailed
+                                                                         ===> TREND ---> Bigger Picture
+                                    🧨  DISCIPLINE
+                                    > 7
+                                    > 21
+                                    > GOLDEN RULES
+-----------------------------------------------------------------------------------------------------------------------------------------
+   🧨🧨🧨 AVOID 1. Price Equilibrium WIDE Consolidation ---> 🧨CLOSE AT PROFIT🧨 , 2. Fundamental LONG Retracement ---> 🧨CLOSE AFTER OBSERVING THE CANDLE STICK🧨 , 3. Swing LONG Reversal <====>  FUNDAMENTAL BREAKOUT
+   ✅ TRADE 1. BREAKOUT, 2. RETEST, 3. FUNDAMENTAL RETEST ***ONLY***
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+                                                            🧨 PATIENCE ===> CONFIRMATION CANDLESTICK ---> Entry                 
+                                                                        ===> TARGET ---> Exit  
+```
+
+
+```
+
 ```
 
 
