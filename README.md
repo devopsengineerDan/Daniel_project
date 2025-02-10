@@ -315,9 +315,9 @@ Price Range
 🧨🧨🧨🧨🧨 TREND FOLLOWER  => STRATEGIC AND TACTIC
 🧨🧨🧨🧨🧨 FINANCIAL INSTITUTION  &&  RETAIL INSTITUTION
 🧨🧨🧨🧨🧨 GOAL =>
-                     3 # Security Fund -----> TO BE MINE && INVEST IN ASSETS
-                     2 # My Fund -----> CONTINUOUS TRADING    
-                     1 # Investor Fund -----> RECREATE INVESTOR'S CAPITAL + AGREED PROFIT
+                     3 # Security Fund -----> SECURITIES[TO BE MINE + INVEST IN MORE ASSETS]
+                     2 # My Fund -----> SHOCK ABSORBER[CONTINUOUS TRADING + CASHFLOW]    
+                     1 # Investor Fund -----> RISK FREE[RECREATE INVESTOR'S CAPITAL + AGREED PROFIT]
 🧨🧨🧨🧨🧨 SECURITY
            INTELLIGENCE + INNOVATION
            [ORDAINED]
