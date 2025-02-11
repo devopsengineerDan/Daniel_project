@@ -1,5 +1,16 @@
 # FINANCIAL ENGINEERING
 
+```
+COMPOUNDING CALCULATOR ===> https://github.com/devopsengineerDan/compound-interest-calculator
+
+COMPOUNDING FORMULAE ===>
+🧨 Frequency of compounding = Is Daily
+FV = PV (1 + R/F)^NF
+Future Value = Present Value (1 + Rate/Frequency of compounding)^Number of years * Frequency of compounding
+Future Value = 500,000(1+0.12/365)^10*365
+````
+
+
 # EXCHANGE MARKET [STOCK, FOREX, CRYPTOCURRENCY]
 
 #### FINANCIAL INSTRUMENTS
