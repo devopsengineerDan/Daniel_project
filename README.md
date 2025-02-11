@@ -1,7 +1,10 @@
 # FINANCIAL ENGINEERING
 
+🧨🧨🧨 FIT <===> READY <===> FAITHFUL 🧨🧨🧨
+
 ```
 ✅ TIME
+
 1  -> 13
 2  -> 14
 3  -> 15
@@ -18,9 +21,9 @@
 
 
 ```
-COMPOUNDING CALCULATOR ===> https://github.com/devopsengineerDan/compound-interest-calculator
+👉 COMPOUNDING CALCULATOR ===> https://github.com/devopsengineerDan/compound-interest-calculator
 
-COMPOUNDING FORMULAE ===>
+👉 COMPOUNDING FORMULAE ===>
 🧨 Frequency of compounding = Is Daily
 FV = PV (1 + R/F)^NF
 Future Value = Present Value (1 + Rate/Frequency of compounding)^Number of years * Frequency of compounding
