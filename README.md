@@ -326,6 +326,7 @@ Price Range
 🧨🧨🧨🧨🧨 TREND FOLLOWER  => STRATEGIC AND TACTIC
 🧨🧨🧨🧨🧨 FINANCIAL INSTITUTION  &&  RETAIL INSTITUTION
 🧨🧨🧨🧨🧨 GOAL =>
+                     ✅ ✅ ✅ LIABLE/RESPONSIBLE for Risk
                      3 # Security Fund -----> SECURITIES[TO BE MINE + INVEST IN MORE ASSETS]
                      2 # Exchange Fund -----> SHOCK ABSORBER[CONTINUOUS TRADING + CASHFLOW]    
                      1 # Investor Fund -----> RISK FREE[RECREATE INVESTOR'S CAPITAL + AGREED PROFIT]
@@ -367,6 +368,18 @@ Price Range
 
 
 ```
+
+                                                           ✅ AWARENESS
+                                                           1. Swing the BAT
+                                                           2. CAREFUL
+                                                           3. TARGET
+✅ TREND STRATEGY                                                                           ✅ PRICE STRATEGY
+EMA [7,21]                                                                                  ICT => PD-Array  5AM [15MIN,30MIN,1HR]    
+Price Action                                                                                SMC
+---------------------------------------------------------------                             --------------------------------------------------------------- 
+Rich Nick [DEMAND AND SUPPLY STRATEGY (ICT) 👉👉👉👉👉 CALCULATING TAKE PROFIT/TARGET]      Rich Nick  [DEMAND AND SUPPLY STRATEGY (ICT) 👉👉👉👉👉 CALCULATING TAKE PROFIT/TARGET]
+Financial Institution + Retail  Institution                                                 Financial Institution + Retail  Institution
+Fundamental                                                                                 Fundamental
 
 ```
 
@@ -760,7 +773,7 @@ Higher Time Frame    Lower Time Frame
 > PRICE EQUILIBRIUM
 ```
 
-### 2ND -> DEMAND AND SUPPLY STRATEGY (ICT) 👉👉👉👉👉 CALCULATING TAKE PROFIT
+### 2ND -> DEMAND AND SUPPLY STRATEGY (ICT) 👉👉👉👉👉 CALCULATING TAKE PROFIT/TARGET
 
 ```
 > PRICE ACTION BASED ON MARKET STRUCTURE AND TIME INTERVAL[30MIN,DY,WK,MTH] STRATEGY
