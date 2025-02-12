@@ -102,7 +102,7 @@ Future Value = 500,000(1+0.12/365)^10*365
 # PROFESSIONALS
 
 ```
-Research <---> Market| Financial Analyst
+Research <---> Market | Financial Analyst
 Asset Manager
 ------------------------------
 Broker [STOCK|EQUITY,DERIVATIVES|CFD's|FOREX|CRYPTOCURRENCY] ===> NON-DEALING LICENSE
@@ -344,7 +344,7 @@ Price Range
 
 ```
 🧨🧨🧨🧨🧨 TREND FOLLOWER  => STRATEGIC AND TACTIC
-🧨🧨🧨🧨🧨 FINANCIAL INSTITUTION  &&  RETAIL INSTITUTION
+🧨🧨🧨🧨🧨 FINANCIAL INSTITUTION  &&  RETAIL INSTITUTION  👉 OrderBlock + Play Against The Masses 
 🧨🧨🧨🧨🧨 GOAL =>
                      ✅ ✅ ✅ LIABLE/RESPONSIBLE for Risk
                      3 # Security Fund -----> SECURITIES[TO BE MINE + INVEST IN MORE ASSETS]
@@ -398,7 +398,7 @@ EMA [7,21]                                                                      
 Price Action                                                                                SMC
 ---------------------------------------------------------------                             --------------------------------------------------------------- 
 Rich Nick [DEMAND AND SUPPLY STRATEGY (ICT) 👉👉👉👉👉 CALCULATING TAKE PROFIT/TARGET]      Rich Nick  [DEMAND AND SUPPLY STRATEGY (ICT) 👉👉👉👉👉 CALCULATING TAKE PROFIT/TARGET]
-Financial Institution + Retail  Institution                                                 Financial Institution + Retail  Institution
+Financial Institution + Retail  Institution 👉 OrderBlock + Play Against The Masses         Financial Institution + Retail  Institution  👉 OrderBlock + Play Against The Masses 
 Fundamental                                                                                 Fundamental
 
 ```
