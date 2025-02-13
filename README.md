@@ -1,8 +1,10 @@
 # FINANCIAL ENGINEERING
 
+```
 🧨🧨🧨 FIT <===> READY <===> FAITHFUL 🧨🧨🧨
 🧨 When the economy is doing good, inflation increases, Central bank increases interest rates.
 🧨 When the economy is doing bad, inflation decreases, Central bank decreases interest rates.
+```
 
 
 ```
