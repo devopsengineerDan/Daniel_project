@@ -1,6 +1,7 @@
 # FINANCIAL ENGINEERING
 
 ```
+✅ NETWORK
 Bill Michaels Nandwa => Tony => Adam
 Victor => Marcus => Sam Telegram
 Alex Omollo => Kevin Telecommunications => Emmauel Promota Click S.Sudan
@@ -12,11 +13,12 @@ Alex Omollo => Kevin Telecommunications => Emmauel Promota Click S.Sudan
 🧨🧨🧨 LESS KNOWLEDGE OF YOU -----> MORE KNOWLEDGE OF THE ENVIRONMENT  
 +++++++++++++++++++++
 🧨🧨🧨 LIFE IS WHAT YOU MAKE OF IT
-🧨🧨🧨 DO ALL AND WHAT IS NECESSARY TO SUCCEED
+🧨🧨🧨 DO ALL AND WHAT IS NECESSARY TO SUCCEED [DIRECTOR && ACTOR]
 
 ----------------------------------------------------------------------------------------------------------
 🧨 SILENCE
 SECURITY + INNOVATION [ADVANCE]
+                                   🧨 CONSIOUS 
                                    TIME [OBSERVATION THEN WORD] ===> NEUTRAL
               REVIEW [WAY]
                                    ACTION [REALITY THEN REFLECTION]
@@ -28,6 +30,26 @@ SECURITY + INNOVATION [ADVANCE]
 ```
 🧨 When the economy is doing good, inflation increases, Central bank increases interest rates.
 🧨 When the economy is doing bad, inflation decreases, Central bank decreases interest rates.
+```
+
+
+---------------------------------------------------------
+
+
+```
+✅ - BET 97%
+   - The quieter you become, the more you are able to hear.
+   - ALERTNESS + AWARENESS
+
+✅ ===> GAME IS GAME
+   - COMPETITIVE GAME
+   - DON'T BE KILLED
+   - CONQUER
+
+✅ ===> LIFE IS LIFE
+   - FEEL
+   - KIND
+   - HARMONY   
 ```
 
 
