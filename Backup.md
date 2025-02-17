@@ -147,8 +147,8 @@ PROTECT Life, Liberty, Equality and Property
                                 
 				LION + EAGLE => WHY
 
-
-          => HOW 
+           
+          DOG + BEAR => HOW 
           6 ADAPT
 	  8 REVIEW
 
