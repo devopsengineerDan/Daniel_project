@@ -1,10 +1,37 @@
 # FINANCIAL ENGINEERING
 
 ```
-🧨🧨🧨 FIT <===> READY <===> FAITHFUL 🧨🧨🧨
+Bill Michaels Nandwa => Tony => Adam
+Victor => Marcus => Sam Telegram
+Alex Omollo => Kevin Telecommunications => Emmauel Promota Click S.Sudan
+```
+
+
+```
+🧨🧨🧨 FIT <===> READY <===> FAITHFUL 
+🧨🧨🧨 LESS KNOWLEDGE OF YOU -----> MORE KNOWLEDGE OF THE ENVIRONMENT  
++++++++++++++++++++++
+🧨🧨🧨 LIFE IS WHAT YOU MAKE OF IT
+🧨🧨🧨 DO ALL AND WHAT IS NECESSARY TO SUCCEED
+
+----------------------------------------------------------------------------------------------------------
+🧨 SILENCE
+SECURITY + INNOVATION [ADVANCE]
+                                   TIME [OBSERVATION THEN WORD] ===> NEUTRAL
+              REVIEW [WAY]
+                                   ACTION [REALITY THEN REFLECTION]
+                                   🧨 SILENCE
+----------------------------------------------------------------------------------------------------------                              
+```
+
+
+```
 🧨 When the economy is doing good, inflation increases, Central bank increases interest rates.
 🧨 When the economy is doing bad, inflation decreases, Central bank decreases interest rates.
 ```
+
+
+---------------------------------------------------------
 
 
 ```
