@@ -140,20 +140,20 @@ Communication(Space<->Complete)                                      Accurate <-
 
 
 PROTECT Life, Liberty, Equality and Property
-9 SNAKE + LION  => 33  [WE]
+9 SNAKE + LION  => 33  [WE] -----> SECURITY
 
 
-       @[UP] BULL  => WHY                                                                
+       @[UP] BULL  => WHY -----> OBJECTIVE + ACCURATE                                                                
                                 
-				LION + EAGLE => WHY
+				LION + EAGLE => WHY -----> OBJECTIVE + NEUTRAL
 
            
-          DOG + BEAR => HOW 
+          DOG + BEAR => HOW -----> BEAUTY
           6 ADAPT
 	  8 REVIEW
 
-                                => WHAT [MINE]
-                                3 LION + SNAKE
+                                LION + SNAKE => WHAT [MINE] -----> MEAN/SELFISH
+                                3 REALITY  
 
 
 
