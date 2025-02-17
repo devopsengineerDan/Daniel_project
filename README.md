@@ -37,7 +37,8 @@ SECURITY + INNOVATION [ADVANCE]
 
 
 ```
-✅ - BET 97%
+✅ ===> YOU CANNOT CHEAT THE GRIND ---> Must go through the process.
+   - BET 97% 
    - The quieter you become, the more you are able to hear.
    - ALERTNESS + AWARENESS
 
