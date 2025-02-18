@@ -1129,6 +1129,17 @@ Higher Time Frame    Lower Time Frame
 > CAPITAL  GAIN TAX
 >>> FAMILY HOME COMPANY ===> KENYA
 ```
+
+
+### 3 LICENSES OFFERED BY CMA
+
+```
+👉 Dealing License Example: Investment Bank
+👉 Non-dealing License Example: Brokerage Company HFM
+👉 Intermediary License Between Broker and Customer using a money market fund Example: Givva
+👉 Forex Financial Manager License Example: StorePoa
+```
+
 ----
 
 # QUANT GROUP CONSULTANCY COMPANY
