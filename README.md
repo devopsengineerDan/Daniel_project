@@ -1,5 +1,24 @@
 # FINANCIAL ENGINEERING
 
+
+```
+✅ TIME
+
+1  -> 13
+2  -> 14
+3  -> 15
+4  -> 16
+5  -> 17
+6  -> 18
+7  -> 19
+8  -> 20
+9  -> 21
+10 -> 22
+11 -> 23
+12 -> 24
+```
+
+
 ```
 ✅ NETWORK
 Bill Michaels Nandwa => Tony => Adam
@@ -10,7 +29,7 @@ Alex Omollo => Kevin Telecommunications => Emmauel Promota Click S.Sudan
 
 ```
 🧨🧨🧨 FIT <===> READY <===> FAITHFUL 
-🧨🧨🧨 LESS KNOWLEDGE OF YOU -----> MORE KNOWLEDGE OF THE ENVIRONMENT  
+🧨🧨🧨 LESS KNOWLEDGE OF YOU -----> MORE KNOWLEDGE OF THE ENVIRONMENT  ----> READ YOUR ENVIRONMENT
 +++++++++++++++++++++
 🧨🧨🧨 LIFE IS WHAT YOU MAKE OF IT
 🧨🧨🧨 DO ALL AND WHAT IS NECESSARY TO SUCCEED [DIRECTOR && ACTOR]
@@ -18,22 +37,13 @@ Alex Omollo => Kevin Telecommunications => Emmauel Promota Click S.Sudan
 ----------------------------------------------------------------------------------------------------------
 🧨 SILENCE
 SECURITY + INNOVATION [ADVANCE]
-                                   🧨 CONSIOUS 
+                                   🧨 CONSIOUS + KNOWING WHAT TO SAY & WHAT NOT TO SAY || WHAT TO DO & WHAT NOT TO DO
                                    TIME [OBSERVATION THEN WORD] ===> NEUTRAL
               REVIEW [WAY]
                                    ACTION [REALITY THEN REFLECTION]
                                    🧨 SILENCE
 ----------------------------------------------------------------------------------------------------------                              
 ```
-
-
-```
-🧨 When the economy is doing good, inflation increases, Central bank increases interest rates.
-🧨 When the economy is doing bad, inflation decreases, Central bank decreases interest rates.
-```
-
-
----------------------------------------------------------
 
 
 ```
@@ -56,33 +66,53 @@ SECURITY + INNOVATION [ADVANCE]
 
 ---------------------------------------------------------
 
+# INTEREST RATES
 
 ```
-✅ TIME
+🧨 When the economy is doing good, inflation increases, Central bank increases interest rates.
+🧨 When the economy is doing bad, inflation decreases, Central bank decreases interest rates.
 
-1  -> 13
-2  -> 14
-3  -> 15
-4  -> 16
-5  -> 17
-6  -> 18
-7  -> 19
-8  -> 20
-9  -> 21
-10 -> 22
-11 -> 23
-12 -> 24
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+✅ FINANCE SUSTAINABILITY OF A GOVERNMENT
+Debt Interest                                     DEBT
+-------------------------------------    =      -------------------------------
+Inflation + Economic Growth                       GDP(Gross Domestic Product)
+
+
+🧨 How the Government keeps Debt Low
+1. Lower debt interest
+2. Increase inflation + Increase economic growth
+3. Increase tax + Lowering GVT development expenses
 ```
+---------------------------------------------------------
 
 
 ```
-👉 COMPOUNDING CALCULATOR ===> https://github.com/devopsengineerDan/compound-interest-calculator
+👉👉👉 COMPOUNDING CALCULATOR ===> https://github.com/devopsengineerDan/compound-interest-calculator
 
-👉 COMPOUNDING FORMULAE ===>
-🧨 Frequency of compounding = Is Daily
+👉👉👉 COMPOUNDING FORMULAE 
+👉 Yearly Contribution Compounding
 FV = PV (1 + R/F)^NF
 Future Value = Present Value (1 + Rate/Frequency of compounding)^Number of years * Frequency of compounding
+🧨 Frequency of compounding = Is Daily
 Future Value = 500,000(1+0.12/365)^10*365
+Future Value = 1,659,731
+
+👉 Monthly Contribution Compounding
+FV = A((1+r)^n -1)/r
+A = 3,000
+r = 12% which is 0.12 for one month is 1% which is 0.01
+n = 10 yrs * 12 mths = 120 mths
+Future Value = 3000((1+0.01)^120-1)/0.01
+Future Value = 1,150,193
+
+👉 Total
+Total Future Value =  1,659,731 + 1,150,193
+Total Future Value =  2.8 million
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
 ````
 
 
@@ -93,7 +123,7 @@ Future Value = 500,000(1+0.12/365)^10*365
 ```
 ✅ STOCK EXCHANGE
 
-👉 ---> STOCK =====> LONG-TERM PERIOD [5-10-25-100]YRS        🧨🧨🧨 KENYA/AFRICA && CHINA🧨🧨🧨
+👉 ---> STOCK =====> LONG-TERM PERIOD [5-10-25-100]YRS        🧨🧨🧨 KENYA/AFRICA && CHINA 🧨🧨🧨
                                                        ----> (GOLD + MINERALS), BANKS | GOVERNMENT, RELIGION, EDUCATION
                                                        ----> ARMORY, MINERALS, TECHNOLOGY(SOFTWARE, HARDWARE), ENTERTAINMENT
                                                        ----> PROPERTIES, LANDS, PLANTS, ANIMALS
