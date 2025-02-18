@@ -1127,7 +1127,7 @@ Higher Time Frame    Lower Time Frame
 >>> OFFSHORE ASSET MANAGEMENT ===> SEYCHELLES
 > WITHHOLDING TAX
 > CAPITAL  GAIN TAX
->>> FAMILY HOME COMPANY ===> KENYA
+>>> FAMILY HOME/OFFICE COMPANY ===> KENYA
 ```
 
 
@@ -1139,6 +1139,7 @@ Higher Time Frame    Lower Time Frame
 👉 Intermediary License Between Broker and Customer using a Money Market Fund Example: Givva
 👉 Forex Financial Manager License Example: StorePoa
 ```
+
 
 ----
 
