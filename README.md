@@ -1136,7 +1136,7 @@ Higher Time Frame    Lower Time Frame
 ```
 👉 Dealing License Example: Investment Bank
 👉 Non-dealing License Example: Brokerage Company HFM
-👉 Intermediary License Between Broker and Customer using a money market fund Example: Givva
+👉 Intermediary License Between Broker and Customer using a Money Market Fund Example: Givva
 👉 Forex Financial Manager License Example: StorePoa
 ```
 
