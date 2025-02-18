@@ -2070,8 +2070,13 @@ engineerDaniel@1234
 PSC ---> ID --->  dancunmoruri@gmail.com  --->  GODISFAITHFUL@9#amen
 npsc ---> GodIsFaithful@97
 
+kibe0853@gmail.com  ---> Qwerty@12345
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 https://adili.eacc.go.ke/ LOGIN -> dancunmoruri@gmail.com -> CONARDMOMANYI@1daniel
 
+Microsoft skype: eagleoverflow@gmail.com ---> Qwerty@12345
 Microsoft Teams: conardmomanyi1234
 Microsoft acc: dancunmoruri@gmail.com  => Passwd:  Conardmomanyi123 => Security code for 0711444518 => Microsoft Teams, Skype, Microsoft OneDrive, Microsoft Office 365
 Microsoft acc: dancun.moruri@outlook.com  => Security code for dancunmoruri@gmail.com => Microsoft Teams, Skype, Microsoft OneDrive, Microsoft Office 365
