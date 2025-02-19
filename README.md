@@ -60,7 +60,16 @@ SECURITY + INNOVATION [ADVANCE]
 ✅ ===> LIFE IS LIFE
    - FEEL
    - KIND
-   - HARMONY   
+   - HARMONY
+
+-------------------------------------------------------------------------------------------------------------
+
+✅ SENTIMENTAL ANALYSIS ---> AWARENESS / CANNOT CHEAT THE GRIND
+
+
+✅ TECHNICAL ANALYSIS ---> ENTRY , TAKE PROFIT / EXIT, STOP LOSS
+
+✅ FUNDAMENTAL ANALYSIS ---> VOLATILITY, LIQUIDITY, TREND
 ```
 
 
