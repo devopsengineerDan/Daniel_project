@@ -70,6 +70,20 @@ SECURITY + INNOVATION [ADVANCE]
 ✅ TECHNICAL ANALYSIS ---> ENTRY , TAKE PROFIT / EXIT, STOP LOSS
 
 ✅ FUNDAMENTAL ANALYSIS ---> VOLATILITY, LIQUIDITY, TREND
+
+-------------------------------------------------------------------------------------------------------------
+
+✅ SIMPLICITY
+✅ FOCUS 
+✅ MANAGE YOUR EMOTIONS [HAVE GUT FEELING]
+
+-------------------------------------------------------------------------------------------------------------
+
+🧨🧨🧨 STRONG 🧨🧨🧨 ===> SCARED MONEY MAKES NO MONEY
+
+✅ Where is PRICE HEADING TO 
+✅ WANT && DO NOT NEED
+✅ Trading is PERIODICAL
 ```
 
 
