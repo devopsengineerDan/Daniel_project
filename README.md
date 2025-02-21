@@ -1,5 +1,12 @@
 # FINANCIAL ENGINEERING
 
+```
+👉 PSYCHOLOGIST
+👉 ANALYST
+👉 TRADER
+👉 RISK MANAGER
+```
+
 
 ```
 ✅ TIME
