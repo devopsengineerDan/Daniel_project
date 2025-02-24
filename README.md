@@ -28,9 +28,10 @@
 
 ```
 ✅ NETWORK
+Dun Kiptoo SA Mechanical Engineer
 Bill Michaels Nandwa => Tony => Adam
 Victor => Marcus => Sam Telegram
-Alex Omollo => Kevin Telecommunications => Emmauel Promota Click S.Sudan
+Alex Omollo => Kevin Telecommunications => Emmanuel Promota Click S.Sudan
 ```
 
 
@@ -318,7 +319,7 @@ FOREX EXCHANGE
 ```
 FUNDED NEXT
 FUNDING TRADERS.COM
-
+FUNDING PIPS
 
 
 thelegendstrading.com
