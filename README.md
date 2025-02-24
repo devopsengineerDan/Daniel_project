@@ -37,7 +37,7 @@ Alex Omollo => Kevin Telecommunications => Emmauel Promota Click S.Sudan
 ```
 🧨🧨🧨 FIT <===> READY <===> FAITHFUL 
 🧨🧨🧨 LESS KNOWLEDGE OF YOU -----> MORE KNOWLEDGE OF THE ENVIRONMENT  ----> READ YOUR ENVIRONMENT
-+++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 🧨🧨🧨 LIFE IS WHAT YOU MAKE OF IT
 🧨🧨🧨 DO ALL AND WHAT IS NECESSARY TO SUCCEED [DIRECTOR && ACTOR]
 
@@ -54,10 +54,11 @@ SECURITY + INNOVATION [ADVANCE]
 
 
 ```
+**************************************************************************************************************
 ✅ ===> YOU CANNOT CHEAT THE GRIND ---> Must go through the process.
    - BET 97% 
    - The quieter you become, the more you are able to hear.
-   - ALERTNESS + AWARENESS
+   - ALERTNESS + AWARENESS. Then BE PATIENT.
 
 ✅ ===> GAME IS GAME
    - COMPETITIVE GAME
@@ -65,32 +66,36 @@ SECURITY + INNOVATION [ADVANCE]
    - CONQUER
 
 ✅ ===> LIFE IS LIFE
-   - FEEL
-   - KIND
-   - HARMONY
+   - FEEL ---> FAITH  🧨 WISDOM
+   - KIND ---> CHANGE
+   - HARMONY ---> FORGIVENESS  🧨 JUSTICE HAS NO MERCY
+**************************************************************************************************************
+
 
 -------------------------------------------------------------------------------------------------------------
-
 ✅ SENTIMENTAL ANALYSIS ---> AWARENESS / CANNOT CHEAT THE GRIND
-
-
 ✅ TECHNICAL ANALYSIS ---> ENTRY , TAKE PROFIT / EXIT, STOP LOSS
-
 ✅ FUNDAMENTAL ANALYSIS ---> VOLATILITY, LIQUIDITY, TREND
 
--------------------------------------------------------------------------------------------------------------
 
 ✅ SIMPLICITY
 ✅ FOCUS 
 ✅ MANAGE YOUR EMOTIONS [HAVE GUT FEELING]
-
 -------------------------------------------------------------------------------------------------------------
 
-🧨🧨🧨 STRONG 🧨🧨🧨 ===> SCARED MONEY MAKES NO MONEY
 
+==============================================================================================================
+🧨🧨🧨 STRONG 🧨🧨🧨 ===> SCARED MONEY MAKES NO MONEY[QUICK TAKING OF PROFIT & EXITING OF TRADE]
+🧨 STRONG TAKE PROFIT && EXIT ON AN ORDER BLOCK 🧨
+🧨 ---> ONCE I RECOGNIZE AN LOSS-ORIENTED TREND IN PRICE, EXIT TRADE.
+   ---> ADAPT TO A PROFIT-ORIENTED TREND 🧨
+🧨 REPEAT 🧨
+++++++++++++++++++++++++++++++++++++++++++
 ✅ Where is PRICE HEADING TO 
 ✅ WANT && DO NOT NEED
 ✅ Trading is PERIODICAL
+
+==============================================================================================================
 ```
 
 
