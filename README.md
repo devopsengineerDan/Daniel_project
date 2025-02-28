@@ -1141,20 +1141,37 @@ Higher Time Frame    Lower Time Frame
 # LIGHT MANAGEMENT LTD
 
 ```
-> DAWN LABS
-> DAWN GROUP NGO
+✅ DAWN LABS
+> DAWN GROUP + DAWN NGO
+----------------------
+Quant Finance Investment Management Company
+Quant Group
+Quant Capital
 ```
 
 ----
 
 # INVESTMENT COMPANY/[INDIVIDUAL TRADER]
 
-### 1 RISK DISCLOSURE AGREEMENT + COMPENSATION
+### 1 RISK DISCLOSURE AGREEMENT + COMPENSATION && RETURNS ALLOCATION
 
 ```
+👉 RISK DISCLOSURE AGREEMENT + COMPENSATION
+
 >>> If Funds not used for Investment, its Illegal and MUST be FULLY COMPENSATED[INITIAL INVESTED CAPITAL]
 >>> If Funds used for Investment, Investment company can decide not to compensate the clients and hence Ruin Investment company Reputation.
->>> If Funds used for Investment, Investment company can decide to PARTIALLY 1/8 compensate the clients under MEDIATION/ IN-HOUSE  DISCUSSIONS and hence Salvage Investment company Reputation. 
+>>> If Funds used for Investment, Investment company can decide to PARTIALLY 1/8 compensate the clients under MEDIATION/ IN-HOUSE  DISCUSSIONS and hence Salvage Investment company Reputation.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+👉 RETURNS ALLOCATION
+
+✅ INVESTMENT COMPANY
+3% of Initial Capital Deposited
+35% of Profit Made ===> Management Fee and Performance Fee
+
+✅ INVESTOR
+5% of Initial Capital Deposited Per Month
 ```
 
 ### 2 TAX MANAGEMENT 
