@@ -1167,8 +1167,8 @@ Quant Capital
 👉 RETURNS ALLOCATION
 
 ✅ INVESTMENT COMPANY
-3% of Initial Capital Deposited
-35% of Profit Made ===> Management Fee and Performance Fee
+3%-5% of Initial Capital Deposited
+35%-50% of Profit Made ===> Management Fee and Performance Fee
 
 ✅ INVESTOR
 5% of Initial Capital Deposited Per Month
