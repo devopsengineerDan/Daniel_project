@@ -1,7 +1,7 @@
 # FINANCIAL ENGINEERING
 
 ```
-👉 PSYCHOLOGIST
+👉 PSYCHOLOGIST ===> [Breath + Environment Expert]
 👉 ANALYST ===> [Chartered Financial Analyst + Portfolio Manager]
 👉 TRADER
 👉 RISK MANAGER ===> Equity Manager [Risk Little To Acquire More AND NOT Risk More To Acquire Little] 
