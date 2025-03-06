@@ -2,7 +2,7 @@
 
 ```
 👉 PSYCHOLOGIST
-👉 ANALYST
+👉 ANALYST ===> [Chartered Financial Analyst + Porfolio Manager]
 👉 TRADER
 👉 RISK MANAGER
 ```
