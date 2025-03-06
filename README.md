@@ -4,7 +4,7 @@
 👉 PSYCHOLOGIST
 👉 ANALYST ===> [Chartered Financial Analyst + Portfolio Manager]
 👉 TRADER
-👉 RISK MANAGER
+👉 RISK MANAGER ===> Equity Manager [Risk Little To Acquire More AND NOT Risk More To Acquire Little] 
 ```
 
 
