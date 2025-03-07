@@ -13,12 +13,13 @@ CENTRAL BANKS -> Controller
 MARKET MAKERS -> Efficiency
 
                             BANKS -> Liquidity Provider
-                                  -> Low Leverage[Low Returns, Low Risks]   
+                                  -> Low Leverage[Low Returns, Low Risks] ---> DEALING LICENSE   
 
 BROKERAGE FIRMS -> Connector
 
                             RETAIL INSTITUTIONS -> Hedge Funds
-                                                -> High Leverage[High Returns, High Risks]   
+                                                -> High Leverage[High Returns, High Risks]  ---> NON-DEALING LICENSE   
+
 ```
 
 
