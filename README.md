@@ -101,6 +101,7 @@ SECURITY + INNOVATION [ADVANCE]
 
 ✅ Bigger Trend ---> DIRECTION Then Small Trend ---> ENTRY
 ✅ [Price+Intrinsic value], [Price Level+Technical Analysis], [Fundamentals Analysis]
+✅ BET/Take Your Ego or What You Think Out of the Game, Price Level, Price Range
 🧨🧨🧨 CONSOLIDATION  = COMMERCIAL BUSINESS[SPECULATION, INDECISION]
 -------------------------------------------------------------------------------------------------------------
 
