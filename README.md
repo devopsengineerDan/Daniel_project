@@ -97,6 +97,11 @@ SECURITY + INNOVATION [ADVANCE]
 ✅ SIMPLICITY
 ✅ FOCUS 
 ✅ MANAGE YOUR EMOTIONS [HAVE GUT FEELING]
+
+
+✅ Bigger Trend ---> DIRECTION Then Small Trend ---> ENTRY
+✅ [Price+Intrinsic value], [Price Level+Technical Analysis], [Fundamentals Analysis]
+
 -------------------------------------------------------------------------------------------------------------
 
 
