@@ -109,27 +109,45 @@ PERFORMANCE
 =========================
 (A+)Accurate and Conscious && 9, 6 and 3 Dimensional plus Be in Harmony with nature
 --------------
-Analysis(Simple, Accurate, Categorise)             Emotional Intelligence => Ordained
-Operations                                         Social Awareness => Chosen
-Implementation(Complete)                           Logical => Elected
+Analysis(Simple, Accurate, Categorise)             Emotional Intelligence / Awareness => Ordained
+Operations                                         Social Intelligence / Awareness => Chosen
+Implementation(Complete)                           Logical Intelligence / Awareness=> Elected
 --------------
 Numbers[Make Huge Gain/Profit] + [Offer Minimal Reward plus Blessings] + [Operate within a BUDGET], (Reduce randomness, Reduce Loss) || (Be aware of threat/Killers, Opportunists, Destroyers)
 
 =========================
-SECURITY Limitless
+
+👉 SILENCE
+
+👉 SECURITY Limitless
 CONSISTENCY Limitless
 DISCIPLINE Limitless
 HARDWORK Limitless
 -------------
-SECURITY Limit
+👉 SECURITY Limit
 Time within Bound
 Way within Sope
 Resources within Limit
 --------------
-SECURITY
+👉 SECURITY
 Feel(Be Neutral and Have Awareness)
 Energy
 Vibration
+--------------
+👉 SECURITY RELATIONSHIP
+1.
+LEAD
+PROTECT     2. 
+            SILENCE
+            CALM
+3.
+ENTERTAINMENT
+            
+            4. [PROVISION + SHELTER]
+            5. INTERCOURSE 
+
+👉 SILENCE
+
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
@@ -179,8 +197,8 @@ ENTERTAINMENT         FEAR (PROSTITUTE)               WAY <=> ENERGY
 FOOD+WATER            DETORIORATE (DRUNKARD)          REALISTIC(OWN) <=> VIBRATION    
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- Portfolio Gain/ Brokerage
-                                         Salary
+👉 Portfolio GAIN / Brokerage
+                                        👉 Salary
 
                                                                🧨🧨🧨 SHORT/LOSS/STEAL  => Result to Destruction then DEATH
 
@@ -236,8 +254,8 @@ SUFFERING <===> Rigid/ Brick Wall             => Productive while GAINING
 SECURITY AND [INNOVATION + INVENTION]
 TRADITION AND BEAUTY => TRUTH, IMAGINATION, REALITY
 
-🧨CHINA
-🧨RUSSIA
+🧨 CHINA
+🧨 RUSSIA
 🧨 OTHER STATES
 
 👉👉👉 WOMAN => FREEDOM
@@ -521,8 +539,8 @@ LOCAL INVESTORS
 LOANS
 ---------------------------
 👉
-  No Knowledge
-  Don't know what you're saying
+🧨🧨🧨  No Knowledge
+🧨🧨🧨  Don't know what you're saying
 ```
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -939,7 +957,8 @@ Mobile App (Native)
 👉 ACHIEVING CROSSPLATFORM (PLATFORM AGNOSTIC)
 1. LLVM + Assembly
 2. KIVY(Language API Wrapper, Operating System and Kernel Driver API implementation) 
-
+3 DOCKER [Instance Management + Port Management]
+4 KUBERNETES [ORCHESTRATION => Manage Containers]
 
 👉 SOFTWARE-> INTERPRETED & COMPILED
 
