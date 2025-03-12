@@ -216,17 +216,17 @@ FOOD+WATER            DETORIORATE (DRUNKARD)          REALISTIC(OWN) <=> VIBRATI
                           🧨🧨🧨 WIFE
                           🧨🧨🧨 LAND / PROPERTY
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                             🧨🧨🧨 => SECURITY SUFFERING <===> CERTAINITY
+                                              👉👉👉 🌀🌀🌀 UPTREND
+👉👉👉 🌀🌀🌀 DOWNTREND                      🧨🧨🧨 DEATH => SECURITY SUFFERING <===> CERTAINITY
 UNCERTAINITY <===> Undecisive/ Stagnant       => Careful Decision Making to be CORRECT and EFFECTIVE
 DELLUSIONAL <===> Chaos                       => Intelligent Adapting to be BETTER
 SUFFERING <===> Rigid/ Brick Wall             => Productive while GAINING
-
+🧨🧨🧨 DEATH
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀
 
-🧨🧨🧨 CONSIENTIOUS, CHARISMATIC, MATURE  ======> Hold Strong, Move Fast
+🧨🧨🧨 CONSIENTIOUS, CHARISMATIC, MATURE  ======> HOLD STRONG, MOVE FAST
 =========>  WORK + GET REWARD => SOLUTION PROVIDER
 
 
@@ -250,20 +250,20 @@ SUFFERING <===> Rigid/ Brick Wall             => Productive while GAINING
 
 👉👉👉👉👉👉👉👉 RELIGION AND POLITICS
 
-👉👉👉 MAN => SHIELD
+👉👉👉 MAN => SHIELD + DISCIPLINE
 SECURITY AND [INNOVATION + INVENTION]
 TRADITION AND BEAUTY => TRUTH, IMAGINATION, REALITY
 
-🧨 CHINA
+🧨🧨🧨 CHINA
 🧨 RUSSIA
 🧨 OTHER STATES
 
 👉👉👉 WOMAN => FREEDOM
-GOD AND MY RIGHT
+GOD AND MY RIGHT && SHAME ON THOSE WHO THINK ILL OF IT 
 OUT OF MANY ONE => CHAOS AND DIVISION TO ONE/UNITY
 SHIED AND HOPE OF LIBERTY
 
-🧨 UK
+🧨🧨🧨 UK
 🧨 EUROPE
 🧨 USA
 🧨 OTHER STATES
@@ -591,7 +591,7 @@ CHAOS + UNDESICIVENESS + IRRATIONAL           =>  ***EXTREME*** DESIGN and DESIC
 
 LAZY + STAGNANT                               =>  CONTINUOUS PROCESS IMPROVEMENT and GROWTH
 
-MEAN                                          =>  PRODUCTIVE and RESULT ORIENTED
+MEAN                                          =>  PRODUCTIVE and RESULT ORIENTED + GAINING🧨🧨🧨
 ```
 
 
@@ -960,6 +960,9 @@ Mobile App (Native)
 3 DOCKER [Instance Management + Port Management]
 4 KUBERNETES [ORCHESTRATION => Manage Containers]
 
+
+
+
 👉 SOFTWARE-> INTERPRETED & COMPILED
 
 
@@ -1144,7 +1147,7 @@ Linux -> https://www.youtube.com/watch?v=ghWECXWi9kU&list=PL7yh-TELLS1FRoV4TCJjy
 
 ✅ SQL RESTORE DB
 ✅ SQL QUERY -> https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB
-✅ SQL REPORTS
+✅ SQL REPORTS -> https://www.youtube.com/watch?v=kTPJBAtv29k&list=PL7A29088C98E92D5F
 
 ======================================================================================================================================
 
@@ -2466,7 +2469,7 @@ BROKER
 ```
 👉 DATA CENTRE => www.flex.com
 
-👉 CYBERSECURITY
+👉 CYBERSECURITY ===> https://fortifycyber.com/ 
 
 🧨🧨🧨 DOMAIN Security 
 PHYSICAL Security
