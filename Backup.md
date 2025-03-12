@@ -1123,11 +1123,18 @@ Linux -> https://www.youtube.com/watch?v=ghWECXWi9kU&list=PL7yh-TELLS1FRoV4TCJjy
 👉 SQL GUIDE => https://sqlbolt.com/
 👉 SQLSTYLE GUIDE -> https://github.com/DancunManyinsa/sqlstyle.guide
 
+✅ SQL RESTORE DB
+✅ SQL QUERY -> https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB
+✅ SQL REPORTS
+
+======================================================================================================================================
+
 1. DATABASE Normalization(1-4) & SQL Tutorial -> https://www.youtube.com/watch?v=y03oYWDLu0Q&list=PLTd6ceoshprdZIu24-_u00-m2Vf9o5aVC
 
 2. SQL Tutorial(Overview) -> https://www.youtube.com/watch?v=kXQccIONcc4&list=PL7yh-TELLS1FVLG6AFoT-3lVcbJiPTWze
 
 4. SQL JOINS -> https://www.youtube.com/watch?v=fx-_7g-Ssgw&list=PLcnJIHtHiTA3eqEjdvS_JBvtcRstjWufE
+
 ```
 
 
