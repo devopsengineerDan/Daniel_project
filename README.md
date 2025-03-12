@@ -45,7 +45,7 @@ AM/PM | 24HRS
 ✅ NETWORK
 Gold ---> Dun Kiptoo SA Mechanical Engineer
 Stock ---> Bill Michaels Nandwa => Tony => Adam
-CryptoCurrency ---> Victor => Marcus => Evans | => Sam Telegram
+CryptoCurrency ---> Victor => Marcus => Evan | => Sam Telegram
 Alex Omollo => Kevin Telecommunications => Emmanuel Promota Click S.Sudan
 ```
 
