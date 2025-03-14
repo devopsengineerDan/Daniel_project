@@ -135,14 +135,14 @@ Energy
 Vibration
 --------------
 👉 SECURITY RELATIONSHIP
-1.
+1. ===> 🧨Focus on Self && Happiness
 LEAD
-PROTECT     2. 
+PROTECT     2. ===> 🧨Heal
             SILENCE
             CALM
-3.
+3. ===> 🧨Break from usual Hypnosis
 ENTERTAINMENT
-            
+               ===> 🧨Peace
             4. [PROVISION + SHELTER]
             5. INTERCOURSE 
 
