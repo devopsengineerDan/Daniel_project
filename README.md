@@ -8,18 +8,17 @@
 
 ---------------------------------------------------------------------------------------------------------
 
-CENTRAL BANKS -> Controller
+CENTRAL BANKS -> CONTROLLER
 
 MARKET MAKERS -> Efficiency
 
                             BANKS -> Liquidity Provider
                                   -> Low Leverage[Low Returns, Low Risks] ---> DEALING LICENSE   
 
-BROKERAGE FIRMS -> Connector
+BROKERAGE FIRMS -> Connector ---> NON-DEALING LICENSE   
 
                             RETAIL INSTITUTIONS -> Hedge Funds
                                                 -> High Leverage[High Returns, High Risks]  ---> NON-DEALING LICENSE   
-
 ```
 
 
@@ -38,6 +37,35 @@ AM/PM | 24HRS
 10 -> 22
 11 -> 23
 12 -> 24
+
+✅ PRICE
+===> Price Level
+===> Price Ranges ---> Consolidation
+===> Price Expansion ---> Market Structure
+
+✅ STYLE
+===> Setup
+===> Execution
+===> Playbook
+
+✅ [VALUE FOR TIME] PLAYBOOK
+===> SCALPER TRADER
+1:1000
+100K
+5 LOT
+Less than 5 MIN
+===> DAY TRADER
+A) NORMAL
+1:400
+100=1M , 400=4M
+5 LOT=1M , 10 LOT=5M
+🧨 AVOID Fundamental in [10 Minutes Total Duration]
+-------------------------------------------
+B) EPIC/EXTREME
+1:100
+100=1M
+5 LOT
+🧨 Have TAKE PROFIT TARGETS
 ```
 
 
