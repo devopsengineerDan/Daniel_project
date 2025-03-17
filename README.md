@@ -79,7 +79,7 @@ Alex Omollo => Kevin Telecommunications => Emmanuel Promota Click S.Sudan
 
 
 ```
-🧨🧨🧨 FIT <===> READY <===> FAITHFUL 
+🧨🧨🧨 FIT <===> READY && STEADY <===> FAITHFUL 
 🧨🧨🧨 LESS KNOWLEDGE OF YOU -----> MORE KNOWLEDGE OF THE ENVIRONMENT  ----> READ YOUR ENVIRONMENT
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 🧨🧨🧨 LIFE IS WHAT YOU MAKE OF IT
