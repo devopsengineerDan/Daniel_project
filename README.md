@@ -86,7 +86,7 @@ Alex Omollo => Kevin Telecommunications => Emmanuel Promota Click S.Sudan
 🧨🧨🧨 DO ALL AND WHAT IS NECESSARY TO SUCCEED [DIRECTOR && ACTOR]
 
 ----------------------------------------------------------------------------------------------------------
-🧨 SILENCE
+🧨🧨🧨 SILENCE
 SECURITY + INNOVATION [ADVANCE]
                                    🧨 CONSIOUS + KNOWING WHAT TO SAY & WHAT NOT TO SAY || WHAT TO DO & WHAT NOT TO DO
                                    TIME [OBSERVATION THEN WORD] ===> NEUTRAL
