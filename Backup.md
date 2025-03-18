@@ -2120,8 +2120,14 @@ Microsoft Teams: conardmomanyi1234
 Microsoft acc: dancunmoruri@gmail.com  => Passwd:  Conardmomanyi123 => Security code for 0711444518 => Microsoft Teams, Skype, Microsoft OneDrive, Microsoft Office 365
 Microsoft acc: dancun.moruri@outlook.com  => Security code for dancunmoruri@gmail.com => Microsoft Teams, Skype, Microsoft OneDrive, Microsoft Office 365
 
+SAFARICOM
 SAF PORTAL: @@aUrsAP@w9x.j@
 
+1. MSHWARI ===> MAXIMUM THRESHOLD
+2. @SMALL AMOUNT ZIIDI MMF ===> USSD CODE: *334#
+3. @BIG AMOUNT MALI INVESTMENT ===> USSD CODE: *230#
+4. GLOBAL PAY VISA CARD: 4987 0500 1188 6128 EXPIRY: MM/YY 03/28 CVV VALID: 249
+    
 SAF
 To easily reset your M-PESA PIN in future, set your M-PESA security questions. Dial *334#, select My account>M-PESA PIN Manager >Set M-PESA security questions,
 
@@ -2155,7 +2161,7 @@ whats-app:147369
 devopsengineerdan@gmail.com conardmomanyimoruri
 dancunmanyinsait@gmail.com CONARDMOMANYI@123456
 dancunmoruri@gmail.com CONARDMOMANYI@654321
-BUSINESS ACCOUNT[Cybersecurity and AI ]eagleoverflow@gmail.com SUNANDPLANETS => dancunmoruri@gmail.com
+BUSINESS ACCOUNT[Cybersecurity and AI]eagleoverflow@gmail.com SUNANDPLANETS => dancunmoruri@gmail.com
 quantumaiquant@gmail.com SUNANDPLANETS => dancunmoruri@gmail.com
 
 	     
