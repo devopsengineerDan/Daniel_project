@@ -153,12 +153,12 @@ HUSBAND <===> RELIABLE PROVISION
 BEST FRIEND <===> DEEP SPIRITUAL && EMOTIONAL CONNECTION
 ******************************************************************************
 ARROGANT <===> Obvious ---> Death => Threat ===> Nurture RESPONSIBILITY && ACCURACY && KINDNESS
-HURT <===> Petty ---> Foolish => Blackmail
+HURT <===> Petty ---> Foolish => Blackmail/Trickster/Opportunist
 HATE <===> Selfish ---> Stingy => Intimidate / REVENGE [Hold Grudges/Anger]
 
 👉 SILENCE
 
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
 ---------------
@@ -597,7 +597,7 @@ Speak
 ```
 SCARCITY/Moon                                 ABUNDANCE/Sun
                                               =>  GOAL ORIENTED 
-CHAOS + UNDESICIVENESS + IRRATIONAL           =>  ***EXTREME*** DESIGN and DESICIVENESS + RATIONAL 97%[SIMPLE ** CATEGORIZE] && Avoid [Extreme Chaos and Extreme Paralysis plus Speed] 
+CHAOS + UNDESICIVENESS + IRRATIONAL           =>  ***EXTREME*** DESIGN and DESICIVENESS + RATIONAL 97%[SIMPLE ** CATEGORIZE] && Avoid [Extreme 🧨Chaos and Extreme 🧨Paralysis && Extreme 🧨Speed] 
 
 LAZY + STAGNANT                               =>  CONTINUOUS PROCESS IMPROVEMENT and GROWTH
 
