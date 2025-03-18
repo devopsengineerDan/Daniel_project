@@ -134,7 +134,7 @@ Feel(Be Neutral and Have Awareness)
 Energy
 Vibration
 --------------
-👉👉👉👉👉👉👉👉👉👉👉👉👉 SECURITY IN A RELATIONSHIP
+👉👉👉👉👉👉👉👉👉👉👉👉👉 SECURITY IN A RELATIONSHIP && ACCURACY && KINDNESS
 
 👉👉👉👉👉 NURTURE RESPONSIBILITY
 1. ===> 🧨Focus on Self && Happiness
@@ -152,7 +152,7 @@ BAD MAN <===> STRENGTH && SECURITY/SHIELD
 HUSBAND <===> RELIABLE PROVISION
 BEST FRIEND <===> DEEP SPIRITUAL && EMOTIONAL CONNECTION
 ******************************************************************************
-ARROGANT <===> Obvious ---> Death => Threat
+ARROGANT <===> Obvious ---> Death => Threat ===> Nurture RESPONSIBILITY && ACCURACY && KINDNESS
 HURT <===> Petty ---> Foolish => Blackmail
 HATE <===> Selfish ---> Stingy => Intimidate / REVENGE [Hold Grudges/Anger]
 
