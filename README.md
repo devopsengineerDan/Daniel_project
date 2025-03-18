@@ -1,10 +1,10 @@
 # FINANCIAL ENGINEERING
 
 ```
-👉 PSYCHOLOGIST ===> [Breath + Environment Expert(INTELLIGENCE + AWARENESS)]
+👉 PSYCHOLOGIST ===> [Breath + Environment Expert(INTELLIGENCE + AWARENESS + IN HARMONY WITH NATURE Harmonious[Necessity]-Integrated[Choice/Want]-Industry[Need])]
 👉 ANALYST ===> [Chartered Financial Analyst + Portfolio Manager]
-👉 TRADER
-👉 RISK MANAGER ===> Equity Manager [Risk Little To Acquire More AND NOT Risk More To Acquire Little]
+👉 TRADER/ EXECUTION
+👉 RISK MANAGER <=> EQUITY MANAGER ===> [Risk Little To Acquire More AND NOT Risk More To Acquire Little] && [Hold on is a Strategy]
 
 ---------------------------------------------------------------------------------------------------------
 
