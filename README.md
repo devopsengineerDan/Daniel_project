@@ -1,7 +1,7 @@
 # FINANCIAL ENGINEERING
 
 ```
-👉 PSYCHOLOGIST ===> [Breath + Environment Expert(INTELLIGENCE + AWARENESS + IN HARMONY WITH NATURE Harmonious[Necessity]-Integrated[Choice/Want]-Industry[Need])]
+👉 PSYCHOLOGIST ===> [Breath + Environment Expert(INTELLIGENCE[Secret+Clandestine Gathering/Stealing  || Knowledge+Innovation] + AWARENESS + IN HARMONY WITH NATURE Harmonious[Necessity]-Integrated[Choice/Want]-Industry[Need])]
 👉 ANALYST ===> [Chartered Financial Analyst + Portfolio Manager]
 👉 TRADER/ EXECUTION
 👉 RISK MANAGER <=> EQUITY MANAGER ===> [Risk Little To Acquire More AND NOT Risk More To Acquire Little] && [Hold on is a Strategy]
