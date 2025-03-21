@@ -4023,7 +4023,7 @@ Limit user password + consider it as String[Input Validation]
 ```
 
 
-# CYBERSECURITY  AND SOFTWARE ENGINEERING BEST PRACTICES
+# CYBERSECURIT AND SOFTWARE ENGINEERING BEST PRACTICES
 
 
 ```
@@ -5646,6 +5646,17 @@ BEST PRACTICE Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE
 ### 5. Configure firewall and network security settings to prevent unauthorized access and protect against external threats.
 ### 6. Monitor system logs and security events for signs of potential security threats or vulnerabilities.
 ### 7. Use security tools and software, such as intrusion detection and prevention systems, to detect and respond to potential security threats.
+```
+
+
+
+```
+👉  SQL  => Consistency, Control and Performance
+
+### 1. Priviledge rights ONLY to Administrator + Strong Password
+### 2. Parametized Queries with security methods. Example for Dynamic SQL  Parametized Query sp_executesql
+EXEC sp_executesql @query, N'@name NVARCHAR(50)', @name = 'Khushi';
+### 3. Validation of User Inputs.
 ```
 
 
