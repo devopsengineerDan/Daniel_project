@@ -2160,12 +2160,14 @@ AIRTEL 0787062079 PIN => 0000 PUK => 38908427
 phone: 1493
 whats-app:147369
 
-devopsengineerdan@gmail.com conardmomanyimoruri
-dancunmanyinsait@gmail.com CONARDMOMANYI@123456
-dancunmoruri@gmail.com CONARDMOMANYI@654321
-BUSINESS ACCOUNT[Cybersecurity and AI]eagleoverflow@gmail.com SUNANDPLANETS => dancunmoruri@gmail.com
-quantumaiquant@gmail.com SUNANDPLANETS => dancunmoruri@gmail.com
+devopsengineerdan@gmail.com conardmomanyimoruri => dancunmoruri@gmail.com ==> 0706738969
+dancunmanyinsait@gmail.com CONARDMOMANYI@123456 => dancunmoruri@gmail.com ==> 0711444518
+dancunmoruri@gmail.com CONARDMOMANYI@654321 => eagleoverflow@gmail.com ==> 0706738969
 
+BUSINESS ACCOUNT[Cybersecurity and AI]
+eagleoverflow@gmail.com SUNANDPLANETS => dancunmoruri@gmail.com ==> 0706738969
+quantumaiquant@gmail.com SUNANDPLANETS => dancunmoruri@gmail.com ==> 0706738969
+kibe0853@gmail.com Rothchild@#!7654321 => dancunmoruri@gmail.com ==> 0706738969 [GOOGLEPAY && SAFARICOM] WHATSAPP BACKUP—-> CONARDMOMANYI@654321
 	     
 github: dancunmanyinsait@gmail.com: conardmomanyimoruri
         dancummoruri@gmail.com: conardmomanyimoruri
