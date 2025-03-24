@@ -93,6 +93,20 @@ Master's  
 # LIFE 
 
 ```
+                                                                                                                    ✅ 3
+                                                                                                               SILENCE [IN KNOWLEDGE AND WISDOM OF THE TWO FLAGS OF GRACE && REVENGE]
+                                                                                                               SKILL
+                                                                                                               RADAR <=> NETWORK <=> CLUE [Avoid Silence in IGNORANCE]  
+                                                                                                       
+✅ 2                                                           ✅ 2                                 ✅ 3  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<----->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ✅ 3                         ✅ 4
+UP SECURITY && WEALTH GROWTH                                     RIGHT [TIME, WAY, REALISTIC]          ALL SEEING && SENSES                                                   🧨 INDECISIVE                🧨 ENSLAVEMENT
+DOWN RESPONSIBILITIES IN [👉👉👉RELATIONSHIP @Check Below]       SMART [SPECIFIC, MEASURABLE,          DIRECTOR                                                               🧨 CHAOS                     🧨 MEAN {TILL YOUR DEATH AND THEIRS}
+                                                                        ADAPTABLE, REALISTIC,          ACTOR MEETING OBJECTIVE                                                🧨 MEAN/HUNGER/DEATH         🧨 OFFER MONEY
+                                                                        TIME-BOUND]                                                                                                                        🧨 OFFER SEX 
+```
+
+
+```
 ===> LIFE IS WHAT YOU MAKE OF IT AND [KNOW << AND >> GET IT]
 
 
@@ -134,7 +148,7 @@ Feel(Be Neutral and Have Awareness)
 Energy
 Vibration
 --------------
-👉👉👉👉👉👉👉👉👉👉👉👉👉 SECURITY IN A RELATIONSHIP [Nurture RESPONSIBILITY && ACCURACY && KINDNESS]
+👉👉👉👉👉👉👉👉👉👉👉👉👉 SECURITY IN A RELATIONSHIP [Nurture RESPONSIBILITY && ACCURACY && HAPPINESS|KINDNESS && REST]
 
 👉👉👉👉👉 NURTURE RESPONSIBILITY && ACCURACY && KINDNESS
 1. ===> 🧨Focus on Self && Happiness
@@ -154,7 +168,7 @@ BAD MAN <===> STRENGTH && SECURITY/SHIELD
 HUSBAND <===> RELIABLE PROVISION
 BEST FRIEND <===> DEEP SPIRITUAL && EMOTIONAL CONNECTION
 ******************************************************************************
-ARROGANT <===> Obvious ---> Death => Threat ===> Nurture RESPONSIBILITY && ACCURACY && KINDNESS
+ARROGANT <===> Obvious ---> Death => Threat ===> [Nurture RESPONSIBILITY && ACCURACY && HAPPINESS|KINDNESS && REST]
 HURT <===> Petty ---> Foolish => Blackmail/Trickster/Opportunist
 HATE <===> Selfish ---> Stingy => Intimidate / REVENGE [Hold Grudges/Anger]
 
