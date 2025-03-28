@@ -319,7 +319,7 @@ Discipline(Not on Track)
 Obedient(Disobedient)
 ++++++++++++++++++++  
 👉 LISTEN && BE IN HARMONY WITH NATURE*******************************
-👉 [ACCEPT+AGREEMENT]=>TRANSACTION*******************************
+👉 [ACCEPT+AGREEMENT]=>TRANSACTION 🧨🧨🧨NATURE, PROFIT, TERMINATION*******************************
 
 ---------------
 
