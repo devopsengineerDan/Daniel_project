@@ -95,14 +95,18 @@ Master's  
 ```
                                                                                                                     ✅ 3
                                                                                                                SILENCE [IN KNOWLEDGE AND WISDOM OF THE TWO FLAGS OF GRACE && REVENGE]
-                                                                                                               SKILL
+                                                                                                               SKILL [CONSISTENCY, DISCIPLINE, HARDWORK Then PATIENCE And REST]
                                                                                                                RADAR <=> NETWORK <=> CLUE [Avoid Silence in IGNORANCE]  
                                                                                                        
-✅ 2                                                           ✅ 2                                 ✅ 3  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<----->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ✅ 3                         ✅ 4
+✅ 2                                                           ✅ 3                                 ✅ 3  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<----->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ✅ 3                         ✅ 4
 UP SECURITY && WEALTH GROWTH                                     RIGHT [TIME, WAY, REALISTIC]          ALL SEEING && SENSES                                                   🧨 INDECISIVE                🧨 ENSLAVEMENT
 DOWN RESPONSIBILITIES IN [👉👉👉RELATIONSHIP @Check Below]       SMART [SPECIFIC, MEASURABLE,          DIRECTOR                                                               🧨 CHAOS                     🧨 MEAN {TILL YOUR DEATH AND THEIRS}
-                                                                        ADAPTABLE, REALISTIC,          ACTOR MEETING OBJECTIVE                                                🧨 MEAN/HUNGER/DEATH         🧨 OFFER MONEY
+                                                                        ADAPTABLE, REALISTIC,          ACTOR MEETING OBJECTIVE/GOAL                                           🧨 MEAN/HUNGER/DEATH         🧨 OFFER MONEY
                                                                         TIME-BOUND]                                                                                                                        🧨 OFFER SEX 
+                                                                 --------------------------------------                                                    
+                                                                 DEATH [LIFE] [Who,Where]
+                                                                 WISDOM,BEAUTY,RESISTANCE [Why,How,What]
+N                                                                GROUND [DEATH]    
 ```
 
 
