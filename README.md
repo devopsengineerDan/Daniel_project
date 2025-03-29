@@ -2,8 +2,13 @@
 
 ```
 👉 PSYCHOLOGIST ===> [Breath + Environment Expert(INTELLIGENCE[Secret+Clandestine Gathering/Stealing  || Knowledge+Innovation] + AWARENESS + IN HARMONY WITH NATURE Harmonious[Necessity]-Integrated[Choice/Want]-Industry[Need])]
-👉 ANALYST ===> [Chartered Financial Analyst + Portfolio Manager]
-👉 TRADER/ EXECUTION
+
+👉 ALPHA {WEALTH/SECURITY ACCUMULATION && KINDNESS}
+👉 MANAGER [Managing Director MD && General Manager]
+👉 OPERATIONS MANAGER [Global Market Director && Manager]
+
+👉 FINANCIAL ANALYST ===> [Chartered Financial Analyst + Portfolio Manager]
+👉 🌀 RESEARCH ANALYST && OFFICER  🧨INVESTMENT ANALYST && OFFICER [TRADER/ EXECUTION]
 👉 RISK MANAGER <=> EQUITY MANAGER ===> [Risk Little To Acquire More AND NOT Risk More To Acquire Little] && [Hold on is a Strategy]
 
 ---------------------------------------------------------------------------------------------------------
