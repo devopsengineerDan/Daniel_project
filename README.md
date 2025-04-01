@@ -8,10 +8,10 @@
 👉 OPERATIONS MANAGER [Global Market Director && Manager]
 
 👉 FINANCIAL ANALYST ===> [Chartered Financial Analyst + Portfolio Manager]
-👉 🌀 RESEARCH ANALYST && OFFICER  🧨INVESTMENT ANALYST && OFFICER [TRADER/ EXECUTION]
+👉 🌀 RESEARCH ANALYST && OFFICER  🧨 INVESTMENT ANALYST && OFFICER [TRADER/ EXECUTION]
 👉 RISK MANAGER <=> EQUITY MANAGER ===> [Risk Little To Acquire More AND NOT Risk More To Acquire Little] && [Hold on is a Strategy]
 
----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 CENTRAL BANKS -> CONTROLLER
 
