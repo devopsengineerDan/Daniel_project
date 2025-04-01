@@ -111,8 +111,8 @@ N                                                                GROUND [DEATH]
 
 
 ```
-===> LIFE IS WHAT YOU MAKE OF IT AND [KNOW << AND >> GET IT]
-
+👉👉👉 ===> LIFE IS WHAT YOU MAKE OF IT AND [KNOW << AND >> GET IT]
+👉👉👉 ===> WITHIN YOUR [POWER, CONTROL ,REACH]
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
                                                                                             Security
