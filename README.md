@@ -78,7 +78,7 @@ B) EPIC/EXTREME
 ✅ NETWORK
 Gold ---> Dun Kiptoo SA Mechanical Engineer
 Stock ---> Bill Michaels Nandwa => Tony => Adam
-CryptoCurrency ---> Victor => Marcus => Evan | => Sam Telegram
+CryptoCurrency ---> Anthony => Marcus => Evan | => Jerry Bogonko JBO Instagram, Sam Telegram, Victor 
 Alex Omollo => Kevin Telecommunications => Emmanuel Promota Click S.Sudan
 ```
 
