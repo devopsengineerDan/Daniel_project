@@ -87,8 +87,9 @@ Alex Omollo => Kevin Telecommunications => Emmanuel Promota Click S.Sudan
 🧨🧨🧨 FIT <===> READY && STEADY <===> FAITHFUL 
 🧨🧨🧨 LESS KNOWLEDGE OF YOU -----> MORE KNOWLEDGE OF THE ENVIRONMENT  ----> READ YOUR ENVIRONMENT
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-🧨🧨🧨 LIFE IS WHAT YOU MAKE OF IT
-🧨🧨🧨 DO ALL AND WHAT IS NECESSARY TO SUCCEED [DIRECTOR && ACTOR]
+👉👉👉 ===> LIFE IS WHAT YOU MAKE OF IT AND [KNOW << AND >> GET IT]
+👉👉👉 ===> WITHIN YOUR [POWER, CONTROL ,REACH
+👉👉👉 ===> DO ALL AND WHAT IS NECESSARY TO SUCCEED [DIRECTOR && ACTOR]
 
 ----------------------------------------------------------------------------------------------------------
 🧨🧨🧨 SILENCE
