@@ -99,14 +99,15 @@ Master's  
                                                                                                                RADAR <=> NETWORK <=> CLUE [Avoid Silence in IGNORANCE]  
                                                                                                        
 ✅ 2                                                           ✅ 3                                 ✅ 3  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<----->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ✅ 3                         ✅ 4
-UP SECURITY && WEALTH GROWTH                                     RIGHT [TIME, WAY, REALISTIC]          ALL SEEING && SENSES                                                   🧨 INDECISIVE                🧨 ENSLAVEMENT
-DOWN RESPONSIBILITIES IN [👉👉👉RELATIONSHIP @Check Below]       SMART [SPECIFIC, MEASURABLE,          DIRECTOR                                                               🧨 CHAOS                     🧨 MEAN {TILL YOUR DEATH AND THEIRS}
-                                                                        ADAPTABLE, REALISTIC,          ACTOR MEETING OBJECTIVE/GOAL                                           🧨 MEAN/HUNGER/DEATH         🧨 OFFER MONEY
-                                                                        TIME-BOUND]                                                                                                                        🧨 OFFER SEX 
+👉👉👉 UP SECURITY && WEALTH GROWTH                               RIGHT [TIME, WAY, REALISTIC]          ALL SEEING && SENSES                                                   🧨 INDECISIVE                🧨 ENSLAVEMENT
+👉 DOWN RESPONSIBILITIES IN [👉👉👉RELATIONSHIP @Check Below]     SMART [SPECIFIC, MEASURABLE,          DIRECTOR                                                               🧨 CHAOS                     🧨 MEAN {TILL YOUR DEATH AND THEIRS}
+👉 SECURITY | COONECT DOTS | COMPETITIVE                          ADAPTABLE, REALISTIC,                 ACTOR MEETING OBJECTIVE/GOAL                                           🧨 MEAN/HUNGER/DEATH         🧨 OFFER MONEY
+                                                                         TIME-BOUND]                                                                                                                        🧨 OFFER SEX 
                                                                  --------------------------------------                                                    
-                                                                 DEATH [LIFE] [Who,Where]
-                                                                 WISDOM,BEAUTY,RESISTANCE [Why,How,What]
-N                                                                GROUND [DEATH]    
+                                                                  DEATH [LIFE] [Who,Where]
+                                                                  👉 WISDOM,BEAUTY,RESISTANCE [Why,How,What] | Do Not Chase, Rush, Force
+                                                                  🧨 Liberty, Equality, Equity 
+                                                                  GROUND [DEATH]    
 ```
 
 
@@ -3840,12 +3841,14 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 # CYBER SECURITY ===> CISM CERTIFICATION  www.isaca.org/cismapp -> In order to be CISM Certified
 
 ```
+✅ PROFESSIONAL CERTIFICATION
+
 👉 CISSP and CCSP => EVERYTHING
    [NETWORKS]
    [NETWORK OPERATING SYSTEM]
    [NETWORK HARDWARE]
                                👉 ORGANIZATION POLICIES => EVERYTHING
-                                  [COMPLIANCE]
+                                  [INFORMATION/INTELLIGENCE] && [COMPLIANCE]
                                -> Data Protection
                                -> E-Council
 👉 CISM => CRYPTOGRAPHY
@@ -3859,6 +3862,19 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
                                -> CPT
                                -> eCPPT
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+✅ SCOPE OF WORK
+
+                                   -> Threat Expert
+-> Next Generation Protection
+-> Endpoint Detection & Response
+                                                                  -> Regulation Compliance
+-> Cryptography
+-> Vulnerability Management
+-> Attack Surface Management
+                                                                  -> Automated Forensics/ Audit
+                                                                  -> Automated Remediation/ Recovery       
 ```
 
 
