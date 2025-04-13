@@ -96,7 +96,8 @@ Master's  
                                                                                                                     ✅ 3
                                                                                                                SILENCE [IN KNOWLEDGE AND WISDOM OF THE TWO FLAGS OF GRACE && REVENGE]
                                                                                                                SKILL [CONSISTENCY, DISCIPLINE, HARDWORK Then PATIENCE And REST]
-                                                                                                               RADAR <=> NETWORK <=> CLUE [Avoid Silence in IGNORANCE]  
+                                                                                                               RADAR <=> NETWORK <=> CLUE [Avoid Silence in IGNORANCE]
+                                                                                                               🧨 AWARE OF Stagnation, Downtrend, Big Failure
                                                                                                        
 ✅ 2                                                           ✅ 3                                 ✅ 3  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<----->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ✅ 3                         ✅ 4
 👉👉👉 UP SECURITY && WEALTH GROWTH                               RIGHT [TIME, WAY, REALISTIC]          ALL SEEING && SENSES                                                   🧨 INDECISIVE                🧨 ENSLAVEMENT
@@ -106,8 +107,13 @@ Master's  
                                                                  --------------------------------------                                                    
                                                                   DEATH [LIFE] [Who,Where]
                                                                   👉 WISDOM,BEAUTY,RESISTANCE [Why,How,What] | Do Not Chase, Rush, Force
-                                                                  🧨 Liberty, Equality, Equity 
-                                                                  GROUND [DEATH]    
+                                                                  🧨 Liberty LIVE, Equality LOVE/LAUGH, Equity EXIST 
+                                                                  GROUND [DEATH]
+------------------------------------------------------------
+Keep the Faith, Fight the Good Fight, Finish the Race
+Indecision, [Disease, Hunger] => EXIST
+BELONGING-Leader, SURVIVAL-Class, STATUS-Tribe
+Question, Adapt-Review-Innovate, Logic                                                                     
 ```
 
 
