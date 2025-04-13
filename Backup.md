@@ -110,6 +110,7 @@ Master's  
                                                                   🧨 Liberty LIVE, Equality LOVE/LAUGH, Equity EXIST 
                                                                   GROUND [DEATH]
 ------------------------------------------------------------
+✅
 Keep the Faith, Fight the Good Fight, Finish the Race
 Indecision, [Disease, Hunger] => EXIST
 BELONGING-Leader, SURVIVAL-Class, STATUS-Tribe
