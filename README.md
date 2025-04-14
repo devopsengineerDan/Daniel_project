@@ -10,17 +10,18 @@
 👉 Borrower MAIN Requirements
 1 Repayment Terms
 2 Credit History
-3 Financial Statements [Income & Expenses]
+3 Financial Statements Balance Sheet [Income & Expenses] and Cash-flow Statement
 
 👉 Application Requirements
-1 A business plan is required for businesses that are less than 3 years old
-2 A marketing plan is required for businesses that are 3 years or older
-3 Two years of financial statements and tax returns are required
-4 Personal Financial Statement
-5 Legal structure documents
-6 Resumes or biographies
-7 Credit Release Form
-8 Other relevant materials
+1 Business details: Lenders will look for detailed information about the business, including its industry, history, management team, and financial performance. They will also want to understand the purpose of the loan and how it will be used by the business.
+2 A business plan is required for businesses that are less than 3 years old
+3 A marketing plan is required for businesses that are 3 years or older
+4 Two years of financial statements and tax returns are required
+5 Personal Financial Statement
+6 Legal structure documents
+7 Resumes or biographies
+8 Credit Release Form
+9 Other relevant materials
 ```
 
 
