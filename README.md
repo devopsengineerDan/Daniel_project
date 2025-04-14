@@ -17,7 +17,9 @@
 2 A business plan is required for businesses that are less than 3 years old
 3 A marketing plan is required for businesses that are 3 years or older
 4 Two years of financial statements and tax returns are required
-5 Personal Financial Statement
+5 Personal Financial Statements
+6 A -> Collateral: Lenders may require collateral to secure the loan, such as real estate, equipment, or inventory. They will want to evaluate the value and quality of the collateral to determine the loan amount and terms. 
+  B -> Personal guarantee: In some cases, lenders may require a personal guarantee from the business owners or other guarantors to secure the loan. This ensures that the loan will be repaid even if the business is unable to do so. 
 6 Legal structure documents
 7 Resumes or biographies
 8 Credit Release Form
