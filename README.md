@@ -1,6 +1,30 @@
 # FINANCIAL ENGINEERING
 
 ```
+🧨 LOAN 🧨
+👉 Lender MAIN Requirements
+1 Lender Policies and Guidelines
+2 Lender aAdvisor
+3 Financial Advisor
+
+👉 Borrower MAIN Requirements
+1 Repayment Terms
+2 Credit History
+3 Financial Statements [Income & Expenses]
+
+👉 Application Requirements
+1 A business plan is required for businesses that are less than 3 years old
+2 A marketing plan is required for businesses that are 3 years or older
+3 Two years of financial statements and tax returns are required
+4 Personal Financial Statement
+5 Legal structure documents
+6 Resumes or biographies
+7 Credit Release Form
+8 Other relevant materials
+```
+
+
+```
 👉 PSYCHOLOGIST ===> [Breath + Environment Expert(INTELLIGENCE[Secret+Clandestine Gathering/Stealing  || Knowledge+Innovation] + AWARENESS + IN HARMONY WITH NATURE Harmonious[Necessity]-Integrated[Choice/Want]-Industry[Need])]
 
 👉 ALPHA {WEALTH/SECURITY ACCUMULATION && KINDNESS}
