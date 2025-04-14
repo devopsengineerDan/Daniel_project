@@ -20,10 +20,10 @@
 5 Personal Financial Statements
 6 A -> Collateral: Lenders may require collateral to secure the loan, such as real estate, equipment, or inventory. They will want to evaluate the value and quality of the collateral to determine the loan amount and terms. 
   B -> Personal guarantee: In some cases, lenders may require a personal guarantee from the business owners or other guarantors to secure the loan. This ensures that the loan will be repaid even if the business is unable to do so. 
-6 Legal structure documents
-7 Resumes or biographies
-8 Credit Release Form
-9 Other relevant materials
+7 Legal structure documents
+8 Resumes or biographies
+9 Credit Release Form
+10 Other relevant materials
 
 👉 How to address competition in a loan proposal?
 1-> Market Analysis: Provide a detailed analysis of your industry and identify key competitors. Explain how your business differentiates itself from competitors and highlight your unique selling points.
