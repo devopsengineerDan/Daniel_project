@@ -12,18 +12,21 @@
 👉 RISK MANAGER <=> EQUITY MANAGER ===> [Risk Little To Acquire More AND NOT Risk More To Acquire Little] && [Hold on is a Strategy]
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    🧨  INSURANCE
+🧨 CENTRAL BANKS -> CONTROLLER
 
-CENTRAL BANKS -> CONTROLLER
+🧨 MARKET MAKERS -> Efficiency
 
-MARKET MAKERS -> Efficiency
-
-                            BANKS -> Liquidity Provider
+                            🧨 BANKS -> Liquidity Provider
                                   -> Low Leverage[Low Returns, Low Risks] ---> DEALING LICENSE   
 
-BROKERAGE FIRMS -> Connector ---> NON-DEALING LICENSE   
+🧨 BROKERAGE FIRMS -> Connector ---> NON-DEALING LICENSE   
 
-                            RETAIL INSTITUTIONS -> Hedge Funds
-                                                -> High Leverage[High Returns, High Risks]  ---> NON-DEALING LICENSE   
+                            🧨 RETAIL INSTITUTIONS -> Hedge Funds
+                                                -> High Leverage[High Returns, High Risks]  ---> NON-DEALING LICENSE
+
+
+                                                   🧨   PENSION
 ```
 
 
