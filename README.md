@@ -7,10 +7,12 @@
 2 Lender aAdvisor
 3 Financial Advisor
 
+
 👉 Borrower MAIN Requirements
 1 Repayment Terms
 2 Credit History
 3 Financial Statements Balance Sheet [Income & Expenses] and Cash-flow Statement
+
 
 👉 Application Requirements
 1 Business details: Lenders will look for detailed information about the business, including its industry, history, management team, and financial performance. They will also want to understand the purpose of the loan and how it will be used by the business.
@@ -24,6 +26,7 @@
 8 Resumes or biographies
 9 Credit Release Form
 10 Other relevant materials
+
 
 👉 How to address competition in a loan proposal?
 1-> Market Analysis: Provide a detailed analysis of your industry and identify key competitors. Explain how your business differentiates itself from competitors and highlight your unique selling points.
