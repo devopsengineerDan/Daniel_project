@@ -114,7 +114,10 @@ Master's  
 Keep the Faith, Fight the Good Fight, Finish the Race
 Indecision, [Disease, Hunger] => EXIST
 BELONGING-Leader, SURVIVAL-Class, STATUS-Tribe
-Question, Adapt-Review-Innovate, Logic                                                                     
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Question?, Adapt-Review-Innovate, Logic
+Lie, Child, Carnival
+Attention, Dream, Carnival                                                                   
 ```
 
 
