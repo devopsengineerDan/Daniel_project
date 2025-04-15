@@ -108,7 +108,7 @@ Master's  
                                                                   DEATH [LIFE] [Who,Where]
                                                                   👉 WISDOM,BEAUTY,RESISTANCE [Why,How,What] | Do Not Chase, Rush, Force
                                                                   🧨 Liberty LIVE, Equality LOVE/LAUGH, Equity EXIST 
-                                                                  GROUND [DEATH]
+                                                                  [GROUND/PHYSICAL] DEATH
 ------------------------------------------------------------
 ✅
 Keep the Faith, Fight the Good Fight, Finish the Race
