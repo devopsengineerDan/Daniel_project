@@ -112,7 +112,7 @@ Master's  
 ------------------------------------------------------------
 ✅
 Keep the Faith, Fight the Good Fight, Finish the Race
-Indecision, [Disease, Hunger] => EXIST
+Lack of Knowledge+Indecision, [Disease, Hunger+Poverty] => EXIST
 BELONGING-Leader, SURVIVAL-Class, STATUS-Tribe
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 Question?, Adapt-Review-Innovate, Logic
