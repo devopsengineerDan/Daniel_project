@@ -72,8 +72,9 @@
        
        LAND + MINERALS
        --------------------------------------------------------
-       
-       PALANTIR COMPANY -> https://www.palantir.com/
+       🧨 DEFENSE COMPANNIES
+       🧨 PALANTIR COMPANY -> https://www.palantir.com/
+
        =====> WEAPONS + GOVERNMENT
        =====> BANK + LAW
        =====> CHURCH + NGO
