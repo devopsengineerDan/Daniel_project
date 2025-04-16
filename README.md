@@ -38,7 +38,7 @@
 
 
 ```
-👉 PSYCHOLOGIST ===> [Breath + Environment Expert(INTELLIGENCE[Secret+Clandestine Gathering/Stealing  || Knowledge+Innovation] + AWARENESS + IN HARMONY WITH NATURE Harmonious[Necessity]-Integrated[Choice/Want]-Industry[Need])]
+👉 PSYCHOLOGIST ===> [Breath + Environment Expert(INTELLIGENCE[Secret+Clandestine Gathering/Stealing+Conglomorate  || Knowledge+Innovation] + AWARENESS + IN HARMONY WITH NATURE Harmonious[Necessity]-Integrated[Choice/Want]-Industry[Need])]
 
 👉 ALPHA {WEALTH/SECURITY ACCUMULATION && KINDNESS}
 👉 MANAGER [Managing Director MD && General Manager]
