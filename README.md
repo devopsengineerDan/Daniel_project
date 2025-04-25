@@ -1376,7 +1376,7 @@ Target 8% yearly return based on initial deposit
 
 
 
-Deel 
+Deel ===> FUND TRANSFERS
 ------------------------------------------------------------------------------------------
 SMB -> Cash Entry -> Foreign Entry ===> SMALL SAVINGS
 DTB -> Bank Entry ===> SMALL SAVINGS
