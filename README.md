@@ -1369,6 +1369,28 @@ Consistent Return
 Target 8% yearly return based on initial deposit
 ```
 
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+Deel 
+------------------------------------------------------------------------------------------
+SMB -> Cash Entry -> Foreign Entry ===> SMALL SAVINGS
+DTB -> Bank Entry ===> SMALL SAVINGS
+------------------------------------------------------------------------------------------
+ABSA/Barclays Former ===> ALL BUSINESSES  -> Family Maintenace  ===> HUGE SAVINGS 50%
+Stanbic ===> [FARMING + PLOTS] BUSINESSES -> Cars Maintenance ===> HUGE SAVINGS 50%
+KCB ===> From Stanbic -> Properties Maintenance ===> HUGE SAVINGS 50% 
+------------------------------------------------------------------------------------------
+Kwetu SACCO ===> PLOT BUSINESSES -> LOANS ===> SMALL SAVINGS
+------------------------------------------------------------------------------------------
+
+
+
+
 ![title](static/img/QUANT_BUSINESS_1.jpg)
 
 ![title](static/img/QUANT_BUSINESS_2.jpg)
