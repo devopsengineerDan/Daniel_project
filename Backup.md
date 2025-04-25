@@ -107,7 +107,7 @@ Master's  
                                                                  --------------------------------------                                                    
                                                                   DEATH [LIFE] [Who,Where]
                                                                   👉 WISDOM,BEAUTY,RESISTANCE [Why,How,What] | Do Not Chase, Rush, Force
-                                                                  🧨 Liberty LIVE, Equality LOVE/LAUGH, Equity EXIST 
+                                                                  🧨 Liberty [LIVE], Equality [LOVE/LAUGH][CHANGE/FORGIVE], Equity [EXIST] 
                                                                   [GROUND/PHYSICAL] DEATH
 ------------------------------------------------------------
 ✅
