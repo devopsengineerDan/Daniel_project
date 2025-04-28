@@ -6791,8 +6791,9 @@ Install _ONCE_               -> 1st Option
 				sudo apt install python3-venv
                                 export PATH="$HOME/.pipenv/bin:$PATH"
                                 echo $PATH
-
-    
+```
+```
+👉👉👉 OLD    
 **Go to Project Folder**
 
 Create env:     python3 -m venv my-project-env
@@ -6815,6 +6816,31 @@ Upgrade Dependencies:     pipenv install -r requirements.txt --upgrade
 Deactivate:               deactivate
 ```
 
+```
+👉👉👉 NEW 
+Check for Already Existing Environment ===> pipenv --venv
+Remove Already Existing Environment(Ensure you are in the current activated environment) ===> pipenv --rm
+Create a new project using Python 3.10, specifically ===> pipenv -- python3.10
+Create a new project using your default Python ===> pipenv shell
+
+
+Activate Already Existing Environment ===> source /home/engineer/.local/share/virtualenvs/take_break-master-6ddiBXce/bin/activate 
+Deactivate Already Existing Environment ===> deactivate
+
+
+Install a local setup.py into your virtual environment/Pipfile ===> pipenv install -e .
+Install dependencies for a project (dev packages)===> pipenv install --dev
+Install all dependencies for a project ===> pipenv install --all
+
+
+Freeze Dependencies:      pipenv freeze
+			  pipenv freeze > requirements.txt
+			  
+			  
+Install Dependencies:     pipenv install -r requirements.txt
+Upgrade Dependencies:     pipenv install -r requirements.txt --upgrade
+Deactivate:               deactivate
+```
 
 
 # RUST
