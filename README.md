@@ -1395,3 +1395,54 @@ Kwetu SACCO ===> PLOT BUSINESSES -> LOANS ===> SMALL SAVINGS
 
 ![title](static/img/QUANT_BUSINESS_2.jpg)
 
+# QUANT TRADER [ENGINEER && RESEARCHER]
+
+ Our Ideal Candidate
+
+    Deep curiosity about market dynamics and drive to improve trading strategies
+    Ability to quickly analyze complex problems and implement effective solutions
+    Strong communication skills for cross-functional collaboration
+    Mindset of continuous learning and adaptation in evolving crypto markets
+    Comfortable with a flexible schedule, including evenings or weekends when necessary
+
+Key Responsibilities
+
+    Develop and implement sophisticated quantitative trading strategies
+    Conduct in-depth market analysis to identify trading opportunities
+    Monitor and analyze portfolio performance, making real-time adjustments
+    Collaborate with engineers to improve trading algorithms and infrastructure
+    Perform rigorous backtesting and forward testing of strategies
+    Analyze market microstructure and order flow to refine execution algorithms
+    Implement risk management techniques and portfolio protections
+    Generate actionable insights from cryptocurrency market trends and news
+
+Sample Projects
+
+    Post-Trade Analysis: Develop and implement advanced post-trade analysis tools to evaluate strategy performance and identify areas for improvement
+    Real-Time Portfolio Optimization: Enhance real-time portfolio optimization and capital allocation algorithms to maximize returns while managing risk
+    Predictive Momentum Model: Implement and integrate a predictive momentum model into existing market-making and taking strategies
+
+Qualifications
+
+    Bachelor's degree in a quantitative field (e.g., Mathematics, Physics, Computer Science, Financial Engineering)
+    Strong programming skills, particularly in Python
+    Proven track record in quantitative trading, preferably in crypto high-frequency trading
+    Deep understanding of statistical analysis, machine learning, and time series analysis
+    Experience with market microstructure analysis and order book dynamics
+    Familiarity with common HFT strategies (market making, statistical arbitrage, latency arbitrage)
+    Strong analytical and problem-solving skills with attention to detail
+    Ability to work effectively in a fast-paced, collaborative environment
+    
+Preferred Qualifications
+
+    Experience in cryptocurrency HFT or market making
+    Knowledge of low-latency systems and networking concepts
+    Experience with AWS & Docker
+    Understanding of financial risk management principles
+
+Benefits
+
+    Work on cutting-edge trading strategies in dynamic crypto markets
+    Collaborative environment with top-tier professionals
+    Continuous learning and development opportunities
+    Flexible work arrangements
