@@ -1396,6 +1396,7 @@ Kwetu SACCO ===> PLOT BUSINESSES -> LOANS ===> SMALL SAVINGS
 ![title](static/img/QUANT_BUSINESS_2.jpg)
 
 # QUANT TRADER [ENGINEER && RESEARCHER]
+# K-bit, Henriot
 
  Our Ideal Candidate
 
