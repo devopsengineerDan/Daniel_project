@@ -3500,6 +3500,21 @@ sudo apt --fix-broken install
 ==> ONLINE
 sudo apt update
 sudo apt upgrade
+
+----------------------------------------------------
+
+👉 IMAGES
+linux-image-* ==> image packages are what your system runs - they are binaries. Those are the important ones.
+$ dpkg --list 'linux-image-*'
+$ dpkg --list | grep linux-image
+$ sudo apt purge linux-image-6.5.0-26-generic 
+
+
+👉 HEADERS
+linux-headers-* ==> header packages are used to compile kernels and modules. They are not executable, and can be removed at any time.
+$ dpkg --list | egrep -i --color 'linux-image|linux-headers'
+$ dpkg --list | grep linux-headers
+$ sudo apt purge linux-headers-5.15.0-76*
 ```
 
 
@@ -3620,7 +3635,9 @@ Select OS to boot from
 👉 DELETE OLD DEPENDENCIES AND FILES
 
 sudo apt-get autoremove
-sudo apt-get autoclean				
+sudo apt-get autoclean
+sudo apt-get autoremove --purge
+sudo dpkg --configure -a		
 OR BEST ALTERNATIVE Check FILE HISTORY on Settings and Clear (File History, Trash and Temporary Files)				
 ```
 
@@ -3708,7 +3725,6 @@ hostnamectl
 lsb_release -d
 lsb_release -a
 ```
-
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
