@@ -1297,6 +1297,7 @@ Advantages of cargo
 => C KNOWLEDGE FOR COMPUTER PROGRAMMING FUNDAMENTALS
 => 🧨 C IMAGES
 
+C freecode camp -> https://www.youtube.com/watch?v=KJgsSFOSQv0
 Pointers -> https://www.youtube.com/watch?v=Hb-bmAmbwvo&list=PL7yh-TELLS1GafZOVHhCPaCQUt8HrfCZE&index=9
 
 C to LLVM IR Assembly -> https://www.youtube.com/watch?v=wt7a5BOztuM
@@ -10362,12 +10363,12 @@ sudo bash -c "$(wget -O - https://apt.llvm.org/llvm.sh)"
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-------------------LOGIN LINUX & WINDOWS--------------------
+------------------BIOS & WINDOWS--------------------
 				
-PASSWORD - devopsengineerDan
-PIN - Dan@1997
+PASSWD - devopsengineer
+PN - Dan@1997
 
-ROOT - devopsengineer  
+BIOS - devopsengineer  
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%						
 
 
@@ -11012,13 +11013,14 @@ sudo chmod 666 /dev/ttyUSB0
 
 putty
 --------------------------
+👉 1ST PROJECT Python Script to Control my Lights using phue philips bulb -> https://www.youtube.com/watch?v=kSruoqDTYt0
 
-1ST PROJECT
+👉 2ND PROJECT
 Low Level Learning - esp32 setup -> https://www.youtube.com/watch?v=dOVjb2wXI84
 Low Level Learning - esp32 wireless network connectivity and TCPIP connection -> https://www.youtube.com/watch?v=_dRrarmQiAM
 ***Low Level Learning - IOT Kettle Heater Project via Wifi and TCPIP -> https://www.youtube.com/watch?v=8-JE3RdyEds
 
-2ND PROJECT 
+👉 3RD PROJECT 
 ***IOT HOME LIGHT SYSTEM -> https://github.com/devopsengineerDan/automating-home-lights-python
 ```
 
