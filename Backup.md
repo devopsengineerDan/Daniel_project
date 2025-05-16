@@ -10830,7 +10830,107 @@ graph LR
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
+
+
+# PROJECTS LIST
+
 ```
+
+******************************************************        1ST PRIORITY         ******************************************************
+
+1 LINKEDIN JOB SCRAPER -> 4 PYTHON-C-BASH-APPLICATIONS
+2 PDF REMOVE PASSWD -> 4 PYTHON-C-BASH-APPLICATIONS
+3 DJANGO API -> 4 PYTHON-C-BASH-APPLICATIONS
+4 reggreSSHion SSH C -> 4 PYTHON-C-BASH-APPLICATIONS
+5 C alx -> 4 PYTHON-C-BASH-APPLICATIONS
+6 BASH alx -> 4 PYTHON-C-BASH-APPLICATIONS
+
+=====================================================================================================================================================================
+
+7 => REREAD API ---> REFERENCE LINKS
+
+DJANGO -> GITHUB Links ***
+FLASK -> GITHUB Links ***
+POSTMAN -> GITHUB Links ***
+WRAPPER -> GITHUB Links ***
+
+------> Building a Restful API
+Django Github API => Consuming a Restful API
+Flask News API => Consuming a Restful API
+
+
+
+Patrick Loeber GITHUB (Django, FastAPI, Flask)
+
+software-project-based-learning GitHub
+--------------
+Django https://codeburst.io/create-a-django-api-in-under-20-minutes-2a082a60f6f3
+Flask https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xxiii-application-programming-interfaces-apis
+--------------
+
+Rodney SendyAPI Wrapper => Consuming a Restful API + Building an Restful API
+
+GraphQL
+Fireship  ->  https://www.youtube.com/watch?v=eIQh02xuVw4
+NetNinja  ->  https://www.youtube.com/watch?v=xMCnDesBggM&list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y
+
+=====================================================================================================================================================================
+
+8 => EDR Artificial Intelligence System
+
+Prevention -> https://github.com/devopsengineerDan/cybersecurity-IPS-IntrusionPreventionSystem
+Detection -> https://github.com/devopsengineerDan/cybersecurity-maltrail
+
+9 => DATA PIPELINE
+
+Python Data Cleaning GITHUB ===> devopsengineerdan
+https://devopsengineerdan.github.io/  My blog name devopsengineerdan which is dev Repository/alexloannides blog -> ML Pipeline part 1 and 2
+https://github.com/devopsengineerDan/pyspark-ETL-project-and-airflow-Data-pipeline
+
+
+=====================================================================================================================================================================
+
+10 => ELECTRICAL, IOT[ELECTRONIC], COMPUTER
+
+👉 WIRING *******************************
+👉 ASSEMBLE DESKTOP SERVER [INSTALLATION, MAINTENANCE AND CUSTOMIZATION] *******************************
+👉 1ST PROJECT Python Script to Control my Lights using phue philips bulb -> https://www.youtube.com/watch?v=kSruoqDTYt0
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+👉 2ND PROJECT
+Low Level Learning - esp32 setup -> https://www.youtube.com/watch?v=dOVjb2wXI84
+Low Level Learning - esp32 wireless network connectivity and TCPIP connection -> https://www.youtube.com/watch?v=_dRrarmQiAM
+***Low Level Learning - IOT Kettle Heater Project via Wifi and TCPIP -> https://www.youtube.com/watch?v=8-JE3RdyEds
+
+👉 3RD PROJECT 
+***IOT HOME LIGHT SYSTEM -> https://github.com/devopsengineerDan/automating-home-lights-python
+Espressif Systems => Getting started with ESP-IDF  -> https://www.youtube.com/watch?v=J8zc8mMNKtc
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+👉 ADVANCE USER => Embedotronics Technologies => ESP-IDF tutorials -> https://www.youtube.com/watch?v=fD7B9LI45Rk&list=PLmiBQYp1gExu4n2svyvwGCMv0geIOTw0X
+Science Buddies => How to use a breadboard -> https://www.youtube.com/watch?v=6WReFkfrUIk
+LeftyMaker => How to use a breadboard -> https://www.youtube.com/watch?v=W6mixXsn-Vc
+--------------------------
+IOT 
+===> First Build
+Flush + Press Reset Button
+Build
+Run Program
+
+IOT 
+===> PUTTY
+#!/bin/bash
+sudo chmod 666 /dev/ttyUSB0
+
+putty
+--------------------------
+
+```
+
+
+
+```
+******************************************************         2ND PRIORITY        ******************************************************
+
 1) Youtube vids 
 2) 9 Vids + Project management  
 3)
@@ -10972,11 +11072,7 @@ https://github.com/devopsengineerDan/pyspark-ETL-project-and-airflow-Data-pipeli
 
 
 
-
-
-
-
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
