@@ -2895,7 +2895,205 @@ WINDOWS 10
 ```
 👉 UBUNTU STUDIO APPS
 
-sudo apt install ubuntustudio-controls ubuntustudio-installer ubuntustudio-desktop
+👉 ===> UBUNTU
+-> sudo apt install ubuntustudio-controls ubuntustudio-installer ubuntustudio-desktop
+-> sudo apt install <ALL PACKAGE LISTS BELOW>
+
+👉 ===> DEBIAN
+->  sudo apt install aconnectgui alsa-tools alsa-tools-gui audacity audacious ardour bitscope denemo timemachine gtick hydrogen jackd jack-tools jamin lilypond lilypond-data meterbridge muse vkeybd qjackctl puredata rosegarden timidity seq24 sooperlooper swami csound mixxx terminatorx zynaddsubfx fluidsynth bristol qsynth tk707 
+
+-> sudo apt install aeolus blop caps cmt hexter fil-plugins ladspa-sdk mcp-plugins omins swh-plugins tap-plugins dssi-example-plugins dssi-host-jack fluidsynth-dssi xsynth-dssi dssi-utils 
+
+-> sudo apt install ffmpeg stopmotion dvgrab 
+
+-> sudo apt install inkscape blender gimp gimp-data-extras gimp-plugin-registry scribus fontforge xsane  hugin synfigstudio 
+
+
+ubuntustudio-desktop
+
+DEPENDS: acpi acpi-support acpid alacarte alsa-base alsa-utils anacron apmd powersaved avahi-autoipd avahi-daemon bc ca-certificates cupsys cupsys-bsd cupsys-client cupsys-driver-gutenprint dc desktop-file-utils doc-base eog file-roller foomatic-db foomatic-db-engine foomatic-filters gcalctool gconf-editor gdebi gdm gedit genisoimage ghostscript-x gnome-about gnome-app-install gnome-applets gnome-control-center gnome-icon-theme gnome-media gnome-menus gnome-netstatus-applet gnome-nettool gnome-panel gnome-pilot-conduits gnome-power-manager gnome-session gnome-spell gnome-system-monitor gnome-system-tools gnome-terminal gnome-themes gnome-utils gnome-volume-manager gstreamer0.10-alsa gstreamer0.10-plugins-base-apps gstreamer0.10-pulseaudio gtk2-engines gtk2-engines-murrine gucharmap hal hotkey-setup hwtest-gtk language-selector lftp libgl1-mesa-glx libglut3 freeglut3 libgnome2-perl libgnomevfs2-bin libgnomevfs2-extra libpt-1.10.10-plugins-v4l libpt-1.10.10-plugins-v4l2 libsasl2-modules libxp6 metacity nautilus nautilus-cd-burner nautilus-sendto notification-daemon openprinting-ppds pnm2ppa powermanagement-interface pulseaudio pulseaudio-esound-compat readahead rss-glx screen scrollkeeper rarian-compat seahorse smbclient software-properties-gtk ssh-askpass-gnome synaptic system-config-printer-gnome tango-icon-theme tango-icon-theme-common ttf-bitstream-vera ttf-dejavu-core ttf-freefont ubuntustudio-default-settings ubuntustudio-look ubuntustudio-menu ubuntustudio-screensaver unzip update-notifier usplash usplash-theme-ubuntustudio x-ttcidfont-conf xkb-data xorg xscreensaver-data xscreensaver-gl xterm yelp zenity zip
+
+RECOMMENDS: apport-gtk bluez-cups bluez-utils bogofilter brasero bug-buddy cdparanoia compiz cups-pdf displayconfig-gtk dvd+rw-tools evince firefox firefox-gnome-support foo2zjs foomatic-db-hpijs fortune-mod gcc gnome-user-guide hplip im-switch jockey-gtk landscape-client laptop-detect libgl1-mesa-dri libnss-mdns linux-headers-rt make min12xxw nautilus-share onboard padevchooser paman paprefs pavucontrol pavumeter pidgin pidgin-otr powernowd powersaved pulseaudio-module-gconf pulseaudio module-hal pulseaudio-module-x11 pxljr scim scim-bridge-agent scim-bridge-client-gtk scim-gtk2-immodule scim-tables-additional splix totem totem-mozilla ttf-arabeyes ttf-arphic-uming ttf-indic-fonts-core ttf-kochi-gothic ttf-kochi-gothic-naga10 ttf-kochi-mincho ttf-kochi-mincho-naga10 ttf-lao ttf-malayalam-fonts ttf-thai-tlwg ttf-unfonts-core ubuntu-docs vino wodim wvdial xcursor-themes xdg-utils
+
+ubuntustudio-audio
+
+All applications deemed necessary to provide a working PC studio environment. This is the package most users of other derivatives will be interested in, so they don't get forced into a different desktop environment with a new theme and such.
+
+Package list:
+
+aconnectgui alsa-tools alsa-tools-gui audacity audacious audacious-plugins-extra ardour beast bitscope creox denemo timemachine gtick hydrogen jackbeat jackd jackeq jack-rack jack-tools jamin jdelay lilypond lilypond-data meterbridge muse patchage qamix vkeybd qjackctl puredata rosegarden timidity seq24 shaketracker sooperlooper swami csound tapiir freqtweak mixxx terminatorx zynaddsubfx fluidsynth bristol freebirth qsynth tk707
+
+RECOMMENDS: linux-rt ubuntustudio-controls
+
+Description:
+
+Basic infrastructure
+
+    alsa-tools - Console based ALSA utilities for specific hardware
+    alsa-tools-gui - GUI based ALSA utilities for specific hardware
+    qamix - Configurable mixer for ALSA 
+
+JACK and JACK Utilities
+
+    jackd - JACK Audio Connection Kit (server and example clients)
+    qjackctl - User interface for controlling the JACK sound server
+    bitscope - diagnosis tool for JACK audio software
+    jdelay - A small command line JACK app you can use to measure the latency of your sound card.
+    meterbridge - A collection of Audio meters for the JACK audio server
+    patchage - modular patch bay for Jack audio and Alsa Midi
+    jack-tools - various JACK tools: plumbing, play, udp, ctl, scope, clock 
+
+Sound editing and recording
+
+    audacity - Swiss army audio editor
+    timemachine - JACK audio recorder for spontaneous and conservatory use 
+
+Audio playback
+
+    audacious - Versatile lightweight audio player.
+    audacious-plugins-extra - Plugin pack for Audacious. 
+
+Digital Audio Workstation software
+
+    ardour - Digital audio workstation (graphical gtk interface)
+    beast - music synthesis and composition framework 
+
+Synthesizers
+
+    fluidsynth - Real-time MIDI software synthesizer
+    bristol - vintage synthesizer emulator
+    freebirth - Bass synthesizer/sample player/sequencer similar to Rebirth
+    qsynth - fluidsynth MIDI sound synthesiser front-end
+    zynaddsubfx - Realtime software synthesizer for Linux
+    csound - powerful and versatile sound synthesis software
+
+    swami - SoundFont editor 
+
+Sampling
+
+    sooperlooper - Looping Sampler LADSPA plugin 
+
+Sequencing
+
+    aconnectgui - graphical ALSA sequencer connection manager
+    rosegarden - music editor and MIDI/audio sequencer
+    hydrogen - Simple drum machine/step sequencer
+    seq24 - Real time MIDI sequencer
+    jackbeat - audio sequencer
+    muse - Qt-based midi/audio sequencer
+    tk707 - drum sequencer for a sound card or MIDI device
+    shaketracker - MIDI sequencer with tracker GUI 
+
+Effects and signal processing
+
+    jack-rack - LADSPA effects "rack" for JACK
+    tapiir - A tool for real time audio delay and feedback effects
+    freqtweak - Realtime audio frequency spectral manipulation
+    jamin - Audio mastering from a mixed down multitrack source with JACK
+    creox - real-time guitar effects
+    jackeq - routes and manipulates audio from/to multiple sources 
+
+DJ tools
+
+    terminatorx - A realtime audio synthesizer
+    mixxx - A digital DJ interface (for beat-mixing) 
+
+MIDI Utilities
+
+    timidity - Software sound renderer (MIDI sequencer, MOD player)
+    vkeybd - Virtual Keyboard program 
+
+Musical typesetting
+
+    denemo - A gtk+ frontend to GNU Lilypond
+
+    lilypond-data - LilyPond music typesetter (data files)
+    lilypond - A program for typesetting sheet music 
+
+Miscellaneous / uncategorized
+
+    gtick - Metronome application
+    puredata - realtime computer music and graphics system
+
+    fluid-soundfont-gm - This is a GM SoundFont, for use with any modern MIDI synthesiser: hardware (like the emu10k1 sound card), or software (like FluidSynth). 
+
+The categories here were more or less copied from JacobCreedon's division at http://help.ubuntu.com/community/UbuntuStudio/Audio
+
+ubuntustudio-audio-plugins
+
+An audio plug-ins package.
+
+Package list:
+
+aeolus blop caps cmt hexter fil-plugins ladspa-sdk mcp-plugins omins swh-plugins tap-plugins vcf dssi-example-plugins dssi-host-jack fluidsynth-dssi xsynth-dssi dssi-utils
+Description:
+
+    aeolus - Aeolus is a synthesized (i.e. not sampled) pipe organ emulator
+    blop - Bandlimited wavetable-based oscillator plugins for LADSPA hosts.
+    caps - A collection of refined LADSPA plugins.
+    cmt - (Computer Music Toolkit) A collection of LADSPA compatible plugins.
+    fil-plugins - Parametric equalizer LADSPA plugin.
+    hexter - Yamaha DX7 modeling DSSI plugin
+    ladspa-sdk - Sample tools for linux-audio-dev plugin architecture.
+    mcp-plugins - LADSPA plugins designed for Alsa Modular Synth.
+    omins - Collection of LADSPA plugins geared at modular synthesizers.
+    swh-plugins - Steve Harris's LADSPA plugins.
+    tap-plugins - Tom's Audio Processing LADSPA plugins.
+    vcf - Audio EQ biquad filter LADSPA plugins.
+    dssi-example-plugins - Example DSSI plugins.
+    dssi-host-jack - An example DSSI host.
+    fluidsynth-dssi - Soundfont player/synth for DSSI.
+    xsynth-dssi - A classic-analog style softsynth DSSI plugin.
+    dssi-utils - Command-line utilities for sending commands to DSSI plugins. 
+
+ubuntustudio-video
+
+Video editing apps.
+Package list:
+
+openmovieeditor ffmpeg ffmpeg2theora kino stopmotion dvgrab
+Description:
+
+    openmovieeditor - Video editor
+    ffmpeg - Multimedia player, server and encoder
+    ffmpeg2theora - Theora video encoder using ffmpeg
+    kino - A non-linear editor for Digital Video data
+    stopmotion - A program for creating stop motion animation.
+    dvgrab - Grab digital video data via IEEE1394 links 
+
+ubuntustudio-graphics
+
+A current, complete set of 2D/3D manipulation applications. ie: Inkscape, GIMP, Blender, and so on.
+
+Package list:
+
+inkscape blender gimp gimp-data-extras gimp-gap gimp-ufraw gimp-plugin-registry f-spot scribus fontforge gnome-raw-thumbnailer xsane wacom-tools hugin agave yafray synfigstudio
+
+Description:
+
+    inkscape - A vector-based drawing program.
+    blender - A very fast and versatile 3D suite for modeling, animation, rendering, post-production, interactive creation and playback.
+    gimp - A raster-based drawing program.
+    gimp-data-extras - This package contains extra brushes, palettes, and gradients for extra GIMPy artistic enjoyment.
+    gimp-gap - GAP is a collection of plug-ins to extend the GIMP with capabilities to edit and create animations and movies as sequences of single frames.
+
+    gimp-gnomevfs - This package includes a plugin for GIMP which will open URIs (e.g. ftp:, http:, smb:, and sftp:) using protocol handlers from GNOME-VFS.
+    gimp-ufraw - A plug-in to import RAW images.
+    gimp-plugin-registry - A collection of GIMP plugins.
+    f-spot - A personal photo management application.
+    scribus - A open source desktop page layout program.
+
+    fontforge - Font Editor for PS, TrueType and OpenType fonts.
+    gnome-raw-thumbnailer - a thumbnailer for GNOME that will make thumbnails for camera RAW files.
+    xsane - GTK+-based X11 frontend for SANE. (Scanner Access Now Easy)
+    wacom-tools - Software for you Wacom drawing pad.
+    hugin - An easy to use cross-platform GUI for Panorama Tools.
+    synfigstudio - A vector 2D based animation package (GUI)
+    agave - Colorscheme generator.
+    enblend - A tool for compositing images.
+    yafray - A modern, xml-speaking raytracing-based rendering system
+    nautilus-image-converter - nautilus extension to mass resize images 
+
 ```
 
 
@@ -3617,6 +3815,16 @@ systemctl status fstrim.timer
 
 
 ```
+👉 INSTALL BOOT-REPAIR ON DEBIAN
+
+sudo apt install -y wget;
+wget -O- https://sourceforge.net/projects/boot-repair/files/key.gpg | sudo tee /etc/apt/keyrings/boot-repair.gpg;
+echo 'deb [signed-by=/etc/apt/keyrings/boot-repair.gpg] https://ppa.launchpadcontent.net/yannubuntu/boot-repair/ubuntu noble main' | sudo tee /etc/apt/sources.list.d/boot-repair.list;
+sudo apt update && sudo apt install -y boot-repair
+```
+
+
+```
 👉 GRUB RESCUE ERROR FIX UBUNTU
 
 sudo update-grub2
@@ -3745,6 +3953,66 @@ lsb_release -a
 ```
 
 
+```
+👉 ADD USER AS SUDO USER
+
+===> SIMPLER
+Drop to root user -> su -l
+Add Existing user -> adduser <existinguser> sudo
+Add New user -> useradd <newuser> -m -G sudo
+
+===> PROFESSIONAL
+Step 1 — Logging Into Your Server
+
+SSH in to your server as the root user:
+
+    ssh root@your_server_ip_address
+
+Step 2 — Add New Sudo User to the System
+
+Use the adduser command to add a new user to your system:
+
+    adduser sammy
+
+Be sure to replace sammy with the username that you want to create. You will be prompted to create and verify a password for the user:
+
+Output
+Enter new UNIX password:
+Retype new UNIX password:
+passwd: password updated successfully
+
+Next, you’ll be asked to fill in some information about the new user. It is fine to accept the defaults and leave this information blank:
+
+Output
+Changing the user information for sammy
+Enter the new value, or press ENTER for the default
+
+   Full Name []:
+
+   Room Number []:
+
+   Work Phone []:
+
+   Home Phone []:
+
+   Other []:
+
+Is the information correct? [Y/n]
+
+Step 3 — Adding the User to the sudo Group
+
+Use the usermod command to add the user to the sudo group:
+
+    usermod -aG sudo sammy
+
+Again, be sure to replace sammy with the username you just added. By default on Ubuntu, all members of the sudo group have full sudo privileges.
+Step 4 — Testing sudo Access
+
+To test that the new sudo permissions are working, first use the su command to switch to the new user account:
+
+    su - sammy
+
+```
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
@@ -3758,7 +4026,7 @@ lsb_release -a
 # VIRTUALIZATION 
 
 ```
-👉 VIRTUALBOX INSTALLATION
+👉 OLD VIRTUALBOX INSTALLATION
 
 👉 NOT CONNECTING TO THE INTERNET -> sudo service libvirtd restart
 
@@ -3801,7 +4069,27 @@ Then reboot your system and after reboot run this command:
 
 sudo modprobe vboxdrv
 ```
-				
+
+
+```
+👉 NEW VIRTUALBOX INSTALLATION
+
+sudo apt install virtualbox
+OR
+Step 1: Install Supporting Software
+sudo apt install software-properties-common
+
+Step 2: Install GPG Key
+wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
+
+Step 3: Add VirtualBox Repository to Ubuntu
+echo "deb [arch=amd64] https://download.virtualbox.org/virtualbox/debian $(lsb_release -cs) contrib" | sudo tee /etc/apt/sources.list.d/virtualbox.list
+
+Step 4: Install the Latest Version of VirtualBox
+sudo apt update
+sudo apt install virtualbox-[version-number] ===> sudo apt install virtualbox-7.1
+```
+
 								
 ```				
 👉 QEMU/KEMU + VIRTUAL MACHINE MANAGER
@@ -6734,6 +7022,37 @@ Create a new Pull Request in GitHub.
 
 # PYTHON 
 
+
+```
+👉 INSTALL PYTHON2
+
+sudo apt install python2
+OR
+Step 1: Install Build Dependencies
+sudo apt update
+sudo apt install build-essential checkinstall
+sudo apt install libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev
+
+Step 2: Download Python 2 Source Code
+wget https://www.python.org/ftp/python/2.7.18/Python-2.7.18.tgz
+
+Step 3: Extracting and Compiling Python
+tar -xvf Python-2.7.18.tgz
+cd Python-2.7.18
+./configure --enable-optimizations
+make
+sudo make install
+
+Step 4: Confirm the Installation
+python2 --version
+------------------------------------------------------------------------------------------------------------------------------------------------
+Step 5: pip2 will be installed for Python 2.7.
+sudo apt-get install wget
+wget https://bootstrap.pypa.io/pip/2.7/get-pip.py
+sudo python2.7 get-pip.py
+
+```
+
 ```
 👉 PYTHON INSTALLATION
 
@@ -8500,7 +8819,122 @@ source $HOME/anaconda3/bin/activate
 conda list
 conda update conda
 conda deactivate
-```				
+```
+
+
+```
+
+👉👉👉  NEW
+	
+👉 INSTALL ANACONDA On Debian 12
+Anaconda is not available in the default package repositories on Debian 12. Follow the steps below to download the latest installation script and install Anaconda on your Debian server.
+
+Install all required dependency packages for Anaconda.
+
+console
+
+Copy
+$ sudo apt-get install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6 -y
+Visit the Anaconda repository, and download the latest installation script for Linux. For example, Anaconda3-2024.10-1-Linux-x86_64.sh.
+
+console
+
+
+
+
+
+
+
+===============> cd /tmp
+Copy
+$ wget -O anaconda.sh https://repo.anaconda.com/archive/Anaconda3-2024.10-1-Linux-x86_64.sh
+Test the integrity of the downloaded Anaconda installation script.
+
+console
+
+Copy
+$ shasum -a 256 anaconda.sh
+Verify that the generated hash value matches the installer's SHA256 value in the Anaconda repository similar to the one below.
+
+3ba0a298155c32fbfd80cbc238298560bf69a2df511783054adfc151b76d80d8
+Run the script using Bash to install Anaconda on Debian server.
+
+console
+
+Copy
+$ bash anaconda.sh
+Press Enter when prompted to start the installation and review the Anaconda license agreement.
+
+Welcome to Anaconda3 2024.10-1
+In order to continue the installation process, please review the license
+agreement.
+Please, press ENTER to continue
+>>>
+Press Space to review the Anaconda terms of service, and press Q to close the pager.
+
+Enter yes when prompted to accept the license terms and press Enter to install Anaconda to the default location in your user's home directory.
+
+Do you accept the license terms? [yes|no]
+>>> yes
+
+Anaconda3 will now be installed into this location:
+/home/linuxuser/anaconda3
+- Press ENTER to confirm the location
+- Press CTRL-C to abort the installation
+- Or specify a different location below
+
+[/home/linuxuser/anaconda3] >>>
+Enter yes and press Enter when prompted to update your shell profile and initialize Conda to activate it in every session.
+
+Do you wish to update your shell profile to automatically initialize conda?
+This will activate conda on startup and change the command prompt when activated.
+If you'd prefer that conda's base environment not be activated on startup,
+run the following command when conda is activated:
+
+conda config --set auto_activate_base false
+
+You can undo this by running `conda init --reverse $SHELL`? [yes|no]
+[no] >>> yes
+Your output should be similar to the one below when the installation is successful.
+
+.....................
+modified      /home/linuxuser/.bashrc
+
+==> For changes to take effect, close and re-open your current shell. <==
+
+Thank you for installing Anaconda3!
+Reload your shell configuration to apply the Anaconda changes.
+
+console
+
+Copy
+$ source ~/.bashrc
+Verify that your shell prompt changes to the default base Conda environment.
+
+console
+
+Copy
+(base) linuxuser@vultr~$
+View the installed Conda version.
+
+console
+
+Copy
+$ conda --version
+
+
+===============> 
+$ cd ~
+cd anaconda3/
+source $HOME/anaconda3/bin/activate
+conda list
+conda update conda
+conda deactivate
+
+===============> If you'd prefer that conda's base environment not be activated on startup, run the following command when conda is activated:
+
+conda config --set auto_activate_base false
+```   
 
 
 ```
@@ -10293,9 +10727,67 @@ sudo /usr/pgadmin4/bin/setup-web.sh
 
 http://127.0.0.1/pgadmin4
 
+```
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+👉 LATEST INSTALL PGADMIN4
 
+```
+sudo apt install pgadmin4
+OR
+👉===> OLD
+
+# Install the public key for the repository (if not done previously):
+sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
+
+# Create the repository configuration file:
+sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
+
+#
+# Install pgAdmin
+#
+
+# Install for both desktop and web modes:
+sudo apt install pgadmin4
+
+# Install for desktop mode only:
+sudo apt install pgadmin4-desktop
+
+# Install for web mode only: 
+sudo apt install pgadmin4-web 
+
+# Configure the webserver, if you installed pgadmin4-web:
+sudo /usr/pgadmin4/bin/setup-web.sh
+
+http://127.0.0.1/pgadmin4
+
+👉 ===> NEW
+
+# Setup the repository
+
+# Install the public key for the repository (if not done previously):
+curl -fsS https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo gpg --dearmor -o /usr/share/keyrings/packages-pgadmin-org.gpg
+
+# Create the repository configuration file:
+sudo sh -c 'echo "deb [signed-by=/usr/share/keyrings/packages-pgadmin-org.gpg] https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
+
+# Install pgAdmin
+
+# Install for both desktop and web modes:
+sudo apt install pgadmin4
+
+# Install for desktop mode only:
+sudo apt install pgadmin4-desktop
+
+# Install for web mode only: 
+sudo apt install pgadmin4-web 
+
+# Configure the webserver, if you installed pgadmin4-web:
+sudo /usr/pgadmin4/bin/setup-web.sh
+
+```
+
+
+```
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 (Browser URL + PORT)
 host name                       DB1
