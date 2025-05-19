@@ -2147,9 +2147,9 @@ kibe0853@gmail.com  ---> Qwerty@12345
 
 https://adili.eacc.go.ke/ LOGIN -> dancunmoruri@gmail.com -> CONARDMOMANYI@1daniel
 
-Microsoft skype: eagleoverflow@gmail.com ---> Qwerty@12345
+Microsoft skype: eagleoverflow@gmail.com ---> Qwerty@12345 ===> Microsoft Skype/Teams
 Microsoft Teams: conardmomanyi1234
-Microsoft acc: dancunmoruri@gmail.com  => Passwd:  Conardmomanyi123 => Security code for 0711444518 => Microsoft Teams, Skype, Microsoft OneDrive, Microsoft Office 365
+Microsoft acc: dancunmoruri@gmail.com  => Passwd:  Conardmomanyi123 => Security code for 0711444518 Recovery Email: dancunmanyinsait@gmail.com =====> Microsoft Teams, Skype, Microsoft OneDrive, Microsoft Office 365
 Microsoft acc: dancun.moruri@outlook.com  => Security code for dancunmoruri@gmail.com => Microsoft Teams, Skype, Microsoft OneDrive, Microsoft Office 365
 
 SAFARICOM
@@ -2322,21 +2322,15 @@ BUSINESS => ABSA ---> dancunmoruri@gmail.com   ---> HOME FAM NUMBER     PN ---> 
 
 OS:
 
-Windows Admin devopsengineer/d@97
-Windows Vbox Admin debian devopsYTRewq@987
-Windows Vbox Root debian  devopsYTREWQ@987
+Windows Admin devopsengineer/Dan@1997
 
 
-
-Ubuntu Admin devopsYtrewq@987
-Ubuntu Root  devopsYTREWQ@987
+Fedora/Debian/Ubuntu Admin devopsYtrewq@987
+Fedora/Debian/Ubuntu Root  devopsYTREWQ@987
 Ubuntu Vbox OSs && openSUSE Tumbleweed Hgfdsa Root HGFDSA
 Ubuntu Guest Magazine@987 
 Ubuntu 20.04 Kingdom@#987
 
-
-Fedora Admin devopsYtrewq@987
-Fedora Root  devopsYTREWQ@987
 
 -----------------------------------------------------------------
 
@@ -6928,6 +6922,16 @@ Since dependencies aren’t shared there’s no real need for isolated per-proje
 
 # C
 
+👉  WINDOWS 
+
+```
+Install Eclipse IDE
+Install C/C++ 12 Dependencies and Tools
+Install MINGW Compiler + Configure
+```
+
+-------------------------------
+
 👉 C DEVELOPMENT TOOLS INSTALLATION 
 
 ```
@@ -10475,6 +10479,7 @@ https://account.microsoft.com/devices/recoverykey
 Microsoft Acc: dancunmoruri@gmail.com
 KEY ID-> 8FFABF93
 RECOVERY KEY -> 330803-554235-096261-513920-197538-644919-496243-011418
+NEW + COMPATIBLITY of Windows on SSD on different Machines -> 357709-088253-555918-450186-666501-090057-140789-542520
 
 Microsoft Acc: dancun.moruri@outlook.com
 KEY ID-> 
@@ -10923,9 +10928,25 @@ sudo chmod 666 /dev/ttyUSB0
 
 putty
 --------------------------
-
 ```
 
+ # REFERENCES
+ 
+```
+PYTHON -> Python GITHUB
+       -> Python HARDCOPY
+       -> Python LINKS
+-------------------------------------------------------------
+RUST   -> Rust GITHUB
+       -> Rust HARDCOPY
+       -> Rust LINKS
+-------------------------------------------------------------
+C      -> C GITHUB
+       -> C LINKS
+-------------------------------------------------------------
+ELECTRICAL, IOT[ELECTRONIC], COMPUTER   -> Electricity GITHUB
+                                        -> Electricity LINKS
+```
 
 
 ```
