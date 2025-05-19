@@ -2141,7 +2141,6 @@ engineerDaniel@1234
 PSC ---> ID --->  dancunmoruri@gmail.com  --->  GODISFAITHFUL@9#amen
 npsc ---> GodIsFaithful@97
 
-kibe0853@gmail.com  ---> Qwerty@12345
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -2192,12 +2191,12 @@ whats-app:147369
 
 devopsengineerdan@gmail.com conardmomanyimoruri => dancunmoruri@gmail.com ==> 0706738969
 dancunmanyinsait@gmail.com CONARDMOMANYI@123456 => dancunmoruri@gmail.com ==> 0711444518
-dancunmoruri@gmail.com CONARDMOMANYI@654321 => eagleoverflow@gmail.com ==> 0706738969
+dancunmoruri@gmail.com CONARDMOMANYI@654321 => eagleoverflow@gmail.com ==> 0706738969  (GOOGLEPAY && SAFARICOM Ziidi, Mali, Akiba) 
+kibe0853@gmail.com Rothchild@#!7654321 => dancunmoruri@gmail.com ==> 0706738969  WHATSAPP BACKUP ===> CONARDMOMANYI@654321 
 
 BUSINESS ACCOUNT[Cybersecurity and AI]
 eagleoverflow@gmail.com SUNANDPLANETS => dancunmoruri@gmail.com ==> 0706738969
 quantumaiquant@gmail.com SUNANDPLANETS => dancunmoruri@gmail.com ==> 0706738969
-kibe0853@gmail.com Rothchild@#!7654321 => dancunmoruri@gmail.com ==> 0706738969 [GOOGLEPAY && SAFARICOM] WHATSAPP BACKUP—-> CONARDMOMANYI@654321
 	     
 github: dancunmanyinsait@gmail.com: conardmomanyimoruri
         dancummoruri@gmail.com: conardmomanyimoruri
@@ -2206,7 +2205,8 @@ discord: _softwareengineer_  dancummoruri@gmail.com: QWERTY@987
 
 slack : Sign in with dancunmanyinsait@gmail.com
 
-telegram: Daniel @daniel_softwareengineer +254711444518 ------> 1473
+telegram: TELEGRAM PWD ===> EngineerDaniel  
+          Daniel @daniel_softwareengineer +254711444518 ------> 1473
           David  @david_softwareengineer +254706738969  ------> 1473
 
 whatsapp: +254711444518 -------> 147369
@@ -2215,17 +2215,24 @@ whatsapp: +254711444518 -------> 147369
    
 blueskyapp: https://bsky.app/ @engineerdancun ALPHA@987
 
-Datalore -> dancunmoruri@gmail.com
+linode -> GITHUB
 Heroku -> GITHUB
+
 Ngrok -> GITHUB
 LocalXpose -> LocalXposevPYQ3NXx9T!deGY
 
-linode -> GITHUB
+Postman -> dancunmoruri@gmail.com
+
 SimpleAnalytics -> dancummoruri@gmail.com
+Calendly -> dancunmoruri@gmail.com
+Google AdSense -> dancunmoruri@gmail.com 
+
 Cloudflare -> dancummoruri@gmail.com : <span class="Button-label">1Paste, drop, or click to add files</span>
 
+Anaconda[Datalore Alternative] -> GITHUB  
+Datalore -> dancunmoruri@gmail.com
 
-Google AdSense -> dancunmoruri@gmail.com 
+CodeWars && LeetCode && AlgoExpert -> GITHUB  
 
 =============================================================================================================================================================================
 
@@ -4173,7 +4180,7 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 
 
 
-# CYBER SECURITY ===> CISM CERTIFICATION  www.isaca.org/cismapp -> In order to be CISM Certified
+# CYBERSECURITY ===> CISM CERTIFICATION  www.isaca.org/cismapp -> In order to be CISM Certified
 
 ```
 ✅ PROFESSIONAL CERTIFICATION
@@ -4227,7 +4234,7 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 ```
 1. Cyber Risk and Compliance Assessments
 
-2. Cyber Security Strategy
+2. Cybersecurity Strategy
 
 3. Cyber Risk Program Development
 
@@ -4412,7 +4419,7 @@ Limit user password + consider it as String[Input Validation]
 ```
 
 
-# CYBERSECURIT AND SOFTWARE ENGINEERING BEST PRACTICES
+# CYBERSECURITY AND SOFTWARE ENGINEERING BEST PRACTICES
 
 
 ```
@@ -4782,7 +4789,7 @@ Rasberry Pi => 🧨 sudo apt install netexec netscanner obsidian sippts sprayhou
 
 
 
-# CYBER SECURITY MATERIALS
+# CYBERSECURITY MATERIALS
 
 
 
@@ -4828,7 +4835,7 @@ Edureka Ethical Hacking 10hours -> https://www.youtube.com/watch?v=dz7Ntp7KQGA
 
 
 
-# OTHER CYBER SECURITY MATERIALS
+# OTHER CYBERSECURITY MATERIALS
 
 
 
@@ -7186,7 +7193,8 @@ Create a new project using Python 3.10, specifically ===> pipenv -- python3.10
 Create a new project using your default Python ===> pipenv shell
 
 
-Activate Already Existing Environment ===> source /home/engineer/.local/share/virtualenvs/take_break-master-6ddiBXce/bin/activate 
+Activate Already Existing Environment ===> source /home/engineer/.local/share/virtualenvs/take_break-master-6ddiBXce/bin/activate
+                                      OR ===> . /home/engineer/.local/share/virtualenvs/take_break-master-6ddiBXce/bin/activate
 Deactivate Already Existing Environment ===> deactivate
 
 
