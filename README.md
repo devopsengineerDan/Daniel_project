@@ -4,7 +4,7 @@
 🧨 LOAN 🧨
 👉 Lender MAIN Requirements
 1 Lender Policies and Guidelines
-2 Lender aAdvisor
+2 Lender Advisor
 3 Financial Advisor
 
 
@@ -48,9 +48,23 @@
 👉 🌀 RESEARCH ANALYST && OFFICER  🧨 INVESTMENT ANALYST && OFFICER [TRADER/ EXECUTION]
 👉 RISK MANAGER <=> EQUITY MANAGER ===> [Risk Little To Acquire More AND NOT Risk More To Acquire Little] && [Hold on is a Strategy]
 
+=================================================================================================================================================================================================
+
+👉 FINANCIAL ENGINEER
+
+1. Real-Time Portfolio Selection and Optimization: Enhance real-time portfolio optimization and capital allocation algorithms to maximize returns while managing risk.
+2. Predictive Momentum Model: Implement and integrate a predictive momentum model into existing market-making and taking strategies.
+3. Post-Trade Analysis: Develop and implement advanced post-trade analysis tools to evaluate strategy performance and identify areas for improvement.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Portfolio Selection and Optimization
+2. Position Sizing
+3. Market Timing
+4. Risk Management
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-                                                    🧨  INSURANCE
+                                                    🧨  INSURANCE [Government, Business, Health, Worker]
 🧨 CENTRAL BANKS -> CONTROLLER
 
 🧨 MARKET MAKERS -> Efficiency
