@@ -11052,7 +11052,7 @@ Netflix
 MPCH(Media Classic Home)
 
 
-
+👉 DESKTOP
 👉 OPENSOURCE                           👉 PROPRIETORY
 logseq/appflowy/anytype                 obsidian/Notion         -> Note taking
 mattermost                              slack/microsoftteams          
@@ -11061,6 +11061,16 @@ libreoffice                             adobe
 vscodium                                vscode
 nextcloud                               googleworksheet/ microsoft365
 thunderbird                             gmail/outlook
+
+👉 ANDROID
+👉 OPENSOURCE                           👉 PROPRIETORY
+F-Droid                                 Android Playstore
+Thunderbird                             Gmail
+Aegis Authenticator                     Google Authenticator
+VLC or MPC-HC 
+Signal Messenger                        Whatsapp Messenger 
+BinaryEye (barcode reader)
+Feeder (RSS reader)
 ```
 
 
@@ -11395,7 +11405,7 @@ WRAPPER -> GITHUB Links ***
 ------> Building a Restful API
 Django Github API => Consuming a Restful API
 Flask News API => Consuming a Restful API
-
+SendyAPI Wrapper => Consuming a Restful API + Building an Restful API
 
 
 Patrick Loeber GITHUB (Django, FastAPI, Flask)
