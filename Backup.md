@@ -3814,6 +3814,44 @@ sudo apt update && sudo apt upgrade
 
 
 ```
+👉 CLEARING UNWANTED FILES ON LINUX
+
+$ sudo rm-rf /var/lib/cache/*
+$ sudo rm-rf /var/lib/tmp/*
+$ sudo rm-rf /var/lib/logs/*
+$ sudo rm-rf /var/lib/dpkg/*
+$ sudo rm-rf /tmp/*
+
+$ sudo truncate -s 0 /var/log/syslog
+$ sudo truncate -s 0 /var/log/kern.log
+$ sudo truncate -s 0 /var
+
+
+
+👉 FIX INIT ERROR
+
+1ST
+$ mount /dev/sda1 /mnt
+$ chroot /mnt
+$ sudo apt-get install init
+$ sudo update-initramfs -u
+reboot
+2ND
+-> Check linux generic headers
+-> Rebuild the initr
+In REDHAT DISTRIBUTIONS 
+$ cd /boot 
+$ ls /lib/modules
+$ mkinitrd
+In DEBIAN DISTRIBUTIONS
+$ cd /boot 
+$ ls /lib/modules
+3.11.0-12generic
+$ update-initramfs -c -k 3.11.0-12generic 
+```
+
+
+```
 👉 MAINTENANCE OF SSD
 
 sudo systemctl enable fstrim.timer
