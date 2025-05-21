@@ -3623,6 +3623,7 @@ ping 192.168.92.5
     Enter the IP address, Subnet mask, Default gateway, and DNS server.
     Click OK.
     Your computer displays a static IP address.
+
 2)Turn off firewall if pentesting
 
 
@@ -5774,10 +5775,15 @@ $ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 $ sudo apt install ./google-chrome-stable_current_amd64.deb
 $ sudo apt install google-chrome-stable
 
+Uninstall: $ sudo apt install google-chrome-stable
+
+
 INSTALL WARP DEBIAN DISTRIBUTION
 $ cd <package.deb> Directory/
 $ chmod +x <package.deb>
 $ sudo dpkg -i <package.deb>
+
+Uninstall: $ sudo dpkg -r warp-terminal
 ```
 
 
