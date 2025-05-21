@@ -1355,7 +1355,6 @@ Boolean Algebra -> https://www.youtube.com/watch?v=EPJf4owqwdA&list=PLTd6ceoshpr
 ```
 👉 ANALOGUE ELECTRONICS GUIDE => Electronics Images
 
-
 MIT CLASSICAL MECHANICS/PHYSICS -> https://www.youtube.com/watch?v=nvjwr9PTBP8&list=PLaLOVNqqD-2HUv0qoYzSj0SBOIO_pLtW4
 MIT STATISTICAL MECHANICS -> https://www.youtube.com/watch?v=4RX_lpoGRBg&list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg
 MIT ENGINEERING DYNAMICS -> https://www.youtube.com/playlist?list=PLUl4u3cNGP62esZEwffjMAsEMW_YArxYC
@@ -2429,8 +2428,7 @@ STOCK EXCHANGE
 🌀 Howard Marks
 🌀 Buffet -> Berkshire Hathawa
 
-FOREX EXCHANGE                                                                                                                  
-                                                   		   
+FOREX EXCHANGE                                                                                                                                                                     		   
 🌀 Jim Simons -> Medallion Fund
 🌀 Alex Gerko -> XTX
 
@@ -2526,11 +2524,11 @@ BROKER
 🧨🧨🧨 DOMAIN Security 
 PHYSICAL Security
 NETWORK Security
-PERIMETER  Security
-ENDPOINT  Security
-APPLICATION  Security
+PERIMETER Security
+ENDPOINT Security
+APPLICATION Security
 DATA Security
-USER Education  Security
+USER Education Security
 
 👉 DOMAIN HOSTING
 👉 WEB HOSTING
@@ -3145,7 +3143,8 @@ GNOME EXTENSIONS
 -> Open weather
 -> dash-to-dock Floating dock
 
--------------------------------------------------------------------------------------------------------									
+-------------------------------------------------------------------------------------------------------
+								
 LINUX PRODUCTIVITY APPS A MUST INSTALLATION    https://www.makeuseof.com/must-have-applications-for-linux-users/
 🌀 Also check WINDOWS SECTION
 									
@@ -5771,9 +5770,14 @@ Then check if there is java, by running: (If it returns nothing java dependencie
 
 ```
 👉 GOOGLE-CHROME INSTALLATION ON DEBIAN DISTRIBUTION
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-sudo apt install ./google-chrome-stable_current_amd64.deb
-sudo apt install google-chrome-stable
+$ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+$ sudo apt install ./google-chrome-stable_current_amd64.deb
+$ sudo apt install google-chrome-stable
+
+INSTALL WARP DEBIAN DISTRIBUTION
+$ cd <package.deb> Directory/
+$ chmod +x <package.deb>
+$ sudo dpkg -i <package.deb>
 ```
 
 
