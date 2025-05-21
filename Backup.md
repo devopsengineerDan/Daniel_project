@@ -668,7 +668,7 @@ David ===> TRANSPORT
 Dawn Labs <---> Samuel && Dominic ===> TECHNOLOGY
 Daniel ===> GOLF ACADEMIES
 
-Farming + Lands => Quant Group                                                             
+Farming + Lands => Light Group                                                             
 ```                                                                                                    
                                                                                           
    
@@ -3688,6 +3688,13 @@ nameserver 8.8.4.4
 # COMPUTER SYSTEM
 
 ```
+👉  A MUST RUN COMMANDS
+
+$ redshift -O 3000K -r -P
+$ sudo systemctl status fstrim.timer
+```
+
+```
 🧨🧨🧨 BIOS 🧨🧨🧨
 
 1st===> Long press Power Button for 1 minute to kill voltage in the mother-board semiconductors. Then start machine.
@@ -3816,6 +3823,17 @@ sudo apt update && sudo apt upgrade
 ```
 👉 CLEARING UNWANTED FILES ON LINUX
 
+$ sudo systemctl status fstrim.timer
+
+REMOVE PROJECT PACKAGE ENVIRONMENTS
+
+1. Remove Python project virtualenv (inferred from current directory):
+   $ pipenv --rm
+2. Remove Conda environments e.g Python environments with the Procedure above.
+3. Rmove Entirely Anaconda with conda dependencies and installed packages. 
+
+
+
 $ sudo rm-rf /var/lib/cache/*
 $ sudo rm-rf /var/lib/tmp/*
 $ sudo rm-rf /var/lib/logs/*
@@ -3828,6 +3846,7 @@ $ sudo truncate -s 0 /var
 
 
 
+------------------------------------------------------------------------------------------------------------------------
 👉 FIX INIT ERROR
 
 1ST
