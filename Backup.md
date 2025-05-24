@@ -1116,16 +1116,13 @@ REMEMBER[REPETITIVE] => REGURGITATE
 🧨 Financial Engineering Course -> https://www.youtube.com/watch?v=oX7iyvZsAak&list=PL6zzGYGhbWrMpjEKDtnrHWyIj-oVLKCYD
 ```
 
-# COMPUTER SCIENCE => SOFTWARE ENGINEERING 
-
-1. EDUREKA
-2. free code camp
-3. LINKS
+# NETWORK ENGINEERING
 
 ```
-👉 NETWORK ENGINEERING
 👉 IT k Funde YouTube Channel
 Subnetting -> https://www.youtube.com/watch?v=qulRjRFavJI&t=266s
+GNS3 -> https://www.youtube.com/watch?v=AuokrRQVTEw
+Python Network Programming -> https://www.youtube.com/watch?v=-1Z6ygHO--8&list=PLhfrWIlLOoKPn7T9FtvbOWX8GxgsFFNwn
 ```
 
 
@@ -1136,6 +1133,12 @@ MICROTIK ROUTER CONFIGURATION GUIDE
 👉 MICROTIK FUNDAMENTALS -> https://www.youtube.com/watch?v=76nK1LXyPMA&list=PLCvN_Pl1Blxh2ejJCGI4T-xzL3VrYtsKS
 👉 Step by Step Configure Mikrotik Router as a switch -> GOOGLE DRIVE
 ```
+
+# COMPUTER SCIENCE => SOFTWARE ENGINEERING 
+
+1. EDUREKA
+2. free code camp
+3. LINKS
 
 
 ```
@@ -2415,39 +2418,7 @@ NORMAL BUSINESS TRANSACTIONS
 ```
 
 
-```
-👉 TRADING RESOURCES
 
-=====> PSYCHOLOGIST 🌀 Dr. Steven Burger
-=====> 🧨🧨🧨🧨🧨🧨 FinCrime Agent
-
-🌀 David, BULL[When You See It Swing The Bat Hard]
-🌀 Daniel
---------------------------------------------
-🌀 Kevin
-🌀 Photon Trading
-
-🌀 SMB Capital
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-STOCK EXCHANGE   
-🌀 Howard Marks
-🌀 Buffet -> Berkshire Hathawa
-
-FOREX EXCHANGE                                                                                                                                                                     		   
-🌀 Jim Simons -> Medallion Fund
-🌀 Alex Gerko -> XTX
-
-                                                                     
-🧨 Quant Researcher, Quant Engineer, Quant Trader, Quant Portfolio Manager
-🧨🧨🧨  Quant Engineer - LechGrzelak -> https://lechgrzelak.com/
-
-
-🌀 Quant - Korean Yuppie -> https://www.youtube.com/watch?v=kFiiMymTtO0
-🌀 Quant Books - QuantPy -> https://www.youtube.com/watch?v=ZSavDAaKy50
-🌀 Quant Resources - Coding Jesus -> https://www.youtube.com/watch?v=cXNL4JKBL6w
-```
 
 ```
 👉 BEST PRACTICES
@@ -5575,7 +5546,7 @@ https://lnkd.in/gc5p5Jss
 
 
 
-# SOFTWARE ENGINEERING (QUANTUM AI, QUANTUM MECHANICS ,AI && DIGITAL COMPUTING) : (ANALOGUE ELECTRONICS AND MECHANICS)
+# SOFTWARE ENGINEERING (QUANTUM AI, QUANTUM MECHANICS ,AI && DIGITAL COMPUTING) : (ANALOGUE && DIGITAL ELECTRONICS AND MECHANICS)
 
 
 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨 CONFIGURATIONS 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
