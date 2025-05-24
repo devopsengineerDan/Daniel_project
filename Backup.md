@@ -1123,6 +1123,13 @@ REMEMBER[REPETITIVE] => REGURGITATE
 3. LINKS
 
 ```
+👉 NETWORK ENGINEERING
+👉 IT k Funde YouTube Channel
+Subnetting -> https://www.youtube.com/watch?v=qulRjRFavJI&t=266s
+```
+
+
+```
 MICROTIK ROUTER CONFIGURATION GUIDE
 👉 MICROTIK ZERO TO HERO -> https://www.youtube.com/watch?v=Gf-iCjh2Bwg&list=PLlEVCBdM7ELM3S7Ew3HtbaX6ZUB_Pfihh
 
