@@ -1,6 +1,41 @@
 # FINANCIAL ENGINEERING
 
 ```
+👉 TRADING RESOURCES
+
+=====> PSYCHOLOGIST 🌀 Dr. Steven Burger
+=====> 🧨🧨🧨🧨🧨🧨 FinCrime Agent
+
+🌀 David, BULL[When You See It Swing The Bat Hard]
+🌀 Daniel
+--------------------------------------------
+🌀 Kevin
+🌀 Photon Trading
+
+🌀 SMB Capital
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+STOCK EXCHANGE   
+🌀 Howard Marks
+🌀 Buffet -> Berkshire Hathawa
+
+FOREX EXCHANGE                                                                                                                                                                     		   
+🌀 Jim Simons -> Medallion Fund
+🌀 Alex Gerko -> XTX
+
+                                                                     
+🧨 Quant Researcher, Quant Engineer, Quant Trader, Quant Portfolio Manager
+🧨🧨🧨  Quant Engineer - LechGrzelak -> https://lechgrzelak.com/
+
+
+🌀 Quant - Korean Yuppie -> https://www.youtube.com/watch?v=kFiiMymTtO0
+🌀 Quant Books - QuantPy -> https://www.youtube.com/watch?v=ZSavDAaKy50
+🌀 Quant Resources - Coding Jesus -> https://www.youtube.com/watch?v=cXNL4JKBL6w
+```
+
+
+```
 🧨 LOAN 🧨
 👉 Lender MAIN Requirements
 1 Lender Policies and Guidelines
