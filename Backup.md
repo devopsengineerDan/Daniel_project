@@ -1178,6 +1178,18 @@ Big O Part 7 – Space Complexity versus Time Complexity -> https://www.youtube.
 
 
 ```
+👉 AI
+
+👉 Machine Learning 
+Overview EDUREKA -> https://www.youtube.com/watch?v=GwIo3gDZCVQ
+Detailed -> https://www.youtube.com/watch?v=jg5paDArl3E&list=PL7yh-TELLS1EZGz1-VDltwdwZvPV-jliQ
+👉 Deep Learning
+Overview EDUREKA -> https://www.youtube.com/watch?v=DooxDIRAkPA
+Detailed ->  https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
+```
+
+
+```
 👉 DISTRIBUTED SYSTEM GUIDE
 
 Distributed  Systems(Overview) -> https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB
