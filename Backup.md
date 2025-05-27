@@ -1119,10 +1119,13 @@ REMEMBER[REPETITIVE] => REGURGITATE
 # NETWORK ENGINEERING
 
 ```
-👉 IT k Funde YouTube Channel
+👉 IT k Funde YouTube Channel ==> NETWORK FUNDAMENTALS
 Subnetting -> https://www.youtube.com/watch?v=qulRjRFavJI&t=266s
 GNS3 -> https://www.youtube.com/watch?v=AuokrRQVTEw
 Python Network Programming -> https://www.youtube.com/watch?v=-1Z6ygHO--8&list=PLhfrWIlLOoKPn7T9FtvbOWX8GxgsFFNwn
+🧨 NETWORK SSH ===> Google Drive
+🧨 NETWORK PORT FORWARDING ===> Google Drive
+🧨 NETWORK IMAGES ===> Google Drive 
 ```
 
 
@@ -1180,10 +1183,12 @@ Big O Part 7 – Space Complexity versus Time Complexity -> https://www.youtube.
 ```
 👉 AI
 
-👉 Machine Learning 
+👉 Machine Learning
+🧨 ML IMAGES ===> Google Drive
 Overview EDUREKA -> https://www.youtube.com/watch?v=GwIo3gDZCVQ
 Detailed -> https://www.youtube.com/watch?v=jg5paDArl3E&list=PL7yh-TELLS1EZGz1-VDltwdwZvPV-jliQ
 👉 Deep Learning
+🧨 ML IMAGES ===> Google Drive
 Overview EDUREKA -> https://www.youtube.com/watch?v=DooxDIRAkPA
 Detailed ->  https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
 ```
@@ -1233,6 +1238,8 @@ Vim Tutorial -> https://www.youtube.com/watch?v=jXud3JybsG4&list=PL7yh-TELLS1Eev
 ```
 👉 PYTHON GUIDE => Python Official Documentation
 👉 PTHON CODING STYLE (PEP8) => PEP8 Official Documentation
+=> 🧨 PYTHON IMAGES Github
+=> 🧨 PYTHON HARDCOPY
 
 1. Fundamental Concepts of Object Oriented Programming -> https://www.youtube.com/watch?v=m_MQYyJpIjg
    Python OOP Fundamentals -> https://www.youtube.com/watch?v=Ej_02ICOIgs
@@ -1273,7 +1280,8 @@ Vim Tutorial -> https://www.youtube.com/watch?v=jXud3JybsG4&list=PL7yh-TELLS1Eev
 ```
 👉 RUST GUIDE => Rust Official Documentation
 
-=> 🧨 Rust IMAGES
+=> 🧨 Rust IMAGES Github
+=> 🧨 RUST HARDCOPY
 => 🧨 RUST CRASH COURSE https://www.youtube.com/watch?v=lzKeecy4OmQ
 1. Rust Bites -> https://www.youtube.com/watch?v=gvHPRaZHgD4&list=PLai5B987bZ9C0xK1tZ2wsudOo2zjrD9xX
 
@@ -1317,7 +1325,7 @@ Advantages of cargo
 👉 C GUIDE => C Official Documentation
 
 => C KNOWLEDGE FOR COMPUTER PROGRAMMING FUNDAMENTALS
-=> 🧨 C IMAGES
+=> 🧨 C IMAGES Github
 
 C freecode camp -> https://www.youtube.com/watch?v=KJgsSFOSQv0
 Pointers -> https://www.youtube.com/watch?v=Hb-bmAmbwvo&list=PL7yh-TELLS1GafZOVHhCPaCQUt8HrfCZE&index=9
