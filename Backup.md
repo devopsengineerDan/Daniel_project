@@ -1123,7 +1123,7 @@ REMEMBER[REPETITIVE] => REGURGITATE
 Subnetting -> https://www.youtube.com/watch?v=qulRjRFavJI&t=266s
 GNS3 -> https://www.youtube.com/watch?v=AuokrRQVTEw
 Python Network Programming -> https://www.youtube.com/watch?v=-1Z6ygHO--8&list=PLhfrWIlLOoKPn7T9FtvbOWX8GxgsFFNwn
-🧨 NETWORK SSH ===> Google Drive
+🧨 NETWORK SSH CONFIGURATION ===> Google Drive
 🧨 NETWORK PORT FORWARDING ===> Google Drive
 🧨 NETWORK IMAGES ===> Google Drive 
 ```
@@ -12037,7 +12037,12 @@ FAMILY
 
 
 
+# MEDICINE
 
+```
+Flucona zole 150mg 3/7
+Doxycline capsules 5/7
+```
 
 
 
