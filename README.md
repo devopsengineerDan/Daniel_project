@@ -1,6 +1,12 @@
 # FINANCIAL ENGINEERING
 
 ```
+KNOW   | 97% (STRATEGY + TACTIC)
+RANGES | HEDGING + PREVAILING TREND
+```
+
+
+```
 🧨 LOAN 🧨
 👉 Lender MAIN Requirements
 1 Lender Policies and Guidelines
