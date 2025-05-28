@@ -1,6 +1,7 @@
 # FINANCIAL ENGINEERING
 
 ```
+*************** SECURITY AWARENESS *******************
 KNOW   | 97% (STRATEGY + TACTIC)
 RANGES | HEDGING + PREVAILING TREND
 ```
