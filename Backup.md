@@ -105,9 +105,10 @@ Connect the dots              Discipline                    Adaptive within (Sco
 Competitive                   Hard work(Realistic)          Realistic(High performance and to Completion) <===> Patience
 
 
-      DANGER
-LOUD
-      FAST
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+      🧨 DANGER ==> NARCISSIST
+🧨 LOUD ===> PSYCHOPATH
+      🧨 FAST ===> MACHIAVELLIAN
 
 
               🧨 Governance && Compliance
@@ -118,6 +119,26 @@ LOUD
     >CALM (Emotional Intelligence && Stability)
               🧨 Enforcement && Quality Assurance
               >UNREADABLE
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+🧨🧨🧨🧨🧨🧨🧨🧨🧨 DUALITY OF LIFE 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
+       God                                  Ambition
+Money                            Money
+       Blood                                Power & Patience
+-----------------------------------------------------------------------
+      Double-speak                          Knowledge & Clarity
+      Isolation                             Wisdom & Clarity
+Chaos
+Isolation                        Image & Clarity
+      Destruction                Beauty & Clarity
+      Isolation
+                                             Reflection & Clarity
+                                             Resistance & Clarity
+-----------------------------------------------------------------------
+      Ego                                    Knowledge & Wisdom 
+Control                           Listen & Understand 
+      Chaos & Destruction                    Solution to Problem 
 
 ================================================================================================================================================
 
@@ -167,9 +188,7 @@ BELONGING-Leader, SURVIVAL-Class, STATUS-Tribe
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 Question?, Adapt-Review-Innovate, Logic
 Lie, Child, Carnival
-Attention, Dream, Carnival
-=====================================================================================================================================================================================================================================================
-                                                                
+Attention, Dream, Carnival                                       
 ```
 
 
