@@ -102,14 +102,29 @@ USA                               AFRICA                          [BE HUMBLE & K
 Security                      Security                      Security
 Know                          Consistency                   Accurate(Simple, Prioritise, Levels - High to Low)            
 Connect the dots              Discipline                    Adaptive within (Scope and Continuity of Process)
-Competitive                   Hard work(Realistic)          Realistic(High performance and to Completion)
+Competitive                   Hard work(Realistic)          Realistic(High performance and to Completion) <===> Patience
 
 
+      DANGER
+LOUD
+      FAST
+
+
+              🧨 Governance && Compliance
+              >AHEAD OF TIME
+              >COMPOSED
+              >CALCULATIVE
+    🧨 Monitor && Regulate
+    >CALM (Emotional Intelligence && Stability)
+              🧨 Enforcement && Quality Assurance
+              >UNREADABLE
+
+================================================================================================================================================
 
 1 CYBERSECURITY Engineering                              DEFENSE  | ATTACK
 2 FINANCIAL Engineering                                  DEFENSE  | ATTACK
 3 TELECOMMUNICATION & COMPUTER ELECTRONICS SYSTEMS Engineering          DEFENSE  | ATTACK
-==================================================================================================================
+*******************************************************************************************
                                                           4 COMMUNICATION
                                                           5 DRIVING
                      7 PROPERTIES                                    
@@ -144,7 +159,7 @@ CHESS                           GOLF
                                                                   👉 WISDOM,BEAUTY,RESISTANCE [Why,How,What] | Do Not Chase, Rush, Force
                                                                   🧨 Liberty [LIVE], Equality [LOVE/LAUGH][CHANGE/FORGIVE], Equity [EXIST] 
                                                                   [GROUND/PHYSICAL] DEATH
-------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✅
 Keep the Faith, Fight the Good Fight, Finish the Race
 Lack of Knowledge+Indecision, [Disease, Hunger+Poverty] => EXIST
@@ -152,7 +167,9 @@ BELONGING-Leader, SURVIVAL-Class, STATUS-Tribe
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 Question?, Adapt-Review-Innovate, Logic
 Lie, Child, Carnival
-Attention, Dream, Carnival                                                                   
+Attention, Dream, Carnival
+=====================================================================================================================================================================================================================================================
+                                                                
 ```
 
 
@@ -12077,6 +12094,14 @@ FAMILY
 ```
 Flucona zole 150mg 3/7
 Doxycline capsules 5/7
+```
+
+
+```
+Protection ==> AVOID std and hv
+Fingr && Spm IN
+
+===> NATURAL MEDICINE
 ```
 
 
