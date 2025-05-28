@@ -93,6 +93,41 @@ Master's  
 # LIFE 
 
 ```
+[AWARENESS]                       [AWARENESS]                     [AWARENESS]
+ISRAEL/UK  ===> JAHBULON          CHINA  ===> LION & SHEEP        [BE THE ANIMALS]
+EUROPE     ===> GOAT              RUSSIA ===> SHEEP               [BE THE ROBOT] 
+USA                               AFRICA                          [BE HUMBLE & KIND] 
+.................................................................................................................
+1 FATHER                      1 DAVID                       1 DANIEL
+Security                      Security                      Security
+Know                          Consistency                   Accurate(Simple, Prioritise, Levels - High to Low)            
+Connect the dots              Discipline                    Adaptive within (Scope and Continuity of Process)
+Competitive                   Hard work(Realistic)          Realistic(High performance and to Completion)
+
+
+
+1 CYBERSECURITY Engineering                              DEFENSE  | ATTACK
+2 FINANCIAL Engineering                                  DEFENSE  | ATTACK
+3 TELECOMMUNICATION & COMPUTER ELECTRONICS SYSTEMS Engineering          DEFENSE  | ATTACK
+==================================================================================================================
+                                                          4 COMMUNICATION
+                                                          5 DRIVING
+                     7 PROPERTIES                                    
+                     6 LAND  
+                     8 MINERALS  
+                     
+  
+                     
+AMUNITION
+GUITAR
+CHESS                           GOLF
+                    POOL&SWIMMING  
+                                RUNNING,BASKETBALL,FOOTBALL,RUGBY                                                          
+                     
+```
+
+
+```
                                                                                                                     ✅ 3
                                                                                                                SILENCE [IN KNOWLEDGE AND WISDOM OF THE TWO FLAGS OF GRACE && REVENGE]
                                                                                                                SKILL [CONSISTENCY, DISCIPLINE, HARDWORK Then PATIENCE And REST]
