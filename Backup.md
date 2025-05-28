@@ -123,22 +123,28 @@ Competitive                   Hard work(Realistic)          Realistic(High perfo
 
 
 🧨🧨🧨🧨🧨🧨🧨🧨🧨 DUALITY OF LIFE 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
-       God                                  Ambition
-Money                            Money
-       Blood                                Power & Patience
------------------------------------------------------------------------
-      Double-speak                          Knowledge & Clarity
-      Isolation                             Wisdom & Clarity
+       God                                                  Ambition
+Money                                       Money
+       Blood                                                Power & Patience
+-----------------------------------------------------------------------------------
+      Double-speak                                          Knowledge & Clarity
+      Isolation                                             Wisdom & Clarity
 Chaos
-Isolation                        Image & Clarity
-      Destruction                Beauty & Clarity
+Isolation                                  Image & Clarity
+      Destruction                          Beauty & Clarity
       Isolation
-                                             Reflection & Clarity
-                                             Resistance & Clarity
------------------------------------------------------------------------
-      Ego                                    Knowledge & Wisdom 
-Control                           Listen & Understand 
-      Chaos & Destruction                    Solution to Problem 
+                                                            Reflection & Clarity
+                                                            Resistance & Clarity
+-----------------------------------------------------------------------------------
+      Ego                                                   Knowledge & Wisdom 
+Control                                     Listen & Understand 
+      Chaos & Destruction                                   Solution to Problem
+-----------------------------------------------------------------------------------
+     Direction ===>
+     Darkness to Light                      Dual Nature | Silent Control
+            Belonging                                       Time | Perception 
+Security                                    Manipulation | Flexibility
+            Status                                          Kindness | Realism
 
 ================================================================================================================================================
 
@@ -159,7 +165,6 @@ GUITAR
 CHESS                           GOLF
                     POOL&SWIMMING  
                                 RUNNING,BASKETBALL,FOOTBALL,RUGBY                                                          
-                     
 ```
 
 
