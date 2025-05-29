@@ -1470,6 +1470,8 @@ Benefits
     Flexible work arrangements
 
 
+# MILITARY INDUSTRIAL COMPLEX
+
 ```
 DEFENSE INDUSTRY ===> https://lockheedmartin.com/
 CYBERSECURITY INDUSTRY --- RESEARCH ===> https://www.openanalysis.net/#oalabs
