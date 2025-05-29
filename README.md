@@ -1468,3 +1468,18 @@ Benefits
     Collaborative environment with top-tier professionals
     Continuous learning and development opportunities
     Flexible work arrangements
+
+
+```
+DEFENSE INDUSTRY ===> https://lockheedmartin.com/
+CYBERSECURITY INDUSTRY --- RESEARCH ===> https://www.openanalysis.net/#oalabs
+                       --- PRODUCTION ===> https://cure53.de/     
+GENERAL-PURPOSE INDUSTRY ===> https://palantir.com
+--------------------------------------------------------------------------------
+CENTRAL BANK ===> FEDERAL BANK
+GENERAL-PURPOSE BANK ===> ROTHCHILD BANKS
+ -------------------------------------------------------------------------------
+INSURANCE ===> BLACKSTONE
+BROKERAGE INDUSTRY ===> PEPPERSTONE
+HEDGE-FUND INDUSTRY ===> K-BIT(Cryptocurrency), HENRIOT(Currency)                    
+ ``` 
