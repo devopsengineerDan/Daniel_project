@@ -93,10 +93,10 @@ Master's  
 # LIFE 
 
 ```
-[AWARENESS]                       [AWARENESS]                     [AWARENESS]
-ISRAEL/UK  ===> JAHBULON          CHINA  ===> LION & SHEEP        [BE THE ANIMALS]
-EUROPE     ===> GOAT              RUSSIA ===> SHEEP               [BE THE ROBOT] 
-USA                               AFRICA                          [BE HUMBLE & KIND] 
+[AWARENESS]                     [AWARENESS]                                   [AWARENESS]  
+CHINA  ===> LION & SHEEP        [BE THE ROBOT]                                ISRAEL/UK  ===> JAHBULON 
+RUSSIA ===> SHEEP               [BE THE ANIMALS]                              EUROPE     ===> GOAT 
+AFRICA                          [BE HUMBLE & KIND] RAYMOND                    USA                
 .................................................................................................................
 1 FATHER                      1 DAVID                       1 DANIEL
 Security                      Security                      Security
