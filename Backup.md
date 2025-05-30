@@ -2713,79 +2713,6 @@ lat=31.78
 lon=35.21
 ```
 
-																		
-```
----------------------- GNOME INSTALLATION ---------------------
-👉 VANILLA GNOME BROKEN DEPENDECIES
-
-$ sudo apt install vanilla-gnome-desktop
-
-This worked successfully and I was able to log into GNOME 40.4. But I got a random dpkg error, as follows:
-
-Setting up vanilla-gnome-default-settings (20.04.1) ...
-update-alternatives: error: no alternatives for gdm3-theme.gresource
-dpkg: error processing package vanilla-gnome-default-settings (--configure):
- installed vanilla-gnome-default-settings package post-installation script subprocess returned error exit status 2
-dpkg: dependency problems prevent configuration of vanilla-gnome-desktop:
- vanilla-gnome-desktop depends on vanilla-gnome-default-settings; however:
-  Package vanilla-gnome-default-settings is not configured yet.
-
-dpkg: error processing package vanilla-gnome-desktop (--configure):
- dependency problems - leaving unconfigured
-No apport report written because the error message indicates its a followup error from a previous failure.
-                                                                                                          Errors were encountered while processing:
- vanilla-gnome-default-settings
- vanilla-gnome-desktop
-E: Sub-process /usr/bin/dpkg returned an error code (1)
-
-***SOLUTION***
-sudo sed -i "s/gdm3-theme.gresource/gdm-theme.gresource/" /var/lib/dpkg/info/vanilla-gnome-default-settings.postinst && sudo apt -f install
-
-sudo apt install vanilla-gnome-desktop
-sudo apt install gnome gnome-session gnome-terminal
-
-sudo apt update && sudo apt upgrade
-sudo apt install ubuntu-gnome-desktop
-sudo apt install ubuntu-desktop-minimal
-
-
-sudo apt install tasksel
-sudo tasksel
-
-press SPACE, then TAB to switch to the OK/Cancel buttons, and press ENTER to OK.
-									
-
-***** Fix a broken gsettings setting without gnome-session ( gsettings set org.gnome.settings-daemon.plugins.xsettings overrides  "[{'Gdk/WindowScalingFactor', <2>}]" )   ( gsettings set org.gnome.desktop.interface scaling-factor 0 )
- ****
-
-mv .config/dconf/user{,-old}
-exit
-
-
-echo "user-db:user-old" >db_profile
-DCONF_PROFILE=~/db_profile dconf dump / >old_settings
-
-
-rm db_profile
-mv .config/dconf/user-old ~/user-settings-delete-later
-dconf load / <old_settings
-```
-
-
-```
-👉 WINDOW DISPLAY ERROR && UNRENSPONSIVE MOUSE UBUNTU
-
-dpkg -l | grep linux-image | awk '{print$2}'
-sudo apt-get install linux-image-5.3.0-18-generic
-OR BEST ALTERNATIVE
-sudo apt-get update && sudo apt-get upgrade
-
-sudoedit /etc/gdm3/custom.conf
-->edit 
-remove # in wayland to enable it
-sudo systemctl restart gdm3
-```
-
 
 ```						     
 👉 UPGRADING GNOME IN UBUNTU
@@ -2937,6 +2864,101 @@ REMOVE
     sudo add-apt-repository --remove ppa:uunicorn/open-fprintd
 ```
 
+
+# FIX ERRORS IN SYSTEM UI, INPUT&&OUTPUT AND PROCESSORS
+
+```
+👉 Gnome Error Message “A problem has occurred and the system can’t recover”
+
+👨‍💻 Fix Covered:
+• Boot into Advanced Mode
+• Use terminal Ctrl + Alt + F2
+• Update, upgrade, and repair Kali with full explanations
+sudo apt-get update 
+sudo apt-get upgrade
+sudo apt-get dist-upgrade
+• Use dconf-editor to restore UI settings
+sudo apt-get install dconf-editor -y
+dconf reset -f /
+• Reboot clean and secure your system
+sudo reboot
+```
+
+
+```
+👉 VANILLA GNOME BROKEN DEPENDECIES
+
+---------------------- GNOME INSTALLATION ---------------------
+
+$ sudo apt install vanilla-gnome-desktop
+
+This worked successfully and I was able to log into GNOME 40.4. But I got a random dpkg error, as follows:
+
+Setting up vanilla-gnome-default-settings (20.04.1) ...
+update-alternatives: error: no alternatives for gdm3-theme.gresource
+dpkg: error processing package vanilla-gnome-default-settings (--configure):
+ installed vanilla-gnome-default-settings package post-installation script subprocess returned error exit status 2
+dpkg: dependency problems prevent configuration of vanilla-gnome-desktop:
+ vanilla-gnome-desktop depends on vanilla-gnome-default-settings; however:
+  Package vanilla-gnome-default-settings is not configured yet.
+
+dpkg: error processing package vanilla-gnome-desktop (--configure):
+ dependency problems - leaving unconfigured
+No apport report written because the error message indicates its a followup error from a previous failure.
+                                                                                                          Errors were encountered while processing:
+ vanilla-gnome-default-settings
+ vanilla-gnome-desktop
+E: Sub-process /usr/bin/dpkg returned an error code (1)
+
+***SOLUTION***
+sudo sed -i "s/gdm3-theme.gresource/gdm-theme.gresource/" /var/lib/dpkg/info/vanilla-gnome-default-settings.postinst && sudo apt -f install
+
+sudo apt install vanilla-gnome-desktop
+sudo apt install gnome gnome-session gnome-terminal
+
+sudo apt update && sudo apt upgrade
+sudo apt install ubuntu-gnome-desktop
+sudo apt install ubuntu-desktop-minimal
+
+
+sudo apt install tasksel
+sudo tasksel
+
+press SPACE, then TAB to switch to the OK/Cancel buttons, and press ENTER to OK.
+									
+
+***** Fix a broken gsettings setting without gnome-session ( gsettings set org.gnome.settings-daemon.plugins.xsettings overrides  "[{'Gdk/WindowScalingFactor', <2>}]" )   ( gsettings set org.gnome.desktop.interface scaling-factor 0 )
+ ****
+
+mv .config/dconf/user{,-old}
+exit
+
+
+echo "user-db:user-old" >db_profile
+DCONF_PROFILE=~/db_profile dconf dump / >old_settings
+
+
+rm db_profile
+mv .config/dconf/user-old ~/user-settings-delete-later
+dconf load / <old_settings
+```
+
+
+```
+👉 WINDOW DISPLAY ERROR && UNRENSPONSIVE MOUSE UBUNTU
+
+dpkg -l | grep linux-image | awk '{print$2}'
+sudo apt-get install linux-image-5.3.0-18-generic
+OR BEST ALTERNATIVE
+sudo apt-get update && sudo apt-get upgrade
+
+sudoedit /etc/gdm3/custom.conf
+->edit 
+remove # in wayland to enable it
+sudo systemctl restart gdm3
+```
+
+-----
 
 ```
 👉 LINUX OPERATING SYSTEM DISTRIBUTIONS
@@ -3188,7 +3210,7 @@ sudo apt remove pkexec
 sudo apt purge policykit-1
 sudo apt remove smbclient
 ------------------------------------------------------------------------------------------------------
-
+AnyDesk => Remote Desktop
 Chrome => Check below setup  Official installation of Google Chrome
 Firefox => SaveFrom.net helper extension, DuckDuckGo Privacy Essentials extension, Netcraft Extension
 Vivaldi
@@ -3766,6 +3788,16 @@ nameserver 8.8.4.4
 
 $ redshift -O 3000K -r -P
 $ sudo systemctl status fstrim.timer
+
+
+🧨🌀 SYSTEM HARDENING
+Firewall -> Firewall app
+Use latest Wifi/ Internet Security Standard e.g WPA2
+Install Anonsurf => Cybersecurity installation section
+Remove ssh, openssh, ftp, pkexec,policykit-1 => sudo apt remove openssh-client
+sudo apt remove pkexec
+sudo apt purge policykit-1
+sudo apt remove smbclient
 ```
 
 ```
@@ -3963,39 +3995,6 @@ sudo apt update && sudo apt install -y boot-repair
 
 
 ```
-👉 GRUB RESCUE ERROR FIX UBUNTU
-
-sudo update-grub2
-sudo grub-install /dev/sda
-
-sudo add-apt-repository -y ppa:yannubuntu/boot-repair
-sudo apt-get update
-sudo apt-get install -y boot-repair && boot-repair
-
-
-👉 GRUB UNABLE TO DETECT OTHER OPERATING SYSTEMS
-
-Install os-prober (usually installed already) 
-Edit the /etc/default/grub file to add GRUB_DISABLE_OS_PROBER=false to this file. 
-Save this file.
-Update grub (https://itsfoss.com/update-grub/) and Grub should see other operating systems now.
-
-👉 FLASH DRIVE Ubuntu 20.04 for Fixing Grub Boot Loader
-
-1 Install Grub
-sudo add-apt-repository -y ppa:yannubuntu/boot-repair
-sudo apt-get update
-sudo apt-get install -y boot-repair && boot-repair
-2 Select Advanced Options
-3 Grub Location
-Select OS to boot from
-4 Edit Grub configuration file
-5 Select Apply and OK
-
-```
-
-
-```
 👉 DELETE OLD DEPENDENCIES AND FILES
 
 sudo apt-get autoremove
@@ -4159,6 +4158,39 @@ To test that the new sudo permissions are working, first use the su command to s
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+# FIX ERRORS IN COMPUTER SYSTEM
+
+```
+👉 GRUB RESCUE ERROR FIX UBUNTU
+
+sudo update-grub2
+sudo grub-install /dev/sda
+
+sudo add-apt-repository -y ppa:yannubuntu/boot-repair
+sudo apt-get update
+sudo apt-get install -y boot-repair && boot-repair
+
+
+👉 GRUB UNABLE TO DETECT OTHER OPERATING SYSTEMS
+
+Install os-prober (usually installed already) 
+Edit the /etc/default/grub file to add GRUB_DISABLE_OS_PROBER=false to this file. 
+Save this file.
+Update grub (https://itsfoss.com/update-grub/) and Grub should see other operating systems now.
+
+👉 FLASH DRIVE Ubuntu 20.04 for Fixing Grub Boot Loader
+
+1 Install Grub
+sudo add-apt-repository -y ppa:yannubuntu/boot-repair
+sudo apt-get update
+sudo apt-get install -y boot-repair && boot-repair
+2 Select Advanced Options
+3 Grub Location
+Select OS to boot from
+4 Edit Grub configuration file
+5 Select Apply and OK
+```
+
 -------------------------------
 
 # VIRTUALIZATION 
@@ -4170,12 +4202,32 @@ To test that the new sudo permissions are working, first use the su command to s
 
 INSTALL VIRTUALBOX IN UBUNTU
 sudo apt install virtualbox
+```
 
 
+```
+👉 NEW VIRTUALBOX INSTALLATION
 
+sudo apt install virtualbox
+OR
+Step 1: Install Supporting Software
+sudo apt install software-properties-common
 
+Step 2: Install GPG Key
+wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
 
-FIXING 'modrobe'  ERROR
+Step 3: Add VirtualBox Repository to Ubuntu
+echo "deb [arch=amd64] https://download.virtualbox.org/virtualbox/debian $(lsb_release -cs) contrib" | sudo tee /etc/apt/sources.list.d/virtualbox.list
+
+Step 4: Install the Latest Version of VirtualBox
+sudo apt update
+sudo apt install virtualbox-[version-number] ===> sudo apt install virtualbox-7.1
+```
+
+# FIX ERROR IN VIRTUALBOX 
+
+```
+👉 FIXING 'modrobe'  ERROR
 
 Disable SecureBoot Option in Bios
 
@@ -4208,26 +4260,7 @@ Then reboot your system and after reboot run this command:
 sudo modprobe vboxdrv
 ```
 
-
-```
-👉 NEW VIRTUALBOX INSTALLATION
-
-sudo apt install virtualbox
-OR
-Step 1: Install Supporting Software
-sudo apt install software-properties-common
-
-Step 2: Install GPG Key
-wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
-
-Step 3: Add VirtualBox Repository to Ubuntu
-echo "deb [arch=amd64] https://download.virtualbox.org/virtualbox/debian $(lsb_release -cs) contrib" | sudo tee /etc/apt/sources.list.d/virtualbox.list
-
-Step 4: Install the Latest Version of VirtualBox
-sudo apt update
-sudo apt install virtualbox-[version-number] ===> sudo apt install virtualbox-7.1
-```
-
+----
 								
 ```				
 👉 QEMU/KEMU + VIRTUAL MACHINE MANAGER
@@ -11169,6 +11202,7 @@ IDM
 
 --------------------------------------------------------------------------
 
+AnyDesk => Remote Desktop
 Chrome
 Firefox => SaveFrom.net helper extension, DuckDuckGo Privacy Essentials extension, Netcraft Extension
 Brave
