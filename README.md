@@ -1125,7 +1125,7 @@ Higher Time Frame    Lower Time Frame
 > PRICE ACTION EXPERIENCE
 ```
 
- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 # ICT STRATEGY
 
@@ -1261,6 +1261,17 @@ Higher Time Frame    Lower Time Frame
 ![title](static/img/Indices-3.jpg)
 ![title](static/img/Indices-4.jpg)
 ![title](static/img/Indices-5.jpg)
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+# PHOTON TRADING
+![title](static/img/PhotonTrading-1.jpg)
+![title](static/img/PhotonTrading-2.jpg)
+![title](static/img/PhotonTrading-3.jpg)
+![title](static/img/PhotonTrading-4.jpg)
+![title](static/img/PhotonTrading-5.jpg)
+![title](static/img/PhotonTrading-6.jpg)
+
 
 
 
