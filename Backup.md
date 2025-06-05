@@ -93,7 +93,7 @@ Master's  
 # LIFE 
 
 ```
-[AWARENESS]                     [AWARENESS]                                   [AWARENESS]  
+🧨[AWARENESS]                   🧨[AWARENESS]                                 🧨[AWARENESS]  
 CHINA  ===> LION & SHEEP        [BE THE ROBOT]                                ISRAEL/UK  ===> JAHBULON 
 RUSSIA ===> SHEEP               [BE THE ANIMALS]                              EUROPE     ===> GOAT 
 AFRICA                          [BE HUMBLE & KIND] RAYMOND                    USA                
@@ -125,7 +125,7 @@ Competitive                   Hard work(Realistic)          Realistic(High perfo
 
 🧨🧨🧨🧨🧨🧨🧨🧨🧨 SILENCE, COMMUNICATION , ACTION IN LIFE 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
 
-
+👉 CON / EXPERT
 TRUST/SETUP -> BELONGING 
 MANIPULATION/PLAY -> EMOTIONAL SECURITY 
 PAYOFF -> FINANCIAL GAIN/STATUS 
@@ -135,6 +135,36 @@ DISCERNMENT/QUESTION
 INFORMED DECISION & ACTION
 
 
+
+===============================================================================================================================
+
+
+
+👉 STRATEGIC THINKING
+    -> STRATEGIC ===> GUN && CHESS ---> LONG-TERM
+  -> TACTICS ---> SHORT-TERM
+  
+👉 EMOTIONAL INTELLIGENCE
+-> Self Awareness
+-> Self Regulation
+---> SILENCE/MOTIVATION
+-> Social Skills
+-> Empathy 
+*************************************************************************************************
+👉 PSYCHOLOGICAL THINKING
+===> Fear<->Love                          ===> Respect<->Win-win
+-> Deception                              -> Trust && Confidence | Authenticity-Harmony
+-> Manipulation/Coarse                    -> Integration-Alignmnet  
+-> Control/Exploit                        -> Integrity
+
+👉 SOCIAL INTELLIGENCE 
+       ===> SECURITY<->FEEL        
+-> Miscommunication    -> Trust
+-> Manipulation        -> Smile
+-> Insecurity          -> Habit
+
+
+       
 🧨🧨🧨🧨🧨🧨🧨🧨🧨 DUALITY OF LIFE 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
        God                                                  Ambition
 Money                                       Money
@@ -215,7 +245,7 @@ Attention, Dream, Carnival
 👉👉👉 ===> WITHIN YOUR [POWER, CONTROL ,REACH]
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-                                                                                            Security
+                                                                                            SECURITY
 Vested interest                                      WAR                                    Wisdom/ Sound Reason/ Illuminated Light/ Accurate Consciousness/ A+ / Science Religion   => Dogmatic Supersticion                          
 Incompetence                                         DISEASE                                Love   => Fear
 Corruption                                           POVERTY/ VIOLENCE                      Wisdom/Sound Action   => Ignorance of mob/crowd
