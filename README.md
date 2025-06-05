@@ -15,6 +15,17 @@ KNOW   | 97% (STRATEGY + TACTIC)
 RANGES | HEDGING + PREVAILING TREND
 ```
 
+```
+👉 SASRA SACCO REGULATOR
+1. Data Protection
+2. Rate Limit on API
+3. Sanitization of data 
+4. Validation of data
+5. Secure Configurations
+6. Access Control(User Roles)
+7. Change Data Capture(LOGS)
+```
+
 
 ```
 🧨 LOAN 🧨
