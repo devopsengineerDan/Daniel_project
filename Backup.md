@@ -97,7 +97,7 @@ Master's  
 CHINA  ===> LION & SHEEP        [BE THE ROBOT]                                ISRAEL/UK  ===> JAHBULON 
 RUSSIA ===> SHEEP               [BE THE ANIMALS]                              EUROPE     ===> GOAT 
 AFRICA                          [BE HUMBLE & KIND] RAYMOND                    USA                
-.................................................................................................................
+........................................................................................................................
 1 FATHER                      1 DAVID                       1 DANIEL
 Security                      Security                      Security
 Know                          Consistency                   Accurate(Simple, Prioritise, Levels - High to Low)            
@@ -106,9 +106,10 @@ Competitive                   Hard work(Realistic)          Realistic(High perfo
 
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-      🧨 DANGER ==> NARCISSIST
-🧨 LOUD ===> PSYCHOPATH
-      🧨 FAST ===> MACHIAVELLIAN
+      🧨 DANGER ==> MACHIAVELLIAN---[SHADOW/SECRET SYSTEM] 
+                ==> NARCISSIST---[GOD && HUMBLE/NOBLE]
+🧨 LOUD ===> PSYCHOPATH---[BOLD && IRRESPONSIBLE]
+      🧨 FAST ===> MACHIAVELLIAN---[COMPETITIVE]
 
 
               🧨 Governance && Compliance
@@ -120,6 +121,18 @@ Competitive                   Hard work(Realistic)          Realistic(High perfo
               🧨 Enforcement && Quality Assurance
               >UNREADABLE
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+🧨🧨🧨🧨🧨🧨🧨🧨🧨 SILENCE, COMMUNICATION , ACTION IN LIFE 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
+
+
+TRUST/SETUP -> BELONGING 
+MANIPULATION/PLAY -> EMOTIONAL SECURITY 
+PAYOFF -> FINANCIAL GAIN/STATUS 
+-------------------------------------------------------------------
+KNOWLEDGE 
+DISCERNMENT/QUESTION 
+INFORMED DECISION & ACTION
 
 
 🧨🧨🧨🧨🧨🧨🧨🧨🧨 DUALITY OF LIFE 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
@@ -175,7 +188,7 @@ CHESS                           GOLF
                                                                                                                RADAR <=> NETWORK <=> CLUE [Avoid Silence in IGNORANCE]
                                                                                                                🧨 AWARE OF Stagnation, Downtrend, Big Failure
                                                                                                        
-✅ 2                                                           ✅ 3                                 ✅ 3  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<----->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ✅ 3                         ✅ 4
+✅ 2                                                               ✅ 3                                 ✅ 3  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<----->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ✅ 3                         ✅ 4
 👉👉👉 UP SECURITY && WEALTH GROWTH                               RIGHT [TIME, WAY, REALISTIC]          ALL SEEING && SENSES                                                   🧨 INDECISIVE                🧨 ENSLAVEMENT
 👉 DOWN RESPONSIBILITIES IN [👉👉👉RELATIONSHIP @Check Below]     SMART [SPECIFIC, MEASURABLE,          DIRECTOR                                                               🧨 CHAOS                     🧨 MEAN {TILL YOUR DEATH AND THEIRS}
 👉 SECURITY | COONECT DOTS | COMPETITIVE                          ADAPTABLE, REALISTIC,                 ACTOR MEETING OBJECTIVE/GOAL                                           🧨 MEAN/HUNGER/DEATH         🧨 OFFER MONEY
@@ -2363,7 +2376,7 @@ FUNDEDNEXT ---> dancunmoruri@gmail.com -> CHRISTINE@9#
 Fundingpips ---> dancunmoruri@gmail.com -> Alpha1@987#
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 INGOT ---> dancunmoruri@gmail.com 
- WEB -> DAVIDQwerty@987#
+WEB -> DAVIDQwerty@987#
 
 ---------------------------------
 You can login to your demo account in MetaTrader using the following details:
@@ -2630,7 +2643,7 @@ USER Education Security
 🧨 ROUTER CONFIGURATION => [HARDWARE + CABLE] , CONFIGURATION
 🧨 ASSEMBLE DESKTOP SERVER [INSTALLATION, MAINTENANCE AND CUSTOMIZATION]
 
-                                                                               🧨 COMPUTER NETWORK CONFIGURATION                                 🧨 CLOUD/SERVER CONFIGURATION => [SYSTEM ADMINISTRATOR]
+                                                                               🧨 COMPUTER NETWORK CONFIGURATION                                🧨 CLOUD/SERVER CONFIGURATION => [SYSTEM ADMINISTRATOR]
 							                       🌀 [DESIGN AND ANALYSIS OF NETWORK]                              🌀 HARDWARE => [Large storage + Modern] RAM, SSD, GRAPHICS CARD
                                                                                                                                                 🌀 WIRING
 							                       🌀 WINDOWS[CONFIGURE DNS, DHCP, Active Directory]                🌀 ASSEMBLE DESKTOP SERVER [INSTALLATION, MAINTENANCE AND CUSTOMIZATION]
@@ -2790,7 +2803,7 @@ sudo systemctl enable gdm.service
 
 
 ```
-👉 (UBUNTU 20- ONWARDS )XFCE INSTALLATION
+👉 (UBUNTU 20- ONWARDS) XFCE INSTALLATION
 
 sudo apt install xfce4 xfce4-goodies
         (OR)
@@ -2872,7 +2885,7 @@ REMOVE
 
 👨‍💻 Fix Covered:
 • Boot into Advanced Mode
-• Use terminal Ctrl + Alt + F2
+• Use terminal Ctrl + Alt + F2 on VirtualBox Keyboard Input
 • Update, upgrade, and repair Kali with full explanations
 sudo apt-get update 
 sudo apt-get upgrade
@@ -11195,8 +11208,9 @@ RECOVERY KEY ->
 
 Screen recorder pro -> Screenshot
 RecForth -> Video Recorder
-Remote Desktop
+**********************************
 Gihosoft Tubeget -> 4k,8k download
+**********************************
 IDM
 4k Downloader
 
@@ -11292,6 +11306,8 @@ PDF, IMAGE, WORD CONVERTER => https://online2pdf.com/
 👉 WATCHING MOVIIES SERIES TV
 
 PUTLOCKER ->  https://putlockernew.vc/home
+MOVIES JOY -> https://moviesjoytv.to
+
 IMDb -> https://www.imdb.com/
 STREMIO -> dancunmoruri@gmail.com -> QWERTY@12345a -> INSTALL STREMIO ON DESKTOP https://torrentio.strem.fun/configure
 
