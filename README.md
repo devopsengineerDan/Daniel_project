@@ -1,6 +1,15 @@
 # FINANCIAL ENGINEERING
 
 ```
+COMMUNICATION ===> YouTube
+Detection System ===> Wazuh
+Global Markets ===> PHOTON TRADING
+                    VECTOR SMC
+                    ICT
+```
+
+
+```
 *************** SECURITY AWARENESS *******************
 KNOW   | 97% (STRATEGY + TACTIC)
 RANGES | HEDGING + PREVAILING TREND
