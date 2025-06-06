@@ -154,7 +154,7 @@ INFORMED DECISION & ACTION
 👉 PSYCHOLOGICAL THINKING
 ===> Fear<->Love                          ===> Respect<->Win-win
 -> Deception                              -> Trust && Confidence | Authenticity-Harmony
--> Manipulation/Coarse                    -> Integration-Alignmnet  
+-> Manipulation/Coax                      -> Integration-Alignmnet  
 -> Control/Exploit                        -> Integrity
 
 👉 SOCIAL INTELLIGENCE 
@@ -740,7 +740,7 @@ Speak
                                    FOOD[Gift/Reward] => BACKGROUND  => HATE
 ```
                                 
-====================
+==================================
 
 👉👉👉👉👉👉👉👉👉 BEHAVIOUR I HATE
 
@@ -756,39 +756,7 @@ MEAN                                          =>  PRODUCTIVE and RESULT ORIENTED
 
 
 
-===================================================================================================================================================================================================================================================
-
-```
-🧨🧨🧨 WORK MANAGER
-
-Exness ---> Stocks
-Pepperstone <==> Copy Trading ---> Commodity
-BINANCE / BETTER ALTERNATIVE ---> Cryptocurency
-
-Ingot
-Henriot
-
-
-Real-Estate Properties + Lands + PROPERTIES GOALS
-Asset Management && Tax-Compliance && Off-shore Wealth
-BANKING + Brokerage Firms + Investments[Tangible + Stocks] + UPTOP WEALTH ITEMS 
-
-                                                                      --------> POLITICS [KANU && MASON] Sheep VS Goats
-                                                                      --------> NGO<=>RELIGION 
-								      --------> SCHOOL 
-```
-	      
-----------------------------------------------------                    
-
-```
-🧨🧨🧨 OWNERSHIP
-
-David ===> TRANSPORT
-Dawn Labs <---> Samuel && Dominic ===> TECHNOLOGY
-Daniel ===> GOLF ACADEMIES
-
-Farming + Lands => Light Group                                                             
-```                                                                                                    
+                                                                                                 
                                                                                           
    
 ===================================================================================================================================================================================================================================================
@@ -7415,7 +7383,7 @@ Activate Already Existing Environment ===> source /home/engineer/.local/share/vi
 Deactivate Already Existing Environment ===> deactivate
 
 
-Install a local setup.py into your virtual environment/Pipfile ===> pipenv install -e .
+Install a local setup.py OR local package into your virtual environment/Pipfile ===> pipenv install -e .
 Install dependencies for a project (dev packages)===> pipenv install --dev
 Install all dependencies for a project ===> pipenv install --all
 
