@@ -1515,4 +1515,38 @@ GENERAL-PURPOSE BANK ===> ROTHCHILD BANKS
 INSURANCE ===> BLACKSTONE
 BROKERAGE INDUSTRY ===> PEPPERSTONE
 HEDGE-FUND INDUSTRY ===> K-BIT(Cryptocurrency), HENRIOT(Currency)                    
- ``` 
+```
+
+----------------------------------------------------
+
+```
+🧨🧨🧨 WORK MANAGER
+
+Exness ---> Stocks
+Pepperstone <==> Copy Trading ---> Commodity
+BINANCE / BETTER ALTERNATIVE ---> Cryptocurency
+
+Ingot
+Henriot
+
+
+Real-Estate Properties + Lands + PROPERTIES GOALS
+Asset Management && Tax-Compliance && Off-shore Wealth
+BANKING + Brokerage Firms + Investments[Tangible + Stocks] + UPTOP WEALTH ITEMS 
+
+                                                                      --------> POLITICS [KANU && MASON] Sheep VS Goats
+                                                                      --------> NGO<=>RELIGION 
+								      --------> SCHOOL 
+```
+	      
+----------------------------------------------------                    
+
+```
+🧨🧨🧨 OWNERSHIP
+
+David ===> TRANSPORT
+Dawn Labs <---> Samuel && Dominic && Kevin ===> TECHNOLOGY
+Daniel ===> GOLF ACADEMIES
+
+Farming + Lands => Light Group   
+```
