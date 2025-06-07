@@ -1515,6 +1515,16 @@ Benefits
     Continuous learning and development opportunities
     Flexible work arrangements
 
+# INVESTMENT PORTFOLIO
+
+```
+👉 ARTIFICIAL INTELLIGENCE
+👉 BLOCKCHAIN
+👉 ROBOTICS
+👉 ENERGY STORAGE
+👉 MULTIOMIC SEQUENCING -> LIFE SCIENCE
+```
+
 
 # MILITARY INDUSTRIAL COMPLEX
 
