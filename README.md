@@ -1365,11 +1365,15 @@ INVESTMENT COMPANY ---> BINANCE *** CRYPTOCURRENCY PLATFORM PAYS TAXES 👉 If Y
 ```
 
 
-### 3 LICENSES OFFERED BY CMA
+### LICENSES OFFERED BY CMA
 
 ```
+👉 Individual License
+👉 Corporate License
+----------------------------------------------------------------------------------------------
 👉 Dealing License Example: Investment Bank
 👉 Non-dealing License Example: Brokerage Company HFM
+----------------------------------------------------------------------------------------------
 👉 Intermediary License Between Broker and Customer using a Money Market Fund Example: Givva
 👉 Forex Financial Manager License Example: StorePoa
 ```
