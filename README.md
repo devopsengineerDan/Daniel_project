@@ -15,6 +15,15 @@ KNOW   | 97% (STRATEGY + TACTIC)
 RANGES | HEDGING + PREVAILING TREND
 ```
 
+
+```
+👉 EXCHANGE REGULATOR
+Inter-Bank Money and Deposit Association (IBMDA) -> Regulate the Exchange Algorithm 
+XTX Money -> Maker
+Citi bank -> Dealers & Liquidity Provider
+```
+
+
 ```
 👉 SASRA SACCO REGULATOR
 1. Data Protection
@@ -1216,6 +1225,8 @@ Higher Time Frame    Lower Time Frame
 
 
 
+> Sell side Imbalance Buy side Inefficiency (SIBI)?. In ICT concepts, SIBI is a type of fair value gap. It is a Bearish Fair value Gap.
+> Buy side Imbalance Sell side Inefficiency (BISI)?. In ICT concepts, BISI is a type of fair value gap. It is a Bullish Fair value Gap.
 
 
 
