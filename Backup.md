@@ -3814,9 +3814,11 @@ sudo apt remove smbclient
 ```
 🧨🧨🧨 BIOS 🧨🧨🧨
 
-1st===> Long press Power Button for 1 minute to kill voltage in the mother-board semiconductors. Then start machine.
-OR
-2nd===> Long press [Windows Button + B] .Then press Power Button to start the machine. 
+1st ===> Long press Power Button for 1 minute to kill voltage in the mother-board semiconductors.
+2nd ===> Plug machine on power. It should be Charging.
+3rd ===> Press Power Button to Start the machine.
+4th ===> Long press [Windows Button + B] .Then press Power Button to start the machine.
+5th ===> The Bios will start. And Machine will start Normally.
 ```
 
 
