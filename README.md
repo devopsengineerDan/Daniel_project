@@ -1230,6 +1230,10 @@ Higher Time Frame    Lower Time Frame
 
 
 
+> Reversal ===> RETRACEMENT [WITH BOTH BULLISH AND BEARISH]
+> Pivot/ Institutional Funded Candlestick (IFC) ===> SHARP RETRACEMENT WITH DISPLACEMENT CANDLESTICK
+
+
 
 
 
