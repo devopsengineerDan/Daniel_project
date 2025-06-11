@@ -1436,6 +1436,13 @@ Cryptography (Detailed) -> https://www.youtube.com/watch?v=1bSjcU2GeG0&list=PL58
 
 
 ```
+👉 KERNEL SECURITY ENGINEER GUIDE
+
+https://meltdownattack.com/
+```
+
+
+```
 👉 DATA REPRESENTATION GUIDE-> https://www.youtube.com/watch?v=cJNm938Xwao&list=PLTd6ceoshprfijQztP-IKey4OV7nkr_va
 ```
 
