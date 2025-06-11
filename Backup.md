@@ -1327,6 +1327,7 @@ Vim Tutorial -> https://www.youtube.com/watch?v=jXud3JybsG4&list=PL7yh-TELLS1Eev
 👉 PTHON CODING STYLE (PEP8) => PEP8 Official Documentation
 => 🧨 PYTHON IMAGES Github
 => 🧨 PYTHON HARDCOPY
+=> 🧨 RUST CRASH COURSE https://www.youtube.com/watch?v=4uBbCUjJ_G8
 
 1. Fundamental Concepts of Object Oriented Programming -> https://www.youtube.com/watch?v=m_MQYyJpIjg
    Python OOP Fundamentals -> https://www.youtube.com/watch?v=Ej_02ICOIgs
@@ -1371,6 +1372,7 @@ Vim Tutorial -> https://www.youtube.com/watch?v=jXud3JybsG4&list=PL7yh-TELLS1Eev
 => 🧨 RUST HARDCOPY
 => 🧨 RUST CRASH COURSE https://www.youtube.com/watch?v=lzKeecy4OmQ
 => 🧨 RUST BETTER UNDERSTANDING https://www.youtube.com/watch?v=IvPP5U2wzlE&list=TLPQMTEwNjIwMjWMmGpzNxGhFA&index=5
+
 1. Rust Bites -> https://www.youtube.com/watch?v=gvHPRaZHgD4&list=PLai5B987bZ9C0xK1tZ2wsudOo2zjrD9xX
 
 2. The Rustlang Book -> https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
