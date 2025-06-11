@@ -106,10 +106,11 @@ Competitive                   Hard work(Realistic)          Realistic(High perfo
 
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-      🧨 DANGER ==> MACHIAVELLIAN---[SHADOW/SECRET SYSTEM] 
+      🧨 DANGER/CONSISTENT ==> MACHIAVELLIAN---[SHADOW/SECRET SYSTEM] 
                 ==> NARCISSIST---[GOD && HUMBLE/NOBLE]
-🧨 LOUD ===> PSYCHOPATH---[BOLD && IRRESPONSIBLE]
-      🧨 FAST ===> MACHIAVELLIAN---[COMPETITIVE]
+🧨 LOUD/CONTROL ===> PSYCHOPATH---[BOLD && IRRESPONSIBLE]
+      🧨 FAST PERFORMANCE ===> MACHIAVELLIAN---[COMPETITIVE]
+
 
 
               🧨 Governance && Compliance
@@ -221,7 +222,7 @@ CHESS                           GOLF
 ✅ 2                                                               ✅ 3                                 ✅ 3  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<----->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ✅ 3                         ✅ 4
 👉👉👉 UP SECURITY && WEALTH GROWTH                               RIGHT [TIME, WAY, REALISTIC]          ALL SEEING && SENSES                                                   🧨 INDECISIVE                🧨 ENSLAVEMENT
 👉 DOWN RESPONSIBILITIES IN [👉👉👉RELATIONSHIP @Check Below]     SMART [SPECIFIC, MEASURABLE,          DIRECTOR                                                               🧨 CHAOS                     🧨 MEAN {TILL YOUR DEATH AND THEIRS}
-👉 SECURITY | COONECT DOTS | COMPETITIVE                          ADAPTABLE, REALISTIC,                 ACTOR MEETING OBJECTIVE/GOAL                                           🧨 MEAN/HUNGER/DEATH         🧨 OFFER MONEY
+👉 SECURITY | COONECT DOTS | COMPETITIVE                          ADAPTABLE, REALISTIC,                 ACTOR MEETING OBJECTIVE/GOAL                                           🧨 MEAN/HUNGER/DEATH         🧨 OFFER MONEY/ASSET/VALUE
                                                                          TIME-BOUND]                                                                                                                        🧨 OFFER SEX 
                                                                  --------------------------------------                                                    
                                                                   DEATH [LIFE] [Who,Where]
