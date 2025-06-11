@@ -1327,7 +1327,7 @@ Vim Tutorial -> https://www.youtube.com/watch?v=jXud3JybsG4&list=PL7yh-TELLS1Eev
 👉 PTHON CODING STYLE (PEP8) => PEP8 Official Documentation
 => 🧨 PYTHON IMAGES Github
 => 🧨 PYTHON HARDCOPY
-=> 🧨 RUST CRASH COURSE https://www.youtube.com/watch?v=4uBbCUjJ_G8
+=> 🧨 PYTHON CRASH COURSE https://www.youtube.com/watch?v=4uBbCUjJ_G8
 
 1. Fundamental Concepts of Object Oriented Programming -> https://www.youtube.com/watch?v=m_MQYyJpIjg
    Python OOP Fundamentals -> https://www.youtube.com/watch?v=Ej_02ICOIgs
