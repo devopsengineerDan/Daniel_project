@@ -6039,6 +6039,8 @@ C1.png
 ```
 👉 SEARCH ENGINE OPTIMIZATION
 
+👉🎯  SEO writing AI tool  https://seowriting.ai/
+
 1.  <meta charset="UTF-8">
 2.  <meta name="Description" content="Details regarding the website or web application">
 3. HTML Validation
@@ -6107,7 +6109,8 @@ DATABASE FLOW-CHART DIAGRAM
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🎯 DOTFILES ON MY GITHUB
 
-🌀.gitignore(*.egg-info, *.pyc, .coverage, .tox, /venv*, coverage-html, dist)
+🌀.gitignore(*.egg-info, *.pyc, .coverage, .tox, .env, dev.env, staging.env, production.env, /venv*, coverage-html, dist)
+
 🌀
 # Ignore temporary files
 *.tmp
