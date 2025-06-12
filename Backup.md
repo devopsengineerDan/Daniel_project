@@ -1156,8 +1156,15 @@ Heroku, Linode, NameCheap
 🧨 STUDYING BEST PRACTICE
 
 ```
+FOCUS ===> FEEL - SPEAK
+IMAGINATION ===> EMOTION
+REPETITION
+```
+
+
+```
 ----------------------------------------------------------
-**** STRONGEST <=> HIGHEST <=> GREATEST
+**** STRONGEST <=> HIGHEST <=> GREATEST <=> STRONGEST
 
 *1
 HAVE THE CLEAR PICTURE OF A SUBJECT
