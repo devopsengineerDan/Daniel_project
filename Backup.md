@@ -1453,9 +1453,6 @@ Cryptography (Detailed) -> https://www.youtube.com/watch?v=1bSjcU2GeG0&list=PL58
 
 OS (Overview) -> https://www.youtube.com/watch?v=p9yZNLeOj4s&list=PLTd6ceoshprdCI72yuKI_VexnJygy-34e
 OS (Detailed) -> https://www.youtube.com/watch?v=QTQ8zym8Au0&list=PLWPirh4EWFpGkHH9JTKH9KsnfAA471Fhy
-
-👉 
-https://github.com/devopsengineerDan/rust-distributed-systems-and-distributed-database-for-Availability-and-Multiprocessing-talent-plan
 ```
 
 
@@ -1464,6 +1461,9 @@ https://github.com/devopsengineerDan/rust-distributed-systems-and-distributed-da
 
 Distributed  Systems(Overview) -> https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB
 Distributed  Systems(Advance) -> https://youtube.com/channel/UCnhpOONF1c1FtipDF8LPdqQ
+
+👉 
+https://github.com/devopsengineerDan/rust-distributed-systems-and-distributed-database-for-Availability-and-Multiprocessing-talent-plan
 ```
 
 
