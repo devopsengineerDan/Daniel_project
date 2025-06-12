@@ -1204,7 +1204,9 @@ REMEMBER[REPETITIVE] => REGURGITATE
 🧨 Financial Engineering Course -> https://www.youtube.com/watch?v=oX7iyvZsAak&list=PL6zzGYGhbWrMpjEKDtnrHWyIj-oVLKCYD
 ```
 
-# NETWORK ENGINEERING
+-------------------------------
+
+# COMPUTER NETWORK ENGINEERING
 
 ```
 👉 IT k Funde YouTube Channel ==> NETWORK FUNDAMENTALS
@@ -1225,12 +1227,9 @@ MICROTIK ROUTER CONFIGURATION GUIDE
 👉 Step by Step Configure Mikrotik Router as a switch -> GOOGLE DRIVE
 ```
 
-# COMPUTER SCIENCE => SOFTWARE ENGINEERING 
+-------------------------------
 
-1. EDUREKA
-2. free code camp
-3. LINKS
-
+# CYBERSECURITY ENGINEER
 
 ```
 👉 CYBERSECURITY GUIDE => OWASP CHEETSHEET -> https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
@@ -1242,6 +1241,17 @@ MICROTIK ROUTER CONFIGURATION GUIDE
 👉 Algorithms & Data Structures -> https://www.youtube.com/watch?v=XGClOyyliPs&list=PL7yh-TELLS1HgoWUfxGzoaa7PEJ2Q-RfC
 👉 Python Machine Learning Tutorial -> https://www.youtube.com/watch?v=jg5paDArl3E&list=PL7yh-TELLS1EZGz1-VDltwdwZvPV-jliQ
 ```
+
+-------------------------------
+
+# COMPUTER SCIENCE => SOFTWARE ENGINEERING 
+
+1. EDUREKA
+2. free code camp
+3. LINKS
+
+
+
 
 
 ```
@@ -1269,32 +1279,20 @@ Big O Part 7 – Space Complexity versus Time Complexity -> https://www.youtube.
 
 
 ```
-👉 AI
+👉 ARTIFICIAL INTELLIGENCE -> [AI]
 
-👉 Machine Learning
+👉 OBSERVATION 7TH SENSES -> [SUPERPOSITION]
+
+👉 MACHINE LEARNING -> [INTERFACE]
 🧨 ML IMAGES ===> Google Drive
 Overview EDUREKA -> https://www.youtube.com/watch?v=GwIo3gDZCVQ
 Detailed -> https://www.youtube.com/watch?v=jg5paDArl3E&list=PL7yh-TELLS1EZGz1-VDltwdwZvPV-jliQ
-👉 Deep Learning
+
+👉 DEEP LEARNING -> [ENTANGLEMENT]
 🧨 ML IMAGES ===> Google Drive
 Overview EDUREKA -> https://www.youtube.com/watch?v=DooxDIRAkPA
 Detailed ->  https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
-```
-
-
-```
-👉 DISTRIBUTED SYSTEM GUIDE
-
-Distributed  Systems(Overview) -> https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB
-Distributed  Systems(Advance) -> https://youtube.com/channel/UCnhpOONF1c1FtipDF8LPdqQ
-```                 
-
-
-```
-👉 LINUX GUIDE => Linux Bible
-
-Linux -> https://www.youtube.com/watch?v=ghWECXWi9kU&list=PL7yh-TELLS1FRoV4TCJjyEwh_Ye1o9sik
-```
+```                
 
 
 ```
@@ -1315,6 +1313,14 @@ Linux -> https://www.youtube.com/watch?v=ghWECXWi9kU&list=PL7yh-TELLS1FRoV4TCJjy
 
 ```
 
+-------------------------------
+
+```
+👉 LINUX GUIDE => Linux Bible
+
+Linux -> https://www.youtube.com/watch?v=ghWECXWi9kU&list=PL7yh-TELLS1FRoV4TCJjyEwh_Ye1o9sik
+```
+
 
 ```
 👉 VIM GUIDE => Install Neovim
@@ -1322,6 +1328,7 @@ Linux -> https://www.youtube.com/watch?v=ghWECXWi9kU&list=PL7yh-TELLS1FRoV4TCJjy
 Vim Tutorial -> https://www.youtube.com/watch?v=jXud3JybsG4&list=PL7yh-TELLS1Eevqs4-XmlSfrFOKb5C97K
 ```
 
+-------------------------------
 
 ```
 👉 PYTHON GUIDE => Python Official Documentation
@@ -1430,6 +1437,7 @@ C to LLVM IR Assembly -> https://www.youtube.com/watch?v=wt7a5BOztuM
 👉 LINEAR ALGEBRA GUIDE -> https://www.youtube.com/watch?v=6MD_CTQGDyo&list=PLTd6ceoshprfZs1VIzGHDt-MYgVewC5tc
 ```
 
+-------------------------------
 
 ```
 👉 CRYPTOGRAPHY GUIDE
@@ -1438,13 +1446,34 @@ Cryptography (Overview) -> https://www.youtube.com/watch?v=v8nlTZleKFw&list=PLTd
 Cryptography (Detailed) -> https://www.youtube.com/watch?v=1bSjcU2GeG0&list=PL58C6Q25sEEHXvACYxiav_lC2DqSlC7Og
 ```
 
+-------------------------------
+
+```
+👉 OPERATING SYSTEM GUIDE
+
+OS (Overview) -> https://www.youtube.com/watch?v=p9yZNLeOj4s&list=PLTd6ceoshprdCI72yuKI_VexnJygy-34e
+OS (Detailed) -> https://www.youtube.com/watch?v=QTQ8zym8Au0&list=PLWPirh4EWFpGkHH9JTKH9KsnfAA471Fhy
+
+👉 
+https://github.com/devopsengineerDan/rust-distributed-systems-and-distributed-database-for-Availability-and-Multiprocessing-talent-plan
+```
+
+
+```
+👉 DISTRIBUTED SYSTEM GUIDE
+
+Distributed  Systems(Overview) -> https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB
+Distributed  Systems(Advance) -> https://youtube.com/channel/UCnhpOONF1c1FtipDF8LPdqQ
+```
+
 
 ```
 👉 KERNEL SECURITY ENGINEER GUIDE
 
 https://meltdownattack.com/
-```
+``` 
 
+-------------------------------
 
 ```
 👉 DATA REPRESENTATION GUIDE-> https://www.youtube.com/watch?v=cJNm938Xwao&list=PLTd6ceoshprfijQztP-IKey4OV7nkr_va
@@ -1455,13 +1484,6 @@ https://meltdownattack.com/
 👉 COMPILATION GUIDE -> https://www.youtube.com/watch?v=cxNlb2GTKIc&list=PLTd6ceoshpreZuklA7RBMubSmhE0OHWh_
 ```
 
-
-```
-👉 OPERATING SYSTEM GUIDE
-
-OS (Overview) -> https://www.youtube.com/watch?v=p9yZNLeOj4s&list=PLTd6ceoshprdCI72yuKI_VexnJygy-34e
-OS (Detailed) -> https://www.youtube.com/watch?v=QTQ8zym8Au0&list=PLWPirh4EWFpGkHH9JTKH9KsnfAA471Fhy
-```
 
 
 ```
@@ -1481,7 +1503,8 @@ Boolean Algebra -> https://www.youtube.com/watch?v=EPJf4owqwdA&list=PLTd6ceoshpr
 
 
 ```
-👉 ANALOGUE ELECTRONICS GUIDE => Electronics Images
+👉 ANALOGUE ELECTRONICS GUIDE
+👉 => Electronics Images
 
 MIT CLASSICAL MECHANICS/PHYSICS -> https://www.youtube.com/watch?v=nvjwr9PTBP8&list=PLaLOVNqqD-2HUv0qoYzSj0SBOIO_pLtW4
 MIT STATISTICAL MECHANICS -> https://www.youtube.com/watch?v=4RX_lpoGRBg&list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg
