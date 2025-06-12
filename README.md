@@ -2,6 +2,7 @@
 
 ```
 👉 AMUST
+
 COMMUNICATION ===> YouTube
 Detection System ===> Wazuh
 Global Markets ===> PHOTON TRADING
@@ -21,12 +22,41 @@ Long-term ===> Acceptable Profit
 Mid-term  ===> Acceptable Profit
 Short-term  ===> Acceptable Profit
 -------------------------------------------
-===> Allow Minimum Loss 
+===> Allow Minimum Loss
+
+================================================================================
+
+Investors played it safe with mutual funds or blue-chip stocks
+
+✅ Got curious. ✅ He moved when others froze.
+✅ Followed his own analysis. ✅ He trusted his process, not the market’s mood swings.
+✅ Stayed grounded. ✅ He found hidden value through deep research.
+
+
+
+
+Investors got it wrong: 
+❌ Mistiming trades
+❌ Paralyzed by fear
+❌ Chasing hype
+
+
+Most investors stay stuck in a cycle:
+❌ Anxious they’ll screw it up and lose big.
+❌ Overwhelmed by thousands of stocks.
+❌ Frustrated by hours of research with no clear answers.
+
+He bought great businesses, only when they were mispriced
+Weschler didn’t just look for quality—he waited for the moment the market got it wrong.
+✅  He sought out companies with high returns on capital, moats(competitive advantage), and consistent cash flows.
+✅  But he never paid full price. A great business at a bad price is still a bad investment.
+✅  He moved when everyone else was distracted—finding value before the market caught on.
 ```
 
 
 ```
 👉 EXCHANGE REGULATOR
+
 Inter-Bank Money and Deposit Association (IBMDA) -> Regulate the Exchange Algorithm 
 XTX Money -> Maker
 Citi bank -> Dealers & Liquidity Provider
@@ -35,6 +65,7 @@ Citi bank -> Dealers & Liquidity Provider
 
 ```
 👉 SASRA SACCO REGULATOR
+
 1. Data Protection
 2. Rate Limit on API
 3. Sanitization of data 
@@ -47,6 +78,7 @@ Citi bank -> Dealers & Liquidity Provider
 
 ```
 🧨 LOAN 🧨
+
 👉 Lender MAIN Requirements
 1 Lender Policies and Guidelines
 2 Lender Advisor
