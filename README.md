@@ -1,6 +1,7 @@
 # FINANCIAL ENGINEERING
 
 ```
+👉 AMUST
 COMMUNICATION ===> YouTube
 Detection System ===> Wazuh
 Global Markets ===> PHOTON TRADING
@@ -10,9 +11,17 @@ Global Markets ===> PHOTON TRADING
 
 
 ```
-*************** SECURITY AWARENESS *******************
+👉 *************** SECURITY AWARENESS *******************
 KNOW   | 97% (STRATEGY + TACTIC)
 RANGES | HEDGING + PREVAILING TREND
+
+================================================================================
+
+Long-term ===> Acceptable Profit
+Mid-term  ===> Acceptable Profit
+Short-term  ===> Acceptable Profit
+-------------------------------------------
+===> Allow Minimum Loss 
 ```
 
 
@@ -1374,6 +1383,19 @@ INVESTMENT COMPANY ---> BINANCE *** CRYPTOCURRENCY PLATFORM PAYS TAXES 👉 If Y
 ```
 👉 Individual License
 👉 Corporate License
+----------------------------------------------------
+-> ICIFA Member + Certification 
+-> Individual 
+-> Corporate 
+-> Money Manager
+----------------------------------------------------
+-> 3 Professional Certs
+(CISI) Chartered Institute for Securities and Investment
+CERT - Introduction to Securities & Investments KE
+CERT - Regulations & Market Practice KE
+-> CFA International 
+----------------------------------------------------
+
 ----------------------------------------------------------------------------------------------
 👉 Dealing License Example: Investment Bank
 👉 Non-dealing License Example: Brokerage Company HFM
@@ -1551,8 +1573,8 @@ HEDGE-FUND INDUSTRY ===> K-BIT(Cryptocurrency), HENRIOT(Currency)
 ```
 🧨🧨🧨 WORK MANAGER
 
-Exness ---> Stocks
-Pepperstone <==> Copy Trading ---> Commodity
+Exness ---> [Short-term]
+Pepperstone <==> Copy Trading ---> [Mid-Term && Long-term]
 BINANCE / BETTER ALTERNATIVE ---> Cryptocurency
 
 Ingot
@@ -1564,7 +1586,7 @@ Asset Management && Tax-Compliance && Off-shore Wealth
 BANKING + Brokerage Firms + Investments[Tangible + Stocks] + UPTOP WEALTH ITEMS 
 
                                                                       --------> POLITICS [KANU && MASON] Sheep VS Goats
-                                                                      --------> NGO<=>RELIGION 
+                                                                      --------> NGO <=> RELIGION 
 								      --------> SCHOOL 
 ```
 	      
