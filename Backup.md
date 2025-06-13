@@ -165,7 +165,25 @@ INFORMED DECISION & ACTION
 -> Insecurity          -> Habit
 
 
-       
+
+===============================================================================================================================
+
+
+
+-> HAVE KNOWLEDGE ON THE SUBJECT
+-> CONTROL [WHY,HOW,WHAT] I FEEL
+-> PAY ATTENTION TO YOUR AUDIENCE
+--------------------------------------------------------------------
+NETWORKING ===> 1 HOST MEETUPS, 2 HYPER PERSONALIZED EMAIL, 3 EVENTS
+--------------------------------------------------------------------
+-> Creation & Story-telling
+-> Connecting & Networking
+-> Public speaking & Communication
+-> Sales & Persuasion
+
+
+
+      
 🧨🧨🧨🧨🧨🧨🧨🧨🧨 DUALITY OF LIFE 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
        God                                                  Ambition
 Money                                       Money
