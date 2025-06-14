@@ -1276,6 +1276,15 @@ Higher Time Frame    Lower Time Frame
 
 
 
+> More information from price is needed hence I remain neutral.
+> With price @3395 as draw on liquidity e.g bsl/ssl
+> IFVG and underlying encroachment act as support/resistance 
+> Resistance Liquidity run on a bullish trend && > Support Liquidity run on a bearish trend
+
+> CE **
+
+
+
 
 
 > 1ST The Inner Circle Trader Channel <======> 5MARKET MAKER , 3PRECISION CONCEPTS,  SNIPER => 3SCALPING 2OPTIMAL TRADE ENTRY
