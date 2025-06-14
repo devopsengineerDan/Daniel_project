@@ -1281,8 +1281,9 @@ Higher Time Frame    Lower Time Frame
 > IFVG and underlying encroachment act as support/resistance 
 > Resistance Liquidity run on a bullish trend && > Support Liquidity run on a bearish trend
 
-> CE **
-
+> CE 
+> STB BTS
+> SWING EQ
 
 
 
