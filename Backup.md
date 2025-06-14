@@ -105,6 +105,9 @@ Connect the dots              Discipline                    Adaptive within (Sco
 Competitive                   Hard work(Realistic)          Realistic(High performance and to Completion) <===> Patience
 
 
+
+
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
       🧨 DANGER/CONSISTENT ==> MACHIAVELLIAN---[SHADOW/SECRET SYSTEM] 
                 ==> NARCISSIST---[GOD && HUMBLE/NOBLE]
@@ -112,14 +115,14 @@ Competitive                   Hard work(Realistic)          Realistic(High perfo
       🧨 FAST PERFORMANCE ===> MACHIAVELLIAN---[COMPETITIVE]
 
 
-
-              🧨 Governance && Compliance
+🧨SECURITY ===> MILITARY INDUSTRIAL COMPLEX
+              🧨 Governance && Compliance ===> ACCURATE
               >AHEAD OF TIME
               >COMPOSED
               >CALCULATIVE
-    🧨 Monitor && Regulate
+    🧨 Monitor && Regulate ===> ADAPTIVE && DISTRIBUTED/NUMEROUS BACKUP
     >CALM (Emotional Intelligence && Stability)
-              🧨 Enforcement && Quality Assurance
+              🧨 Enforcement && Quality Assurance  ===> FAST && STRONG
               >UNREADABLE
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
@@ -226,7 +229,9 @@ AMUNITION
 GUITAR
 CHESS                           GOLF
                     POOL&SWIMMING  
-                                RUNNING,BASKETBALL,FOOTBALL,RUGBY                                                          
+                                RUNNING,BASKETBALL,FOOTBALL,RUGBY
+                                WATCH
+                                GAMING                                                       
 ```
 
 
@@ -3845,6 +3850,19 @@ nameserver 8.8.4.4
 
 ```
 
+# FIREWALL[ufw], VPN[Brave Browser], TOR[DARK WEB], AUTOTOR---> Github repo
+
+```
+sudo apt install ufw
+sudo systemctl enable ufw
+sudo systemctl start ufw
+sudo systemctl status ufw
+
+
+sudo systemctl disable ufw
+sudo systemctl stop ufw
+sudo systemctl status ufw
+```
 
 
 ===============================================================================================================================================
