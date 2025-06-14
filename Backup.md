@@ -105,10 +105,15 @@ Connect the dots              Discipline                    Adaptive within (Sco
 Competitive                   Hard work(Realistic)          Realistic(High performance and to Completion) <===> Patience
 
 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
-
+🧨🧨🧨 WEALTH 🧨🧨🧨
+           CAPITAL INCOME ---> Avoidance
+CASH FLOW ---> Compliance
+           BALANCE SHEET[ASSET=INCOME+EXPENSE] ---> Competition
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
       🧨 DANGER/CONSISTENT ==> MACHIAVELLIAN---[SHADOW/SECRET SYSTEM] 
                 ==> NARCISSIST---[GOD && HUMBLE/NOBLE]
 🧨 LOUD/CONTROL ===> PSYCHOPATH---[BOLD && IRRESPONSIBLE]
@@ -124,6 +129,7 @@ Competitive                   Hard work(Realistic)          Realistic(High perfo
     >CALM (Emotional Intelligence && Stability)
               🧨 Enforcement && Quality Assurance  ===> FAST && STRONG
               >UNREADABLE
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 
