@@ -1284,8 +1284,8 @@ Higher Time Frame    Lower Time Frame
 > CE ---> Consequent Encroachment refers to the 50% level of an ICT Fair Value Gap (FVG). In realm of ICT trading, 50% level is considered as the most important level for buying and selling of an asset. An FVG is an imbalance (a gap) between 
   wicks of consecutive candles.
 
-> STB ---> Sell To Buy ---> 
-> BTS ---> Buy To Sell --->
+> STB Zone ---> Sell To Buy ---> Support
+> BTS Zone---> Buy To Sell ---> Resistance
 
 > S/R Flips ---> Firstly S/R stands for Support/Resistance, the idea behind the flip is that this method of setup is confirmed when price reclaims a level that was previously lost, then uses that now taken level as new support or resistance.
 
