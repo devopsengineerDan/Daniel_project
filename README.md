@@ -1,7 +1,7 @@
 # FINANCIAL ENGINEERING
 
 ```
-👉 AMUST
+👉 A MUST
 
 COMMUNICATION ===> YouTube
 Detection System ===> Wazuh
