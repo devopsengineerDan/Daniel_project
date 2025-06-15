@@ -1191,13 +1191,13 @@ Higher Time Frame    Lower Time Frame
 # ICT STRATEGY
 
 ```
-> LOT SIZE => CONTRACT SIZE
+> LOT SIZE ---> CONTRACT SIZE
 
-> PD-ARRAY => Price level in which price react to Bullish or Bearish
+> PD-ARRAY ---> Price level in which price react to Bullish or Bearish
 
-> OPEN INTEREST => Total number of Future Contracts HELD/OPEN by market participants at the end of a day
+> OPEN INTEREST ---> Total number of Future Contracts HELD/OPEN by market participants at the end of a day
 
-> SLIPPAGE => During FUNDAMENTALS Affects Take Profit and Stop Loss
+> SLIPPAGE ---> During FUNDAMENTALS Affects Take Profit and Stop Loss
 
 
 
@@ -1260,9 +1260,9 @@ Higher Time Frame    Lower Time Frame
 
 > AIM for (79% - Reversal)
 
-> PRICE DELIVERY =====> Expansion  ->  Retracement  ->  Reversal  ->  Consolidation  ->  Expansion  ->  REPEAT
+> PRICE DELIVERY ===> Expansion  ->  Retracement  ->  Reversal  ->  Consolidation  ->  Expansion  ->  REPEAT
 
-> PRICE DELIVERY =====> Accumulation  ->  Manipulation  ->  Distribution
+> PRICE DELIVERY ===> Accumulation  ->  Manipulation  ->  Distribution
 
 
 
@@ -1281,9 +1281,15 @@ Higher Time Frame    Lower Time Frame
 > IFVG and underlying encroachment act as support/resistance 
 > Resistance Liquidity run on a bullish trend && > Support Liquidity run on a bearish trend
 
-> CE 
-> STB BTS
-> SWING EQ
+> CE ---> Consequent Encroachment refers to the 50% level of an ICT Fair Value Gap (FVG). In realm of ICT trading, 50% level is considered as the most important level for buying and selling of an asset. An FVG is an imbalance (a gap) between 
+  wicks of consecutive candles.
+
+> STB ---> Sell To Buy ---> 
+> BTS ---> Buy To Sell --->
+
+> S/R Flips ---> Firstly S/R stands for Support/Resistance, the idea behind the flip is that this method of setup is confirmed when price reclaims a level that was previously lost, then uses that now taken level as new support or resistance.
+
+> EQ ---> As mentioned EQ stands for Equilibrium, this is the middle point were supply and demand are equal, this is normally easy to spot when the price is trading in a range, as the EQ level will simply be the middle of that range.
 
 
 
