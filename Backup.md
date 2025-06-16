@@ -11830,12 +11830,14 @@ Ethical Hacking in 15 Hours - 2023 Edition - Learn to Hack! (Part 2) -> https://
 PwnFunction 
 [Web Security]
 Open Redirect Vulnerability Explained -> https://www.youtube.com/watch?v=4Jk_I-cw4WE&list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ
+Don't make random HTTP requests -> https://www.youtube.com/watch?v=RCJdPiogUIk&list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ&index=10
 HTTP Parameter Pollution Explained -> https://www.youtube.com/watch?v=QVZBl8yxVX0&list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ&index=2
 Insecure Direct Object Reference (IDOR) Explained -> https://www.youtube.com/watch?v=rloqMGcPMkI&list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ&index=3
 Cross-Site Request Forgery (CSRF) Explained -> https://www.youtube.com/watch?v=eWEgUcHPle0&list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ&index=5
 Cross-Site Scripting (XSS) Explained -> https://www.youtube.com/watch?v=EoaDgUgS6QA&list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ&index=7
+Server-Side Template Injections Explained -> https://www.youtube.com/watch?v=SN6EVIG4c-0
+Server Side Template Injection (SSTI): All-in-One -> https://www.youtube.com/watch?v=jRiz8Yg9vbA
 Insecure Deserialization Attack Explained -> https://www.youtube.com/watch?v=jwzeJU_62IQ&list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ&index=9
-Don't make random HTTP requests -> https://www.youtube.com/watch?v=RCJdPiogUIk&list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ&index=10
 
 
 [Binary Exploitation]
@@ -11999,7 +12001,7 @@ SendyAPI Wrapper => Consuming a Restful API + Building an Restful API
 After getting 1ST CERT = DESTROY PAPER in the Folder.
 AFTER getting 2ND CERT = REST.
 
-👉 WIRING *******************************
+👉 [1,2,3] WIRING *******************************
 👉 ASSEMBLE DESKTOP SERVER [INSTALLATION, MAINTENANCE AND CUSTOMIZATION] *******************************
 👉 SOLDERING OF NON-CRUSIAL SEMI-CONDUCTORS *******************************              
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
