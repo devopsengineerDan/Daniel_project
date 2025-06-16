@@ -256,7 +256,7 @@ CHESS                           GOLF
                                                                  --------------------------------------                                                    
                                                                   DEATH [LIFE] [Who,Where]
                                                                   👉 WISDOM,BEAUTY,RESISTANCE [Why,How,What] | Do Not Chase, Rush, Force
-                                                                  🧨 Liberty [LIVE], Equality [LOVE/LAUGH][CHANGE/FORGIVE], Equity [EXIST] 
+                                                                  🧨 SECURITY, Liberty [LIVE/NEUTRAL], Equality [LAUGH/LOVE/GRACE][CHANGE/FORGIVE], Equity [KINDNESS/EXIST] 
                                                                   [GROUND/PHYSICAL] DEATH
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✅
@@ -316,15 +316,16 @@ Vibration
 
 👉👉👉👉👉 NURTURE RESPONSIBILITY && ACCURACY && KINDNESS
 1. ===> 🧨Focus on Self && Happiness
-PROTECT ✅
+PROTECT ✅ ---> BLACK ROCK / BAD MAN
 LEAD
-    2. ===> 🧨Heal
+    2. ===> 🧨Heal ---> FATHER
             SILENCE
             CALM
             MONEY ✅
-3. ===> 🧨Break from usual Hypnosis
+3. ===> 🧨Break from usual Hypnosis ---> BEST FRIEND
+MEDICATION ✅
 ENTERTAINMENT ✅
-               ===> 🧨Peace
+               ===> 🧨Peace ---> HUSBAND
             4. [PROVISION + SHELTER] ✅
             5. INTERCOURSE ✅
 ******************************************************************************
@@ -2520,7 +2521,7 @@ Windows Admin devopsengineer/Dan@1997
 
 Fedora/Debian/Ubuntu Admin devopsYtrewq@987
 Fedora/Debian/Ubuntu Root  devopsYTREWQ@987
-Ubuntu Vbox OSs && openSUSE Tumbleweed Hgfdsa Root HGFDSA
+Vbox OSs && openSUSE Tumbleweed engineer: Hgfdsa root: HGFDSA && Kali pentester: Hgfdsa root: HGFDSA 
 Ubuntu Guest Magazine@987 
 Ubuntu 20.04 Kingdom@#987
 
