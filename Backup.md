@@ -11562,7 +11562,24 @@ GO SLOW -> Pedestrian-crossing + Bumps, Bridge, Parking
 -------------------------------
 
 ```
-👉 Tourbillon WATCH      👉 Japanese Kei off-road truck 4x4   👉 Facebook: mercelsha muqpal 👉 Dell xps 13" 9310 i7 11th gen OR BEST  15" 9530 i9 13th gen[RAZOR,APPLE,DELL XPS,X1 CARBON THINKPAD]
+👉 Tourbillon WATCH      👉 Japanese Kei off-road truck 4x4   👉 Facebook: mercelsha muqpal
+--------------------------------------------------------------------------------------------
+👉 Dell xps 13" 9310 i7 11th gen && BEST  15" 9530
+👉 x1 carbon 13" i7 11th gen && x1 carbon 14" i7 11th gen 👉 x1 carbon 13" i7 9th gen && x1 carbon 14" i7 9th gen 👉 x1 carbon 13" i7 8th gen && x1 carbon 14" i7 8th gen
+--------------------------------------------------------------------------------------------
+👉👉👉 i9 13th gen[RAZOR,APPLE,DELL XPS,X1 CARBON THINKPAD]
+
+
+👉 HARDWARE
+
+1 Original Type-C cable(including Original Fast-charger header)
+2 Type-C usb port extension(including ethernet port)
+3 usbC-nvme stick
+4 Portable mifi
+5 Power-bank
+
+==> Portable [COMPANY] 5G mifi(All lines)
+==> Samsung 990 Pro ssd(Tails,Kali, Kali Purple, Windows10 Recovery iso)
 ````
 
 ```
@@ -11579,21 +11596,6 @@ GO SLOW -> Pedestrian-crossing + Bumps, Bridge, Parking
 > USE ORGANIC PADS
 > USE COMFORTABLE BRAS
 ```
-
--------------------------------
-
-```
-👉 HARDWARE
-
-1 Original Type-C cable(including Original Fast-charger header)
-2 Type-C usb port extension(including ethernet port)
-3 usbC-nvme stick
-4 Portable mifi
-5 Power-bank
-
-==> Portable [COMPANY] 5G mifi(All lines)
-==> Samsung 990 Pro ssd(Tails,Kali, Kali Purple, Windows10 Recovery iso)
-````
 
 -------------------------------
 
