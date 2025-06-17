@@ -3856,7 +3856,11 @@ sudo systemctl restart networking
 2ND
 
 STOP VPN FROM  RUNNING  e.g sudo anonsurf stop
+
 STOP FIREWALL FROM RUNNING e.g ufw, firewall app
+sudo systemctl disable ufw
+sudo systemctl stop ufw
+sudo systemctl status ufw
 
 3RD
 cd /etc/
@@ -6000,7 +6004,7 @@ Microsoft - Arduino
 Microsoft - Serial Monitor
 
 
-
+✅✅✅ BLACKBOXAI CODE ASSISTANT
 
 👉 WINDOWS PLATFORM
 Anaconda
