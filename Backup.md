@@ -7590,8 +7590,8 @@ echo $PATH
 👉 BUILD AND COMPILE USING GCC COMPILER
 
 ```
-Build    -> gcc main.c -o main
-Compile  ->./main
+Build    -> gcc main.c -o main   OR  gcc -o <Project-folder> exploit.c  OR make/cmake
+Compile  -> ./main               OR  ./<Project-folder>                 OR  ./<Project-folder> 
 
 								
 Build and Run/Compile/Execute an entire COMPLETED project using make ->    Check  -  https://github.com/devopsengineerDan/worldOfWalls-game
