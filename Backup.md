@@ -3855,8 +3855,12 @@ nameserver 8.8.8.8
 nameserver 8.8.4.4
 -----------------------------------------------
 
+```
+
 
 ```
+👉 CONNECT TO WIFI ON TERMINAL
+
 👉 1ST
 
 nmcli dev wifi
@@ -3915,8 +3919,6 @@ nmcli con up <mySSID>
 
 ```
 
-
-```
 
 # FIREWALL[ufw], VPN[Brave Browser], TOR[DARK WEB], AUTOTOR---> Github repo
 
@@ -6280,9 +6282,10 @@ DATABASE FLOW-CHART DIAGRAM
 ### 5. Have main function in a seperate file.
 ### 5. Software Testing. Software Configuration. Software Deployment.
 ### 6. Schedule more time. To avoid conflicting on deadline time.
-### 7. High speed is best for prototyping. Low speed is best for large projects inorder to identify use-cases of design of principles and patterns on the projects for PERFORMANCE, EFFICIENCY, reliability, scalability, adaptability, simplicity, correctness, CLEAN(DRY-Do NOT Repeat Yourself && USE HIGHLY EFFICIENT DATA STRUCTURES), security and upgradability.
+### 7. High speed is best for prototyping. Low speed is best for large projects inorder to identify use-cases of design of principles and patterns on the projects for PERFORMANCE, EFFICIENCY, reliability, scalability, adaptability, simplicity, correctness, CLEANLINESS(DRY-Do NOT Repeat Yourself && USE HIGHLY EFFICIENT DATA STRUCTURES), security and upgradability.
+```
 
-👉 PERFORMANCE, EFFICIENCY, CLEAN
+👉 PERFORMANT, EFFICIENCT, CLEAN - CODE
 
 ![title](static/img/Big-O-1.png)
 ![title](static/img/Big-O-2.png)
@@ -6290,9 +6293,6 @@ DATABASE FLOW-CHART DIAGRAM
 ![title](static/img/Big-O-Time-and-Space-Complexity-2.jpg)
 ![title](static/img/Big-O-Time-and-Space-Complexity-3.jpg)
 ![title](static/img/Big-O-Time-and-Space-Complexity-4.jpg)
-
-```
-
 
 ```
 👉 PYTHON           (OFFICIAL)   ->     https://docs.python.org/
