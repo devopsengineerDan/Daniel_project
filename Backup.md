@@ -3684,7 +3684,8 @@ Class C              	  255.255.255.0	                        254
 
 
 ```
-👉 NETWORK COMMANDS => sudo apt install net-tools netmask netdiscover
+👉 NETWORK COMMANDS ===> Google Drive -> linux-networking-commands-cheat-sheet.pdf 
+👉 ===> sudo apt install net-tools netmask netdiscover
 
 ipconfig /all -> Windows ifconfig -> Linux
 nslookup www.google.com -> to get ip address 
@@ -3842,9 +3843,18 @@ sudo systemctl status isc-dhcp-server
 
 
 ```
-👉 RESOLVED BLOCKED WIFI BY VPN(Wifi connection without internet access) IN LINUX
+👉 RESOLVED BLOCKED WIFI BY VPN/FIREWALL(Wifi connection without internet access) IN LINUX
 
-=> STOP VPN FROM  RUNNING  e.g sudo anonsurf stop
+1ST
+sudo systemctl restart NetworkManager.service
+sudo systemctl restart networking
+
+2ND
+
+STOP VPN FROM  RUNNING  e.g sudo anonsurf stop
+STOP FIREWALL FROM RUNNING e.g ufw, firewall app
+
+3RD
 cd /etc/
 sudo nano resolv.conf
 
