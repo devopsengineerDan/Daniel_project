@@ -6293,7 +6293,8 @@ DATABASE FLOW-CHART DIAGRAM
 ![title](static/img/Big-O-Time-and-Space-Complexity-2.jpg)
 ![title](static/img/Big-O-Time-and-Space-Complexity-3.jpg)
 ![title](static/img/Big-O-Time-and-Space-Complexity-4.jpg)
-
+![title](static/img/ML-Concepts-Summary.jpg)
+![title](static/img/ml-summary.png)
 ```
 👉 PYTHON           (OFFICIAL)   ->     https://docs.python.org/
                                  ->     https://www.pythontutorial.net/python-oop/
