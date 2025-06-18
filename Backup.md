@@ -11937,6 +11937,8 @@ graph LR
 
 1 LINKEDIN JOB SCRAPER -> 4 PYTHON-C-BASH-APPLICATIONS
 2 PDF REMOVE PASSWD -> 4 PYTHON-C-BASH-APPLICATIONS
+👉 **** 4-PYTHON-C-BASH-APPLICATIONS.zip -> Github Portfolio
+👉 **** CRUD -> PYTHON-CRUD-DJANGO-APPLICATION.zip -> Github Portfolio
 3 DJANGO API -> 4 PYTHON-C-BASH-APPLICATIONS
 4 reggreSSHion SSH C -> 4 PYTHON-C-BASH-APPLICATIONS
 5 C alx -> 4 PYTHON-C-BASH-APPLICATIONS
@@ -11970,6 +11972,15 @@ Rodney SendyAPI Wrapper => Consuming a Restful API + Building an Restful API
 GraphQL
 Fireship  ->  https://www.youtube.com/watch?v=eIQh02xuVw4
 NetNinja  ->  https://www.youtube.com/watch?v=xMCnDesBggM&list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y
+
+
+----------------------------------------------------
+👉 ******** Other Projects [WEB NERD]
+1 PYTHON-DJANGO-APPLICATIONS.zip -> Google Drive
+2 PYTHON-SCRIPT -APPLICATIONS.zip -> Github Portfolio
+3 PYTHON-APPLICATIONS.zip -> Google Drive
+4 Github Django && Flask Applications -> Github 
+----------------------------------------------------
 
 =====================================================================================================================================================================
 
