@@ -6377,8 +6377,10 @@ BEST PRACTICE + (clippy -> TESTING)
 ### 6. Rust editions for backward compatibility. 
 ### 7. Rust Compiler and Cargo.
 ```
+   
+-----------------------------
 
-
+# COMPUTER MEMORY
 
 ```
 👉 C                (OFFICIAL)    ->       https://en.cppreference.com/w/c/23
@@ -6404,6 +6406,23 @@ BEST PRACTICE Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE
 ```
 
 
+```
+👉 MEMORY PROBLEMS && 👉 SOLVE EACH PROBLEM
+
+-> Buffer overflow
+                     -> Use after free
+-> Memory leak
+-> Dangling pointer
+
+-> Stack/Heap exhaustion
+                     -> Null pointer dereference
+```
+👉  SOLUTIONS
+
+![title](static/img/computer-memory-solutions.jpg )
+
+
+-----------------------------
 
 ```
 👉 Bash Shell BEST PRACTICE
