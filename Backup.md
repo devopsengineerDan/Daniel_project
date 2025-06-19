@@ -100,7 +100,15 @@ Master's  
 🧨[AWARENESS]                   🧨[AWARENESS]                                 🧨[AWARENESS]  
 CHINA  ===> LION & SHEEP        [BE THE ROBOT]                                ISRAEL/UK  ===> JAHBULON 
 RUSSIA ===> SHEEP               [BE THE ANIMALS]                              EUROPE     ===> GOAT 
-AFRICA                          [BE HUMBLE & KIND] RAYMOND                    USA                
+AFRICA                          [BE HUMBLE & KIND] RAYMOND                    USA
+
+
+ 🧨 SECURITY, Liberty [LIVE/NEUTRAL], Equality [LAUGH/LOVE/GRACE][CHANGE/FORGIVE], Equity [KINDNESS/EXIST]
+ 
+     GOD              TRUTH - MORALITY       TIME
+     ILLUSION         BEAUTY - CHARITY
+     MATTER           JUSTICE                PATIENCE  🧨 BE USEFUL
+        
 ........................................................................................................................
 1 FATHER                      1 DAVID                       1 DANIEL
 Security                      Security                      Security
