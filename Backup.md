@@ -12149,7 +12149,7 @@ Insecure Deserialization Attack Explained -> https://www.youtube.com/watch?v=jwz
 What are Executables? | bin 0x00 -> https://www.youtube.com/watch?v=WnqOhgI_8wA&list=PLI_rLWXMqpSkAYfar0HRA7lykydwmRY_2&index=1
 How some functions can be Dangerous | bin 0x01 -> https://www.youtube.com/watch?v=EJtUW2AklVs&list=PLI_rLWXMqpSkAYfar0HRA7lykydwmRY_2&index=3
 Why you should Close Your Files | bin 0x02 -> https://www.youtube.com/watch?v=6SA6S9Ca5-U&list=PLI_rLWXMqpSkAYfar0HRA7lykydwmRY_2&index=3
-Dangerous Code Hidden in Plain Sight for 12 years -> https://www.youtube.com/watch?v=6SA6S9Ca5-U&list=PLI_rLWXMqpSkAYfar0HRA7lykydwmRY_2&index=3
+Dangerous Code Hidden in Plain Sight for 12 years -> https://www.youtube.com/watch?v=eTcVLqKpZJc&list=PLI_rLWXMqpSkAYfar0HRA7lykydwmRY_2&index=4
 
 
 
