@@ -105,9 +105,9 @@ AFRICA                          [BE HUMBLE & KIND] RAYMOND                    US
 
  🧨 SECURITY, Liberty [LIVE/NEUTRAL], Equality [LAUGH/LOVE/GRACE][CHANGE/FORGIVE], Equity [KINDNESS/EXIST]
  
-     GOD              TRUTH - MORALITY       TIME
+     GOD              TRUTH - MORALITY       TIME(COMPLETE)
      ILLUSION         BEAUTY - CHARITY
-     MATTER           JUSTICE                PATIENCE  🧨 BE USEFUL
+     MATTER           JUSTICE                PATIENCE(COMPLETE)  🧨 BE USEFUL -> [Remember, Speed, Strength]
         
 ........................................................................................................................
 1 FATHER                      1 DAVID                       1 DANIEL
