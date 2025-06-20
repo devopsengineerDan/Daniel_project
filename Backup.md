@@ -2429,6 +2429,7 @@ Google AdSense -> dancunmoruri@gmail.com
 Cloudflare -> dancummoruri@gmail.com : <span class="Button-label">1Paste, drop, or click to add files</span>
 
 Anaconda[Datalore Alternative] -> GITHUB  
+pyscript for Web---Anaconda -> GITHUB
 Datalore -> dancunmoruri@gmail.com
 
 CodeWars && LeetCode && AlgoExpert -> GITHUB  
