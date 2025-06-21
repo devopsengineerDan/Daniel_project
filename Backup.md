@@ -11867,7 +11867,8 @@ GO SLOW -> Pedestrian-crossing + Bumps, Bridge, Parking
 
 👉 HARDWARE
 
-1 Original Type-C cable(including Original Fast-charger header)
+1 -> Original Type-C cable(including Original Fast-charger header)
+  -> Wireless Charger
 2 Type-C usb port extension(including ethernet port)
 3 usbC-nvme stick
 4 Portable mifi
