@@ -1278,7 +1278,7 @@ MICROTIK ROUTER CONFIGURATION GUIDE
 
 -------------------------------
 
-# CYBERSECURITY ENGINEER
+# CYBERSECURITY ENGINEERING
 
 ```
 👉 CYBERSECURITY GUIDE => OWASP CHEETSHEET -> https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
@@ -1293,7 +1293,7 @@ MICROTIK ROUTER CONFIGURATION GUIDE
 
 -------------------------------
 
-# COMPUTER SCIENCE => SOFTWARE ENGINEERING 
+# MATHEMATICS AND COMPUTER SCIENCE => SOFTWARE ENGINEERING [INFORMATION ENGINEERING]
 
 1. EDUREKA
 2. free code camp
@@ -1562,11 +1562,15 @@ MIT ENGINEERING DYNAMICS -> https://www.youtube.com/playlist?list=PLUl4u3cNGP62e
 
 
 
-# TELECOMMUNICATION, ELECTRICAL AND ELECTRONICS ENGINEERING 
+# TELECOMMUNICATION, ELECTRICAL, ELECTRONICS AND COMPUTER ENGINEERING 
 
 ```
 👉 COMPUTER MOTHERBOARD ELECTRONICS GUIDE -> https://m.youtube.com/@electronicsrepairbasics_erb
 ```
+
+# MECHANICAL ENGINEERING 
+
+# MECHATRONICS ENGINEERING 
 
 ===============================================================================================================================================
 
