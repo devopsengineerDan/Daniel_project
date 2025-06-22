@@ -107,8 +107,10 @@ AFRICA                          [BE HUMBLE & KIND] RAYMOND                    US
  
      GOD              TRUTH - MORALITY       TIME(COMPLETE)
      ILLUSION         BEAUTY - CHARITY
-     MATTER           JUSTICE                PATIENCE(COMPLETE)  🧨 BE USEFUL -> [Remember, Speed, Strength]
-        
+     MATTER           JUSTICE                PATIENCE(COMPLETE)  🧨🧨🧨  BE USEFUL ---> [Remember, Speed, Strength]
+                                                                 🧨 GOLD/MONEY - WOMAN - PROPERTY
+                                                                 🧨 INHERITANCE - STEAL - HARDWORK  ---> SEX
+                                                                 🧨 KILL - STEAL - DESTROY  
 ........................................................................................................................
 1 FATHER                      1 DAVID                       1 DANIEL
 Security                      Security                      Security
