@@ -11805,8 +11805,8 @@ list disk
 ```
 👉 WINDOWS (UBUNTU TERMINAL)
 
-cd /mnt/c/Users/Dan/
-cd /mnt/c/Users/Dan/Desktop/Projects/
+cd /mnt/c/Users/Dan<username>/
+cd /mnt/c/Users/Dan<username>/Desktop/Projects/
 ```
 
 
@@ -11873,9 +11873,16 @@ GO SLOW -> Pedestrian-crossing + Bumps, Bridge, Parking
 3 usbC-nvme stick
 4 Portable mifi
 5 Power-bank
+6 👉 2 ELECTRONIC PROJECTS + [TV Guard] + {Electric cable connection + Tester Screw driver} && TOOLS
+                                                  {
+                                                  Fan Blower + Tool box + Carbon Fiber Electrostatic Discharge Anti-Static ESD Gloves - Polyurethane Palm Coated 
+                                                  Voltage Tester + Solder Tool
+🧨  COMPUTER MOTHERBOARD ELECTRONICS GUIDE -> https://m.youtube.com/@electronicsrepairbasics_erb
+                                                  }
+7 K CUSTOMIZED GPU CPU DESKTOP
 
 ==> Portable [COMPANY] 5G mifi(All lines)
-==> Samsung 990 Pro ssd(Tails,Kali, Kali Purple, Windows10 Recovery iso)
+==> Samsung 990 Pro ssd(Ubuntu20, Tails, Kali, Kali Purple, Windows10 Recovery iso)
 ````
 
 ```
@@ -11968,6 +11975,8 @@ graph LR
 2 PDF REMOVE PASSWD -> 4 PYTHON-C-BASH-APPLICATIONS
 👉 **** 4-PYTHON-C-BASH-APPLICATIONS.zip -> Github Portfolio
 👉 **** CRUD -> PYTHON-CRUD-DJANGO-APPLICATION.zip -> Github Portfolio
+👉 **** DJANGO HOSPITAL -> Github Repositories
+
 3 DJANGO API -> 4 PYTHON-C-BASH-APPLICATIONS
 4 reggreSSHion SSH C -> 4 PYTHON-C-BASH-APPLICATIONS
 5 C alx -> 4 PYTHON-C-BASH-APPLICATIONS
