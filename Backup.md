@@ -703,13 +703,13 @@ READ
 
 
 👉
-GOVERNANCE=> Cybersecurity Systems, AI Systems
+GOVERNANCE => Cybersecurity Systems, AI Systems
 GOLD
 BIG CURRENCIES => DOLLAR, POUND
 MINERALS => OIL, HIGH VALUE MINERALS
-STOCK=> Stake Holders
-BUSINESS=> Big Insurances, Big Banks
-PROPERTY=> Farming Projects, Academies, [Rentals] Real Estate Properties, [Sell] Real Estate Properties || Lands || Natural Resources
+STOCK => Stake Holders
+BUSINESS => Big Insurances, Big Banks
+PROPERTY => Farming Projects, Academies, [Rentals] Real Estate Properties, [Sell] Real Estate Properties || Lands || Natural Resources
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 👉
@@ -744,8 +744,8 @@ LOCAL INVESTORS
 LOANS
 ---------------------------
 👉
-🧨🧨🧨  No Knowledge
-🧨🧨🧨  Don't know what you're saying
+🧨🧨🧨  No KNOWLEDGE
+🧨🧨🧨  Don't know WHAT you're saying
 ```
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -880,7 +880,7 @@ POOL
 
 
 ✅
-Be Confident and Huumble
+Be Confident and Humble
 Lead with empathy
 Organized
 Ops Clandestine
@@ -3533,9 +3533,88 @@ https://extensions.gnome.org/
 
 ```
 👉 SECURE SSH ON LINUX
-👉 SSH ---> Google Drive
+👉 SSH BEST PRACTICES ---> Google Drive
+
+    sudo nano /etc/ssh/ssh_config
+    systemctl ssh reload
+    systemctl sshd reload
+    systemctl reload ssh
+    sudo systemctl reload ssh
+    sudo systemctl reload sshd
+    systemctl reload ssh
+    sudo systemctl restart sshd
+    sudo systemctl restart ssh
+    sudo systemctl enable ssh
+    sudo systemctl enable sshd
+    sudo systemctl enable ssh
+    
+************************************
+
+👉 SSH SECURE CONFIGURATION
+
+sudo nano /etc/ssh/ssh_config
 
 
+# This is the ssh client system-wide configuration file.  See
+# ssh_config(5) for more information.  This file provides defaults for
+# users, and the values can be changed in per-user configuration files
+# or on the command line.
+
+# Configuration data is parsed as follows:
+#  1. command line options
+#  2. user-specific file
+#  3. system-wide file
+# Any configuration value is only changed the first time it is set.
+# Thus, host-specific definitions should be at the beginning of the
+# configuration file, and defaults at the end.
+
+# Site-wide defaults for some commonly used options.  For a comprehensive
+# list of available options, their meanings and defaults, please see the
+# ssh_config(5) man page.
+
+Include /etc/ssh/ssh_config.d/*.conf
+
+Host *
+   ForwardAgent no
+   ForwardX11 no
+   ForwardX11Trusted no
+   PasswordAuthentication no
+   HostbasedAuthentication no
+   GSSAPIAuthentication no
+   GSSAPIDelegateCredentials no
+   GSSAPIKeyExchange no
+   GSSAPITrustDNS no
+   BatchMode no
+   CheckHostIP no
+#   AddressFamily any
+#   ConnectTimeout 0
+#   StrictHostKeyChecking ask
+#   IdentityFile ~/.ssh/id_rsa
+#   IdentityFile ~/.ssh/id_dsa
+#   IdentityFile ~/.ssh/id_ecdsa
+#   IdentityFile ~/.ssh/id_ed25519
+#   Port 22
+#   Ciphers aes128-ctr,aes192-ctr,aes256-ctr,aes128-cbc,3des-cbc
+#   MACs hmac-md5,hmac-sha1,umac-64@openssh.com
+#   EscapeChar ~
+
+   Tunnel no
+#   TunnelDevice any:any
+#   PermitLocalCommand no
+#   VisualHostKey no
+#   ProxyCommand ssh -q -W %h:%p gateway.example.com
+#   RekeyLimit 1G 1h
+#   UserKnownHostsFile ~/.ssh/known_hosts.d/%k
+    SendEnv LANG LC_*
+    HashKnownHosts no
+    GSSAPIAuthentication no
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+✅  SSH BEST PRACTICES
 
 1. Disable Root Login
 This setting should be set by default, this makes it to where all root logins via SSH are unallowed. System administrators would log in via their user account and escalate via su or sudo commands. To verify this setting or modify it on your own, you can run nano /etc/ssh/sshd_config and set the PermitRootLogin parameter to no if it is not already done. To make sure the setting is applied, you’ll need to restart the service using systemctl restart sshd or service sshd restart.
