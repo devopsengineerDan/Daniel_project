@@ -4836,8 +4836,6 @@ immunity debugger -> On Windows machine
 
 # INSTALLATIONS
 
-
-	
 ```
 👉 VIRTUALBOX CONFIGURATIONS
 
@@ -6068,12 +6066,32 @@ For java:
 sudo apt remove default-jre
 sudo apt-get remove --purge icedtea-* openjdk-*
 Then check if there is java, by running: (If it returns nothing java dependencies have been removed)
- sudo dpkg --list | grep -i jdk
+sudo dpkg --list | grep -i jdk
+```
+
+
+```
+👉 ANYDESK INSTALLATION
+
+# Add the AnyDesk GPG key
+sudo apt update
+sudo apt install ca-certificates curl apt-transport-https
+sudo install -m 0755 -d /etc/apt/keyrings
+sudo curl -fsSL https://keys.anydesk.com/repos/DEB-GPG-KEY -o /etc/apt/keyrings/keys.anydesk.com.asc
+sudo chmod a+r /etc/apt/keyrings/keys.anydesk.com.asc
+
+# Add the AnyDesk apt repository
+echo "deb [signed-by=/etc/apt/keyrings/keys.anydesk.com.asc] https://deb.anydesk.com all main" | sudo tee /etc/apt/sources.list.d/anydesk-stable.list > /dev/null
+
+# Update apt caches and install the AnyDesk client
+sudo apt update
+sudo apt install anydesk
 ```
 
 
 ```
 👉 GOOGLE-CHROME INSTALLATION ON DEBIAN DISTRIBUTION
+
 $ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 $ sudo apt install ./google-chrome-stable_current_amd64.deb
 $ sudo apt install google-chrome-stable
@@ -6091,7 +6109,7 @@ Uninstall: $ sudo dpkg -r warp-terminal
 
 
 ```
-👉 INSTALL VSCODE
+👉 VSCODE INSTALLATION
 
 FLATHUB [BEST OPTION]
 
