@@ -3303,7 +3303,7 @@ Description:
 👉 LINUX SOFTWARES
 
 🧨🌀 SYSTEM HARDENING
-Firewall -> Firewall app
+Firewall -> Firewall app / ufw
 Use latest Wifi/ Internet Security Standard e.g WPA2
 Install Anonsurf => Cybersecurity installation section
 Remove ssh, openssh, ftp, pkexec,policykit-1 => sudo apt remove openssh-client
@@ -3533,6 +3533,9 @@ https://extensions.gnome.org/
 
 ```
 👉 SECURE SSH ON LINUX
+👉 SSH ---> Google Drive
+
+
 
 1. Disable Root Login
 This setting should be set by default, this makes it to where all root logins via SSH are unallowed. System administrators would log in via their user account and escalate via su or sudo commands. To verify this setting or modify it on your own, you can run nano /etc/ssh/sshd_config and set the PermitRootLogin parameter to no if it is not already done. To make sure the setting is applied, you’ll need to restart the service using systemctl restart sshd or service sshd restart.
@@ -3926,7 +3929,7 @@ sudo ifup wlan0 is the same as sudo ifconfig wlan0 up sudo ifdown wlan0 is the s
 
 👉 3RD BEST OPTION
 
-There is Danijel J's two options are good, but there is also a 3rd option if you have this working via the 'standard Ubuntu tool' using nmcli, which should already be installed at /usr/bin/nmcli.
+There is Daniel J's two options are good, but there is also a 3rd option if you have this working via the 'standard Ubuntu tool' using nmcli, which should already be installed at /usr/bin/nmcli.
 
 First, run
 
@@ -3982,7 +3985,7 @@ $ sudo systemctl status fstrim.timer
 
 
 🧨🌀 SYSTEM HARDENING
-Firewall -> Firewall app
+Firewall -> Firewall app /ufw
 Use latest Wifi/ Internet Security Standard e.g WPA2
 Install Anonsurf => Cybersecurity installation section
 Remove ssh, openssh, ftp, pkexec,policykit-1 => sudo apt remove openssh-client
@@ -6035,10 +6038,9 @@ vcpkg Windows and Linux os package manager -> RIGID and mostly for private useca
 
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------
 👉 EXECUTING PYTHON (INTERPRETER) CODE
 
---------------------------------------------------------------------------------------------------------------------------------------
 1 BASH EXECUTION OF PYTHON IN LINUX (Here do not use pyinstaller) -> https://www.youtube.com/watch?v=vEQ8CXFWLZU
 2 DESKTOP EXECUTION OF PYTHON IN LINUX (Here do not use pyinstaller) -> https://www.youtube.com/watch?v=9CTmC5Y7QeM
 3 PYINSTALLER -> https://www.youtube.com/watch?v=p3tSLatmGvU
@@ -6223,7 +6225,7 @@ C1.png
 
 1. Reduce pixels in images.
 2. Have local scripts on project folder"; Don't Use API's or LINKS.
-3. Compress Front-end scripts. e.g htmx, css, pyscript
+3. Compress Front-end scripts. e.g html, htmx, css, pyscript
 ```
 
 
@@ -6416,6 +6418,13 @@ BEST PRACTICE + (clippy -> TESTING)
 # COMPUTER MEMORY
 
 ```
+👉👉👉 SAFE MODE
+👉👉👉 DEBUG MODE
+👉👉👉 PERFORMANCE
+```
+
+
+```
 👉 C                (OFFICIAL)    ->       https://en.cppreference.com/w/c/23
 
 
@@ -6586,11 +6595,15 @@ Software Engineering -> Pydantic
 👉 PYTHON INTERPRETER APPLICATION USE-CASE 
 
 ```
-------------
+
 👉 SIMULATION
+++++++++++++++
 👉 RESEARCH
 👉 BACK-TESTING
-------------
++++++++++++++++
+👉 PERFORMANCE
+
+-------------------------------------------------------
 Cybersecurity
 Computer Networks
 
