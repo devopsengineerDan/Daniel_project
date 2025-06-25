@@ -1209,9 +1209,10 @@ PASSIVE LEARNING <===> ACTIVE LEARNING
 
 
 ```
-FOCUS ===> FEEL - SPEAK
-IMAGINATION ===> EMOTION
-REPETITION
+                                ----------> 🧨 ALGORITHM
+FOCUS ===> FEEL - SPEAK         ----------> ABSTRACTION
+IMAGINATION ===> EMOTION        ----------> PATTERN-RECOGNITION 
+REPETITION                      ----------> DECOMPOSITION
 ```
 
 
@@ -1292,7 +1293,7 @@ MICROTIK ROUTER CONFIGURATION GUIDE
 # CYBERSECURITY ENGINEERING
 
 ```
-👉 CYBERSECURITY GUIDE => OWASP CHEETSHEET -> https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
+👉 CYBERSECURITY GUIDE => OWASP CHEATSHEET -> https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
 
 
 👉 MIT NETWORK SECURITY -> https://www.youtube.com/watch?v=QOtA76ga_fY&list=PLBMO3ORTdwldCqlHVcbJSOa3GxLS6bpeE
