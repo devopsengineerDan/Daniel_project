@@ -1258,7 +1258,7 @@ REMEMBER[REPETITIVE] => REGURGITATE
 # ENGINEERING 
 
 ```
-MIT FINANCE THEORY https://www.youtube.com/watch?v=LfaMVlDaQ24
+MIT FINANCE THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE&list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW
 Financial Markets(Insurance, Finance and Economics) with Robert Shiller by Yale University https://www.youtube.com/watch?v=WQui_3Hpmmc&list=PL8FB14A2200B87185
 HAVARD Computer Science CS50 https://www.youtube.com/watch?v=LfaMVlDaQ24
 
