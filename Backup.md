@@ -1267,6 +1267,7 @@ WEB SECURITY ACADEMY #portswigger https://www.youtube.com/watch?v=LLrZMCRvP8Y&li
 
 YOUTUBE CS50 GAME DEVELOPMENT https://www.youtube.com/results?search_query=CS+50+game+development
 KHAN ACADEMY YOUTUBE
+CS50 EDX WEBSITE 
 ```
 
 # FINANCIAL ENGINEERING 
