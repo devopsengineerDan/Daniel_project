@@ -1254,6 +1254,21 @@ REMEMBER[REPETITIVE] => REGURGITATE
 
 ```
 
+
+# ENGINEERING 
+
+```
+MIT FINANCE THEORY https://www.youtube.com/watch?v=LfaMVlDaQ24
+Financial Markets(Insurance, Finance and Economics) with Robert Shiller by Yale University https://www.youtube.com/watch?v=WQui_3Hpmmc&list=PL8FB14A2200B87185
+HAVARD Computer Science CS50 https://www.youtube.com/watch?v=LfaMVlDaQ24
+
+WEB SECURITY ACADEMY https://www.youtube.com/watch?v=lR3TBT-cDU0&list=PL5bdOoBoOrbYS0cupsz9Q_Qhj9hCPetnP
+WEB SECURITY ACADEMY #portswigger https://www.youtube.com/watch?v=LLrZMCRvP8Y&list=PLDVnRJQ0p1WUP6zgjrlrDq5wixceuE5Do
+
+YOUTUBE CS50 GAME DEVELOPMENT https://www.youtube.com/results?search_query=CS+50+game+development
+KHAN ACADEMY YOUTUBE
+```
+
 # FINANCIAL ENGINEERING 
 
 ```
