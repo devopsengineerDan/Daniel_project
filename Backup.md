@@ -2622,6 +2622,13 @@ ID number
 
 # FINANCE, MARKETING & ECONOMICS
 
+
+```
+🧨 OFFGRID
+MONEY ------------> SAFETY ------------> GROWTH ------------> LOGISTICS
+```
+
+
 ```
 ----------------------------------
 TRADES => Futures, Commodities, Stocks, Cryptocurrency, Forex
