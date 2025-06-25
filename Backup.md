@@ -208,9 +208,13 @@ NETWORKING ===> 1 HOST MEETUPS, 2 HYPER PERSONALIZED EMAIL, 3 EVENTS
 
       
 🧨🧨🧨🧨🧨🧨🧨🧨🧨 DUALITY OF LIFE 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
-       God                                                  Ambition
-Money                                       Money
-       Blood                                                Power & Patience
+       GOD                                                  Ambition
+MONEY                                       Money
+       BLOOD                                                Power & Patience
+
+                                            ===> FAITH
+                                            ===> RELIGION
+                                            ===> TAX
 -----------------------------------------------------------------------------------
       Double-speak                                          Knowledge & Clarity
       Isolation                                             Wisdom & Clarity
@@ -1198,6 +1202,11 @@ Heroku, Linode, NameCheap
 # ACADEMIA
 
 🧨 STUDYING BEST PRACTICE
+
+```
+PASSIVE LEARNING <===> ACTIVE LEARNING
+```
+
 
 ```
 FOCUS ===> FEEL - SPEAK
@@ -2418,10 +2427,13 @@ whatsapp: +254711444518 -------> 147369
           +254706738969 -------> 147369
 
    
-blueskyapp: https://bsky.app/ @engineerdancun ALPHA@987
+Twitter/X Alternative: blueskyapp: https://bsky.app/ @engineerdancun ALPHA@987
 
+DEPLOYMENT
 linode -> GITHUB
 Heroku -> GITHUB
+https://railway.com/ ===> SMALL TO MEDIUM PROJECTS
+https://render.com/  ===> MEDIUM TO LARGE PROJECTS
 
 Ngrok -> GITHUB
 LocalXpose -> LocalXposevPYQ3NXx9T!deGY
@@ -2545,13 +2557,40 @@ Ubuntu Guest Magazine@987
 Ubuntu 20.04 Kingdom@#987
 
 
------------------------------------------------------------------
-
+--------------------------------------------------------------------------------------------------------------
 
 STEAM DETAILS:
-DanAlphaandOmega
-Standarduser1
+GAMER
+danalphaandomega
+@#ALPHA&&OMEGA1user
 
+----------------------
+
+XBOX DETAILS
+dancunmoruri@gmail.com
+
+-----------------------------------------------------------------
+
+Electronic Arts(EA)GAMES
+===> LINUX  
+dancunmoruri@gmail.com
+@#ALPHA&&OMEGA1user
+EA ID
+dvvwbhjku637
+Xbox
+Dan39351
+
+----------------------
+
+===> WINDOWS 
+dancunmoruri@gmail.com
+@#ALPHA&&OMEGA1user
+EA ID
+dvvwbhjku637
+Steam
+GAMER
+danalphaandomega
+@#ALPHA&&OMEGA1user
 
 
 http://portal.jkuat.ac.ke/Home/Index 
@@ -2718,7 +2757,6 @@ USER Education Security
 
 
 ```
-
 🧨🧨 CYBERSECURITY && ARTIFICIAL INTELLIGENCE
 👉 CONTROLS ===> DATA PREVENTION + RETRIEVAL
             ===> ENCRYPTION
@@ -2748,7 +2786,7 @@ USER Education Security
 🧨🧨🧨🧨🧨 PROJECTS
 👉 2 ELECTRONIC PROJECTS
 👉 Network + CUSTOMER SUPPORT + MANAGEMENT SYSTEM
-👉 MANAGEMENT SYSTEM
+👉 MANAGEMENT SYSTEM ---> Insurance, Finance
 👉 HR MANAGEMENT SYSTEM
    -> Education => Tutor, Books, School ERP
    -> Car
@@ -4035,7 +4073,7 @@ nmcli con up <mySSID>
 ```
 
 
-# FIREWALL[ufw], VPN[Brave Browser], TOR[DARK WEB], AUTOTOR---> Github repo
+# FIREWALL[ufw], VPN[Brave Browser], TOR[DARK WEB] ANONSURF---> Github repo https://check.torproject.org/, AUTOTOR---> Github repo
 
 ```
 sudo apt install ufw
@@ -4763,7 +4801,7 @@ Microsoft Didital Defense Report
 👉 Objective: Networks, API, Database and Endpoint Detection Response[Protection|Detection(Sniffer Analyser)|Response(BlueTeam and RedTeam)]Artificial Intelligence System
 🌀 Interest in research: http,tcp,udp
 🧨🧨 Implementation and Tools: ssh,ftp,samba,telnet,linux os, forensics
-🧨🧨 Controls: Two factor Authentication + Very Strong Pasword/Keys Hash + Key Hash Logins to Secure Hard drive Partition + USB Key Hash Login
+🧨🧨 Controls: Two-factor Authentication + Very Strong Pasword/Keys Hash + Key Hash Logins to Secure Hard drive Partition + USB Key Hash Login
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🧨 Endpoint Detection Response[Protection|Detection(Sniffer Analyser)|Response(BlueTeam and RedTeam)]Artificial Intelligence System
@@ -5120,7 +5158,8 @@ crontab -e
 
 7. go to your browser / pc change sock proxy to 127.0.0.1:9050
 
- 🧨🧨  USING (Github anonsurf-tool)ANONSURF  ====> MAC ADDRESS [Presentation, Session, Transport, Network & Data link Layers]
+ 🧨🧨  USING VPN ANONSURF (Github anonsurf-tool)ANONSURF  ====> MAC ADDRESS [Presentation, Session, Transport, Network & Data link Layers]
+                                                          ====> CHECK IF TOR IS WORKING https://check.torproject.org/
 
 I. Cloning the anonsurf repo in the local system
 
