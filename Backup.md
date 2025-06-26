@@ -4917,6 +4917,9 @@ BACKEND (Python Frameworks) + (Python) => UPDATE & UPGRADE
 SQL INJECTION
 Limit user input name + consider it as String[Input Validation]
 Limit user password + consider it as String[Input Validation]
+
+
+
 ```
 
 
@@ -4946,6 +4949,12 @@ Limit user password + consider it as String[Input Validation]
   Backend API => Python, Django, Flask, fastAPI must receive security updates and upgrades + must use strong and highly secure security key + security key must NOT be stored within the application folder
   Backend Serialization and Deserialization => Python, Django, Flask, fastAPI must receive security updates and upgrades + both Serialization and Deserialization must occur in server side and ouput transferred to client-side + server must NOT 
   receive serialized data from client-side to deserialize or server must NOT receive deserialized data from client-side to serialize
+
+************************************************************************************************************************************************************************************
+
+🧨🧨🧨 SECURE TRANSACTIONS
+
+ Unique callback identifier and IP address whitening
 ``` 
 
 
