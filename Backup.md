@@ -4684,7 +4684,7 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 # CYBERSECURITY ===> CISM CERTIFICATION  www.isaca.org/cismapp -> In order to be CISM Certified
 
 ```
-✅ PROFESSIONAL CERTIFICATION
+✅ PROFESSIONAL CERTIFICATIONS
 
 👉 CISSP and CCSP => EVERYTHING
    [NETWORKS]
@@ -4865,6 +4865,7 @@ tcp,udp                              GraphQL
 -------------------------------
 
 
+![title](static/img/Cybersecurity-attacks.png)
 
 # CYBERSECURITY BEST PRACTICES
 
@@ -6612,7 +6613,7 @@ BEST PRACTICE Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE
 ```
 👉  SOLUTIONS
 
-![title](static/img/computer-memory-solutions.jpg )
+![title](static/img/computer-memory-solutions.jpg)
 
 
 -----------------------------
