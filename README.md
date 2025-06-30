@@ -5,7 +5,8 @@
 
 COMMUNICATION ===> YouTube
 Detection System ===> Wazuh
-Global Markets ===> PHOTON TRADING
+Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE&list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW
+                    PHOTON TRADING
                     VECTOR SMC
                     ICT
 ```
