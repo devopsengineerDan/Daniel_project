@@ -206,7 +206,36 @@ NETWORKING ===> 1 HOST MEETUPS, 2 HYPER PERSONALIZED EMAIL, 3 EVENTS
 
 
 
-      
+===============================================================================================================================
+
+
+
+PREPARED-CONFIDENCE | PRO-ACTIVE
+INTERNAL | EXTERNAL
+INTRINSIC | EXTRINSIC
+ALL ---****---
+
+-------------------------------------------------------------------------------------------------------------------------
+
+RESPONSIBLE            EFFECTIVE           HELPFUL               SOLID  
+            ---------------DO NOT BE------------------        
+IRRESPONSIBLE          INEFFECTIVE         HELPLESS              UNDER THE MERCY
+
+-------------------------------------------------------------------------------------------------------------------------
+
+                                                      KILL == EGO / INTELLIGENT ---> LEGEND
+                                                      Naive
+STEAL == CONTINUOUSLY ---> GAIN
+Foolish
+                                                      DESTROY == PRIDE ---> WIN
+                                                      Stupid      
+
+
+
+===============================================================================================================================
+
+
+
 🧨🧨🧨🧨🧨🧨🧨🧨🧨 DUALITY OF LIFE 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
        GOD                                                  Ambition
 MONEY                                       Money
