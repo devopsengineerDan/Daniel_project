@@ -1262,8 +1262,6 @@ MIT FINANCE THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE&list=PLUl4u3cNGP6
 Financial Markets(Insurance, Finance and Economics) with Robert Shiller by Yale University https://www.youtube.com/watch?v=WQui_3Hpmmc&list=PL8FB14A2200B87185
 HAVARD Computer Science CS50 https://www.youtube.com/watch?v=LfaMVlDaQ24
 
-WEB SECURITY ACADEMY https://www.youtube.com/watch?v=lR3TBT-cDU0&list=PL5bdOoBoOrbYS0cupsz9Q_Qhj9hCPetnP
-WEB SECURITY ACADEMY #portswigger https://www.youtube.com/watch?v=LLrZMCRvP8Y&list=PLDVnRJQ0p1WUP6zgjrlrDq5wixceuE5Do
 
 YOUTUBE CS50 GAME DEVELOPMENT https://www.youtube.com/results?search_query=CS+50+game+development
 KHAN ACADEMY YOUTUBE
@@ -1310,10 +1308,13 @@ MICROTIK ROUTER CONFIGURATION GUIDE
 
 ```
 👉 CYBERSECURITY GUIDE => OWASP CHEATSHEET -> https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
+👉 WEB SECURITY ACADEMY https://www.youtube.com/watch?v=lR3TBT-cDU0&list=PL5bdOoBoOrbYS0cupsz9Q_Qhj9hCPetnP
+👉 WEB SECURITY ACADEMY #portswigger https://www.youtube.com/watch?v=LLrZMCRvP8Y&list=PLDVnRJQ0p1WUP6zgjrlrDq5wixceuE5Do
 
 
 👉 MIT NETWORK SECURITY -> https://www.youtube.com/watch?v=QOtA76ga_fY&list=PLBMO3ORTdwldCqlHVcbJSOa3GxLS6bpeE
 👉 MIT DYNAMIC PROGRAMMING -> https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLZES21J5RvsHOeSW9Vrvo0EEc2juNe3tX
+
 
 👉 Algorithms & Data Structures -> https://www.youtube.com/watch?v=XGClOyyliPs&list=PL7yh-TELLS1HgoWUfxGzoaa7PEJ2Q-RfC
 👉 Python Machine Learning Tutorial -> https://www.youtube.com/watch?v=jg5paDArl3E&list=PL7yh-TELLS1EZGz1-VDltwdwZvPV-jliQ
