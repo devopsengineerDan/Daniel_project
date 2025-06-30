@@ -1509,6 +1509,14 @@ Pointers -> https://www.youtube.com/watch?v=Hb-bmAmbwvo&list=PL7yh-TELLS1GafZOVH
 C to LLVM IR Assembly -> https://www.youtube.com/watch?v=wt7a5BOztuM
 ```
 
+```
+👉 ASSEMBLY
+
+WASM
+ARM64
+x86_64
+```
+
 -------------------------------
 
 ```
