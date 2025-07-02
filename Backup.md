@@ -621,7 +621,7 @@ Family
                                🧨 I -> INFORMATION => OBSERVE, FEEL, LISTEN, TASTE, 6TH SENSE
                                🧨 S -> SILENCE
                                🧨 S -> STRATEGIC COMMUNICATION
-                               🧨 H -> HARMONY WITH NATURE
+                               🧨 H -> HARMONY WITH NATURE -- INTEGRATED -- INDUSTRY
 
 
 *******************************************************************************************************
@@ -631,7 +631,7 @@ Family
 🧨 [INNOVATE + INVENT]
 🧨 PERFORMANCE
                                  🧨 CREATE 👉 ISSH
-🧨 IMPROVE 👉
+🧨 IMPROVE 👉 GROWTH
                                  🧨 MAINTAIN 👉 PERFORMANCE
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1337,8 +1337,9 @@ MICROTIK ROUTER CONFIGURATION GUIDE
 
 ```
 👉 CYBERSECURITY GUIDE => OWASP CHEATSHEET -> https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
-👉 WEB SECURITY ACADEMY https://www.youtube.com/watch?v=lR3TBT-cDU0&list=PL5bdOoBoOrbYS0cupsz9Q_Qhj9hCPetnP
-👉 WEB SECURITY ACADEMY #portswigger https://www.youtube.com/watch?v=LLrZMCRvP8Y&list=PLDVnRJQ0p1WUP6zgjrlrDq5wixceuE5Do
+👉 WEB SECURITY ACADEMY -> https://www.youtube.com/watch?v=lR3TBT-cDU0&list=PL5bdOoBoOrbYS0cupsz9Q_Qhj9hCPetnP
+👉 WEB SECURITY ACADEMY #portswigger -> https://www.youtube.com/watch?v=LLrZMCRvP8Y&list=PLDVnRJQ0p1WUP6zgjrlrDq5wixceuE5Do
+👉 VIOLENT PYTHON
 
 
 👉 MIT NETWORK SECURITY -> https://www.youtube.com/watch?v=QOtA76ga_fY&list=PLBMO3ORTdwldCqlHVcbJSOa3GxLS6bpeE
