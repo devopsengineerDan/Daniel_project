@@ -1542,9 +1542,13 @@ C to LLVM IR Assembly -> https://www.youtube.com/watch?v=wt7a5BOztuM
 ```
 👉 ASSEMBLY
 
-WASM
-ARM64
-x86_64
+LLVM IR assembly
+Go assembly
+C assembly precise compatibility
+----------------------------
+WASM CPU Architecture
+ARM64 CPU Architecture
+x86_64 CPU Architecture
 ```
 
 -------------------------------
@@ -12128,6 +12132,45 @@ GO SLOW -> Pedestrian-crossing + Bumps, Bridge, Parking
 > USE COMFORTABLE BRAS
 ```
 
+
+
+
+```
+👉 @ AI TOOLS For Business Optimization
+
+EntryPointAI.com/Masterclass
+Tinywow.com
+
+AI CODE TOOL: chatllm.abacus.ai
+```
+
+```
+👉  sterlingtuitioncentre0.github.io
+{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}
+
+sterlingtuitioncentre0@gmail.com
+CateMolly1992
+
+
+
+👉 www.namecheap.com
+SterlingManager
+MANAGER@987#
+```
+
+
+```
+👉 TRADING
+
+https://www.henriotgroup.com/
+https://www.gammadeltafund.com/
+https://www.tradingview.com/symbols/AUDUSD/?utm_campaign=ticker-tape&utm_medium=widget_new&utm_source=www-gammadeltafund-com.filesusr.com
+https://t.me/thegammadeltafund
+```
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 -------------------------------
 
 👉 The following are further optimization settings that can be figured once your BIOS is modded.
@@ -12189,8 +12232,6 @@ graph LR
 ```
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
 
 
 # PROJECTS LIST
@@ -12470,11 +12511,7 @@ https://github.com/devopsengineerDan/pyspark-ETL-project-and-airflow-Data-pipeli
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-@ AI TOOLS For Business Optimization
-```
-EntryPointAI.com/Masterclass
-Tinywow.com
-```
+
 
 
 
@@ -12551,32 +12588,6 @@ AFTER getting 2ND CERT = REST.
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 ```
-
-
-```
-👉  sterlingtuitioncentre0.github.io
-{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}
-
-sterlingtuitioncentre0@gmail.com
-CateMolly1992
-
-
-
-👉 www.namecheap.com
-SterlingManager
-MANAGER@987#
-```
-
-
-```
-👉 TRADING
-
-https://www.henriotgroup.com/
-https://www.gammadeltafund.com/
-https://www.tradingview.com/symbols/AUDUSD/?utm_campaign=ticker-tape&utm_medium=widget_new&utm_source=www-gammadeltafund-com.filesusr.com
-https://t.me/thegammadeltafund
-```
-
 
 
 
