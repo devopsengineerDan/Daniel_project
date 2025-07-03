@@ -23,6 +23,8 @@ Long-term ===> Acceptable Profit
 Mid-term  ===> Acceptable Profit
 Short-term  ===> Acceptable Profit
 -------------------------------------------
+===> DO NOT BE TOO GOOD --- Be Harmonious, Integrated, Industry
+===> DO NOT BE A PSYCHOPATH
 ===> Allow Minimum Loss
 
 ================================================================================
