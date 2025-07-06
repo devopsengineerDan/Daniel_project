@@ -6543,6 +6543,7 @@ DATABASE FLOW-CHART DIAGRAM
 ![title](static/img/Big-O-Time-and-Space-Complexity-4.jpg)
 ![title](static/img/ML-Concepts-Summary.jpg)
 ![title](static/img/ml-summary.png)
+
 ```
 👉 PYTHON           (OFFICIAL)   ->     https://docs.python.org/
                                  ->     https://www.pythontutorial.net/python-oop/
@@ -6568,7 +6569,7 @@ BEST PRACTICE + (autopep8 idiomatic python using flake8, pytest and hypothesis, 
                  __all__ = ["module1", "module2"]
            -Python dev tools  (i.e) Python dev tools image
            -Python dev imports (i.e) Python dev imports image
-           -Use bash for execution in main file. (i.e) #!/usr/bin/env python
+           -Use bash for execution in main file. (i.e) #!/usr/bin/env python OR #!/usr/bin/python
            -Use utf-8 for character encoding in main file. (i.e) # coding: utf-8
            -Avoid using header links (i.e) HTML,CSS,Pyscript. Have files located locally on project folder
            -Have pyproject.toml file to manage setup configurations, for flexibility in execution of program  and for points(2,3 and 4).
@@ -6676,7 +6677,7 @@ BEST PRACTICE Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE
 
 
 ```
-👉  SQL  => Consistency, Control and Performance
+👉  SQL ===> Consistency, Control, Performance and Stability
 
 ### 1. Priviledge rights ONLY to Administrator + Strong Password
 ### 2. Parametized Queries with security methods. Example for Dynamic SQL  Parametized Query sp_executesql
@@ -7656,7 +7657,6 @@ Create a new Pull Request in GitHub.
 
 # PYTHON 
 
-
 ```
 👉 INSTALL PYTHON2
 
@@ -7686,6 +7686,7 @@ wget https://bootstrap.pypa.io/pip/2.7/get-pip.py
 sudo python2.7 get-pip.py
 
 ```
+
 
 ```
 👉 PYTHON INSTALLATION
@@ -7788,9 +7789,11 @@ Install _ONCE_               -> 1st Option
                                 export PATH="$HOME/.pipenv/bin:$PATH"
                                 echo $PATH
 ```
+
+
 ```
 👉👉👉 OLD    
-**Go to Project Folder**
+***Go to Project Folder***
 
 Create env:     python3 -m venv my-project-env
 Activate env:   source my-project-env/bin/activate
@@ -7812,8 +7815,10 @@ Upgrade Dependencies:     pipenv install -r requirements.txt --upgrade
 Deactivate:               deactivate
 ```
 
+
 ```
-👉👉👉 NEW 
+👉👉👉 NEW
+
 Check for Already Existing Environment ===> pipenv --venv
 Remove Already Existing Environment(Ensure you are in the current activated environment) ===> pipenv --rm
 Create a new project using Python 3.10, specifically ===> pipenv -- python3.10
@@ -8394,7 +8399,7 @@ pip install djangorestframework
 
 # FastAPI
 
-👉 BEST PRACTICE =>  -> https://www.youtube.com/watch?v=cbASjoZZGIw
+👉 BEST PRACTICE =>  https://www.youtube.com/watch?v=cbASjoZZGIw
 
 ```
 ### 1. It is plain Python.
@@ -8453,8 +8458,8 @@ pip install djangorestframework
 export FLASK_APP=application/main.py
 export FLASK_ENV=development
 flask run
-**BEST PRACTICE**
-**To run main function using this command, where FLASK_APP points to __init.py__. __init.py__ sets a variable app to an instance of Flask**
+***BEST PRACTICE***
+***To run main function using this command, where FLASK_APP points to __init.py__. __init.py__ sets a variable app to an instance of Flask***
 python3 -m flask run 
 ```
 
@@ -9406,6 +9411,14 @@ We saw how to configure Docker and other pre-requisites, as well as deploy an Ng
 # AI COMPUTATION
 
 ```
+👉 RUN PYTHON ON TERMINAL
+
+$ python train.py --train_body=True --epochs=50
+```
+
+-------------------------------
+
+```
 👉 WEKA DATA SCIENCE SOFTWARE
 
  cd weka-3-8-3/
@@ -9458,7 +9471,6 @@ conda deactivate
 
 
 ```
-
 👉👉👉  NEW
 	
 👉 INSTALL ANACONDA On Debian 12
@@ -9585,7 +9597,7 @@ Enable  -extension manager
 
 +++++++++++++++++++++
 
- package cache : /home/dan/anaconda3/pkgs
+          package cache : /home/dan/anaconda3/pkgs
                           /home/dan/.conda/pkgs
 			  
 			  
@@ -9638,12 +9650,11 @@ print(xyz.head(1))
 
 -------------------------------
 
-👉 FEATURE ENGINEERING  https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114
+👉 FEATURE ENGINEERING ===> https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114
 
 👉 BEST TECHNIQUE 
 
 ```
-
 •	ExhaustiveFeatureSelector: Optimal feature sets by considering all possible feature combinations
 •	Overview
 •	Example 1 - A simple Iris example
@@ -10426,6 +10437,9 @@ Replacing the missing values with the maximum occurred value in a column is a go
 #Max fill function for categorical columns
 data['column_name'].fillna(data['column_name'].value_counts()
 .idxmax(), inplace=True)
+
+
+
 2.Handling Outliers
 Before mentioning how outliers can be handled, I want to state that the best way to detect the outliers is to demonstrate the data visually. All other statistical methodologies are open to making mistakes, whereas visualizing the outliers gives a chance to take a decision with high precision. Anyway, I am planning to focus visualization deeply in another article and let’s continue with statistical methodologies.
 Statistical methodologies are less precise as I mentioned, but on the other hand, they have a superiority, they are fast. Here I will list two different ways of handling outliers. These will detect them using standard deviation, and percentiles.
@@ -10455,6 +10469,9 @@ upper_lim = data['column'].quantile(.95)
 lower_lim = data['column'].quantile(.05)
 data.loc[(df[column] > upper_lim),column] = upper_lim
 data.loc[(df[column] < lower_lim),column] = lower_lim
+
+
+
 3.Binning
 Image for post
 Binning illustration of numerical data
@@ -10503,6 +10520,9 @@ data['Continent'] = np.select(conditions, choices, default='Other')
 2  Australia          Other
 3      Italy         Europe
 4     Brazil  South America
+
+
+
 4.Log Transform
 Logarithm transformation (or log transform) is one of the most commonly used mathematical transformations in feature engineering. What are the benefits of log transform:
 It helps to handle skewed data and after transformation, the distribution becomes more approximate to normal.
@@ -10525,6 +10545,9 @@ data['log'] = (data['value']-data['value'].min()+1) .transform(np.log)
 5      2   1.09861          3.25810
 6     35   3.58352          4.07754
 7    -12       nan          2.48491
+
+
+
 5.One-hot encoding
 One-hot encoding is one of the most common encoding methods in machine learning. This method spreads the values in a column to multiple flag columns and assigns 0 or 1 to them. These binary values express the relationship between grouped and encoded column.
 This method changes your categorical data, which is challenging to understand for algorithms, to a numerical format and enables you to group your categorical data without losing any information. (For details please see the last part of Categorical Column Grouping)
@@ -10533,6 +10556,9 @@ One hot encoding example on City column
 Why One-Hot?: If you have N distinct values in the column, it is enough to map them to N-1 binary columns, because the missing value can be deducted from other columns. If all the columns in our hand are equal to 0, the missing value must be equal to 1. This is the reason why it is called as one-hot encoding. However, I will give an example using the get_dummies function of Pandas. This function maps all values in a column to multiple columns.
 encoded_columns = pd.get_dummies(data['column'])
 data = data.join(encoded_columns).drop('column', axis=1)
+
+
+
 6.Grouping Operations
 In most machine learning algorithms, every instance is represented by a row in the training dataset, where every column show a different feature of the instance. This kind of data called “Tidy”.
 Tidy datasets are easy to manipulate, model and visualise, and have a specific structure: each variable is a column, each observation is a row, and each type of observational unit is a table.
@@ -10559,6 +10585,9 @@ sums = grouped[sum_cols].sum().add_suffix('_sum')
 avgs = grouped[mean_cols].mean().add_suffix('_avg')
 
 new_df = pd.concat([sums, avgs], axis=1)
+
+
+
 7.Feature Split
 Image for postImage for post
 Photo by Jaxon Lott on Unsplash
@@ -10602,6 +10631,9 @@ data.title.str.split("(", n=1, expand=True)[1].str.split(")", n=1, expand=True)[
 2    1995
 3    1995
 4    1995
+
+
+
 8.Scaling
 In most cases, the numerical features of the dataset do not have a certain range and they differ from each other. In real life, it is nonsense to expect age and income columns to have the same range. But from the machine learning point of view, how these two columns can be compared?
 Scaling solves this problem. The continuous features become identical in terms of the range, after a scaling process. This process is not mandatory for many algorithms, but it might be still nice to apply. However, the algorithms based on distance calculations such as k-NN or k-Means need to have scaled continuous features as model input.
@@ -10637,6 +10669,9 @@ data['standardized'] = (data['value'] - data['value'].mean()) / data['value'].st
 5      2         -0.52
 6     35          0.42
 7    -12         -0.92
+
+
+
 9.Extracting Date
 Though date columns usually provide valuable information about the model target, they are neglected as an input or used nonsensically for the machine learning algorithms. It might be the reason for this, that dates can be present in numerous formats, which make it hard to understand by algorithms, even they are simplified to a format like "01–01–2017".
 Building an ordinal relationship between the values is very challenging for a machine learning algorithm if you leave the date columns without manipulation. Here, I suggest three types of preprocessing for dates:
@@ -11251,8 +11286,8 @@ We can balance dataset by oversampling the minority class or by undersampling th
 # DJANGO MODELS
 
 ```
-$pip3 install pillow #image library
-$pip3 install psycopg2 #connector to db
+$ pip3 install pillow #image library
+$ pip3 install psycopg2 #connector to db
 
 Include this in settings.py
 #app definition
