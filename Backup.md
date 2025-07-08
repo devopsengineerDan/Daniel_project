@@ -168,6 +168,7 @@ NETWORKING ===> 1 HOST MEETUPS, 2 HYPER PERSONALIZED EMAIL, 3 EVENTS
 -> Connecting & Networking
 -> Public speaking & Communication
 -> Sales & Persuasion
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
       🧨 DANGER/CONSISTENT ===> MACHIAVELLIAN---[SHADOW/SECRET SYSTEM] 
@@ -241,7 +242,7 @@ INFORMED DECISION & ACTION
 -------------------------------------------------------------------------------------------------------------------------
 
 RESPONSIBLE      ****BULL****      EFFECTIVE           HELPFUL               SOLID  
-            ---------------DO NOT BE/ HIT A BRICK WALL------------------        
+🧨🧨🧨🧨🧨🧨 ---------------DO NOT BE/ HIT A BRICK WALL------------------ 🧨🧨🧨🧨🧨🧨       
 IRRESPONSIBLE          INEFFECTIVE         HELPLESS              UNDER THE MERCY
 
 -------------------------------------------------------------------------------------------------------------------------
