@@ -105,12 +105,12 @@ AFRICA                          [BE HUMBLE & KIND] RAYMOND                    US
 
  🧨 SECURITY, Liberty [LIVE/NEUTRAL], Equality [LAUGH/LOVE/GRACE][CHANGE/FORGIVE], Equity [KINDNESS/EXIST]
  
-     GOD              TRUTH - MORALITY       TIME(COMPLETE)
-     ILLUSION         BEAUTY - CHARITY
-     MATTER           JUSTICE                PATIENCE(COMPLETE)  🧨🧨🧨  BE USEFUL ---> [Remember, Speed, Strength]
-                                                                 🧨 GOLD/MONEY - WOMAN - PROPERTY
-                                                                 🧨 INHERITANCE - STEAL - HARDWORK  ---> SEX
-                                                                 🧨 KILL - STEAL - DESTROY  
+🧨KNOW            GOD             TRUTH - MORALITY       TIME(COMPLETE)
+🧨FREE-MARKET     ILLUSION        BEAUTY - CHARITY
+🧨COMPETITION     MATTER          JUSTICE                PATIENCE(COMPLETE)   🧨🧨🧨  BE USEFUL ---> [Remember, Speed, Strength]
+                                                                              🧨 GOLD/MONEY - WOMAN - PROPERTY
+                                                                              🧨 INHERITANCE - STEAL - HARDWORK  ---> SEX
+                                                                              🧨 KILL - STEAL - DESTROY  
 ........................................................................................................................
 1 FATHER                      1 DAVID                       1 DANIEL
 Security                      Security                      Security
@@ -126,10 +126,52 @@ Competitive                   Hard work(Realistic)          Realistic(High perfo
 CASH FLOW ---> Compliance
            BALANCE SHEET[ASSET=INCOME+EXPENSE] ---> Competition
 
+
+
+🧨🧨🧨 STOIC && LIBERAL 🧨🧨🧨
+ST -> Marcus Aurelius, Socrates
+OI -> Seneca Research[Categorise,Review]
+C  -> Aristotles, Epictitus
+
+===> COURAGE, WISDOM, TEMPERATE/TOLERANCE, JUSTICE
+===> LIBERAL
+
+
+
+🧨🧨🧨 BEHAVIOUR  🧨🧨🧨
+Super Ego -> Authority
+===> Anxious
+Ego -> Secure
+Id -> Detached
+
+===> DISFUNCTIONAL BEHAVIOUR
+Visual
+Speech
+Social
+Physical
+
+
+
+🧨🧨🧨 STRUCTURE  🧨🧨🧨
+PREPARED-CONFIDENCE | PRO-ACTIVE
+INTERNAL | EXTERNAL
+INTRINSIC | EXTRINSIC
+ALL ---****---
+
+-> HAVE KNOWLEDGE ON THE SUBJECT
+-> CONTROL [WHY,HOW,WHAT] I FEEL
+-> PAY ATTENTION TO YOUR AUDIENCE
+--------------------------------------------------------------------
+NETWORKING ===> 1 HOST MEETUPS, 2 HYPER PERSONALIZED EMAIL, 3 EVENTS
+--------------------------------------------------------------------
+-> Creation & Story-telling
+-> Connecting & Networking
+-> Public speaking & Communication
+-> Sales & Persuasion
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
-      🧨 DANGER/CONSISTENT ==> MACHIAVELLIAN---[SHADOW/SECRET SYSTEM] 
-                ==> NARCISSIST---[GOD && HUMBLE/NOBLE]
+      🧨 DANGER/CONSISTENT ===> MACHIAVELLIAN---[SHADOW/SECRET SYSTEM] 
+                           ===> NARCISSIST---[GOD && HUMBLE/NOBLE]
 🧨 LOUD/CONTROL ===> PSYCHOPATH---[BOLD && IRRESPONSIBLE]
       🧨 FAST PERFORMANCE ===> MACHIAVELLIAN---[COMPETITIVE]
 
@@ -164,9 +206,9 @@ INFORMED DECISION & ACTION
 
 
 
-👉 STRATEGIC THINKING
-    -> STRATEGIC ===> GUN && CHESS ---> LONG-TERM
-  -> TACTICS ---> SHORT-TERM
+👉 STRATEGIC THINKING  👉 DECEIVE
+-> STRATEGIC ===> GUN && CHESS ---> LONG-TERM
+-> TACTICS ---> SHORT-TERM
   
 👉 EMOTIONAL INTELLIGENCE
 -> Self Awareness
@@ -175,7 +217,7 @@ INFORMED DECISION & ACTION
 -> Social Skills
 -> Empathy 
 *************************************************************************************************
-👉 PSYCHOLOGICAL THINKING
+👉 PSYCHOLOGICAL THINKING 👉 MANIPULATE
 ===> Fear<->Love                          ===> Respect<->Win-win
 -> Deception                              -> Trust && Confidence | Authenticity-Harmony
 -> Manipulation/Coax                      -> Integration-Alignmnet  
@@ -186,6 +228,8 @@ INFORMED DECISION & ACTION
 -> Miscommunication    -> Trust
 -> Manipulation        -> Smile
 -> Insecurity          -> Habit
+*************************************************************************************************
+👉 PHYSICAL 👉 BETRAYAL
 
 
 
@@ -193,32 +237,11 @@ INFORMED DECISION & ACTION
 
 
 
--> HAVE KNOWLEDGE ON THE SUBJECT
--> CONTROL [WHY,HOW,WHAT] I FEEL
--> PAY ATTENTION TO YOUR AUDIENCE
---------------------------------------------------------------------
-NETWORKING ===> 1 HOST MEETUPS, 2 HYPER PERSONALIZED EMAIL, 3 EVENTS
---------------------------------------------------------------------
--> Creation & Story-telling
--> Connecting & Networking
--> Public speaking & Communication
--> Sales & Persuasion
-
-
-
-===============================================================================================================================
-
-
-
-PREPARED-CONFIDENCE | PRO-ACTIVE
-INTERNAL | EXTERNAL
-INTRINSIC | EXTRINSIC
-ALL ---****---
 
 -------------------------------------------------------------------------------------------------------------------------
 
-RESPONSIBLE            EFFECTIVE           HELPFUL               SOLID  
-            ---------------DO NOT BE------------------        
+RESPONSIBLE      ****BULL****      EFFECTIVE           HELPFUL               SOLID  
+            ---------------DO NOT BE/ HIT A BRICK WALL------------------        
 IRRESPONSIBLE          INEFFECTIVE         HELPLESS              UNDER THE MERCY
 
 -------------------------------------------------------------------------------------------------------------------------
