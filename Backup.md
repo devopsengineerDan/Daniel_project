@@ -3435,7 +3435,7 @@ Description:
 Firewall -> Firewall app / ufw
 Use latest Wifi/ Internet Security Standard e.g WPA2
 Install Anonsurf => Cybersecurity installation section
-Remove ssh, openssh, ftp, pkexec,policykit-1 => sudo apt remove openssh-client
+Remove ssh, openssh, ftp, http, pkexec,policykit-1 => sudo apt remove openssh-client
 sudo apt remove pkexec
 sudo apt purge policykit-1
 sudo apt remove smbclient
@@ -4196,7 +4196,7 @@ $ sudo systemctl status fstrim.timer
 Firewall -> Firewall app /ufw
 Use latest Wifi/ Internet Security Standard e.g WPA2
 Install Anonsurf => Cybersecurity installation section
-Remove ssh, openssh, ftp, pkexec,policykit-1 => sudo apt remove openssh-client
+Remove ssh, openssh, ftp, http, pkexec,policykit-1 => sudo apt remove openssh-client
 sudo apt remove pkexec
 sudo apt purge policykit-1
 sudo apt remove smbclient
