@@ -100,14 +100,25 @@ Master's  
 🧨[AWARENESS]                   🧨[AWARENESS]                                 🧨[AWARENESS]  
 CHINA  ===> LION & SHEEP        [BE THE ROBOT]                                ISRAEL/UK  ===> JAHBULON 
 RUSSIA ===> SHEEP               [BE THE ANIMALS]                              EUROPE     ===> GOAT 
-AFRICA                          [BE HUMBLE & KIND] RAYMOND                    USA
+AFRICA                          [BE HUMBLE & KIND]                            USA
+                                KEVIN, RAYMOND, OSBORN
 
 
  🧨 SECURITY, Liberty [LIVE/NEUTRAL], Equality [LAUGH/LOVE/GRACE][CHANGE/FORGIVE], Equity [KINDNESS/EXIST]
- 
+ 👉👉👉 SPIRIT ---> SECURITY && ACCEPTANCE
+ 👉👉👉 ENERGY ---> CONTINUOUS DEVELOPMENT(GROWTH/DECLINE)
+ 👉👉👉 VIBRATION ---> COMPETITIVE MATTER
+ 👉 The quiter you become, the more you are able to hear. Wisdom is application of knowledge. Knowledge is intelligence obtained through observation and awareness.
+ 👉 If you almost never remove anything, you get C++
+ 👉 If you almost never add anything, you get C
+
 🧨KNOW            GOD             TRUTH - MORALITY       TIME(COMPLETE)
 🧨FREE-MARKET     ILLUSION        BEAUTY - CHARITY
-🧨COMPETITION     MATTER          JUSTICE                PATIENCE(COMPLETE)   🧨🧨🧨  BE USEFUL ---> [Remember, Speed, Strength]
+🧨COMPETITION     MATTER          JUSTICE                PATIENCE(COMPLETE)   🧨🧨🧨  BE USEFUL
+                                                                              ---> 👉 [Security]
+                                                                              ---> 👉 [Wisdom]  
+                                                                              ---> 👉 [Innovation, Invention]
+                                                                              ---> 👉 [Strength, Remember, Control, Speed]
                                                                               🧨 GOLD/MONEY - WOMAN - PROPERTY
                                                                               🧨 INHERITANCE - STEAL - HARDWORK  ---> SEX
                                                                               🧨 KILL - STEAL - DESTROY  
