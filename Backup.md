@@ -1574,6 +1574,14 @@ Pointers -> https://www.youtube.com/watch?v=Hb-bmAmbwvo&list=PL7yh-TELLS1GafZOVH
 C to LLVM IR Assembly -> https://www.youtube.com/watch?v=wt7a5BOztuM
 ```
 
+
+```
+👉 Drivers
+
+eBDF
+```
+
+
 ```
 👉 ASSEMBLY
 
@@ -2893,7 +2901,6 @@ USER Education Security
    -> Education => Tutor, Books, School ERP
    -> Car
 👉 2FA, Bulk SMS Integration, OTP Money, Fingerprint
-
 ```
 
 
@@ -4996,9 +5003,6 @@ BACKEND (Python Frameworks) + (Python) => UPDATE & UPGRADE
 SQL INJECTION
 Limit user input name + consider it as String[Input Validation]
 Limit user password + consider it as String[Input Validation]
-
-
-
 ```
 
 
@@ -6404,20 +6408,22 @@ PYTHON (INTERPRETER) DATA STRUCTURES
 -Tuple -> Less memory space than list, has less functionalities.
 -Set -> Disorderly arrangment, Different data types.
 ✅ MUTABLE
--List -> Orderly arrangement, Same type. More memory space than tuple, has more functionalities.
+-List -> Orderly arrangement, Different types. More memory space than tuple, has more functionalities. Compared to Vectors.
 - Dictionary
 ✅ ADVANCE PYTHON (INTERPRETER) CONCEPTS
-✅ OOP Fundamentals
+✅ FUNDAMENTALS
 File Handling
 setup.py -> Use toml file
 Dictionary
-Generator
+Generator -> Yield
+Dictionary
 Metaclass (Knowledge assists you in developing framework i.e django ORM and flask SQL Alchemy, factory pattern, singleton)-> https://www.youtube.com/watch?v=uLPnBaUhjKU
-Macro
-✅ PYTHON POLYMORHISM
+✅ MACROS
+✅ CONSTRUCTORS/DECONSTRUCTORS - MAGIC/DUNDER METHODS
+✅ PYTHON OOP
 1. Abstraction
 2. Inheritance
-3. Generics
+3. Polymorphism - Generic Programming
 ✅ FASTAPI CRASH COURSE ->https://www.youtube.com/watch?v=62pP9pfzNRs
 ```
 
@@ -6428,11 +6434,15 @@ Macro
 ✅ RUST CHEATSHEET
 Rust tuples
 Rust HashMap is equivalent to Python Dictionary
-
-✅ Ownership and Borrowing:
+✅ RAII (Resource Acquisition Is Initialization )&& OWNERSHIP and BORROWING:
 1. Function in which initializes the mutable variable is the owner of the variable.
 2. The function can manipulate the variable in any number of times.
 3. Once the function exits the variable is not accessible to the borrower.
+✅ ZERO-COST ABSTRACTION
+What you don't use, you don't pay for. What you do use, you couldn't hand code any better.
+✅ GENERIC PROGRAMMING
+✅ MACROS
+✅ CONSTRUCTORS/DECONSTRUCTORS
 ```
 
 
@@ -6652,6 +6662,7 @@ BEST PRACTICE + (clippy -> TESTING)
 👉👉👉 SAFE MODE
 👉👉👉 DEBUG MODE
 👉👉👉 PERFORMANCE
+👉👉👉 STABILITY (BACKWARD-COMPATIBILITY)
 ```
 
 
@@ -6826,14 +6837,14 @@ Software Engineering -> Pydantic
 👉 PYTHON INTERPRETER APPLICATION USE-CASE 
 
 ```
-
+👉 DESIGN (PROTOTYPE)
 👉 SIMULATION
 ++++++++++++++
 👉 RESEARCH
 👉 BACK-TESTING
 +++++++++++++++
 👉 PERFORMANCE
-
+👉 STABILITY (BACKWARD-COMPATIBILITY)
 -------------------------------------------------------
 Cybersecurity
 Computer Networks
