@@ -397,19 +397,19 @@ Vibration
 👉👉👉👉👉👉👉👉👉👉👉👉👉 SECURITY IN A RELATIONSHIP [Nurture RESPONSIBILITY && ACCURACY && HAPPINESS|KINDNESS && REST]
 
 👉👉👉👉👉 NURTURE RESPONSIBILITY && ACCURACY && KINDNESS
-1. ===> 🧨Focus on Self && Happiness
+1. ===> 🧨Focus on Self && Happiness 🧨 Deprive Future
 PROTECT ✅ ---> BLACK ROCK / BAD MAN
 LEAD
-    2. ===> 🧨Heal ---> FATHER
+    2. ===> 🧨Heal ---> FATHER 🧨 Deprive Presence
             SILENCE
             CALM
             MONEY ✅
-3. ===> 🧨Break from usual Hypnosis ---> BEST FRIEND
+3. ===> 🧨Break from usual Hypnosis ---> BEST FRIEND 🧨 Deprive Emotion
 MEDICATION ✅
 ENTERTAINMENT ✅
-               ===> 🧨Peace ---> HUSBAND
+               ===> 🧨Peace ---> HUSBAND 🧨 Fight
             4. [PROVISION + SHELTER] ✅
-            5. INTERCOURSE ✅
+            5. INTERCOURSE ✅            🧨 Deprive Intercourse
 ******************************************************************************
 BAD MAN <===> STRENGTH && SECURITY/SHIELD
 HUSBAND <===> RELIABLE PROVISION
@@ -8472,7 +8472,7 @@ pip install djangorestframework
 👉 RESTFUL API => https://www.youtube.com/watch?v=qbLc5a9jdXo
 ```
 
-👉 FLASK APPLICATION STRUCTURE
+👉 SIMPLE FLASK APPLICATION STRUCTURE
 
 ```
 |-Watchlist
@@ -8495,7 +8495,55 @@ pip install djangorestframework
     |-.gitignore
     |-manage.py
     |-start.sh
-``` 
+```
+
+
+👉 MEDIUM-SCALE FLASK APPLICATION STRUCTURE
+
+```
+The App Engine app's root folder is located at src/.
+
+  src/
+  |-- app.yaml (App Engine config file)
+  |-- application (application code)
+  |-- blinker/ (library for event/signal support)
+  |-- flask/ (Flask core)
+  |-- flaskext/ (Flask extensions go here; wtforms and gae_mini_profiler are provided)
+  |-- index.yaml (App Engine query index definitions)
+  |-- tests/ (unit tests)
+  |-- werkzeug/ (WSGI utilities for Python-based web development)
+  `-- wtforms/ (Jinja2-compatible web form utility)
+The application code is located at src/application.
+
+  application/
+  |-- __init__.py (initializes Flask app)
+  |-- decorators.py (decorators for URL handlers)
+  |-- forms.py (web form models and validators)
+  |-- models.py (App Engine datastore models)
+  |-- settings.py (settings for Flask app)
+  |-- static
+  | |-- css
+  | | |-- bootstrap-*.css (Twitter Bootstrap styles)
+  | | `-- main.css (custom styles)
+  | |-- img
+  | | |-- favicon.ico
+  | | |-- favicon.png
+  | | `-- glyphicons-*.png (Twitter bootstrap icons sprite)
+  | `-- js
+  |   |-- main.js (site-wide JS)
+  |   `-- lib/ (third-party JS libraries)
+  |     |--bootstrap-*.js (Bootstrap jQuery plugins
+  |     `--modernizer-*.js (HTML5 detection library)
+  |-- templates
+  | |-- includes/ (common include files)
+  | |-- 404.html (not found page)
+  | |-- 500.html (server error page)
+  | |-- base.html (master template)
+  | |-- list_examples.html (example list-based template)
+  | `-- new_example.html (example form-based template)
+  |-- urls.py (URL dispatch routes)
+  `-- views.py (Handlers for URL routes defined at urls.py)
+```
 
 
 👉 EXECUTING FLASK APPLICATION
