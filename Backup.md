@@ -6723,7 +6723,7 @@ Featuring
 - type inference
 - minimal runtime
 - efficient C bindings
-- 
+  
 Description is taken from [Rust-lang](https://www.rust-lang.org/).
 
 -----------------------------
