@@ -6708,7 +6708,7 @@ BEST PRACTICE Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE
 
 ![title](static/img/computer-memory-solutions.jpg)
 
-## What is Rust?
+# What is Rust?
 
 Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.
 
@@ -6724,7 +6724,82 @@ Featuring
 - minimal runtime
 - efficient C bindings
   
-Description is taken from [Rust-lang](https://www.rust-lang.org/).
+Description is taken from [Rust-lang](https://www.rust-lang.org/)
+### Using Rust code in Python ===> GITHUB Py03_Rust binding for Python.zip
+
+
+### Using C code in Rust ===>https://www.youtube.com/watch?v=UpmFxJDcFfo
+To use C code within a Rust project, you'll need to bridge the gap between the two languages using the Foreign Function Interface (FFI). This involves defining the C functions and data structures in Rust using extern "C" blocks and potentially using tools like bindgen to automate the process of creating Rust bindings for your C code. 
+Here's a breakdown of the key aspects:
+1. Defining the C Interface in Rust:
+
+    extern "C" Blocks:
+    You use extern "C" blocks to declare functions and data types from your C code. This tells the Rust compiler to use C calling conventions, which are different from Rust's. 
+
+#[no_mangle]:
+When creating C libraries from Rust, you often use the #[no_mangle] attribute to prevent Rust from "mangling" function names. This ensures that C code can correctly link to and call those functions. 
+Data Types:
+You need to carefully map C data types to their Rust equivalents. For example, char in C is typically represented as c_char in Rust (which can be i8 or u8), and int as c_int, and so on. 
+unsafe Blocks:
+Since FFI involves interacting with potentially unsafe C code, you'll need to wrap any calls to C functions within unsafe blocks in your Rust code. 
+Example:
+
+Code
+
+    extern "C" {
+        fn my_c_function(arg1: i32, arg2: *mut u8) -> i32;
+    }
+
+    unsafe {
+        let result = my_c_function(10, std::ptr::null_mut());
+        println!("Result from C: {}", result);
+    }
+
+2. Building the C Code:
+
+    Separate Compilation:
+    Your C code should be compiled separately into a static or dynamic library (.a or .so file).
+    CMake Integration:
+    If your C project uses CMake, you can leverage the cmake crate in Rust to integrate the build process.
+    Makefiles:
+    You can also use Makefiles for building the C code and then integrate them into your Rust project.
+    Example CMakeLists.txt: 
+
+Code
+
+    cmake_minimum_required(VERSION 3.0)
+    project(my_c_library C)
+    add_library(my_c_library STATIC my_c_library.c)
+    install(TARGETS my_c_library DESTINATION .)
+
+3. Using bindgen for Automation:
+
+    Automatic Generation: The bindgen tool can automatically generate Rust bindings for your C code, saving you the effort of manual translation.
+    Installation: You'll need to install bindgen (usually through cargo install bindgen).
+    Usage: 
+
+Code
+
+    bindgen --output-dir src/bindings my_c_library.h -o src/bindings/my_c_library.rs
+
+4. Memory Management:
+
+    Ownership:
+    Rust's strong memory safety features need to be carefully considered when dealing with C code, which often relies on manual memory management.
+    Ownership Transfer:
+    If your C code allocates memory, ensure it's deallocated in the same language (Rust or C) that allocated it.
+    Raw Pointers:
+    Be cautious when using raw pointers in FFI, as Rust cannot guarantee their safety. 
+
+5. Asynchronous Callbacks:
+
+    Thread Safety:
+    If your C code uses callbacks and spawns its own threads, you need to be especially careful about data access in Rust code within those callbacks.
+    Synchronization:
+    Use synchronization mechanisms like mutexes or channels to safely access shared data between Rust and C threads. 
+
+In essence, using C in Rust requires careful planning, understanding the differences in memory models and safety guarantees, and potentially leveraging tools like bindgen to bridge the gap between the two languages. 
+
 
 -----------------------------
 
