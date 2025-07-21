@@ -6702,6 +6702,7 @@ BEST PRACTICE Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE
 -> Dangling pointer
 
 -> Stack/Heap exhaustion
+-> Data races
                      -> Null pointer dereference
 ```
 👉  SOLUTIONS
