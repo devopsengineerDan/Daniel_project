@@ -6519,6 +6519,9 @@ SYSTEM UML DESIGN
 -> Use-case Diagram
 -> Sequence Diagram
 
+### SYSTEM THINKING ANALYSIS AND DESIGN
+-> Causal-oop Diagram = Cause - Connect the dots - Feedback
+
 ----------
 * BDD - Behaviour Driven Development
 * System Flow-chart Diagram
@@ -6705,6 +6708,23 @@ BEST PRACTICE Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE
 
 ![title](static/img/computer-memory-solutions.jpg)
 
+## What is Rust?
+
+Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.
+
+Featuring
+
+- zero-cost abstractions
+- move semantics
+- guaranteed memory safety
+- threads without data races
+- trait-based generics
+- pattern matching
+- type inference
+- minimal runtime
+- efficient C bindings
+- 
+Description is taken from [Rust-lang](https://www.rust-lang.org/).
 
 -----------------------------
 
@@ -6758,7 +6778,7 @@ EXEC sp_executesql @query, N'@name NVARCHAR(50)', @name = 'Khushi';
 
 
 4xx
-Error   Meaning
+ERROR   MEANING
 Code	
 400	Bad Request – Your request sucks
 401	Unauthorized – Your API key is wrong
@@ -6773,7 +6793,7 @@ Code
 
 
 5xx
-Error   Meaning
+ERROR   MEANING
 Code	
 500	Internal Server Error – We had a problem with our server. Try again later.
 503	Service Unavailable – We’re temporarily offline for maintenance. Please try again later.
