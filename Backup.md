@@ -8810,12 +8810,12 @@ GENERATE API  TOKEN ==> DJANGO  ===> https://www.youtube.com/watch?v=wv8b3tzShq4
 # DEVOPS
 
 ### USE TECHNOLOGIES LIKE WEBASSEMBLY(BUNDLER) 
-### *** BEST APPROACH (FLUTTER-LIKE KIVY) FRAMEWORK , RUST THREADS (LLVM) FOR PYTHON
+### *** BEST APPROACH (FLUTTER-LIKE KIVY) FRAMEWORK , RUST THREADS (LLVM), GO ROUTINES && COMPILER, C, MOJO AI COMPILER FOR PYTHON
 
 
 👉 UNINSTALL DOCKER AND KUBERNETES
 
-👉To completely uninstall Docker:
+👉 To completely uninstall Docker:
 
 ```
 Step 1
@@ -11927,12 +11927,14 @@ sudo bash -c "$(wget -O - https://apt.llvm.org/llvm.sh)"
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 ------------------BIOS & WINDOWS--------------------
 				
 PASSWD - devopsengineer
 PN - Dan@1997
 
 BIOS - devopsengineer  
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%						
 
 
@@ -12116,15 +12118,6 @@ Windows 11 SDK
 Embedded and IOT Tools
 Windows Performance Toolkit
 USB Device Connectivity
-```
-
-
-```
-👉 AI TOOLS For Business Optimization
-
-Tinywow Collection of AI Tools => https://tinywow.com/
-Free Pik => https://www.freepik.com/free-photos-vectors/letterhead
-@@@@@@@@@@@@@ EntryPointAI.com/Masterclass
 ```
 
 
@@ -12361,8 +12354,11 @@ GO SLOW -> Pedestrian-crossing + Bumps, Bridge, Parking
 ```
 👉 @ AI TOOLS For Business Optimization
 
-EntryPointAI.com/Masterclass
-Tinywow.com
+Tinywow Collection of AI Tools => https://tinywow.com/
+Free Pik => https://www.freepik.com/free-photos-vectors/letterhead
+@@@@@@@@@@@@@ EntryPointAI.com/Masterclass
+
+
 
 AI CODE TOOLS: ===> chatllm.abacus.ai
 Github Copilot
@@ -12372,6 +12368,10 @@ Cursor
 Windsurf
 Deepseek
 ```
+
+👉 @ AI CODE FLAWS
+
+![title](static/img/AI_CODE_FLAWS.png)
 
 
 ```
