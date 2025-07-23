@@ -114,11 +114,12 @@ AFRICA                          [BE HUMBLE & BE KIND]                         US
 
 🧨🧨🧨 SECURITY ===> OBSERVER observing the THINKER and His THOUGHT(S), WISDOM, EMOTION, MATTER 
 🧨🧨🧨 KNOWLEDGE && WISDOM [Leaderless, Classless, Formless]
-🧨🧨🧨 THOUGHT, OBSERVE, SMELL, TASTE, LISTEN, TOUCH
+🧨🧨🧨 👉👉👉 THOUGHT, OBSERVE, SMELL, TASTE, LISTEN, TOUCH
 🧨 Spiritual Insight/Higher Awareness   - INNER KNOWING/VISION      ----------- BLINDNESS && INDECISION/Trauma
 🧨 Emotion                              - Balance/ORDER             ----------- CHAOS/Illusion
 🧨 Consiousness/Intuition               - Wisdom/Action/UNITY       ----------- FRAGMENTS/Ignorance
 
+ {👉👉👉|👉👉👉} 👉👉👉 963 DANIEL
 🧨🧨🧨  EYE Truth
 🧨 EYE Left
 🧨 EYE Right
