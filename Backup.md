@@ -112,9 +112,9 @@ AFRICA                          [BE HUMBLE & KIND]                            US
  👉 If you almost never remove anything, you get C++
  👉 If you almost never add anything, you get C
 
-🧨🧨🧨 Hidden Wisdom
-🧨🧨🧨 Transformation
-🧨🧨🧨 Duality of Life [GOOD/BAD]
+🧨🧨🧨 Hidden Wisdom        ------------------------------ Words of Law
+🧨🧨🧨 Transformation       ------------------------------ Submission
+🧨🧨🧨 Duality of Life [GOOD/BAD] ------------------------ Remembrance
 
 🧨KNOW            GOD             TRUTH - MORALITY       TIME(COMPLETE)
 🧨FREE-MARKET     ILLUSION        BEAUTY - CHARITY
