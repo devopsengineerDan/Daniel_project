@@ -113,9 +113,9 @@ AFRICA                          [BE HUMBLE & KIND]                            US
  👉 If you almost never add anything, you get C
 
 🧨🧨🧨 DEATH && TIME                               
-🧨🧨🧨 Hidden Wisdom        ------------- Words of Law           - Precise          - Arrogance
+🧨🧨🧨 Hidden Wisdom        ------------- Words of Law           - Precise          - Arrogance/Obedience
 🧨🧨🧨 Transformation       ------------- Submission             - Ritualized       - Fear  
-🧨🧨🧨 Duality of Life [GOOD/BAD] ------- Remembrance/Isolation  - Legalistic/Logic - Ignorance
+🧨🧨🧨 Duality of Life [GOOD/BAD] ------- Remembrance/Isolation  - Legalistic/Logic - Ignorance/Sin
 🧨🧨🧨 MATTER && DEATH 
 
 🧨KNOW            GOD             TRUTH - MORALITY       TIME(COMPLETE)
