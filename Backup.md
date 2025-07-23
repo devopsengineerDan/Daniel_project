@@ -119,7 +119,9 @@ AFRICA                          [BE HUMBLE & BE KIND]                         US
 🧨 Emotion                              - Balance/ORDER             ----------- CHAOS/Illusion
 🧨 Consiousness/Intuition               - Wisdom/Action/UNITY       ----------- FRAGMENTS/Ignorance
 
- {👉👉👉|👉👉👉} 👉👉👉 963 DANIEL
+
+
+{👉👉👉|👉👉👉} 👉👉👉 963 DANIEL
 🧨🧨🧨  EYE Truth
 🧨 EYE Left
 🧨 EYE Right
