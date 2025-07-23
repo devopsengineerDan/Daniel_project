@@ -2742,9 +2742,14 @@ CLASS
 LAYERING TRANSACTIONS ****(Far From Carcass)
                               INTEGRATION 
 
+
 2ND 🧨                        INSERTION
 NORMAL BUSINESS TRANSACTIONS 
-                              INTEGRATION 
+                              INTEGRATION
+
+👉👉👉👉👉👉 EXPOSURE
+*Insiders
+*Employee seeking protection or lower sentence
 ----------------------------------  
 🧨 LAYERING TRANSACTIONS     
 1 Customer Details updated before A LARGE Transaction => An Account Taker over and Layering Activity
@@ -2767,7 +2772,7 @@ NORMAL BUSINESS TRANSACTIONS
 
 
 ```
-👉 BEST PRACTICES
+👉👉👉 BEST PRACTICES [OVERVIEW]
 
 BUY BEST PRODUCT AT LOW & FAIR PRICE *NOT* WORST AT LEAST PRICE
 SELL AT HIGH PRICE(BULL) => HIGH PROFIT
@@ -2787,7 +2792,18 @@ Shell companies(ownership) to avoid damage on you
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-👉 MANAGEMENT
+👉👉👉 BEST PRACTICES [DETAILED]
+
+🧨 OFFGRID
+👉 MONEY ------------> SAFETY ------------> GROWTH ------------> LOGISTICS
+
+👉 BUY ASSETS -> BORROW LOANS -> DIE (Those who Inherit won't pay tax + Life insurance will clear out loans)
+👉 HELD BY TRUST -> OWNED BY HOLDING COMPANY -> MANAGED BY NOMINEE DIRECTOR -> BENEFICIARY IS THE INDIVIDUAL
+👉 ASSET TO BE OWNED BY COMPANIES NOT INDIVIDUALS TO AVOID(TAXED - SUED - SIEZED)
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+👉👉👉 MANAGEMENT
 
 🧨Managing SYSTEM[ACTIVE]
 🧨Managing CASHFLOW => High Incomes
