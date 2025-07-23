@@ -115,9 +115,9 @@ AFRICA                          [BE HUMBLE & BE KIND]                         US
 🧨🧨🧨 SECURITY ===> OBSERVER observing the THINKER and His THOUGHT(S), WISDOM, EMOTION, MATTER 
 🧨🧨🧨 KNOWLEDGE && WISDOM [Leaderless, Classless, Formless]
 🧨🧨🧨 THOUGHT, OBSERVE, SMELL, TASTE, LISTEN, TOUCH
-🧨Spiritual Insight/Higher Awareness   - INNER KNOWING/VISION      ----------- BLINDNESS && INDECISION/Trauma
-🧨Emotion                              - Balance/ORDER             ----------- CHAOS/Illusion
-🧨Consiousness/Intuition               - Wisdom/Action/UNITY       ----------- FRAGMENTS/Ignorance
+🧨 Spiritual Insight/Higher Awareness   - INNER KNOWING/VISION      ----------- BLINDNESS && INDECISION/Trauma
+🧨 Emotion                              - Balance/ORDER             ----------- CHAOS/Illusion
+🧨 Consiousness/Intuition               - Wisdom/Action/UNITY       ----------- FRAGMENTS/Ignorance
 
 🧨🧨🧨  EYE Truth
 🧨 EYE Left
