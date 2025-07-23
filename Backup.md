@@ -112,6 +112,7 @@ AFRICA                          [BE HUMBLE & BE KIND]                         US
  👉 If you almost never remove anything, you get C++
  👉 If you almost never add anything, you get C
 
+🧨🧨🧨 SECURITY ===> OBSERVER observing the THINKER and His THOUGHT(S), WISDOM, EMOTION, MATTER 
 🧨🧨🧨 KNOWLEDGE && WISDOM [Leaderless, Classless, Formless]
 Higher Awareness - Inner Vision ----------- Trauma
 Emotion          - Balance      ----------- Illusion
