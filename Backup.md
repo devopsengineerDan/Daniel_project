@@ -100,7 +100,7 @@ Master's  
 🧨[AWARENESS]                   🧨[AWARENESS]                                 🧨[AWARENESS]  
 CHINA  ===> LION & SHEEP        [BE THE ROBOT]                                ISRAEL/UK  ===> JAHBULON 
 RUSSIA ===> SHEEP               [BE THE ANIMALS]                              EUROPE     ===> GOAT 
-AFRICA                          [BE HUMBLE & KIND]                            USA
+AFRICA                          [BE HUMBLE & BE KIND]                         USA
                                 KEVIN, RAYMOND, OSBORN
 
 
@@ -111,6 +111,11 @@ AFRICA                          [BE HUMBLE & KIND]                            US
  👉 The quiter you become, the more you are able to hear. Wisdom is application of knowledge. Knowledge is intelligence obtained through observation and awareness.
  👉 If you almost never remove anything, you get C++
  👉 If you almost never add anything, you get C
+
+🧨 KNOWLEDGE && WISDOM
+🧨 EYE Truth
+🧨 EYE Left
+🧨 EYE Right
 
 🧨🧨🧨 DEATH && TIME                               
 🧨🧨🧨 Hidden Wisdom        ------------- Words of Law           - Precise          - Arrogance/Obedience
