@@ -112,7 +112,11 @@ AFRICA                          [BE HUMBLE & BE KIND]                         US
  👉 If you almost never remove anything, you get C++
  👉 If you almost never add anything, you get C
 
-🧨 KNOWLEDGE && WISDOM [Leaderless, Classless, Formless]
+🧨🧨🧨 KNOWLEDGE && WISDOM [Leaderless, Classless, Formless]
+Inner Vision ----------- Trauma
+Balance      ----------- Illusion
+Wisdom       ----------- Ignorance
+
 🧨 EYE Truth
 🧨 EYE Left
 🧨 EYE Right
