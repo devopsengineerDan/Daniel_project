@@ -122,6 +122,10 @@ AFRICA                          [BE HUMBLE & BE KIND]                         US
 
 
 {👉👉👉|👉👉👉} 👉👉👉 963 DANIEL
+SURRENDER && ACCEPT THE SPIRIT
+MEDITATE
+WRITE
+
 🧨🧨🧨  EYE Truth
 🧨 EYE Left
 🧨 EYE Right
