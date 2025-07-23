@@ -112,10 +112,14 @@ AFRICA                          [BE HUMBLE & KIND]                            US
  👉 If you almost never remove anything, you get C++
  👉 If you almost never add anything, you get C
 
+🧨🧨🧨 Hidden Wisdom
+🧨🧨🧨 Transformation
+🧨🧨🧨 Duality of Life [GOOD/BAD]
+
 🧨KNOW            GOD             TRUTH - MORALITY       TIME(COMPLETE)
 🧨FREE-MARKET     ILLUSION        BEAUTY - CHARITY
 🧨COMPETITION     MATTER          JUSTICE                PATIENCE(COMPLETE)   🧨🧨🧨  BE USEFUL
-                                                                              ---> 👉 [Security]
+                                                                              ---> 👉👉👉👉 [Security]
                                                                               ---> 👉 [Wisdom]  
                                                                               ---> 👉 [Innovation, Invention]
                                                                               ---> 👉 [Strength, Remember, Control, Speed]
