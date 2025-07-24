@@ -6736,7 +6736,7 @@ BEST PRACTICE Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE
 ```
 👉 MEMORY PROBLEMS && 👉 SOLVE EACH PROBLEM
 
--> Buffer overflow
+-> Buffer/Stack/Heap overflow
                      -> Use after free
 -> Memory leak
 -> Dangling pointer
