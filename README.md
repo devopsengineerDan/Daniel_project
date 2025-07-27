@@ -11,6 +11,10 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
                     ICT
 ```
 
+# PROFESSIONAL PATHS
+
+![title](static/img/professional_path.jpg)
+
 
 ```
 👉 *************** SECURITY AWARENESS *******************
@@ -24,7 +28,7 @@ Mid-term  ===> Acceptable Profit
 Short-term  ===> Acceptable Profit
 -------------------------------------------
 ===> DO NOT BE TOO GOOD --- Be Harmonious, Integrated, Industry
-===> DO NOT BE A PSYCHOPATH
+===> DO NOT BE A PSYCHOPATH [Make Trade that you can explain]
 ===> Allow Minimum Loss
 
 ================================================================================
@@ -162,7 +166,7 @@ Citi bank -> Dealers & Liquidity Provider
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
+🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
        
        LAND + MINERALS
        --------------------------------------------------------
@@ -171,13 +175,14 @@ Citi bank -> Dealers & Liquidity Provider
 
        =====> WEAPONS + GOVERNMENT
        =====> BANK + LAW
-       =====> CHURCH + NGO
+       =====> [CHURCH + NGO] + [SPORT + ENTERTAINMENT]
+       =====> EDUCATION
        --------------------------------------------------------
        =====> INSURANCE 
        =====> ACTUARISTS/ANALYSTS [BROKERAGE + HEDGE FUNDS]
        =====> PENSION EMPLOYEE SAVINGS
        
-🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
+🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
 ```
 
 
@@ -288,13 +293,14 @@ SECURITY + INNOVATION [ADVANCE]
 
 
 ✅ Bigger Trend ---> DIRECTION Then Small Trend ---> ENTRY
-✅ [Price+Intrinsic value], [Price Level+Technical Analysis], [Fundamentals Analysis]
+✅ [Price Action/Level + Intrinsic value], [Price Level + Technical Analysis], [Fundamentals Analysis]
 ✅ BET/Take Your Ego or What You Think Out of the Game, Price Level, Price Range
 🧨🧨🧨 CONSOLIDATION  = COMMERCIAL BUSINESS[SPECULATION, INDECISION]
 -------------------------------------------------------------------------------------------------------------
 
 
 ==============================================================================================================
+
 🧨🧨🧨 STRONG 🧨🧨🧨 ===> SCARED MONEY MAKES NO MONEY[QUICK TAKING OF PROFIT & EXITING OF TRADE]
 🧨 STRONG TAKE PROFIT && EXIT ON AN ORDER BLOCK 🧨
 🧨 ---> ONCE I RECOGNIZE AN LOSS-ORIENTED TREND IN PRICE, EXIT TRADE.
@@ -355,6 +361,36 @@ Future Value = 1,150,193
 👉 Total
 Total Future Value =  1,659,731 + 1,150,193
 Total Future Value =  2.8 million
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+👉👉👉 POSITION SIZE CALCULATOR ===>  BABYPIPS 🧨 DETERMIONE LOT SIZE TO USE ===> https://www.youtube.com/watch?v=GvkmQVkXZRE
+
+
+ Lot            | PS (Position Size)     | LPP (Loss Per Pip)
+---------------------------------------------------------------
+ Micro          | 1000u                  | $ 0.10
+ Mini           | 10,000u                | $ 1.00    ===> $ 4
+ Lot            | 100,000u               | $ 10.00   ===> $ 11
+
+PS (Position Size)
+LPP (Loss Per Pip)
+RT (Risk Tolerance)
+SL Pips (Stop Loss Pips)
+AB (Account Balance)
+
+RT= AB * %of Acc to Risk
+RT/SL Pips=LPP
+
+Example 1:
+RT = $ 12,252 * 0.03 = $ 367
+SL Pips = 32
+LPP = $ 11
+-----------------------------------------------
+Example 2:
+RT = $ 10,000 * 0.01 = $ 100
+SL Pips = 25
+LPP = $ 4
 ````
 
 
