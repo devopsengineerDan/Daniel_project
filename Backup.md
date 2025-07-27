@@ -126,7 +126,9 @@ SURRENDER && ACCEPT THE SPIRIT
 MEDITATE
 WRITE
 
-🧨🧨🧨  EYE Truth
+🧨🧨🧨  EYE Truth (Inner)
+🧨🧨🧨  EYE Truth (Evolution)
+🧨🧨🧨  EYE Truth (Outer)
 🧨 EYE Left
 🧨 EYE Right
 
@@ -362,7 +364,7 @@ CHESS                           GOLF
                                                                  --------------------------------------                                                    
                                                                   DEATH [LIFE] [Who,Where]
                                                                   👉 WISDOM,BEAUTY,RESISTANCE [Why,How,What] | Do Not Chase, Rush, Force
-                                                                  🧨 SECURITY, Liberty [LIVE/NEUTRAL], Equality [LAUGH/LOVE/GRACE][CHANGE/FORGIVE], Equity [KINDNESS/EXIST] 
+                                                                  🧨 SECURITY, Liberty [LIVE/NEUTRAL], Equality [LAUGH/LOVE/SPORT+ENTERTAINMENT/GRACE][CHANGE/FORGIVE], Equity [KINDNESS/EXIST] 
                                                                   [GROUND/PHYSICAL] DEATH
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✅
