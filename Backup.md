@@ -2558,28 +2558,40 @@ whatsapp: +254711444518 -------> 147369
    
 Twitter/X Alternative: blueskyapp: https://bsky.app/ @engineerdancun ALPHA@987
 
+------------------------------------------------------------------------------------------------------------------
+
 DEPLOYMENT
 linode -> GITHUB
 Heroku -> GITHUB
 https://railway.com/ ===> SMALL TO MEDIUM PROJECTS
 https://render.com/  ===> MEDIUM TO LARGE PROJECTS
 
+------------------------------------------------------------------------------------------------------------------
+
+HTTP REQUEST
 Ngrok -> GITHUB
 LocalXpose -> LocalXposevPYQ3NXx9T!deGY
 
-Postman -> dancunmoruri@gmail.com
+Postman API  -> dancunmoruri@gmail.com
 
+------------------------------------------------------------------------------------------------------------------
+
+DATA
 SimpleAnalytics -> dancummoruri@gmail.com
 Calendly -> dancunmoruri@gmail.com
-Google AdSense -> dancunmoruri@gmail.com 
+Google AdSense Bot -> dancunmoruri@gmail.com 
+Cookie Banner Bot -> https://www.cookiebot.com  -> dancunmoruri@gmail.com 
 
 Cloudflare -> dancummoruri@gmail.com : <span class="Button-label">1Paste, drop, or click to add files</span>
 
+------------------------------------------------------------------------------------------------------------------
+
+AI + CODE
 Anaconda[Datalore Alternative] -> GITHUB  
 pyscript for Web---Anaconda -> GITHUB
 Datalore -> dancunmoruri@gmail.com
 
-CodeWars && LeetCode && AlgoExpert -> GITHUB  
+CoCdeWars && LeetCode && AlgoExpert -> GITHUB  
 
 =============================================================================================================================================================================
 
