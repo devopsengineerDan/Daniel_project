@@ -6562,6 +6562,12 @@ C1.png
  
  🎯 WHATSAPP LIVE CHAT => https://elfsight.com/
  WHATSAPP BOT =>https://portal.infobip.com/
+
+
+👉  COOKIES BANNER && COOKIES MANAGEMENT ====> https://www.youtube.com/watch?v=Ikc-CYha3ug
+
+👉  EMAIL MANAGEMENT DJANGO ====> https://www.youtube.com/watch?v=xNqnHmXIuzU
+
 ```
 
 
