@@ -6568,6 +6568,9 @@ C1.png
 
 👉  EMAIL MANAGEMENT DJANGO ====> https://www.youtube.com/watch?v=xNqnHmXIuzU
 
+👉  EMAIL MANAGEMENT FLASK ====> https://www.youtube.com/watch?v=U5MBYN6an70
+🎯 Email Verification in Flask Contact Form ====> https://www.youtube.com/watch?v=uE9ZesslPYU
+
 ```
 
 
