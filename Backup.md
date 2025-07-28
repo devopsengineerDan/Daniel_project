@@ -1264,7 +1264,7 @@ POSIX
 
 ------------
 WEB
-Python -> Django, fastAPI, Flask
+Python -> Django, Flask, fastAPI
 Rust -> Rocket, Actix
 ------------
 MOBILE
@@ -2591,7 +2591,7 @@ Anaconda[Datalore Alternative] -> GITHUB
 pyscript for Web---Anaconda -> GITHUB
 Datalore -> dancunmoruri@gmail.com
 
-CoCdeWars && LeetCode && AlgoExpert -> GITHUB  
+CodeWars && LeetCode && AlgoExpert -> GITHUB  
 
 =============================================================================================================================================================================
 
