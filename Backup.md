@@ -156,11 +156,11 @@ Competitive                   Hard work(Realistic)          Realistic(High perfo
 
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-🧨LIFE                      🧨RELATIONSHIP           🧨AGREEMENT  
-SPIRIT-Fire-Feel            Common                   Reason==Belief
-MIND-Air-Thought            Mindset/position         Constitutional Law==Agreement     
-EMOTION-Water-Energy        Relationship             Research==Invention/Innovation
-BODY-Earth-Vibration        Status                   Acceptance
+🧨LIFE                      🧨RELATIONSHIP                     🧨AGREEMENT  
+SPIRIT-Fire-Feel            Common                             Reason==Belief
+MIND-Air-Thought            Mindset/position 👉 ROLE           Constitutional Law==Agreement     
+EMOTION-Water-Energy        Relationship     👉 ROLE           Research==Invention/Innovation
+BODY-Earth-Vibration        Status                             Acceptance
 
 
                               🧨🧨🧨  BE USEFUL
