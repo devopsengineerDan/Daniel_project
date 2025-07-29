@@ -35,6 +35,12 @@ Short-term  ===> Acceptable Profit
 
 ================================================================================
 
+DEBT BUBBLE             -----------------------    GOVERNMENT AID         
+CASINO                  -----------------------    BAIL OUT
+COMPUTER DERIVATIVES    -----------------------    QUANTITATIVE EASING
+
+================================================================================
+
 Investors played it safe with mutual funds or blue-chip stocks
 
 ✅ Got curious. ✅ He moved when others froze.
