@@ -107,7 +107,7 @@ AFRICA                          [BE HUMBLE & BE KIND]                         US
  🧨 SECURITY, Liberty [LIVE/NEUTRAL], Equality [LAUGH/LOVE/GRACE][CHANGE/FORGIVE], Equity [KINDNESS/EXIST]
  👉👉👉 SPIRIT ---> SECURITY && ACCEPTANCE
  👉👉👉 ENERGY ---> CONTINUOUS DEVELOPMENT(GROWTH/DECLINE)
- 👉👉👉 VIBRATION ---> COMPETITIVE MATTER
+  👉👉👉 VIBRATION ---> COMPETITIVE MATTER
  👉 The quiter you become, the more you are able to hear. Wisdom is application of knowledge. Knowledge is intelligence obtained through observation and awareness.
  👉 If you almost never remove anything, you get C++
  👉 If you almost never add anything, you get C
@@ -140,20 +140,74 @@ WRITE
 
 🧨KNOW            GOD             TRUTH - MORALITY       TIME(COMPLETE)
 🧨FREE-MARKET     ILLUSION        BEAUTY - CHARITY
-🧨COMPETITION     MATTER          JUSTICE                PATIENCE(COMPLETE)   🧨🧨🧨  BE USEFUL
-                                                                              ---> 👉👉👉👉 [Security]
-                                                                              ---> 👉 [Wisdom]  
-                                                                              ---> 👉 [Innovation, Invention]
-                                                                              ---> 👉 [Strength, Remember, Control, Speed]
-                                                                              🧨 GOLD/MONEY - WOMAN - PROPERTY
-                                                                              🧨 INHERITANCE - STEAL - HARDWORK  ---> SEX
-                                                                              🧨 KILL - STEAL - DESTROY  
-........................................................................................................................
+🧨COMPETITION     MATTER          JUSTICE                PATIENCE(COMPLETE)  
+
+
+                          
+✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ 
 1 FATHER                      1 DAVID                       1 DANIEL
 Security                      Security                      Security
 Know                          Consistency                   Accurate(Simple, Prioritise, Levels - High to Low)            
 Connect the dots              Discipline                    Adaptive within (Scope and Continuity of Process)
 Competitive                   Hard work(Realistic)          Realistic(High performance and to Completion) <===> Patience
+✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ 
+
+
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+🧨LIFE                    🧨RELATIONSHIP    🧨AGREEMENT  
+SPIRIT-Fire-Feel          Common            Reason==Belief
+MIND-Air-Thought          Mindset           Constitutional Law==Agreement     
+EMOTION-Water-Energy      Relationship      Research==Invention/Innovation
+BODY-Earth-Vibration      Status            Acceptance
+
+
+                              🧨🧨🧨  BE USEFUL
+                              ---> 👉👉👉👉 [Security]
+                              ---> 👉 [Wisdom]  
+                              ---> 👉 [Innovation, Invention]
+                              ---> 👉 [Strength, Remember, Control, Speed]
+                              🧨 GOLD/MONEY - WOMAN - PROPERTY
+                              🧨 INHERITANCE - STEAL - HARDWORK  ---> SEX
+                              🧨 KILL - STEAL - DESTROY 
+                              
+                              
+***************************************************************************************************************************
+
+                           👉👉👉👉   GOD/CARE  👉👉👉👉 
+RESPONSIBLE      ****BULL****      EFFECTIVE           HELPFUL               SOLID 
+ 
+🧨🧨🧨🧨🧨🧨 ------------------DO NOT BE/ HIT A BRICK WALL--------------------- 🧨🧨🧨🧨🧨🧨 
+🧨🧨🧨🧨🧨🧨 ----------------------DO NOT BE DESPERATE------------------------- 🧨🧨🧨🧨🧨🧨             
+IRRESPONSIBLE                      INEFFECTIVE         HELPLESS              UNDER THE MERCY
+
+-------------------------------------------------------------------------------------------------------------------------
+
+                                                      KILL == EGO / INTELLIGENT ---> LEGEND
+                                                      🧨Naive
+STEAL == CONTINUOUSLY ---> GAIN
+🧨Foolish
+                                                      DESTROY == PRIDE ---> WIN
+                                                      🧨Stupid 
+                                                           
+***************************************************************************************************************************
+
+🧨 SECURITY AUTHORITY/KILL               
+🧨 PROSTITUTION/STEAL
+🧨 DRUNKARD/DESTROY
+
+
+ ✅ 3                         ✅ 4
+ 🧨 INDECISIVE                🧨 ENSLAVEMENT
+ 🧨 CHAOS                     🧨 MEAN {TILL YOUR DEATH AND THEIRS}
+ 🧨 MEAN/HUNGER/DEATH         🧨 OFFER MONEY/ASSET/VALUE
+                              🧨 OFFER SEX 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+
+
 
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
