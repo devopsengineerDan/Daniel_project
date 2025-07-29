@@ -28,7 +28,9 @@ Mid-term  ===> Acceptable Profit
 Short-term  ===> Acceptable Profit
 -------------------------------------------
 ===> DO NOT BE TOO GOOD --- Be Harmonious, Integrated, Industry
-===> DO NOT BE A PSYCHOPATH [Make Trade that you can explain]
+===> DO NOT BE A PSYCHOPATH
+[Make Trade that you can explain] ===> STRATEGY, ENTRY, PLAYBOOK
+[PUBLIC KNOWLEDGE: MARKET IS RANDOM]
 ===> Allow Minimum Loss
 
 ================================================================================
