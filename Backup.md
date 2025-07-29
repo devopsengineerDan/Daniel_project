@@ -156,11 +156,11 @@ Competitive                   Hard work(Realistic)          Realistic(High perfo
 
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-🧨LIFE                    🧨RELATIONSHIP    🧨AGREEMENT  
-SPIRIT-Fire-Feel          Common            Reason==Belief
-MIND-Air-Thought          Mindset           Constitutional Law==Agreement     
-EMOTION-Water-Energy      Relationship      Research==Invention/Innovation
-BODY-Earth-Vibration      Status            Acceptance
+🧨LIFE                      🧨RELATIONSHIP           🧨AGREEMENT  
+SPIRIT-Fire-Feel            Common                   Reason==Belief
+MIND-Air-Thought            Mindset/position         Constitutional Law==Agreement     
+EMOTION-Water-Energy        Relationship             Research==Invention/Innovation
+BODY-Earth-Vibration        Status                   Acceptance
 
 
                               🧨🧨🧨  BE USEFUL
@@ -303,7 +303,7 @@ INFORMED DECISION & ACTION
 -> TACTICS ---> SHORT-TERM
   
 👉 EMOTIONAL INTELLIGENCE
--> Self Awareness
+-> Self Identity && Awareness
 -> Self Regulation
 ---> SILENCE/MOTIVATION
 -> Social Skills
@@ -321,31 +321,6 @@ INFORMED DECISION & ACTION
 -> Manipulation        -> Smile
 -> Insecurity          -> Habit
 *************************************************************************************************
-👉 PHYSICAL 👉 BETRAYAL
-
-
-
-===============================================================================================================================
-
-
-
-
--------------------------------------------------------------------------------------------------------------------------
-
-RESPONSIBLE      ****BULL****      EFFECTIVE           HELPFUL               SOLID  
-🧨🧨🧨🧨🧨🧨 ---------------DO NOT BE/ HIT A BRICK WALL------------------ 🧨🧨🧨🧨🧨🧨       
-IRRESPONSIBLE          INEFFECTIVE         HELPLESS              UNDER THE MERCY
-
--------------------------------------------------------------------------------------------------------------------------
-
-                                                      KILL == EGO / INTELLIGENT ---> LEGEND
-                                                      Naive
-STEAL == CONTINUOUSLY ---> GAIN
-Foolish
-                                                      DESTROY == PRIDE ---> WIN
-                                                      Stupid      
-
-
 
 ===============================================================================================================================
 
