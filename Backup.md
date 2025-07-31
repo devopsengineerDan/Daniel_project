@@ -3541,6 +3541,7 @@ PROXIES && REVERSE PROXIES -> nginx, apache2
 Use latest Wifi/ Internet Security Standard e.g WPA2
 
 Remove ssh, openssh, ftp, http, nginx, apache2, pkexec,policykit-1 => sudo apt remove openssh-client
+sudo apt purge nginx nginx-common nginx-core
 sudo apt remove pkexec
 sudo apt purge policykit-1
 sudo apt remove smbclient
@@ -4304,6 +4305,7 @@ PROXIES && REVERSE PROXIES -> nginx, apache2
 Use latest Wifi/ Internet Security Standard e.g WPA2
 
 Remove ssh, openssh, ftp, http, nginx, apache2, pkexec,policykit-1 => sudo apt remove openssh-client
+sudo apt purge nginx nginx-common nginx-core
 sudo apt remove pkexec
 sudo apt purge policykit-1
 sudo apt remove smbclient
