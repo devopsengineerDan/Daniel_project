@@ -578,7 +578,7 @@ SUFFERING <===> Rigid/ Brick Wall             => Productive while GAINING
 
 👉👉👉👉👉👉👉👉 RELIGION AND POLITICS
 
-👉👉👉 MAN => SHIELD + DISCIPLINE
+👉👉👉 MAN => SHIELD + DISCIPLINE + HARDWORK
 SECURITY AND [INNOVATION + INVENTION]
 TRADITION AND BEAUTY => TRUTH, IMAGINATION, REALITY
 
@@ -600,10 +600,10 @@ SHIED AND HOPE OF LIBERTY
 
 ---------------
 1 DAVID                       2 DANIEL
-Security                      Security
+Security                      Security (Continuity)
 Consistency                   Accurate(Simple, Prioritise, Levels - high to low)            
-Discipline                    Adaptive within Scope
-Hard work(Realistic)          Realistic(High performance and Continuity)
+Discipline                    Adaptive (within Scope)
+Hard work(Realistic)          Realistic(High performance and Reliability)
 
 ---------------
 1 FATHER                   2 POLITICS              3 POLITICS
@@ -2785,7 +2785,9 @@ MONEY ------------> SAFETY ------------> GROWTH ------------> LOGISTICS
 
 ```
 ----------------------------------
+
 TRADES => Futures, Commodities, Stocks, Cryptocurrency, Forex
+
 ===> BEST PRACTICE
 🧨Banks -> *LOANS(BIG MONEY, Small Money-> School Fees), *ATM
 🧨Investor -> *DON'T HAVE PRIOR COMMUNICATION WITH INVESTOR* Cryptocurrency, Gift, =>[LAST RESOLUTION] Given property on Lease
@@ -3294,13 +3296,13 @@ sudo systemctl restart gdm3
 ```
 👉 LINUX OPERATING SYSTEM DISTRIBUTIONS
 
-@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
     For Debian / Ubuntu: .deb packages installed by apt or apt-get and dpkg Package Management System
     For Rocky / Fedora / RHEL: .rpm packages installed by yum for redhat, dnf for Fedora Package Management System
     For openSUSE: .rpm packages installed by zypper Package Management System
     For Arch: .aur packages installed by pacman Package Management System
     For FreeBSD: .txz packages installed by pkg Package Management System
-@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 
 ARCH (OPENSUSE TUMBLEWEED) => Install on KVM
@@ -3534,9 +3536,11 @@ Description:
 
 🧨🌀 SYSTEM HARDENING
 Firewall -> Firewall app / ufw
+VPN -> Install Anonsurf => Cybersecurity installation section
+PROXIES && REVERSE PROXIES -> nginx, apache2
 Use latest Wifi/ Internet Security Standard e.g WPA2
-Install Anonsurf => Cybersecurity installation section
-Remove ssh, openssh, ftp, http, pkexec,policykit-1 => sudo apt remove openssh-client
+
+Remove ssh, openssh, ftp, http, nginx, apache2, pkexec,policykit-1 => sudo apt remove openssh-client
 sudo apt remove pkexec
 sudo apt purge policykit-1
 sudo apt remove smbclient
@@ -4294,10 +4298,12 @@ $ sudo systemctl status fstrim.timer
 
 
 🧨🌀 SYSTEM HARDENING
-Firewall -> Firewall app /ufw
+Firewall -> Firewall app / ufw
+VPN -> Install Anonsurf => Cybersecurity installation section
+PROXIES && REVERSE PROXIES -> nginx, apache2
 Use latest Wifi/ Internet Security Standard e.g WPA2
-Install Anonsurf => Cybersecurity installation section
-Remove ssh, openssh, ftp, http, pkexec,policykit-1 => sudo apt remove openssh-client
+
+Remove ssh, openssh, ftp, http, nginx, apache2, pkexec,policykit-1 => sudo apt remove openssh-client
 sudo apt remove pkexec
 sudo apt purge policykit-1
 sudo apt remove smbclient
