@@ -359,7 +359,6 @@ Security                                    Manipulation | Flexibility
 1 CYBERSECURITY Engineering                              DEFENSE  | ATTACK
 2 FINANCIAL Engineering                                  DEFENSE  | ATTACK
 3 TELECOMMUNICATION & COMPUTER ELECTRONICS SYSTEMS Engineering          DEFENSE  | ATTACK
-4 AI/QUANTUM && SOFTWARE Engineering                     DEFENSE  | ATTACK
 *******************************************************************************************
                                                           4 COMMUNICATION
                                                           5 DRIVING
@@ -1580,7 +1579,7 @@ Vim Tutorial -> https://www.youtube.com/watch?v=jXud3JybsG4&list=PL7yh-TELLS1Eev
 => 🧨 RUST CRASH COURSE 1 https://www.youtube.com/watch?v=lzKeecy4OmQ
 => 🧨 RUST CRASH COURSE 2 https://www.youtube.com/watch?v=rQ_J9WH6CGk
 => 🧨 RUST BETTER UNDERSTANDING https://www.youtube.com/watch?v=IvPP5U2wzlE&list=TLPQMTEwNjIwMjWMmGpzNxGhFA&index=5
-=> 🧨 The ultimate Rust performance guide https://www.youtube.com/watch?v=q3VOsGzkM-M
+=> 🧨 RUST PERFORMANCE GUIDE https://www.youtube.com/watch?v=q3VOsGzkM-M
 
 1. Rust Bites -> https://www.youtube.com/watch?v=gvHPRaZHgD4&list=PLai5B987bZ9C0xK1tZ2wsudOo2zjrD9xX
 
