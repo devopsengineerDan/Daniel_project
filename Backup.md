@@ -97,6 +97,18 @@ Master's  
 # LIFE 
 
 ```
+✅ LEAD TO GOLD(EXCELLENCE)
+
+✅ STRONGEST
+   Highest
+   Greatest
+   Strongest
+
+✅ To know the seal is to know the self. To trace its lines is to walk the path of balance. To command is to align.
+   To rule is to serve what is highest.
+```
+
+```
 🧨[AWARENESS]                   🧨[AWARENESS]                                 🧨[AWARENESS]  
 CHINA  ===> LION & SHEEP        [BE THE ROBOT]                                ISRAEL/UK  ===> JAHBULON 
 RUSSIA ===> SHEEP               [BE THE ANIMALS]                              EUROPE     ===> GOAT 
@@ -142,7 +154,22 @@ WRITE
 🧨FREE-MARKET     ILLUSION        BEAUTY - CHARITY
 🧨COMPETITION     MATTER          JUSTICE                PATIENCE(COMPLETE)  
 
-
+--------------------------------------------------------------------------------------------------------------------------------------
+🧨🧨🧨 FIT <===> READY && STEADY <===> FAITHFUL 
+🧨🧨🧨 LESS KNOWLEDGE OF YOU -----> MORE KNOWLEDGE OF THE ENVIRONMENT  ----> READ YOUR ENVIRONMENT
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+👉👉👉 ===> LIFE IS WHAT YOU MAKE OF IT AND [KNOW << AND >> GET IT]
+👉👉👉 ===> WITHIN YOUR [POWER, CONTROL ,REACH
+👉👉👉 ===> DO ALL AND WHAT IS NECESSARY TO SUCCEED [DIRECTOR && ACTOR]
+-------------------------------------------------------------------------------------------------------------------------------------
+🧨🧨🧨 SILENCE
+SECURITY + INNOVATION [ADVANCE]
+                                   🧨 CONSCIOUS + KNOWING WHAT TO SAY & WHAT NOT TO SAY || WHAT TO DO & WHAT NOT TO DO
+                                   TIME [OBSERVATION THEN WORD] ===> NEUTRAL
+              REVIEW [WAY]
+                                   ACTION [REALITY THEN REFLECTION]
+                                   🧨 SILENCE
+--------------------------------------------------------------------------------------------------------------------------------------
                           
 ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ 
 1 FATHER                      1 DAVID                       1 DANIEL
