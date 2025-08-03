@@ -106,6 +106,11 @@ Master's  
 
 ✅ To know the seal is to know the self. To trace its lines is to walk the path of balance. To command is to align.
    To rule is to serve what is highest.
+
+✅ Spirit: Invisibility, Insight
+           Knowledge
+           Influence, Persuasion
+           Destruction
 ```
 
 ```
@@ -119,7 +124,7 @@ AFRICA                          [BE HUMBLE & BE KIND]                         US
  🧨 SECURITY, Liberty [LIVE/NEUTRAL], Equality [LAUGH/LOVE/GRACE][CHANGE/FORGIVE], Equity [KINDNESS/EXIST]
  👉👉👉 SPIRIT ---> SECURITY && ACCEPTANCE
  👉👉👉 ENERGY ---> CONTINUOUS DEVELOPMENT(GROWTH/DECLINE)
-  👉👉👉 VIBRATION ---> COMPETITIVE MATTER
+ 👉👉👉 VIBRATION ---> COMPETITIVE MATTER
  👉 The quiter you become, the more you are able to hear. Wisdom is application of knowledge. Knowledge is intelligence obtained through observation and awareness.
  👉 If you almost never remove anything, you get C++
  👉 If you almost never add anything, you get C
@@ -134,6 +139,7 @@ AFRICA                          [BE HUMBLE & BE KIND]                         US
 
 
 {👉👉👉|👉👉👉} 👉👉👉 963 DANIEL
+KNOW-WILL-I AM
 SURRENDER && ACCEPT THE SPIRIT
 MEDITATE
 WRITE
