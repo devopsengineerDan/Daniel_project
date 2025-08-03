@@ -409,12 +409,10 @@ LPP = $ 4
 ```
 ✅ STOCK EXCHANGE
 
-👉 ---> STOCK =====> LONG-TERM PERIOD [5-10-25-100]YRS        🧨🧨🧨 KENYA/AFRICA && CHINA 🧨🧨🧨
-                                                       ----> (GOLD + MINERALS), BANKS | GOVERNMENT, RELIGION, EDUCATION
-                                                       ----> ARMORY, MINERALS, TECHNOLOGY(SOFTWARE, HARDWARE), ENTERTAINMENT
-                                                       ----> PROPERTIES, LANDS, PLANTS, ANIMALS
+                                                             🧨🧨🧨 KENYA/AFRICA && CHINA, RUSSIA 🧨🧨🧨
                                                        ===================================================================
-                                                              🧨🧨🧨 US && CHINA🧨🧨🧨
+              STOCK =====> LONG-TERM PERIOD [5-10-25-100]YRS  🧨🧨🧨 USA && CHINA && KENYA GVT STOCKS🧨🧨🧨
+                                                              🧨 =====>  ON INFORMATION OF COLLAPSE ON CRYPTOCURRENCY SELL ALL USA STOCKS
                                                              👉 INDEX FUND
                                                              👉 EXCHANGE TRADED FUND
                                                              👉 MUTUAL FUND
@@ -428,30 +426,36 @@ LPP = $ 4
                                                                                                           2. Bitcoin -> Secure
                                                                                                           3. Etherium -> Universal
                                                                                                           4. Solana -> Retail
-                                                                                                       )
+                                                                                                        )
+----> Offshore/ Offgrid LIQUID
+----> (GOLD + MINERALS), ART, ASSETS 
+----------------------------------------------------------------------------------                                                                                                                                                             
+----> BANKS | GOVERNMENT | INSURANCE, RELIGION/SPORTS/ENTERTAINMENT, EDUCATION
+----> ARMORY, MINERALS, TECHNOLOGY(SOFTWARE, HARDWARE)
+----> PROPERTIES, LANDS, PLANTS, ANIMALS, WATER
 
+=======================================================================================================================================================================
 
-
-==================================================================================================================================
 =====> SHORT-TERM PERIOD [1]DAY
        🧨🧨🧨 INDICES 🧨🧨🧨  ---> Medium Volatility
 👉 ---> INDEX US100 / NDX100 / NASDAQ
 👉 ---> INDEX US500 / S&P500 USA ECONOMY
 
-   >>>  INDEX [US30] ---> Highly Volatile
-==================================================================================================================================
+   
+   >>> INDEX [US30, DJIA] ---> Highly Volatile
 
-----------------------------------------------------------------------------------------------------------------------------------
+=======================================================================================================================================================================
 
+✅ ACTUAL                  👉 STOCK
+✅ FUTURE PRICE OF STOCK   👉 FUTURES                     ---> INDEX NDX100 / NASDAQ, S&P500 USA ECONOMY
+✅ TOY                     👉 (EQUITY) <-> DERIVATIVES    ---> INDEX US30, US100, US500
+✅ TOY                     👉 CFDS :Over the Counter
 
-==================================================================================================================================
-=====> SHORT-TERM PERIOD [1]DAY
-👉 ---> CFDs ---> (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN YOU AND BROKER)
-==================================================================================================================================
-👉 (EQUITY) <-> DERIVATIVES 
- >>> FUTURES ---> (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN TWO INVESTORS) 
+ 
+ >>> FUTURES ---> (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN TWO INVESTORS)
+ >>> (EQUITY) <-> DERIVATIVES ---> (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN YOU AND BROKER)
+ >>> CFDs ---> (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN YOU AND BROKER)
  >>> OPTIONS --->  ***** COMPLEX ***** (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN TWO INVESTORS) 
-----------------------------------------------------------------------------------------------------------------------------------
 ```
 
 ```
@@ -473,7 +477,7 @@ LPP = $ 4
 # PROFESSIONALS
 
 ```
-Research <---> Market | Financial Analyst
+Research <---> Market | Financial Analyst, Engineer
 Asset Manager
 ------------------------------
 Broker [STOCK|EQUITY,DERIVATIVES|CFD's|FOREX|CRYPTOCURRENCY] ===> NON-DEALING LICENSE
