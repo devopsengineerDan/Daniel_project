@@ -108,9 +108,9 @@ Master's  
    To rule is to serve what is highest.
 
 ✅ Spirit: Invisibility, Insight
-           Knowledge               ---->   Desire - Anxious
+           Knowledge               ---->   Desire - Anxious/Destraction
            Influence, Persuasion   ---->   Wounded
-           Destruction             ---->  Angry
+           Destruction             ---->   Angry
 ```
 
 ```
