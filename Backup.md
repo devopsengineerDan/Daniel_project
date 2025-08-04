@@ -108,9 +108,9 @@ Master's  
    To rule is to serve what is highest.
 
 ✅ Spirit: Invisibility, Insight
-           Knowledge
-           Influence, Persuasion
-           Destruction
+           Knowledge               ---->   Desire - Anxious
+           Influence, Persuasion   ---->   Wounded
+           Destruction             ---->  Angry
 ```
 
 ```
@@ -451,9 +451,9 @@ Incompetence                                         DISEASE                    
 Corruption                                           POVERTY/ VIOLENCE                      Wisdom/Sound Action   => Ignorance of mob/crowd
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-SECURITY
+SECURITY     ---> IDENTITY
 STABILITY
-PERFORMANCE
+PERFORMANCE  ---> TRADITION
 =========================
 (A+)Accurate and Conscious && 9, 6 and 3 Dimensional plus Be in Harmony with nature
 --------------
