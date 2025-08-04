@@ -137,6 +137,20 @@ AFRICA                          [BE HUMBLE & BE KIND]                         US
 🧨 Consiousness/Intuition               - Wisdom/Action/UNITY       ----------- FRAGMENTS/Ignorance
 
 
+✅ ✅ ✅  SPIRIT   ✅ ✅ ✅
+
+SELF -> WILL
+------------------------------------------
+INNER AWARENESS -> INSIGHT/INNER VISION
+OUTER AWARENESS -> OUTER VISION
+------------------------------------------
+INTENTION -> THOUGHT
+DESIRE    -> FEEL
+
+✅ MIND -> THOUGHT
+✅ ENERGY -> EMOTION
+✅ BODY
+
 
 {👉👉👉|👉👉👉} 👉👉👉 963 DANIEL
 KNOW-WILL-I AM
@@ -144,8 +158,8 @@ SURRENDER && ACCEPT THE SPIRIT
 MEDITATE
 WRITE
 
+🧨🧨🧨  EYE Truth (Holy of Holies)
 🧨🧨🧨  EYE Truth (Inner)
-🧨🧨🧨  EYE Truth (Evolution)
 🧨🧨🧨  EYE Truth (Outer)
 🧨 EYE Left
 🧨 EYE Right
@@ -276,7 +290,7 @@ STEAL == CONTINUOUSLY ---> GAIN
     >CALM (Emotional Intelligence && Stability)
               🧨 Enforcement && Quality Assurance  ===> FAST && STRONG
               >UNREADABLE
-              👉 >IRREPLACEABLE
+              👉 ✅ >IRREPLACEABLE
 
 🧨 SILENCE
 
