@@ -191,9 +191,36 @@ Competitive                   Hard work(Realistic)          Realistic(High perfo
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 🧨LIFE                      🧨RELATIONSHIP                     🧨AGREEMENT  
 SPIRIT-Fire-Feel            Common                             Reason==Belief
-MIND-Air-Thought            Mindset/position 👉 ROLE           Constitutional Law==Agreement     
+MIND-Air-Thought            Position/Mindset 👉 ROLE           Constitutional Law==Agreement     
 EMOTION-Water-Energy        Relationship     👉 ROLE           Research==Invention/Innovation
 BODY-Earth-Vibration        Status                             Acceptance
+
+
+✅ 1                                                                 ✅ 2
+Information  KNOW(GOD + Wealth)                                      Observation
+Communication(Space<->Complete)                                      Accurate <-> Feel <-> Behaviour <-> Pattern
+                                                                     Character,Reputation, Credit 
+
+                                                   
+✅ ROBOT
+✅ ANIMAL
+PROTECT Life, Liberty, Equality and Property
+9 SNAKE + LION  => 33  [WE] -----> SECURITY
+
+
+       @[UP] BULL  => WHY -----> OBJECTIVE + ACCURATE                                                                
+                                
+				LION + EAGLE => WHY -----> OBJECTIVE + NEUTRAL
+
+           
+          DOG + BEAR => HOW -----> BEAUTY
+          6 ADAPT
+	  8 REVIEW
+
+                                LION + SNAKE => WHAT [MINE] -----> MEAN/SELFISH
+                                3 REALITY
+
+
 
 
                               🧨🧨🧨  BE USEFUL
@@ -223,8 +250,43 @@ STEAL == CONTINUOUSLY ---> GAIN
 🧨Foolish
                                                       DESTROY == PRIDE ---> WIN
                                                       🧨Stupid 
+
+
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+                       ✅ ✅ ✅ DARK HUMAN NATURE ✅ ✅ ✅
+
+✅ LEGEND
+✅ ALL GAIN
+✅ WIN
+
+      🧨 DANGER/CONSISTENT ===> MACHIAVELLIAN---[SHADOW/SECRET SYSTEM] 
+                           ===> NARCISSIST---[GOD && HUMBLE/NOBLE]
+🧨 LOUD/CONTROL ===> PSYCHOPATH---[BOLD && IRRESPONSIBLE]
+      🧨 FAST PERFORMANCE ===> MACHIAVELLIAN---[COMPETITIVE]
+----------------------------------------------------------------------------
+🧨 SILENCE
+🧨 SECURITY ===> MILITARY INDUSTRIAL COMPLEX
+              🧨 Governance && Compliance ===> ACCURATE
+              >AHEAD OF TIME
+              >COMPOSED
+              >CALCULATIVE
+    🧨 Monitor && Regulate ===> ADAPTIVE && DISTRIBUTED/NUMEROUS BACKUP
+    >CALM (Emotional Intelligence && Stability)
+              🧨 Enforcement && Quality Assurance  ===> FAST && STRONG
+              >UNREADABLE
+              👉 >IRREPLACEABLE
+
+🧨 SILENCE
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
                                                            
 ***************************************************************************************************************************
+
+
+                                    🧨🧨🧨🧨🧨🧨🧨🧨  BAD SITUATIONS LEADING TO DEATH  🧨🧨🧨🧨🧨🧨🧨🧨
 
 🧨 SECURITY AUTHORITY/KILL               
 🧨 PROSTITUTION/STEAL
@@ -235,7 +297,24 @@ STEAL == CONTINUOUSLY ---> GAIN
  🧨 INDECISIVE                🧨 ENSLAVEMENT
  🧨 CHAOS                     🧨 MEAN {TILL YOUR DEATH AND THEIRS}
  🧨 MEAN/HUNGER/DEATH         🧨 OFFER MONEY/ASSET/VALUE
-                              🧨 OFFER SEX 
+                              🧨 OFFER SEX
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+       
+
+🧨🧨🧨 Naive / Lack of [Knowledge + Innovation]
+🧨🧨🧨 Foolish / Laziness
+🧨🧨🧨 Ignorance / Stupid
+
+🧨🧨🧨 CON(Naive)/Obvious - LIE(Foolishness)/Petty - THEFT(Ignorance)/Stingy<->MinuteDetails
+🧨🧨🧨 Delay -   Excuse -  Failure
+
+
+                          🧨🧨🧨 LIFE
+                          🧨🧨🧨 MONEY
+                          🧨🧨🧨 WIFE
+                          🧨🧨🧨 LAND / PROPERTY
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 
@@ -266,7 +345,7 @@ C  -> Aristotles, Epictitus
 Super Ego -> Authority
 ===> Anxious
 Ego -> Secure
-Id -> Detached
+ID/Adult[Independent] -> Detached
 
 ===> DISFUNCTIONAL BEHAVIOUR
 Visual
@@ -276,7 +355,7 @@ Physical
 
 
 
-🧨🧨🧨 STRUCTURE  🧨🧨🧨
+🧨🧨🧨 STRUCTURE  OF CONFIDENCE🧨🧨🧨
 PREPARED-CONFIDENCE | PRO-ACTIVE
 INTERNAL | EXTERNAL
 INTRINSIC | EXTRINSIC
@@ -293,25 +372,6 @@ NETWORKING ===> 1 HOST MEETUPS, 2 HYPER PERSONALIZED EMAIL, 3 EVENTS
 -> Public speaking & Communication
 -> Sales & Persuasion
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-      🧨 DANGER/CONSISTENT ===> MACHIAVELLIAN---[SHADOW/SECRET SYSTEM] 
-                           ===> NARCISSIST---[GOD && HUMBLE/NOBLE]
-🧨 LOUD/CONTROL ===> PSYCHOPATH---[BOLD && IRRESPONSIBLE]
-      🧨 FAST PERFORMANCE ===> MACHIAVELLIAN---[COMPETITIVE]
-
-
-🧨SECURITY ===> MILITARY INDUSTRIAL COMPLEX
-              🧨 Governance && Compliance ===> ACCURATE
-              >AHEAD OF TIME
-              >COMPOSED
-              >CALCULATIVE
-    🧨 Monitor && Regulate ===> ADAPTIVE && DISTRIBUTED/NUMEROUS BACKUP
-    >CALM (Emotional Intelligence && Stability)
-              🧨 Enforcement && Quality Assurance  ===> FAST && STRONG
-              >UNREADABLE
-
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 
 🧨🧨🧨🧨🧨🧨🧨🧨🧨 SILENCE, COMMUNICATION , ACTION IN LIFE 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
@@ -445,7 +505,7 @@ Attention, Dream, Carnival
 👉👉👉 ===> WITHIN YOUR [POWER, CONTROL ,REACH]
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-                                                                                            SECURITY
+                                                                                            👉 SECURITY
 Vested interest                                      WAR                                    Wisdom/ Sound Reason/ Illuminated Light/ Accurate Consciousness/ A+ / Science Religion   => Dogmatic Supersticion                          
 Incompetence                                         DISEASE                                Love   => Fear
 Corruption                                           POVERTY/ VIOLENCE                      Wisdom/Sound Action   => Ignorance of mob/crowd
@@ -511,28 +571,7 @@ HATE <===> Selfish ---> Stingy => Intimidate / REVENGE [Hold Grudges/Anger]
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-
----------------
-1                                                                    2
-Information  KNOW(GOD + Wealth)                                      Observation
-Communication(Space<->Complete)                                      Accurate <-> Feel <-> Behaviour <-> Pattern
-
-
-PROTECT Life, Liberty, Equality and Property
-9 SNAKE + LION  => 33  [WE] -----> SECURITY
-
-
-       @[UP] BULL  => WHY -----> OBJECTIVE + ACCURATE                                                                
-                                
-				LION + EAGLE => WHY -----> OBJECTIVE + NEUTRAL
-
-           
-          DOG + BEAR => HOW -----> BEAUTY
-          6 ADAPT
-	  8 REVIEW
-
-                                LION + SNAKE => WHAT [MINE] -----> MEAN/SELFISH
-                                3 REALITY  
+ 
 
 
 
@@ -563,19 +602,7 @@ FOOD+WATER            DETORIORATE (DRUNKARD)          REALISTIC(OWN) <=> VIBRATI
 
                                                                🧨🧨🧨 SHORT/LOSS/STEAL  => Result to Destruction then DEATH
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-        🧨🧨🧨🧨🧨🧨🧨🧨  BAD SITUATIONS LEADING TO DEATH  🧨🧨🧨🧨🧨🧨🧨🧨
 
-🧨🧨🧨 Naive / Lack of [Knowledge + Innovation]
-🧨🧨🧨 Foolish / Laziness
-🧨🧨🧨 Ignorance / Stupid
-
-🧨🧨🧨 CON(Naive)/Obvious - LIE(Foolishness)/Petty - THEFT(Ignorance)/Stingy<->MinuteDetails
-🧨🧨🧨 Delay -   Excuse -  Failure
-
-                          🧨🧨🧨 MONEY
-                          🧨🧨🧨 WIFE
-                          🧨🧨🧨 LAND / PROPERTY
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                               👉👉👉 🌀🌀🌀 UPTREND
 👉👉👉 🌀🌀🌀 DOWNTREND                      🧨🧨🧨 DEATH => SECURITY SUFFERING <===> CERTAINITY
@@ -587,7 +614,7 @@ SUFFERING <===> Rigid/ Brick Wall             => Productive while GAINING
 
 🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀
 
-🧨🧨🧨 CONSIENTIOUS, CHARISMATIC, MATURE  ======> HOLD STRONG, MOVE FAST
+🧨🧨🧨 CONSCIENTIOUS, CHARISMATIC, MATURE  ======> HOLD STRONG, MOVE FAST
 =========>  WORK + GET REWARD => SOLUTION PROVIDER
 
 
@@ -690,7 +717,7 @@ Increase in Wealth to achieve Objective
 🌀
 %Daniel [Consistency,Discipline, Hardwork], Humble_Kind
 %Dad [Survive, Know to Detail, Connect the Dots, Competitive]
-%DEATH - SUN *Harmony with nature [within scope and budget]  ---§   MOON - DEATH *Add up in nature [within scope and budget]
+%DEATH - SUN *Harmony with nature [within scope and budget]  --->   MOON - DEATH *Add up in nature [within scope and budget]
 
 ***************************************************************************************************************************************************************************************
 🌀
