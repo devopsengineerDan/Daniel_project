@@ -212,7 +212,7 @@ BODY-Earth-Vibration        Status                             Acceptance
 
 ✅ 1                                                                 ✅ 2
 Information  KNOW(GOD + Wealth)                                      Observation
-Communication(Space<->Complete)                                      Accurate <-> Feel <-> Behaviour <-> Pattern
+Communication(Space<->Complete)                                      Accuracy <-> 👉✅Feel <-> Behaviour <-> Pattern
                                                                      Character,Reputation, Credit 
 
                                                    
@@ -289,8 +289,8 @@ STEAL == CONTINUOUSLY ---> GAIN
     🧨 Monitor && Regulate ===> ADAPTIVE && DISTRIBUTED/NUMEROUS BACKUP
     >CALM (Emotional Intelligence && Stability)
               🧨 Enforcement && Quality Assurance  ===> FAST && STRONG
-              >UNREADABLE
-              👉 ✅ >IRREPLACEABLE
+              👉✅ >UNREADABLE
+              👉✅ >IRREPLACEABLE
 
 🧨 SILENCE
 
