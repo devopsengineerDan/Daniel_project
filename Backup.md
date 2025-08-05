@@ -140,6 +140,8 @@ AFRICA                          [BE HUMBLE & BE KIND]                         US
 ✅ ✅ ✅  SPIRIT   ✅ ✅ ✅
 
 SELF -> WILL
+ORCHESTRATION
+LOAD-BALANCER
 ------------------------------------------
 INNER AWARENESS -> INSIGHT/INNER VISION
 OUTER AWARENESS -> OUTER VISION
