@@ -23,6 +23,7 @@ RANGES | HEDGING + PREVAILING TREND
 
 ================================================================================
 
+👉 GOLDEN RULES
 Long-term ===> Acceptable Profit
 Mid-term  ===> Acceptable Profit
 Short-term  ===> Acceptable Profit
@@ -130,31 +131,6 @@ Citi bank -> Dealers & Liquidity Provider
 
 
 ```
-👉 PSYCHOLOGIST ===> [Breath + Environment Expert(INTELLIGENCE[Secret+Clandestine Gathering/Stealing+Conglomorate  || Knowledge+Innovation] + AWARENESS + IN HARMONY WITH NATURE Harmonious[Necessity]-Integrated[Choice/Want]-Industry[Need])]
-
-👉 ALPHA {WEALTH/SECURITY ACCUMULATION && KINDNESS}
-👉 MANAGER [Managing Director MD && General Manager]
-👉 OPERATIONS MANAGER [Global Market Director && Manager]
-
-👉 FINANCIAL ANALYST ===> [Chartered Financial Analyst + Portfolio Manager]
-👉 🌀 RESEARCH ANALYST && OFFICER  🧨 INVESTMENT ANALYST && OFFICER [TRADER/ EXECUTION]
-👉 RISK MANAGER <=> EQUITY MANAGER ===> [Risk Little To Acquire More AND NOT Risk More To Acquire Little] && [Hold on is a Strategy]
-
-=================================================================================================================================================================================================
-
-👉 FINANCIAL ENGINEER
-
-1. Real-Time Portfolio Selection and Optimization: Enhance real-time portfolio optimization and capital allocation algorithms to maximize returns while managing risk.
-2. Predictive Momentum Model: Implement and integrate a predictive momentum model into existing market-making and taking strategies.
-3. Post-Trade Analysis: Develop and implement advanced post-trade analysis tools to evaluate strategy performance and identify areas for improvement.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1. Portfolio Selection and Optimization
-2. Position Sizing
-3. Market Timing
-4. Risk Management
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
                                                     🧨  INSURANCE [Government, Business, Health, Worker]
 🧨 CENTRAL BANKS -> CONTROLLER
@@ -247,26 +223,6 @@ Gold ---> Dun Kiptoo SA Mechanical Engineer
 Stock ---> Bill Michaels Nandwa => Tony => Adam
 CryptoCurrency ---> Anthony => Marcus => Evan | => Jerry Bogonko JBO Instagram, Sam Telegram, Victor 
 Alex Omollo => Kevin Telecommunications => Emmanuel Promota Click S.Sudan
-```
-
-
-```
-🧨🧨🧨 FIT <===> READY && STEADY <===> FAITHFUL 
-🧨🧨🧨 LESS KNOWLEDGE OF YOU -----> MORE KNOWLEDGE OF THE ENVIRONMENT  ----> READ YOUR ENVIRONMENT
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-👉👉👉 ===> LIFE IS WHAT YOU MAKE OF IT AND [KNOW << AND >> GET IT]
-👉👉👉 ===> WITHIN YOUR [POWER, CONTROL ,REACH
-👉👉👉 ===> DO ALL AND WHAT IS NECESSARY TO SUCCEED [DIRECTOR && ACTOR]
-
-----------------------------------------------------------------------------------------------------------
-🧨🧨🧨 SILENCE
-SECURITY + INNOVATION [ADVANCE]
-                                   🧨 CONSIOUS + KNOWING WHAT TO SAY & WHAT NOT TO SAY || WHAT TO DO & WHAT NOT TO DO
-                                   TIME [OBSERVATION THEN WORD] ===> NEUTRAL
-              REVIEW [WAY]
-                                   ACTION [REALITY THEN REFLECTION]
-                                   🧨 SILENCE
-----------------------------------------------------------------------------------------------------------                              
 ```
 
 
@@ -477,14 +433,41 @@ LPP = $ 4
 # PROFESSIONALS
 
 ```
+👉 PSYCHOLOGIST ===> [Breath + Environment Expert(INTELLIGENCE[Secret+Clandestine Gathering/Stealing+Conglomorate  || Knowledge+Innovation] + AWARENESS + IN HARMONY WITH NATURE Harmonious[Necessity]-Integrated[Choice/Want]-Industry[Need])]
+
+👉 ALPHA {WEALTH/SECURITY ACCUMULATION && KINDNESS}
+👉 MANAGER [Managing Director MD && General Manager]
+👉 OPERATIONS MANAGER [Global Market Director && Manager]
+
+👉 FINANCIAL ANALYST ===> [Chartered Financial Analyst + Portfolio Manager]
+👉 🌀 RESEARCH ANALYST && OFFICER  🧨 INVESTMENT ANALYST && OFFICER [TRADER/ EXECUTION]
+👉 RISK MANAGER <=> EQUITY MANAGER ===> [Risk Little To Acquire More AND NOT Risk More To Acquire Little] && [Hold on is a Strategy]
+
+=================================================================================================================================================================================================
+
+👉 FINANCIAL ENGINEER
+
+1. Real-Time Portfolio Selection and Optimization: Enhance real-time portfolio optimization and capital allocation algorithms to maximize returns while managing risk.
+2. Predictive Momentum Model: Implement and integrate a predictive momentum model into existing market-making and taking strategies.
+3. Post-Trade Analysis: Develop and implement advanced post-trade analysis tools to evaluate strategy performance and identify areas for improvement.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Portfolio Selection and Optimization
+2. Position Sizing
+3. Market Timing
+4. Risk Management
+
+=================================================================================================================================================================================================
+
+👉 PORTFOLIO MANAGER
+
 Research <---> Market | Financial Analyst, Engineer
 Asset Manager
-------------------------------
+-------------------------------------------------------------------------------------
 Broker [STOCK|EQUITY,DERIVATIVES|CFD's|FOREX|CRYPTOCURRENCY] ===> NON-DEALING LICENSE
-------------------------------
+-------------------------------------------------------------------------------------
 Investment Banker ===> DEALING LICENSE
-==========================================================================================================
 
+#######################################################################################
 🧨🧨🧨 NSE Nairobi Stock Exchange
 🧨🧨🧨 Capital Markets Authority
 ```
