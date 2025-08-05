@@ -30,7 +30,7 @@ Short-term  ===> Acceptable Profit
 ===> DO NOT BE TOO GOOD --- Be Harmonious, Integrated, Industry
 ===> DO NOT BE A PSYCHOPATH
 [Make Trade that you can explain] ===> STRATEGY, ENTRY, PLAYBOOK
-[PUBLIC KNOWLEDGE: MARKET IS RANDOM]
+[PUBLIC KNOWLEDGE: MARKET IS RANDOM: HENCE YOU ONLY ANTICIPATE]
 ===> Allow Minimum Loss
 
 ================================================================================
