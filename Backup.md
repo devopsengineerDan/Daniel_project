@@ -6887,6 +6887,15 @@ BEST PRACTICE Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE
 
 ![title](static/img/computer-memory-solutions.jpg)
 
+# Binding Rust to Python Code
+
+```
+🌀 Isaac Harris-Holt
+1. How To Make Your Python Packages Really Fast With RUST -> https://www.youtube.com/watch?v=jlWhnrk8go0
+2.  Advanced PyO3: Creating A Python CLI With RUST -> https://www.youtube.com/watch?v=8yGR3xjTzDw
+```
+
+
 # What is Rust?
 
 Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.
@@ -8231,7 +8240,7 @@ cargo bench
 
 -------------------------------
 
-👉  RUST ENVIRONMENT => Rust uses cache memory unlike shared memory in Python
+👉  RUST ENVIRONMENT ===> Rust uses cache memory unlike shared memory in Python
 
 ```
 Dependencies aren’t normally installed into the cargo directory in Rust. There is a cache directory that is shared, but it’s a true cache and therefore not a problem in the way a shared lib directory is.
@@ -11467,7 +11476,7 @@ Stock price prediction is a machine learning project for beginners; in this tuto
 
 
 👉 ML - Credit Card Fraud Detection -> https://www.geeksforgeeks.org/machine-learning/ml-credit-card-fraud-detection/
-                                   -> Github ===> ML___Credit_Card_Fraud_Detection.ipynb
+                                    -> Github ===> ML___Credit_Card_Fraud_Detection.ipynb
 
 ```
 The goal of this project is to develop a machine learning model that can accurately detect fraudulent credit card transactions using historical data. By analyzing transaction patterns, the model should be able to distinguish between normal and fraudulent activity, helping financial institutions flag suspicious behavior early and reduce potential risks.
