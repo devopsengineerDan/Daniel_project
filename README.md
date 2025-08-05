@@ -298,8 +298,8 @@ Alex Omollo => Kevin Telecommunications => Emmanuel Promota Click S.Sudan
 🌀 Quantitative Tightening Explained (and What it Means for Markets)Quantitative Tightening Explained (and What it Means for Markets) -> https://www.youtube.com/watch?v=KTWVyFFpGXQ
 🌀 What is Quantitative Easing? -> https://www.youtube.com/watch?v=llslyXPu6wI
 
-🧨 ORDER OF MARKET TREND
 
+🧨 ORDER OF MARKET TREND
 ✅ 1. Interest Rates
 ✅ 2. Buyers and Sellers
 ✅ 3. Price Action
