@@ -460,13 +460,12 @@ LPP = $ 4
 
 👉 PORTFOLIO MANAGER
 
-Research <---> Market | Financial Analyst, Engineer
-Asset Manager
+Investment Banker ===> DEALING LICENSE
 -------------------------------------------------------------------------------------
 Broker [STOCK|EQUITY,DERIVATIVES|CFD's|FOREX|CRYPTOCURRENCY] ===> NON-DEALING LICENSE
 -------------------------------------------------------------------------------------
-Investment Banker ===> DEALING LICENSE
-
+Research <---> Market | Financial Analyst, Engineer
+Asset Manager
 #######################################################################################
 🧨🧨🧨 NSE Nairobi Stock Exchange
 🧨🧨🧨 Capital Markets Authority
