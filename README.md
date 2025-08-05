@@ -15,6 +15,11 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 
 ![title](static/img/professional_path.jpg)
 
+✅ KING
+✅ QUEEN
+            ✅ BISHOP
+      ✅ KNIGHT
+            ✅ PAWN
 
 ```
 👉 *************** SECURITY AWARENESS *******************
