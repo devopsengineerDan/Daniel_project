@@ -292,11 +292,17 @@ Alex Omollo => Kevin Telecommunications => Emmanuel Promota Click S.Sudan
 # INTEREST RATES
 
 ```
-Bond Prices Vs Bond Yield | Inverse Relationship -> https://www.youtube.com/watch?v=n83xZUCbDAg
-How does raising interest rates control inflation? -> https://www.youtube.com/watch?v=R8VBRCs2jTU
--------------------------------------------------------------------------------------------------
-Quantitative Tightening Explained (and What it Means for Markets)Quantitative Tightening Explained (and What it Means for Markets) -> https://www.youtube.com/watch?v=KTWVyFFpGXQ
-What is Quantitative Easing? -> https://www.youtube.com/watch?v=llslyXPu6wI
+🌀 Bond Prices Vs Bond Yield | Inverse Relationship -> https://www.youtube.com/watch?v=n83xZUCbDAg
+🌀 How does raising interest rates control inflation? -> https://www.youtube.com/watch?v=R8VBRCs2jTU
+-------------------------------------------------------------------------------------------------------
+🌀 Quantitative Tightening Explained (and What it Means for Markets)Quantitative Tightening Explained (and What it Means for Markets) -> https://www.youtube.com/watch?v=KTWVyFFpGXQ
+🌀 What is Quantitative Easing? -> https://www.youtube.com/watch?v=llslyXPu6wI
+
+🧨 ORDER OF MARKET TREND
+
+✅ 1. Interest Rates
+✅ 2. Buyers and Sellers
+✅ 3. Price Action
 ```
 
 ```
