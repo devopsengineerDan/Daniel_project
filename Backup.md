@@ -179,7 +179,7 @@ WRITE
 🧨🧨🧨 LESS KNOWLEDGE OF YOU -----> MORE KNOWLEDGE OF THE ENVIRONMENT  ----> READ YOUR ENVIRONMENT
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 👉👉👉 ===> LIFE IS WHAT YOU MAKE OF IT AND [KNOW << AND >> GET IT]
-👉👉👉 ===> WITHIN YOUR [POWER, CONTROL ,REACH
+👉👉👉 ===> WITHIN YOUR [POWER, CONTROL ,REACH]
 👉👉👉 ===> DO ALL AND WHAT IS NECESSARY TO SUCCEED [DIRECTOR && ACTOR]
 -------------------------------------------------------------------------------------------------------------------------------------
 🧨🧨🧨 SILENCE
@@ -189,6 +189,18 @@ SECURITY + INNOVATION [ADVANCE]
               REVIEW [WAY]
                                    ACTION [REALITY THEN REFLECTION]
                                    🧨 SILENCE
+--------------------------------------------------------------------------------------------------------------------------------------
+✅ SECURITY     ---> IDENTITY
+✅ STABILITY
+✅ PERFORMANCE  ---> TRADITION
+=========================
+✅ (A+)Accurate and Conscious && 9, 6 and 3 Dimensional plus Be in Harmony with nature
+--------------
+✅ Analysis(Simple, Accurate, Categorise)             Emotional Intelligence / Awareness => Ordained
+✅ Operations                                         Social Intelligence / Awareness => Chosen
+✅ Implementation(Complete)                           Logical Intelligence / Awareness=> Elected
+--------------
+✅ Numbers[Make Huge Gain/Profit] + [Offer Minimal Reward plus Blessings], [Operate within a BUDGET], [Reduce randomness, Reduce Loss] || (Be aware of Threat/Killers, Opportunists, Destroyers)
 --------------------------------------------------------------------------------------------------------------------------------------
                           
 ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ 
@@ -350,8 +362,8 @@ ST -> Marcus Aurelius, Socrates
 OI -> Seneca Research[Categorise,Review]
 C  -> Aristotles, Epictitus
 
-===> COURAGE, WISDOM, TEMPERATE/TOLERANCE, JUSTICE
-===> LIBERAL
+✅ ===> COURAGE, WISDOM, TEMPERATE/TOLERANCE, JUSTICE
+✅ ===> LIBERAL
 
 
 
@@ -525,17 +537,7 @@ Incompetence                                         DISEASE                    
 Corruption                                           POVERTY/ VIOLENCE                      Wisdom/Sound Action   => Ignorance of mob/crowd
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-SECURITY     ---> IDENTITY
-STABILITY
-PERFORMANCE  ---> TRADITION
-=========================
-(A+)Accurate and Conscious && 9, 6 and 3 Dimensional plus Be in Harmony with nature
---------------
-Analysis(Simple, Accurate, Categorise)             Emotional Intelligence / Awareness => Ordained
-Operations                                         Social Intelligence / Awareness => Chosen
-Implementation(Complete)                           Logical Intelligence / Awareness=> Elected
---------------
-Numbers[Make Huge Gain/Profit] + [Offer Minimal Reward plus Blessings] + [Operate within a BUDGET], (Reduce randomness, Reduce Loss) || (Be aware of threat/Killers, Opportunists, Destroyers)
+
 
 =========================
 
