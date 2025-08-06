@@ -301,8 +301,11 @@ Alex Omollo => Kevin Telecommunications => Emmanuel Promota Click S.Sudan
 
 🧨 ORDER OF MARKET TREND
 ✅ 1. Interest Rates
-✅ 2. Buyers and Sellers
+✅ 2. Amount of Buyers/Consumers and Sellers/Producers
 ✅ 3. Price Action
+✅ 4. Therefore; Increase in interest rates increases Sellers in the market, making price to fall
+                 Decrease in interest rates increases Buyers in the market, making price to rise
+✅ 5. Hence; Relationship between Demand and Supply
 ```
 
 ```
@@ -322,8 +325,31 @@ Inflation + Economic Growth                       GDP(Gross Domestic Product)
 2. Increase inflation + Increase economic growth
 3. Increase tax + Lowering GVT development expenses
 ```
+
 ---------------------------------------------------------
 
+## Bond Calculation
+
+```
+Bond Yield: It is measure return of a bond(%)
+
+Bond Yield =  Bond Coupon    * 100 %
+             -------------
+              Bond Price
+
+ PRICE          | COUPON             | YIELD (%)
+----------------------------------------------------------
+ $ 1000         | $ 50               | 5 %
+ $ 900          | $ 50               | 5.5 %    
+ $ 1100         | $ 50               | 4.5 % 
+
+✅✅✅ Therefore; Increase in Interest Rates increases Sellers in the market, making Price to fall. Hence leading to increase in Yield.
+                  Decrease in Interest Rates increases Buyers in the market, making Price to rise. Hence leading to decrease in Yield.
+```
+
+---------------------------------------------------------
+
+## Compounding Calculation
 
 ```
 👉👉👉 COMPOUNDING CALCULATOR ===> https://github.com/devopsengineerDan/compound-interest-calculator
@@ -353,11 +379,11 @@ Total Future Value =  2.8 million
 👉👉👉 POSITION SIZE CALCULATOR ===>  BABYPIPS 🧨 DETERMIONE LOT SIZE TO USE ===> https://www.youtube.com/watch?v=GvkmQVkXZRE
 
 
- Lot            | PS (Position Size)     | LPP (Loss Per Pip)
+ Lot            | PS (Position Size)      | LPP (Loss Per Pip)
 ---------------------------------------------------------------
- Micro          | 1000u                  | $ 0.10
- Mini           | 10,000u                | $ 1.00    ===> $ 4
- Lot            | 100,000u               | $ 10.00   ===> $ 11
+ Micro          | 1000 u                  | $ 0.10
+ Mini           | 10,000 u                | $ 1.00    ===> $ 4
+ Lot            | 100,000 u               | $ 10.00   ===> $ 11
 
 PS (Position Size)
 LPP (Loss Per Pip)
@@ -365,7 +391,7 @@ RT (Risk Tolerance)
 SL Pips (Stop Loss Pips)
 AB (Account Balance)
 
-RT= AB * %of Acc to Risk
+RT= AB * % of Acc to Risk
 RT/SL Pips=LPP
 
 Example 1:
