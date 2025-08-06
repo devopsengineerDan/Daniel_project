@@ -181,14 +181,14 @@ INTENTION -> THOUGHT  ---> CONTEMPLATION         WORD = KEY
 DESIRE    -> FEEL     ---> SURRENDER             LETTER = GATEWAY
                       ---> ACCEPTANCE            NUMBER = FORMULAE
 ****************************************************************************************
-✅ ✅ ✅   SOUL  ✅ ✅ ✅  
+✅ ✅ ✅  SOUL  ✅ ✅ ✅  
 
 ✅ MIND     -> THOUGHT    -> INTEPRETATION / INQUIRY / PARABLE / STORY  🧨 DERASH
 ----------------------------------------------------------------------------------------
 ✅ ENERGY   -> EMOTION    -> IMAGINATION / ILLUSION / HINT / SYMBOLIC /HIDDEN  🧨 REMEZ
 
 ****************************************************************************************
-✅ ✅ ✅   MATTER / FIRE ✅ ✅ ✅  🧨 PESHAT
+✅ ✅ ✅  MATTER / FIRE  ✅ ✅ ✅  🧨 PESHAT
 ✅ BODY     -> PYSICAL    -> PLAIN && SIMPLE LAWS
 
 
