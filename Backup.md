@@ -139,10 +139,10 @@ AFRICA                          [BE HUMBLE & BE KIND]                         US
 
 
 ✅ ✅ ✅  SPIRIT /FIRE   ✅ ✅ ✅  🧨 SAAD / SECRET / MYSTERY
-
-SELF -> WILL                                   
-ORCHESTRATION ---> BEST CHOICE
-LOAD-BALANCER
+                                           👉 WILL               👉 WILL | DESIRE
+SELF -> WILL                               OBSERVATION           TIME         
+ORCHESTRATION ---> BEST CHOICE             INTERFACE             PROBABILITY
+LOAD-BALANCER                              INTENTION             SYMBOLISM
 ------------------------------------------------------------------
 INNER AWARENESS -> INSIGHT/INNER VISION
 OUTER AWARENESS -> OUTER VISION
