@@ -96,6 +96,21 @@ Master's  
 
 # LIFE 
 
+## BE CAREFUL
+
+```
+        🧨 DEAD
+        UNITY
+LOVE
+        PEACE
+---------------------
+        THREAT -> KILL
+DISEASE -> CRAZY/MAD
+        🧨 DEAD -> STINGY
+```
+
+-----------------------------------------------------
+
 ```
 ✅ LEAD TO GOLD(EXCELLENCE)
 
@@ -112,6 +127,21 @@ Master's  
            Influence, Persuasion   ---->   Wounded
            Destruction             ---->   Angry
 ```
+
+```
+✅ ORDER
+
+JAHBULON
+33 
+Order of Golden Dawn
+Roscicrucion
+Templer
+Free mason
+Illuminati
+Skull and Bones
+```
+
+-----------------------------------------------------
 
 ```
 🧨[AWARENESS]                   🧨[AWARENESS]                                 🧨[AWARENESS]  
@@ -164,10 +194,10 @@ DESIRE    -> FEEL     ---> SURRENDER             LETTER = GATEWAY
 
 
 {👉👉👉|👉👉👉} 👉👉👉 963 DANIEL
-KNOW-WILL-I AM
-SURRENDER && ACCEPT THE SPIRIT
-MEDITATE
-WRITE
+👉 KNOW-WILL-I AM
+👉 SURRENDER && ACCEPT THE SPIRIT
+👉 MEDITATE
+👉 WRITE
 
 🧨🧨🧨  EYE Truth (Holy of Holies)
 🧨🧨🧨  EYE Truth (Inner)
