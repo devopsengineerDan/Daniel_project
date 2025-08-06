@@ -123,7 +123,7 @@ DISEASE -> CRAZY/MAD
    To rule is to serve what is highest.
 
 ✅ Spirit: Invisibility, Insight
-           Knowledge               ---->   Desire - Anxious/Destraction
+           Knowledge               ---->   Desire - Destraction && Anxious
            Influence, Persuasion   ---->   Wounded
            Destruction             ---->   Angry
 ```
@@ -171,7 +171,7 @@ AFRICA                          [BE HUMBLE & BE KIND]                         US
 ✅ ✅ ✅  SPIRIT /FIRE   ✅ ✅ ✅  🧨 SAAD / SECRET / MYSTERY
                                            👉 WILL               👉 WILL | DESIRE
 SELF -> WILL                               OBSERVATION           TIME         
-ORCHESTRATION ---> BEST CHOICE             INTERFACE             PROBABILITY
+ORCHESTRATION ---> BEST CHOICE             INTERFACE             CURRENT && PROBABILITY
 LOAD-BALANCER                              INTENTION             SYMBOLISM
 ------------------------------------------------------------------
 INNER AWARENESS -> INSIGHT/INNER VISION
