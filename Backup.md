@@ -138,25 +138,28 @@ AFRICA                          [BE HUMBLE & BE KIND]                         US
 
 
 
-✅ ✅ ✅  SPIRIT   ✅ ✅ ✅  🧨 SAAD / SECRET / MYSTERY
+✅ ✅ ✅  SPIRIT /FIRE   ✅ ✅ ✅  🧨 SAAD / SECRET / MYSTERY
 
-SELF -> WILL
-ORCHESTRATION
+SELF -> WILL                                   
+ORCHESTRATION ---> BEST CHOICE
 LOAD-BALANCER
-------------------------------------------
+------------------------------------------------------------------
 INNER AWARENESS -> INSIGHT/INNER VISION
 OUTER AWARENESS -> OUTER VISION
-------------------------------------------
-INTENTION -> THOUGHT
-DESIRE    -> FEEL
-*************************************************************************************
-✅ ✅ ✅   SOUL  ✅ ✅ ✅  🧨 DERASH
+------------------------------------------------------------------
+INTENTION -> THOUGHT  ---> CONTEMPLATION         WORD = KEY
+DESIRE    -> FEEL     ---> SURRENDER             LETTER = GATEWAY
+                      ---> ACCEPTANCE            NUMBER = FORMULAE
+****************************************************************************************
+✅ ✅ ✅   SOUL  ✅ ✅ ✅  
 
-✅ MIND     -> THOUGHT    -> INTEPRETATION / INQUIRY
-✅ ENERGY   -> EMOTION    -> IMAGINATION / ILLUSION / HINT 
+✅ MIND     -> THOUGHT    -> INTEPRETATION / INQUIRY / PARABLE / STORY  🧨 DERASH
+----------------------------------------------------------------------------------------
+✅ ENERGY   -> EMOTION    -> IMAGINATION / ILLUSION / HINT / SYMBOLIC /HIDDEN  🧨 REMEZ
 
-*************************************************************************************
-✅ BODY     -> PYSICAL    -> PLAIN && SIMPLE  LAWS
+****************************************************************************************
+✅ ✅ ✅   MATTER / FIRE ✅ ✅ ✅  🧨 PESHAT
+✅ BODY     -> PYSICAL    -> PLAIN && SIMPLE LAWS
 
 
 
@@ -289,7 +292,7 @@ STEAL == CONTINUOUSLY ---> GAIN
 
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-                       ✅ ✅ ✅ DARK HUMAN NATURE ✅ ✅ ✅
+                       ✅ ✅ ✅ ✅ DARK HUMAN NATURE ✅ ✅ ✅ ✅
 
 ✅ LEGEND
 ✅ ALL GAIN
