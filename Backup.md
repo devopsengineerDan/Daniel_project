@@ -137,7 +137,8 @@ AFRICA                          [BE HUMBLE & BE KIND]                         US
 🧨 Consiousness/Intuition               - Wisdom/Action/UNITY       ----------- FRAGMENTS/Ignorance
 
 
-✅ ✅ ✅  SPIRIT   ✅ ✅ ✅
+
+✅ ✅ ✅  SPIRIT   ✅ ✅ ✅  🧨 SAAD / SECRET / MYSTERY
 
 SELF -> WILL
 ORCHESTRATION
@@ -148,10 +149,15 @@ OUTER AWARENESS -> OUTER VISION
 ------------------------------------------
 INTENTION -> THOUGHT
 DESIRE    -> FEEL
+*************************************************************************************
+✅ ✅ ✅   SOUL  ✅ ✅ ✅  🧨 DERASH
 
-✅ MIND -> THOUGHT
-✅ ENERGY -> EMOTION
-✅ BODY
+✅ MIND     -> THOUGHT    -> INTEPRETATION / INQUIRY
+✅ ENERGY   -> EMOTION    -> IMAGINATION / ILLUSION / HINT 
+
+*************************************************************************************
+✅ BODY     -> PYSICAL    -> PLAIN && SIMPLE  LAWS
+
 
 
 {👉👉👉|👉👉👉} 👉👉👉 963 DANIEL
