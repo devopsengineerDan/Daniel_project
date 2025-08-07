@@ -11,6 +11,7 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
                     ICT
 ```
 
+
 # PROFESSIONAL PATHS
 
 ![title](static/img/professional_path.jpg)
@@ -22,6 +23,7 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
                                      ✅ KNIGHT
                                            ✅ PAWN
 ```
+
 
 # INVESTMENT PORTFOLIO
 
@@ -64,6 +66,7 @@ Ingot
 Henriot                                                             
 ```
 
+
 ```
                                                     🧨  INSURANCE [Government, Business, Health, Worker]
 🧨 CENTRAL BANKS -> CONTROLLER
@@ -80,15 +83,18 @@ Henriot
 
 
                                                     🧨  PENSION
+```
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------
 
+```
 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
 
        👉👉👉👉👉 Asset Management && Tax-Compliance && Off-shore Wealth
 
        =====> WEAPONS + GOVERNMENT --------> POLITICS [KANU && MASON] Sheep VS Goats
-       =====> BANK + LAW
+       =====> BANK + LAW 
+       =====> TECHNOLOGY FIRMS
        --------------------------------------------------------
        =====> INSURANCE 
        =====> ACTUARISTS/ANALYSTS [BROKERAGE + HEDGE FUNDS]
@@ -100,6 +106,29 @@ Henriot
        =====> LAND + MINERALS
 
 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
+
+==============================================================================================================================================
+1. FINANCIAL Engineering                                                 DEFENSE  | ATTACK
+2. CYBERSECURITY Engineering                                             DEFENSE  | ATTACK
+3. AI, QUANTUM, SOFTWARE Engineering                                     DEFENSE  | ATTACK
+4. TELECOMMUNICATION & COMPUTER ELECTRONICS SYSTEMS Engineering          DEFENSE  | ATTACK
+*******************************************************************************************
+                                                          5 COMMUNICATION
+                                                          6 DRIVING
+                             8 PROPERTIES                                    
+                             7 LAND  
+                             9 MINERALS  
+                     
+  
+                     
+AMUNITION
+GUITAR
+CHESS                           GOLF
+                    POOL&SWIMMING  
+                                RUNNING,BASKETBALL,FOOTBALL,RUGBY
+                                WATCH
+                                GAMING
+==============================================================================================================================================
 ```
 
 ----------------------------------------------------                    
@@ -113,6 +142,7 @@ Daniel ===> GOLF ACADEMIES
 
 Farming + Lands => Light Group   
 ```
+
 
 # EXCHANGE MARKET [STOCK, FOREX, CRYPTOCURRENCY]
 
@@ -391,15 +421,6 @@ B) EPIC/EXTREME
 
 
 ```
-✅ NETWORK
-Gold ---> Dun Kiptoo SA Mechanical Engineer
-Stock ---> Bill Michaels Nandwa => Tony => Adam
-CryptoCurrency ---> Anthony => Marcus => Evan | => Jerry Bogonko JBO Instagram, Sam Telegram, Victor 
-Alex Omollo => Kevin Telecommunications => Emmanuel Promota Click S.Sudan
-```
-
-
-```
 **************************************************************************************************************
 ✅ ===> YOU CANNOT CHEAT THE GRIND ---> Must go through the process.
    - BET 97% 
@@ -600,7 +621,7 @@ Private Finance
 
 ----------------------------------------------------------------------------------------------
 
-## QUANT FUNDAMENTALS
+# QUANT FUNDAMENTALS
 
 ![title](static/img/quant1.jpg)
 
@@ -610,8 +631,7 @@ Private Finance
 
 ----------------------------------------------------------------------------------------------
 
-
-## TRADING FUNDAMENTALS RESOURCES
+# TRADING FUNDAMENTALS RESOURCES
 
 ```
 =====> PSYCHOLOGIST 🌀 Dr. Steven Burger
@@ -647,8 +667,16 @@ FOREX EXCHANGE
 ```
 
 
-# FINANCIAL ANALYST PROFESSIONAL
+```
+✅ NETWORK
+Gold ---> Dun Kiptoo SA Mechanical Engineer
+Stock ---> Bill Michaels Nandwa => Tony => Adam
+CryptoCurrency ---> Anthony => Marcus => Evan | => Jerry Bogonko JBO Instagram, Sam Telegram, Victor 
+Alex Omollo => Kevin Telecommunications => Emmanuel Promota Click S.Sudan
+```
 
+
+# FINANCIAL ANALYST PROFESSIONAL
 
 ## FOREX COMPANIES
  
@@ -678,7 +706,6 @@ Henriot Group => Gamma Delta Fund
 
 ![title](static/img/strategy2.png)
 ![title](static/img/strategy2_IMPROVED.jpg)
-
 
 -----------------------------------------------------------------------------------------------
 
@@ -875,7 +902,7 @@ Fundamental                                                                     
 
 ```
 ✅ ✅ ✅ CONSISTENCY | DISCIPLINE | PATIENCE ✅ ✅ ✅ 
-✅ ✅ ✅ Lot Sizing Tips (FUND / MONEY / ASSET MANAGEMENT) Credit: Nick Pot Analogy ✅ ✅ ✅
+✅ ✅ ✅ Lot Sizing Tips (FUND / MONEY / ASSET MANAGEMENT) Credit: Nick Analogy ✅ ✅ ✅
 
 --------------------------------------------------------------------------------
 * LARGE CASH FBS 1:1000 For VERY Short Duration Trade ===> XAU/USD && PRICE EMPHASIS STRATEGY
@@ -900,9 +927,7 @@ Fundamental                                                                     
 
 ```
 
-
 ---------------------------------
-
 
 ```
 50 usd :-
@@ -980,8 +1005,8 @@ FluidTrades - SMC Lite
 Fibonnacci
 
 
-
 =======================================================================================================================================
+
 
 👉 ****FOREX BACKUP*****
 👉 ****INGOT BROKER NOTES*****
@@ -1039,7 +1064,7 @@ Fibonnacci
    ✅ THEN TRADE BREAKOUT && RETEST / PULLBACK
 
 -----------------------------------------------------------------------------------------------------------------------------------------
-   🧨🧨🧨 AVOID 1. Price Equilibrium WIDE Consolidation ---> 🧨CLOSE AT PROFIT🧨 , 2. Fundamental LONG Retracement ---> 🧨CLOSE AFTER OBSERVING THE CANDLE STICK🧨 , 3. Swing LONG Reversal <====>  FUNDAMENTAL BREAKOUT
+   🧨🧨🧨 AVOID 1. Price Equilibrium WIDE Consolidation ---> 🧨CLOSE AT PROFIT🧨 , 2. NEWS/Fundamental LONG Retracement ---> 🧨CLOSE AFTER OBSERVING THE CANDLE STICK🧨 , 3. Swing LONG Reversal <====>  FUNDAMENTAL BREAKOUT
    ✅ TRADE 1. BREAKOUT, 2. RETEST, 3. FUNDAMENTAL RETEST ***ONLY***
 -----------------------------------------------------------------------------------------------------------------------------------------
    ✅ LOT SIZE/ CONTRACT SIZE
