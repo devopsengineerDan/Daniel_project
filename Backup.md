@@ -521,27 +521,7 @@ Control                                     Listen & Understand
 Security                                    Manipulation | Flexibility
             Status                                          Kindness | Realism
 
-================================================================================================================================================
-
-1 CYBERSECURITY Engineering                              DEFENSE  | ATTACK
-2 FINANCIAL Engineering                                  DEFENSE  | ATTACK
-3 TELECOMMUNICATION & COMPUTER ELECTRONICS SYSTEMS Engineering          DEFENSE  | ATTACK
-*******************************************************************************************
-                                                          4 COMMUNICATION
-                                                          5 DRIVING
-                     7 PROPERTIES                                    
-                     6 LAND  
-                     8 MINERALS  
-                     
-  
-                     
-AMUNITION
-GUITAR
-CHESS                           GOLF
-                    POOL&SWIMMING  
-                                RUNNING,BASKETBALL,FOOTBALL,RUGBY
-                                WATCH
-                                GAMING                                                       
+================================================================================================================================================                                                      
 ```
 
 
