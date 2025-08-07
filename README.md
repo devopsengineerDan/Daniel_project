@@ -23,73 +23,174 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
                                            ✅ PAWN
 ```
 
+# INVESTMENT PORTFOLIO
 
 ```
-👉 *************** SECURITY AWARENESS *******************
-KNOW   | 97% (STRATEGY + TACTIC)
-RANGES | HEDGING + PREVAILING TREND
-
-================================================================================
-
-👉 GOLDEN RULES
-Long-term ===> Acceptable Profit
-Mid-term  ===> Acceptable Profit
-Short-term  ===> Acceptable Profit
--------------------------------------------
-===> DO NOT BE TOO GOOD --- Be Harmonious, Integrated, Industry
-===> DO NOT BE A PSYCHOPATH
-[Make Trade that you can explain] ===> STRATEGY, ENTRY, PLAYBOOK
-[PUBLIC KNOWLEDGE: MARKET IS RANDOM: HENCE YOU ONLY ANTICIPATE]
-===> Allow Minimum Loss
-
-================================================================================
-
-DEBT BUBBLE             -----------------------    GOVERNMENT AID         
-CASINO                  -----------------------    BAIL OUT
-COMPUTER DERIVATIVES    -----------------------    QUANTITATIVE EASING
-
-================================================================================
-
-Investors played it safe with mutual funds or blue-chip stocks
-
-✅ Got curious. ✅ He moved when others froze.
-✅ Followed his own analysis. ✅ He trusted his process, not the market’s mood swings.
-✅ Stayed grounded. ✅ He found hidden value through deep research.
-
-
-
-
-Investors got it wrong: 
-❌ Mistiming trades
-❌ Paralyzed by fear
-❌ Chasing hype
-
-
-Most investors stay stuck in a cycle:
-❌ Anxious they’ll screw it up and lose big.
-❌ Overwhelmed by thousands of stocks.
-❌ Frustrated by hours of research with no clear answers.
-
-He bought great businesses, only when they were mispriced
-Weschler didn’t just look for quality—he waited for the moment the market got it wrong.
-✅  He sought out companies with high returns on capital, moats(competitive advantage), and consistent cash flows.
-✅  But he never paid full price. A great business at a bad price is still a bad investment.
-✅  He moved when everyone else was distracted—finding value before the market caught on.
+👉 ARTIFICIAL INTELLIGENCE
+👉 BLOCKCHAIN
+👉 ROBOTICS
+👉 ENERGY STORAGE
+👉 MULTIOMIC SEQUENCING -> LIFE SCIENCE
 ```
 
 
-```
-👉 EXCHANGE REGULATOR
+# MILITARY INDUSTRIAL COMPLEX
 
+```
+🧨 DEFENSE COMPANNIES
+DEFENSE INDUSTRY ===> https://lockheedmartin.com/
+CYBERSECURITY INDUSTRY --- RESEARCH ===> https://www.openanalysis.net/#oalabs
+                       --- PRODUCTION ===> https://cure53.de/     
+GENERAL-PURPOSE INDUSTRY ===> https://palantir.com
+--------------------------------------------------------------------------------
+CENTRAL BANK ===> FEDERAL BANK
+GENERAL-PURPOSE BANK ===> ROTHCHILD BANKS
+ -------------------------------------------------------------------------------
+INSURANCE ===> BLACKSTONE
+BROKERAGE INDUSTRY ===> PEPPERSTONE
+HEDGE-FUND INDUSTRY ===> K-BIT(Cryptocurrency), HENRIOT(Currency)                    
+```
+
+----------------------------------------------------
+
+```
+🧨🧨🧨 WORK MANAGER
+
+Exness ---> [Short-term]
+Pepperstone <==> Copy Trading ---> [Mid-Term && Long-term]
+BINANCE / BETTER ALTERNATIVE ---> Cryptocurency
+
+Ingot
+Henriot                                                             
+```
+
+```
+                                                    🧨  INSURANCE [Government, Business, Health, Worker]
+🧨 CENTRAL BANKS -> CONTROLLER
+
+🧨 MARKET MAKERS -> Efficiency
+
+                            🧨 BANKS -> Liquidity Provider
+                                  -> Low Leverage[Low Returns, Low Risks] ---> DEALING LICENSE   
+
+🧨 BROKERAGE FIRMS -> Connector ---> NON-DEALING LICENSE   
+
+                            🧨 RETAIL INSTITUTIONS -> Hedge Funds
+                                                -> High Leverage[High Returns, High Risks]  ---> NON-DEALING LICENSE
+
+
+                                                    🧨  PENSION
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
+
+       👉👉👉👉👉 Asset Management && Tax-Compliance && Off-shore Wealth
+
+       =====> WEAPONS + GOVERNMENT --------> POLITICS [KANU && MASON] Sheep VS Goats
+       =====> BANK + LAW
+       --------------------------------------------------------
+       =====> INSURANCE 
+       =====> ACTUARISTS/ANALYSTS [BROKERAGE + HEDGE FUNDS]
+       =====> PENSION EMPLOYEE SAVINGS
+       --------------------------------------------------------
+       =====> [CHURCH + NGO] + [SPORT + ENTERTAINMENT]
+       =====> EDUCATION
+       --------------------------------------------------------
+       =====> LAND + MINERALS
+
+🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
+```
+
+----------------------------------------------------                    
+
+```
+🧨🧨🧨 OWNERSHIP
+
+David ===> TRANSPORT
+Dawn Labs <---> Samuel && Dominic && Kevin ===> TECHNOLOGY
+Daniel ===> GOLF ACADEMIES
+
+Farming + Lands => Light Group   
+```
+
+# EXCHANGE MARKET [STOCK, FOREX, CRYPTOCURRENCY]
+
+## FINANCIAL INSTRUMENTS
+
+```
+✅ STOCK EXCHANGE
+
+                                                             🧨🧨🧨 KENYA/AFRICA && CHINA, RUSSIA 🧨🧨🧨
+                                                       ===================================================================
+              STOCK =====> LONG-TERM PERIOD [5-10-25-100]YRS  🧨🧨🧨 USA && CHINA && KENYA GVT STOCKS🧨🧨🧨
+                                                              🧨 =====>  ON INFORMATION OF COLLAPSE ON CRYPTOCURRENCY SELL ALL USA STOCKS
+                                                             👉 INDEX FUND
+                                                             👉 EXCHANGE TRADED FUND
+                                                             👉 MUTUAL FUND
+                                                       ===================================================================
+              =====> MEDIUM-TERM PERIOD [MONTHS-5-10-25]YRS ---> ✅ CRYPTOCURRENCY EXCHANGE ===> BINANCE
+                                                            🧨 =====>  HOLD + TRANSFER PROFITS ELSEWHERE
+                                                            🧨 =====>  USE MARGIN when ACTIVELY TRADING && NO MARGIN when NOT ACTIVELY TRADING
+                                                            🧨 =====>  ON INFORMATION OF COLLAPSE ON CRYPTOCURRENCY SELL ALL TOKENS
+                                                                                                       (  1. Sui
+                                                                                                          ---------------
+                                                                                                          2. Bitcoin -> Secure
+                                                                                                          3. Etherium -> Universal
+                                                                                                          4. Solana -> Retail
+                                                                                                        )
+----> Offshore/ Offgrid LIQUID
+----> (GOLD + MINERALS), ART, ASSETS 
+----------------------------------------------------------------------------------                                                                                                                                                             
+----> BANKS | GOVERNMENT | INSURANCE, RELIGION/SPORTS/ENTERTAINMENT, EDUCATION
+----> ARMORY, MINERALS, TECHNOLOGY(SOFTWARE, HARDWARE)
+----> PROPERTIES, LANDS, PLANTS, ANIMALS, WATER
+
+=======================================================================================================================================================================
+
+=====> SHORT-TERM PERIOD [1]DAY
+       🧨🧨🧨 INDICES 🧨🧨🧨  ---> Medium Volatility
+👉 ---> INDEX US100 / NDX100 / NASDAQ
+👉 ---> INDEX US500 / S&P500 USA ECONOMY
+
+   
+   >>> INDEX [US30, DJIA] ---> Highly Volatile
+
+=======================================================================================================================================================================
+
+✅ ACTUAL                  👉 STOCK
+✅ FUTURE PRICE OF STOCK   👉 FUTURES                     ---> INDEX NDX100 / NASDAQ, S&P500 USA ECONOMY
+✅ TOY                     👉 (EQUITY) <-> DERIVATIVES    ---> INDEX US30, US100, US500
+✅ TOY                     👉 CFDS :Over the Counter
+
+ 
+ >>> FUTURES ---> (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN TWO INVESTORS)
+ >>> (EQUITY) <-> DERIVATIVES ---> (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN YOU AND BROKER)
+ >>> CFDs ---> (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN YOU AND BROKER)
+ >>> OPTIONS --->  ***** COMPLEX ***** (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN TWO INVESTORS) 
+```
+
+```
+✅ FOREX EXCHANGE
+
+=====> SHORT-TERM PERIOD [1]DAY
+👉 ---> COMMODITIES
+👉 ---> CURRENCIES
+```
+
+
+# EXCHANGE REGULATOR
+ 
+```
 Inter-Bank Money and Deposit Association (IBMDA) -> Regulate the Exchange Algorithm 
 XTX Money -> Maker
 Citi bank -> Dealers & Liquidity Provider
 ```
 
 
-```
-👉 SASRA SACCO REGULATOR
+# SASRA SACCO REGULATOR
 
+```
 1. Data Protection
 2. Rate Limit on API
 3. Sanitization of data 
@@ -99,10 +200,9 @@ Citi bank -> Dealers & Liquidity Provider
 7. Change Data Capture(LOGS)
 ```
 
+# LOAN
 
 ```
-🧨 LOAN 🧨
-
 👉 Lender MAIN Requirements
 1 Lender Policies and Guidelines
 2 Lender Advisor
@@ -138,43 +238,108 @@ Citi bank -> Dealers & Liquidity Provider
 ```
 
 
+# PROFESSIONALS
+
+```
+👉 PSYCHOLOGIST ===> [Breath + Environment Expert(INTELLIGENCE[Secret+Clandestine Gathering/Stealing+Conglomorate  || Knowledge+Innovation] + AWARENESS + IN HARMONY WITH NATURE Harmonious[Necessity]-Integrated[Choice/Want]-Industry[Need])]
+
+👉 ALPHA {WEALTH/SECURITY ACCUMULATION && KINDNESS}
+👉 MANAGER [Managing Director MD && General Manager]
+👉 OPERATIONS MANAGER [Global Market Director && Manager]
+
+👉 FINANCIAL ANALYST ===> [Chartered Financial Analyst + Portfolio Manager]
+👉 🌀 RESEARCH ANALYST && OFFICER  🧨 INVESTMENT ANALYST && OFFICER [TRADER/ EXECUTION]
+👉 RISK MANAGER <=> EQUITY MANAGER ===> [Risk Little To Acquire More AND NOT Risk More To Acquire Little] && [Hold on is a Strategy]
+
+=================================================================================================================================================================================================
+
+👉 FINANCIAL ENGINEER
+
+1. Real-Time Portfolio Selection and Optimization: Enhance real-time portfolio optimization and capital allocation algorithms to maximize returns while managing risk.
+2. Predictive Momentum Model: Implement and integrate a predictive momentum model into existing market-making and taking strategies.
+3. Post-Trade Analysis: Develop and implement advanced post-trade analysis tools to evaluate strategy performance and identify areas for improvement.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Portfolio Selection and Optimization
+2. Position Sizing
+3. Market Timing
+4. Risk Management
+
+=================================================================================================================================================================================================
+
+👉 PORTFOLIO MANAGER
+
+Investment Banker ===> DEALING LICENSE
+-------------------------------------------------------------------------------------
+Broker [STOCK|EQUITY,DERIVATIVES|CFD's|FOREX|CRYPTOCURRENCY] ===> NON-DEALING LICENSE
+-------------------------------------------------------------------------------------
+Research <---> Market | Financial Analyst, Engineer
+Asset Manager
+#######################################################################################
+🧨🧨🧨 NSE Nairobi Stock Exchange
+🧨🧨🧨 Capital Markets Authority
 ```
 
-                                                    🧨  INSURANCE [Government, Business, Health, Worker]
-🧨 CENTRAL BANKS -> CONTROLLER
 
-🧨 MARKET MAKERS -> Efficiency
-
-                            🧨 BANKS -> Liquidity Provider
-                                  -> Low Leverage[Low Returns, Low Risks] ---> DEALING LICENSE   
-
-🧨 BROKERAGE FIRMS -> Connector ---> NON-DEALING LICENSE   
-
-                            🧨 RETAIL INSTITUTIONS -> Hedge Funds
-                                                -> High Leverage[High Returns, High Risks]  ---> NON-DEALING LICENSE
+#  33 MASTERY
+ 
+```
+ FINANCIAL MODELLING && DATA ANALYTICS && ENGINEERING && SCIENCE
+```
 
 
-                                                    🧨  PENSION
+# INTELLIGENCE AND AWARENESS
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+```
+👉 *************** SECURITY AWARENESS *******************
+KNOW   | 97% (STRATEGY + TACTIC)
+RANGES | HEDGING + PREVAILING TREND
 
-🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
-       
-       LAND + MINERALS
-       --------------------------------------------------------
-       🧨 DEFENSE COMPANNIES
-       🧨 PALANTIR COMPANY -> https://www.palantir.com/
+================================================================================
 
-       =====> WEAPONS + GOVERNMENT
-       =====> BANK + LAW
-       =====> [CHURCH + NGO] + [SPORT + ENTERTAINMENT]
-       =====> EDUCATION
-       --------------------------------------------------------
-       =====> INSURANCE 
-       =====> ACTUARISTS/ANALYSTS [BROKERAGE + HEDGE FUNDS]
-       =====> PENSION EMPLOYEE SAVINGS
-       
-🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
+👉 GOLDEN RULES
+Long-term ===> Acceptable Profit
+Mid-term  ===> Acceptable Profit
+Short-term  ===> Acceptable Profit
+-------------------------------------------
+===> DO NOT BE TOO GOOD --- Be Harmonious, Integrated, Industry
+===> DO NOT BE A PSYCHOPATH
+[Make Trade that you can explain] ===> STRATEGY, ENTRY, PLAYBOOK
+[PUBLIC KNOWLEDGE: MARKET IS RANDOM: HENCE YOU ONLY ANTICIPATE]
+===> Allow Minimum Loss
+
+================================================================================
+
+DEBT BUBBLE             <----------------------->    GOVERNMENT AID         
+CASINO                  <----------------------->    BAIL OUT
+COMPUTER DERIVATIVES    <----------------------->    QUANTITATIVE EASING
+
+================================================================================
+
+Investors played it safe with mutual funds or blue-chip stocks
+
+✅ Got curious. ✅ He moved when others froze.
+✅ Followed his own analysis. ✅ He trusted his process, not the market’s mood swings.
+✅ Stayed grounded. ✅ He found hidden value through deep research.
+
+
+
+
+Investors got it wrong: 
+❌ Mistiming trades
+❌ Paralyzed by fear
+❌ Chasing hype
+
+
+Most investors stay stuck in a cycle:
+❌ Anxious they’ll screw it up and lose big.
+❌ Overwhelmed by thousands of stocks.
+❌ Frustrated by hours of research with no clear answers.
+
+He bought great businesses, only when they were mispriced
+Weschler didn’t just look for quality—he waited for the moment the market got it wrong.
+✅  He sought out companies with high returns on capital, moats(competitive advantage), and consistent cash flows.
+✅  But he never paid full price. A great business at a bad price is still a bad investment.
+✅  He moved when everyone else was distracted—finding value before the market caught on.
 ```
 
 
@@ -216,7 +381,7 @@ A) NORMAL
 100=1M , 400=4M
 5 LOT=1M , 10 LOT=5M
 🧨 AVOID Fundamental in [10 Minutes Total Duration]
--------------------------------------------
+---------------------------------------------------
 B) EPIC/EXTREME
 1:100
 100=1M
@@ -272,7 +437,6 @@ Alex Omollo => Kevin Telecommunications => Emmanuel Promota Click S.Sudan
 
 
 ==============================================================================================================
-
 🧨🧨🧨 STRONG 🧨🧨🧨 ===> SCARED MONEY MAKES NO MONEY[QUICK TAKING OF PROFIT & EXITING OF TRADE]
 🧨 STRONG TAKE PROFIT && EXIT ON AN ORDER BLOCK 🧨
 🧨 ---> ONCE I RECOGNIZE AN LOSS-ORIENTED TREND IN PRICE, EXIT TRADE.
@@ -282,10 +446,8 @@ Alex Omollo => Kevin Telecommunications => Emmanuel Promota Click S.Sudan
 ✅ Where is PRICE HEADING TO 
 ✅ WANT && DO NOT NEED
 ✅ Trading is PERIODICAL
-
 ==============================================================================================================
 ```
-
 
 ---------------------------------------------------------
 
@@ -406,120 +568,7 @@ LPP = $ 4
 ````
 
 
-# EXCHANGE MARKET [STOCK, FOREX, CRYPTOCURRENCY]
-
-#### FINANCIAL INSTRUMENTS
-
-```
-✅ STOCK EXCHANGE
-
-                                                             🧨🧨🧨 KENYA/AFRICA && CHINA, RUSSIA 🧨🧨🧨
-                                                       ===================================================================
-              STOCK =====> LONG-TERM PERIOD [5-10-25-100]YRS  🧨🧨🧨 USA && CHINA && KENYA GVT STOCKS🧨🧨🧨
-                                                              🧨 =====>  ON INFORMATION OF COLLAPSE ON CRYPTOCURRENCY SELL ALL USA STOCKS
-                                                             👉 INDEX FUND
-                                                             👉 EXCHANGE TRADED FUND
-                                                             👉 MUTUAL FUND
-                                                       ===================================================================
-              =====> MEDIUM-TERM PERIOD [MONTHS-5-10-25]YRS ---> ✅ CRYPTOCURRENCY EXCHANGE ===> BINANCE
-                                                            🧨 =====>  HOLD + TRANSFER PROFITS ELSEWHERE
-                                                            🧨 =====>  USE MARGIN when ACTIVELY TRADING && NO MARGIN when NOT ACTIVELY TRADING
-                                                            🧨 =====>  ON INFORMATION OF COLLAPSE ON CRYPTOCURRENCY SELL ALL TOKENS
-                                                                                                       (  1. Sui
-                                                                                                          ---------------
-                                                                                                          2. Bitcoin -> Secure
-                                                                                                          3. Etherium -> Universal
-                                                                                                          4. Solana -> Retail
-                                                                                                        )
-----> Offshore/ Offgrid LIQUID
-----> (GOLD + MINERALS), ART, ASSETS 
-----------------------------------------------------------------------------------                                                                                                                                                             
-----> BANKS | GOVERNMENT | INSURANCE, RELIGION/SPORTS/ENTERTAINMENT, EDUCATION
-----> ARMORY, MINERALS, TECHNOLOGY(SOFTWARE, HARDWARE)
-----> PROPERTIES, LANDS, PLANTS, ANIMALS, WATER
-
-=======================================================================================================================================================================
-
-=====> SHORT-TERM PERIOD [1]DAY
-       🧨🧨🧨 INDICES 🧨🧨🧨  ---> Medium Volatility
-👉 ---> INDEX US100 / NDX100 / NASDAQ
-👉 ---> INDEX US500 / S&P500 USA ECONOMY
-
-   
-   >>> INDEX [US30, DJIA] ---> Highly Volatile
-
-=======================================================================================================================================================================
-
-✅ ACTUAL                  👉 STOCK
-✅ FUTURE PRICE OF STOCK   👉 FUTURES                     ---> INDEX NDX100 / NASDAQ, S&P500 USA ECONOMY
-✅ TOY                     👉 (EQUITY) <-> DERIVATIVES    ---> INDEX US30, US100, US500
-✅ TOY                     👉 CFDS :Over the Counter
-
- 
- >>> FUTURES ---> (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN TWO INVESTORS)
- >>> (EQUITY) <-> DERIVATIVES ---> (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN YOU AND BROKER)
- >>> CFDs ---> (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN YOU AND BROKER)
- >>> OPTIONS --->  ***** COMPLEX ***** (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN TWO INVESTORS) 
-```
-
-```
-✅ FOREX EXCHANGE
-
-=====> SHORT-TERM PERIOD [1]DAY
-👉 ---> COMMODITIES
-👉 ---> CURRENCIES
-```
-
-
-
-#  33 MASTERY
- 
-```
- FINANCIAL MODELLING && DATA ANALYTICS
-```
-
-# PROFESSIONALS
-
-```
-👉 PSYCHOLOGIST ===> [Breath + Environment Expert(INTELLIGENCE[Secret+Clandestine Gathering/Stealing+Conglomorate  || Knowledge+Innovation] + AWARENESS + IN HARMONY WITH NATURE Harmonious[Necessity]-Integrated[Choice/Want]-Industry[Need])]
-
-👉 ALPHA {WEALTH/SECURITY ACCUMULATION && KINDNESS}
-👉 MANAGER [Managing Director MD && General Manager]
-👉 OPERATIONS MANAGER [Global Market Director && Manager]
-
-👉 FINANCIAL ANALYST ===> [Chartered Financial Analyst + Portfolio Manager]
-👉 🌀 RESEARCH ANALYST && OFFICER  🧨 INVESTMENT ANALYST && OFFICER [TRADER/ EXECUTION]
-👉 RISK MANAGER <=> EQUITY MANAGER ===> [Risk Little To Acquire More AND NOT Risk More To Acquire Little] && [Hold on is a Strategy]
-
-=================================================================================================================================================================================================
-
-👉 FINANCIAL ENGINEER
-
-1. Real-Time Portfolio Selection and Optimization: Enhance real-time portfolio optimization and capital allocation algorithms to maximize returns while managing risk.
-2. Predictive Momentum Model: Implement and integrate a predictive momentum model into existing market-making and taking strategies.
-3. Post-Trade Analysis: Develop and implement advanced post-trade analysis tools to evaluate strategy performance and identify areas for improvement.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1. Portfolio Selection and Optimization
-2. Position Sizing
-3. Market Timing
-4. Risk Management
-
-=================================================================================================================================================================================================
-
-👉 PORTFOLIO MANAGER
-
-Investment Banker ===> DEALING LICENSE
--------------------------------------------------------------------------------------
-Broker [STOCK|EQUITY,DERIVATIVES|CFD's|FOREX|CRYPTOCURRENCY] ===> NON-DEALING LICENSE
--------------------------------------------------------------------------------------
-Research <---> Market | Financial Analyst, Engineer
-Asset Manager
-#######################################################################################
-🧨🧨🧨 NSE Nairobi Stock Exchange
-🧨🧨🧨 Capital Markets Authority
-```
-
-## FINANCE  FUNDAMENTALS
+# FINANCE  FUNDAMENTALS
  
 ```
  Finance and Investments
@@ -696,7 +745,7 @@ Price Range
 ![title](static/img/elite3.jpg)
 
 
-> ===>TRADE VUE PLATFORM 
+> ===> TRADE VIEW PLATFORM 
 
 > HIGHLIGHT REEL
 
@@ -1670,63 +1719,4 @@ Benefits
     Continuous learning and development opportunities
     Flexible work arrangements
 
-# INVESTMENT PORTFOLIO
 
-```
-👉 ARTIFICIAL INTELLIGENCE
-👉 BLOCKCHAIN
-👉 ROBOTICS
-👉 ENERGY STORAGE
-👉 MULTIOMIC SEQUENCING -> LIFE SCIENCE
-```
-
-
-# MILITARY INDUSTRIAL COMPLEX
-
-```
-DEFENSE INDUSTRY ===> https://lockheedmartin.com/
-CYBERSECURITY INDUSTRY --- RESEARCH ===> https://www.openanalysis.net/#oalabs
-                       --- PRODUCTION ===> https://cure53.de/     
-GENERAL-PURPOSE INDUSTRY ===> https://palantir.com
---------------------------------------------------------------------------------
-CENTRAL BANK ===> FEDERAL BANK
-GENERAL-PURPOSE BANK ===> ROTHCHILD BANKS
- -------------------------------------------------------------------------------
-INSURANCE ===> BLACKSTONE
-BROKERAGE INDUSTRY ===> PEPPERSTONE
-HEDGE-FUND INDUSTRY ===> K-BIT(Cryptocurrency), HENRIOT(Currency)                    
-```
-
-----------------------------------------------------
-
-```
-🧨🧨🧨 WORK MANAGER
-
-Exness ---> [Short-term]
-Pepperstone <==> Copy Trading ---> [Mid-Term && Long-term]
-BINANCE / BETTER ALTERNATIVE ---> Cryptocurency
-
-Ingot
-Henriot
-
-
-Real-Estate Properties + Lands + PROPERTIES GOALS
-Asset Management && Tax-Compliance && Off-shore Wealth
-BANKING + Brokerage Firms + Investments[Tangible + Stocks] + UPTOP WEALTH ITEMS 
-
-                                                                      --------> POLITICS [KANU && MASON] Sheep VS Goats
-                                                                      --------> NGO <=> RELIGION 
-								      --------> SCHOOL 
-```
-	      
-----------------------------------------------------                    
-
-```
-🧨🧨🧨 OWNERSHIP
-
-David ===> TRANSPORT
-Dawn Labs <---> Samuel && Dominic && Kevin ===> TECHNOLOGY
-Daniel ===> GOLF ACADEMIES
-
-Farming + Lands => Light Group   
-```
