@@ -96,7 +96,7 @@ Master's  
 
 # LIFE 
 
-## BE CAREFUL
+## BE CAREFUL OF KABBALAH
 
 ```
         🧨 DEAD
@@ -109,6 +109,13 @@ DISEASE -> CRAZY/MAD
         🧨 DEAD -> STINGY
 ```
 
+
+```
+🧨 MEANING
+🧨 BELIEF
+🧨 PERCEPTION
+🧨 EXPERIENCE
+```
 -----------------------------------------------------
 
 ```
