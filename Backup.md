@@ -100,13 +100,28 @@ Master's  
 
 ```
         🧨 DEAD
-        UNITY
-LOVE
-        PEACE
----------------------
-        THREAT -> KILL
-DISEASE -> CRAZY/MAD
-        🧨 DEAD -> STINGY
+        UNITY -> HIGHEST
+LOVE -> GREATEST
+        PEACE -> STRONGEST
+
+
+---------------------------------------------------------------------------------------------
+
+
+LIGHT
+FOLLOW-UP
+ORIGINAL ---> MEAN
+---------------------------------
+NECESSITY ECONOMY      ---> Offer Necessary Solution to Take More
+MARKET VARIETY ECONOMY ---> Give but Take More
+DESTRUCTIVE ECONOMY    ---> Destroy/Destructive Environment to Take More
+---------------------------------
+         🧨 THREAT -> KILL
+         🧨 LIE
+🧨 DISEASE -> CRAZY/MAD
+🧨 CHILD   -> STEAL           
+        🧨 DEAD           -> STINGY / 🧨 THIRST && HUNGER
+        🧨 INTIMIDATION   -> DESTROY
 ```
 
 
@@ -246,9 +261,11 @@ SECURITY + INNOVATION [ADVANCE]
 --------------
 ✅ Analysis(Simple, Accurate, Categorise)             Emotional Intelligence / Awareness => Ordained
 ✅ Operations                                         Social Intelligence / Awareness => Chosen
-✅ Implementation(Complete)                           Logical Intelligence / Awareness=> Elected
+✅ Implementation(Complete)                           Logical Intelligence / Awareness => Elected
 --------------
-✅ Numbers[Make Huge Gain/Profit] + [Offer Minimal Reward plus Blessings], [Operate within a BUDGET], [Reduce randomness, Reduce Loss] || (Be aware of Threat/Killers, Opportunists, Destroyers)
+✅ ✅ ✅ Numbers[Make Huge Gain/Profit] + [Offer Minimal Reward plus Blessings], [Operate within a BUDGET], [Reduce randomness, Reduce Loss] || (Be aware of Threat/Killers, Opportunists, Destroyers)
+✅ ✅ ✅ HONOUR THE GODS, LOVE YOUR WOMEN, DEFEND YOUR ASSET
+✅ ✅ ✅ MASTERY OF SELF IS DIVINE, MASTERY AND CONTROL OF OTHERS IS IMPRESSIVE
 --------------------------------------------------------------------------------------------------------------------------------------
                           
 ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ 
@@ -349,6 +366,7 @@ STEAL == CONTINUOUSLY ---> GAIN
     🧨 Monitor && Regulate ===> ADAPTIVE && DISTRIBUTED/NUMEROUS BACKUP
     >CALM (Emotional Intelligence && Stability)
               🧨 Enforcement && Quality Assurance  ===> FAST && STRONG
+              👉✅ >SECRET SOLUTION
               👉✅ >UNREADABLE
               👉✅ >IRREPLACEABLE
 
@@ -540,7 +558,7 @@ Security                                    Manipulation | Flexibility
                                                                  --------------------------------------                                                    
                                                                   DEATH [LIFE] [Who,Where]
                                                                   👉 WISDOM,BEAUTY,RESISTANCE [Why,How,What] | Do Not Chase, Rush, Force
-                                                                  🧨 SECURITY, Liberty [LIVE/NEUTRAL], Equality [LAUGH/LOVE/SPORT+ENTERTAINMENT/GRACE][CHANGE/FORGIVE], Equity [KINDNESS/EXIST] 
+                                                                  🧨 SECURITY, Liberty [LIVE/NEUTRAL], Equality [LOVE/LAUGH/SPORT+ENTERTAINMENT/GRACE][CHANGE/FORGIVE] [EXHALE], Equity [KINDNESS/EXIST] 
                                                                   [GROUND/PHYSICAL] DEATH
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✅
@@ -861,9 +879,9 @@ VACUUM
 
 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
 
-MANAGER [BLAZING TORCH, ORDAINED=>Consientious, CHOSEN=>Charismatic, ELECTED=>Mature]
-         RESPONSIBLE      BUSINESS SENSE[Finance,Marketing,Economics] <==> [BUSINESS TIME, BUSINESS ADAPT, BUSINESS PROFIT AND LOSS]
-         LAW
+🧨🧨🧨 MANAGER [BLAZING TORCH, ORDAINED=>Consientious, CHOSEN=>Charismatic, ELECTED=>Mature]
+       RESPONSIBLE      BUSINESS SENSE[Finance,Marketing,Economics] <==> [BUSINESS TIME, BUSINESS ADAPT, BUSINESS PROFIT AND LOSS]
+       LAW
 
 
 
@@ -872,7 +890,7 @@ MANAGER [BLAZING TORCH, ORDAINED=>Consientious, CHOSEN=>Charismatic, ELECTED=>Ma
 
 
          SILENCE **************
-         Self Mastery                        PSYCHOLOGY[MINE+ENVIRONMENT]       FEEL <=> TIME             [Who am I + What Position am I, Who is the other party + What Position is the other party]
+         Self Mastery                        PSYCHOLOGY[MINE+ENVIRONMENT]       FEEL <=> TIME              [Who am I + What Position am I, Who is the other party + What Position is the other party: Are we in the SAME PAGE]
          Listen *ALL SENSES*                                                    ENERGY <=> WAY             Where are we
          Write + Communicate                                                    VIBRATION <=> REALISTIC    What Message[SILENCE + ALLOWANCE FOR ENVIRONMENT + TO RESPOND] + How to Pass Message[ORDERLY] + COMPLETE Message   
 
@@ -6915,15 +6933,6 @@ BEST PRACTICE Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE
 
 ![title](static/img/computer-memory-solutions.jpg)
 
-# Binding Rust to Python Code
-
-```
-🌀 Isaac Harris-Holt
-1. How To Make Your Python Packages Really Fast With RUST -> https://www.youtube.com/watch?v=jlWhnrk8go0
-2.  Advanced PyO3: Creating A Python CLI With RUST -> https://www.youtube.com/watch?v=8yGR3xjTzDw
-```
-
-
 # What is Rust?
 
 Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.
@@ -6941,10 +6950,19 @@ Featuring
 - efficient C bindings
   
 Description is taken from [Rust-lang](https://www.rust-lang.org/)
-### Using Rust code in Python ===> GITHUB Py03_Rust binding for Python.zip
 
+## Using Rust code in Python ===> GITHUB Py03_Rust binding for Python.zip
 
-### Using C code in Rust ===>https://www.youtube.com/watch?v=UpmFxJDcFfo
+```
+🌀 Isaac Harris-Holt
+🌀  pip install maturin
+
+1. How To Make Your Python Packages Really Fast With RUST -> https://www.youtube.com/watch?v=jlWhnrk8go0
+2.  Advanced PyO3: Creating A Python CLI With RUST -> https://www.youtube.com/watch?v=8yGR3xjTzDw
+```
+
+## Using C code in Rust ===>https://www.youtube.com/watch?v=UpmFxJDcFfo
+
 To use C code within a Rust project, you'll need to bridge the gap between the two languages using the Foreign Function Interface (FFI). This involves defining the C functions and data structures in Rust using extern "C" blocks and potentially using tools like bindgen to automate the process of creating Rust bindings for your C code. 
 Here's a breakdown of the key aspects:
 1. Defining the C Interface in Rust:
