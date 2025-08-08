@@ -170,7 +170,7 @@ Skull and Bones
 CHINA  ===> LION & SHEEP        [BE THE ROBOT]                                ISRAEL/UK  ===> JAHBULON 
 RUSSIA ===> SHEEP               [BE THE ANIMALS]                              EUROPE     ===> GOAT 
 AFRICA                          [BE HUMBLE & BE KIND]                         USA
-                                KEVIN, RAYMOND, OSBORN
+                                KEVIN, RAYMOND, MAULID, OSBORN
 
 
  🧨 SECURITY, Liberty [LIVE/NEUTRAL], Equality [LAUGH/LOVE/GRACE][CHANGE/FORGIVE], Equity [KINDNESS/EXIST]
