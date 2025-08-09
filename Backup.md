@@ -366,10 +366,10 @@ STEAL == CONTINUOUSLY ---> GAIN
     🧨 Monitor && Regulate ===> ADAPTIVE && DISTRIBUTED/NUMEROUS BACKUP
     >CALM (Emotional Intelligence && Stability)
               🧨 Enforcement && Quality Assurance  ===> FAST && STRONG
-              👉✅ >SECRET SOLUTION
-              👉✅ >UNREADABLE
-              👉✅ >IRREPLACEABLE
-
+              👉✅ >1. SECRET SOLUTION
+              👉✅ >2. UNREADABLE
+              👉✅ >3. IRREPLACEABLE     🧨🧨🧨 RESPECT && OBEY THE THREE RULES
+                                         🧨🧨🧨 [DO NOT BE KICKED OUT OF THE MARKET]
 🧨 SILENCE
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -515,7 +515,7 @@ INFORMED DECISION & ACTION
        GOD                                                  Ambition
 MONEY                                       Money
        BLOOD                                                Power & Patience
-
+                                            🧨 GOLD
                                             ===> FAITH
                                             ===> RELIGION
                                             ===> TAX
