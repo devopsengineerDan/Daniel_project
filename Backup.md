@@ -99,14 +99,17 @@ Master's  
 ## BE CAREFUL OF KABBALAH
 
 ```
+🧨 Ridiculously     🧨 Fast
+🧨 Learner          🧨 Hungry for More
+
+---------------------------------------------------------------------------------------------
+
         🧨 DEAD
         UNITY -> HIGHEST
 LOVE -> GREATEST
         PEACE -> STRONGEST
 
-
 ---------------------------------------------------------------------------------------------
-
 
 LIGHT
 FOLLOW-UP
