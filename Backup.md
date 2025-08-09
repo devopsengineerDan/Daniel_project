@@ -193,6 +193,9 @@ AFRICA                          [BE HUMBLE & BE KIND]                         US
 
 
 
+
+
+🌀 1. THE SOUL OF THE SOUL OF THE LAW
 ✅ ✅ ✅  SPIRIT /FIRE   ✅ ✅ ✅  🧨 SAAD / SECRET / MYSTERY
                                            👉 WILL               👉 WILL | DESIRE
 SELF -> WILL                               OBSERVATION           TIME         
@@ -206,6 +209,7 @@ INTENTION -> THOUGHT  ---> CONTEMPLATION         WORD = KEY
 DESIRE    -> FEEL     ---> SURRENDER             LETTER = GATEWAY
                       ---> ACCEPTANCE            NUMBER = FORMULAE
 ****************************************************************************************
+🌀 2. THE SOUL OF THE LAW
 ✅ ✅ ✅  SOUL  ✅ ✅ ✅  
 
 ✅ MIND     -> THOUGHT    -> INTEPRETATION / INQUIRY / PARABLE / STORY  🧨 DERASH
@@ -213,8 +217,11 @@ DESIRE    -> FEEL     ---> SURRENDER             LETTER = GATEWAY
 ✅ ENERGY   -> EMOTION    -> IMAGINATION / ILLUSION / HINT / SYMBOLIC /HIDDEN  🧨 REMEZ
 
 ****************************************************************************************
+🌀 3. THE LAW
 ✅ ✅ ✅  MATTER / FIRE  ✅ ✅ ✅  🧨 PESHAT
 ✅ BODY     -> PYSICAL    -> PLAIN && SIMPLE LAWS
+
+
 
 
 
@@ -427,7 +434,7 @@ CASH FLOW ---> Compliance
 
 
 🧨🧨🧨 STOIC && LIBERAL 🧨🧨🧨
-ST -> Marcus Aurelius, Socrates
+ST -> Marcus Antoninus Aurelius, Socrates
 OI -> Seneca Research[Categorise,Review]
 C  -> Aristotles, Epictitus
 
