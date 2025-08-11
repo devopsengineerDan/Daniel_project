@@ -99,8 +99,9 @@ Master's  
 ## BE CAREFUL OF KABBALAH
 
 ```
+🧨 Kind             🧨 Humble
 🧨 Ridiculously     🧨 Fast
-🧨 Learner          🧨 Hungry for More
+🧨 Learner          🧨 Hungry for MORE
 
 ---------------------------------------------------------------------------------------------
 
@@ -157,9 +158,12 @@ DESTRUCTIVE ECONOMY    ---> Destroy/Destructive Environment to Take More
 ✅ ORDER
 
 JAHBULON
-33 
+33
+Committee of 300
+---------------------
 Order of Golden Dawn
 Roscicrucion
+---------------------
 Templer
 Free mason
 Illuminati
