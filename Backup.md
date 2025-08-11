@@ -157,6 +157,7 @@ DESTRUCTIVE ECONOMY    ---> Destroy/Destructive Environment to Take More
 ```
 ✅ ORDER
 
+TETRAGRAMMATON
 JAHBULON
 33
 Committee of 300
