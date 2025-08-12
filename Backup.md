@@ -6740,9 +6740,14 @@ C1.png
  WHATSAPP BOT =>https://portal.infobip.com/
 
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 👉  COOKIES BANNER && COOKIES MANAGEMENT ====> https://www.youtube.com/watch?v=Ikc-CYha3ug
 
+
 👉  EMAIL MANAGEMENT DJANGO ====> https://www.youtube.com/watch?v=xNqnHmXIuzU
+👉 NEWS LETTER DJANGO -> https://www.youtube.com/watch?v=hWtlskOaFNI
+
 
 👉  EMAIL MANAGEMENT FLASK ====> https://www.youtube.com/watch?v=U5MBYN6an70
 🎯 Email Verification in Flask Contact Form ====> https://www.youtube.com/watch?v=uE9ZesslPYU
