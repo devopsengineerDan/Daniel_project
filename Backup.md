@@ -6766,8 +6766,13 @@ C1.png
 👉  EMAIL MANAGEMENT FLASK ====> https://www.youtube.com/watch?v=U5MBYN6an70
 🎯 Email Verification in Flask Contact Form ====> https://www.youtube.com/watch?v=uE9ZesslPYU
 
+=======================================================================================================
+👉 PYTHON DJANGO DEPLOYMENT
+Webmail  CPANELP ====> https://www.youtube.com/watch?v=7sqKleqrhy0
+CPANEL -> https://www.youtube.com/watch?v=dJWVL15Jpws
 
-👉 Webmail Python ====> https://www.youtube.com/watch?v=7sqKleqrhy0
+ANYWHERE -> https://www.youtube.com/watch?v=9BEKT0mEAso
+NGROK -> https://www.youtube.com/watch?v=0xz5b6evj-w
 ```
 
 
