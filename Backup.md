@@ -1639,8 +1639,6 @@ Detailed ->  https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BA
 ```                
 
 
-![title](static/img/database_normalization.jpg)
-
 ```
 👉 SQL GUIDE => https://sqlbolt.com/
 👉 SQLSTYLE GUIDE -> https://github.com/DancunManyinsa/sqlstyle.guide
@@ -1650,6 +1648,8 @@ Detailed ->  https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BA
 ✅ SQL REPORTS -> https://www.youtube.com/watch?v=kTPJBAtv29k&list=PL7A29088C98E92D5F
 ```
 
+
+![title](static/img/database_normalization.jpg)
 
 ```
 👉 DATABASE NORMALIZATION DETAIL EXPLANATION (1NF - BCNF)===> https://www.youtube.com/watch?v=GFQaEYEc8_8
