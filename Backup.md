@@ -157,6 +157,11 @@ DESTRUCTIVE ECONOMY    ---> Destroy/Destructive Environment to Take More
 ```
 ✅ ORDER
 
+Jungle Colony
+Eagle Colony
+Bee Colony
+Ant Colony
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 TETRAGRAMMATON
 JAHBULON
 33
@@ -192,9 +197,9 @@ AFRICA                          [BE HUMBLE & BE KIND]                         US
 🧨🧨🧨 SECURITY ===> OBSERVER observing the THINKER and His THOUGHT(S), WISDOM, EMOTION, MATTER 
 🧨🧨🧨 KNOWLEDGE && WISDOM [Leaderless, Classless, Formless]
 🧨🧨🧨 👉👉👉 THOUGHT, OBSERVE, SMELL, TASTE, LISTEN, TOUCH
-🧨 Spiritual Insight/Higher Awareness   - INNER KNOWING/VISION      ----------- BLINDNESS && INDECISION/Trauma
-🧨 Emotion                              - Balance/ORDER             ----------- CHAOS/Illusion
-🧨 Consiousness/Intuition               - Wisdom/Action/UNITY       ----------- FRAGMENTS/Ignorance
+🧨 Spiritual Insight/Higher Awareness   - INNER KNOWING/VISION      <-----------> BLINDNESS && INDECISION/Trauma
+🧨 Emotion                              - Balance/ORDER             <-----------> CHAOS/Illusion
+🧨 Consiousness/Intuition               - Wisdom/Action/UNITY       <-----------> FRAGMENTS/Ignorance
 
 
 
@@ -243,7 +248,7 @@ DESIRE    -> FEEL     ---> SURRENDER             LETTER = GATEWAY
 🧨 EYE Right
 
 🧨🧨🧨 DEATH && TIME                               
-🧨🧨🧨 Hidden Wisdom        ------------- Words of Law           - Precise          - Arrogance/Obedience
+🧨🧨🧨 Hidden Wisdom        ------------- Words of LAW           - Precise          - Arrogance/Obedience
 🧨🧨🧨 Transformation       ------------- Submission             - Ritualized       - Fear  
 🧨🧨🧨 Duality of Life [GOOD/BAD] ------- Remembrance/Isolation  - Legalistic/Logic - Ignorance/Sin
 🧨🧨🧨 MATTER && DEATH 
@@ -522,6 +527,8 @@ INFORMED DECISION & ACTION
 -> Insecurity          -> Habit
 *************************************************************************************************
 
+
+
 ===============================================================================================================================
 
 
@@ -553,6 +560,8 @@ Control                                     Listen & Understand
             Belonging                                       Time | Perception 
 Security                                    Manipulation | Flexibility
             Status                                          Kindness | Realism
+
+
 
 ================================================================================================================================================                                                      
 ```
@@ -1630,6 +1639,8 @@ Detailed ->  https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BA
 ```                
 
 
+![title](static/img/database_normalization.jpg)
+
 ```
 👉 SQL GUIDE => https://sqlbolt.com/
 👉 SQLSTYLE GUIDE -> https://github.com/DancunManyinsa/sqlstyle.guide
@@ -1637,8 +1648,11 @@ Detailed ->  https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BA
 ✅ SQL RESTORE DB
 ✅ SQL QUERY -> https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB
 ✅ SQL REPORTS -> https://www.youtube.com/watch?v=kTPJBAtv29k&list=PL7A29088C98E92D5F
+```
 
-======================================================================================================================================
+
+```
+👉 DATABASE NORMALIZATION DETAIL EXPLANATION (1NF - BCNF)===> https://www.youtube.com/watch?v=GFQaEYEc8_8
 
 1. DATABASE Normalization(1-4) & SQL Tutorial -> https://www.youtube.com/watch?v=y03oYWDLu0Q&list=PLTd6ceoshprdZIu24-_u00-m2Vf9o5aVC
 
@@ -6752,6 +6766,8 @@ C1.png
 👉  EMAIL MANAGEMENT FLASK ====> https://www.youtube.com/watch?v=U5MBYN6an70
 🎯 Email Verification in Flask Contact Form ====> https://www.youtube.com/watch?v=uE9ZesslPYU
 
+
+👉 Webmail Python ====> https://www.youtube.com/watch?v=7sqKleqrhy0
 ```
 
 
