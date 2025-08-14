@@ -96,13 +96,18 @@ Master's  
 
 # LIFE 
 
-## BE CAREFUL OF KABBALAH
+# BE CAREFUL OF KABBALAH
 
 ```
 🧨 MEANING
 🧨 BELIEF
 🧨 PERCEPTION
-🧨 EXPERIENCE
+🧨 EXPERIENCE ✅ ✅ ✅
+-----------------------------------------------------
+                     -> NAIVE
+  -> FOOLISH
+  -> RETARD
+                     -> IGNORANT
 ```
 
 -----------------------------------------------------
