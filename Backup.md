@@ -99,20 +99,32 @@ Master's  
 ## BE CAREFUL OF KABBALAH
 
 ```
+🧨 MEANING
+🧨 BELIEF
+🧨 PERCEPTION
+🧨 EXPERIENCE
+```
+
+-----------------------------------------------------
+
+```
+👉 BEST APPROACH
+
 [REPUTATION]        [CHARACTER]                 [ACQUIRE]
 🧨 Kind             🧨 Humble                   🧨 Accumulate && Be Kind
 🧨 Ridiculously     🧨 Fast
 🧨 Learner          🧨 Hungry for MORE
-
 ---------------------------------------------------------------------------------------------
-
         🧨 DEAD
         UNITY -> HIGHEST
 LOVE -> GREATEST
         PEACE -> STRONGEST
 
----------------------------------------------------------------------------------------------
+==============================================================================================
+👉 FINANCE, MARKETING, ECONOMY
 
+SECURITY
+-----
 LIGHT
 FOLLOW-UP
 ORIGINAL ---> MEAN
@@ -120,7 +132,16 @@ ORIGINAL ---> MEAN
 NECESSITY ECONOMY      ---> Offer Necessary Solution to Take More
 MARKET VARIETY ECONOMY ---> Give but Take More
 DESTRUCTIVE ECONOMY    ---> Destroy/Destructive Environment to Take More
----------------------------------
+
+==============================================================================================
+👉 PUNISHMENT OF KABBALAH
+
+====> KABBALAH PUNISHMENT
+🧨 Toungue Removed     ✅ Maintain Silence                                   ✅ SECURITY     ---> IDENTITY
+🧨 Body Scattered      ✅ Maintain Control                                   ✅ STABILITY
+🧨 Genitals Removed    ✅ Maintain Authority [Observer, Masculine, Feminine] ✅ PERFORMANCE  ---> TRADITION
+---------------------------------------------------------------------------------------------
+====> UNPREPARED BEING FATE
          🧨 THREAT -> ✅KILL -> ✅STEAL
          🧨 LIE
 🧨 DISEASE -> ✅CRAZY/MAD
@@ -129,13 +150,6 @@ DESTRUCTIVE ECONOMY    ---> Destroy/Destructive Environment to Take More
         🧨 INTIMIDATION   -> DESTROY
 ```
 
-
-```
-🧨 MEANING
-🧨 BELIEF
-🧨 PERCEPTION
-🧨 EXPERIENCE
-```
 -----------------------------------------------------
 
 ```
@@ -172,7 +186,8 @@ Snake Colony
 Bee Colony
 Ant Colony
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-TETRAGRAMMATON
+====> TETRAGRAMMATON
+====> KABBALAH
 JAHBULON
 33
 Committee of 300
