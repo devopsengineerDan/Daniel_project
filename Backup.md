@@ -6768,7 +6768,8 @@ C1.png
 
 =======================================================================================================
 👉 PYTHON DJANGO DEPLOYMENT
-Webmail  CPANELP ====> https://www.youtube.com/watch?v=7sqKleqrhy0
+OVERVIEW  CPANEL ====> https://www.youtube.com/watch?v=7sqKleqrhy0
+DETAILED  CPANEL ====> https://www.youtube.com/watch?v=yuM8thlrEs8
 CPANEL -> https://www.youtube.com/watch?v=dJWVL15Jpws
 
 ANYWHERE -> https://www.youtube.com/watch?v=9BEKT0mEAso
