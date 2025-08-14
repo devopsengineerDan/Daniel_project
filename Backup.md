@@ -99,7 +99,8 @@ Master's  
 ## BE CAREFUL OF KABBALAH
 
 ```
-🧨 Kind             🧨 Humble
+[REPUTATION]        [CHARACTER]                 [ACQUIRE]
+🧨 Kind             🧨 Humble                   🧨 Accumulate && Be Kind
 🧨 Ridiculously     🧨 Fast
 🧨 Learner          🧨 Hungry for MORE
 
@@ -120,11 +121,11 @@ NECESSITY ECONOMY      ---> Offer Necessary Solution to Take More
 MARKET VARIETY ECONOMY ---> Give but Take More
 DESTRUCTIVE ECONOMY    ---> Destroy/Destructive Environment to Take More
 ---------------------------------
-         🧨 THREAT -> KILL
+         🧨 THREAT -> ✅KILL -> ✅STEAL
          🧨 LIE
-🧨 DISEASE -> CRAZY/MAD
-🧨 CHILD   -> STEAL           
-        🧨 DEAD           -> STINGY / 🧨 THIRST && HUNGER
+🧨 DISEASE -> ✅CRAZY/MAD
+🧨 CHILD   -> ✅STEAL           
+        🧨 DEAD           -> ✅STINGY -> ✅STEAL / 🧨 THIRST && HUNGER
         🧨 INTIMIDATION   -> DESTROY
 ```
 
@@ -157,8 +158,17 @@ DESTRUCTIVE ECONOMY    ---> Destroy/Destructive Environment to Take More
 ```
 ✅ ORDER
 
-Jungle Colony
-Eagle Colony
+*Snake Colony
+*Lion Colony
+*Eagle Colony
+HIERACHICAL KNOWING(HIGHEST)
+----------------------------
+*Snake Colony
+*Lion Jungle Colony
+*Eagle, Fox, Bear/Dog Colony
+Lion Jungle Colony
+Snake Colony
+...........
 Bee Colony
 Ant Colony
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
