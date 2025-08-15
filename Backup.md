@@ -100,9 +100,19 @@ Master's  
 
 ```
 🧨 MEANING
-🧨 BELIEF
+              🧨 BELIEF
 🧨 PERCEPTION
-🧨 EXPERIENCE ✅ ✅ ✅
+              🧨 EXPERIENCE ✅ ✅ ✅
+-----------------------------------------------------
+✅SECURITY -> DEUS && ADMIN WITH DISTRIBUTED ROLES
+
+                             ✅OBSERVER -> OBJECTIVE && ADMIN WITH DISTRIBUTED ROLES
+
+               ✅EQUILIBRIUM && ADMIN WITH DISTRIBUTED ROLES
+          
+✅INTERFACE -> VACUUM && ADMIN WITH DISTRIBUTED ROLES
+
+                             ✅ACTION -> SUBJECTIVE && ADMIN WITH DISTRIBUTED ROLES
 -----------------------------------------------------
                      -> NAIVE
   -> FOOLISH
