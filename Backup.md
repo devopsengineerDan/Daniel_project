@@ -6785,18 +6785,23 @@ C1.png
 
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=======================================================================================================
+
 👉  COOKIES BANNER && COOKIES MANAGEMENT ====> https://www.youtube.com/watch?v=Ikc-CYha3ug
 
+=======================================================================================================
 
 👉  EMAIL MANAGEMENT DJANGO ====> https://www.youtube.com/watch?v=xNqnHmXIuzU
 
 👉  EMAIL MANAGEMENT FLASK ====> https://www.youtube.com/watch?v=U5MBYN6an70
-🎯 Email Verification in Flask Contact Form ====> https://www.youtube.com/watch?v=uE9ZesslPYU
-
-
+                                  
+👉 FLASK CONTACT FORM ====> https://www.youtube.com/watch?v=OtcsPZSalok
+👉 FLASK SEND EMAIL ====> https://www.youtube.com/watch?v=zRcn7J4c-3M                                
+🎯 Email Verification Link in Flask Contact Form ====> https://www.youtube.com/watch?v=uE9ZesslPYU
+🎯 Add reCAPTCHA in Flask Contact Form ====> https://www.youtube.com/watch?v=O6cEXemQ6s8
+--------------------------------------------------------------------------------------------------------------------------------------
 👉 NEWS LETTER 
-******* NEWS LETTER DJANGO -> https://www.youtube.com/watch?v=hWtlskOaFNI
+******* 👉NEWS LETTER DJANGO -> https://www.youtube.com/watch?v=hWtlskOaFNI
 Open-Source Listmink -> https://www.youtube.com/watch?v=i2nGTfXSjtk
 Free-Tier Omnisend -> https://www.youtube.com/watch?v=TbbhYxGTLKA
 
@@ -6808,15 +6813,27 @@ ANYWHERE -> https://www.youtube.com/watch?v=9BEKT0mEAso
 NGROK -> https://www.youtube.com/watch?v=0xz5b6evj-w
 
 
-OVERVIEW  CPANEL ====> https://www.youtube.com/watch?v=7sqKleqrhy0
-******* DETAILED  CPANEL ====> https://www.youtube.com/watch?v=yuM8thlrEs8
-CPANEL -> https://www.youtube.com/watch?v=dJWVL15Jpws
+OVERVIEW DJANGO CPANEL ====> https://www.youtube.com/watch?v=7sqKleqrhy0
+******* 👉DETAILED DJANGO CPANEL ====> https://www.youtube.com/watch?v=yuM8thlrEs8
+DJANGO CPANEL -> https://www.youtube.com/watch?v=dJWVL15Jpws
 
-******* CPANEL Create Your Company Emails -> https://www.youtube.com/watch?v=R66pAKlD0w0&t=20s
-******* Read/Respond To Email via WEBMAIL in ROUNDCUBE
---------------------------------------------------------------------------------------------------------
-ZOHO FREE Business Email With Your Own Domain Name ====> https://www.youtube.com/watch?v=xdGG-9aKq74
-The BEST Zoho Email Settings: Desktop and Your Phone ====> https://www.youtube.com/watch?v=ieX-dmCHcs0
+=======================================================================================================
+
+✅ ✅ ✅ DOMAINS AND EMAILS
+✅ CPANEL
+👉👉👉 Add a New Domain Name to your cPanel Account ====> https://www.youtube.com/watch?v=dubQ017azro
+👉👉👉 How to create a subdomain in Cpanel ====> https://www.youtube.com/watch?v=Xcw-I3kjhn4
+👉👉👉 CPANEL BY Cochin Web Host Complete Tutorial in 21 Minutes ====> https://www.youtube.com/watch?v=ITK2g_KV_JY
+********************************************************************************************************
+******* 👉CPANEL Create Your Company Emails -> https://www.youtube.com/watch?v=R66pAKlD0w0&t=20s
+******* 👉Read/Respond To Email via WEBMAIL in ROUNDCUBE
+--------------------------------------------------------------------------------------------------------------------------------------
+✅ NAMECHEAP
+👉👉👉 NAMECHEAP CREATE DOMAIN ====> https://www.youtube.com/watch?v=p1QU3kLFPdg
+👉👉👉 NAMECHEAP DOMAIN Create Namecheap Email For Your Domain ====> https://www.youtube.com/watch?v=CtWQ3gBRaCk
+ZOHO EMAIL
+👉👉👉 ZOHO FREE Business Email With Your Own Domain Name ====> https://www.youtube.com/watch?v=xdGG-9aKq74
+👉👉👉 The BEST Zoho Email Settings: Desktop and Your Phone ====> https://www.youtube.com/watch?v=ieX-dmCHcs0
 ```
 
 
