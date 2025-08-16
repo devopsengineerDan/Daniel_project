@@ -96,6 +96,9 @@ Master's  
 
 # LIFE 
 
+![title](static/img/LIFE.jpg)
+
+
 # BE CAREFUL OF KABBALAH
 
 ```
