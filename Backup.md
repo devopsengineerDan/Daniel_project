@@ -6813,7 +6813,9 @@ C1.png
 🎯 Email Verification Link in Flask Contact Form ====> https://www.youtube.com/watch?v=uE9ZesslPYU
 🎯 Add reCAPTCHA in Flask Contact Form ====> https://www.youtube.com/watch?v=O6cEXemQ6s8
 --------------------------------------------------------------------------------------------------------------------------------------
-👉 NEWS LETTER 
+👉 NEWS LETTER
+🎯 1. Mailerlite
+🎯 2. Brevo
 ******* 👉NEWS LETTER DJANGO -> https://www.youtube.com/watch?v=hWtlskOaFNI
 Open-Source Listmink -> https://www.youtube.com/watch?v=i2nGTfXSjtk
 Free-Tier Omnisend -> https://www.youtube.com/watch?v=TbbhYxGTLKA
