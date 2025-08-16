@@ -107,15 +107,15 @@ Master's  
 🧨 PERCEPTION
               🧨 EXPERIENCE ✅ ✅ ✅
 -----------------------------------------------------
-✅SECURITY -> DEUS && ADMIN WITH DISTRIBUTED ROLES
+✅ SECURITY -> [DEUS] && ADMIN WITH DISTRIBUTED ROLES
 
-                             ✅OBSERVER -> OBJECTIVE && ADMIN WITH DISTRIBUTED ROLES
+                             ✅ OBSERVER -> [OBJECTIVE] && ADMIN WITH DISTRIBUTED ROLES
 
-               ✅EQUILIBRIUM && ADMIN WITH DISTRIBUTED ROLES
+               ✅ [EQUILIBRIUM] && ADMIN WITH DISTRIBUTED ROLES
           
-✅INTERFACE -> [INVOLUNTARY VACUUM] && ADMIN WITH DISTRIBUTED ROLES
+✅ INTERFACE -> [INVOLUNTARY VACUUM] && ADMIN WITH DISTRIBUTED ROLES
 
-                             ✅ACTION -> SUBJECTIVE && ADMIN WITH DISTRIBUTED ROLES
+                             ✅ ACTION -> [SUBJECTIVE] && ADMIN WITH DISTRIBUTED ROLES
 -----------------------------------------------------
                      -> NAIVE
   -> FOOLISH
