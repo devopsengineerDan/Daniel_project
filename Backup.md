@@ -6492,6 +6492,7 @@ Microsoft - All Live Share plugins
 RedHat - xml
 ✅ [CSS]
 Syler - sass
+✅ Beautify [HTML,CSS,JS]
 ✅ [PYTHON]
 Microsoft - Python
 Microsoft - Pylance
