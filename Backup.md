@@ -113,7 +113,7 @@ Master's  
 
                ✅EQUILIBRIUM && ADMIN WITH DISTRIBUTED ROLES
           
-✅INTERFACE -> VACUUM && ADMIN WITH DISTRIBUTED ROLES
+✅INTERFACE -> [INVOLUNTARY VACUUM] && ADMIN WITH DISTRIBUTED ROLES
 
                              ✅ACTION -> SUBJECTIVE && ADMIN WITH DISTRIBUTED ROLES
 -----------------------------------------------------
@@ -250,10 +250,10 @@ AFRICA                          [BE HUMBLE & BE KIND]                         US
 
 🌀 1. THE SOUL OF THE SOUL OF THE LAW
 ✅ ✅ ✅  SPIRIT /FIRE   ✅ ✅ ✅  🧨 SAAD / SECRET / MYSTERY
-                                           👉 WILL               👉 WILL | DESIRE
-SELF -> WILL                               OBSERVATION           TIME         
-ORCHESTRATION ---> BEST CHOICE             INTERFACE             CURRENT && PROBABILITY
-LOAD-BALANCER                              INTENTION             SYMBOLISM
+                                              👉 WILL               👉 WILL | DESIRE
+SELF 👉 -> WILL                               OBSERVATION           TIME         
+ORCHESTRATION 👉 ---> BEST CHOICE          I  NTERFACE              CURRENT && PROBABILITY
+LOAD-BALANCER 👉 ---> OVERALL EXCELLENCE                            INTENTION  &&  SYMBOLISM
 ------------------------------------------------------------------
 INNER AWARENESS -> INSIGHT/INNER VISION
 OUTER AWARENESS -> OUTER VISION
@@ -344,10 +344,10 @@ Competitive                   Hard work(Realistic)          Realistic(High perfo
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 🧨LIFE                      🧨RELATIONSHIP                     🧨AGREEMENT  
-SPIRIT-Fire-Feel            Common                             Reason==Belief
+SPIRIT-Fire-Feel            Common 👉 ROLE                     Reason==Belief
 MIND-Air-Thought            Position/Mindset 👉 ROLE           Constitutional Law==Agreement     
 EMOTION-Water-Energy        Relationship     👉 ROLE           Research==Invention/Innovation
-BODY-Earth-Vibration        Status                             Acceptance
+BODY-Earth-Vibration        Status  👉ROLE                     Acceptance
 
 
 ✅ 1                                                                 ✅ 2
@@ -9948,6 +9948,24 @@ We saw how to configure Docker and other pre-requisites, as well as deploy an Ng
 
 # AI COMPUTATION
 
+# MATH
+
+```
+DESCRETE
+NUMBERS
+INFINITY
+                                
+                                CALCULUS
+                                GEOMETRY && TRIGONOMETRY
+                                INFINITY
+STATISTICS
+PROBABILITY
+INFINITY
+                                ALGEBRA && MATRIX
+                                GRAPH
+                                INFINITY
+```
+
 ```
 👉 RUN PYTHON ON TERMINAL
 
@@ -10188,9 +10206,9 @@ print(xyz.head(1))
 
 -------------------------------
 
-👉 FEATURE ENGINEERING ===> https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114
+# FEATURE ENGINEERING ===> https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114
 
-👉 BEST TECHNIQUE 
+# BEST TECHNIQUE 
 
 ```
 •	ExhaustiveFeatureSelector: Optimal feature sets by considering all possible feature combinations
@@ -10935,7 +10953,7 @@ Feature subset of X, shape={n_samples, k_features}
 
 -------------------------------
 
-👉 OTHER TECHNIQUES 
+# OTHER TECHNIQUES 
 
 ```
 List of Techniques
