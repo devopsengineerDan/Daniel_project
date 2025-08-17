@@ -115,7 +115,7 @@ Master's  
           
 ✅ INTERFACE -> [INVOLUNTARY VACUUM] && ADMIN WITH DISTRIBUTED ROLES
 
-                             ✅ ACTION -> [SUBJECTIVE] && ADMIN WITH DISTRIBUTED ROLES
+                             ✅ ACTION -> [SUBJECTIVE LOGICAL] && ADMIN WITH DISTRIBUTED ROLES
 -----------------------------------------------------
                      -> NAIVE
   -> FOOLISH
@@ -147,9 +147,9 @@ LIGHT
 FOLLOW-UP
 ORIGINAL ---> MEAN
 ---------------------------------
-NECESSITY ECONOMY      ---> Offer Necessary Solution to Take More
-MARKET VARIETY ECONOMY ---> Give but Take More
-DESTRUCTIVE ECONOMY    ---> Destroy/Destructive Environment to Take More
+NECESSITY ECONOMY      ---> Offer Necessary Solution to TAKE MORE
+MARKET VARIETY ECONOMY ---> Give but TAKE MORE
+DESTRUCTIVE ECONOMY    ---> Destroy/Destructive Environment to TAKE MORE
 
 ==============================================================================================
 👉 PUNISHMENT OF KABBALAH
