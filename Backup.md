@@ -1835,8 +1835,8 @@ eBDF
 
 ```
 👉 ASSEMBLY
-
-LLVM IR assembly
+ABI (Application Binary Interface)
+LLVM IR (Intermediate Representation) assembly
 Go assembly
 C assembly precise compatibility
 ----------------------------
