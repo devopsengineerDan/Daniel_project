@@ -97,6 +97,8 @@ Master's  
 # LIFE 
 
 ![title](static/img/LIFE.jpg)
+![title](static/img/Data_Engineering_to_Cybersecurity.jpg)
+
 
 
 # BE CAREFUL OF KABBALAH
