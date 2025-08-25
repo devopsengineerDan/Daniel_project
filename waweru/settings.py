@@ -11,14 +11,14 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MODE=config("MODE", default="dev")
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'abcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*(-_=+)s'
-GITHUB_API = '4f41ea34f379e4e0dc151e6964c6468f4807e3c5'
+#SECRET_KEY = 'abcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*(-_=+)s'
+#GITHUB_API = '4f41ea34f379e4e0dc151e6964c6468f4807e3c5'
 #GMAIL_API = 'AIzaSyDV8wYbkgkx0jxIMu306YqMtQBP4mdi8uE'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = config('DEBUG', default=True, cast=bool)
+DEBUG = config('DEBUG', default=False, cast=bool)
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['']
 
 
 # Application definition
@@ -154,7 +154,7 @@ EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
 EMAIL_HOST = "smtp.gmail.com"
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
-EMAIL_HOST_USER = "devopsengineerdan@gmail.com"
+EMAIL_HOST_USER = "email@gmail.com"
 EMAIL_HOST_PASSWORD = "eqpctfoqocp{k"
 
 
