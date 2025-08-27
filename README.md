@@ -1,4 +1,4 @@
-# FINANCIAL ENGINEERING
+# FINANCIAL ENGINEERING SCOPE
 
 ```
 👉 A MUST
@@ -9,6 +9,50 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
                     PHOTON TRADING
                     VECTOR SMC
                     ICT
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+✅ DJANGO && FLASK
+1. BOTH(CRASH + REST API)
+2. CRUD ===> 4 PYTHON-C-BASH-APPLICATIONS
+3. DJANGO HOSPITAL -> Github Repositories
+-------------------------------------------------------
+✅ DJANGO && FLASK API
+4. FLASK CONSUMING OF API
+   ---> FLASK API (Overview) -> https://github.com/devopsengineerDan/Daniel_news-highlight
+   ---> FLASK  API (Detailed) -> https://github.com/devopsengineerDan/Daniel_personal-blog
+5. FLASK CREATING OF API
+   ---> Backend-blog-application-python-api -> https://github.com/devopsengineerDan/backend-blog-application-python-api?tab=readme-ov-file
+   ---> Sendy S API Wrapper -> https://github.com/devopsengineerDan/python-wrapper-for-sendy-s-API
+6. DJANGO API ===> 4 PYTHON-C-BASH-APPLICATIONS
+✅ DATA PIPELINES
+7. Fringe Recurrent Neural Network
+8. ---> Data Pipelines 1 & 2
+   ---> Deployment on Kubernetes
+9. PROJECTS ===> DETECTION
+            ===> EMERGING DEVELOPMENT
+```
+
+
+```
+👉 ROADMAP
+
+FINANCE AND PORTFOLIO MANAGER
+RISK AND COMPLIANCE MANAGER
+ACCOUNT MANAGER
+
+                                  FINANCE AND PORTFOLIO MANAGER
+                                  RISK AND COMPLIANCE MANAGER
+                                  ACCOUNT MANAGER
+                                  -------------------------------
+                                  [Software Engineer]
+                                  API ENGINEER
+                                  DATA ENGINEER
+                                  DEVOPS SYSTEMS ENGINEER
+      ******************************************************************************
+                                  ASSET MANAGER
+                                  TAX MANAGER
+                                  ACCOUNT MANAGER
 ```
 
 
