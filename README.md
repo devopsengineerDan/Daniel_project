@@ -9,9 +9,7 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
                     PHOTON TRADING
                     VECTOR SMC
                     ICT
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ✅ DJANGO && FLASK
 1. BOTH(CRASH + REST API)
 2. CRUD ===> 4 PYTHON-C-BASH-APPLICATIONS
@@ -29,7 +27,16 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 7. Fringe Recurrent Neural Network
 8. ---> Data Pipelines 1 & 2
    ---> Deployment on Kubernetes
-9. PROJECTS ===> DETECTION
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+✅ REAL PROJECTS
+9. PROJECTS ===> Email
+            ===> News Letter
+            ------------------------------------
+            ===> LOANS
+            ===> TRANSACTIONS
+            ===> E-COMMERCE
+            ------------------------------------
+            ===> DETECTION
             ===> EMERGING DEVELOPMENT
 ```
 
