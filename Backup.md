@@ -105,9 +105,18 @@ Master's  
 
 ```
 🧨 MEANING
+@ WITHIN SCOPE
+@ INFINITY
+
               🧨 BELIEF
+              @ WITHIN SCOPE
+              @ INFINITY
 🧨 PERCEPTION
+@ WITHIN SCOPE
+@ INFINITY
               🧨 EXPERIENCE ✅ ✅ ✅
+              @ WITHIN SCOPE
+              @ INFINITY
 -----------------------------------------------------
 ✅ SECURITY -> [DEUS] && ADMIN WITH DISTRIBUTED ROLES
 
