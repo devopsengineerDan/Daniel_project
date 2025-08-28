@@ -105,18 +105,21 @@ Master's  
 
 ```
 🧨 MEANING
-@ WITHIN SCOPE
-@ INFINITY
+@✅ WITHIN SCOPE
+@✅ INFINITY
 
               🧨 BELIEF
-              @ WITHIN SCOPE
-              @ INFINITY
+              @✅ WITHIN SCOPE
+              @✅ INFINITY
 🧨 PERCEPTION
-@ WITHIN SCOPE
-@ INFINITY
+@✅ WITHIN SCOPE
+@✅ INFINITY
               🧨 EXPERIENCE ✅ ✅ ✅
-              @ WITHIN SCOPE
-              @ INFINITY
+              @✅ WITHIN SCOPE
+              @✅ INFINITY
+-----------------------------------------------------
+              INTELLIGENCE <---> AWARENESS ✅ ✅ ✅
+              TIME <---> ACTION ✅ ✅ ✅             
 -----------------------------------------------------
 ✅ SECURITY -> [DEUS] && ADMIN WITH DISTRIBUTED ROLES
 
