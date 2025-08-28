@@ -121,6 +121,11 @@ Master's  
               INTELLIGENCE <---> AWARENESS ✅ ✅ ✅
               TIME <---> ACTION ✅ ✅ ✅             
 -----------------------------------------------------
+✅ THEATRE OF WILLS[SPIRITS,MINDS,BODIES] ===> Master Timing, Illusion, Restraint
+HOPE(Obedient) ---> Safety - Ambition 
+FEAR(Submit) ---> Illusion - Clarity
+HABIT(Predictable) ---> Comfort - Truth
+-----------------------------------------------------
 ✅ SECURITY -> [DEUS] && ADMIN WITH DISTRIBUTED ROLES
 
                              ✅ OBSERVER -> [OBJECTIVE] && ADMIN WITH DISTRIBUTED ROLES
