@@ -119,7 +119,7 @@ Master's  
               @✅ INFINITY
 -----------------------------------------------------
               INTELLIGENCE <---> AWARENESS ✅ ✅ ✅
-              TIME <---> ACTION ✅ ✅ ✅             
+              TIME <---WAY---> ACTION ✅ ✅ ✅             
 -----------------------------------------------------
 ✅ THEATRE OF WILLS[SPIRITS,MINDS,BODIES] ===> Master Timing, Illusion, Restraint
 HOPE(Obedient) ---> Safety - Ambition 
