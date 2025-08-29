@@ -406,7 +406,7 @@ PROTECT Life, Liberty, Equality and Property
        @[UP] BULL  => WHY -----> OBJECTIVE + ACCURATE                                                                
                                 
 				LION + EAGLE => WHY -----> OBJECTIVE + NEUTRAL
-
+                       FOX ✅✅✅
            
           DOG + BEAR => HOW -----> BEAUTY
           6 ADAPT
