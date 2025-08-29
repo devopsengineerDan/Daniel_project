@@ -100,6 +100,9 @@ Master's  
 ![title](static/img/Data_Engineering_to_Cybersecurity.jpg)
 
 ```
+       🧨 IDENTITY
+🧨 STABILITY
+       🧨 TRADITION
 1.
 FEEL         | THINK
 MUSIC ROUTINE| STRUCTURE
