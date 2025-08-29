@@ -99,6 +99,25 @@ Master's  
 ![title](static/img/LIFE.jpg)
 ![title](static/img/Data_Engineering_to_Cybersecurity.jpg)
 
+```
+1.
+FEEL         | THINK
+MUSIC ROUTINE| STRUCTURE
+2. YOUR SHADOW WILL FOLLOW YOU
+3. EVERY ANGEL HAS A PAST, EVERY DEMON HAS A FUTURE
+=====================================
+1. LIFE
+2. CAREER PATH && ROADMAP
+3. KINGSHIP
+=====================================
+1. MEANING + 3 BEST APPROACHES
+2. MY 3 FATHERS 
+3.
+---> MUST BE
+---> MUST BE 3 OF THESE TO NOT BE KICKED OUT OF THE MARKET
+----------------------
+---> THINGS I HATE
+```
 
 
 # BE CAREFUL OF KABBALAH
