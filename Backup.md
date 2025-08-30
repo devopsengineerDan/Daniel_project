@@ -100,9 +100,21 @@ Master's  
 ![title](static/img/Data_Engineering_to_Cybersecurity.jpg)
 
 ```
+🧨🧨🧨 97 🧨🧨🧨
+
        🧨 IDENTITY
 🧨 STABILITY
        🧨 TRADITION
+
+🧨 LIGHT THAT BLINDS THE FEBBLE, SENSUAL AND SELFISH
+🧨 HAVE INTELLIGENCE && BE AWARE OF:
+   [DEATH] SAFETY|LIGHT <---> TAKE (MORE)|GIVE LESS <---> DIMINISHING(TAKE ADVANTAGE)|EXPLOIT [DEATH]
+🧨 DO NOT CHASE, DO NOT RUSH, DO NOT FORCE
+🧨 YOU MUST NEVER BE:
+                     -> NAIVE
+  -> FOOLISH
+  -> RETARD
+                     -> IGNORANT
 1.
 FEEL         | THINK
 MUSIC ROUTINE| STRUCTURE
@@ -157,11 +169,6 @@ HABIT(Predictable) ---> Comfort - Truth
 ✅ INTERFACE -> [INVOLUNTARY VACUUM] && ADMIN WITH DISTRIBUTED ROLES
 
                              ✅ ACTION -> [SUBJECTIVE LOGICAL] && ADMIN WITH DISTRIBUTED ROLES
------------------------------------------------------
-                     -> NAIVE
-  -> FOOLISH
-  -> RETARD
-                     -> IGNORANT
 ```
 
 -----------------------------------------------------
