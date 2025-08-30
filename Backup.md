@@ -100,8 +100,13 @@ Master's  
 ![title](static/img/Data_Engineering_to_Cybersecurity.jpg)
 
 ```
-🧨🧨🧨 97 🧨🧨🧨
+🧨🧨🧨 97 🧨🧨🧨 + INHERENT NATURE OF ✅ INTELLIGENCE --->  RATIONAL INWARD - FAST OUTWARD
+                                                            INNER WEAKNESS - OUTER STRENGTH
+                                                            MUST CULTIVATE INNER STRENGTH
+                                       &&
 
+                                       ✅ WISDOM       ---> IRRATIONAL INWARD - SLOW OUTWARD
+                                                            INNER STRENGTH - OUTER WEAKNESS
        🧨 IDENTITY
 🧨 STABILITY
        🧨 TRADITION
@@ -118,7 +123,7 @@ Master's  
                      -> NAIVE[OBSERVATION]
   -> FOOLISH[PERCEPTION]
   -> RETARD[MUSIC|RELIGION]
-                     -> IGNORANT[RESEARCH|EDUCATION]---[ACTION]
+                     -> IGNORANT[RESEARCH|EDUCATION]<--->[ACTION]
 1.
 FEEL         | THINK
 MUSIC ROUTINE| STRUCTURE
