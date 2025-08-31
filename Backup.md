@@ -120,9 +120,9 @@ Master's  
   -> INTELLIGENCE[KNOW TO DETAIL]
   -> AWARENESS[WISDOM IN APPLICATION]
    YOU MUST NEVER BE[OWN]:
-                     -> NAIVE[OBSERVATION]
-  -> FOOLISH[PERCEPTION]
-  -> RETARD[MUSIC|RELIGION]
+                     -> NAIVE[OBSERVATION]<--->[QUESTION]
+  -> FOOLISH[PERCEPTION]<--->[ADAPT]
+  -> RETARD[MUSIC|RELIGION]<--->[REVIEW]
                      -> IGNORANT[RESEARCH|EDUCATION]<--->[ACTION]
 1.
 FEEL         | THINK
@@ -153,15 +153,12 @@ MUSIC ROUTINE| STRUCTURE
 @✅ INFINITY
 
               🧨 BELIEF
-              🧨 QUESTION
               @✅ WITHIN SCOPE
               @✅ INFINITY
 🧨 PERCEPTION
-🧨 REVIEW
 @✅ WITHIN SCOPE
 @✅ INFINITY
               🧨 EXPERIENCE ✅ ✅ ✅
-              🧨 ACTION
               @✅ WITHIN SCOPE
               @✅ INFINITY
 -----------------------------------------------------
