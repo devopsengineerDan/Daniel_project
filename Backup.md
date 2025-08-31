@@ -148,16 +148,20 @@ MUSIC ROUTINE| STRUCTURE
 
 ```
 🧨 MEANING
+🧨 PROTECT
 @✅ WITHIN SCOPE
 @✅ INFINITY
 
               🧨 BELIEF
+              🧨 QUESTION
               @✅ WITHIN SCOPE
               @✅ INFINITY
 🧨 PERCEPTION
+🧨 REVIEW
 @✅ WITHIN SCOPE
 @✅ INFINITY
               🧨 EXPERIENCE ✅ ✅ ✅
+              🧨 ACTION
               @✅ WITHIN SCOPE
               @✅ INFINITY
 -----------------------------------------------------
