@@ -6839,6 +6839,7 @@ C1.png
 	<meta property="og:image" content="img/logo.png" />
 	<meta name="twitter:card" content="summary_large_image" />
 	🎯 => GENERATE THE KEY ON GOOGLE  <meta name="google-site-verification" content="XtmfApHLWkQ32uN3BV8mb3LgLNFMF5h3UHFd0_JfIf8" />
+    🎯 Google Verify your site ownership -> https://support.google.com/webmasters/answer/9008080?hl=en
 	<!-- / Yoast SEO plugin. -->
 
 
