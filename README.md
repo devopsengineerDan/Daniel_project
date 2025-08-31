@@ -161,7 +161,7 @@ Henriot
 
 ==============================================================================================================================================
 1. FINANCIAL Engineering                                                 DEFENSE  | ATTACK
-2. CYBERSECURITY Engineering                                             DEFENSE  | ATTACK
+2. CYBERSECURITY Engineering   🧨https://www.syntura.io/                 DEFENSE  | ATTACK
 3. AI, QUANTUM, SOFTWARE Engineering                                     DEFENSE  | ATTACK
 4. TELECOMMUNICATION & COMPUTER ELECTRONICS SYSTEMS Engineering          DEFENSE  | ATTACK
 *******************************************************************************************
