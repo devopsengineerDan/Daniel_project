@@ -107,6 +107,8 @@ Master's  
 
                                        ✅ WISDOM       ---> IRRATIONAL INWARD - SLOW OUTWARD
                                                             INNER STRENGTH - OUTER WEAKNESS
+                                       ✅ OWN && BE NATURAL
+                                       ✅ DECIDE && BE NEUTRAL
        🧨 IDENTITY
 🧨 STABILITY
        🧨 TRADITION
