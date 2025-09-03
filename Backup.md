@@ -109,6 +109,7 @@ Master's  
                                                             INNER STRENGTH - OUTER WEAKNESS
                                        
                                        ✅ KNOW TO DETAIL (DEATH) (DOPAMINE) <---> CONNECT DOTS (FEAR) (REMORSE) <---> COMPETITIVE (OBTAIN) (DEATH)
+                                          🧨 TIME                                 🧨 WAY                              🧨 ACTION
                                        ✅ OWN && BE NATURAL
                                        ✅ DECIDE && BE NEUTRAL
        🧨 IDENTITY -> DEATH-PAIN
