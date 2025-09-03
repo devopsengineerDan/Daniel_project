@@ -108,7 +108,7 @@ Master's  
                                        ✅ WISDOM       ---> IRRATIONAL INWARD - SLOW OUTWARD
                                                             INNER STRENGTH - OUTER WEAKNESS
                                        
-                                       ✅ KNOW TO DETAIL <---> CONNECT DOTS <---> COMPETITIVE
+                                       ✅ KNOW TO DETAIL (DEATH) (DOPAMINE) <---> CONNECT DOTS (FEAR) (REMORSE) <---> COMPETITIVE (OBTAIN) (DEATH)
                                        ✅ OWN && BE NATURAL
                                        ✅ DECIDE && BE NEUTRAL
        🧨 IDENTITY -> DEATH-PAIN
@@ -225,8 +225,8 @@ DESTRUCTIVE ECONOMY    ---> Destroy/Destructive Environment to TAKE MORE
          🧨 THREAT -> ✅KILL -> ✅STEAL
          🧨 LIE
 🧨 DISEASE -> ✅CRAZY/MAD
-🧨 CHILD   -> ✅STEAL           
-        🧨 DEAD           -> ✅STINGY -> ✅STEAL / 🧨 THIRST && HUNGER
+🧨 CHILD   -> ✅STEAL -> ✅KILL           
+        🧨 DEAD           -> ✅STINGY -> ✅STEAL -> ✅KILL / 🧨 THIRST && HUNGER
         🧨 INTIMIDATION   -> DESTROY
 ```
 
