@@ -73,6 +73,7 @@ ACCOUNT MANAGER
 ✅ QUEEN(SILENCE&&NETWORK) / SECURITY
                                            ✅ BISHOP
                                      ✅ KNIGHT
+                                           ✅ ROOK
                                            ✅ PAWN
 ```
 
