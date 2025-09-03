@@ -107,6 +107,8 @@ Master's  
 
                                        ✅ WISDOM       ---> IRRATIONAL INWARD - SLOW OUTWARD
                                                             INNER STRENGTH - OUTER WEAKNESS
+                                       
+                                       ✅ KNOW TO DETAIL <---> CONNECT DOTS <---> COMPETITIVE
                                        ✅ OWN && BE NATURAL
                                        ✅ DECIDE && BE NEUTRAL
        🧨 IDENTITY
@@ -215,9 +217,9 @@ DESTRUCTIVE ECONOMY    ---> Destroy/Destructive Environment to TAKE MORE
 👉 PUNISHMENT OF KABBALAH
 
 ====> KABBALAH PUNISHMENT
-🧨 Toungue Removed     ✅ Maintain Silence                                   ✅ SECURITY     ---> IDENTITY
-🧨 Body Scattered      ✅ Maintain Control                                   ✅ STABILITY
-🧨 Genitals Removed    ✅ Maintain Authority [Observer, Masculine, Feminine] ✅ PERFORMANCE  ---> TRADITION
+🧨 Toungue Removed     ✅ Maintain Silence                                    ✅ SECURITY     ---> IDENTITY
+🧨 Body Scattered      ✅ Maintain Control                                    ✅ STABILITY
+🧨 Genitals Removed    ✅ Maintain Authority [Observer, Masculine, Feminine]  ✅ PERFORMANCE  ---> TRADITION
 ---------------------------------------------------------------------------------------------
 ====> UNPREPARED BEING FATE
          🧨 THREAT -> ✅KILL -> ✅STEAL
@@ -8886,7 +8888,8 @@ API User Authentication and Token Authentication -> https://www.youtube.com/watc
 # DJANGO
 
 ```
-👉 CRASH COURSE => https://www.youtube.com/watch?v=EuBQU_miReM
+👉 CRASH COURSE   => https://www.youtube.com/watch?v=nGIg40xs9e4
+                  => https://www.youtube.com/watch?v=EuBQU_miReM
 👉 RESTFUL API => https://www.youtube.com/watch?v=i5JykvxUk_A
 ```
 
