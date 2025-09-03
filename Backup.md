@@ -111,9 +111,9 @@ Master's  
                                        ✅ KNOW TO DETAIL <---> CONNECT DOTS <---> COMPETITIVE
                                        ✅ OWN && BE NATURAL
                                        ✅ DECIDE && BE NEUTRAL
-       🧨 IDENTITY
-🧨 STABILITY
-       🧨 TRADITION
+       🧨 IDENTITY -> DEATH-PAIN
+🧨 STABILITY -> SUFFERING
+       🧨 TRADITION -> PAIN-DEATH
 
 🧨 LIGHT THAT BLINDS THE FEBBLE, SENSUAL AND SELFISH
 🧨 HAVE INTELLIGENCE && BE AWARE OF:
@@ -167,7 +167,7 @@ MUSIC ROUTINE| STRUCTURE
               @✅ INFINITY
 -----------------------------------------------------
               INTELLIGENCE <---> AWARENESS ✅ ✅ ✅
-              TIME <---WAY---> ACTION ✅ ✅ ✅             
+              TIME <---WAY---> PATIENCE/ACTION ✅ ✅ ✅             
 -----------------------------------------------------
 ✅ THEATRE OF WILLS[SPIRITS,MINDS,BODIES] ===> Master Timing, Illusion, Restraint
 HOPE(Obedient) ---> Safety - Ambition 
