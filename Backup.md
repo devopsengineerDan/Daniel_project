@@ -1003,7 +1003,7 @@ ENERGY
 
 ==> PSYCHOLOGICAL
 ==> IDEAS
-                       PHYSICAL
+                       ==> PHYSICAL
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -8896,9 +8896,14 @@ API User Authentication and Token Authentication -> https://www.youtube.com/watc
 # DJANGO
 
 ```
-👉 CRASH COURSE   => https://www.youtube.com/watch?v=nGIg40xs9e4
+👉 CRASH COURSE   =>  https://www.youtube.com/watch?v=0sMtoedWaf0
+                  => https://www.youtube.com/watch?v=nGIg40xs9e4
                   => https://www.youtube.com/watch?v=EuBQU_miReM
-👉 RESTFUL API => https://www.youtube.com/watch?v=i5JykvxUk_A
+
+👉 COMPLETE COURSE => https://www.udemy.com/course/python-django-2021-complete-course/?referralCode=5EE78E30D7C468BF08F6&couponCode=25BBPMXNVD25CTRL
+
+👉 RESTFUL API  => https://www.youtube.com/watch?v=cJveiktaOSQ
+                => https://www.youtube.com/watch?v=i5JykvxUk_A
 ```
 
 
