@@ -199,8 +199,8 @@ HABIT(Predictable) ---> Comfort - Truth
 
 [REPUTATION]        [CHARACTER]                 [ACQUIRE]
 🧨 Kind             🧨 Humble                   🧨 Accumulate && Be Kind
-🧨 Ridiculously     🧨 Fast
-🧨 Learner          🧨 Hungry for MORE
+🧨 Ridiculously     🧨 Fast                     🧨 Observe at All Percpectives 
+🧨 Learner          🧨 Hungry for MORE          👉 Focus on Truth and Nature
 ---------------------------------------------------------------------------------------------
         🧨 DEAD
         UNITY -> HIGHEST
