@@ -112,9 +112,15 @@ Master's  
                                           🧨 TIME                                 🧨 WAY                              🧨 ACTION
                                        ✅ OWN && BE NATURAL
                                        ✅ DECIDE && BE NEUTRAL
-       🧨 IDENTITY -> DEATH-PAIN
-🧨 STABILITY -> SUFFERING
-       🧨 TRADITION -> PAIN-DEATH
+
+✅ ESSENCE
+✅ FAITH
+✅ POWER
+✅ GREATNESS
+
+       🧨 IDENTITY -> DEATH-PAIN   ✅ TRUTH
+🧨 STABILITY -> SUFFERING ✅ BEAUTY
+       🧨 TRADITION -> PAIN-DEATH ✅ JUSTICE
 
 🧨 LIGHT THAT BLINDS THE FEBBLE, SENSUAL AND SELFISH
 🧨 HAVE INTELLIGENCE && BE AWARE OF:
@@ -359,9 +365,9 @@ DESIRE    -> FEEL     ---> SURRENDER             LETTER = GATEWAY
 🧨🧨🧨 Duality of Life [GOOD/BAD] ------- Remembrance/Isolation  - Legalistic/Logic - Ignorance/Sin
 🧨🧨🧨 MATTER && DEATH 
 
-🧨KNOW            GOD             TRUTH - MORALITY       TIME(COMPLETE)
-🧨FREE-MARKET     ILLUSION        BEAUTY - CHARITY
-🧨COMPETITION     MATTER          JUSTICE                PATIENCE(COMPLETE)  
+🧨 KNOW            GOD             TRUTH - MORALITY       TIME(COMPLETE)
+🧨 FREE-MARKET     ILLUSION        BEAUTY - CHARITY
+🧨 COMPETITION     MATTER          JUSTICE                PATIENCE(COMPLETE)  
 
 --------------------------------------------------------------------------------------------------------------------------------------
 🧨🧨🧨 FIT <===> READY && STEADY <===> FAITHFUL 
@@ -406,7 +412,7 @@ Competitive                   Hard work(Realistic)          Realistic(High perfo
 
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-🧨LIFE                      🧨RELATIONSHIP                     🧨AGREEMENT  
+🧨 LIFE                     🧨 RELATIONSHIP                    🧨 AGREEMENT  
 SPIRIT-Fire-Feel            Common 👉 ROLE                     Reason==Belief
 MIND-Air-Thought            Position/Mindset 👉 ROLE           Constitutional Law==Agreement     
 EMOTION-Water-Energy        Relationship     👉 ROLE           Research==Invention/Innovation
@@ -452,9 +458,10 @@ PROTECT Life, Liberty, Equality and Property
                               
 ***************************************************************************************************************************
 
-                           👉👉👉👉   GOD/CARE  👉👉👉👉 
+                           👉👉👉👉   ZEUS/DEUS/GOD/CARE - DISCIPLINE - JUSTICE  👉👉👉👉 
 RESPONSIBLE      ****BULL****      EFFECTIVE           HELPFUL               SOLID 
- 
+👉 ESSENCE       👉 ACCUMULATE     👉 FAITH           👉 POWER               👉  GREATNESS
+     
 🧨🧨🧨🧨🧨🧨 ------------------DO NOT BE/ HIT A BRICK WALL--------------------- 🧨🧨🧨🧨🧨🧨 
 🧨🧨🧨🧨🧨🧨 ----------------------DO NOT BE DESPERATE------------------------- 🧨🧨🧨🧨🧨🧨             
 IRRESPONSIBLE                      INEFFECTIVE         HELPLESS              UNDER THE MERCY
