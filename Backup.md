@@ -114,9 +114,9 @@ Master's  
                                        ✅ DECIDE && BE NEUTRAL
 
 ✅ ESSENCE
-✅ FAITH
-✅ POWER
-✅ GREATNESS
+✅ FAITH      -DOPAMINE      -GOLD/MONEY  -ARMY
+✅ POWER      -EMPATHY/FEAR  -WOMAN       -PROSTITUTE
+✅ GREATNESS  -INSTINCT      -PROPERTY    -ROBBER
 
        🧨 IDENTITY -> DEATH-PAIN   ✅ TRUTH
 🧨 STABILITY -> SUFFERING ✅ BEAUTY
