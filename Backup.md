@@ -8904,14 +8904,15 @@ API User Authentication and Token Authentication -> https://www.youtube.com/watc
                   => https://www.youtube.com/watch?v=nGIg40xs9e4
                   => https://www.youtube.com/watch?v=EuBQU_miReM
 
+👉 7HRS  COURSE ===> https://youtu.be/PtQiiknWUcI?si=gL0E-J5YfdaZ5Xu8
+
 👉 COMPLETE COURSE => https://www.udemy.com/course/python-django-2021-complete-course/?referralCode=5EE78E30D7C468BF08F6&couponCode=25BBPMXNVD25CTRL
 
 👉 RESTFUL API 
 -> https://www.youtube.com/watch?v=cJveiktaOSQ
 API Design and Architecture - Backend Engineering -> https://www.youtube.com/watch?v=XvFmUE-36Kc
 Django REST API & Deployment -> https://www.youtube.com/watch?v=t-uAgI-AUxc
-Django REST API ->  https://www.youtube.com/watch?v=i5JykvxUk_A
-                
+Django REST API ->  https://www.youtube.com/watch?v=i5JykvxUk_A             
 ```
 
 
