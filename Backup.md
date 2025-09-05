@@ -173,7 +173,7 @@ MUSIC ROUTINE| STRUCTURE
               @✅ WITHIN SCOPE
               @✅ INFINITY
 -----------------------------------------------------
-              INTELLIGENCE <---> AWARENESS ✅ ✅ ✅
+              INTELLIGENCE <------> AWARENESS ✅ ✅ ✅
               TIME <---WAY---> PATIENCE/ACTION ✅ ✅ ✅             
 -----------------------------------------------------
 ✅ THEATRE OF WILLS[SPIRITS,MINDS,BODIES] ===> Master Timing, Illusion, Restraint
@@ -8931,7 +8931,7 @@ Effect changes:            python3 manage.py makemigrations
                            python3 manage.py migrate
  
 
-
+python3 manage.py collectstatic
 python3 manage.py runserver
 ```
 
