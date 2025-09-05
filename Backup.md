@@ -8896,6 +8896,10 @@ API User Authentication and Token Authentication -> https://www.youtube.com/watc
 # DJANGO
 
 ```
+🌀 Corey Schafer
+🌀 Traversy Media
+🌀 CodingEntrepreneurs
+
 👉 CRASH COURSE   =>  https://www.youtube.com/watch?v=0sMtoedWaf0
                   => https://www.youtube.com/watch?v=nGIg40xs9e4
                   => https://www.youtube.com/watch?v=EuBQU_miReM
