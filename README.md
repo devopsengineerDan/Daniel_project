@@ -29,8 +29,8 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
    ---> Deployment on Kubernetes
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✅ REAL PROJECTS
-9. PROJECTS ===> Email
-            ===> News Letter
+9. PROJECTS ===> Email -> https://www.youtube.com/watch?v=xNqnHmXIuzU
+            ===> News Letter -> https://youtu.be/hWtlskOaFNI?si=WNMXDlQ6sq1BTKM8
             ------------------------------------
             ===> INTERNET
             ===> LOANS
