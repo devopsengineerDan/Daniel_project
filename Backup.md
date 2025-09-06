@@ -9131,6 +9131,8 @@ Werkzeug==1.0.1
 
 -------------------------------
 
+![title](static/img/API.png)
+
 # APIS
 
 ```
@@ -9172,9 +9174,10 @@ Consume API
 
 
 CREATE API
-views.py                                                 serializers.py                                models.py
-1. gets data from model                                  1. gets data from model                       1. creates python object mapper used to store data similar to sql
-2. serializes data from serializers
+views.py                                                 (deserializers.py)                                  models.py
+1. gets data from model                                  1. gets cache data from model                       1. creates python object mapper used to store data similar to sql
+2. (serializers.py)                                         to be executed in the application   
+   serializes data to transmit it as cache
 3. return json
 
 
