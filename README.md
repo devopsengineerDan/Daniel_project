@@ -32,7 +32,7 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 9. PROJECTS ===> Email -> https://www.youtube.com/watch?v=xNqnHmXIuzU
             ===> News Letter -> https://youtu.be/hWtlskOaFNI?si=WNMXDlQ6sq1BTKM8
             ------------------------------------
-            ===> INTERNET
+            ===> INTERNET/NETWORK ENGINEER
             ===> LOANS
             ===> TRANSACTIONS
             ===> E-COMMERCE
@@ -53,9 +53,10 @@ ACCOUNT MANAGER
                                   RISK AND COMPLIANCE MANAGER
                                   ACCOUNT MANAGER
                                   -------------------------------
+                                  CYBERSECURITY ENGINEER
                                   [Software Engineer]
                                   API ENGINEER
-                                  DATA ENGINEER
+                                  AI/QUANTUM/DATA ENGINEER
                                   DEVOPS SYSTEMS ENGINEER
       ******************************************************************************
                                   ASSET MANAGER
