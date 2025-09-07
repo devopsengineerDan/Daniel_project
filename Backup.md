@@ -113,7 +113,9 @@ Master's  
                                        ✅ OWN && BE NATURAL
                                        ✅ DECIDE && BE NEUTRAL
 
-KNOW|DO NOT FORGET---FORGIVE|VACUUM|DETAILS
+---> KNOW|DO NOT FORGET  => SECURITY -THREAT---DECEIVE 
+---> FORGIVE|VACUUM      => KARMA    -BLACKMAIL---ILLUSION
+---> DETAILS             => REACTIVE -INTIMIDATION---BETRAYED
 ✅ ESSENCE|DEUS|ZEUS => KNOW
 ✅ FAITH|EQUILIBRIUM => KING|QUEEN       = CARE        - Greed/Obvious    -DOPAMINE      -GOLD/MONEY  -ARMY
 ✅ POWER|VACUUM      => NOTHING/FORGIVE  = DISCIPLINE  - Fear/Petty       -EMPATHY/FEAR  -WOMAN       -PROSTITUTE
@@ -178,9 +180,9 @@ MUSIC ROUTINE| STRUCTURE
               TIME <---WAY---> PATIENCE/ACTION ✅ ✅ ✅             
 -----------------------------------------------------
 ✅ THEATRE OF WILLS[SPIRITS,MINDS,BODIES] ===> Master Timing, Illusion, Restraint
-HOPE(Obedient) ---> Safety - Ambition 
+HOPE(Obedient) ---> Safety - Ambition -> Fire is in Truth/life
 FEAR(Submit) ---> Illusion - Clarity
-HABIT(Predictable) ---> Comfort - Truth
+HABIT(Predictable) ---> Comfort - Reality -> Fire is in Justice/Material
 -----------------------------------------------------
 ✅ SECURITY -> [DEUS] && ADMIN WITH DISTRIBUTED ROLES
 
