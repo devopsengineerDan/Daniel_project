@@ -114,9 +114,9 @@ Master's  
                                        ✅ DECIDE && BE NEUTRAL
 
 
-🧨 A ---> KNOW|DO NOT FORGET  => SECURITY -THREAT---DECEIVE        -> NECESSITY
-🧨 I ---> FORGIVE|VACUUM      => KARMA    -BLACKMAIL---ILLUSION    -> WANT
-🧨 C ---> DUALITY DETAILS     => REACTIVE -INTIMIDATION---BETRAYED -> NEED
+🧨 A ---> KNOW|DO NOT FORGET  => SECURITY -THREAT---DECEIVE        -> NECESSITY - FAVOUR
+🧨 I ---> FORGIVE|VACUUM      => KARMA    -BLACKMAIL---ILLUSION    -> WANT      - GRACE
+🧨 C ---> DUALITY DETAILS     => REACTIVE -INTIMIDATION---BETRAYED -> NEED      - MERCY
 ✅ ESSENCE|DEUS|ZEUS => KNOW
 ✅ FAITH|EQUILIBRIUM => KING|QUEEN       = CARE        - Greed/Obvious    -DOPAMINE      -GOLD/MONEY  -ARMY
 ✅ POWER|VACUUM      => NOTHING/FORGIVE  = DISCIPLINE  - Fear/Petty       -EMPATHY/FEAR  -WOMAN       -PROSTITUTE
@@ -7258,7 +7258,6 @@ EXEC sp_executesql @query, N'@name NVARCHAR(50)', @name = 'Khushi';
 ```
 
 
-
 ```
 👉 APIS BEST PRACTICE
 
@@ -10056,6 +10055,9 @@ INFINITY
                                 GRAPH
                                 INFINITY
 ```
+
+# 🎯 PROBABILITY
+![title](static/img/probability.jpg)
 
 ```
 👉 RUN PYTHON ON TERMINAL
