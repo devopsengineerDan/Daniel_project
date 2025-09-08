@@ -113,13 +113,15 @@ Master's  
                                        ✅ OWN && BE NATURAL
                                        ✅ DECIDE && BE NEUTRAL
 
----> KNOW|DO NOT FORGET  => SECURITY -THREAT---DECEIVE 
----> FORGIVE|VACUUM      => KARMA    -BLACKMAIL---ILLUSION
----> DUALITY DETAILS     => REACTIVE -INTIMIDATION---BETRAYED
+
+🧨 A ---> KNOW|DO NOT FORGET  => SECURITY -THREAT---DECEIVE        -> NECESSITY
+🧨 I ---> FORGIVE|VACUUM      => KARMA    -BLACKMAIL---ILLUSION    -> WANT
+🧨 C ---> DUALITY DETAILS     => REACTIVE -INTIMIDATION---BETRAYED -> NEED
 ✅ ESSENCE|DEUS|ZEUS => KNOW
 ✅ FAITH|EQUILIBRIUM => KING|QUEEN       = CARE        - Greed/Obvious    -DOPAMINE      -GOLD/MONEY  -ARMY
 ✅ POWER|VACUUM      => NOTHING/FORGIVE  = DISCIPLINE  - Fear/Petty       -EMPATHY/FEAR  -WOMAN       -PROSTITUTE
 ✅ GREATNESS|LOGIC   => DUALITY          = JUSTICE     - Hate/Stingy      -INSTINCT      -PROPERTY    -ROBBER
+
 
        🧨 IDENTITY -> DEATH-PAIN   ✅ TRUTH
 🧨 STABILITY -> SUFFERING ✅ BEAUTY
@@ -6918,8 +6920,8 @@ DJANGO CPANEL -> https://www.youtube.com/watch?v=dJWVL15Jpws
 👉👉👉 How to create a subdomain in Cpanel ====> https://www.youtube.com/watch?v=Xcw-I3kjhn4
 👉👉👉 CPANEL BY Cochin Web Host Complete Tutorial in 21 Minutes ====> https://www.youtube.com/watch?v=ITK2g_KV_JY
 ********************************************************************************************************
-******* 👉CPANEL Create Your Company Emails -> https://www.youtube.com/watch?v=R66pAKlD0w0&t=20s
-******* 👉Read/Respond To Email via WEBMAIL in ROUNDCUBE
+******* 👉 CPANEL Create Your Company Emails -> https://www.youtube.com/watch?v=R66pAKlD0w0&t=20s
+******* 👉 Read/Respond To Email via WEBMAIL in ROUNDCUBE
 --------------------------------------------------------------------------------------------------------------------------------------
 ✅ NAMECHEAP
 👉👉👉 NAMECHEAP CREATE DOMAIN ====> https://www.youtube.com/watch?v=p1QU3kLFPdg
@@ -8868,20 +8870,34 @@ FORM SUBMIT  ===> use random email ,CC, _captcha [To secure from Malicious Bots 
 🌀 Corey -> Django and Flask Develomepment + DEPLOYMENT -> https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p
 🌀 Caleb -> Django and Flask Develomepment + Restful API  -> https://www.youtube.com/watch?v=EuBQU_miReM
 🌀 Code with Tomi -> Django and fastAPI -> https://www.youtube.com/watch?v=pRNhdI9PVmg
-
+🌀 Corey Schafer
+🌀 Traversy Media
+🌀 CodingEntrepreneurs
+🌀 Tech with Tim
 
 
 🌀 =================> *****************         ZUPLO API MANAGEMENT                 *****************
 
+👉 DJANGO => https://www.youtube.com/watch?v=EuBQU_miReM
+👉 7HRS DJANGO COURSE ===> https://youtu.be/PtQiiknWUcI?si=gL0E-J5YfdaZ5Xu8
+👉 DJANGO TODO APP ===> https://www.youtube.com/watch?v=llbtoQTt4qw
+👉 DJANGO COMPLETE COURSE => https://www.udemy.com/course/python-django-2021-complete-course/?referralCode=5EE78E30D7C468BF08F6&couponCode=25BBPMXNVD25CTRL
 
 
+👉 [API Fundamentals]
+-> https://www.youtube.com/watch?v=cJveiktaOSQ
+API Design and Architecture - Backend Engineering -> https://www.youtube.com/watch?v=XvFmUE-36Kc
+DJANGO REST API & Deployment -> https://www.youtube.com/watch?v=t-uAgI-AUxc
+DJANGO REST API ->  https://www.youtube.com/watch?v=i5JykvxUk_A
+FLASK REST API -> https://www.youtube.com/watch?v=qbLc5a9jdXo
+
+👉 [API Details]
 API WRAPPER Basics -> https://www.youtube.com/watch?v=Wp08QedI1ig
 API WRAPPER Detailed -> https://www.youtube.com/watch?v=ZCu2QMgXcKI
-
-
-
-API Key Authorization Postman -> https://www.youtube.com/watch?v=fjv3qfIDW6Y
 API Key Authentication Best Practices -> https://www.youtube.com/watch?v=ooyOmiczY1g
+
+👉 POSTMAN
+API Key Authorization Postman -> https://www.youtube.com/watch?v=fjv3qfIDW6Y
 API User Authentication and Token Authentication -> https://www.youtube.com/watch?v=5GxQ1rLTwaU
 ```
 
@@ -8889,33 +8905,10 @@ API User Authentication and Token Authentication -> https://www.youtube.com/watc
 ```
 👉 CRASH COURSES
 
--> Check the link https://github.com/devopsengineerDan/python-projects/tree/master/webapps
--> Check the youtube link https://www.youtube.com/watch?v=3vfum74ggHE
-
-👉 API WRAPPER => https://www.youtube.com/watch?v=ZCu2QMgXcKI
-```
-
-
-# DJANGO
-
-```
-🌀 Corey Schafer
-🌀 Traversy Media
-🌀 CodingEntrepreneurs
-
+👉 DJANGO, FLASK, FASTAPI =>  https://www.youtube.com/watch?v=3vfum74ggHE
 👉 CRASH COURSE   =>  https://www.youtube.com/watch?v=0sMtoedWaf0
                   => https://www.youtube.com/watch?v=nGIg40xs9e4
                   => https://www.youtube.com/watch?v=EuBQU_miReM
-
-👉 7HRS  COURSE ===> https://youtu.be/PtQiiknWUcI?si=gL0E-J5YfdaZ5Xu8
-
-👉 COMPLETE COURSE => https://www.udemy.com/course/python-django-2021-complete-course/?referralCode=5EE78E30D7C468BF08F6&couponCode=25BBPMXNVD25CTRL
-
-👉 RESTFUL API 
--> https://www.youtube.com/watch?v=cJveiktaOSQ
-API Design and Architecture - Backend Engineering -> https://www.youtube.com/watch?v=XvFmUE-36Kc
-Django REST API & Deployment -> https://www.youtube.com/watch?v=t-uAgI-AUxc
-Django REST API ->  https://www.youtube.com/watch?v=i5JykvxUk_A             
 ```
 
 
