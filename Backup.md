@@ -113,14 +113,14 @@ Master's  
                                        ✅ OWN && BE NATURAL
                                        ✅ DECIDE && BE NEUTRAL
 
-
-🧨 A ---> KNOW|DO NOT FORGET  => SECURITY -THREAT---DECEIVE        -> NECESSITY - FAVOUR
-🧨 I ---> FORGIVE|VACUUM      => KARMA    -BLACKMAIL---ILLUSION    -> WANT      - GRACE
-🧨 C ---> DUALITY DETAILS     => REACTIVE -INTIMIDATION---BETRAYED -> NEED      - MERCY
+                                                                                       🧨 DO NOT
+🧨 A ---> KNOW|DO NOT FORGET  => SECURITY -THREAT---DECEIVE        -> NECESSITY        🧨CHASE  - FAVOUR
+🧨 I ---> FORGIVE|VACUUM      => KARMA    -BLACKMAIL---ILLUSION    -> WANT[CONDITIONS] 🧨RUSH   - GRACE
+🧨 C ---> DUALITY DETAILS     => REACTIVE -INTIMIDATION---BETRAYED -> NEED             🧨FORCE  - MERCY
 ✅ ESSENCE|DEUS|ZEUS => KNOW
-✅ FAITH|EQUILIBRIUM => KING|QUEEN       = CARE        - Greed/Obvious    -DOPAMINE      -GOLD/MONEY  -ARMY
-✅ POWER|VACUUM      => NOTHING/FORGIVE  = DISCIPLINE  - Fear/Petty       -EMPATHY/FEAR  -WOMAN       -PROSTITUTE
-✅ GREATNESS|LOGIC   => DUALITY          = JUSTICE     - Hate/Stingy      -INSTINCT      -PROPERTY    -ROBBER
+✅ FAITH|EQUILIBRIUM => KING|QUEEN       = CARE        🧨 Greed/Obvious    -DOPAMINE      -GOLD/MONEY  -ARMY
+✅ POWER|VACUUM      => NOTHING/FORGIVE  = DISCIPLINE  🧨 Fear/Petty       -EMPATHY/FEAR  -WOMAN       -PROSTITUTE
+✅ GREATNESS|LOGIC   => DUALITY          = JUSTICE     🧨 Hate/Stingy      -INSTINCT      -PROPERTY    -ROBBER
 
 
        🧨 IDENTITY -> DEATH-PAIN   ✅ TRUTH
