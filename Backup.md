@@ -8930,6 +8930,9 @@ $python3 manage.py runserver
 ======
 $ python3 manage.py createsuperuser 
 ======
+python manage.py flush ===> Erase all data in database
+python manage.py createsuperuser
+python manage.py drf_create_token <user-name> ===> Generate API Token
 ```
 
 
