@@ -8888,6 +8888,10 @@ FORM SUBMIT  ===> use random email ,CC, _captcha [To secure from Malicious Bots 
 API Design and Architecture - Backend Engineering -> https://www.youtube.com/watch?v=XvFmUE-36Kc
 DJANGO REST API & Deployment -> https://www.youtube.com/watch?v=t-uAgI-AUxc
 DJANGO REST API ->  https://www.youtube.com/watch?v=i5JykvxUk_A
+--------------------------
+Example of Create API + Test API Key using Postman
+👉 GENERATE API  TOKEN ==> DJANGO  ===> https://www.youtube.com/watch?v=wv8b3tzShq4
+--------------------------
 FLASK REST API -> https://www.youtube.com/watch?v=qbLc5a9jdXo
 
 👉 [API Details]
@@ -8905,9 +8909,10 @@ API User Authentication and Token Authentication -> https://www.youtube.com/watc
 👉 CRASH COURSES
 
 👉 DJANGO, FLASK, FASTAPI =>  https://www.youtube.com/watch?v=3vfum74ggHE
-👉 CRASH COURSE   =>  https://www.youtube.com/watch?v=0sMtoedWaf0
-                  => https://www.youtube.com/watch?v=nGIg40xs9e4
-                  => https://www.youtube.com/watch?v=EuBQU_miReM
+
+👉 DJANGO CRASH COURSE   =>  https://www.youtube.com/watch?v=0sMtoedWaf0
+                         => https://www.youtube.com/watch?v=nGIg40xs9e4
+                         => https://www.youtube.com/watch?v=EuBQU_miReM
 ```
 
 
@@ -9174,15 +9179,6 @@ views.py                                                 (deserializers.py)     
 2. (serializers.py)                                         to be executed in the application   
    serializes data to transmit it as cache
 3. return json
-
-
-
-
---------------------------
-Example of Create API + Test API Key using Postman
-GENERATE API  TOKEN ==> DJANGO  ===> https://www.youtube.com/watch?v=wv8b3tzShq4
---------------------------
-
 ```
 
 
