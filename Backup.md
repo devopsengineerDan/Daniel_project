@@ -117,7 +117,7 @@ Master's  
 🧨 A ---> KNOW|DO NOT FORGET  => SECURITY -THREAT---DECEIVE        -> NECESSITY        🧨CHASE  - FAVOUR
 🧨 I ---> FORGIVE|VACUUM      => KARMA    -BLACKMAIL---ILLUSION    -> WANT[CONDITIONS] 🧨RUSH   - GRACE
 🧨 C ---> DUALITY DETAILS     => REACTIVE -INTIMIDATION---BETRAYED -> NEED             🧨FORCE  - MERCY
-✅ ESSENCE|DEUS|ZEUS => KNOW
+✅ ESSENCE|DEUS|ZEUS => KNOW                           🧨 SECURITY
 ✅ FAITH|EQUILIBRIUM => KING|QUEEN       = CARE        🧨 Greed/Obvious    -DOPAMINE      -GOLD/MONEY  -ARMY
 ✅ POWER|VACUUM      => NOTHING/FORGIVE  = DISCIPLINE  🧨 Fear/Petty       -EMPATHY/FEAR  -WOMAN       -PROSTITUTE
 ✅ GREATNESS|LOGIC   => DUALITY          = JUSTICE     🧨 Hate/Stingy      -INSTINCT      -PROPERTY    -ROBBER
