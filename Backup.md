@@ -13094,9 +13094,12 @@ VIDEOS + 2GIT + Printing + (Block Chain & Datastructures Summary Table)
 
 10hrs Cybersecurity-> https://www.youtube.com/watch?v=JcaYwZ5fqjU 
 
+
+🚀 TOOLS
 Ethical Hacking in 15 Hours - 2023 Edition - Learn to Hack! (Part 1) -> https://www.youtube.com/watch?v=3FNYvj2U0HM
 Ethical Hacking in 15 Hours - 2023 Edition - Learn to Hack! (Part 2) -> https://www.youtube.com/watch?v=sH4JCwjybGs
 
+🚀 CODE
 PwnFunction 
 [Web Security]
 Open Redirect Vulnerability Explained -> https://www.youtube.com/watch?v=4Jk_I-cw4WE&list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ
@@ -13117,6 +13120,8 @@ Why you should Close Your Files | bin 0x02 -> https://www.youtube.com/watch?v=6S
 Dangerous Code Hidden in Plain Sight for 12 years -> https://www.youtube.com/watch?v=eTcVLqKpZJc&list=PLI_rLWXMqpSkAYfar0HRA7lykydwmRY_2&index=4
 
 
+🚀 CODE
+ 9. B. Red Team Scripts process injection-stack overflow-heap overflow.zip
 
 
 
@@ -13127,13 +13132,13 @@ Dangerous Code Hidden in Plain Sight for 12 years -> https://www.youtube.com/wat
 
 
 
-
+🚀 TOOLS
 ==================================================> Further: Hackersploit (BLUE AND RED TEAM)
 
 
 
 
-
+🚀 NETWORK ANALYSIS
 ==================================================> 1ST FREE TIME Network Security Videos
 
 
