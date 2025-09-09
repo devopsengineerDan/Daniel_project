@@ -26,10 +26,17 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 ✅ DATA PIPELINES
 7. Fringe Recurrent Neural Network
 8. ---> Data Pipelines 1 & 2
-   ---> Deployment on Kubernetes
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+   ---> 
+
+9.* => DATA PIPELINE
+1)Python Data Cleaning        ===> https://github.com/devopsengineerDan/data-cleaning-python
+2)Pyspark Tool                ===> https://github.com/devopsengineerDan/pyspark-ETL-project-and-airflow-Data-pipeline
+3)ML Pipeline part 1 and 2    ===> https://devopsengineerdan.github.io/  My blog name devopsengineerdan which is dev Repository/alexloannides blog  
+4)Deployment on Kubernetes    ===> https://devopsengineerdan.github.io/  My blog name devopsengineerdan which is dev Repository/alexloannides blog 
+
+---------------------  ---------------------------------------------------------------------------------------------------------------------------------------
 ✅ REAL PROJECTS
-9. PROJECTS ===> Email -> https://www.youtube.com/watch?v=xNqnHmXIuzU
+9.* PROJECTS ===> Email -> https://www.youtube.com/watch?v=xNqnHmXIuzU
             ===> News Letter -> https://youtu.be/hWtlskOaFNI?si=WNMXDlQ6sq1BTKM8
             ------------------------------------
             ===> INTERNET/NETWORK ENGINEER
