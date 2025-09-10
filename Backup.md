@@ -8902,6 +8902,14 @@ API Key Authentication Best Practices -> https://www.youtube.com/watch?v=ooyOmic
 👉 POSTMAN
 API Key Authorization Postman -> https://www.youtube.com/watch?v=fjv3qfIDW6Y
 API User Authentication and Token Authentication -> https://www.youtube.com/watch?v=5GxQ1rLTwaU
+
+=============================================================================================================================================================================
+
+👉 GRAPHQL API
+1. GraphQL with Django - Intro, Install and first query ===> https://www.youtube.com/watch?v=kP7wQoFXUSc
+2. GraphQL Queries with Django - Introducing GraphQL Queries ===> https://www.youtube.com/watch?v=unz3RgL9A-Y
+3. GraphQL CRUD with Django - Introducing CRUD operations ===> https://www.youtube.com/watch?v=3819x3b43Ok
+4. GraphQL User Registration and Authentication with JWT Backend ===> https://www.youtube.com/watch?v=pyV2_F9wlk8
 ```
 
 
