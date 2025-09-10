@@ -111,32 +111,44 @@ Master's  
                                        ✅ KNOW TO DETAIL (DEATH) (DOPAMINE) <---> CONNECT DOTS (FEAR) (REMORSE) <---> COMPETITIVE (OBTAIN) (DEATH)
                                           🧨 TIME                                 🧨 WAY                              🧨 ACTION
                                        ✅ OWN && BE NATURAL
-                                       ✅ DECIDE && BE NEUTRAL
+                                       ✅ DECIDE && BE NEUTRAL && BE KIND
 =====================================================================================================================================================
 
 LION
         BULL
 -------------
+🧨SECURITY
 LION
+        🧨ACHIEVEMENT
         BULL
+                         🧨KNOWLEDGE - SPEAK  ---> WHY
+                         🧨WISDOM - ALL 7 SENSES 
                          LION   ✅ FAVOUR
                          EAGLE
                          FOX
+       🧨BEAUTY ---> HOW
        DOG  ✅ GRACE
        BEAR
+                         🧨 KNOWLEDGE - ACTION  ---> WHAT
+                         🧨JUSTICE 
                          LION  ✅ MERCY
 
-----------------------------------------------
-
-                               ✅ NAIVE
-            ✅ FOOLISH
-            ✅ RETARD
-                               ✅ IGNORANCE/STUPID                
+--------------------------------------------------------------
+                        LACK OF KNOWLEDGE
+                        LACK OF WISDOM
+                        🧨DISTRACTION    
+                        🧨UNDECIDED ✅ NAIVE    ---> UNDECIDED
+                        
+       🧨KARMA ✅ FOOLISH ---> FEAR
+       🧨CHAOS ✅ RETARD
+                        LACK OF KNOWLEDGE       ---> DIVISION
+                        🧨HATE      ✅ IGNORANCE/STUPID
+                        🧨OBTAIN/STINGY              
 =====================================================================================================================================================
-                                                                                       🧨 DO NOT
-🧨 A ---> KNOW|DO NOT FORGET  => SECURITY -THREAT---DECEIVE        -> NECESSITY        🧨CHASE  - FAVOUR
-🧨 I ---> FORGIVE|VACUUM      => KARMA    -BLACKMAIL---ILLUSION    -> WANT[CONDITIONS] 🧨RUSH   - GRACE
-🧨 C ---> DUALITY DETAILS     => REACTIVE -INTIMIDATION---BETRAYED -> NEED             🧨FORCE  - MERCY
+                                                                                         🧨 DO NOT
+🧨 A ---> KNOW|DO NOT FORGET  => SECURITY -🧨THREAT---DECEIVE        -> NECESSITY        🧨CHASE  - FAVOUR
+🧨 I ---> FORGIVE|VACUUM      => KARMA    -🧨BLACKMAIL---ILLUSION    -> WANT[CONDITIONS] 🧨RUSH   - GRACE
+🧨 C ---> DUALITY DETAILS     => REACTIVE -🧨INTIMIDATION---BETRAYED -> NEED             🧨FORCE  - MERCY
 ✅ ESSENCE|DEUS|ZEUS => KNOW                           🧨 SECURITY
 ✅ FAITH|EQUILIBRIUM => KING|QUEEN       = CARE        🧨 Greed/Obvious    -DOPAMINE      -GOLD/MONEY  -ARMY
 ✅ POWER|VACUUM      => NOTHING/FORGIVE  = DISCIPLINE  🧨 Fear/Petty       -EMPATHY/FEAR  -WOMAN       -PROSTITUTE
