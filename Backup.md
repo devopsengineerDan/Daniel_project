@@ -8886,19 +8886,26 @@ FORM SUBMIT  ===> use random email ,CC, _captcha [To secure from Malicious Bots 
 👉 [API Fundamentals]
 -> https://www.youtube.com/watch?v=cJveiktaOSQ
 API Design and Architecture - Backend Engineering -> https://www.youtube.com/watch?v=XvFmUE-36Kc
+
+--------------------------
+👉 Python Django REST API ===> https://www.youtube.com/watch?v=NoLF7Dlu5mc
+--------------------------
+
 DJANGO REST API & Deployment -> https://www.youtube.com/watch?v=t-uAgI-AUxc
 DJANGO REST API ->  https://www.youtube.com/watch?v=i5JykvxUk_A
+
 --------------------------
 Example of Create API + Test API Key using Postman
 👉 GENERATE API  TOKEN ==> DJANGO  ===> https://www.youtube.com/watch?v=wv8b3tzShq4
 --------------------------
-FLASK REST API -> https://www.youtube.com/watch?v=qbLc5a9jdXo
 
+FLASK REST API -> https://www.youtube.com/watch?v=qbLc5a9jdXo
+#################################################################################################################
 👉 [API Details]
 API WRAPPER Basics -> https://www.youtube.com/watch?v=Wp08QedI1ig
 API WRAPPER Detailed -> https://www.youtube.com/watch?v=ZCu2QMgXcKI
 API Key Authentication Best Practices -> https://www.youtube.com/watch?v=ooyOmiczY1g
-
+#################################################################################################################
 👉 POSTMAN
 API Key Authorization Postman -> https://www.youtube.com/watch?v=fjv3qfIDW6Y
 API User Authentication and Token Authentication -> https://www.youtube.com/watch?v=5GxQ1rLTwaU
