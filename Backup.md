@@ -112,7 +112,27 @@ Master's  
                                           🧨 TIME                                 🧨 WAY                              🧨 ACTION
                                        ✅ OWN && BE NATURAL
                                        ✅ DECIDE && BE NEUTRAL
+=====================================================================================================================================================
 
+LION
+        BULL
+-------------
+LION
+        BULL
+                         LION   ✅ FAVOUR
+                         EAGLE
+                         FOX
+       DOG  ✅ GRACE
+       BEAR
+                         LION  ✅ MERCY
+
+----------------------------------------------
+
+                               ✅ NAIVE
+            ✅ FOOLISH
+            ✅ RETARD
+                               ✅ IGNORANCE/STUPID                
+=====================================================================================================================================================
                                                                                        🧨 DO NOT
 🧨 A ---> KNOW|DO NOT FORGET  => SECURITY -THREAT---DECEIVE        -> NECESSITY        🧨CHASE  - FAVOUR
 🧨 I ---> FORGIVE|VACUUM      => KARMA    -BLACKMAIL---ILLUSION    -> WANT[CONDITIONS] 🧨RUSH   - GRACE
