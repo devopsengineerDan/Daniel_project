@@ -113,23 +113,27 @@ Master's  
                                        ✅ OWN && BE NATURAL
                                        ✅ DECIDE && BE NEUTRAL && BE KIND
 =====================================================================================================================================================
-
-LION
-        BULL
--------------
-🧨SECURITY
+🧨SECURITY ---> 👉👉👉FIRE/SNAKE/LIFE
 LION
         🧨ACHIEVEMENT
         BULL
-                         🧨KNOWLEDGE - SPEAK  ---> WHY
+                👉 MILITARY
+                👉 COMPLEX 
+                👉 INDUSTRIAL 
+---------------------------------------
+🧨SECURITY ---> 👉👉👉FIRE/SNAKE/LIFE
+LION
+        🧨ACHIEVEMENT
+        BULL
+                         🧨KNOWLEDGE - SPEAK  👉---> WHY ---> MEASURE/REGULATE
                          🧨WISDOM - ALL 7 SENSES 
                          LION   ✅ FAVOUR
                          EAGLE
                          FOX
-       🧨BEAUTY ---> HOW
+       🧨BEAUTY 👉---> HOW ---> COMPLIANCE
        DOG  ✅ GRACE
        BEAR
-                         🧨 KNOWLEDGE - ACTION  ---> WHAT
+                         🧨 KNOWLEDGE - ACTION  👉---> WHAT ---> INTEGRITY
                          🧨JUSTICE 
                          LION  ✅ MERCY
 
@@ -137,11 +141,11 @@ LION
                         LACK OF KNOWLEDGE
                         LACK OF WISDOM
                         🧨DISTRACTION    
-                        🧨UNDECIDED ✅ NAIVE    ---> UNDECIDED
+                        🧨UNDECIDED ✅ NAIVE    👉---> UNDECIDED
                         
-       🧨KARMA ✅ FOOLISH ---> FEAR
+       🧨KARMA ✅ FOOLISH 👉---> FEAR
        🧨CHAOS ✅ RETARD
-                        LACK OF KNOWLEDGE       ---> DIVISION
+                        LACK OF KNOWLEDGE       👉---> DIVISION ---> 👉👉👉FIRE/SNAKE/MATERIALISM
                         🧨HATE      ✅ IGNORANCE/STUPID
                         🧨OBTAIN/STINGY              
 =====================================================================================================================================================
