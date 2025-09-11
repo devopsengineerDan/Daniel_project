@@ -94,7 +94,7 @@ Master's  
 
 
 
-# LIFE 
+# LIFE  AND NATURE [PARALLEL]
 # ACADEMICIAN AND SCHOLAR [FATHER, MENTOR, TEACHER]
 
 ![title](static/img/LIFE.jpg)
@@ -208,9 +208,12 @@ MUSIC ROUTINE| STRUCTURE
               🧨 BELIEF
               @✅ WITHIN SCOPE
               @✅ INFINITY
+
+      👉 FEEL ALL SENSES
 🧨 PERCEPTION
 @✅ WITHIN SCOPE
 @✅ INFINITY
+
               🧨 EXPERIENCE ✅ ✅ ✅
               @✅ WITHIN SCOPE
               @✅ INFINITY
@@ -223,11 +226,11 @@ HOPE(Obedient) ---> Safety - Ambition -> Fire is in Truth/life
 FEAR(Submit) ---> Illusion - Clarity
 HABIT(Predictable) ---> Comfort - Reality -> Fire is in Justice/Material
 -----------------------------------------------------
-✅ SECURITY -> [DEUS] && ADMIN WITH DISTRIBUTED ROLES
+✅ SECURITY -> [DEUS|ZEUS] && ADMIN WITH DISTRIBUTED ROLES
 
                              ✅ OBSERVER -> [OBJECTIVE] && ADMIN WITH DISTRIBUTED ROLES
 
-               ✅ [EQUILIBRIUM] && ADMIN WITH DISTRIBUTED ROLES
+               ✅ [EQUILIBRIUM/NEUTRAL] && ADMIN WITH DISTRIBUTED ROLES
           
 ✅ INTERFACE -> [INVOLUNTARY VACUUM] && ADMIN WITH DISTRIBUTED ROLES
 
