@@ -95,7 +95,7 @@ Master's  
 
 
 # LIFE 
-### ACADEMICIAN AND SCHOLAR
+# ACADEMICIAN AND SCHOLAR [FATHER, MENTOR, TEACHER]
 
 ![title](static/img/LIFE.jpg)
 ![title](static/img/Data_Engineering_to_Cybersecurity.jpg)
