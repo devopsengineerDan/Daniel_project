@@ -7136,8 +7136,8 @@ BEST PRACTICE + (clippy -> TESTING)
 ```
 👉👉👉 SAFE MODE
 👉👉👉 DEBUG MODE
-👉👉👉 PERFORMANCE
-👉👉👉 STABILITY (BACKWARD-COMPATIBILITY)
+👉👉👉 PERFORMANCE MODE
+👉👉👉 STABILITY (BACKWARD-COMPATIBILITY) ---> INTERPRETER/COMPILER EDITION
 ```
 
 
@@ -9248,6 +9248,10 @@ views.py                                                 (deserializers.py)     
 1. gets data from model                                  1. gets cache data from model                       1. creates python object mapper used to store data similar to sql
 2. (serializers.py)                                         to be executed in the application   
    serializes data to transmit it as cache
+------------------------------------------------------
+👉 Serialize data because response objects cannot natively
+handle complex data types like Django/Flask models instances.
+------------------------------------------------------
 3. return json
 ```
 
