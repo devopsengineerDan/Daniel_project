@@ -113,7 +113,15 @@ Master's  
                                           🧨 TIME                                 🧨 WAY                              🧨 ACTION
                                        ✅ OWN && BE NATURAL
                                        ✅ DECIDE && BE NEUTRAL && BE KIND
+
 =====================================================================================================================================================
+
+                                                      👉 KNOW
+                            👉 CONNECT THE DOTS
+                            ✅ 2 TYPES OF FREE/LIBERAL
+                                                      👉 ACCEPT
+----------------------------------------------------------------------------------------------------------------------------
+
 🧨SECURITY ---> 👉👉👉FIRE/SNAKE/LIFE
 LION
         🧨ACHIEVEMENT
@@ -138,17 +146,20 @@ LION
                          🧨JUSTICE 
                          LION  ✅ MERCY
 
---------------------------------------------------------------
-                        LACK OF KNOWLEDGE
-                        LACK OF WISDOM
+----------------------------------------------------------------------------------------------------------------------------
+
+                        LITTLE OF KNOWLEDGE
+                        LITTLE OF WISDOM
                         🧨DISTRACTION    
                         🧨UNDECIDED ✅ NAIVE    👉---> UNDECIDED
                         
        🧨KARMA ✅ FOOLISH 👉---> FEAR
        🧨CHAOS ✅ RETARD
-                        LACK OF KNOWLEDGE       👉---> DIVISION ---> 👉👉👉FIRE/SNAKE/MATERIALISM
+                        LACK OF KNOWLEDGE
+                        LACK OF WISDOM          👉---> DIVISION ---> 👉👉👉FIRE/SNAKE/MATERIALISM
                         🧨HATE      ✅ IGNORANCE/STUPID
-                        🧨OBTAIN/STINGY              
+                        🧨OBTAIN/STINGY
+
 =====================================================================================================================================================
                                                                                                🧨 DO NOT
 🧨 A ---> KNOW|DO NOT FORGET  => SECURITY -🧨THREAT---DECEIVE        -> NECESSITY              🧨CHASE  - FAVOUR
