@@ -120,7 +120,8 @@ Master's  
                                                       👉 OBSERVATION
                                                   🧨 QUESTION
 
-                                       👉 FEEL ALL SENSES  
+                                       👉 FEEL ALL SENSES
+                                  👉 PERCEPTION
                             👉 CONNECT THE DOTS
                                     🧨 IDENTIFY
                                     🧨 REVIEW   
