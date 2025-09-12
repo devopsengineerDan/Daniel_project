@@ -123,8 +123,10 @@ Master's  
                                     🧨 IDENTIFY
                                     🧨 REVIEW   
                             ✅ 2 TYPES OF FREE/LIBERAL
+
                                                       👉 ACCEPT
                                                   🧨 ACTION
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 🧨SECURITY ---> 👉👉👉FIRE/SNAKE/LIFE
