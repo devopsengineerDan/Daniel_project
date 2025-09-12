@@ -9233,20 +9233,24 @@ POST ====> Information is attached to the Request Body
 
 
 
-API
+👉 API [Vanilla/Plain API] ---> SERVER
+👉 API WRAPPER             ---> SERVER
+👉 API SCRAPER             ---> CLIENT
 
 ====> ADVANCE
+👉 CLIENT                                           👉 SERVER
 Create API + Test API Key using Postman         Create API + Test API Key using Postman
 Consume API Wrapper                                 Create API Wrapper
 Consume API                                         Consume API
 
 ====> INTERMEDIATE
+👉 CLIENT                                           👉 SERVER
 Create API                                          Consume API
 Consume API
 
 
 
-CREATE API
+👉 CLIENT                                           👉 SERVER
 views.py                                                 (deserializers.py)                                  models.py
 1. gets data from model                                  1. gets cache data from model                       1. creates python object mapper used to store data similar to sql
 2. (serializers.py)                                         to be executed in the application   
