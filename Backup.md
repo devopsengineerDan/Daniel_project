@@ -8953,15 +8953,16 @@ API Design and Architecture - Backend Engineering -> https://www.youtube.com/wat
 👉 Python Django REST API ===> https://www.youtube.com/watch?v=NoLF7Dlu5mc
 --------------------------
 
-DJANGO REST API & Deployment -> https://www.youtube.com/watch?v=t-uAgI-AUxc
-DJANGO REST API ->  https://www.youtube.com/watch?v=i5JykvxUk_A
+DJANGO REST API & Deployment 1 -> https://www.youtube.com/watch?v=t-uAgI-AUxc
+DJANGO REST API 2 ->  https://www.youtube.com/watch?v=i5JykvxUk_A
 
 --------------------------
 Example of Create API + Test API Key using Postman
 👉 GENERATE API  TOKEN ==> DJANGO  ===> https://www.youtube.com/watch?v=wv8b3tzShq4
 --------------------------
 
-FLASK REST API -> https://www.youtube.com/watch?v=qbLc5a9jdXo
+FLASK REST API 1 -> https://www.youtube.com/watch?v=qbLc5a9jdXo
+FLASK REST API 2 -> https://www.youtube.com/watch?v=GMppyAPbLYk
 #################################################################################################################
 👉 [API Details]
 API WRAPPER Basics -> https://www.youtube.com/watch?v=Wp08QedI1ig
