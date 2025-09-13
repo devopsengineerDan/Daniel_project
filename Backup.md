@@ -13213,7 +13213,8 @@ Why you should Close Your Files | bin 0x02 -> https://www.youtube.com/watch?v=6S
 Dangerous Code Hidden in Plain Sight for 12 years -> https://www.youtube.com/watch?v=eTcVLqKpZJc&list=PLI_rLWXMqpSkAYfar0HRA7lykydwmRY_2&index=4
 
 
-🚀 CODE
+🚀 CODE -> COMPUTER SCIENCE[MEMORY MANAGEMENT]
+
  9. B. Red Team Scripts process injection-stack overflow-heap overflow.zip
 
 
