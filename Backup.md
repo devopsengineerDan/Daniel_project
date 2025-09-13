@@ -128,7 +128,17 @@ Master's  
                             ✅ 2 TYPES OF FREE/LIBERAL
 
                                                       👉 ACCEPT
-                                                  🧨 ACTION/GAIN ---> DEATH
+                                                  🧨 ACTION/GAIN ---> 🧨🧨🧨 DEATH
+                          ========================================================
+                                                      👉 IDENTITY
+                                                 👉 STABILITY
+                                                      👉 TRADITION
+                          ========================================================
+                                                         🧨 KARMA
+                                                         ===> GAIN MORE
+                                                         ===> GIVE LITTLE
+                                                         ===> WORK
+                                               🧨 KIND
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -172,13 +182,13 @@ LION
 
 =====================================================================================================================================================
                                                                                                🧨 DO NOT
-🧨 A ---> KNOW|DO NOT FORGET  => SECURITY -🧨THREAT---DECEIVE        -> NECESSITY              🧨CHASE  - FAVOUR
-🧨 I ---> FORGIVE|VACUUM      => KARMA    -🧨BLACKMAIL---ILLUSION    -> WANT[DRUGS/CONDITIONS] 🧨RUSH   - GRACE
-🧨 C ---> DUALITY DETAILS     => REACTIVE -🧨INTIMIDATION---BETRAYED -> NEED                   🧨FORCE  - MERCY
+🧨 A ---> KNOW|DO NOT FORGET  => SECURITY -🧨THREAT---DECEIVE        👉 NECESSITY              🧨CHASE  - FAVOUR
+🧨 I ---> FORGIVE|VACUUM      => KARMA    -🧨BLACKMAIL---ILLUSION    👉 WANT[DRUGS/CONDITIONS] 🧨RUSH   - GRACE
+🧨 C ---> DUALITY DETAILS     => REACTIVE -🧨INTIMIDATION---BETRAYED 👉 NEED                   🧨FORCE  - MERCY
 ✅ ESSENCE|DEUS|ZEUS => KNOW                           🧨 SECURITY
-✅ FAITH|EQUILIBRIUM => KING|QUEEN       = CARE        🧨 Greed/Obvious    -DOPAMINE      -GOLD/MONEY  -ARMY
-✅ POWER|VACUUM      => NOTHING/FORGIVE  = DISCIPLINE  🧨 Fear/Petty       -EMPATHY/FEAR  -WOMAN       -PROSTITUTE
-✅ GREATNESS|LOGIC   => DUALITY          = JUSTICE     🧨 Hate/Stingy      -INSTINCT      -PROPERTY    -ROBBER
+✅ FAITH|EQUILIBRIUM => KING|QUEEN       = CARE        🧨 Greed/Obvious   👉DOPAMINE      -GOLD/MONEY  -ARMY
+✅ POWER|VACUUM      => NOTHING/FORGIVE  = DISCIPLINE  🧨 Fear/Petty      👉EMPATHY/FEAR  -WOMAN       -PROSTITUTE
+✅ GREATNESS|LOGIC   => DUALITY          = JUSTICE     🧨 Hate/Stingy     👉INSTINCT      -PROPERTY    -ROBBER
 
 
        🧨 IDENTITY -> DEATH-PAIN   ✅ TRUTH
