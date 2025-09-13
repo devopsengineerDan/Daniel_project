@@ -560,10 +560,12 @@ STEAL == CONTINUOUSLY ---> GAIN
 ✅ LEGEND
 ✅ ALL GAIN
 ✅ WIN
-
+                                ✅ EGO
       🧨 DANGER/CONSISTENT ===> MACHIAVELLIAN---[SHADOW/SECRET SYSTEM] 
                            ===> NARCISSIST---[GOD && HUMBLE/NOBLE]
+                     ✅ CHILD
 🧨 LOUD/CONTROL ===> PSYCHOPATH---[BOLD && IRRESPONSIBLE]
+                               ✅ PRIDE
       🧨 FAST PERFORMANCE ===> MACHIAVELLIAN---[COMPETITIVE]
 ----------------------------------------------------------------------------
 🧨 SILENCE
