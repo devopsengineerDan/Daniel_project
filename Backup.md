@@ -116,18 +116,19 @@ Master's  
 
 =====================================================================================================================================================
 
-                                                      👉 KNOW
+                               🚀 MEANINGFUL
+                                                      👉 KNOW         🚀 MINDFUL
                                                       👉 OBSERVATION
                                                   🧨 QUESTION
 
-                                       👉 FEEL ALL SENSES
+                                       👉 FEEL ALL SENSES  🚀 GRACEFUL HEART
                                   👉 PERCEPTION
                             👉 CONNECT THE DOTS
                                     🧨 IDENTIFY
                                     🧨 REVIEW   
                             ✅ 2 TYPES OF FREE/LIBERAL
 
-                                                      👉 ACCEPT
+                                                      👉 ACCEPT  🚀 ROUTINE
                                                   🧨 ACTION/GAIN ---> 🧨🧨🧨 DEATH
                           ========================================================
                                                       👉 IDENTITY
@@ -560,11 +561,14 @@ STEAL == CONTINUOUSLY ---> GAIN
 ✅ LEGEND
 ✅ ALL GAIN
 ✅ WIN
+                                🚀 CONSCIOUS[THREAT && NEUTRAL] 
                                 ✅ EGO 👉LIE
       🧨 DANGER/CONSISTENT ===> MACHIAVELLIAN---[SHADOW/SECRET SYSTEM] 
                            ===> NARCISSIST---[GOD && HUMBLE/NOBLE]
+                     🚀 UNCONSCIOUS
                      ✅ CHILD 👉BLACKMAIL
 🧨 LOUD/CONTROL ===> PSYCHOPATH---[BOLD && IRRESPONSIBLE]
+                               🚀 CONSCIOUS[THREAT]
                                ✅ PRIDE 👉BRUTAL BETRAYAL/VAIN GLORIOUS
       🧨 FAST PERFORMANCE ===> MACHIAVELLIAN---[COMPETITIVE]
 ----------------------------------------------------------------------------
