@@ -477,11 +477,11 @@ SECURITY + INNOVATION [ADVANCE]
 --------------------------------------------------------------------------------------------------------------------------------------
                           
 ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ 
-1 FATHER                      1 DAVID                       1 DANIEL
-Security                      Security                      Security
-Know                          Consistency                   Accurate(Simple, Prioritise, Levels - High to Low)            
-Connect the dots              Discipline                    Adaptive within (Scope and Continuity of Process)
-Competitive                   Hard work(Realistic)          Realistic(High performance and to Completion) <===> Patience
+1 FATHER                1 DAVID                       1 DANIEL
+Security                Security                      Security
+Know                    Consistency                   TIME/ACCURATE(Simple, Prioritise, Levels - High to Low)            
+Connect the dots        Discipline                    WAY/ADAPTIVE within (Scope and Continuity of Process)
+Competitive             Hard work(Realistic)          REALITY/REALISTIC(High Performance and to Completion) <===> Patience
 ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ 
 
 
