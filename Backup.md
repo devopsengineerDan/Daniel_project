@@ -116,20 +116,24 @@ Master's  
 
 =====================================================================================================================================================
 
+                                       🚀 INTELLIGENCE
+                                       🚀 AWARENESS
+                                       🚀 HARMONIOUS INTEGRATED INDUSTRY
+                          ========================================================
                                🚀 MEANINGFUL
                                                       👉 KNOW         🚀 MINDFUL
                                                       👉 OBSERVATION
                                                   🧨 QUESTION
 
                                        👉 FEEL ALL SENSES  🚀 GRACEFUL HEART
-                                  👉 PERCEPTION
+                                  👉 PERCEPTION 🚀 GRACEFUL SOUL
                             👉 CONNECT THE DOTS
                                     🧨 IDENTIFY
                                     🧨 REVIEW   
                             ✅ 2 TYPES OF FREE/LIBERAL
 
                                                       👉 ACCEPT  🚀 ROUTINE
-                                                  🧨 ACTION/GAIN ---> 🧨🧨🧨 DEATH
+                                                  🧨 ACTION/GAIN ---> 🧨🧨🧨 DEATH                         
                           ========================================================
                                                       👉 IDENTITY
                                                  👉 STABILITY
@@ -8984,6 +8988,7 @@ FLASK REST API 2 -> https://www.youtube.com/watch?v=GMppyAPbLYk
 👉 [API Details]
 API WRAPPER Basics -> https://www.youtube.com/watch?v=Wp08QedI1ig
 API WRAPPER Detailed -> https://www.youtube.com/watch?v=ZCu2QMgXcKI
+API Security Best Practices -> https://youtu.be/7iHl71nt49o?si=-pNFR_yyox-oniRl
 API Key Authentication Best Practices -> https://www.youtube.com/watch?v=ooyOmiczY1g
 #################################################################################################################
 👉 POSTMAN
