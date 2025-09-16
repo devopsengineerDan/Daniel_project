@@ -13236,7 +13236,7 @@ Dangerous Code Hidden in Plain Sight for 12 years -> https://www.youtube.com/wat
 
 🚀 CODE -> COMPUTER SCIENCE[MEMORY MANAGEMENT]
 
- 9. B. Red Team Scripts process injection-stack overflow-heap overflow.zip
+ 9. B. Red Team Scripts process injection-stack overflow-heap overflow.zip  =====> https://mutur4.github.io/posts/
 
 
 
