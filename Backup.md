@@ -116,9 +116,16 @@ Master's  
 
 =====================================================================================================================================================
 
+                                       🚀 SECRET
                                        🚀 INTELLIGENCE
+                                       👉 UP
+                                      --------------------------------------
+                                       👉 INNER 🚀 STRONG CONFIDENCE/HONOUR
+                                                🚀 STRONG COMPITENCE
+                                      --------------------------------------
+                                       👉 DOWN   
                                        🚀 AWARENESS
-                                       🚀 HARMONIOUS INTEGRATED INDUSTRY
+                                       🚀 HARMONIOUS - INTEGRATED - INDUSTRY
                           ========================================================
                                🚀 MEANINGFUL
                                                       👉 KNOW         🚀 MINDFUL
@@ -126,7 +133,7 @@ Master's  
                                                   🧨 QUESTION
 
                                        👉 FEEL ALL SENSES  🚀 GRACEFUL HEART
-                                  👉 PERCEPTION 🚀 GRACEFUL SOUL
+                                  👉 PERCEPTION 🚀 GRACEFUL SOUL/ENERGY
                             👉 CONNECT THE DOTS
                                     🧨 IDENTIFY
                                     🧨 REVIEW   
