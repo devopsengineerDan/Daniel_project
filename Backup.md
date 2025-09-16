@@ -9237,6 +9237,7 @@ Werkzeug==1.0.1
 ![title](static/img/API.png)
 ![title](static/img/API_MEANING.png)
 ![title](static/img/API_WRAPPER.png)
+![title](static/img/RESTAPI_GRAPHQL.png)
 
 
 # APIS
