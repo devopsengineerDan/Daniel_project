@@ -565,15 +565,22 @@ STEAL == CONTINUOUSLY ---> GAIN
 ✅ LEGEND
 ✅ ALL GAIN
 ✅ WIN
+
+           ✅✅✅ SECURITY
+
+                     ✅✅✅ GREED
+
                                 🚀 CONSCIOUS[THREAT && NEUTRAL] 
-                                ✅ EGO 👉LIE
+                                ✅✅✅ EGO 👉LIE👉DELAY
       🧨 DANGER/CONSISTENT ===> MACHIAVELLIAN---[SHADOW/SECRET SYSTEM] 
                            ===> NARCISSIST---[GOD && HUMBLE/NOBLE]
+
                      🚀 UNCONSCIOUS
-                     ✅ CHILD 👉BLACKMAIL
+                     ✅✅✅ CHILD[FEAR/REMORSE] 👉BLACKMAIL👉EXCUSE
 🧨 LOUD/CONTROL ===> PSYCHOPATH---[BOLD && IRRESPONSIBLE]
+
                                🚀 CONSCIOUS[THREAT]
-                               ✅ PRIDE 👉BRUTAL BETRAYAL/VAIN GLORIOUS
+                               ✅✅✅ PRIDE[BITTER/HATE] 👉BRUTAL BETRAYAL/VAIN GLORIOUS👉FAILURE
       🧨 FAST PERFORMANCE ===> MACHIAVELLIAN---[COMPETITIVE]
 ----------------------------------------------------------------------------
 🧨 SILENCE
@@ -596,7 +603,7 @@ STEAL == CONTINUOUSLY ---> GAIN
                                                            
 ***************************************************************************************************************************
 
-
+                                    🧨🧨🧨🧨🧨🧨🧨🧨           THINGS I HATE           🧨🧨🧨🧨🧨🧨🧨🧨
                                     🧨🧨🧨🧨🧨🧨🧨🧨  BAD SITUATIONS LEADING TO DEATH  🧨🧨🧨🧨🧨🧨🧨🧨
 
 🧨 SECURITY AUTHORITY/KILL               
