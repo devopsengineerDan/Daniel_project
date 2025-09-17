@@ -120,11 +120,11 @@ Master's  
                                        🚀 INTELLIGENCE
                                        👉 UP
                                       --------------------------------------
-                                       👉 INNER 🚀 STRONG CONFIDENCE/HONOUR
+                                       👉 INNER 🚀 STRONG CONFIDENCE/HONOUR 
                                                 🚀 STRONG COMPITENCE
                                       --------------------------------------
                                        👉 DOWN   
-                                       🚀 AWARENESS
+                                       🚀 AWARENESS[ORCHESTRATION(BEST APPROACH ===> RIGHT TIME,WAY,SUBSTANCE) AND LOAD-BALANCING]
                                        🚀 HARMONIOUS - INTEGRATED - INDUSTRY
                           ========================================================
                                🚀 MEANINGFUL
@@ -3150,6 +3150,13 @@ MONEY ------------> SAFETY ------------> GROWTH ------------> LOGISTICS
 
 
 ```
+👉 ENTRANCE -> Advantage of Ignorance/Division, Chaos, Undecisiveness ---> Increase leverage, Pay Tax, Bank interest, Stock Investment  
+👉 PROCESS -> Close Accounts ---> Normal Operations of Accounts
+👉 EXIT TO NORMAL -> Change Ownerships Stocks, Assets, Lands ---> Normal Operations of Stocks, Assets, Lands
+```
+
+
+```
 ----------------------------------
 
 TRADES => Futures, Commodities, Stocks, Cryptocurrency, Forex
@@ -3190,10 +3197,10 @@ NORMAL BUSINESS TRANSACTIONS
 1 Customer Details updated before A LARGE Transaction => An Account Taker over and Layering Activity
 2 LARGE DEPOSIT which is => NOT COMPARABLE to Income, Social Status, Type of Occupation
 3 Detection of Structuring => Large number of transactions below a reporting threshold in a specific period of Time
-4 Unusual spending pattern => NOT COMPARABLE to Income, Social Status, Type of Occupation
+4 Unusual SPENDING PATTERN => NOT COMPARABLE to Income, Social Status, Type of Occupation
 5 Dormant Accounts/Businesses => which display LARGE Transactions in Bank and Business Accounting Books
 6 Low Buyers Diversity => Same Buyers on a business which usually receives variety of Buyers
-7 Disproportionate Flow-Through => NOT MAKING BUSINESS SENSE[Spending More and No Profit] / NO PROFIT OR LOSS MAKING
+7 Disproportionate FLOW-THROUGH => NOT MAKING BUSINESS SENSE[Spending More and No Equivalent Profit/Tax ] / NO PROFIT OR LOSS MAKING
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 8 High Risk Countries => Countries known for Bank Secrecy/Financial Crime/Tax Haven
 9 Immediate Withdrawal to Private Wallets => Large Amount Deposited then IMMEDIATELY Large Amount Withdrawn
