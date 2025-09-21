@@ -2937,13 +2937,13 @@ eagleoverflow@gmail.com SUNANDPLANETS => dancunmoruri@gmail.com ==> 0706738969
 quantumaiquant@gmail.com SUNANDPLANETS => dancunmoruri@gmail.com ==> 0706738969
 	     
 github: dancunmanyinsait@gmail.com: conardmomanyimoruri
-        dancummoruri@gmail.com: conardmomanyimoruri
+        devopsengineer@gmail.com: conardmomanyimoruri
 	
 discord: _softwareengineer_  dancummoruri@gmail.com: QWERTY@987
 
 slack : Sign in with dancunmanyinsait@gmail.com
 
-telegram: TELEGRAM PWD ===> EngineerDaniel  
+telegram: TELEGRAM PWD ===> Engineer#1&33  
           Daniel @daniel_softwareengineer +254711444518 ------> 1473
           David  @david_softwareengineer +254706738969  ------> 1473
 
@@ -2956,6 +2956,8 @@ Twitter/X Alternative: blueskyapp: https://bsky.app/ @engineerdancun ALPHA@987
 ------------------------------------------------------------------------------------------------------------------
 
 DEPLOYMENT
+github - Web Frontend Technologies [Minimum Functionalities]
+pythonanywhere -> dancummoruri@gmail.com: Qwerty@12345
 linode -> GITHUB
 Heroku -> GITHUB
 https://railway.com/ ===> SMALL TO MEDIUM PROJECTS
