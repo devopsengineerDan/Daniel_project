@@ -3177,7 +3177,7 @@ TRADES => Futures, Commodities, Stocks, Cryptocurrency, Forex
          Assisting a money launderer
 ----------------------------------
 🧨
-         RESPONSIBLE<=>LAW
+         RESPONSIBLE<===>LAW
          LEADER
 CLASS
          TRIBE
@@ -7233,6 +7233,11 @@ BEST PRACTICE Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE
 👉  SOLUTIONS
 
 ![title](static/img/computer-memory-solutions.jpg)
+![title](static/img/RUST1.jpg)
+![title](static/img/RUST2.jpg)
+![title](static/img/RUST3.jpg)
+![title](static/img/RUST4.jpg)
+![title](static/img/RUST5.jpg)
 
 # What is Rust?
 
