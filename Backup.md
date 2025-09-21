@@ -8987,7 +8987,7 @@ FORM SUBMIT  ===> use random email ,CC, _captcha [To secure from Malicious Bots 
 👉 DJANGO TODO APP ===> https://www.youtube.com/watch?v=llbtoQTt4qw
 👉 DJANGO COMPLETE COURSE => https://www.udemy.com/course/python-django-2021-complete-course/?referralCode=5EE78E30D7C468BF08F6&couponCode=25BBPMXNVD25CTRL
 
-👉 3HRS FLASK COURSE ===> https://www.youtube.com/watch?v=oQ5UfJqW5Jo
+🌀 DOCKER 👉 3HRS FLASK COURSE ===> https://www.youtube.com/watch?v=oQ5UfJqW5Jo
 
 👉 [API Fundamentals]
 -> https://www.youtube.com/watch?v=cJveiktaOSQ
@@ -8997,7 +8997,7 @@ API Design and Architecture - Backend Engineering -> https://www.youtube.com/wat
 👉 Python Django REST API ===> https://www.youtube.com/watch?v=NoLF7Dlu5mc
 --------------------------
 
-DJANGO REST API & Deployment 1 -> https://www.youtube.com/watch?v=t-uAgI-AUxc
+🌀 DOCKER 👉 DJANGO REST API & Deployment 1 -> https://www.youtube.com/watch?v=t-uAgI-AUxc
 DJANGO REST API 2 ->  https://www.youtube.com/watch?v=i5JykvxUk_A
 
 --------------------------
