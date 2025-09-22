@@ -9081,7 +9081,8 @@ python3 manage.py runserver
 ```
 View query -> python3 manage.py sqlmigrate movies(app-name)
  
-Apply specific query change -> python3 manage.py sqlmigrate movies 0001
+Apply specific query change -> MODEL    ===> python3 manage.py migrate name_ data 0001_initial
+                            -> DATABASE ===> python3 manage.py sqlmigrate movies 0001
 
 Apply all queries changes   -> python3 manage.py makemigrations
                             -> python3 manage.py migrate
