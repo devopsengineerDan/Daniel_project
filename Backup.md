@@ -152,7 +152,32 @@ Master's  
                                                          ===> WORK
                                                🧨 KIND
 
-----------------------------------------------------------------------------------------------------------------------------
+====================================================================================================================================
+
+       👉👉👉 IN TIMES OF WAR, RATIONALITY[REASON AND LOGIC] ARE THE FIRST CASUALTIES. IRRATIONALITY[EMOTION] PREVAILS.
+       👉👉👉 HEART-COMPASS, CONCIOUS, LIFE ESSENCE, FAITH -> RATIONAL [WE, FORGIVING|KIND,SELFLESS]
+       👉👉👉 MIND-SQUARE, UNCONCIOUS, MATERIALISTIC ESSENCE, LACK OF FAITH  -> IRRATIONAL [I, UNFORGIVING|UNKIND, SELFISH]
+
+       👉 TIME[LAW AND ORDER] SPACE[THE AGES]
+       👉 NEUTRAL <=====> ETHER
+       👉 Right lense, Approach, Action.
+       👉 Sound, Reason, Action
+       👉 Character, Reputation, Credit|Asset|Equity
+       👉👉👉 BEST APPROACH
+
+[REPUTATION]        [CHARACTER]                 [ACQUIRE]
+🧨 Kind             🧨 Humble                   🧨 Accumulate && Be Kind
+🧨 Ridiculously     🧨 Fast                     🧨 Observe at All Percpectives 
+🧨 Learner          🧨 Hungry for MORE          👉 Focus on Truth and Nature
+-------------------------------------------------------------------------------------------------------------------
+       👉 CIVILIZATION
+
+GOD -> Conscious Altar - Forgiving | Unconscious Altar - Unforgiving 
+WAR -> Shield-Compliance | Freedom-Compliance
+RELIGION -> Track | Chaos 
+BEURACRACY -> Proof of Concept | Ignorance
+
+====================================================================================================================================
 
 🧨SECURITY ---> 👉👉👉FIRE/SNAKE/LIFE
 LION
