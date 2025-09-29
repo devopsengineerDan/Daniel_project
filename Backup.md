@@ -101,6 +101,8 @@ Master's  
 ![title](static/img/Data_Engineering_to_Cybersecurity.jpg)
 
 ```
+🧨🧨🧨 GOD AND MY RIGHT 🧨🧨🧨
+🧨🧨🧨 DEUS ZEUS A+ | A+ ZEUS DEUS🧨🧨🧨
 🧨🧨🧨 97 🧨🧨🧨 + INHERENT NATURE OF ✅ INTELLIGENCE --->  RATIONAL INWARD - FAST OUTWARD
                                                             INNER WEAKNESS - OUTER STRENGTH
                                                             MUST CULTIVATE INNER STRENGTH
@@ -9292,6 +9294,12 @@ Werkzeug==1.0.1
 ![title](static/img/API_MEANING.png)
 ![title](static/img/API_WRAPPER.png)
 ![title](static/img/RESTAPI_GRAPHQL.png)
+
+# API TYPES
+![title](static/img/API_Types.jpg)
+
+# API DESIGN PRINCIPLES
+![title](static/img/API_Design_Principles.jpg)
 
 
 # APIS
