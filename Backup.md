@@ -102,8 +102,15 @@ Master's  
 
 ```
 🧨🧨🧨 GOD AND MY RIGHT 🧨🧨🧨
+🧨🧨🧨 JABULON 🧨🧨🧨
+--------------------------------------------------
 🧨🧨🧨 DEUS ZEUS A+ | A+ ZEUS DEUS🧨🧨🧨
-🧨🧨🧨 97 🧨🧨🧨 + INHERENT NATURE OF ✅ INTELLIGENCE --->  RATIONAL INWARD - FAST OUTWARD
+🧨🧨🧨 DEATH PAIN COURAGE*SKILL | COURAGE*SKILL PAIN DEATH 🧨🧨🧨
+--------------------------------------------------
+🧨🧨🧨 KINGSHIP ANIMALS AND LAMB/OBEDIENCE 🧨🧨🧨
+🧨🧨🧨 DEPRESSION  CONFUSION  INDULGENCE 🧨🧨🧨
+--------------------------------------------------
+🧨🧨🧨 97 | 79 🧨🧨🧨 + INHERENT NATURE OF ✅ INTELLIGENCE --->  RATIONAL INWARD - FAST OUTWARD
                                                             INNER WEAKNESS - OUTER STRENGTH
                                                             MUST CULTIVATE INNER STRENGTH
                                        &&
@@ -122,8 +129,8 @@ Master's  
                                        🚀 INTELLIGENCE
                                        👉 UP
                                       --------------------------------------
-                                       👉 INNER 🚀 STRONG CONFIDENCE/HONOUR 
-                                                🚀 STRONG COMPITENCE
+                                       👉 INNER 🚀 STRONG CONFIDENCE/COURAGE/HONOUR 
+                                                🚀 STRONG COMPITENCE/KNOW-HOW/SKILL
                                       --------------------------------------
                                        👉 DOWN   
                                        🚀 AWARENESS[ORCHESTRATION(BEST APPROACH ===> RIGHT TIME,WAY,SUBSTANCE) AND LOAD-BALANCING]
@@ -157,11 +164,11 @@ Master's  
 ====================================================================================================================================
 
        👉👉👉 IN TIMES OF WAR, RATIONALITY[REASON AND LOGIC] ARE THE FIRST CASUALTIES. IRRATIONALITY[EMOTION] PREVAILS.
-       👉👉👉 HEART-COMPASS, CONCIOUS, LIFE ESSENCE, FAITH -> RATIONAL [WE, FORGIVING|KIND,SELFLESS]
-       👉👉👉 MIND-SQUARE, UNCONCIOUS, MATERIALISTIC ESSENCE, LACK OF FAITH  -> IRRATIONAL [I, UNFORGIVING|UNKIND, SELFISH]
+       👉👉👉 HEART-COMPASS, CONCIOUS/MEANING, LIFE ESSENCE, FAITH -> RATIONAL [WE, FORGIVING|KIND,SELFLESS]
+       👉👉👉 MIND-SQUARE, UNCONCIOUS/MEANINGLESS, MATERIALISTIC ESSENCE, LACK OF FAITH  -> IRRATIONAL [I, UNFORGIVING|UNKIND, SELFISH]
 
        👉 TIME[LAW AND ORDER] SPACE[THE AGES]
-       👉 NEUTRAL <=====> ETHER
+       👉 SILENCE[MAN] <===> SILENCE[WOMAN] |  NEUTRAL <===> ETHER | ORCHESTRATION <===> LOAD-BALANCER
        👉 Right lense, Approach, Action.
        👉 Sound, Reason, Action
        👉 Character, Reputation, Credit|Asset|Equity
@@ -180,6 +187,8 @@ RELIGION -> Track | Chaos
 BEURACRACY -> Proof of Concept | Ignorance
 
 ====================================================================================================================================
+
+🧨🧨🧨 KINGSHIP ANIMALS AND LAMB/OBEDIENCE 🧨🧨🧨
 
 🧨SECURITY ---> 👉👉👉FIRE/SNAKE/LIFE
 LION
@@ -565,7 +574,7 @@ PROTECT Life, Liberty, Equality and Property
                               ---> 👉👉👉👉 [Security]
                               ---> 👉 [Wisdom]  
                               ---> 👉 [Innovation, Invention]
-                              ---> 👉 [Strength, Remember, Control, Speed]
+                              ---> 👉 [Strength, Remember*Ability, Control*Agility, Speed]
                               🧨 GOLD/MONEY - WOMAN - PROPERTY
                               🧨 INHERITANCE - STEAL - HARDWORK  ---> SEX
                               🧨 KILL - STEAL - DESTROY 
