@@ -163,15 +163,20 @@ Master's  
 
 ====================================================================================================================================
 
-       🚀 MAN    ---> SPIRIT THAT WANTS TO CONQUER ALL
-       🚀 WOMAN  ---> SPIRIT THAT WANTS TO LOVE ALL
-       👉 DEPRESSED
-       👉 CONFUSION
-       👉 ENDULGENCE
+       🚀 MAN    ---> SPIRIT THAT WANTS TO CONQUER/GAIN ALL
+       🚀 WOMAN  ---> SPIRIT THAT WANTS TO LOVE/GIVE ALL
+       ------------------------------------------------
+       🚀 MEANINGFUL TIME AND SPACE
+       🚀 MEANINGLESS TIME AND SPACE
+
+       🚀🚀🚀 DEPRESSED
+       🚀🚀🚀 CONFUSION
+       🚀🚀🚀 ENDULGENCE
        *********************************************************************************************************************************
        👉👉👉 DUALITY OF LIFE AND MOTHER-NATURE
        👉👉👉 FROM DARKNESS TO LIGHT --> [HEART,GOOD,WE], FROM DARKNESS TO LIGHT --> [MIND,EVIL,I]
        👉👉👉 EVERY ANGEL HAS PAST, EVERY DEVIL HAS A FUTURE
+       👉👉👉 IF YOU DESIRE UNITY YOU MUST HAVE A HEART[NO MIND], IF YOU DO NOT DESIRE UNITY YOU MUST HAVE A MIND[NO HEART]
                            
        APOLOGY        ---> HONOUR               |      NO APOLOGY        ---> NO HONOUR
        DO NOT FORGET  ---> CONCIOUS<->PAIN      |      FORGET            ---> UNCONCIOUSNESS<->HAPPINESS
@@ -193,7 +198,7 @@ Master's  
 🧨 Ridiculously     🧨 Fast                     🧨 Observe at All Percpectives 
 🧨 Learner          🧨 Hungry for MORE          👉 Focus on Truth and Nature
 -------------------------------------------------------------------------------------------------------------------
-       👉 CIVILIZATION
+       👉👉👉 CIVILIZATION
 
 SECRECY   --->  GOD        -> Conscious Altar - Forgiving | Unconscious Altar - Unforgiving 
 AWRENESS  --->  WAR        -> Shield-Compliance | Freedom-Compliance
@@ -474,14 +479,14 @@ DESIRE    -> FEEL     ---> SURRENDER             LETTER = GATEWAY
 🌀 2. THE SOUL OF THE LAW
 ✅ ✅ ✅  SOUL  ✅ ✅ ✅  
 
-✅ MIND     -> THOUGHT    -> INTEPRETATION / INQUIRY / PARABLE / STORY  🧨 DERASH
+✅ MIND/AIR     -> THOUGHT    -> INTEPRETATION / INQUIRY / PARABLE / STORY  🧨 DERASH
 ----------------------------------------------------------------------------------------
-✅ ENERGY   -> EMOTION    -> IMAGINATION / ILLUSION / HINT / SYMBOLIC /HIDDEN  🧨 REMEZ
+✅ ENERGY/WATER   -> EMOTION    -> IMAGINATION / ILLUSION / HINT / SYMBOLIC /HIDDEN  🧨 REMEZ
 
 ****************************************************************************************
 🌀 3. THE LAW
 ✅ ✅ ✅  MATTER / FIRE  ✅ ✅ ✅  🧨 PESHAT
-✅ BODY     -> PYSICAL    -> PLAIN && SIMPLE LAWS
+✅ BODY/EARTH     -> PYSICAL    -> PLAIN && SIMPLE LAWS
 
 
 
