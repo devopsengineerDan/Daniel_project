@@ -165,7 +165,10 @@ Master's  
 
        🚀 MAN    ---> SPIRIT THAT WANTS TO CONQUER ALL
        🚀 WOMAN  ---> SPIRIT THAT WANTS TO LOVE ALL
-
+       👉 DEPRESSED
+       👉 CONFUSION
+       👉 ENDULGENCE
+       *********************************************************************************************************************************
        👉👉👉 DUALITY OF LIFE AND MOTHER-NATURE
        👉👉👉 FROM DARKNESS TO LIGHT --> [HEART,GOOD,WE], FROM DARKNESS TO LIGHT --> [MIND,EVIL,I]
        👉👉👉 EVERY ANGEL HAS PAST, EVERY DEVIL HAS A FUTURE
@@ -192,10 +195,10 @@ Master's  
 -------------------------------------------------------------------------------------------------------------------
        👉 CIVILIZATION
 
-GOD -> Conscious Altar - Forgiving | Unconscious Altar - Unforgiving 
-WAR -> Shield-Compliance | Freedom-Compliance
-RELIGION -> Track | Chaos 
-BEURACRACY -> Proof of Concept | Ignorance
+SECRECY   --->  GOD        -> Conscious Altar - Forgiving | Unconscious Altar - Unforgiving 
+AWRENESS  --->  WAR        -> Shield-Compliance | Freedom-Compliance
+IDEAS     --->  RELIGION   -> Track | Chaos 
+LOGIC     --->  BEURACRACY -> Proof of Concept | Ignorance
 
 ====================================================================================================================================
 
@@ -392,7 +395,9 @@ DESTRUCTIVE ECONOMY    ---> Destroy/Destructive Environment to TAKE MORE
 ```
 
 ```
-✅ ORDER
+✅ CIVILIZATION
+✅ DEATH - INSTINCTS - DOPAMINE - EMPATHY - INSTINCTS - DEATH
+✅ LAW AND ORDER 
 
 *Snake Colony
 *Lion Colony
