@@ -163,11 +163,22 @@ Master's  
 
 ====================================================================================================================================
 
+       🚀 MAN    ---> SPIRIT THAT WANTS TO CONQUER ALL
+       🚀 WOMAN  ---> SPIRIT THAT WANTS TO LOVE ALL
+
+       👉👉👉 DUALITY OF LIFE AND MOTHER-NATURE
+       👉👉👉 FROM DARKNESS TO LIGHT --> [HEART,GOOD,WE], FROM DARKNESS TO LIGHT --> [MIND,EVIL,I]
+       👉👉👉 EVERY ANGEL HAS PAST, EVERY DEVIL HAS A FUTURE
+                           
+       APOLOGY        ---> HONOUR               |      NO APOLOGY        ---> NO HONOUR
+       DO NOT FORGET  ---> CONCIOUS<->PAIN      |      FORGET            ---> UNCONCIOUSNESS<->HAPPINESS
+       FORGIVE        ---> STRONG               |      NO FORGIVENESS    ---> WEAK
+       *********************************************************************************************************************************
        👉👉👉 IN TIMES OF WAR, RATIONALITY[REASON AND LOGIC] ARE THE FIRST CASUALTIES. IRRATIONALITY[EMOTION] PREVAILS.
        👉👉👉 HEART-COMPASS, CONCIOUS/MEANING, LIFE ESSENCE, FAITH -> RATIONAL [WE, FORGIVING|KIND,SELFLESS]
        👉👉👉 MIND-SQUARE, UNCONCIOUS/MEANINGLESS, MATERIALISTIC ESSENCE, LACK OF FAITH  -> IRRATIONAL [I, UNFORGIVING|UNKIND, SELFISH]
 
-       👉 TIME[LAW AND ORDER] SPACE[THE AGES]
+       👉 TIME/ELECTRICITY[LAW AND ORDER] <===> SPACE/MAGNETISM[THE AGES]
        👉 SILENCE[MAN] <===> SILENCE[WOMAN] |  NEUTRAL <===> ETHER | ORCHESTRATION <===> LOAD-BALANCER
        👉 Right lense, Approach, Action.
        👉 Sound, Reason, Action
