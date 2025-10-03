@@ -35,9 +35,10 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 4)Deploying ML Models with Bodywork   ===> https://devopsengineerdan.github.io/  My blog name devopsengineerdan which is dev Repository/alexloannides blog 
 5)Deploying Python ML Models with Flask, Docker and Kubernetes    ===> https://devopsengineerdan.github.io/  My blog name devopsengineerdan which is dev Repository/alexloannides blog 
 
----------------------  ---------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✅ REAL PROJECTS
-9.* PROJECTS ===> Email -> https://www.youtube.com/watch?v=xNqnHmXIuzU
+9.* PROJECTS
+            ===> Email -> https://www.youtube.com/watch?v=xNqnHmXIuzU
             ===> News Letter -> https://youtu.be/hWtlskOaFNI?si=WNMXDlQ6sq1BTKM8
             ------------------------------------
             ===> INTERNET/NETWORK ENGINEER
@@ -47,6 +48,13 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
             ------------------------------------
             ===> DETECTION
             ===> EMERGING DEVELOPMENT
+
+========================================================================================
+            ===>  Knowledge-based computing
+            ===>  Human Interaction computing
+            ===>  Business modelling computing
+            ===>  [CLEAN-SCALABLE ERP SYSTEMS]
+
 ```
 
 
