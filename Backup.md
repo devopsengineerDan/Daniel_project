@@ -169,9 +169,9 @@ Master's  
        🚀 MEANINGFUL TIME AND SPACE
        🚀 MEANINGLESS TIME AND SPACE
 
-       🚀🚀🚀 DEPRESSED
-       🚀🚀🚀 CONFUSION
-       🚀🚀🚀 ENDULGENCE
+       🚀🚀🚀 DEPRESSED    WAR                 ===> DEATH
+       🚀🚀🚀 CONFUSION    DISEASE ---------------- SUFFERING
+       🚀🚀🚀 ENDULGENCE   POVERTY/DIVISION    ===> DEATH 
        *********************************************************************************************************************************
        👉👉👉 DUALITY OF LIFE AND MOTHER-NATURE
        👉👉👉 FROM DARKNESS TO LIGHT --> [HEART,GOOD,WE], FROM DARKNESS TO LIGHT --> [MIND,EVIL,I]
