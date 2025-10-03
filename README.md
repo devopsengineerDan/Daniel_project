@@ -76,6 +76,8 @@ ACCOUNT MANAGER
 # PROFESSIONAL PATHS
 
 ![title](static/img/professional_path.jpg)
+![title](static/img/BRUTAL_CAPITALIST.jpg)
+![title](static/img/BRUTAL_CAPITALISM.jpg)
 
 ```
 ✅ KING(WEALTH&&LIFE) / DISTRIBUTED SYSTEM
