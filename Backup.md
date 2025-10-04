@@ -169,9 +169,9 @@ Master's  
        🚀 MEANINGFUL TIME AND SPACE
        🚀 MEANINGLESS TIME AND SPACE
 
-       🚀🚀🚀 DEPRESSED    WAR                 ===> DEATH
-       🚀🚀🚀 CONFUSION    DISEASE ---------------- SUFFERING
-       🚀🚀🚀 ENDULGENCE   POVERTY/DIVISION    ===> DEATH 
+       🚀🚀🚀 DEPRESSED    WAR                 ===> DEATH       SECURITY <===> BELONGING  ORDAINED <===> CONSIENTIOUS
+       🚀🚀🚀 CONFUSION    DISEASE ---------------- SUFFERING   EQUALITY <===> CLASS      CHOSEN   <===> CHARISMATIC
+       🚀🚀🚀 ENDULGENCE   POVERTY/DIVISION    ===> DEATH       EQUITY   <===> STATUS     ELECTED  <===> MATURE
        *********************************************************************************************************************************
        👉👉👉 DUALITY OF LIFE AND MOTHER-NATURE
        👉👉👉 FROM DARKNESS TO LIGHT --> [HEART,GOOD,WE], FROM DARKNESS TO LIGHT --> [MIND,EVIL,I]
