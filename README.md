@@ -50,11 +50,14 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
             ===> EMERGING DEVELOPMENT
 
 ========================================================================================
-            ===>  Knowledge-based computing
+           
             ===>  Human Interaction computing
+            ===>  Knowledge-based computing
+            ---------------------------------------
             ===>  Business modelling computing
-            ===>  [CLEAN-SCALABLE ERP SYSTEMS]
-
+            ===> Computer reasoning (Software Engineering, AI and Quantum Computing)
+            ---------------------------------------    
+            ===>  [SECURE-CLEAN-SCALABLE-PERFORMANT] ERP SYSTEMS
 ```
 
 
