@@ -191,6 +191,11 @@ Master's  
        👉✅ HISTORY  -> ANCESTRAL <---> COLLECTIVE TAX  ✅ INSTINCTS   - SUBJECTIVE    ===> BEG
        👉✅ TRUTH EVIL ===> CONSUME
        🚀🚀🚀 DEATH
+       -------------------------------------------------------------------------------------------------------------------------
+       🚀 SECRECY   --->  GOD        -> Conscious Altar - Forgiving | Unconscious Altar - Unforgiving 
+       🚀 AWARENESS  --->  WAR        -> Shield-Compliance | Freedom-Compliance
+       🚀 IDEAS     --->  RELIGION   -> Track | Chaos 
+       🚀 LOGIC     --->  BEURACRACY -> Proof of Concept | Ignorance
        *********************************************************************************************************************************
        👉👉👉 DUALITY OF LIFE AND MOTHER-NATURE
        👉👉👉 FROM DARKNESS TO LIGHT --> [HEART,GOOD,WE], FROM DARKNESS TO LIGHT --> [MIND,EVIL,I]
@@ -216,13 +221,6 @@ Master's  
 🧨 Kind             🧨 Humble                   🧨 Accumulate && Be Kind
 🧨 Ridiculously     🧨 Fast                     🧨 Observe at All Percpectives 
 🧨 Learner          🧨 Hungry for MORE          👉 Focus on Truth and Nature
--------------------------------------------------------------------------------------------------------------------
-       👉👉👉 CIVILIZATION
-
-SECRECY   --->  GOD        -> Conscious Altar - Forgiving | Unconscious Altar - Unforgiving 
-AWRENESS  --->  WAR        -> Shield-Compliance | Freedom-Compliance
-IDEAS     --->  RELIGION   -> Track | Chaos 
-LOGIC     --->  BEURACRACY -> Proof of Concept | Ignorance
 
 ====================================================================================================================================
 
