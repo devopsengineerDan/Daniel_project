@@ -93,6 +93,8 @@ Master's  
 ===============================================================================================================================================
 
 
+✅✅✅ ETERNAL, IMMUTABLE , PERFECT ✅✅✅
+✅✅✅ HEROES THAT WERE OF OLD, WARRIORS OF THE RENOWN ✅✅✅
 
 # 🚀 LIFE  AND NATURE [PARALLEL]
 # 🚀 ACADEMICIAN AND SCHOLAR [FATHER, MENTOR, TEACHER]
@@ -101,6 +103,9 @@ Master's  
 ![title](static/img/Data_Engineering_to_Cybersecurity.jpg)
 
 ```
+✅✅✅ ETERNAL, IMMUTABLE , PERFECT ✅✅✅
+✅✅✅ HEROES THAT WERE OF OLD, WARRIORS OF THE RENOWN ✅✅✅
+
 🧨🧨🧨 GOD AND MY RIGHT 🧨🧨🧨
 🧨🧨🧨 JABULON 🧨🧨🧨
 --------------------------------------------------
@@ -163,6 +168,9 @@ Master's  
 
 ====================================================================================================================================
 
+        ✅✅✅ ETERNAL, IMMUTABLE , PERFECT ✅✅✅
+        ✅✅✅ HEROES THAT WERE OF OLD, WARRIORS OF THE RENOWN ✅✅✅
+
        🚀 MAN    ---> SPIRIT THAT WANTS TO CONQUER/GAIN ALL
        🚀 WOMAN  ---> SPIRIT THAT WANTS TO LOVE/GIVE ALL
        ------------------------------------------------
@@ -172,6 +180,10 @@ Master's  
        🚀🚀🚀 DEPRESSED    WAR                 ===> DEATH       SECURITY <===> BELONGING  ORDAINED <===> CONSIENTIOUS
        🚀🚀🚀 CONFUSION    DISEASE ---------------- SUFFERING   EQUALITY <===> CLASS      CHOSEN   <===> CHARISMATIC
        🚀🚀🚀 ENDULGENCE   POVERTY/DIVISION    ===> DEATH       EQUITY   <===> STATUS     ELECTED  <===> MATURE
+
+       👉✅ VALUES   -> FAITH
+       👉✅ CULTURE  -> RELIGION 
+       👉✅ HISTORY  -> ANCESTRAL -> COLLECTIVE TAX
        *********************************************************************************************************************************
        👉👉👉 DUALITY OF LIFE AND MOTHER-NATURE
        👉👉👉 FROM DARKNESS TO LIGHT --> [HEART,GOOD,WE], FROM DARKNESS TO LIGHT --> [MIND,EVIL,I]
