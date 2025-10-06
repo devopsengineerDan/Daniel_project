@@ -192,10 +192,11 @@ Master's  
        👉✅ TRUTH EVIL ===> CONSUME
        🚀🚀🚀 DEATH
        -------------------------------------------------------------------------------------------------------------------------
-       🚀 SECRECY   --->  GOD        -> Conscious Altar - Forgiving | Unconscious Altar - Unforgiving 
+       🚀 SECRECY    --->  GOD        -> Conscious Altar - Forgiving | Unconscious Altar - Unforgiving 
        🚀 AWARENESS  --->  WAR        -> Shield-Compliance | Freedom-Compliance
-       🚀 IDEAS     --->  RELIGION   -> Track | Chaos 
-       🚀 LOGIC     --->  BEURACRACY -> Proof of Concept | Ignorance
+       🚀 IDEAS      --->  RELIGION   -> Track | Chaos 
+       🚀 LOGIC      --->  BEURACRACY -> PROOF OF CONCEPT | Ignorance
+                                         ✅✅✅✅✅✅✅✅
        *********************************************************************************************************************************
        👉👉👉 DUALITY OF LIFE AND MOTHER-NATURE
        👉👉👉 FROM DARKNESS TO LIGHT --> [HEART,GOOD,WE], FROM DARKNESS TO LIGHT --> [MIND,EVIL,I]
