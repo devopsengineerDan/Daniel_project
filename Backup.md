@@ -13349,6 +13349,9 @@ Dangerous Code Hidden in Plain Sight for 12 years -> https://www.youtube.com/wat
 
  9. B. Red Team Scripts process injection-stack overflow-heap overflow.zip  =====> https://mutur4.github.io/posts/
 
+ OR
+
+ engineer-dancun-personal-blog/content/posts/KERNEL-Files.md
 
 
 
