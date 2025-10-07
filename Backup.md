@@ -93,25 +93,6 @@ Master's  
 ===============================================================================================================================================
 
 
-✅✅✅ ETERNAL, IMMUTABLE , PERFECT ✅✅✅
-✅✅✅ HEROES THAT WERE OF OLD, WARRIORS OF THE RENOWN ✅✅✅
-
-✅ 3 [BLOCK/SQUARE]                     🧨🧨🧨 DEATH               ✅ 4 [EXTREME]
-🧨 INACTION                              - PROACTIVE                 🧨 ENSLAVEMENT
-🧨 INDECISIVE                            - ETHER                     🧨 MEAN {TILL YOUR DEATH AND THEIRS}
-🧨 DISTRACTION                           - ATTENTION                 🧨 OFFER MONEY/ASSET/VALUE             
-🧨 CHAOS/BIAS/ENVIRONMENT                - DISCIPLINE                🧨 OFFER SEX                 
-🧨 MEAN/HUNGER/DEATH                     - PRODUCTIVE    
-
-🧨🧨🧨 CON(Naive)/Obvious - LIE(Foolishness/Retard)/Petty - THEFT(Ignorance)/Stingy<->MinuteDetails
-🧨🧨🧨 Delay -   Excuse -  Failure
-
-
-                          🧨🧨🧨 LIFE
-                          🧨🧨🧨 MONEY
-                          🧨🧨🧨 WIFE
-                          🧨🧨🧨 LAND / PROPERTY
-============================================================================================================
 
 # 🚀 LIFE  AND NATURE [PARALLEL]
 # 🚀 ACADEMICIAN AND SCHOLAR [FATHER, MENTOR, TEACHER]
