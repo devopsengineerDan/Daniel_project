@@ -13345,12 +13345,12 @@ Why you should Close Your Files | bin 0x02 -> https://www.youtube.com/watch?v=6S
 Dangerous Code Hidden in Plain Sight for 12 years -> https://www.youtube.com/watch?v=eTcVLqKpZJc&list=PLI_rLWXMqpSkAYfar0HRA7lykydwmRY_2&index=4
 
 
-🚀 CODE -> COMPUTER SCIENCE[MEMORY MANAGEMENT]
+# CODE -> COMPUTER SCIENCE[MEMORY MANAGEMENT]
  🚀 9. B. Red Team Scripts.zip
 
  OR
 
- engineer-dancun-personal-blog/content/posts/
+ 🚀 engineer-dancun-personal-blog/content/posts/
  1. KERNEL-linux-malware-defense-evasion.md
  2. KERNEL-Pwnkit-CVE-2021-4034.md
  3. KERNEL-Linux-Process-Injection.md
