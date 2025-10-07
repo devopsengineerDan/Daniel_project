@@ -13346,12 +13346,18 @@ Dangerous Code Hidden in Plain Sight for 12 years -> https://www.youtube.com/wat
 
 
 🚀 CODE -> COMPUTER SCIENCE[MEMORY MANAGEMENT]
-
- 9. B. Red Team Scripts process injection-stack overflow-heap overflow.zip  =====> https://mutur4.github.io/posts/
+ 🚀 9. B. Red Team Scripts.zip
 
  OR
 
- engineer-dancun-personal-blog/content/posts/KERNEL-Files.md
+ engineer-dancun-personal-blog/content/posts/
+ 1. KERNEL-linux-malware-defense-evasion.md
+ 2. KERNEL-Pwnkit-CVE-2021-4034.md
+ 3. KERNEL-Linux-Process-Injection.md
+ 4. KERNEL-Linux-Remote-Process-Injection.md
+ 5. KERNEL-Linux-Kernel-Stack-Exploitation.md
+ 6. KERNEL-linux-kernel-heap-overflow.md
+ 7. KERNEL-signreturn-oriented-programming.md 🚀 Binary Exploitation attack
 
 
 
