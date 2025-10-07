@@ -255,8 +255,8 @@ Farming + Lands => Light Group
 
 =====> SHORT-TERM PERIOD [1]DAY
        🧨🧨🧨 INDICES 🧨🧨🧨  ---> Medium Volatility
-👉 ---> INDEX US100 / NDX100 / NASDAQ
-👉 ---> INDEX US500 / S&P500 USA ECONOMY
+👉 ---> INDEX US100 / NDX100 / NASDAQ     -----> NAS100 US tech 100 INDEX CFD  -----> Pepperstone
+👉 ---> INDEX US500 / S&P500 USA ECONOMY  -----> US500                         -----> Pepperstone
 
    
    >>> INDEX [US30, DJIA] ---> Highly Volatile
