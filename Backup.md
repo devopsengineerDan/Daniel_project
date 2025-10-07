@@ -96,6 +96,23 @@ Master's  
 ✅✅✅ ETERNAL, IMMUTABLE , PERFECT ✅✅✅
 ✅✅✅ HEROES THAT WERE OF OLD, WARRIORS OF THE RENOWN ✅✅✅
 
+✅ 3 [BLOCK/SQUARE]                     🧨🧨🧨 DEATH               ✅ 4 [EXTREME]
+🧨 INACTION                              - PROACTIVE                 🧨 ENSLAVEMENT
+🧨 INDECISIVE                            - ETHER                     🧨 MEAN {TILL YOUR DEATH AND THEIRS}
+🧨 DISTRACTION                           - ATTENTION                 🧨 OFFER MONEY/ASSET/VALUE             
+🧨 CHAOS/BIAS/ENVIRONMENT                - DISCIPLINE                🧨 OFFER SEX                 
+🧨 MEAN/HUNGER/DEATH                     - PRODUCTIVE    
+
+🧨🧨🧨 CON(Naive)/Obvious - LIE(Foolishness/Retard)/Petty - THEFT(Ignorance)/Stingy<->MinuteDetails
+🧨🧨🧨 Delay -   Excuse -  Failure
+
+
+                          🧨🧨🧨 LIFE
+                          🧨🧨🧨 MONEY
+                          🧨🧨🧨 WIFE
+                          🧨🧨🧨 LAND / PROPERTY
+============================================================================================================
+
 # 🚀 LIFE  AND NATURE [PARALLEL]
 # 🚀 ACADEMICIAN AND SCHOLAR [FATHER, MENTOR, TEACHER]
 
@@ -105,6 +122,23 @@ Master's  
 ```
 ✅✅✅ ETERNAL, IMMUTABLE , PERFECT ✅✅✅
 ✅✅✅ HEROES THAT WERE OF OLD, WARRIORS OF THE RENOWN ✅✅✅
+
+✅ 3 [BLOCK/SQUARE]                     🧨🧨🧨 DEATH               ✅ 4 [EXTREME]
+🧨 INACTION                              - PROACTIVE                 🧨 ENSLAVEMENT
+🧨 INDECISIVE                            - ETHER                     🧨 MEAN {TILL YOUR DEATH AND THEIRS}
+🧨 DISTRACTION                           - ATTENTION                 🧨 OFFER MONEY/ASSET/VALUE             
+🧨 CHAOS/BIAS/ENVIRONMENT                - DISCIPLINE                🧨 OFFER SEX                 
+🧨 MEAN/HUNGER/DEATH                     - PRODUCTIVE
+
+🧨🧨🧨 CON(Naive)/Obvious - LIE(Foolishness/Retard)/Petty - THEFT(Ignorance)/Stingy<->MinuteDetails
+🧨🧨🧨 Delay -   Excuse -  Failure
+
+
+                          🧨🧨🧨 LIFE
+                          🧨🧨🧨 MONEY
+                          🧨🧨🧨 WIFE
+                          🧨🧨🧨 LAND / PROPERTY
+============================================================================================================  
 
 🧨🧨🧨 GOD AND MY RIGHT 🧨🧨🧨
 🧨🧨🧨 JABULON 🧨🧨🧨
@@ -170,6 +204,23 @@ Master's  
 
         ✅✅✅ ETERNAL, IMMUTABLE , PERFECT ✅✅✅
         ✅✅✅ HEROES THAT WERE OF OLD, WARRIORS OF THE RENOWN ✅✅✅
+
+        ✅ 3 [BLOCK/SQUARE]                     🧨🧨🧨 DEATH               ✅ 4 [EXTREME]
+       🧨 INACTION                              - PROACTIVE                 🧨 ENSLAVEMENT
+       🧨 INDECISIVE                            - ETHER                     🧨 MEAN {TILL YOUR DEATH AND THEIRS}
+       🧨 DISTRACTION                           - ATTENTION                 🧨 OFFER MONEY/ASSET/VALUE             
+       🧨 CHAOS/BIAS/ENVIRONMENT                - DISCIPLINE                🧨 OFFER SEX                 
+       🧨 MEAN/HUNGER/DEATH                     - PRODUCTIVE
+
+🧨🧨🧨 CON(Naive)/Obvious - LIE(Foolishness/Retard)/Petty - THEFT(Ignorance)/Stingy<->MinuteDetails
+🧨🧨🧨 Delay -   Excuse -  Failure
+
+
+                          🧨🧨🧨 LIFE
+                          🧨🧨🧨 MONEY
+                          🧨🧨🧨 WIFE
+                          🧨🧨🧨 LAND / PROPERTY
+============================================================================================================ 
 
        🚀 MAN    ---> SPIRIT THAT WANTS TO CONQUER/GAIN ALL
        🚀 WOMAN  ---> SPIRIT THAT WANTS TO LOVE/GIVE ALL
@@ -461,7 +512,7 @@ AFRICA                          [BE HUMBLE & BE KIND]                         US
                                 KEVIN, RAYMOND, MAULID, OSBORN
 
 
- 🧨 SECURITY, Liberty [LIVE/NEUTRAL], Equality [LAUGH/LOVE/GRACE][CHANGE/FORGIVE], Equity [KINDNESS/EXIST]
+ 🧨 SECURITY, Liberty (LIVE<===>SILENCE,[NEUTRAL/ETHER]), Equality [LAUGH/LOVE/GRACE][CHANGE/FORGIVE], Equity [KINDNESS/EXIST]
  👉👉👉 SPIRIT ---> SECURITY && ACCEPTANCE
  👉👉👉 ENERGY ---> CONTINUOUS DEVELOPMENT(GROWTH/DECLINE)
  👉👉👉 VIBRATION ---> COMPETITIVE MATTER
@@ -632,9 +683,10 @@ IRRESPONSIBLE                      INEFFECTIVE         HELPLESS              UND
 -------------------------------------------------------------------------------------------------------------------------
 
                                                       KILL == EGO / INTELLIGENT ---> LEGEND
-                                                      🧨Naive
+                                                      🧨Naive/Obvious
 STEAL == CONTINUOUSLY ---> GAIN
 🧨Foolish
+🧨Retard
                                                       DESTROY == PRIDE ---> WIN
                                                       🧨Stupid 
 
@@ -675,7 +727,7 @@ STEAL == CONTINUOUSLY ---> GAIN
     >CALM (Emotional Intelligence && Stability)
               🧨 Enforcement && Quality Assurance  ===> FAST && STRONG
               👉✅ >1. SECRET SOLUTION
-              👉✅ >2. UNREADABLE
+              👉✅ >2. UNREADABLE/MYSTERY
               👉✅ >3. IRREPLACEABLE     🧨🧨🧨 RESPECT && OBEY THE THREE RULES
                                          🧨🧨🧨 [DO NOT BE KICKED OUT OF THE MARKET]
 🧨 SILENCE
@@ -693,28 +745,27 @@ STEAL == CONTINUOUSLY ---> GAIN
 🧨 DRUNKARD/DESTROY
 
 
- ✅ 3                         ✅ 4
- 🧨 INDECISIVE                🧨 ENSLAVEMENT
- 🧨 CHAOS                     🧨 MEAN {TILL YOUR DEATH AND THEIRS}
- 🧨 MEAN/HUNGER/DEATH         🧨 OFFER MONEY/ASSET/VALUE
-                              🧨 OFFER SEX
+ ✅ 3 [BLOCK/SQUARE]                     🧨🧨🧨 DEATH               ✅ 4 [EXTREME]
+       🧨 INACTION                              - PROACTIVE                 🧨 ENSLAVEMENT
+       🧨 INDECISIVE                            - ETHER                     🧨 MEAN {TILL YOUR DEATH AND THEIRS}
+       🧨 DISTRACTION                           - ATTENTION                 🧨 OFFER MONEY/ASSET/VALUE             
+       🧨 CHAOS/BIAS/ENVIRONMENT                - DISCIPLINE                🧨 OFFER SEX                 
+       🧨 MEAN/HUNGER/DEATH                     - PRODUCTIVE
 
----------------------------------------------------------------------------------------------------------------------------------------------
-       
-
-🧨🧨🧨 Naive / Lack of [Knowledge + Innovation]
-🧨🧨🧨 Foolish / Laziness
-🧨🧨🧨 Ignorance / Stupid
-
-🧨🧨🧨 CON(Naive)/Obvious - LIE(Foolishness)/Petty - THEFT(Ignorance)/Stingy<->MinuteDetails
+🧨🧨🧨 CON(Naive)/Obvious - LIE(Foolishness/Retard)/Petty - THEFT(Ignorance)/Stingy<->MinuteDetails
 🧨🧨🧨 Delay -   Excuse -  Failure
 
 
                           🧨🧨🧨 LIFE
                           🧨🧨🧨 MONEY
                           🧨🧨🧨 WIFE
-                          🧨🧨🧨 LAND / PROPERTY
+                          🧨🧨🧨 LAND / PROPERTY  
+                             
 
+🧨🧨🧨 Naive / Lack of [Knowledge + Innovation]
+🧨🧨🧨 Foolish / Laziness
+🧨🧨🧨 Ignorance / Stupid
+       
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 
