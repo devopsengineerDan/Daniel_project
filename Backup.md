@@ -212,9 +212,10 @@ Master's  
 
        ✅✅✅ CIVILIZATION ✅✅✅
 
-       🚀🚀🚀 DEPRESSED    WAR                           ===> DEATH       SECURITY <===> BELONGING  ORDAINED <===> CONSIENTIOUS
-       🚀🚀🚀 CONFUSION    DISEASE ----------------------- SUFFERING      EQUALITY <===> CLASS      CHOSEN   <===> CHARISMATIC
-       🚀🚀🚀 ENDULGENCE   POVERTY/DIVISION/VENGEANCE    ===> DEATH       EQUITY   <===> STATUS     ELECTED  <===> MATURE
+       
+       🚀🚀🚀 DEPRESSED    WAR       ✅ Torture + Trauma                                            ===> DEATH       SECURITY <===> BELONGING  ORDAINED <===> CONSIENTIOUS
+       🚀🚀🚀 CONFUSION    DRUGS     ✅ Scatter/Disperse + Drowned    DISEASE ----------------------- SUFFERING      EQUALITY <===> CLASS      CHOSEN   <===> CHARISMATIC
+       🚀🚀🚀 ENDULGENCE   PHYSICAL  ✅ Sexual abuse                  POVERTY/DIVISION/VENGEANCE    ===> DEATH       EQUITY   <===> STATUS     ELECTED  <===> MATURE
        -------------------------------------------------------------------------------------------------------------------------
        🚀🚀🚀 DEATH
        👉✅ TRUTH GOOD ===> TAKE <-> PRODUCE
@@ -224,10 +225,10 @@ Master's  
        👉✅ TRUTH EVIL ===> CONSUME
        🚀🚀🚀 DEATH
        -------------------------------------------------------------------------------------------------------------------------
-       🚀 SECRECY    --->  GOD        -> Conscious Altar - Forgiving | Unconscious Altar - Unforgiving 
-       🚀 AWARENESS  --->  WAR        -> Shield-Compliance | Freedom-Compliance
-       🚀 IDEAS      --->  RELIGION   -> Track | Chaos 
-       🚀 LOGIC      --->  BEURACRACY -> PROOF OF CONCEPT | Ignorance
+       🚀🚀🚀 SECRECY    --->  GOD                        -> Conscious Altar - Forgiving | Unconscious Altar - Unforgiving 
+       🚀🚀🚀 ATTENTION  --->  AWARENESS                  -> Shield-Compliance | Freedom-Compliance
+       🚀🚀🚀 IDEAS      --->  RELIGION   ✅ DEVELOPMENT  -> Track | Chaos 
+       🚀🚀🚀 LOGIC      --->  BEURACRACY ✅ INTEGRITY    -> PROOF OF CONCEPT | Ignorance
                                          ✅✅✅✅✅✅✅✅
        *********************************************************************************************************************************
        👉👉👉 DUALITY OF LIFE AND MOTHER-NATURE
