@@ -215,7 +215,7 @@ Master's  
        
        🚀🚀🚀 DEPRESSED    WAR       ✅ Torture + Trauma                                            ===> DEATH       SECURITY <===> BELONGING  ORDAINED <===> CONSIENTIOUS
        🚀🚀🚀 CONFUSION    DRUGS     ✅ Scatter/Disperse + Drowned    DISEASE ----------------------- SUFFERING      EQUALITY <===> CLASS      CHOSEN   <===> CHARISMATIC
-       🚀🚀🚀 ENDULGENCE   PHYSICAL  ✅ Sexual abuse                  POVERTY/DIVISION/VENGEANCE    ===> DEATH       EQUITY   <===> STATUS     ELECTED  <===> MATURE
+       🚀🚀🚀 ENDULGENCE   PHYSICAL  ✅ Sexual Violence + Abuse       POVERTY/DIVISION/VENGEANCE    ===> DEATH       EQUITY   <===> STATUS     ELECTED  <===> MATURE
        -------------------------------------------------------------------------------------------------------------------------
        🚀🚀🚀 DEATH
        👉✅ TRUTH GOOD ===> TAKE <-> PRODUCE
