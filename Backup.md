@@ -102,8 +102,19 @@ Master's  
 
 ```
 ✅✅✅ ETERNAL, IMMUTABLE , PERFECT ✅✅✅
+✅✅✅ CONSCIOUS, NEUTRAL, UNCONSCIOUS, CONSCIOUS ✅✅✅
+          ✅ ORDER
+          *BRAVIN/LENSE/VAIL
+          *ETHER/NEUTRAL
+          *GATEWAY
+          *THOUGHTS && ACTIONS
+✅THE AGES
+*PORTAL
 ✅✅✅ HEROES THAT WERE OF OLD, WARRIORS OF THE RENOWN ✅✅✅
-
+---------------------------------------------------------------------------------------------------------
+✅✅✅ RELIGION ✅✅✅
+---------------------------------------------------------------------------------------------------------
+✅✅✅ FUNDAMENTALS ✅✅✅
 ✅ 3 [BLOCK/SQUARE]                     🧨🧨🧨 DEATH               ✅ 4 [EXTREME]
 🧨 INACTION                              - PROACTIVE                 🧨 ENSLAVEMENT
 🧨 INDECISIVE                            - ETHER                     🧨 MEAN {TILL YOUR DEATH AND THEIRS}
@@ -119,6 +130,9 @@ Master's  
                           🧨🧨🧨 MONEY
                           🧨🧨🧨 WIFE
                           🧨🧨🧨 LAND / PROPERTY
+🧨🧨🧨 Naive / Lack of [Knowledge + Innovation]
+🧨🧨🧨 Foolish / Laziness
+🧨🧨🧨 Ignorance / Stupid
 ============================================================================================================  
 
 🧨🧨🧨 GOD AND MY RIGHT 🧨🧨🧨
@@ -183,15 +197,26 @@ Master's  
 
 ====================================================================================================================================
 
-        ✅✅✅ ETERNAL, IMMUTABLE , PERFECT ✅✅✅
-        ✅✅✅ HEROES THAT WERE OF OLD, WARRIORS OF THE RENOWN ✅✅✅
-
-        ✅ 3 [BLOCK/SQUARE]                     🧨🧨🧨 DEATH               ✅ 4 [EXTREME]
-       🧨 INACTION                              - PROACTIVE                 🧨 ENSLAVEMENT
-       🧨 INDECISIVE                            - ETHER                     🧨 MEAN {TILL YOUR DEATH AND THEIRS}
-       🧨 DISTRACTION                           - ATTENTION                 🧨 OFFER MONEY/ASSET/VALUE             
-       🧨 CHAOS/BIAS/ENVIRONMENT                - DISCIPLINE                🧨 OFFER SEX                 
-       🧨 MEAN/HUNGER/DEATH                     - PRODUCTIVE
+✅✅✅ ETERNAL, IMMUTABLE , PERFECT ✅✅✅
+✅✅✅ CONSCIOUS, NEUTRAL, UNCONSCIOUS, CONSCIOUS ✅✅✅
+          ✅ ORDER
+          *BRAVIN/LENSE/VAIL
+          *ETHER/NEUTRAL
+          *GATEWAY
+          *THOUGHTS && ACTIONS
+✅THE AGES
+*PORTAL
+✅✅✅ HEROES THAT WERE OF OLD, WARRIORS OF THE RENOWN ✅✅✅
+---------------------------------------------------------------------------------------------------------
+✅✅✅ RELIGION ✅✅✅
+---------------------------------------------------------------------------------------------------------
+✅✅✅ FUNDAMENTALS ✅✅✅
+✅ 3 [BLOCK/SQUARE]                     🧨🧨🧨 DEATH               ✅ 4 [EXTREME]
+🧨 INACTION                              - PROACTIVE                 🧨 ENSLAVEMENT
+🧨 INDECISIVE                            - ETHER                     🧨 MEAN {TILL YOUR DEATH AND THEIRS}
+🧨 DISTRACTION                           - ATTENTION                 🧨 OFFER MONEY/ASSET/VALUE             
+🧨 CHAOS/BIAS/ENVIRONMENT                - DISCIPLINE                🧨 OFFER SEX                 
+🧨 MEAN/HUNGER/DEATH                     - PRODUCTIVE
 
 🧨🧨🧨 CON(Naive)/Obvious - LIE(Foolishness/Retard)/Petty - THEFT(Ignorance)/Stingy<->MinuteDetails
 🧨🧨🧨 Delay -   Excuse -  Failure
@@ -201,6 +226,9 @@ Master's  
                           🧨🧨🧨 MONEY
                           🧨🧨🧨 WIFE
                           🧨🧨🧨 LAND / PROPERTY
+🧨🧨🧨 Naive / Lack of [Knowledge + Innovation]
+🧨🧨🧨 Foolish / Laziness
+🧨🧨🧨 Ignorance / Stupid
 ============================================================================================================ 
 
        🚀 MAN    ---> SPIRIT THAT WANTS TO CONQUER/GAIN ALL
