@@ -111,6 +111,10 @@ Master's  
 ✅THE AGES
 *PORTAL
 ✅✅✅ HEROES THAT WERE OF OLD, WARRIORS OF THE RENOWN ✅✅✅
+        ✅✅✅ CONSERVATIVE LIBERAL        -> SECURITY
+        ✅✅✅ LIBERAL                     -> CARE
+        ✅✅✅ DEMOCRAT                    -> DISCIPLINE[LOVE/OBEDIENT] TO 🧨🧨🧨NATURAL LAW🧨🧨🧨
+        ✅✅✅ CONSERVATIVE REPUBLICAN     -> JUSTICE
 ---------------------------------------------------------------------------------------------------------
 ✅✅✅ RELIGION ✅✅✅
 ---------------------------------------------------------------------------------------------------------
