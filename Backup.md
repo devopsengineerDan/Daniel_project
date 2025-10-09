@@ -125,7 +125,7 @@ Master's  
   HARMONIUOS<->INTEGRATED<->INDUSTRY
 🧨OBEDIENCE
 🧨KINDNESS
-🧨FORGIVENESS
+🧨🧨🧨FORGIVENESS [TIME & SPACE]
 ----------------------------------------
 ✅ MASTER ===> OBELISK
 🧨SNAKE-LION
@@ -255,7 +255,7 @@ Master's  
   HARMONIUOS<->INTEGRATED<->INDUSTRY
 🧨OBEDIENCE
 🧨KINDNESS
-🧨FORGIVENESS
+🧨🧨🧨FORGIVENESS [TIME & SPACE]
 ----------------------------------------
 ✅ MASTER ===> OBELISK
 🧨SNAKE-LION
