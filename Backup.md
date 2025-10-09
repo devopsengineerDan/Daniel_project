@@ -111,12 +111,45 @@ Master's  
 ✅THE AGES
 *PORTAL
 ✅✅✅ HEROES THAT WERE OF OLD, WARRIORS OF THE RENOWN ✅✅✅
-        ✅✅✅ CONSERVATIVE LIBERAL        -> SECURITY
-        ✅✅✅ LIBERAL                     -> CARE
-        ✅✅✅ DEMOCRAT                    -> DISCIPLINE[LOVE/OBEDIENT] TO 🧨🧨🧨NATURAL LAW🧨🧨🧨
-        ✅✅✅ CONSERVATIVE REPUBLICAN     -> JUSTICE
+        ✅✅✅ CONSERVATIVE LIBERAL        -> ESSENCE🧨SECURITY
+        ✅✅✅ LIBERAL                     -> HEART  🧨CARE
+        ✅✅✅ DEMOCRAT                    -> MIND   🧨DISCIPLINE[LOVE/OBEDIENT] TO 🧨🧨🧨NATURAL LAW🧨🧨🧨
+        ✅✅✅ CONSERVATIVE REPUBLICAN     -> BODY   🧨JUSTICE
+                                           -> ESSENCE🧨SECURITY
 ---------------------------------------------------------------------------------------------------------
 ✅✅✅ RELIGION ✅✅✅
+✅ ESSENCE ===> CROWN
+🧨VALUE THE INTERNAL NOT THE EXTERNAL
+  LIFE<->CONNECT<->NATURE
+  MAN<->CONNECT<->WOMAN
+  HARMONIUOS<->INTEGRATED<->INDUSTRY
+🧨OBEDIENCE
+🧨KINDNESS
+🧨FORGIVENESS
+----------------------------------------
+✅ MASTER ===> OBELISK
+🧨SNAKE-LION
+🧨BULL
+         🧨SNAKE-LION
+         🧨EAGLE
+         🧨FOX
+🧨BEAR
+         🧨LION-SNAKE
+----------------------------------------
+✅ JOURNEY
+===> GOAT&DOG SCEPTRE     ===> ANKH
+🧨KARMA/DOG               🧨JUSTICE
+----------------------------------------
+✅ NOVICE
+🧨🧨🧨DEATH
+===> SUN   RAH[UNITY]     ---> [TORTURE&TRAUMA]
+===> EAGLE HORUS
+     [SPIRIT---FEEL]
+===> ISIS & OSIRIS ---> [UNCONSCIOUSNESS & DROWNED] DRUGS
+     [SOUL] [MIND]
+===> BLACK SUN     ---> SEXUAL ABUSE
+     [BODY]                    
+🧨🧨🧨DEATH
 ---------------------------------------------------------------------------------------------------------
 ✅✅✅ FUNDAMENTALS ✅✅✅
 ✅ 3 [BLOCK/SQUARE]                     🧨🧨🧨 DEATH               ✅ 4 [EXTREME]
@@ -137,6 +170,7 @@ Master's  
 🧨🧨🧨 Naive / Lack of [Knowledge + Innovation]
 🧨🧨🧨 Foolish / Laziness
 🧨🧨🧨 Ignorance / Stupid
+
 ============================================================================================================  
 
 🧨🧨🧨 GOD AND MY RIGHT 🧨🧨🧨
@@ -213,6 +247,39 @@ Master's  
 ✅✅✅ HEROES THAT WERE OF OLD, WARRIORS OF THE RENOWN ✅✅✅
 ---------------------------------------------------------------------------------------------------------
 ✅✅✅ RELIGION ✅✅✅
+✅✅✅ RELIGION ✅✅✅
+✅ ESSENCE ===> CROWN
+🧨VALUE THE INTERNAL NOT THE EXTERNAL
+  LIFE<->CONNECT<->NATURE
+  MAN<->CONNECT<->WOMAN
+  HARMONIUOS<->INTEGRATED<->INDUSTRY
+🧨OBEDIENCE
+🧨KINDNESS
+🧨FORGIVENESS
+----------------------------------------
+✅ MASTER ===> OBELISK
+🧨SNAKE-LION
+🧨BULL
+         🧨SNAKE-LION
+         🧨EAGLE
+         🧨FOX
+🧨BEAR
+         🧨LION-SNAKE
+----------------------------------------
+✅ JOURNEY
+===> GOAT&DOG SCEPTRE     ===> ANKH
+🧨KARMA/DOG               🧨JUSTICE
+----------------------------------------
+✅ NOVICE
+🧨🧨🧨DEATH
+===> SUN   RAH[UNITY]     ---> [TORTURE&TRAUMA]
+===> EAGLE HORUS
+     [SPIRIT---FEEL]
+===> ISIS & OSIRIS ---> [UNCONSCIOUSNESS & DROWNED] DRUGS
+     [SOUL] [MIND]
+===> BLACK SUN     ---> SEXUAL ABUSE
+     [BODY]                    
+🧨🧨🧨DEATH
 ---------------------------------------------------------------------------------------------------------
 ✅✅✅ FUNDAMENTALS ✅✅✅
 ✅ 3 [BLOCK/SQUARE]                     🧨🧨🧨 DEATH               ✅ 4 [EXTREME]
@@ -233,6 +300,7 @@ Master's  
 🧨🧨🧨 Naive / Lack of [Knowledge + Innovation]
 🧨🧨🧨 Foolish / Laziness
 🧨🧨🧨 Ignorance / Stupid
+
 ============================================================================================================ 
 
        🚀 MAN    ---> SPIRIT THAT WANTS TO CONQUER/GAIN ALL
