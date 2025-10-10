@@ -125,7 +125,8 @@ Master's  
   HARMONIUOS<->INTEGRATED<->INDUSTRY
 🧨OBEDIENCE
 🧨KINDNESS
-🧨🧨🧨FORGIVENESS [TIME & SPACE]
+🧨🧨🧨FORGIVENESS [TIME & SPACE]   ===> MATURE   🧨HARMONY WITH NATURE
+🧨🧨🧨UNFORGIVENESS [TIME & SPACE] ===> IMMATURE 🧨JUSTICE
 ----------------------------------------
 ✅ MASTER ===> OBELISK
 🧨SNAKE-LION
