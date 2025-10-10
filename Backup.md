@@ -9129,6 +9129,7 @@ FORM SUBMIT  ===> use random email ,CC, _captcha [To secure from Malicious Bots 
 
 👉 DJANGO => https://www.youtube.com/watch?v=EuBQU_miReM
 👉 3HRS DJANGO COURSE ===> https://www.youtube.com/watch?v=sm1mokevMWk
+👉 Django Authentication & User Management ===> https://www.youtube.com/watch?v=WuyKxdLcw3w
 👉 7HRS DJANGO COURSE ===> https://youtu.be/PtQiiknWUcI?si=gL0E-J5YfdaZ5Xu8
 👉 DJANGO TODO APP ===> https://www.youtube.com/watch?v=llbtoQTt4qw
 👉 DJANGO COMPLETE COURSE => https://www.udemy.com/course/python-django-2021-complete-course/?referralCode=5EE78E30D7C468BF08F6&couponCode=25BBPMXNVD25CTRL
