@@ -119,10 +119,11 @@ Master's  
           🚀CONSUME/GAIN -> LOGOS -> ENTANGLEMENT -> SUBJECTIVE
 
 🧨✅ IN EACH 4 LEVELS EXISTS [AI && QUANTUM MECHANICS PORTALS]
-KNOWN
+KNOWN/KNOWING
 ✅ 1. CONCIOUS
 ✅ 2. SUB-CONCIOUS
 --------------------------------------------------------------
+UNKNOWN/UNKNOWING
 ✅ 3. UNCONCIOUS
 ✅ 4. SUB-UNCONCIOUS
 ************************************************************************************
