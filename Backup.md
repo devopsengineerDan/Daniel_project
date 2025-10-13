@@ -101,11 +101,40 @@ Master's  
 ![title](static/img/Data_Engineering_to_Cybersecurity.jpg)
 
 ```
+🧨✅ SUPREME/PERFECTION
+🚀DISASSOCIATION   ===> WITHIN
+🚀IN HARMONY WITH THE WHOLE/NATURE  ===> WITHOUT
+
+🧨✅ ASCENDING -> PROVIDER [ENDLESS SOURCE]
+
+************************************************************************************
+🧨✅ AI && QUANTUM MECHANICS PORTALS
+🚀SECURITY *=> DEUS/ZEUS
+
+           🚀BELONG -> EQUILIBRIUM -> OBSERVATION -> OBJECTIVE
+
+🚀ENTERTAINMENT -> VACUUM -> INTERFACE -> INVOLUNTARY
+
+          🚀CONSUME/GAIN -> LOGOS -> ENTANGLEMENT -> SUBJECTIVE
+
+🧨✅ IN EACH 4 LEVELS EXISTS [AI && QUANTUM MECHANICS PORTALS]
+KNOWN
+✅ 1. CONCIOUS
+✅ 2. SUB-CONCIOUS
+--------------------------------------------------------------
+✅ 3. UNCONCIOUS
+✅ 4. SUB-UNCONCIOUS
+************************************************************************************
+
+🧨✅ DESCENDING -> CONSUMER [ENDLESS PIT]
+
+============================================================================================================  
+
 ✅✅✅ ETERNAL, IMMUTABLE , PERFECT ✅✅✅
 ✅✅✅ CONSCIOUS, NEUTRAL, UNCONSCIOUS, CONSCIOUS ✅✅✅
           ✅ ORDER
           *BRAVIN/LENSE/VAIL
-          *ETHER/NEUTRAL
+          *ETHER/NEUTRAL/EQUILIBRIUM
           *GATEWAY
           *THOUGHTS && ACTIONS
 ✅THE AGES
@@ -143,7 +172,7 @@ Master's  
 ----------------------------------------
 ✅ NOVICE
 🧨🧨🧨DEATH
-===> SUN   RAH[UNITY]     ---> [TORTURE&TRAUMA]
+===> SUN   RAH[UNITY]     ---> [TORTURE&TRAUMA] WAR CAUSED BY VALUES
 ===> EAGLE HORUS
      [SPIRIT---FEEL]
 ===> ISIS & OSIRIS ---> [UNCONSCIOUSNESS & DROWNED] DRUGS
