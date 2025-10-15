@@ -1410,7 +1410,7 @@ Higher Time Frame    Lower Time Frame
 # INDICES STRATEGY
 
 ```
-> FVG
+> FVG && IFVG
 > Open Interest
 > Weekly Encroachment
 > PRICE ACTION EXPERIENCE
