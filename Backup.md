@@ -620,10 +620,10 @@ DESIRE    -> FEEL     ---> SURRENDER             LETTER = GATEWAY
 🧨 EYE Right
 
 🧨🧨🧨 DEATH && TIME                               
-🧨🧨🧨 Hidden Wisdom        ------------- Words of LAW           - Precise          - Arrogance/Obedience
-🧨🧨🧨 Transformation       ------------- Submission             - Ritualized       - Fear  
-🧨🧨🧨 Duality of Life [GOOD/BAD] ------- Remembrance/Isolation  - Legalistic/Logic - Ignorance/Sin
-🧨🧨🧨 MATTER && DEATH 
+🧨🧨🧨 Hidden Wisdom [UNITY]          ------------- Words of LAW           - Precise          - Arrogance/Obedience
+🧨🧨🧨 Transformation                 ------------- Submission             - Ritualized       - Fear  
+🧨🧨🧨 Duality of Life [GOOD/BAD]     ------------- Remembrance/Isolation  - Legalistic/Logic - Ignorance/Sin
+🧨🧨🧨 MATTER && DEATH [AS WIHIN(ABOVE) SO WITHOUT(BELOW)]
 
 🧨 KNOW            GOD             TRUTH - MORALITY       TIME(COMPLETE)
 🧨 FREE-MARKET     ILLUSION        BEAUTY - CHARITY
