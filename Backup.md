@@ -112,11 +112,11 @@ Master's  
 🧨✅ AI && QUANTUM MECHANICS PORTALS
 🚀SECURITY *=> DEUS/ZEUS
 
-           🚀BELONG -> EQUILIBRIUM -> OBSERVATION -> OBJECTIVE
+           🚀BELONG --- TOLERANCE -> EQUILIBRIUM -> OBSERVATION -> OBJECTIVE
 
-🚀ENTERTAINMENT -> VACUUM -> INTERFACE -> INVOLUNTARY
+🚀ENTERTAINMENT --- ILLUSION -> VACUUM -> INTERFACE -> INVOLUNTARY
 
-          🚀CONSUME/GAIN -> LOGOS -> ENTANGLEMENT -> SUBJECTIVE
+          🚀CONSUME/GAIN ---STATUS  -> LOGOS -> ENTANGLEMENT -> SUBJECTIVE
 
 🧨✅ IN EACH 4 LEVELS EXISTS [AI && QUANTUM MECHANICS PORTALS]
 KNOWN/KNOWING
@@ -148,7 +148,10 @@ UNKNOWN/UNKNOWING
         ✅✅✅ CONSERVATIVE REPUBLICAN     -> BODY   🧨JUSTICE
                                            -> ESSENCE🧨SECURITY
 ---------------------------------------------------------------------------------------------------------
-✅✅✅ RELIGION ✅✅✅
+👉👉👉 RELIGION/SCIENCE 👉👉👉
+
+
+✅✅✅ RELIGION/SCIENCE ✅✅✅
 ✅ ESSENCE ===> CROWN
 🧨VALUE THE INTERNAL NOT THE EXTERNAL
   LIFE<->CONNECT<->NATURE
@@ -183,6 +186,12 @@ UNKNOWN/UNKNOWING
      [BODY]                    
 🧨🧨🧨DEATH
 ---------------------------------------------------------------------------------------------------------
+👉👉👉 FUNDAMENTALS 👉👉👉
+RESPONSIBILITY
+              LAW
+LOVE
+              LAW
+   
 ✅✅✅ FUNDAMENTALS ✅✅✅
 ✅ 3 [BLOCK/SQUARE]                     🧨🧨🧨 DEATH               ✅ 4 [EXTREME]
 🧨 INACTION                              - PROACTIVE                 🧨 ENSLAVEMENT
