@@ -540,9 +540,9 @@ DESTRUCTIVE ECONOMY    ---> Destroy/Destructive Environment to TAKE MORE
 ✅ MASTER
    🧨Security
         🧨Greed
-               🧨Ego
-        🧨Fear
-               🧨Hate
+               🧨Ego - Distraction
+        🧨Fear - Chaos
+               🧨Hate - Stress
                       🧨Security
 ```
 
