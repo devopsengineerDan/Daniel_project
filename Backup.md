@@ -294,6 +294,9 @@ UNKNOWN/UNKNOWING
        🚀 MEANINGFUL TIME,SPACE && MATTER
        🚀 MEANINGLESS TIME,SPACE && MATTER
 
+       Consious Master | Universe is Hallucination
+       Nothing is Random | nothing is random
+       Nothing is Everything | everything is nothing
 
        ✅✅✅ CIVILIZATION ✅✅✅
 
