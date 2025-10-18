@@ -149,11 +149,12 @@ UNKNOWN/UNKNOWING
 ✅THE AGES[SUB-CONSCIOUS]
 *PORTAL
 ✅✅✅ HEROES THAT WERE OF OLD, WARRIORS OF THE RENOWN ✅✅✅
-        ✅✅✅ CONSERVATIVE LIBERAL        -> ESSENCE🧨SECURITY
-        ✅✅✅ LIBERAL                     -> HEART  🧨CARE
-        ✅✅✅ DEMOCRAT                    -> MIND   🧨DISCIPLINE[LOVE/OBEDIENT] TO 🧨🧨🧨NATURAL LAW🧨🧨🧨
-        ✅✅✅ CONSERVATIVE REPUBLICAN     -> BODY   🧨JUSTICE
-                                           -> ESSENCE🧨SECURITY
+       EMPIRE - ONE        ✅✅✅ CONSERVATIVE LIBERAL      -> ESSENCE🧨SECURITY
+       MASTER - UNITY      ✅✅✅ LIBERAL                   -> HEART  🧨CARE
+       JOURNEY MAN - LOVE  ✅✅✅ DEMOCRAT                  -> MIND   🧨DISCIPLINE[LOVE/OBEDIENT] TO 🧨🧨🧨NATURAL LAW🧨🧨🧨
+                                                            && SOUL
+       NOVICE - PEACE      ✅✅✅ CONSERVATIVE REPUBLICAN   -> BODY   🧨JUSTICE
+                                                            -> ESSENCE🧨SECURITY
 ---------------------------------------------------------------------------------------------------------
 👉👉👉 RELIGION/RITUAL && ENTERTAINMENT && SCIENCE 👉👉👉
 *SECURITY[INTELLIGENCE && MILITARY INDUSTRIAL COMPLEX]
@@ -246,7 +247,7 @@ UNKNOWN/UNKNOWING
                                        ✅ KNOW TO DETAIL (DEATH) (DOPAMINE) <---> CONNECT DOTS (FEAR) (REMORSE) <---> COMPETITIVE (OBTAIN) (DEATH)
                                           🧨 TIME                                 🧨 WAY                              🧨 ACTION
                                        ✅ OWN && BE NATURAL
-                                       ✅ DECIDE && BE NEUTRAL && BE KIND
+                                       ✅ DECIDE && BE CONCIOUS-NEUTRAL && BE KIND
 
 =====================================================================================================================================================
 
@@ -536,6 +537,13 @@ DESTRUCTIVE ECONOMY    ---> Destroy/Destructive Environment to TAKE MORE
            Knowledge               ---->   Desire - Destraction && Anxious
            Influence, Persuasion   ---->   Wounded
            Destruction             ---->   Angry
+✅ MASTER
+   🧨Security
+        🧨Greed
+               🧨Ego
+        🧨Fear
+               🧨Hate
+                      🧨Security
 ```
 
 ```
@@ -616,11 +624,11 @@ DESIRE    -> FEEL     ---> SURRENDER             LETTER = GATEWAY
                       ---> ACCEPTANCE            NUMBER = FORMULAE
 ****************************************************************************************
 🌀 2. THE SOUL OF THE LAW
-✅ ✅ ✅  SOUL  ✅ ✅ ✅  
+✅ ✅ ✅  MIND && SOUL  ✅ ✅ ✅  
 
 ✅ MIND/AIR     -> THOUGHT    -> INTEPRETATION / INQUIRY / PARABLE / STORY  🧨 DERASH
 ----------------------------------------------------------------------------------------
-✅ ENERGY/WATER   -> EMOTION    -> IMAGINATION / ILLUSION / HINT / SYMBOLIC /HIDDEN  🧨 REMEZ
+✅ SOUL/ENERGY/WATER   -> EMOTION    -> IMAGINATION / ILLUSION / HINT / SYMBOLIC /HIDDEN  🧨 REMEZ
 
 ****************************************************************************************
 🌀 3. THE LAW
@@ -699,7 +707,7 @@ Competitive             Hard work(Realistic)          REALITY/REALISTIC(High Per
 🧨 LIFE                     🧨 RELATIONSHIP                    🧨 AGREEMENT  
 SPIRIT-Fire-Feel            Common 👉 ROLE                     Reason==Belief
 MIND-Air-Thought            Position/Mindset 👉 ROLE           Constitutional Law==Agreement     
-EMOTION-Water-Energy        Relationship     👉 ROLE           Research==Invention/Innovation
+SOUL/EMOTION-Water-Energy   Relationship     👉 ROLE           Research==Invention/Innovation
 BODY-Earth-Vibration        Status  👉ROLE                     Acceptance
 
 
@@ -1322,10 +1330,10 @@ VACUUM
 
 
 
-         SILENCE **************
-         Self Mastery                        PSYCHOLOGY[MINE+ENVIRONMENT]       FEEL <=> TIME              [Who am I + What Position am I, Who is the other party + What Position is the other party: Are we in the SAME PAGE]
-         Listen *ALL SENSES*                                                    ENERGY <=> WAY             Where are we
-         Write + Communicate                                                    VIBRATION <=> REALISTIC    What Message[SILENCE + ALLOWANCE FOR ENVIRONMENT + TO RESPOND] + How to Pass Message[ORDERLY] + COMPLETE Message   
+         🧨SILENCE **************
+         🧨Self Mastery                      PSYCHOLOGY[MINE+ENVIRONMENT]       FEEL <=> TIME              [Who am I + What Position am I, Who is the other party + What Position is the other party: Are we in the SAME PAGE]
+         🧨Listen *ALL SENSES*                                                    ENERGY <=> WAY             Where are we
+         🧨Write + Communicate                                                    VIBRATION <=> REALISTIC    What Message[SILENCE + ALLOWANCE FOR ENVIRONMENT + TO RESPOND] + How to Pass Message[ORDERLY] + COMPLETE Message   
 
 
 
@@ -1341,9 +1349,9 @@ VACUUM
 
 
 
-ADAPT
-REVIEW
-INNOVATE + INVENT
+🧨ADAPT
+🧨REVIEW
+🧨INNOVATE + INVENT
 
 
 
@@ -1351,9 +1359,9 @@ INNOVATE + INVENT
 
 
 
-         Performance
-         Quality IN ALL**************
-         Stability
+         🧨Performance
+         🧨Quality IN ALL**************
+         🧨Stability
 
 🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨🧨
 
