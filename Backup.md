@@ -101,6 +101,8 @@ Master's  
 ![title](static/img/Data_Engineering_to_Cybersecurity.jpg)
 
 ```
+👉👉👉 ETERNAL, IMMUTABLE , PERFECT 👉👉👉
+✅✅✅ ETERNAL, IMMUTABLE , PERFECT ✅✅✅
 🧨✅ SUPREME/PERFECTION [SILENCE && SECURITY && INTELLIGENCE && AWARENESS]
 🚀THE DISASSOCIATION   ===> WITHIN/RESTS 
 🚀IN HARMONY WITH  ===> INGREGRATION/DOES NOT REST
@@ -131,9 +133,14 @@ UNKNOWN/UNKNOWING
 🧨✅ DESCENDING -> CONSUMER [ENDLESS PIT]
 
 ============================================================================================================  
+👉👉👉 PHILOSOPHY 👉👉👉
+*SECURE
+*LIFE
+               *TOLERANCE/LIBERTY
+*HAPPINESS
+               *HEALTH
 
-✅✅✅ ETERNAL, IMMUTABLE , PERFECT ✅✅✅
-✅✅✅ CONSCIOUS, NEUTRAL, UNCONSCIOUS, CONSCIOUS ✅✅✅
+✅✅✅ CONSCIOUS, CONSCIOUS-NEUTRAL, SUB-CONSCIOUS, CONSCIOUS ✅✅✅
           ✅ ORDER
           *BRAVIN/LENSE/VAIL
           *ETHER/NEUTRAL/EQUILIBRIUM
@@ -148,10 +155,14 @@ UNKNOWN/UNKNOWING
         ✅✅✅ CONSERVATIVE REPUBLICAN     -> BODY   🧨JUSTICE
                                            -> ESSENCE🧨SECURITY
 ---------------------------------------------------------------------------------------------------------
-👉👉👉 RELIGION/SCIENCE 👉👉👉
+👉👉👉 RELIGION/ENTERTAINMENT && SCIENCE 👉👉👉
+*SECURITY[INTELLIGENCE && MILITARY INDUSTRIAL COMPLEX]
+*FINANCE[INSURANCE && BANKING]
+                 *POLITICS
+*RELIGION/ENTERTAINMENT 
+                 *JURISDICTION
 
-
-✅✅✅ RELIGION/SCIENCE ✅✅✅
+✅✅✅ RELIGION/ENTERTAINMENT && SCIENCE ✅✅✅
 ✅ ESSENCE ===> CROWN
 🧨VALUE THE INTERNAL NOT THE EXTERNAL
   LIFE<->CONNECT<->NATURE
@@ -186,13 +197,14 @@ UNKNOWN/UNKNOWING
      [BODY]                    
 🧨🧨🧨DEATH
 ---------------------------------------------------------------------------------------------------------
-👉👉👉 FUNDAMENTALS 👉👉👉
-RESPONSIBILITY
-              LAW
-LOVE
-              LAW
+👉👉👉 FUNDAMENTALS/NATURAL LAW 👉👉👉
+*SECURITY
+*RESPONSIBILITY
+              *LAW[TIME]
+*LOVE[SPACE]
+              *LAW[MATTER]
    
-✅✅✅ FUNDAMENTALS ✅✅✅
+✅✅✅ FUNDAMENTALS/NATURAL LAW ✅✅✅
 ✅ 3 [BLOCK/SQUARE]                     🧨🧨🧨 DEATH               ✅ 4 [EXTREME]
 🧨 INACTION                              - PROACTIVE                 🧨 ENSLAVEMENT
 🧨 INDECISIVE                            - ETHER                     🧨 MEAN {TILL YOUR DEATH AND THEIRS}
