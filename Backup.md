@@ -742,10 +742,16 @@ PROTECT Life, Liberty, Equality and Property
                               ---> 👉👉👉👉 [Security]
                               ---> 👉 [Wisdom]  
                               ---> 👉 [Innovation, Invention]
-                              ---> 👉 [Strength, Remember*Ability, Control*Agility, Speed]
-                              🧨 GOLD/MONEY - WOMAN - PROPERTY
-                              🧨 INHERITANCE - STEAL - HARDWORK  ---> SEX
-                              🧨 KILL - STEAL - DESTROY 
+                              ---> 👉 [*Strong Will,
+                                                  *Remember(Short-term && Long-term),
+                                                  *Ability,
+                                       *Control,
+                                       *Agility,
+                                                  *Speed
+                                                  *Physically Strong]
+                              🧨🧨🧨 GOLD/MONEY - WOMAN - PROPERTY
+                              🧨🧨🧨 INHERITANCE - STEAL - HARDWORK  ---> SEX
+                              🧨🧨🧨 KILL - STEAL - DESTROY 
                               
                               
 ***************************************************************************************************************************
