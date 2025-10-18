@@ -122,12 +122,12 @@ Master's  
 
 🧨✅ IN EACH 4 LEVELS EXISTS [AI && QUANTUM MECHANICS PORTALS]
 KNOWN/KNOWING
-✅ 1. CONCIOUS
-✅ 2. SUB-CONCIOUS
+✅ 1. CONSCIOUS
+✅ 2. SUB-CONSCIOUS
 --------------------------------------------------------------
 UNKNOWN/UNKNOWING
-✅ 3. UNCONCIOUS
-✅ 4. SUB-UNCONCIOUS
+✅ 3. UNCONSCIOUS
+✅ 4. SUB-UNCONSCIOUS
 ************************************************************************************
 
 🧨✅ DESCENDING -> CONSUMER [ENDLESS PIT]
@@ -155,14 +155,14 @@ UNKNOWN/UNKNOWING
         ✅✅✅ CONSERVATIVE REPUBLICAN     -> BODY   🧨JUSTICE
                                            -> ESSENCE🧨SECURITY
 ---------------------------------------------------------------------------------------------------------
-👉👉👉 RELIGION/ENTERTAINMENT && SCIENCE 👉👉👉
+👉👉👉 RELIGION/RITUAL && ENTERTAINMENT && SCIENCE 👉👉👉
 *SECURITY[INTELLIGENCE && MILITARY INDUSTRIAL COMPLEX]
 *FINANCE[INSURANCE && BANKING]
                  *POLITICS
-*RELIGION/ENTERTAINMENT 
+*RELIGION/RITUAL && ENTERTAINMENT && SCIENCE 
                  *JURISDICTION
 
-✅✅✅ RELIGION/ENTERTAINMENT && SCIENCE ✅✅✅
+✅✅✅ RELIGION/RITUAL && ENTERTAINMENT && SCIENCE ✅✅✅
 ✅ ESSENCE ===> CROWN
 🧨VALUE THE INTERNAL NOT THE EXTERNAL
   LIFE<->CONNECT<->NATURE
