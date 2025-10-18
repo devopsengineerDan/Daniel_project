@@ -101,8 +101,8 @@ Master's  
 ![title](static/img/Data_Engineering_to_Cybersecurity.jpg)
 
 ```
-👉👉👉 ETERNAL, IMMUTABLE , PERFECT 👉👉👉
-✅✅✅ ETERNAL, IMMUTABLE , PERFECT ✅✅✅
+👉👉👉 ETERNAL, IMMUTABLE && MUTABLE, PERFECT |  DEUS ZEUS  A+ 👉👉👉
+✅✅✅ ETERNAL, IMMUTABLE && MUTABLE, PERFECT |  DEUS ZEUS  A+ ✅✅✅
 🧨✅ SUPREME/PERFECTION [SILENCE && SECURITY && INTELLIGENCE && AWARENESS]
 🚀THE DISASSOCIATION   ===> WITHIN/RESTS 
 🚀IN HARMONY WITH  ===> INGREGRATION/DOES NOT REST
@@ -141,12 +141,12 @@ UNKNOWN/UNKNOWING
                *HEALTH
 
 ✅✅✅ CONSCIOUS, CONSCIOUS-NEUTRAL, SUB-CONSCIOUS, CONSCIOUS ✅✅✅
-          ✅ ORDER
-          *BRAVIN/LENSE/VAIL
-          *ETHER/NEUTRAL/EQUILIBRIUM
+          ✅ ORDER[CONSCIOUS]
+                *BRAVIN/LENSE/VAIL
+                *ETHER/NEUTRAL/EQUILIBRIUM
           *GATEWAY
-          *THOUGHTS && ACTIONS
-✅THE AGES
+                *THOUGHTS && ACTIONS
+✅THE AGES[SUB-CONSCIOUS]
 *PORTAL
 ✅✅✅ HEROES THAT WERE OF OLD, WARRIORS OF THE RENOWN ✅✅✅
         ✅✅✅ CONSERVATIVE LIBERAL        -> ESSENCE🧨SECURITY
@@ -287,12 +287,12 @@ UNKNOWN/UNKNOWING
                                                🧨 KIND
 
 ====================================================================================================================================
-
-       🚀 MAN    ---> SPIRIT THAT WANTS TO CONQUER/GAIN ALL
-       🚀 WOMAN  ---> SPIRIT THAT WANTS TO LOVE/GIVE ALL
+ 
+       🚀 MAN    -TIME, MATTER   ---> SPIRIT THAT WANTS TO CONQUER/GAIN ALL
+       🚀 WOMAN  -SPACE          ---> SPIRIT THAT WANTS TO LOVE/GIVE ALL
        ------------------------------------------------
-       🚀 MEANINGFUL TIME AND SPACE
-       🚀 MEANINGLESS TIME AND SPACE
+       🚀 MEANINGFUL TIME,SPACE && MATTER
+       🚀 MEANINGLESS TIME,SPACE && MATTER
 
 
        ✅✅✅ CIVILIZATION ✅✅✅
@@ -388,10 +388,10 @@ LION
 🧨 A ---> KNOW|DO NOT FORGET  => SECURITY -🧨THREAT---DECEIVE        👉 NECESSITY              🧨CHASE  - FAVOUR
 🧨 I ---> FORGIVE|VACUUM      => KARMA    -🧨BLACKMAIL---ILLUSION    👉 WANT[DRUGS/CONDITIONS] 🧨RUSH   - GRACE
 🧨 C ---> DUALITY DETAILS     => REACTIVE -🧨INTIMIDATION---BETRAYED 👉 NEED                   🧨FORCE  - MERCY
-✅ ESSENCE|DEUS|ZEUS => KNOW                           🧨 SECURITY
-✅ FAITH|EQUILIBRIUM => KING|QUEEN       = CARE        🧨 Greed/Obvious   👉DOPAMINE      -GOLD/MONEY  -ARMY
-✅ POWER|VACUUM      => NOTHING/FORGIVE  = DISCIPLINE  🧨 Fear/Petty      👉EMPATHY/FEAR  -WOMAN       -PROSTITUTE
-✅ GREATNESS|LOGIC   => DUALITY          = JUSTICE     🧨 Hate/Stingy     👉INSTINCT      -PROPERTY    -ROBBER
+✅ 1. ESSENCE|DEUS|ZEUS => KNOW                           🧨 SECURITY
+✅ 2. FAITH|EQUILIBRIUM => KING|QUEEN       = CARE        🧨 Greed/Obvious   👉DOPAMINE      -GOLD/MONEY  -ARMY
+✅ 3. POWER|VACUUM      => NOTHING/FORGIVE  = DISCIPLINE  🧨 Fear/Petty      👉EMPATHY/FEAR  -WOMAN       -PROSTITUTE
+✅ 4. GREATNESS|LOGIC   => DUALITY          = JUSTICE     🧨 Hate/Stingy     👉INSTINCT      -PROPERTY    -ROBBER
 
 
        🧨 IDENTITY -> DEATH-PAIN   ✅ TRUTH
