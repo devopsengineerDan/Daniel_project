@@ -294,7 +294,7 @@ UNKNOWN/UNKNOWING
        🚀 MEANINGFUL TIME,SPACE && MATTER
        🚀 MEANINGLESS TIME,SPACE && MATTER
 
-       Conscious Master | Universe is Hallucination
+       Conscious Master | universe is hallucination
        Nothing is Random | nothing is random
        Nothing is Everything | everything is nothing
 
