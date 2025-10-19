@@ -104,7 +104,7 @@ Master's  
 🚀🚀🚀 ***STRONGEST*** HIGHEST GREATEST STRONGEST 🚀🚀🚀
 👉👉👉 IMAGINATION IS THE DIVIDING FORCE, LOVE IS THE UNIFYING FORCE 👉👉👉
 ✅✅✅ ETERNAL, IMMUTABLE && MUTABLE, PERFECT | RESPONSIBLE, LOVE, LAW | DEUS GOD ZEUS A+ ✅✅✅
-🧨🧨🧨 SUPREME, (✅IMPROVING/CHANGE✅), PERFECTION [SILENCE && SECURITY && (✅INTELLIGENCE && AWARENESS✅) && SECURITY && SILENCE] 🧨🧨🧨
+🧨🧨🧨 SUPREME, [SECURITY && SILENCE && (✅INTELLIGENCE && AWARENESS✅) && (✅IMPROVING && CHANGE✅) && SILENCE && SECURITY] , PERFECTION🧨🧨🧨
 🚀THE DISASSOCIATION   ===> WITHIN/RESTS 
 🚀IN HARMONY WITH  ===> INGREGRATION/DOES NOT REST
 🚀THE WHOLE/NATURE  ===> WITHOUT/RESTS
@@ -247,10 +247,16 @@ UNKNOWN/UNKNOWING
                                        ✅ WISDOM       --->   *IRRATIONAL INWARD - SLOW OUTWARD
                                                               *INNER STRENGTH - OUTER WEAKNESS
                                        
-                                       ✅ KNOW TO DETAIL (DEATH) (DOPAMINE) <---> CONNECT DOTS (FEAR) (EMPATHY) <---> COMPETITIVE (OBTAIN) (DEATH)
-                                          🚀 SILENCE                                                                  🚀 SILENCE
+                                       ✅ POSITION OF THE ONE
+                                          🚀 SECURITY/SILENCE                                                         🚀 SILENCE/SECURITY
                                           🧨 RIGHT TIME                           🧨 RIGHT WAY                        🧨 RIGHT ACTION
-                                          (✅INTELLIGENCE && AWARENESS✅)         (✅IMPROVING/CHANGE✅)
+                                          🧨 KNOW TO DETAIL (DEATH) (DOPAMINE)    🧨 CONNECT DOTS (FEAR) (EMPATHY)    🧨 COMPETITIVE (OBTAIN) (DEATH)
+                                             TRUTH                                   IMAGINATION                         REALITY  
+                                             ACCURATE [STRATEGIC]                    ADAPT && REVIEW [SMART]             REALISTIC
+                                             CONSISTENCY                             DISCIPLINE                          HARD WORK             
+                                          (✅INTELLIGENCE && AWARENESS✅)         (✅IMPROVING && CHANGE✅)                              
+                                          🧨 CARE                                 🧨 LOVE                             🧨 PEACE
+
                                        ✅ OWN && BE NATURAL
                                        ✅ DECIDE && BE CONCIOUS-NEUTRAL && BE KIND
 
@@ -1207,7 +1213,7 @@ Obedient(Disobedient)
 🧨 RESPONSIBLE
                    🧨 PLAN
 🧨 GROWTH
-                   🧨  EXECUTE
+                   🧨 EXECUTE
 ---------------
 
 
