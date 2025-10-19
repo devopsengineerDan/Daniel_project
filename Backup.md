@@ -341,9 +341,10 @@ UNKNOWN/UNKNOWING
        👉👉👉 BEST APPROACH
 
 [REPUTATION]        [CHARACTER]                 [ACQUIRE]
+🧨 Wisdom           🧨 Knowledge                🧨 Honour/Confidence
 🧨 Kind             🧨 Humble                   🧨 Accumulate && Be Kind
 🧨 Ridiculously     🧨 Fast                     🧨 Observe at All Percpectives 
-🧨 Learner          🧨 Hungry for MORE          👉 Focus on Truth and Nature
+🧨 Learner          🧨 Hungry for MORE          👉 Focus on Truth and be in Harmony with Nature
 
 ====================================================================================================================================
 
@@ -357,7 +358,8 @@ LION
                 👉 COMPLEX 
                 👉 INDUSTRIAL 
 ---------------------------------------
-🧨SECURITY ---> 👉👉👉FIRE/SNAKE/LIFE
+🧨SECURITY ---> 👉👉👉FIRE/LIFE
+SNAKE
 LION
         🧨ACHIEVEMENT
         BULL
@@ -372,7 +374,7 @@ LION
                          🧨 KNOWLEDGE - ACTION  👉---> WHAT ---> INTEGRITY
                          🧨JUSTICE 
                          LION  ✅ MERCY
-
+                         SNAKE
 ----------------------------------------------------------------------------------------------------------------------------
 
                         LITTLE OF KNOWLEDGE
@@ -552,18 +554,19 @@ DESTRUCTIVE ECONOMY    ---> Destroy/Destructive Environment to TAKE MORE
 ✅ LAW AND ORDER 
 
 *Snake Colony
-*Lion Colony
+*Lion, Sheep[Obedience] Colony
 *Eagle Colony
 HIERACHICAL KNOWING(HIGHEST)
-----------------------------
-*Snake Colony
-*Lion Jungle Colony
-*Eagle, Fox, Bear/Dog Colony
-Lion Jungle Colony
-Snake Colony
+----------------------------------
+@Snake Colony
+@Lion Jungle Colony
+@Eagle, Fox Colony
+@Goat[Disobedience], Bear/Dog[Involuntary] Colony
+@Lion Jungle Colony
+@Snake Colony
 ...........
-Bee Colony
-Ant Colony
+@Bee Colony
+@Ant Colony
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ====> TETRAGRAMMATON
 ====> KABBALAH
@@ -713,8 +716,8 @@ BODY-Earth-Vibration        Status  👉ROLE                     Acceptance
 
 ✅ 1                                                                 ✅ 2
 Information  KNOW(GOD + Wealth)                                      Observation
-Communication(Space<->Complete)                                      Accuracy <-> 👉✅Feel <-> Behaviour <-> Pattern
-                                                                     Character,Reputation, Credit 
+Communication(Space<->Complete)                                      Accuracy <-> 👉✅Feel <-> Behaviour/Style <-> Pattern
+                                                                     Character, Reputation, Credit 
 
                                                    
 ✅ ROBOT
