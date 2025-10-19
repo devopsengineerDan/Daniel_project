@@ -1174,6 +1174,11 @@ TRADITION AND BEAUTY => TRUTH, IMAGINATION, REALITY
 GOD AND MY RIGHT && SHAME ON THOSE WHO THINK ILL OF IT 
 OUT OF MANY ONE => CHAOS AND DIVISION TO ONE/UNITY
 SHIED AND HOPE OF LIBERTY
+------------------------------------------------------
+CONSERVATIVE[BLACK/RED]
+        LIBERAL[WHITE]
+DEMOCRAT[BLUE]        CONSERVATIVE[RED/BLACK]
+------------------------------------------------------
 
 🧨🧨🧨 UK
 🧨 EUROPE
@@ -1335,7 +1340,7 @@ ENERGY
 ===> SECURITY                                ===> SECURITY
 DIEUS                                        GOD == TIME == WISDOM/ NEUTRAL / APPLICATION OF KNOWLEDGE == TRUTH == HARMONIOUS
 
-                   EQUILIBRIUM               AND == WAY == BEAUTY == LOVE == INTEGRATED
+                   EQUILIBRIUM               AND == WAY == BEAUTY/IMAGINATION == LOVE == INTEGRATED
 VACUUM
                    LOGIC                     MY RIGHT == REALISTIC == RESISTANCE == JUSTICE == INDUSTRY
 
