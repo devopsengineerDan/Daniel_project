@@ -300,7 +300,7 @@ UNKNOWN/UNKNOWING
 
 ====================================================================================================================================
  
-       🚀 MAN    -TIME, MATTER   ---> SPIRIT THAT WANTS TO CONQUER/GAIN ALL
+       🚀 MAN    -TIME, MATTER   ---> SPIRIT THAT WANTS TO CONQUER/CONTROL/GAIN ALL
        🚀 WOMAN  -SPACE          ---> SPIRIT THAT WANTS TO LOVE/GIVE ALL
        ------------------------------------------------
        🚀 MEANINGFUL TIME,SPACE && MATTER
@@ -336,9 +336,9 @@ UNKNOWN/UNKNOWING
        👉👉👉 EVERY ANGEL HAS PAST, EVERY DEVIL HAS A FUTURE
        👉👉👉 IF YOU DESIRE UNITY YOU MUST HAVE A HEART[NO MIND], IF YOU DO NOT DESIRE UNITY YOU MUST HAVE A MIND[NO HEART]
                            
-       APOLOGY        ---> HONOUR               |      NO APOLOGY        ---> NO HONOUR
-       DO NOT FORGET  ---> CONCIOUS<->PAIN      |      FORGET            ---> UNCONCIOUSNESS<->HAPPINESS
-       FORGIVE        ---> STRONG               |      NO FORGIVENESS    ---> WEAK
+       🧨🧨🧨 APOLOGY        ---> HONOUR               |      NO APOLOGY        ---> NO HONOUR
+       🧨🧨🧨 DO NOT FORGET  ---> CONSCIOUS<->PAIN     |      FORGET            ---> UNCONSCIOUSNESS<->HAPPINESS
+       🧨🧨🧨 FORGIVE        ---> STRONG               |      NO FORGIVENESS    ---> WEAK
        *********************************************************************************************************************************
        👉👉👉 IN TIMES OF WAR, RATIONALITY[REASON AND LOGIC] ARE THE FIRST CASUALTIES. IRRATIONALITY[EMOTION] PREVAILS.
        👉👉👉 HEART-COMPASS, CONCIOUS/MEANING, LIFE ESSENCE, FAITH -> RATIONAL [WE, FORGIVING|KIND,SELFLESS]
