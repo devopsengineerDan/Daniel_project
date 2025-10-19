@@ -190,12 +190,14 @@ UNKNOWN/UNKNOWING
 ✅ NOVICE
 🧨🧨🧨DEATH
 ===> SUN   RAH[UNITY]     ---> [TORTURE&TRAUMA] WAR CAUSED BY VALUES
-===> EAGLE HORUS
+🧨===> EAGLE HORUS
      [SPIRIT---FEEL]
 ===> ISIS & OSIRIS ---> [UNCONSCIOUSNESS & DROWNED] DRUGS
      [SOUL] [MIND]
 ===> BLACK SUN     ---> SEXUAL ABUSE
-     [BODY]                    
+     [BODY] 
+🧨===> EAGLE HORUS
+     [SPIRIT---FEEL]                      
 🧨🧨🧨DEATH
 ---------------------------------------------------------------------------------------------------------
 👉👉👉 FUNDAMENTALS/NATURAL LAW 👉👉👉
@@ -755,19 +757,18 @@ PROTECT Life, Liberty, Equality and Property
                               🧨🧨🧨 GOLD/MONEY - WOMAN - PROPERTY
                               🧨🧨🧨 INHERITANCE - STEAL - HARDWORK  ---> SEX
                               🧨🧨🧨 KILL - STEAL - DESTROY 
-                              
-                              
+                                                      
 ***************************************************************************************************************************
 
-                           👉👉👉👉   ZEUS/DEUS/GOD/CARE - DISCIPLINE - JUSTICE  👉👉👉👉 
-RESPONSIBLE      ****BULL****      EFFECTIVE           HELPFUL               SOLID 
+                 👉👉👉👉  ZEUS/DEUS/GOD {KNOWLEDGE-WISDOM} [CARE] <-> {BEAUTY} [DISCIPLINE] <-> [JUSTICE]  👉👉👉👉 
+🧨RESPONSIBLE    🧨****BULL****    🧨 EFFECTIVE       🧨 HELPFUL             🧨 SOLID 
 👉 ESSENCE       👉 ACCUMULATE     👉 FAITH           👉 POWER               👉  GREATNESS
      
-🧨🧨🧨🧨🧨🧨 ------------------DO NOT BE/ HIT A BRICK WALL--------------------- 🧨🧨🧨🧨🧨🧨 
-🧨🧨🧨🧨🧨🧨 ----------------------DO NOT BE DESPERATE------------------------- 🧨🧨🧨🧨🧨🧨             
-IRRESPONSIBLE                      INEFFECTIVE         HELPLESS              UNDER THE MERCY
+🧨🧨🧨🧨🧨🧨 ----------------- DO NOT BE/ HIT A BRICK WALL -------------------- 🧨🧨🧨🧨🧨🧨 
+🧨🧨🧨🧨🧨🧨 --------------------- DO NOT BE DESPERATE ------------------------ 🧨🧨🧨🧨🧨🧨             
+IRRESPONSIBLE ✅GOD  ✅SELF-GROUP INTERVENTION    INEFFECTIVE ✅FAVOUR       HELPLESS ✅GRACE              BEG ✅MERCY
 
--------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
 
                                                       KILL == EGO / INTELLIGENT ---> LEGEND
                                                       🧨Naive/Obvious
@@ -787,8 +788,10 @@ STEAL == CONTINUOUSLY ---> GAIN
 ✅ ALL GAIN
 ✅ WIN
 
+           🚀 CONSCIOUS[THREAT]
            ✅✅✅ SECURITY
 
+                     🚀 CONSCIOUS[THREAT]
                      ✅✅✅ GREED
 
                                 🚀 CONSCIOUS[THREAT && NEUTRAL] 
@@ -832,7 +835,7 @@ STEAL == CONTINUOUSLY ---> GAIN
 🧨 DRUNKARD/DESTROY
 
 
- ✅ 3 [BLOCK/SQUARE]                     🧨🧨🧨 DEATH               ✅ 4 [EXTREME]
+        ✅ 3 [BLOCK/SQUARE]                     🧨🧨🧨 DEATH               ✅ 4 [EXTREME]
        🧨 INACTION                              - PROACTIVE                 🧨 ENSLAVEMENT
        🧨 INDECISIVE                            - ETHER                     🧨 MEAN {TILL YOUR DEATH AND THEIRS}
        🧨 DISTRACTION                           - ATTENTION                 🧨 OFFER MONEY/ASSET/VALUE             
