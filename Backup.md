@@ -101,9 +101,10 @@ Master's  
 ![title](static/img/Data_Engineering_to_Cybersecurity.jpg)
 
 ```
-👉👉👉 ETERNAL, IMMUTABLE && MUTABLE, PERFECT | RESPONSIBLE, LOVE, LAW | DEUS GOD ZEUS A+ 👉👉👉
+🚀🚀🚀 ***STRONGEST*** HIGHEST GREATEST STRONGEST 🚀🚀🚀
+👉👉👉 IMAGINATION IS THE DIVIDING FORCE, LOVE IS THE UNIFYING FORCE 👉👉👉
 ✅✅✅ ETERNAL, IMMUTABLE && MUTABLE, PERFECT | RESPONSIBLE, LOVE, LAW | DEUS GOD ZEUS A+ ✅✅✅
-🧨✅ SUPREME/PERFECTION [SILENCE && SECURITY && INTELLIGENCE && AWARENESS]
+🧨🧨🧨 SUPREME, (✅IMPROVING/CHANGE✅), PERFECTION [SILENCE && SECURITY && (✅INTELLIGENCE && AWARENESS✅) && SECURITY && SILENCE] 🧨🧨🧨
 🚀THE DISASSOCIATION   ===> WITHIN/RESTS 
 🚀IN HARMONY WITH  ===> INGREGRATION/DOES NOT REST
 🚀THE WHOLE/NATURE  ===> WITHOUT/RESTS
@@ -247,7 +248,9 @@ UNKNOWN/UNKNOWING
                                                               *INNER STRENGTH - OUTER WEAKNESS
                                        
                                        ✅ KNOW TO DETAIL (DEATH) (DOPAMINE) <---> CONNECT DOTS (FEAR) (EMPATHY) <---> COMPETITIVE (OBTAIN) (DEATH)
+                                          🚀 SILENCE                                                                  🚀 SILENCE
                                           🧨 RIGHT TIME                           🧨 RIGHT WAY                        🧨 RIGHT ACTION
+                                          (✅INTELLIGENCE && AWARENESS✅)         (✅IMPROVING/CHANGE✅)
                                        ✅ OWN && BE NATURAL
                                        ✅ DECIDE && BE CONCIOUS-NEUTRAL && BE KIND
 
@@ -393,9 +396,9 @@ LION
 
 =====================================================================================================================================================
                                                                                                🧨 DO NOT
-🧨 A ---> KNOW|DO NOT FORGET  => SECURITY -🧨THREAT---DECEIVE        👉 NECESSITY              🧨CHASE  - FAVOUR
-🧨 I ---> FORGIVE|VACUUM      => KARMA    -🧨BLACKMAIL---ILLUSION    👉 WANT[DRUGS/CONDITIONS] 🧨RUSH   - GRACE
-🧨 C ---> DUALITY DETAILS     => REACTIVE -🧨INTIMIDATION---BETRAYED 👉 NEED                   🧨FORCE  - MERCY
+🧨 A ---> KNOW|DO NOT FORGET  => SECURITY -🧨THREAT---DECEIVE        👉 NECESSITY              🧨CHASE  - ✅FAVOUR
+🧨 I ---> FORGIVE|VACUUM      => KARMA    -🧨BLACKMAIL---ILLUSION    👉 WANT[DRUGS/CONDITIONS] 🧨RUSH   - ✅GRACE
+🧨 C ---> DUALITY DETAILS     => REACTIVE -🧨INTIMIDATION---BETRAYED 👉 NEED                   🧨FORCE  - ✅MERCY
 ✅ 1. ESSENCE|DEUS|ZEUS => KNOW                           🧨 SECURITY
 ✅ 2. FAITH|EQUILIBRIUM => KING|QUEEN       = CARE        🧨 Greed/Obvious   👉DOPAMINE      -GOLD/MONEY  -ARMY
 ✅ 3. POWER|VACUUM      => NOTHING/FORGIVE  = DISCIPLINE  🧨 Fear/Petty      👉EMPATHY/FEAR  -WOMAN       -PROSTITUTE
@@ -692,7 +695,7 @@ SECURITY + INNOVATION [ADVANCE]
 ✅ Operations                                         Social Intelligence / Awareness => Chosen
 ✅ Implementation(Complete)                           Logical Intelligence / Awareness => Elected
 --------------
-✅ ✅ ✅ Numbers[Make Huge Gain/Profit] + [Offer Minimal Reward plus Blessings], [Operate within a BUDGET], [Reduce randomness, Reduce Loss] || (Be aware of Threat/Killers, Opportunists, Destroyers)
+✅ ✅ ✅ Numbers[Make Huge Gain/Profit] + [Offer Minimal Reward plus Blessings], [✅Operate within a BUDGET✅], [Reduce randomness, Reduce Loss] || (Be aware of Threat/Killers, Opportunists, Destroyers)
 ✅ ✅ ✅ HONOUR THE GODS, LOVE YOUR WOMEN, DEFEND YOUR ASSET
 ✅ ✅ ✅ MASTERY OF SELF IS DIVINE, MASTERY AND CONTROL OF OTHERS IS IMPRESSIVE
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -716,10 +719,10 @@ SOUL/EMOTION-Water-Energy   Relationship     👉 ROLE           Research==Inven
 BODY-Earth-Vibration        Status  👉ROLE                     Acceptance
 
 
-✅ 1                                                                 ✅ 2
-Information  KNOW(GOD + Wealth)                                      Observation
-Communication(Space<->Complete)                                      Accuracy <-> 👉✅Feel <-> Behaviour/Style <-> Pattern
-                                                                     Character, Reputation, Credit 
+✅ 1                                                                   ✅ 2
+🧨Information  KNOW(GOD + Wealth)                                      🧨Observation
+🧨Communication(Space<->Complete)                                      🧨Accuracy <-> 👉✅Feel <-> Behaviour/Style <-> Pattern
+                                                                       🧨Character, Reputation, Credit 
 
                                                    
 ✅ ROBOT
