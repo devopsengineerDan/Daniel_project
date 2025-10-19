@@ -101,8 +101,8 @@ Master's  
 ![title](static/img/Data_Engineering_to_Cybersecurity.jpg)
 
 ```
-👉👉👉 ETERNAL, IMMUTABLE && MUTABLE, PERFECT |  DEUS ZEUS  A+ 👉👉👉
-✅✅✅ ETERNAL, IMMUTABLE && MUTABLE, PERFECT |  DEUS ZEUS  A+ ✅✅✅
+👉👉👉 ETERNAL, IMMUTABLE && MUTABLE, PERFECT | RESPONSIBLE, LOVE, LAW | DEUS GOD ZEUS A+ 👉👉👉
+✅✅✅ ETERNAL, IMMUTABLE && MUTABLE, PERFECT | RESPONSIBLE, LOVE, LAW | DEUS GOD ZEUS A+ ✅✅✅
 🧨✅ SUPREME/PERFECTION [SILENCE && SECURITY && INTELLIGENCE && AWARENESS]
 🚀THE DISASSOCIATION   ===> WITHIN/RESTS 
 🚀IN HARMONY WITH  ===> INGREGRATION/DOES NOT REST
@@ -232,22 +232,22 @@ UNKNOWN/UNKNOWING
 🧨🧨🧨 GOD AND MY RIGHT 🧨🧨🧨
 🧨🧨🧨 JABULON 🧨🧨🧨
 --------------------------------------------------
-🧨🧨🧨 DEUS ZEUS A+ | A+ ZEUS DEUS🧨🧨🧨
+🧨🧨🧨 DEUS GOD ZEUS A+ | A+ ZEUS GOD DEUS 🧨🧨🧨
 🧨🧨🧨 DEATH PAIN COURAGE*SKILL | COURAGE*SKILL PAIN DEATH 🧨🧨🧨
 --------------------------------------------------
 🧨🧨🧨 KINGSHIP ANIMALS AND LAMB/OBEDIENCE 🧨🧨🧨
 🧨🧨🧨 DEPRESSION  CONFUSION  INDULGENCE 🧨🧨🧨
 --------------------------------------------------
-🧨🧨🧨 97 | 79 🧨🧨🧨 + INHERENT NATURE OF ✅ INTELLIGENCE --->  RATIONAL INWARD - FAST OUTWARD
-                                                            INNER WEAKNESS - OUTER STRENGTH
-                                                            MUST CULTIVATE INNER STRENGTH
+🧨🧨🧨 97 | 79 🧨🧨🧨 + INHERENT NATURE OF ✅ INTELLIGENCE  --->   *RATIONAL INWARD - FAST OUTWARD
+                                                                    *INNER WEAKNESS - OUTER STRENGTH
+                                                                    *MUST CULTIVATE INNER STRENGTH
                                        &&
 
-                                       ✅ WISDOM       ---> IRRATIONAL INWARD - SLOW OUTWARD
-                                                            INNER STRENGTH - OUTER WEAKNESS
+                                       ✅ WISDOM       --->   *IRRATIONAL INWARD - SLOW OUTWARD
+                                                              *INNER STRENGTH - OUTER WEAKNESS
                                        
-                                       ✅ KNOW TO DETAIL (DEATH) (DOPAMINE) <---> CONNECT DOTS (FEAR) (REMORSE) <---> COMPETITIVE (OBTAIN) (DEATH)
-                                          🧨 TIME                                 🧨 WAY                              🧨 ACTION
+                                       ✅ KNOW TO DETAIL (DEATH) (DOPAMINE) <---> CONNECT DOTS (FEAR) (EMPATHY) <---> COMPETITIVE (OBTAIN) (DEATH)
+                                          🧨 RIGHT TIME                           🧨 RIGHT WAY                        🧨 RIGHT ACTION
                                        ✅ OWN && BE NATURAL
                                        ✅ DECIDE && BE CONCIOUS-NEUTRAL && BE KIND
 
