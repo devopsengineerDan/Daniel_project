@@ -215,8 +215,8 @@ UNKNOWN/UNKNOWING
 🧨 FALSE NORTH
 🧨 [HELL]MATERIAL/IMAGINATION/DARKNESS ===> FROM DARKNESS TO LIGHT
        *UNITY[AUTHORITY] 👉 UNCONSCIOUS AND SUB-UNCONSCIOUS MIND
-*DUALITY[CHAOS]
-       *AS ABOVE SO BELOW[DIVISION]
+*DUALITY GOOD/EVIL[CHAOS]
+       *AS ABOVE/WITHIN SO BELOW/WITHOUT[DIVISION]
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 ---------------------------------------------------------------------------------------------------------
@@ -687,7 +687,7 @@ DESIRE    -> FEEL     ---> SURRENDER             LETTER = GATEWAY
 🧨🧨🧨 DEATH && TIME                               
 🧨🧨🧨 Hidden Wisdom [UNITY]          ------------- Words of LAW           - Precise          - Arrogance/Obedience
 🧨🧨🧨 Transformation                 ------------- Submission             - Ritualized       - Fear  
-🧨🧨🧨 Duality of Life [GOOD/BAD]     ------------- Remembrance/Isolation  - Legalistic/Logic - Ignorance/Sin
+🧨🧨🧨 Duality of Life [GOOD/EVIL]     ------------- Remembrance/Isolation  - Legalistic/Logic - Ignorance/Sin
 🧨🧨🧨 MATTER && DEATH [AS WIHIN(ABOVE) SO WITHOUT(BELOW)]
 
 🧨 KNOW            GOD             TRUTH - MORALITY       TIME(COMPLETE)
