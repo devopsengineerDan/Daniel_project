@@ -209,9 +209,9 @@ UNKNOWN/UNKNOWING
                                              *ORDER 👉 CONSCIOUS AND SUB-CONSCIOUS HEART
                                     *OBEDIENCE
                                              *ORDER
-            🧨🧨🧨 WAR OF ENVIRONMENT 🧨🧨🧨
+            🧨🧨🧨 WAR OF ENVIRONMENT AND NATURAL LAW 🧨🧨🧨
             🧨🧨🧨 AFFECTING ALL SENSES OF 🧨🧨🧨
-            🧨🧨🧨 PERCEPTION AND FEEL 🧨🧨🧨
+            🧨🧨🧨 PERCEPTION[SOUL/ENERGY && MIND] AND FEEL[HEART] 🧨🧨🧨
 🧨 FALSE NORTH
 🧨 [HELL]MATERIAL/IMAGINATION/DARKNESS ===> FROM DARKNESS TO LIGHT
        *UNITY[AUTHORITY] 👉 UNCONSCIOUS AND SUB-UNCONSCIOUS MIND
@@ -298,7 +298,7 @@ UNKNOWN/UNKNOWING
                                                   🧨 QUESTION
 
                                        👉 FEEL ALL SENSES  🚀 GRACEFUL HEART
-                                  👉 PERCEPTION 🚀 GRACEFUL SOUL/ENERGY
+                                  👉 PERCEPTION 🚀 GRACEFUL SOUL/ENERGY && MIND
                             👉 CONNECT THE DOTS
                                     🧨 IDENTIFY
                                     🧨 REVIEW   
