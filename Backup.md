@@ -145,8 +145,10 @@ UNKNOWN/UNKNOWING
           ✅ ORDER[CONSCIOUS]
                 *BRAVIN/LENSE/VAIL
                 *ETHER/NEUTRAL/EQUILIBRIUM
-          *GATEWAY
+                -----------------------------
                 *THOUGHTS && ACTIONS
+         *GATEWAY
+
 ✅THE AGES[SUB-CONSCIOUS]
 *PORTAL
 ✅✅✅ HEROES THAT WERE OF OLD, WARRIORS OF THE RENOWN ✅✅✅
@@ -247,7 +249,7 @@ UNKNOWN/UNKNOWING
                                        ✅ WISDOM       --->   *IRRATIONAL INWARD - SLOW OUTWARD
                                                               *INNER STRENGTH - OUTER WEAKNESS
                                        
-                                       ✅ POSITION OF THE ONE
+                                       ✅ POSITION OF THE ONE -- [DIASSOCIATED CONSCIOUS SUB-CONSCIOUS ROBOT] 
                                           🚀 SECURITY/SILENCE                                                         🚀 SILENCE/SECURITY
                                           🧨 RIGHT TIME                           🧨 RIGHT WAY                        🧨 RIGHT ACTION
                                           🧨 KNOW TO DETAIL (DEATH) (DOPAMINE)    🧨 CONNECT DOTS (FEAR) (EMPATHY)    🧨 COMPETITIVE (OBTAIN) (DEATH)
