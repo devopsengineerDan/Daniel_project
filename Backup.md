@@ -186,11 +186,11 @@ UNKNOWN/UNKNOWING
 🧨BEAR
          🧨LION-SNAKE
 ----------------------------------------
-✅ JOURNEY
+✅ JOURNEY [EMOTION/ENERGY]
 ===> GOAT&DOG SCEPTRE     ===> ANKH
 🧨KARMA/DOG               🧨JUSTICE
 ----------------------------------------
-✅ NOVICE
+✅ NOVICE [MATTER] [PYRAMID]
 🧨🧨🧨DEATH
 ===> SUN   RAH[UNITY]     ---> [TORTURE&TRAUMA] WAR CAUSED BY VALUES
 🧨===> EAGLE HORUS
@@ -202,6 +202,23 @@ UNKNOWN/UNKNOWING
 🧨===> EAGLE HORUS
      [SPIRIT---FEEL]                      
 🧨🧨🧨DEATH
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+                                    🧨 TRUE NORTH
+                                    🧨 [HEAVEN]SPIRITUAL/LOVE/LIGHT ===> IN DARKNESS COMES LIGHT
+                                             *ORDER 👉 CONSCIOUS AND SUB-CONSCIOUS HEART
+                                    *OBEDIENCE
+                                             *ORDER
+            🧨🧨🧨 WAR OF ENVIRONMENT 🧨🧨🧨
+            🧨🧨🧨 AFFECTING ALL SENSES OF 🧨🧨🧨
+            🧨🧨🧨 PERCEPTION AND FEEL 🧨🧨🧨
+🧨 FALSE NORTH
+🧨 [HELL]MATERIAL/IMAGINATION/DARKNESS ===> FROM DARKNESS TO LIGHT
+       *UNITY[AUTHORITY] 👉 UNCONSCIOUS AND SUB-UNCONSCIOUS MIND
+*DUALITY[CHAOS]
+       *AS ABOVE SO BELOW[DIVISION]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 ---------------------------------------------------------------------------------------------------------
 👉👉👉 FUNDAMENTALS/NATURAL LAW 👉👉👉
 *SECURITY
