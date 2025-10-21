@@ -160,11 +160,11 @@ UNKNOWN/UNKNOWING
                                                             -> ESSENCE🧨SECURITY
 ---------------------------------------------------------------------------------------------------------
 👉👉👉 RELIGION/RITUAL && ENTERTAINMENT && SCIENCE 👉👉👉
-*SECURITY[INTELLIGENCE && MILITARY INDUSTRIAL COMPLEX]
-*FINANCE[INSURANCE && BANKING]
-                 *POLITICS
+*SECURITY[INTELLIGENCE && MILITARY INDUSTRIAL COMPLEX]  - SECRET 
+*FINANCE[INSURANCE && BANKING] - BUREAUCRACY
+                 *POLITICS - BUREAUCRACY
 *RELIGION/RITUAL && ENTERTAINMENT && SCIENCE 
-                 *JURISDICTION
+                 *JURISDICTION - BUREAUCRACY
 
 ✅✅✅ RELIGION/RITUAL && ENTERTAINMENT && SCIENCE ✅✅✅
 ✅ ESSENCE ===> CROWN
@@ -221,11 +221,11 @@ UNKNOWN/UNKNOWING
 
 ---------------------------------------------------------------------------------------------------------
 👉👉👉 FUNDAMENTALS/NATURAL LAW 👉👉👉
-*SECURITY
-*RESPONSIBILITY
-              *LAW[TIME]
-*LOVE[SPACE]
-              *LAW[MATTER]
+*SECURITY - SECRET
+*RESPONSIBILITY - BUREAUCRACY
+              *LAW - BUREAUCRACY[TIME] 
+*LOVE[SPACE] - RELIGION
+              *LAW - BUREAUCRACYMATTER]
    
 ✅✅✅ FUNDAMENTALS/NATURAL LAW ✅✅✅
 ✅ 3 [BLOCK/SQUARE]                     🧨🧨🧨 DEATH               ✅ 4 [EXTREME]
