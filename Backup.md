@@ -209,9 +209,9 @@ UNKNOWN/UNKNOWING
                                              *ORDER 👉 CONSCIOUS AND SUB-CONSCIOUS HEART
                                     *OBEDIENCE
                                              *ORDER
-            🧨🧨🧨 WAR OF ENVIRONMENT AND NATURAL LAW 🧨🧨🧨
+            🧨🧨🧨 WAR OF 👉ENVIRONMENT && HYPNOSIS AND 👉NATURAL LAW 🧨🧨🧨
             🧨🧨🧨 AFFECTING ALL SENSES OF 🧨🧨🧨
-            🧨🧨🧨 PERCEPTION[SOUL/ENERGY && MIND] AND FEEL[HEART] 🧨🧨🧨
+            🧨🧨🧨 PERCEPTION[SOUL/ENERGY && MIND], FEEL[HEART] && VIBRATION[MATTER]🧨🧨🧨
 🧨 FALSE NORTH
 🧨 [HELL]MATERIAL/IMAGINATION/DARKNESS ===> FROM DARKNESS TO LIGHT
        *UNITY[AUTHORITY] 👉 UNCONSCIOUS AND SUB-UNCONSCIOUS MIND
