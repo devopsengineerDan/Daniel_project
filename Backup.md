@@ -1194,9 +1194,12 @@ GOD AND MY RIGHT && SHAME ON THOSE WHO THINK ILL OF IT
 OUT OF MANY ONE => CHAOS AND DIVISION TO ONE/UNITY
 SHIED AND HOPE OF LIBERTY
 ------------------------------------------------------
-CONSERVATIVE[BLACK/RED]
-        LIBERAL[WHITE]
-DEMOCRAT[BLUE]        CONSERVATIVE[RED/BLACK]
+👉 CONSERVATIVE[BLACK/RED]
+-> Equity
+        👉 LIBERAL[WHITE]
+        -> Liberal
+👉 DEMOCRAT[BLUE]        👉 CONSERVATIVE[RED/BLACK]
+-> Equality              -> Equity
 ------------------------------------------------------
 
 🧨🧨🧨 UK
