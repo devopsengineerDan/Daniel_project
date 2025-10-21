@@ -1423,7 +1423,7 @@ Higher Time Frame    Lower Time Frame
 ```
 > LOT SIZE ---> CONTRACT SIZE
 
-> PD-ARRAY ---> Price level in which price react to Bullish or Bearish
+> PD-ARRAY / PDA / Premium Discount Array ---> Price level in which price react to Bullish or Bearish trend
 
 > OPEN INTEREST ---> Total number of Future Contracts HELD/OPEN by market participants at the end of a day
 
@@ -1460,7 +1460,7 @@ Higher Time Frame    Lower Time Frame
 
 
 
-> FAIR VALUE GAP
+> FAIR VALUE GAP(FVG) / INVERTED FAIR VALUE GAP(IFVG)
 
 > VOLUME IMBALANCE
 
@@ -1496,6 +1496,12 @@ Higher Time Frame    Lower Time Frame
 
 > AIM for (79% - Reversal)
 
+> PD-ARRAY / PDA / Premium Discount Array ---> Price level in which price react to Bullish or Bearish trend
+
+> PA / Premium Array ---> Price level in which price react to Bearish trend
+
+> DA / Discount Array ---> Price level in which price react to Bullish trend
+
 > PRICE DELIVERY ===> Expansion  ->  Retracement  ->  Reversal  ->  Consolidation  ->  Expansion  ->  REPEAT
 
 > PRICE DELIVERY ===> Accumulation  ->  Manipulation  ->  Distribution
@@ -1512,6 +1518,7 @@ Higher Time Frame    Lower Time Frame
 
 
 
+
 > More information from price is needed hence I remain neutral.
 > With price @3395 as draw on liquidity e.g bsl/ssl
 > IFVG and underlying encroachment act as support/resistance 
@@ -1520,8 +1527,8 @@ Higher Time Frame    Lower Time Frame
 > CE ---> Consequent Encroachment refers to the 50% level of an ICT Fair Value Gap (FVG). In realm of ICT trading, 50% level is considered as the most important level for buying and selling of an asset. An FVG is an imbalance (a gap) between 
   wicks of consecutive candles.
 
-> STB Zone ---> Sell To Buy ---> Support
 > BTS Zone---> Buy To Sell ---> Resistance
+> STB Zone ---> Sell To Buy ---> Support
 
 > S/R Flips ---> Firstly S/R stands for Support/Resistance, the idea behind the flip is that this method of setup is confirmed when price reclaims a level that was previously lost, then uses that now taken level as new support or resistance.
 
