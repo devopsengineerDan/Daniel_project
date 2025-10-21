@@ -273,7 +273,8 @@ UNKNOWN/UNKNOWING
                                              TRUTH                                   IMAGINATION                         REALITY  
                                              ACCURATE [STRATEGIC]                    ADAPT && REVIEW [SMART]             REALISTIC
                                              CONSISTENCY                             DISCIPLINE                          HARD WORK             
-                                          (✅INTELLIGENCE && AWARENESS✅)         (✅IMPROVING && CHANGE✅)                              
+                                          (✅INTELLIGENCE && AWARENESS✅)         (✅IMPROVING && CHANGE✅)
+                                          (✅HUMILITY IS HONOUR✅)                           
                                           🧨 CARE                                 🧨 LOVE                             🧨 PEACE
 
                                        ✅ OWN && BE NATURAL
@@ -285,8 +286,9 @@ UNKNOWN/UNKNOWING
                                        🚀 INTELLIGENCE
                                        👉 UP
                                       --------------------------------------
-                                       👉 INNER 🚀 STRONG CONFIDENCE/COURAGE/HONOUR 
-                                                🚀 STRONG COMPITENCE/KNOW-HOW/SKILL
+                                       👉 INNER   🚀 STRONG CONFIDENCE/COURAGE/HONOUR 
+                                       👉 OWN IT  🚀 STRONG COMPITENCE/KNOW-HOW/SKILL
+                                                  ✅HUMILITY IS HONOUR✅
                                       --------------------------------------
                                        👉 DOWN   
                                        🚀 AWARENESS[ORCHESTRATION(BEST APPROACH ===> RIGHT TIME,WAY,SUBSTANCE) AND LOAD-BALANCING]
@@ -1194,12 +1196,14 @@ GOD AND MY RIGHT && SHAME ON THOSE WHO THINK ILL OF IT
 OUT OF MANY ONE => CHAOS AND DIVISION TO ONE/UNITY
 SHIED AND HOPE OF LIBERTY
 ------------------------------------------------------
-👉 CONSERVATIVE[BLACK/RED]
+👉 CONSERVATIVE-LIBERAL[BLACK/RED]
+🧨🧨🧨 TRUTH
 -> Equity
         👉 LIBERAL[WHITE]
         -> Liberal
-👉 DEMOCRAT[BLUE]        👉 CONSERVATIVE[RED/BLACK]
+👉 DEMOCRAT[BLUE]        👉 CONSERVATIVE-REPUBLICAN[RED/BLACK]
 -> Equality              -> Equity
+                         🧨🧨🧨 JUSTICE
 ------------------------------------------------------
 
 🧨🧨🧨 UK
