@@ -275,6 +275,7 @@ UNKNOWN/UNKNOWING
                                              CONSISTENCY                             DISCIPLINE                          HARD WORK             
                                           (✅INTELLIGENCE && AWARENESS✅)         (✅IMPROVING && CHANGE✅)
                                           (✅HUMILITY IS HONOUR✅)
+                                          (✅EFFECTIVE✅)
                                           (✅AGREEMENT THEN TRANSACTION✅)                             
                                           🧨 CARE                                 🧨 LOVE                             🧨 PEACE
 
@@ -290,6 +291,7 @@ UNKNOWN/UNKNOWING
                                        👉 INNER   🚀 STRONG CONFIDENCE/COURAGE/HONOUR 
                                        👉 OWN IT  🚀 STRONG COMPITENCE/KNOW-HOW/SKILL
                                                   ✅HUMILITY IS HONOUR✅
+                                                  ✅EFFECTIVE✅
                                       --------------------------------------
                                        👉 DOWN   
                                        🚀 AWARENESS[ORCHESTRATION(BEST APPROACH ===> RIGHT TIME,WAY,SUBSTANCE) AND LOAD-BALANCING]
