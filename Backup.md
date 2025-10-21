@@ -274,7 +274,8 @@ UNKNOWN/UNKNOWING
                                              ACCURATE [STRATEGIC]                    ADAPT && REVIEW [SMART]             REALISTIC
                                              CONSISTENCY                             DISCIPLINE                          HARD WORK             
                                           (✅INTELLIGENCE && AWARENESS✅)         (✅IMPROVING && CHANGE✅)
-                                          (✅HUMILITY IS HONOUR✅)                           
+                                          (✅HUMILITY IS HONOUR✅)
+                                          (✅AGREEMENT THEN TRANSACTION✅)                             
                                           🧨 CARE                                 🧨 LOVE                             🧨 PEACE
 
                                        ✅ OWN && BE NATURAL
