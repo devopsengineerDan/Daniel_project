@@ -1203,7 +1203,7 @@ SHIED AND HOPE OF LIBERTY
         -> Liberal
 👉 DEMOCRAT[BLUE]        👉 CONSERVATIVE-REPUBLICAN[RED/BLACK]
 -> Equality              -> Equity
-                         🧨🧨🧨 JUSTICE
+                         🧨🧨🧨 JUSTICE/VAIN GLORIOUS/VENGEANCE
 ------------------------------------------------------
 
 🧨🧨🧨 UK
