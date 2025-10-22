@@ -53,7 +53,7 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
             ===>  Knowledge-based computing
             ---------------------------------------
             ===>  Business modelling computing
-            ===> Computer reasoning (Software Engineering, AI and Quantum Computing)
+            ===>  Computer reasoning (Software Engineering, AI and Quantum Computing)
             ---------------------------------------    
             ===>  [SECURE-CLEAN-SCALABLE-PERFORMANT] ERP SYSTEMS
 ```
