@@ -76,7 +76,7 @@ TAX MANAGER
                                   DEVOPS SYSTEMS ENGINEER
       ******************************************************************************
                                   FINANCE AND PORTFOLIO MANAGER
-                                  RISK AND COMPLIANCE MANAGER
+                                  RISK AND COMPLIANCE MANAGER 👉 MUST MAKE BUSINESS SENSE
                                   ---------------------------------
                                   ASSET MANAGER                    
                                   ACCOUNT MANAGER
