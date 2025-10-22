@@ -25,13 +25,11 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 6. DJANGO API ===> 4 PYTHON-C-BASH-APPLICATIONS
 ✅ DATA PIPELINES
 7. Fringe Recurrent Neural Network
-8. ---> Data Pipelines 1 & 2
-   ---> 
 
-9.* => DATA PIPELINE
-1)Python Data Cleaning        ===> https://github.com/devopsengineerDan/data-cleaning-python
-2)Pyspark Tool                ===> https://github.com/devopsengineerDan/pyspark-ETL-project-and-airflow-Data-pipeline
-3)ML Pipeline part 1 and 2    ===> https://devopsengineerdan.github.io/  My blog name devopsengineerdan which is dev Repository/alexloannides blog
+8.* => DATA PIPELINE
+1)Data Science - Python Data Cleaning        ===> https://github.com/devopsengineerDan/data-cleaning-python
+2)Data Engineer - Pyspark Tool                ===> https://github.com/devopsengineerDan/pyspark-ETL-project-and-airflow-Data-pipeline
+3)ML Engineer - ML Pipeline part 1 and 2    ===> https://devopsengineerdan.github.io/  My blog name devopsengineerdan which is dev Repository/alexloannides blog
 4)Deploying ML Models with Bodywork   ===> https://devopsengineerdan.github.io/  My blog name devopsengineerdan which is dev Repository/alexloannides blog 
 5)Deploying Python ML Models with Flask, Docker and Kubernetes    ===> https://devopsengineerdan.github.io/  My blog name devopsengineerdan which is dev Repository/alexloannides blog 
 
@@ -66,21 +64,23 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 
 FINANCE AND PORTFOLIO MANAGER
 RISK AND COMPLIANCE MANAGER
+---------------------------------
+ASSET MANAGER 
 ACCOUNT MANAGER
+TAX MANAGER 
 
-                                  FINANCE AND PORTFOLIO MANAGER
-                                  RISK AND COMPLIANCE MANAGER
-                                  ACCOUNT MANAGER
-                                  -------------------------------
                                   CYBERSECURITY ENGINEER
                                   👉 [Software Engineer]
-                                  API && WEBHOOK ENGINEER
+                                  WEBHOOK EVENT && API ENGINEER
                                   AI/QUANTUM/DATA ENGINEER
                                   DEVOPS SYSTEMS ENGINEER
       ******************************************************************************
-                                  ASSET MANAGER
-                                  TAX MANAGER
+                                  FINANCE AND PORTFOLIO MANAGER
+                                  RISK AND COMPLIANCE MANAGER
+                                  ---------------------------------
+                                  ASSET MANAGER                    
                                   ACCOUNT MANAGER
+                                  TAX MANAGER 
 ```
 
 
