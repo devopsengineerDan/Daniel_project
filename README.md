@@ -114,7 +114,7 @@ TAX MANAGER
 # MILITARY INDUSTRIAL COMPLEX
 
 ```
-🧨 DEFENSE COMPANNIES
+🧨 DEFENSE COMPANIES
 DEFENSE INDUSTRY ===> https://lockheedmartin.com/
 CYBERSECURITY INDUSTRY --- RESEARCH ===> https://www.openanalysis.net/#oalabs
                        --- PRODUCTION ===> https://cure53.de/     
@@ -133,9 +133,9 @@ HEDGE-FUND INDUSTRY ===> K-BIT(Cryptocurrency), HENRIOT(Currency)
 ```
 🧨🧨🧨 WORK MANAGER
 
-Exness ---> [Short-term]
-Pepperstone <==> Copy Trading ---> [Mid-Term && Long-term]
-BINANCE / BETTER ALTERNATIVE ---> Cryptocurency
+Exness --->  [Mid-Term && Long-term]
+Pepperstone <==> Copy Trading --->  [Short-term]
+BINANCE / BETTER ALTERNATIVE ---> Cryptocurrency
 
 Ingot
 Henriot                                                             
