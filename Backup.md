@@ -9581,14 +9581,15 @@ Consume API
 
 
 
-👉 CLIENT                                           👉 SERVER
-views.py                                                 (deserializers.py)                                  models.py
-1. gets data from model                                  1. gets cache data from model                       1. creates python object mapper used to store data similar to sql
-2. (serializers.py)                                         to be executed in the application   
+👉 CLIENT [APP-api]                                            👉 SERVER [APP-api]  
+views.py                                                        views.py                                            models.py
+1. gets data from model                                         1. gets cache data from model                       1. creates python object mapper used to store data similar to sql
+2. (serializers.py)                                             2. (deserializers.py)                               to be executed in the application   
    serializes data to transmit it as cache
 ------------------------------------------------------
 👉 Serialize data because response objects cannot natively
 handle complex data types like Django/Flask models instances.
+👉 Serializer is used to return the model through the api.
 ------------------------------------------------------
 3. return json
 ```
