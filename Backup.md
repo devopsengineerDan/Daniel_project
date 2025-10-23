@@ -908,9 +908,9 @@ CASH FLOW ---> Compliance
 
 
 🧨🧨🧨 STOIC && LIBERAL 🧨🧨🧨
-ST -> Marcus Antoninus Aurelius, Socrates
-OI -> Seneca Research[Categorise,Review]
-C  -> Aristotles, Epictitus
+ST -> Marcus Antoninus Aurelius[KINGDOM, LOVE], Socrates[QUESTION]
+OI -> Seneca Research[CATEGORIZE, REVIEW, EXPERIMENT]
+C  -> Aristotles, Epictitus[RATIONALITY, BUREAUCRACY]
 
 ✅ ===> COURAGE, WISDOM, TEMPERATE/TOLERANCE, JUSTICE
 ✅ ===> LIBERAL
