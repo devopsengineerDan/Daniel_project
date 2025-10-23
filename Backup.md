@@ -276,6 +276,7 @@ UNKNOWN/UNKNOWING
                                           (✅INTELLIGENCE && AWARENESS✅)         (✅IMPROVING && CHANGE✅)
                                           (✅HUMILITY IS HONOUR✅)
                                           (✅EFFECTIVE✅)
+                                          🚀GUN-BULLET, ENGINEERING, COMMUNICATION🚀
                                           (✅AGREEMENT THEN TRANSACTION✅)                             
                                           🧨 CARE                                 🧨 LOVE                             🧨 PEACE
 
@@ -292,6 +293,7 @@ UNKNOWN/UNKNOWING
                                        👉 OWN IT  🚀 STRONG COMPITENCE/KNOW-HOW/SKILL
                                                   ✅HUMILITY IS HONOUR✅
                                                   ✅EFFECTIVE✅
+                                                  🚀GUN-BULLET, ENGINEERING, COMMUNICATION🚀
                                       --------------------------------------
                                        👉 DOWN   
                                        🚀 AWARENESS[ORCHESTRATION(BEST APPROACH ===> RIGHT TIME,WAY,SUBSTANCE) AND LOAD-BALANCING]
