@@ -9581,17 +9581,21 @@ Consume API
 
 
 
-👉 CLIENT [APP-api]                                            👉 SERVER [APP-api]  
-views.py                                                        views.py                                            models.py
-1. gets data from model                                         1. gets cache data from model                       1. creates python object mapper used to store data similar to sql
-2. (serializers.py)                                             2. (deserializers.py)                               to be executed in the application   
-   serializes data to transmit it as cache
-------------------------------------------------------
-👉 Serialize data because response objects cannot natively
-handle complex data types like Django/Flask models instances.
-👉 Serializer is used to return the model through the api.
-------------------------------------------------------
-3. return json
+👉 CLIENT [APP-api]                                            👉 SERVER [APP-api]                                            👉 DATABASE
+(views.py)                                                     (views.py)                                                     (models.py)
+1. Gets raw data from model.                                   1. Gets cached data from model.                                1. Creates python object mapper used to store data similar to sql.                              
+2. Serializes data to transmit it as cache to the client.      2. Deserializes cached data to execute the data in
+                                                               the application.
+------------------------------------------------------         ------------------------------------------------------
+(serializers.py)                                               (deserializers.py)  
+👉 Serialize data because response objects cannot natively     👉 Deserializes cached data (e.g JSON string, a binary byte 
+handle complex data types like Django/Flask models instances.  stream, or a YAML file)
+👉 Serializer is used to return the model through the api.     
+                                                               🧨 pickle library Security Warning:    
+                                                               You should never unpickle data from an untrusted source,
+                                                               as it can be used to execute arbitrary code.
+------------------------------------------------------         ------------------------------------------------------
+3. Return json.                                                3. Return json.
 ```
 
 
