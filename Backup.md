@@ -9582,13 +9582,13 @@ Consume API
 
 
 👉 CLIENT [APP-api]                                            👉 SERVER [APP-api]                                            👉 DATABASE
-(views.py)                                                     (views.py)                                                     (models.py)
+(views.py) - Endpoint that exposes type of request.            (views.py) - Endpoint that exposes type of request.            (models.py)
 1. Gets raw data from model.                                   1. Gets cached data from model.                                1. Creates python object mapper used to store data similar to sql.                              
 2. Serializes data to transmit it as cache to the client.      2. Deserializes cached data to execute the data in
                                                                the application.
 ------------------------------------------------------         ------------------------------------------------------
 (serializers.py)                                               (deserializers.py)  
-👉 Serialize data because response objects cannot natively     👉 Deserializes cached data (e.g JSON string, a binary byte 
+👉 Serialize data because response objects cannot natively     👉 Deserializes cached data. (e.g JSON string, a binary byte 
 handle complex data types like Django/Flask models instances.  stream, or a YAML file)
 👉 Serializer is used to return the model through the api.     
                                                                🧨 pickle library Security Warning:    
