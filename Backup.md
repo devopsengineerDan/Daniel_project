@@ -9529,6 +9529,9 @@ Werkzeug==1.0.1
 ![title](static/img/API_MEANING.png)
 ![title](static/img/API_WRAPPER.png)
 ![title](static/img/RESTAPI_GRAPHQL.png)
+### API_Client_Request_Type
+![title](static/img/API_Client_Request_Type.jpg)
+
 
 # API TYPES
 ![title](static/img/API_Types.jpg)
