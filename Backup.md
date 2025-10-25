@@ -101,6 +101,7 @@ Master's  
 ![title](static/img/Data_Engineering_to_Cybersecurity.jpg)
 
 ```
+🚀🚀🚀 7 PORTALS
 🚀BEAST
   *WISDOM
   *INTUITION
@@ -108,11 +109,31 @@ Master's  
   *EXPRESSION
 
   *LOVE
-  *POWER
+  *POWER -> BREATHE LONG BREATH                            
 
   *FOOD
   *SEX
 🚀BEAST
+---------------------------------------------------------------------------
+🚀🚀🚀 PROTECT YOUR MIND FROM:
+SEE
+HEAR
+SPEAK
+---------------------------------------------------------------------------
+🚀🚀🚀 3 DEADLY SINS
+1. NAIVE - SPEAK OF OBVIOUS
+2. FOOLISH & RETARD - PETTY
+3. IGNORANT - STINGY
+---------------------------------------------------------------------------
+🚀🚀🚀 7 DEADLY SINS
+1. PRIDE
+2. GREED
+3. LUST
+4. ENVY
+5. GLUTTONY
+6. WRATH/ANGER/VENGEANCE/VAIN GLORIOUS
+7. SLOTH/SLY/DECEPTION && BLACKMAIL && INTIMIDATION
+---------------------------------------------------------------------------
 🚀🚀🚀 ***STRONGEST*** HIGHEST GREATEST STRONGEST 🚀🚀🚀
 👉👉👉 IMAGINATION IS THE DIVIDING FORCE, LOVE IS THE UNIFYING FORCE 👉👉👉
 ✅✅✅ ETERNAL, IMMUTABLE && MUTABLE, PERFECT | RESPONSIBLE, LOVE, LAW | DEUS GOD ZEUS A+ ✅✅✅
@@ -291,7 +312,8 @@ UNKNOWN/UNKNOWING
                                           (✅INTELLIGENCE && AWARENESS✅)         (✅IMPROVING && CHANGE✅)
                                           (✅HUMILITY IS HONOUR✅)
                                           (✅EFFECTIVE✅)
-                                          🚀GUN-BULLET, ENGINEERING, COMMUNICATION🚀
+                                          🚀🚀🚀 ORCHESTRATION && BEST APPROACH -> [PRIORITIZE, LEVERAGE, BE AND DO THE BEST]
+                                          🚀🚀🚀 GUN-BULLET/SWORD, ENGINEERING, COMMUNICATION, ACTION
                                           (✅AGREEMENT THEN TRANSACTION✅)                             
                                           🧨 CARE                                 🧨 LOVE                             🧨 PEACE
 
@@ -306,12 +328,10 @@ UNKNOWN/UNKNOWING
                                       --------------------------------------
                                        👉 INNER   🚀 STRONG CONFIDENCE/COURAGE/HONOUR 
                                        👉 OWN IT  🚀 STRONG COMPITENCE/KNOW-HOW/SKILL
-                                                  ✅HUMILITY IS HONOUR✅
-                                                  ✅EFFECTIVE✅
-                                                  🚀GUN-BULLET, ENGINEERING, COMMUNICATION🚀
+                                       ✅ POSITION OF THE ONE -- [DIASSOCIATED CONSCIOUS SUB-CONSCIOUS ROBOT] 
                                       --------------------------------------
                                        👉 DOWN   
-                                       🚀 AWARENESS[ORCHESTRATION(BEST APPROACH ===> RIGHT TIME,WAY,SUBSTANCE) AND LOAD-BALANCING]
+                                       🚀 AWARENESS[ORCHESTRATION(BEST APPROACH ===> RIGHT TIME,WAY,realistic) AND LOAD-BALANCING]
                                        🚀 HARMONIOUS - INTEGRATED - INDUSTRY
                           ========================================================
                                🚀 MEANINGFUL
