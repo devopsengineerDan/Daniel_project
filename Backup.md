@@ -101,6 +101,18 @@ Master's  
 ![title](static/img/Data_Engineering_to_Cybersecurity.jpg)
 
 ```
+🚀BEAST
+  *WISDOM
+  *INTUITION
+
+  *EXPRESSION
+
+  *LOVE
+  *POWER
+
+  *FOOD
+  *SEX
+🚀BEAST
 🚀🚀🚀 ***STRONGEST*** HIGHEST GREATEST STRONGEST 🚀🚀🚀
 👉👉👉 IMAGINATION IS THE DIVIDING FORCE, LOVE IS THE UNIFYING FORCE 👉👉👉
 ✅✅✅ ETERNAL, IMMUTABLE && MUTABLE, PERFECT | RESPONSIBLE, LOVE, LAW | DEUS GOD ZEUS A+ ✅✅✅
@@ -203,23 +215,26 @@ UNKNOWN/UNKNOWING
      [SPIRIT---FEEL]                      
 🧨🧨🧨DEATH
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
                                     🧨 TRUE NORTH
                                     🧨 [HEAVEN]SPIRITUAL/LOVE/LIGHT ===> IN DARKNESS COMES LIGHT
                                              *ORDER 👉 CONSCIOUS AND SUB-CONSCIOUS HEART
                                     *OBEDIENCE
                                              *ORDER
-            🧨🧨🧨 WAR OF 👉ENVIRONMENT && HYPNOSIS AND 👉NATURAL LAW 🧨🧨🧨
+            *************************************************************************************************
+            🧨🧨🧨 WAR OF 👉[ENVIRONMENT] && [HYPNOSIS] AND 👉[2 NATURAL LAWS] 🧨🧨🧨
             🧨🧨🧨 AFFECTING ALL SENSES OF 🧨🧨🧨
-            🧨🧨🧨 PERCEPTION[SOUL/ENERGY && MIND], FEEL[HEART] && VIBRATION[MATTER]🧨🧨🧨
+            🧨🧨🧨 *PERCEPTION[SOUL/🚀ENERGY && MIND], 🚀FREQUENCY[FEEL/HEART] && 🚀VIBRATION[MATTER] 🧨🧨🧨
+            *************************************************************************************************
 🧨 FALSE NORTH
 🧨 [HELL]MATERIAL/IMAGINATION/DARKNESS ===> FROM DARKNESS TO LIGHT
        *UNITY[AUTHORITY] 👉 UNCONSCIOUS AND SUB-UNCONSCIOUS MIND
 *DUALITY GOOD/EVIL[CHAOS]
        *AS ABOVE/WITHIN SO BELOW/WITHOUT[DIVISION]
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
----------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------
 👉👉👉 FUNDAMENTALS/NATURAL LAW 👉👉👉
 *SECURITY - SECRET
 *RESPONSIBILITY - BUREAUCRACY
@@ -650,7 +665,7 @@ AFRICA                          [BE HUMBLE & BE KIND]                         US
 
 
 🌀 1. THE SOUL OF THE SOUL OF THE LAW
-✅ ✅ ✅  SPIRIT /FIRE   ✅ ✅ ✅  🧨 SAAD / SECRET / MYSTERY
+✅ ✅ ✅  SPIRIT/🚀FREQUENCY/HEART/FIRE   ✅ ✅ ✅  🧨 SAAD / SECRET / MYSTERY
                                               👉 WILL               👉 WILL | DESIRE
 SELF 👉 -> WILL                               OBSERVATION           TIME         
 ORCHESTRATION 👉 ---> BEST CHOICE          I  NTERFACE              CURRENT && PROBABILITY
@@ -668,11 +683,11 @@ DESIRE    -> FEEL     ---> SURRENDER             LETTER = GATEWAY
 
 ✅ MIND/AIR     -> THOUGHT    -> INTEPRETATION / INQUIRY / PARABLE / STORY  🧨 DERASH
 ----------------------------------------------------------------------------------------
-✅ SOUL/ENERGY/WATER   -> EMOTION    -> IMAGINATION / ILLUSION / HINT / SYMBOLIC /HIDDEN  🧨 REMEZ
+✅ SOUL/🚀ENERGY/WATER   -> EMOTION    -> IMAGINATION / ILLUSION / HINT / SYMBOLIC /HIDDEN  🧨 REMEZ
 
 ****************************************************************************************
 🌀 3. THE LAW
-✅ ✅ ✅  MATTER / FIRE  ✅ ✅ ✅  🧨 PESHAT
+✅ ✅ ✅  MATTER/🚀VIBRATION/FIRE  ✅ ✅ ✅  🧨 PESHAT
 ✅ BODY/EARTH     -> PYSICAL    -> PLAIN && SIMPLE LAWS
 
 
