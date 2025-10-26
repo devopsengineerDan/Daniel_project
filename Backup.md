@@ -7526,6 +7526,9 @@ BEST PRACTICE Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE
 -> Data races
                      -> Null pointer dereference
 ```
+
+👉 C MEMORY MANAGEMENT -> https://youtu.be/rJrd2QMVbGM?si=ZwJZ_qiX1a0I8WCh
+
 👉  SOLUTIONS
 
 ![title](static/img/computer-memory-solutions.jpg)
@@ -7559,8 +7562,9 @@ Description is taken from [Rust-lang](https://www.rust-lang.org/)
 🌀 Isaac Harris-Holt
 🌀  pip install maturin
 
-1. How To Make Your Python Packages Really Fast With RUST -> https://www.youtube.com/watch?v=jlWhnrk8go0
-2.  Advanced PyO3: Creating A Python CLI With RUST -> https://www.youtube.com/watch?v=8yGR3xjTzDw
+1. How To Make Your Python Packages Really Fast With Rust library -> https://www.youtube.com/watch?v=jlWhnrk8go0
+2. Cpython and Rust library https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust#updates_and_improvements
+2. Advanced PyO3: Creating A Python CLI With RUST -> https://www.youtube.com/watch?v=8yGR3xjTzDw
 ```
 
 ## Using C code in Rust ===>https://www.youtube.com/watch?v=UpmFxJDcFfo
