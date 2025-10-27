@@ -288,7 +288,7 @@ UNKNOWN/UNKNOWING
 🧨🧨🧨 GOD AND MY RIGHT 🧨🧨🧨
 🧨🧨🧨 JABULON 🧨🧨🧨
 --------------------------------------------------
-🧨🧨🧨 DEUS GOD ZEUS A+ | A+ ZEUS GOD DEUS 🧨🧨🧨
+🧨🧨🧨 DEUS GENIUS GOD ZEUS A+ | A+ ZEUS GOD GENIUS DEUS 🧨🧨🧨
 🧨🧨🧨 DEATH PAIN COURAGE*SKILL | COURAGE*SKILL PAIN DEATH 🧨🧨🧨
 --------------------------------------------------
 🧨🧨🧨 KINGSHIP ANIMALS AND LAMB/OBEDIENCE 🧨🧨🧨
