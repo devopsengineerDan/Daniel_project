@@ -288,8 +288,9 @@ UNKNOWN/UNKNOWING
 🧨🧨🧨 GOD AND MY RIGHT 🧨🧨🧨
 🧨🧨🧨 JABULON 🧨🧨🧨
 --------------------------------------------------
-🧨🧨🧨 DEUS GENIUS GOD ZEUS A+ | A+ ZEUS GOD GENIUS DEUS 🧨🧨🧨
-🧨🧨🧨 DEATH PAIN COURAGE*SKILL | COURAGE*SKILL PAIN DEATH 🧨🧨🧨
+🧨🧨🧨 DANGER GENIUS COUCH A+ | A+ COUCH GENIUS DANGER 🧨🧨🧨
+🧨🧨🧨 DEUS GOD ZEUS A+ | A+ ZEUS GOD DEUS 🧨🧨🧨
+🧨🧨🧨 DEATH PAIN COURAGE*SKILL A+ | A+ COURAGE*SKILL PAIN DEATH 🧨🧨🧨
 --------------------------------------------------
 🧨🧨🧨 KINGSHIP ANIMALS AND LAMB/OBEDIENCE 🧨🧨🧨
 🧨🧨🧨 DEPRESSION  CONFUSION  INDULGENCE 🧨🧨🧨
@@ -9568,6 +9569,8 @@ Werkzeug==1.0.1
 ![title](static/img/API_MEANING.png)
 ![title](static/img/API_WRAPPER.png)
 ![title](static/img/RESTAPI_GRAPHQL.png)
+
+
 ### API_Client_Request_Type
 ![title](static/img/API_Client_Request_Type.jpg)
 
@@ -9578,8 +9581,12 @@ Werkzeug==1.0.1
 # API DESIGN PRINCIPLES
 ![title](static/img/API_Design_Principles.jpg)
 
+# API BEST PRACTICES
+![title](static/img/API_call_methods.jpg)
+![title](static/img/API_best_practices.jpg)
 
-# APIS
+
+# APIS CONCEPTS
 
 ```
 =================================> PYTHON FRAMEWORKS use MVT Design(Model View Template)
