@@ -567,8 +567,32 @@ B) EPIC/EXTREME
 ```
 
 ```
-🧨 When the economy is doing good, inflation increases, Central bank increases interest rates.
-🧨 When the economy is doing bad, inflation decreases, Central bank decreases interest rates.
+
+👉 FINANCE, MARKETING && ECONOMICS
+🧨 TRUE PRINCIPLES 🌀 CONSEQUENTIALLY/POSITIVELY CO-RELATED
+
+✅ When the economy is doing good, inflation increases, Central bank increases interest rates.
+✅ When the economy is doing bad, inflation decreases, Central bank decreases interest rates.
+===> CAUSE: Increase in inflation, resulting to increase in economic activities, cost of production, prices of consumer goods and wages;
+     EFFECT: this makes central bank increase interest rates inorder to stabilize(shrink) the economy.
+===> CAUSE: Decrease in inflation, resulting to decrease in economic activities, cost of production, prices of consumer goods and wages;
+     EFFECT: this makes central bank decrease interest rates inorder to stabilize(grow) the economy.
+
+🧨 FALSE PRINCIPLES[FOR THE PUBLIC/THE MASSES] 🌀 INVERSELY CO-RELATED
+===> CAUSE: Central bank decreases interest rates EFFECT: in order to increase inflation resulting to growing of the economy.
+===> CAUSE: Central bank increases interest rates EFFECT: in order to decrease inflation resulting to shrinking of the economy.
+
+🧨 MECHANISMS TO CONTROL INFLATION
+===> Central bank purchases NON-PERFORMING assets from banks sometimes even at face value.(Clean-up of the banks balance sheets)
+===> Central bank purchases PERFORMING assets from non-banks--the public[individual investors or businesses/companies].
+----------------------------------------------------------------------------------------------------------------------------------------------
+👉 RANDOM DISTRIBUTION
+===> FOR DEPENDENT OR INDEPENDENT EVENTS
+A  🧨PREJUDICE[PREREQUISITES]
+1. 🧨IDENTIFY[OBSERVATION]         - There is NO NEGATIVE OUTCOME/AFTERMATH
+2. 🧨DEFINE THE STYLE[OBSERVATION] - OUTCOME/AFTERMATH MUST [TOTAL ADD UP EVENTUALLY] ON [TOTAL CONTINUATION] ON [TOTAL AVERAGE]
+                                     && [[[TOTAL RECURSION/REPETITION OF THE THREE]]] despite the randomness
+3. 🧨APPLY THE LAW[ACCORDINGLY]    - There MUST BE AN OUTCOME/AFTERMATH [SOLID OUTCOME OR VOID/NULL]
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
