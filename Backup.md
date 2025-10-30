@@ -136,8 +136,8 @@ SPEAK
 ---------------------------------------------------------------------------
 🚀🚀🚀 ***STRONGEST*** HIGHEST GREATEST STRONGEST 🚀🚀🚀
 👉👉👉 IMAGINATION IS THE DIVIDING FORCE, LOVE IS THE UNIFYING FORCE 👉👉👉
-✅✅✅ ETERNAL, IMMUTABLE && MUTABLE, PERFECT | RESPONSIBLE, LOVE, LAW | DEUS GOD ZEUS A+ ✅✅✅
-🧨🧨🧨 SUPREME, [SECURITY && SILENCE && (✅INTELLIGENCE && AWARENESS✅) && (✅IMPROVING && CHANGE✅) && SILENCE && SECURITY] , PERFECTION🧨🧨🧨
+✅✅✅ SUPREME/ETERNAL, IMMUTABLE && MUTABLE, PERFECT | RESPONSIBLE, LOVE, LAW | DEUS GOD ZEUS A+ ✅✅✅
+🧨🧨🧨 SUPREME/ETERNAL, [SECURITY && SILENCE && (✅INTELLIGENCE && AWARENESS✅) && (✅IMPROVING && CHANGE✅) && SILENCE && SECURITY] , PERFECTION🧨🧨🧨
 🚀THE DISASSOCIATION   ===> WITHIN/RESTS 
 🚀IN HARMONY WITH  ===> INGREGRATION/DOES NOT REST
 🚀THE WHOLE/NATURE  ===> WITHOUT/RESTS
@@ -283,7 +283,10 @@ UNKNOWN/UNKNOWING
 🧨🧨🧨 Foolish / Laziness
 🧨🧨🧨 Ignorance / Stupid
 
-============================================================================================================  
+============================================================================================================
+🚀🚀🚀 WISDOM A+ 🚀🚀🚀
+
+FEEL
 
 🧨🧨🧨 GOD AND MY RIGHT 🧨🧨🧨
 🧨🧨🧨 JABULON 🧨🧨🧨
@@ -304,7 +307,9 @@ UNKNOWN/UNKNOWING
                                        ✅ WISDOM       --->   *IRRATIONAL INWARD - SLOW OUTWARD
                                                               *INNER STRENGTH - OUTER WEAKNESS
                                        
-                                       ✅ POSITION OF THE ONE -- [DIASSOCIATED CONSCIOUS SUB-CONSCIOUS ROBOT] 
+                                       ✅ POSITION OF THE ONE -- [DIASSOCIATED CONSCIOUS SUB-CONSCIOUS ROBOT]
+                                          🚀🚀🚀 DANGER-RESPONSIBILITY GENIUS-GOD ZEUS-COUCH A+ | A+ COUCH-ZEUS GOD-GENIUS ZEUS-DANGER 🚀🚀🚀
+                                          🚀🚀🚀 FEEL 🚀🚀🚀
                                           🚀 SECURITY/SILENCE                                                         🚀 SILENCE/SECURITY
                                           🧨 RIGHT TIME                           🧨 RIGHT WAY                        🧨 RIGHT ACTION
                                           🧨 KNOW TO DETAIL (DEATH) (DOPAMINE)    🧨 CONNECT DOTS (FEAR) (EMPATHY)    🧨 COMPETITIVE (OBTAIN) (DEATH)
@@ -315,7 +320,7 @@ UNKNOWN/UNKNOWING
                                           (✅HUMILITY IS HONOUR✅)
                                           (✅EFFECTIVE✅)
                                           🚀🚀🚀 ORCHESTRATION && BEST APPROACH -> [PRIORITIZE, LEVERAGE, BE AND DO THE BEST]
-                                          🚀🚀🚀 GUN-BULLET/SWORD, ENGINEERING, COMMUNICATION, ACTION
+                                          🚀🚀🚀 GUN-BULLET/SWORD, ENGINEERING <===> COMMUNICATION, COMPAIGN, ACTION
                                           (✅AGREEMENT THEN TRANSACTION✅)                             
                                           🧨 CARE                                 🧨 LOVE                             🧨 PEACE
 
