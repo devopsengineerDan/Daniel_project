@@ -3552,12 +3552,13 @@ NORMAL BUSINESS TRANSACTIONS
 -----------------------------------------------------------------------------------------------------------------
 👉👉👉 MANAGEMENT RULES
 👉👉👉 1. MANAGER, [SIMPLE LIFE ******* HOUSE BROKE], RIGHT PSYCHOLOGY[MIND && SOUL]
-🧨 2. NO ACCUSATION/ WRONG-DOING[NOT IN 🧨🌀HARMONY WITH LAWS && NATURE]
-                                                        ===> 👉 BUSINESS INCOME MUST MATCH TYPE OF BUSINESS
-                                                             👉 MUST VARY A LITTLE[RANDOM] 
-                                                             👉 MUST NOT BE STATIC/CONSISTENT
-                                                             👉 IF STATIC/CONSISTENT; THEN LITTLE MONEY  
-                                                                           
+🧨 2. NO ACCUSATION/ WRONG-DOING[NOT IN 🧨🌀HARMONY WITH LAWS && (NATURE + INHERENT NATURE)]
+                                  ===> 👉1. BUSINESS INCOME MUST MATCH TYPE OF BUSINESS
+                                       👉2. MUST MAKE BUSINESS SENSE [SELL HIGH - BUY LOW]
+                                       👉3. MUST REGISTER PROFITS AND LOSSES
+                                       👉4. MUST VARY A LITTLE[RANDOM] 
+                                       👉5. MUST NOT BE STATIC/CONSISTENT
+                                       👉6. IF STATIC/CONSISTENT; THEN LITTLE MONEY                                                                             
 🧨 3. PERFORMED INDEPENDENTLY
 🧨 4. PERFORMED USING PUBLICLY AVAILABLE KNOWLEDGE
 🧨 5. TRUE MASTER IS GAINING ACCESS WITHOUT NOTICE && PLAYING ALONG ===> THE GAME
