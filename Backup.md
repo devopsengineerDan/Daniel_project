@@ -284,10 +284,6 @@ UNKNOWN/UNKNOWING
 🧨🧨🧨 Ignorance / Stupid
 
 ============================================================================================================
-🚀🚀🚀 WISDOM A+ 🚀🚀🚀
-
-FEEL
-
 🧨🧨🧨 GOD AND MY RIGHT 🧨🧨🧨
 🧨🧨🧨 JABULON 🧨🧨🧨
 --------------------------------------------------
@@ -308,14 +304,14 @@ FEEL
                                                               *INNER STRENGTH - OUTER WEAKNESS
                                        
                                        ✅ POSITION OF THE ONE -- [DIASSOCIATED CONSCIOUS SUB-CONSCIOUS ROBOT]
-                                          👉👉👉 2 WITHIN   ---> TREE
-                                          👉👉👉 2 WITHOUT  ---> TREE
+                                          👉👉👉 🧨2 WITHIN   <===> TREE BIGGER  ---> T,B,M
+                                          👉👉👉 🧨2 WITHOUT  <===> TREE SMALLER ---> T,B,M
                                           🚀🚀🚀 DANGER-RESPONSIBILITY GENIUS-GOD ZEUS-COUCH A+ | A+ COUCH-ZEUS GOD-GENIUS ZEUS-DANGER 🚀🚀🚀
-                                          --------------------------------- 
-                                          🚀🚀🚀 FEEL 🚀🚀🚀
-                                          🚀🚀🚀 KARMA && REACTIVE 🚀🚀🚀
-                                          🚀🚀🚀 BUDGET 🚀🚀🚀
-                                          --------------------------------- 
+                                          --------------------------------------- 
+                                          🚀🚀🚀 🧨FEEL 🚀🚀🚀
+                                          🚀🚀🚀 🧨KARMA && 🧨REACTIVE 🚀🚀🚀
+                                          🚀🚀🚀 🧨BUDGET 🚀🚀🚀
+                                          --------------------------------------- 
                                           🚀 SECURITY/SILENCE                                                         🚀 SILENCE/SECURITY
                                           🧨 RIGHT TIME                           🧨 RIGHT WAY                        🧨 RIGHT ACTION
                                           🧨 KNOW TO DETAIL (DEATH) (DOPAMINE)    🧨 CONNECT DOTS (FEAR) (EMPATHY)    🧨 COMPETITIVE (OBTAIN) (DEATH)
