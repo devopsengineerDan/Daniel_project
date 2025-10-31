@@ -3469,7 +3469,7 @@ ID number
 
 ```
 🧨 OFFGRID
-MONEY ------------> SAFETY ------------> GROWTH ------------> LOGISTICS
+GOLD && MONEY ------------> SAFETY ------------> GROWTH ------------> LOGISTICS
 ```
 
 
@@ -3534,8 +3534,46 @@ NORMAL BUSINESS TRANSACTIONS
 ----------------------------------
 ```
 
+---
 
+```
+👉👉👉 ASSET RULES
+🧨 [UP-STAIRS] CLEAN - 7 LOCAL [APARTMENTS + BUSINESSES] && BANKS 👉 END-GAME ---> SAVINGS
+🧨 CLEAN - 7 FOREIGN SAVINGS BANKS 👉 END-GAME===> SAVINGS TO PURCHASE PROPERTIES IN FOREIGN CITIES                          
+🧨🧨🧨 [HIDDEN GOLD] LOCAL ---> SAVINGS 90%
+🧨🧨🧨 [HIDDEN GOLD] ABROAD ---> SAVINGS 10% [1T LOCAL CURRENCY]
+🧨🧨🧨 [HIDDEN GOLD] CLEAN - LOCAL STOCKS ---> SAVINGS
+🧨🧨🧨 [HIDDEN GOLD] CLEAN - FOREIGN STOCKS ---> SAVINGS
+🧨 CLEAN - RENTAL SURBUB UNITS ---> SAVINGS
+🧨 CLEAN - 36 LOCAL APARTMENTS ---> SAVINGS 
+🧨 [GROUND]CLEAN - 7 LOCAL APARTMENTS ===> NETWORTH ******* ROBOT[SHOWING UP EVERY DAY] *******  
+                                      ---> DAILY EXPENSES 
+                                           🌀 HAVE LOANS
+-----------------------------------------------------------------------------------------------------------------
+👉👉👉 MANAGEMENT RULES
+👉👉👉 1. MANAGER, [SIMPLE LIFE ******* HOUSE BROKE], RIGHT PSYCHOLOGY[MIND && SOUL]
+🧨 2. NO ACCUSATION/ WRONG-DOING[NOT IN 🧨🌀HARMONY WITH LAWS && NATURE]
+                                                        ===> 👉 BUSINESS INCOME MUST MATCH TYPE OF BUSINESS
+                                                             👉 MUST VARY A LITTLE[RANDOM] 
+                                                             👉 MUST NOT BE STATIC/CONSISTENT
+                                                             👉 IF STATIC/CONSISTENT; THEN LITTLE MONEY  
+                                                                           
+🧨 3. PERFORMED INDEPENDENTLY
+🧨 4. PERFORMED USING PUBLICLY AVAILABLE KNOWLEDGE
+🧨 5. TRUE MASTER IS GAINING ACCESS WITHOUT NOTICE && PLAYING ALONG ===> THE GAME
+🧨 6. MAKE ZERO MOVE OR NO MOVE AT ALL[KEEP IT SIMPLE]
+🧨 7. FOREIGN BUSINESSES ******* FOREIGN INVESTORS 
+----------------------------------------------------
+👉👉👉1. MANAGER, [SIMPLE LIFE ******* HOUSE BROKE], RIGHT PSYCHOLOGY[MIND && SOUL]
+👉👉👉2. ******* ELABORATE SOURCE OF WEALTH *******
+         ******* ELABORATE TAX COMPLIANCE *******
+         ******* CONSTRUCT THEN SETTLE OUTSIDE *******
+👉👉👉3. ---> EXPENSES - HARDWARE, MACHINES, VEHICLES, INFRASTRUCTURE 
+         ---> EXPENSES - MEDICAL INSURANCE && FEES
+              🌀 HAVE LOANS
+```
 
+---
 
 ```
 👉👉👉 BEST PRACTICES [OVERVIEW]
@@ -3561,7 +3599,7 @@ Shell companies(ownership) to avoid damage on you
 👉👉👉 BEST PRACTICES [DETAILED]
 
 🧨 OFFGRID
-👉 MONEY ------------> SAFETY ------------> GROWTH ------------> LOGISTICS
+👉 GOLD && MONEY ------------> SAFETY ------------> GROWTH ------------> LOGISTICS
 
 👉 BUY ASSETS -> BORROW LOANS -> DIE (Those who Inherit won't pay tax + Life insurance will clear out loans)
 👉 HELD BY TRUST -> OWNED BY HOLDING COMPANY -> MANAGED BY NOMINEE DIRECTOR -> BENEFICIARY IS THE INDIVIDUAL
@@ -3573,17 +3611,17 @@ Shell companies(ownership) to avoid damage on you
 
 🧨Managing SYSTEM[ACTIVE]
 🧨Managing CASHFLOW => High Incomes
-                 => Low Expenses
+                    => Low Expenses
                                                       🧨Managing PEOPLE[ACTIVE]
 
 
 [ACTIVE]
 🧨Managing CASHFLOW => High Incomes
-                 => Low Expenses
+                    => Low Expenses
 🧨PARTNERSHIP
 🧨MARKETING => High Sales
 
-                                                      🧨 BUY ASSET <=> SELL SERVICE
+                                                      🧨BUY ASSET <=> SELL SERVICE
                                                       🧨Managing SYSTEM[ACTIVE]
 
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -3592,12 +3630,12 @@ Shell companies(ownership) to avoid damage on you
 
 
 🧨 GOVERNMENT [MILITARY/LAWS] INSURANCE                                                    
-🧨 MEDIUM [BUSINESSES/TRANSACTION] INSURANCE - Black Rock
-🧨 PRIVATE [PROPERTY/EQUITY] INSURANCE - Black Stone
+🧨 MEDIUM [BUSINESSES/TRANSACTION] INSURANCE - BLACK ROCK
+🧨 PRIVATE [PROPERTY/EQUITY] INSURANCE - BLACK STONE
 
 
 HIGH INTEREST 🌀 BONDS INVESTESTMENT IN [STRONG GVT] during HIGH INTEREST RATES OF CURRENCY in the capacity of Big Bank/ Big Business ===> because currency is being diluted hence losing value and offering it as loan will return interest/profit
-LOW INTERSET 🌀 HOLD Big Business/ Big Property during LOW INTEREST RATES OF CURRENCY ===> because currency is gaining value
+LOW INTERSET  🌀 HOLD Big Business/ Big Property during LOW INTEREST RATES OF CURRENCY ===> because currency is gaining value
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
