@@ -264,6 +264,14 @@ UNKNOWN/UNKNOWING
               *LAW - BUREAUCRACYMATTER]
    
 ✅✅✅ FUNDAMENTALS/NATURAL LAW ✅✅✅
+
+                                    🧨🧨🧨🧨🧨🧨🧨🧨           THINGS I HATE           🧨🧨🧨🧨🧨🧨🧨🧨
+                                    🧨🧨🧨🧨🧨🧨🧨🧨  BAD SITUATIONS LEADING TO DEATH  🧨🧨🧨🧨🧨🧨🧨🧨
+
+🧨 SECURITY AUTHORITY/KILL               
+🧨 PROSTITUTION/STEAL
+🧨 DRUNKARD/DESTROY
+
 ✅ 3 [BLOCK/SQUARE]                     🧨🧨🧨 DEATH               ✅ 4 [EXTREME]
 🧨 INACTION                              - PROACTIVE                 🧨 ENSLAVEMENT
 🧨 INDECISIVE                            - ETHER                     🧨 MEAN {TILL YOUR DEATH AND THEIRS}
@@ -272,7 +280,7 @@ UNKNOWN/UNKNOWING
 🧨 MEAN/HUNGER/DEATH                     - PRODUCTIVE
 
 🧨🧨🧨 CON(Naive)/Obvious - LIE(Foolishness/Retard)/Petty - THEFT(Ignorance)/Stingy<->MinuteDetails
-🧨🧨🧨 Delay -   Excuse -  Failure
+🧨🧨🧨 Delay[Vested interest] -   Excuse[Incompetence] -  Failure[Corrupt]
 
 
                           🧨🧨🧨 LIFE
@@ -304,8 +312,10 @@ UNKNOWN/UNKNOWING
                                                               *INNER STRENGTH - OUTER WEAKNESS
                                        
                                        ✅ POSITION OF THE ONE -- [DIASSOCIATED CONSCIOUS SUB-CONSCIOUS ROBOT]
-                                          👉👉👉 🧨2 WITHIN   <===> TREE BIGGER  ---> T,B,M
-                                          👉👉👉 🧨2 WITHOUT  <===> TREE SMALLER ---> T,B,M
+                                          👉👉👉 🧨3 WITHIN   <===> TREE BIGGER  ---> T,B,M
+                                                                    🌀 UPTREND 
+                                          👉👉👉 🧨3 WITHOUT  <===> TREE SMALLER ---> T,B,M
+                                                                    🌀 DOWNTREND
                                           🚀🚀🚀 DANGER-RESPONSIBILITY GENIUS-GOD ZEUS-COUCH A+ | A+ COUCH-ZEUS GOD-GENIUS ZEUS-DANGER 🚀🚀🚀
                                           --------------------------------------- 
                                           🚀🚀🚀 🧨FEEL 🚀🚀🚀
@@ -313,7 +323,7 @@ UNKNOWN/UNKNOWING
                                           🚀🚀🚀 🧨BUDGET 🚀🚀🚀
                                           --------------------------------------- 
                                           🚀 SECURITY/SILENCE                                                         🚀 SILENCE/SECURITY
-                                          🧨 RIGHT TIME                           🧨 RIGHT WAY                        🧨 RIGHT ACTION
+                                          🧨 RIGHT TIME scope                     🧨 RIGHT WAY scope                  🧨 RIGHT REALISTIC-ACTION scope
                                           🧨 KNOW TO DETAIL (DEATH) (DOPAMINE)    🧨 CONNECT DOTS (FEAR) (EMPATHY)    🧨 COMPETITIVE (OBTAIN) (DEATH)
                                              TRUTH                                   IMAGINATION                         REALITY  
                                              ACCURATE [STRATEGIC]                    ADAPT && REVIEW [SMART]             REALISTIC
@@ -321,8 +331,11 @@ UNKNOWN/UNKNOWING
                                           (✅INTELLIGENCE && AWARENESS✅)         (✅IMPROVING && CHANGE✅)
                                           (✅HUMILITY IS HONOUR✅)
                                           (✅EFFECTIVE✅)
-                                          🚀🚀🚀 ORCHESTRATION && BEST APPROACH -> [PRIORITIZE, LEVERAGE, BE AND DO THE BEST]
-                                          🚀🚀🚀 GUN-BULLET/SWORD, ENGINEERING <===> COMMUNICATION, COMPAIGN, ACTION
+                                          🚀🚀🚀 ORCHESTRATION[AWARENESS WITH BEST LENSE && APPROACH]
+                                                 -> PRIORITIZE AS PER ✅LEVEL
+                                                 -> LEVERAGE/LOAD-BALANCER
+                                                 -> BE AND DO THE BEST]
+                                          🚀🚀🚀 ✅SETUP[GUN-BULLET]/SWORD, ENGINEERING <===> COMMUNICATION, COMPAIGN, ACTION
                                           (✅AGREEMENT THEN TRANSACTION✅)                             
                                           🧨 CARE                                 🧨 LOVE                             🧨 PEACE
 
@@ -337,10 +350,13 @@ UNKNOWN/UNKNOWING
                                       --------------------------------------
                                        👉 INNER   🚀 STRONG CONFIDENCE/COURAGE/HONOUR 
                                        👉 OWN IT  🚀 STRONG COMPITENCE/KNOW-HOW/SKILL
-                                       ✅ POSITION OF THE ONE -- [DIASSOCIATED CONSCIOUS SUB-CONSCIOUS ROBOT] 
+                                       ✅ POSITION OF THE ONE <===> [DIASSOCIATED CONSCIOUS SUB-CONSCIOUS ROBOT] 
                                       --------------------------------------
-                                       👉 DOWN   
-                                       🚀 AWARENESS[ORCHESTRATION(BEST APPROACH ===> RIGHT TIME,WAY,realistic) AND LOAD-BALANCING]
+                                       👉 DOWN
+                                       🚀🚀🚀 ORCHESTRATION[AWARENESS WITH BEST LENSE && APPROACH && RIGHT TIME scope,WAY scope,REALISTIC-ACTION scope]
+                                                 -> PRIORITIZE AS PER ✅LEVEL
+                                                 -> LEVERAGE/LOAD-BALANCER
+                                                 -> BE AND DO THE BEST] 
                                        🚀 HARMONIOUS - INTEGRATED - INDUSTRY
                           ========================================================
                                🚀 MEANINGFUL
@@ -923,6 +939,7 @@ STEAL == CONTINUOUSLY ---> GAIN
 
 🧨🧨🧨 CON(Naive)/Obvious - LIE(Foolishness/Retard)/Petty - THEFT(Ignorance)/Stingy<->MinuteDetails
 🧨🧨🧨 Delay -   Excuse -  Failure
+🧨🧨🧨 Delay[Vested interest] -   Excuse[Incompetence] -  Failure[Corrupt]
 
 
                           🧨🧨🧨 LIFE
