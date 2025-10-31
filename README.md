@@ -619,14 +619,16 @@ Bond Yield =  Bond Coupon    * 100 %
              -------------
               Bond Price
 
- PRICE          | COUPON             | YIELD (%)
-----------------------------------------------------------
+ PRICE          | COUPON             | YIELD (%) ✅ INTENTION TO SELL
+---------------------------------------------------------------------------
  $ 1000         | $ 50               | 5 %
  $ 900          | $ 50               | 5.5 %    
  $ 1100         | $ 50               | 4.5 % 
 
-✅✅✅ Therefore; Increase in Interest Rates increases Sellers in the market, making Price to fall. Hence leading to increase in Yield.
-                  Decrease in Interest Rates increases Buyers in the market, making Price to rise. Hence leading to decrease in Yield.
+✅✅✅ Therefore; ---> Increase in Interest Rates increases Sellers in the market, making Price to fall. This increases the number of buyers
+                        hence leading to increase in Yield.
+                  ---> Decrease in Interest Rates increases Buyers in the market, making Price to rise. This increases the number of sellers
+                       hence leading to decrease in Yield.
 ```
 
 ---------------------------------------------------------
