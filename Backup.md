@@ -318,8 +318,8 @@ UNKNOWN/UNKNOWING
                                                                     🌀 DOWNTREND
                                           🚀🚀🚀 DANGER-RESPONSIBILITY GENIUS-GOD ZEUS-COUCH A+ | A+ COUCH-ZEUS GOD-GENIUS ZEUS-DANGER 🚀🚀🚀
                                           --------------------------------------- 
-                                          🚀🚀🚀 🧨FEEL 🚀🚀🚀
-                                          🚀🚀🚀 🧨KARMA && 🧨REACTIVE 🚀🚀🚀
+                                          🚀🚀🚀 🧨FEEL, ENERGY, VIBRATION <===> SHEEP VS GOATS 🚀🚀🚀
+                                          🚀🚀🚀 🧨KARMA && 🧨REACTIVE <===> GREEDGAIN-STINGY, UNKIND/GIVING-UNFORGIVING, KILL 🚀🚀🚀
                                           🚀🚀🚀 🧨BUDGET 🚀🚀🚀
                                           --------------------------------------- 
                                           🚀 SECURITY/SILENCE                                                         🚀 SILENCE/SECURITY
