@@ -9651,6 +9651,11 @@ Werkzeug==1.0.1
 ![title](static/img/API_call_methods.jpg)
 ![title](static/img/API_best_practices.jpg)
 
+# API AUTHENTICATION
+![title](static/img/api_authentication.jpg)
+
+# API AUTHORIZATION MANAGEMENT
+![title](static/img/authorization_management.jpg)
 
 # APIS CONCEPTS
 
