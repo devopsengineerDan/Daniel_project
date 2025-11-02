@@ -9640,7 +9640,6 @@ Werkzeug==1.0.1
 ### API_Client_Request_Type
 ![title](static/img/API_Client_Request_Type.jpg)
 
-
 # API TYPES
 ![title](static/img/API_Types.jpg)
 
@@ -9656,6 +9655,9 @@ Werkzeug==1.0.1
 
 # API AUTHORIZATION MANAGEMENT
 ![title](static/img/authorization_management.jpg)
+
+# API PROTECTION TECHNIQUES
+![title](static/img/API_Protection_Techniques.jpg)
 
 # APIS CONCEPTS
 
