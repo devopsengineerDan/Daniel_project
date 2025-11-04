@@ -1478,11 +1478,20 @@ Higher Time Frame    Lower Time Frame
 
 > 4. RESISTANCE(CONSISTENT SWING HIGHS) && SUPPORT (CONSISTENT SWING LOWS)
 
-> 5. ORDER BLOCKS
+> 5. ORDER BLOCKS is a type of PD Array
+
+----------------------------------------------------------------------------------
+#### INTENTIONAL MOVES MADE BY MARKET MAKERS; FOR MARKET EFFICIENCY
+#### BE CAREFUL AND AWARE OF:
 
 > FAKE-OUTS
 
+> STOP-LOSS HUNT
 
+> BULL TRAP
+
+> BEAR TRAP
+----------------------------------------------------------------------------------
 
 
 
@@ -1506,10 +1515,10 @@ Higher Time Frame    Lower Time Frame
 
 > STOP RUN
 
-> HIGH RESISTANCE LIQUIDITY RUN => 79% and Higher Fibonnacci
-
-> LOW RESISTANCE LIQUIDITY RUN => 50% and Lower Fibonnacci
-
+> High Resistance Liquidity Run VS Low Resistance Liquidity Run => 79% and Higher Fibonnacci
+  (Inefficiency in the market)     (Efficiency in the market)
+> High Support Liquidity Run VS Low Support Liquidity Run  => 50% and Lower Fibonnacci
+  (Inefficiency in the market)     (Efficiency in the market)
 
 
 
