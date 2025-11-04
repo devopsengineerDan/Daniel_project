@@ -3541,6 +3541,7 @@ NORMAL BUSINESS TRANSACTIONS
 👉 MIRROR TRANSFERS AND UNDERGROUND BANKS/HAWALA ---> PROPERTIES
 👉 BROKERAGE AND BANKS/CREDIT INSTITUTIONS
 👉 BUSINESS-SENSE COMPANIES MIRRORS
+👉👉👉 SOLD
 -----------------------------------------------------------------------------------------------------------------
 👉👉👉 ASSET RULES
 🧨 [UP-STAIRS] CLEAN - 7 LOCAL [APARTMENTS + BUSINESSES] && BANKS -----------------------------------------------------------------------------------------------------------------
