@@ -288,8 +288,14 @@ Farming + Lands => Light Group
  
 ```
 Inter-Bank Money and Deposit Association (IBMDA) -> Regulate the Exchange Algorithm 
-XTX Money -> Maker
+XTX Money -> Market Maker
 Citi bank -> Dealers & Liquidity Provider
+-------------------------------------------------------------------------------------
+Central Bank
+Markets Authority
+Stock Exchange
+Brokerage Firm [Internal Compliance && Audit]
+Hedge Fund [Internal Compliance && Audit]
 ```
 
 
