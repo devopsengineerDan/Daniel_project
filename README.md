@@ -547,6 +547,20 @@ B) EPIC/EXTREME
 
 ---------------------------------------------------------
 
+# BID AND ASK PRICES
+
+![title](static/img/bid_ask.jpg)
+
+```
+🧨 BUY LOW
+===> You, the investor given a situation you are a BUYER, you BUY your product/service FROM the SELLER with the LOWEST ASK PRICE.
+
+🧨 SELL HIGH
+===> You, the investor given a situation you are a SELLER, you SELL your product/service TO the BUYER with the HIGHEST BID PRICE.
+```
+
+---------------------------------------------------------
+
 # INTEREST RATES
 
 ```
