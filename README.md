@@ -293,7 +293,9 @@ Citi bank -> Dealers & Liquidity Provider
 -------------------------------------------------------------------------------------
 Central Bank
 Markets Authority
-Stock Exchange
+Stock Exchange ===> Investor[Central Depository Account]
+               ===> Stock Broker[Central Depository Agent]
+               ===> Listed Companies in the Exchange[Central Depository Corporations]
 Brokerage Firm [Internal Compliance && Audit]
 Hedge Fund [Internal Compliance && Audit]
 ```
@@ -587,7 +589,6 @@ B) EPIC/EXTREME
 ```
 
 ```
-
 👉 FINANCE, MARKETING && ECONOMICS
 🧨 TRUE PRINCIPLES 🌀 CONSEQUENTIALLY/POSITIVELY CO-RELATED
 
@@ -1003,6 +1004,7 @@ Rich Nick [DEMAND AND SUPPLY STRATEGY (ICT) 👉👉👉👉👉 CALCULATING TAK
 Financial Institution + Retail  Institution 👉 OrderBlock + Play Against The Masses         Financial Institution + Retail  Institution  👉 OrderBlock + Play Against The Masses 
 Fundamental                                                                                 Fundamental
 
+✅ STACEY BURKE STRATEGY[PERIODICAL]                                                        ✅ STACEY BURKE STRATEGY[PERIODICAL]                  
 ```
 
 
