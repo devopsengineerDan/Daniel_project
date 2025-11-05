@@ -3437,8 +3437,10 @@ dancunmoruri@gmail.com
 @#ALPHA&&OMEGA1user
 EA ID
 dvvwbhjku637
-Xbox
-Dan39351
+Steam
+GAMER
+danalphaandomega
+@#ALPHA&&OMEGA1user
 
 ----------------------
 
@@ -3447,10 +3449,8 @@ dancunmoruri@gmail.com
 @#ALPHA&&OMEGA1user
 EA ID
 dvvwbhjku637
-Steam
-GAMER
-danalphaandomega
-@#ALPHA&&OMEGA1user
+Xbox
+Dan39351
 
 
 http://portal.jkuat.ac.ke/Home/Index 
