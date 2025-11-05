@@ -180,7 +180,7 @@ UNKNOWN/UNKNOWING
                 *ETHER/NEUTRAL/EQUILIBRIUM
                 -----------------------------
                 *THOUGHTS && ACTIONS
-         *GATEWAY
+          *GATEWAY
 
 ✅THE AGES[SUB-CONSCIOUS]
 *PORTAL
