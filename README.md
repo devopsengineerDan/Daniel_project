@@ -263,6 +263,11 @@ Farming + Lands => Light Group
    >>> INDEX [US30, DJIA] ---> Highly Volatile
    
 =======================================================================================================================================================================
+
+✅✅✅ BANKS      ===> CLEARING HOUSE, Ensures completion of clearance and settlement
+✅✅✅ CLEARANCE  ===> Movement of money
+✅✅✅ SETTLEMENT ===> Movement of securities/stock
+
 🧨🧨🧨 INVESTMENT VEHICLE
 ✅ ACTUAL                    👉 STOCK
 ✅ ACTUAL                    👉 SHARES[PERCENTAGE OF THE STOCK]
