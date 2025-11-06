@@ -40,6 +40,10 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
             ===> News Letter -> https://youtu.be/hWtlskOaFNI?si=WNMXDlQ6sq1BTKM8
             ------------------------------------
             ===> INTERNET/NETWORK ENGINEER
+                 - Smart OLT System (Intefacing the Network Devices)
+                 - Billing System
+                 - Payment API System
+                 - Messaging system
             ===> LOANS
             ===> TRANSACTIONS
             ===> E-COMMERCE
