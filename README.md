@@ -127,7 +127,7 @@ GENERAL-PURPOSE INDUSTRY ===> https://palantir.com
 CENTRAL BANK ===> FEDERAL BANK
 GENERAL-PURPOSE BANK ===> ROTHCHILD BANKS
  -------------------------------------------------------------------------------
-INSURANCE ===> BLACKSTONE
+INSURANCE ===> BLACKROCK, BLACKSTONE
 BROKERAGE INDUSTRY ===> PEPPERSTONE
 HEDGE-FUND INDUSTRY ===> K-BIT(Cryptocurrency), HENRIOT(Currency)                    
 ```
