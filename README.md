@@ -263,13 +263,15 @@ Farming + Lands => Light Group
    >>> INDEX [US30, DJIA] ---> Highly Volatile
    
 =======================================================================================================================================================================
-
+🧨🧨🧨 INVESTMENT VEHICLE
 ✅ ACTUAL                    👉 STOCK
 ✅ ACTUAL                    👉 SHARES[PERCENTAGE OF THE STOCK]
 ✅ ACTUAL                    👉 EQUITY represents direct ownership in a company
-✅ POTENTIAL FOR OWNERSHIP   👉 FUTURES(Type of Derivative)        ---> INDEX NDX100 / NASDAQ, S&P500 USA ECONOMY
+
+🧨🧨🧨 RISK MITIGATION VEHICLE ---> For Double-Trading
+✅ TOY                       👉 FUTURES(Type of Derivative)        ---> INDEX NDX100 / NASDAQ, S&P500 USA ECONOMY
 ✅ POTENTIAL FOR OWNERSHIP   👉 OPTIONS(Type of Derivative) 
-✅ POTENTIAL FOR OWNERSHIP   👉 DERIVATIVES                        ---> INDEX US30, US100, US500
+✅ DEPENDS ON THE TYPE       👉 DERIVATIVES                        ---> INDEX US30, US100, US500
 ✅ TOY                       👉 CFDS
 
  
