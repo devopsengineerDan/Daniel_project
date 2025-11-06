@@ -268,9 +268,9 @@ Farming + Lands => Light Group
    
 =======================================================================================================================================================================
 
-✅✅✅ BANKS      ===> CLEARING HOUSE, Ensures completion of clearance and settlement
+✅✅✅ BANKS      ===> CLEARING HOUSE; Ensures all trades are cleared and settled
 ✅✅✅ CLEARANCE  ===> Movement of money
-✅✅✅ SETTLEMENT ===> Movement of securities/stock
+✅✅✅ SETTLEMENT ===> Settlement of securities/stocks
 
 🧨🧨🧨 INVESTMENT VEHICLE
 ✅ ACTUAL                    👉 STOCK
