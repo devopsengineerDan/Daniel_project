@@ -259,12 +259,13 @@ Farming + Lands => Light Group
 =======================================================================================================================================================================
 
 =====> SHORT-TERM PERIOD [1]DAY
-       🧨🧨🧨 INDICES 🧨🧨🧨  ---> Medium Volatility
-👉 ---> INDEX US100 / NDX100 / NASDAQ     -----> NAS100 US tech 100 INDEX CFD  -----> Pepperstone
-👉 ---> INDEX US500 / S&P500 USA ECONOMY  -----> US500                         -----> Pepperstone
+       🧨 INDICES 🧨  ---> Medium Volatility
+👉 DERIVATIVE  ---> INDEX US100 / NDX100 / NASDAQ     -----> NAS100 US tech 100 INDEX CFD  -----> Pepperstone
+👉 DERIVATIVE  ---> INDEX US500 / S&P500 USA ECONOMY  -----> US500                         -----> Pepperstone
 
-   
-   >>> INDEX [US30, DJIA] ---> Highly Volatile
+       🧨 HIGHLY SORTED-OUT FINANCIAL INSTRUMENTS 🧨  ---> High Volatility
+👉 DERIVATIVE  >>> INDEX [US30, DJIA] 
+👉 COMMODITY   >>> GOLD  -----> XAU/USD -----> OANDA
    
 =======================================================================================================================================================================
 
@@ -274,14 +275,14 @@ Farming + Lands => Light Group
 
 🧨🧨🧨 INVESTMENT VEHICLE
 ✅ ACTUAL                    👉 STOCK
-✅ ACTUAL                    👉 SHARES[PERCENTAGE OF THE STOCK]
+✅ ACTUAL                    👉 SHARES [PERCENTAGE OF THE STOCK]
 ✅ ACTUAL                    👉 EQUITY represents direct ownership in a company
 
 🧨🧨🧨 RISK MITIGATION VEHICLE ---> For Double-Trading
-✅ TOY                       👉 FUTURES(Type of Derivative)        ---> INDEX NDX100 / NASDAQ, S&P500 USA ECONOMY
-✅ POTENTIAL FOR OWNERSHIP   👉 OPTIONS(Type of Derivative) 
-✅ DEPENDS ON THE TYPE       👉 DERIVATIVES                        ---> INDEX US30, US100, US500
-✅ TOY                       👉 CFDS
+✅ TOY                       👉 FUTURES (Type of Derivative)        ---> INDEX NDX100 / NASDAQ, S&P500 USA ECONOMY
+✅ POTENTIAL FOR OWNERSHIP   👉 OPTIONS (Type of Derivative) 
+✅ DEPENDS ON THE TYPE       👉 DERIVATIVES                         ---> INDEX US30, US100, US500
+✅ TOY                       👉 CFDS (Type of Derivative)
 
  
  >>> FUTURES ---> (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN TWO INVESTORS)
