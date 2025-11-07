@@ -1517,7 +1517,7 @@ Higher Time Frame    Lower Time Frame
 
 > 4. RESISTANCE(CONSISTENT SWING HIGHS) && SUPPORT (CONSISTENT SWING LOWS)
 
-> 5. ORDER BLOCKS is a type of PD Array
+> 5. ORDER BLOCKS is a type of PD-ARRAY
 
 ----------------------------------------------------------------------------------
 #### INTENTIONAL MOVES MADE BY MARKET MAKERS; FOR MARKET EFFICIENCY
@@ -1525,9 +1525,9 @@ Higher Time Frame    Lower Time Frame
 
 > FAKE-OUTS
 
-> BULL TRAP STOP-LOSS HUNT -> RESISTANCE LEVEL
+> BULL TRAP STOP-LOSS HUNT -> SWING HIGH
 
-> BEAR TRAP STOP-LOSS HUNT -> SUPPORT LEVEL
+> BEAR TRAP STOP-LOSS HUNT -> SWING LOW
 ----------------------------------------------------------------------------------
 
 
@@ -1551,6 +1551,8 @@ Higher Time Frame    Lower Time Frame
 > CONSISTENT SWING LOW -> SUPPORT
 
 > ORDERBLOCK -> IS A TYPE OF PD-ARRAY
+  ===> PREMIUM ARRAY -> ORDERBLOCK / BUYSIDE LIQUIDITY RESISTANCE ---> SELL LIMIT ORDER 
+  ===> DISCOUNT ARRAY -> ORDERBLOCK / SELLSIDE LIQUIDITY SUPPORT  ---> BUY LIMIT ORDER 
 
 > LIQUIDITY POOL
 
@@ -1584,9 +1586,9 @@ Higher Time Frame    Lower Time Frame
 
 > DA / Discount Array ---> Price level in which price react to Bullish trend
 
-> PRICE DELIVERY ===> Expansion  ->  Retracement  ->  Reversal  ->  Consolidation  ->  Expansion  ->  REPEAT
+> PRICE DELIVERY ===> AWARENESS{Expansion}  ->  TECHNICAL{[Retracement  Then  Reversal]} ->  PERIODIC{Consolidation(Retest)}  ->  REPEAT
 
-> PRICE DELIVERY ===> Accumulation  ->  Manipulation  ->  Distribution
+> PRICE DELIVERY ===> AWARENESS{Accumulation}  ->  TECHNICAL{Manipulation}  ->  PERIODIC{Distribution} -> REPEAT
 
 
 
