@@ -1507,6 +1507,8 @@ Higher Time Frame    Lower Time Frame
 
 > REVERSAL / MARKET SHIFT
 
+> RETEST
+
 > 1. MARKET STRUCTURE / OVERALL MARKET TREND [HIGHS && LOWS]
 
 > 2. DEMAND && SUPPLY
@@ -1523,11 +1525,9 @@ Higher Time Frame    Lower Time Frame
 
 > FAKE-OUTS
 
-> STOP-LOSS HUNT
+> BULL TRAP STOP-LOSS HUNT -> RESISTANCE
 
-> BULL TRAP
-
-> BEAR TRAP
+> BEAR TRAP STOP-LOSS HUNT -> SUPPORT
 ----------------------------------------------------------------------------------
 
 
