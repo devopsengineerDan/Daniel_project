@@ -2108,8 +2108,8 @@ MICROTIK ROUTER CONFIGURATION GUIDE
 
 ```
 👉 CYBERSECURITY GUIDE => OWASP CHEATSHEET -> https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
-👉 WEB SECURITY ACADEMY -> https://www.youtube.com/watch?v=lR3TBT-cDU0&list=PL5bdOoBoOrbYS0cupsz9Q_Qhj9hCPetnP
-👉 WEB SECURITY ACADEMY #portswigger -> https://www.youtube.com/watch?v=LLrZMCRvP8Y&list=PLDVnRJQ0p1WUP6zgjrlrDq5wixceuE5Do
+👉 WEB SECURITY ACADEMY #TJCHacking -> https://www.youtube.com/watch?v=lR3TBT-cDU0&list=PL5bdOoBoOrbYS0cupsz9Q_Qhj9hCPetnP
+👉 WEB SECURITY ACADEMY #portswigger #HMCyberAcademy -> https://www.youtube.com/watch?v=LLrZMCRvP8Y&list=PLDVnRJQ0p1WUP6zgjrlrDq5wixceuE5Do
 👉 VIOLENT PYTHON
 
 
@@ -3671,7 +3671,7 @@ BROKER
 # DATA CENTRE (TELECOMMUNICATIONS, ROUTER CONFIGURATION, COMPUTER NETWORK CONFIGURATION, CLOUD/SERVER CONFIGURATION, HARDWARE)
 
 ```
-👉 DATA CENTRE => www.flex.com
+👉 DATA CENTRE ===> www.flex.com
 
 👉 CYBERSECURITY ===> https://fortifycyber.com/ 
 
@@ -5602,7 +5602,9 @@ NOTE: Port Forwarding Basics in Ubuntu Linux https://www.cyberciti.biz/faq/howto
 
 
 
-# CYBERSECURITY ===> CISM CERTIFICATION  www.isaca.org/cismapp -> In order to be CISM Certified
+# CYBERSECURITY 
+ ===> CISM CERTIFICATION  www.isaca.org/cismapp -> In order to be CISM Certified
+ ===> Managed Service Provider (MSP) -> Provide security services to manage and protect a client's IT infrastructure and data from cyber threats
 
 ```
 ✅ PROFESSIONAL CERTIFICATIONS
