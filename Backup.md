@@ -13316,8 +13316,8 @@ GO SLOW -> Pedestrian-crossing + Bumps, Bridge, Parking
 👉 Dell xps 13" 9310 i7 11th gen && BEST  15" 9530
 👉 x1 carbon 13" i7 11th gen && x1 carbon 14" i7 11th gen 👉 x1 carbon 13" i7 9th gen && x1 carbon 14" i7 9th gen 👉 x1 carbon 13" i7 8th gen && x1 carbon 14" i7 8th gen
 --------------------------------------------------------------------------------------------
-👉👉👉 i9 13th gen[RAZOR,APPLE,DELL XPS,X1 CARBON THINKPAD]
-
+👉👉👉 i9 DDR5 13th gen[RAZOR,APPLE,DELL XPS,X1 CARBON THINKPAD]
+👉👉👉 SKIP 1 RELEASE WHICH IS FOR TESTING PURPOSES
 
 👉 HARDWARE
 
