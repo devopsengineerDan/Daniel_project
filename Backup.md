@@ -287,11 +287,16 @@ UNKNOWN/UNKNOWING
                           🧨🧨🧨 MONEY
                           🧨🧨🧨 WIFE
                           🧨🧨🧨 LAND / PROPERTY
-🧨🧨🧨 Naive / Lack of [Knowledge + Innovation]
-🧨🧨🧨 Foolish / Laziness
-🧨🧨🧨 Ignorance / Stupid
+
+🚀✅🚀 KNOW TO DETAIL
+🧨🧨🧨 Naive / Lack of [Knowledge + Innovation]  ===> NOT KNOWING (KNOWLEDGE) && NOT AWARE(WISDOM)
+🚀✅🚀 CONNECT THE DOTS
+🧨🧨🧨 Foolish / Laziness                        ===> COPY/IMITATE (REPETITION)
+🚀✅🚀 COMPETITIVE
+🧨🧨🧨 Ignorance / Stupid                        ===> RELIABILITY (REPETITION)
 
 ============================================================================================================
+
 🧨🧨🧨 GOD AND MY RIGHT 🧨🧨🧨
 🧨🧨🧨 JABULON 🧨🧨🧨
 --------------------------------------------------
@@ -477,7 +482,7 @@ LION
                         LITTLE OF KNOWLEDGE
                         LITTLE OF WISDOM
                         🧨DISTRACTION    
-                        🧨UNDECIDED ✅ NAIVE    👉---> UNDECIDED
+                        🧨UNDECIDED ✅ NAIVE    👉---> INDESICIVE && UNDECIDED CHAOS
                         
        🧨KARMA ✅ FOOLISH 👉---> FEAR
        🧨CHAOS ✅ RETARD
@@ -947,10 +952,13 @@ STEAL == CONTINUOUSLY ---> GAIN
                           🧨🧨🧨 WIFE
                           🧨🧨🧨 LAND / PROPERTY  
                              
+🚀✅🚀 KNOW TO DETAIL
+🧨🧨🧨 Naive / Lack of [Knowledge + Innovation]  ===> NOT KNOWING (KNOWLEDGE) && NOT AWARE(WISDOM)
+🚀✅🚀 CONNECT THE DOTS
+🧨🧨🧨 Foolish / Laziness                        ===> COPY/IMITATE (REPETITION)
+🚀✅🚀 COMPETITIVE
+🧨🧨🧨 Ignorance / Stupid                        ===> RELIABILITY (REPETITION)
 
-🧨🧨🧨 Naive / Lack of [Knowledge + Innovation]
-🧨🧨🧨 Foolish / Laziness
-🧨🧨🧨 Ignorance / Stupid
        
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
@@ -4044,13 +4052,13 @@ sudo systemctl restart gdm3
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
     LINUX DISTRIBUTIONS: Arch                                         -> CUTTING EDGE (Researchers and Experts[Distinguished Engineers])
                          Fedora            then     RedHat            -> INNOVATION (AI and Quantum Engineers)
-                         (Early Adopters)           (Early Adopters)
+                         (Early Adopters)           (Late Adopters)
                          Ubuntu            then     Debian            -> STABILITY (Network Engineers)
-                         (Early Adopters)           (Early Adopters)
+                         (Early Adopters)           (Late Adopters)
                          openSUSE                                     -> MAINTAINANCE (System Engineers)
                          e.t.c
-   LINUX DESKTOP ENVIRONMENTS: xfce, Gnome, e.t.c
-   LINUX DESKTOP SERVERS: xorg, Wayland, e.t.c
+   LINUX DESKTOP ENVIRONMENTS: xfce, Gnome, KDE Plasma e.t.c
+   LINUX DISPLAY SERVERS: xorg, Wayland, e.t.c
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
     For Debian / Ubuntu: .deb packages installed by apt or apt-get and dpkg Package Management System
     For Rocky / Fedora / RHEL: .rpm packages installed by yum for redhat, dnf for Fedora Package Management System
