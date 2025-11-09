@@ -13146,7 +13146,11 @@ PUTLOCKER ->  https://putlockernew.vc/home
 MOVIES JOY -> https://moviesjoytv.to
 
 IMDb -> https://www.imdb.com/
-STREMIO -> dancunmoruri@gmail.com -> QWERTY@12345a -> INSTALL STREMIO ON DESKTOP https://torrentio.strem.fun/configure
+STREMIO -> dancunmoruri@gmail.com -> QWERTY@12345a
+STREMIO -> kibe0853@gmail.com -> QWERTY@12345a
+👉 ===> INSTALL TORRENTIO ADDON USING SHARED LINK -> https://torrentio.strem.fun/manifest.json
+👉 ===> CONFIGURE TORRENTIO ADDON ON DESKTOP      -> https://torrentio.strem.fun/configure
+
 ONSTREAM -> dancunmoruri@gmail.com -> qwerty@12345A
 
 YOUTUBE CHANNEL FullHDvideos4me -> https://www.youtube.com/@FullHDvideos4me
