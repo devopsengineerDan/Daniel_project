@@ -245,7 +245,10 @@ UNKNOWN/UNKNOWING
             *************************************************************************************************
             🧨🧨🧨 WAR OF 👉[ENVIRONMENT] && [HYPNOSIS] AND 👉[2 NATURAL LAWS] 🧨🧨🧨
             🧨🧨🧨 AFFECTING ALL SENSES OF 🧨🧨🧨
-            🧨🧨🧨 *PERCEPTION[SOUL/🚀ENERGY && MIND], 🚀FREQUENCY[FEEL/HEART] && 🚀VIBRATION[MATTER] 🧨🧨🧨
+            🧨🧨🧨 🚀FREQUENCY[✅✅✅FEEL/HEART] && ✅✅✅PERCEPTION[SOUL/🚀ENERGY && MIND] && 🚀VIBRATION[MATTER] 🧨🧨🧨
+            ✅✅✅ IT IS GAME THEORY ✅✅✅
+            ✅✅✅ NO FORGIVENESS ✅✅✅
+            ✅✅✅ TO MAINTAIN THE POSITION/STATUS QUO OF THE MASTERS OF THE MIND/ SOUL ✅✅✅
             *************************************************************************************************
 🧨 FALSE NORTH
 🧨 [HELL]MATERIAL/IMAGINATION/DARKNESS ===> FROM DARKNESS TO LIGHT
