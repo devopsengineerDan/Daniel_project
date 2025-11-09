@@ -248,7 +248,7 @@ UNKNOWN/UNKNOWING
             🧨🧨🧨 🚀FREQUENCY[✅✅✅FEEL/HEART] && ✅✅✅PERCEPTION[SOUL/🚀ENERGY && MIND] && 🚀VIBRATION[MATTER] 🧨🧨🧨
             ✅✅✅ IT IS GAME THEORY ✅✅✅
             ✅✅✅ NO FORGIVENESS ✅✅✅
-            ✅✅✅ TO MAINTAIN THE POSITION/STATUS QUO OF THE MASTERS OF THE MIND/ SOUL ✅✅✅
+            ✅✅✅ TO MAINTAIN THE POSITION/STATUS QUO OF THE MASTERS OF THE MIND/SOUL ✅✅✅
             *************************************************************************************************
 🧨 FALSE NORTH
 🧨 [HELL]MATERIAL/IMAGINATION/DARKNESS ===> FROM DARKNESS TO LIGHT
