@@ -323,7 +323,7 @@ UNKNOWN/UNKNOWING
                                                                     🌀 DOWNTREND
                                           🚀🚀🚀 DANGER-RESPONSIBILITY GENIUS-GOD ZEUS-COUCH A+ | A+ COUCH-ZEUS GOD-GENIUS ZEUS-DANGER 🚀🚀🚀
                                           --------------------------------------- 
-                                          🚀🚀🚀 🧨FEEL, ENERGY, VIBRATION <===> SHEEP VS GOATS 🚀🚀🚀
+                                          🚀🚀🚀 [🚀🌀🧨FEEL], 🧨ENERGY, 🧨VIBRATION <===> SHEEP VS GOATS 🚀🚀🚀
                                           🚀🚀🚀 🧨KARMA && 🧨REACTIVE <===> GREEDGAIN-STINGY, UNKIND/GIVING-UNFORGIVING, KILL 🚀🚀🚀
                                           🚀🚀🚀 🧨BUDGET 🚀🚀🚀
                                           --------------------------------------- 
@@ -333,10 +333,10 @@ UNKNOWN/UNKNOWING
                                              TRUTH                                   IMAGINATION                         REALITY  
                                              ACCURATE [STRATEGIC]                    ADAPT && REVIEW [SMART]             REALISTIC
                                              CONSISTENCY                             DISCIPLINE                          HARD WORK             
-                                          (✅INTELLIGENCE && AWARENESS✅)         (✅IMPROVING && CHANGE✅)
+                                          (✅INTELLIGENCE &&  KNOWLEDGE && WISDON/AWARENESS✅)  (✅IMPROVING && CHANGE✅)    (✅CLICK✅)
                                           (✅HUMILITY IS HONOUR✅)
                                           (✅EFFECTIVE✅)
-                                          🚀🚀🚀 ORCHESTRATION[AWARENESS WITH BEST LENSE && APPROACH]
+                                          🚀🚀🚀 ORCHESTRATION[WISDOM/AWARENESS WITH BEST LENSE && APPROACH]
                                                  -> PRIORITIZE AS PER ✅LEVEL
                                                  -> LEVERAGE/LOAD-BALANCER
                                                  -> BE AND DO THE BEST]
@@ -953,7 +953,7 @@ STEAL == CONTINUOUSLY ---> GAIN
                           🧨🧨🧨 LAND / PROPERTY  
                              
 🚀✅🚀 KNOW TO DETAIL
-🧨🧨🧨 Naive / Lack of [Knowledge + Innovation]  ===> NOT KNOWING (KNOWLEDGE) && NOT AWARE(WISDOM)
+🧨🧨🧨 Naive / Lack of [Knowledge + Innovation]  ===> LACK OF INTELLIGENCE && NOT KNOWING (KNOWLEDGE) && NOT AWARE(WISDOM) && NOT CLICKING
 🚀✅🚀 CONNECT THE DOTS
 🧨🧨🧨 Foolish / Laziness                        ===> COPY/IMITATE (REPETITION)
 🚀✅🚀 COMPETITIVE
