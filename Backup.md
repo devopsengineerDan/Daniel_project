@@ -289,7 +289,7 @@ UNKNOWN/UNKNOWING
                           🧨🧨🧨 LAND / PROPERTY
 
 🚀✅🚀 KNOW TO DETAIL
-🧨🧨🧨 Naive / Lack of [Knowledge + Innovation]  ===> NOT KNOWING (KNOWLEDGE) && NOT AWARE(WISDOM)
+🧨🧨🧨 Naive / Lack of [Knowledge + Innovation]  ===> LACK OF (✅[INTELLIGENCE && KNOWLEDGE] && [WISDOM && AWARENESS✅)  (✅IMPROVING && CHANGE✅)    (✅CLICK✅)
 🚀✅🚀 CONNECT THE DOTS
 🧨🧨🧨 Foolish / Laziness                        ===> COPY/IMITATE (REPETITION)
 🚀✅🚀 COMPETITIVE
@@ -333,10 +333,10 @@ UNKNOWN/UNKNOWING
                                              TRUTH                                   IMAGINATION                         REALITY  
                                              ACCURATE [STRATEGIC]                    ADAPT && REVIEW [SMART]             REALISTIC
                                              CONSISTENCY                             DISCIPLINE                          HARD WORK             
-                                          (✅INTELLIGENCE &&  KNOWLEDGE && WISDON/AWARENESS✅)  (✅IMPROVING && CHANGE✅)    (✅CLICK✅)
+                                          (✅[INTELLIGENCE &&  KNOWLEDGE] && [WISDOM && AWARENESS✅)  (✅IMPROVING && CHANGE✅)    (✅CLICK✅)
                                           (✅HUMILITY IS HONOUR✅)
                                           (✅EFFECTIVE✅)
-                                          🚀🚀🚀 ORCHESTRATION[WISDOM/AWARENESS WITH BEST LENSE && APPROACH]
+                                          🚀🚀🚀 ORCHESTRATION[WISDOM && AWARENESS WITH BEST LENSE && APPROACH]
                                                  -> PRIORITIZE AS PER ✅LEVEL
                                                  -> LEVERAGE/LOAD-BALANCER
                                                  -> BE AND DO THE BEST]
@@ -504,7 +504,7 @@ LION
 
        🧨 IDENTITY -> DEATH-PAIN   ✅ TRUTH
 🧨 STABILITY -> SUFFERING ✅ BEAUTY
-       🧨 TRADITION -> PAIN-DEATH ✅ JUSTICE
+       🧨 TRADITION -> PAIN-DEATH  ✅ JUSTICE
 
 🧨 LIGHT THAT BLINDS THE FEBBLE, SENSUAL AND SELFISH
 🧨 HAVE INTELLIGENCE && BE AWARE OF:
@@ -556,12 +556,12 @@ MUSIC ROUTINE| STRUCTURE
 @✅ WITHIN SCOPE
 @✅ INFINITY
 
-              🧨 EXPERIENCE ✅ ✅ ✅
+              🧨 EXPERIENCE 🧨🧨🧨
               @✅ WITHIN SCOPE
               @✅ INFINITY
 -----------------------------------------------------
-              INTELLIGENCE <------> AWARENESS ✅ ✅ ✅
-              TIME <---WAY---> PATIENCE/ACTION ✅ ✅ ✅             
+              ✅✅✅  (✅[INTELLIGENCE &&  KNOWLEDGE] && [WISDOM && AWARENESS✅)  (✅IMPROVING && CHANGE✅)    (✅CLICK✅)  ✅✅✅
+              ✅✅✅  TIME <---WAY---> PATIENCE/ACTION  ✅✅✅         
 -----------------------------------------------------
 ✅ THEATRE OF WILLS[SPIRITS,MINDS,BODIES] ===> Master Timing, Illusion, Restraint
 HOPE(Obedient) ---> Safety - Ambition -> Fire is in Truth/life
@@ -953,7 +953,7 @@ STEAL == CONTINUOUSLY ---> GAIN
                           🧨🧨🧨 LAND / PROPERTY  
                              
 🚀✅🚀 KNOW TO DETAIL
-🧨🧨🧨 Naive / Lack of [Knowledge + Innovation]  ===> LACK OF INTELLIGENCE && NOT KNOWING (KNOWLEDGE) && NOT AWARE(WISDOM) && NOT CLICKING
+🧨🧨🧨 Naive / Lack of [Knowledge + Innovation]  ===> LACK OF (✅[INTELLIGENCE && KNOWLEDGE] && [WISDOM && AWARENESS✅)  (✅IMPROVING && CHANGE✅)    (✅CLICK✅)
 🚀✅🚀 CONNECT THE DOTS
 🧨🧨🧨 Foolish / Laziness                        ===> COPY/IMITATE (REPETITION)
 🚀✅🚀 COMPETITIVE
