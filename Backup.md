@@ -254,6 +254,11 @@ UNKNOWN/UNKNOWING
             ----------------------------------------------------------------------------------------------------------------
             ✅✅✅ PERFECT REASON (WE) (SHEEP)  ===> ORDER FROM PEACE (ORGANINIZED OESTROGEN AND TESTOSTERONE) ✅✅✅
             ✅✅✅ IMPERFECT REASON (I) (GOATS) ===> ORDER FROM CHAOS (DISORGANINIZED OESTROGEN AND TESTOSTERONE) ✅✅✅
+            ----------------------------------------------------------------------------------------------------------------
+            🚀🚀🚀 IN TIMES OF WAR, EMOTIONS GOVERN, REASON AND LOGIC ARE THE FIRST CASUALTIES 🚀🚀🚀
+            🚀 FREEZE ===> SALIVA && FOAM
+            🚀 FLIGHT ===> URINATE && DEFECATE
+            🚀 FIGHT  ===> KICK LEGS && RUN
             *************************************************************************************************
 🧨 FALSE NORTH
 🧨 [HELL]MATERIAL/IMAGINATION/DARKNESS ===> FROM DARKNESS TO LIGHT
