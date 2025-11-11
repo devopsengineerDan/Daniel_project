@@ -241,14 +241,19 @@ UNKNOWN/UNKNOWING
                                     🧨 [HEAVEN]SPIRITUAL/LOVE/LIGHT ===> IN DARKNESS COMES LIGHT
                                              *ORDER 👉 CONSCIOUS AND SUB-CONSCIOUS HEART
                                     *OBEDIENCE
+                                    *FORGIVENESS
+                                    *KINDNESS
                                              *ORDER
             *************************************************************************************************
             🧨🧨🧨 WAR OF 👉[ENVIRONMENT] && [HYPNOSIS] AND 👉[2 NATURAL LAWS] 🧨🧨🧨
             🧨🧨🧨 AFFECTING ALL SENSES OF 🧨🧨🧨
             🧨🧨🧨 🚀FREQUENCY[✅✅✅FEEL/HEART] && ✅✅✅PERCEPTION[SOUL/🚀ENERGY && MIND] && 🚀VIBRATION[MATTER] 🧨🧨🧨
             ✅✅✅ IT IS GAME THEORY ✅✅✅
-            ✅✅✅ NO FORGIVENESS ✅✅✅
+            ✅✅✅ NO FORGIVENESS IN THIS IMPERFECT REASON(I) ✅✅✅
             ✅✅✅ TO MAINTAIN THE POSITION/STATUS QUO OF THE MASTERS OF THE MIND/SOUL ✅✅✅
+            ----------------------------------------------------------------------------------------------------------------
+            ✅✅✅ PERFECT REASON (WE) (SHEEP)  ===> ORDER FROM PEACE (ORGANINIZED OESTROGEN AND TESTOSTERONE) ✅✅✅
+            ✅✅✅ IMPERFECT REASON (I) (GOATS) ===> ORDER FROM CHAOS (DISORGANINIZED OESTROGEN AND TESTOSTERONE) ✅✅✅
             *************************************************************************************************
 🧨 FALSE NORTH
 🧨 [HELL]MATERIAL/IMAGINATION/DARKNESS ===> FROM DARKNESS TO LIGHT
@@ -327,7 +332,7 @@ UNKNOWN/UNKNOWING
                                           🚀🚀🚀 DANGER-RESPONSIBILITY GENIUS-GOD ZEUS-COUCH A+ | A+ COUCH-ZEUS GOD-GENIUS ZEUS-DANGER 🚀🚀🚀
                                           --------------------------------------- 
                                           🚀🚀🚀 [🚀🌀🧨FEEL], 🧨ENERGY, 🧨VIBRATION <===> SHEEP VS GOATS 🚀🚀🚀
-                                          🚀🚀🚀 🧨KARMA && 🧨REACTIVE <===> GREEDGAIN-STINGY, UNKIND/GIVING-UNFORGIVING, KILL 🚀🚀🚀
+                                          🚀🚀🚀 🧨KARMA && 🧨REACTIVE <===> GREEDGAIN-STINGY, UNKIND/GIVING-UNFORGIVING, DISOBEDIENCE-KILL 🚀🚀🚀
                                           🚀🚀🚀 🧨BUDGET 🚀🚀🚀
                                           --------------------------------------- 
                                           🚀 SECURITY/SILENCE                                                         🚀 SILENCE/SECURITY
