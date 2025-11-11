@@ -13274,6 +13274,7 @@ Windows + R - services.msc -> Windows update -> Disable
 Fn + Alt + F4 -> Close window and Shut Down or Reboot
 Windows + R - wmic -> bios get serialnumber
 Windows + R - winver -> To check Windows OS Build
+Windows + R - msconfig -> Check Boot && Delete extra windows boot setup
 Windows + R - dxdiag
 Windows + R- %temp% -> Delete temp files
 Windows + R - optionalfeatures.exe -> Windows Subsystem for Linux				
