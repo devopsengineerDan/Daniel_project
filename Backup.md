@@ -7660,10 +7660,17 @@ Featuring
 - type inference
 - minimal runtime
 - efficient C bindings
-  
+
+## Using C code in Python 
+===>  https://share.google/JgWY1zF9MuJfn9tUc
+===> GITHUB C code in Python.zip
+
+----------- 
+
 Description is taken from [Rust-lang](https://www.rust-lang.org/)
 
-## Using Rust code in Python ===> GITHUB Py03_Rust binding for Python.zip
+## Using Rust code in Python 
+===> GITHUB Py03_Rust binding for Python.zip
 
 ```
 🌀 Isaac Harris-Holt
@@ -7674,7 +7681,7 @@ Description is taken from [Rust-lang](https://www.rust-lang.org/)
 2. Advanced PyO3: Creating A Python CLI With RUST -> https://www.youtube.com/watch?v=8yGR3xjTzDw
 ```
 
-## Using C code in Rust ===>https://www.youtube.com/watch?v=UpmFxJDcFfo
+## Using C code in Rust ===> https://www.youtube.com/watch?v=UpmFxJDcFfo
 
 To use C code within a Rust project, you'll need to bridge the gap between the two languages using the Foreign Function Interface (FFI). This involves defining the C functions and data structures in Rust using extern "C" blocks and potentially using tools like bindgen to automate the process of creating Rust bindings for your C code. 
 Here's a breakdown of the key aspects:
