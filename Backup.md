@@ -8868,11 +8868,11 @@ Activate env:   source venv/bin/activate
 Install pip3 _ONCE_    sudo apt install python3-pip
 
 Install _ONCE_               -> 1st Option
-                                pip3 install pipenv
+                                👉 pip3 install pipenv
 		                export PATH="$HOME/.pipenv/bin:$PATH"
                                 echo $PATH
 	                     -> 2nd Option
-				sudo apt install python3-venv
+				                👉 sudo apt install python3-venv #venv as name of python package to be installed
                                 export PATH="$HOME/.pipenv/bin:$PATH"
                                 echo $PATH
 ```
