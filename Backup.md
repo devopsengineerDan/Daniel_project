@@ -3301,6 +3301,8 @@ Twitter/X Alternative: blueskyapp: https://bsky.app/ @engineerdancun ALPHA@987
 
 DEPLOYMENT
 github - Web Frontend Technologies [Minimum Functionalities]
+pyscript for Web---Anaconda -> GITHUB
+Web into Kotlin Android App https://www.webintoapp.com/author/apps/create dancunmoruri@gmail.com ENGINEER@12345#Genius&!
 pythonanywhere -> dancummoruri@gmail.com: Qwerty@12345
 linode -> GITHUB
 Heroku -> GITHUB
@@ -3330,6 +3332,7 @@ Cloudflare -> dancummoruri@gmail.com : <span class="Button-label">1Paste, drop, 
 AI + CODE
 Anaconda[Datalore Alternative] -> GITHUB  
 pyscript for Web---Anaconda -> GITHUB
+Web into Kotlin Android App https://www.webintoapp.com/author/apps/create dancunmoruri@gmail.com ENGINEER@12345#Genius&!
 Datalore -> dancunmoruri@gmail.com
 
 CodeWars && LeetCode && AlgoExpert -> GITHUB  
