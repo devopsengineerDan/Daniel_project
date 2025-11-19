@@ -3583,7 +3583,11 @@ NORMAL BUSINESS TRANSACTIONS
                                            🌀 HAVE LOANS
 -----------------------------------------------------------------------------------------------------------------
 👉👉👉 MANAGEMENT RULES
-👉👉👉 1. MANAGER, [SIMPLE LIFE ******* HOUSE BROKE], RIGHT PSYCHOLOGY[MIND && SOUL]
+***************************************************************************************
+🧨🧨🧨 AWARENESS [FED-OBEDIENT, CROOKS-SHREWED, BLIND-FOLLOWER, NAIVE-FOOL-STUPID, MOB] ---> SELL 0F OBEDIENCE && PEACE
+🧨🧨🧨 AWARENESS [FED-OBEDIENT, CROOKS-SHREWED, BLIND-FOLLOWER, NAIVE-FOOL-STUPID, MOB] ---> SELL 0F FREEDOM && CHAOS
+***************************************************************************************
+👉👉👉 1. MANAGER, [SIMPLE LIFE ******* HOUSE BROKE && CASH POOR], RIGHT PSYCHOLOGY[MIND && SOUL]
 🧨 2. NO ACCUSATION/ WRONG-DOING[NOT IN 🧨🌀HARMONY WITH LAWS && (NATURE + INHERENT NATURE)]
                                   ===> 👉1. BUSINESS INCOME MUST MATCH TYPE OF BUSINESS
                                        👉2. MUST MAKE BUSINESS SENSE [SELL HIGH - BUY LOW]
@@ -3602,7 +3606,7 @@ NORMAL BUSINESS TRANSACTIONS
          🧨RIGHT PSYCHOLOGY[MIND && SOUL]
 👉👉👉2. ******* ELABORATE SOURCE OF WEALTH *******
          ******* ELABORATE LAWYERS/ACCOUNTANTS/TAX COMPLIANCE *******
-         ******* CONSTRUCT THEN SETTLE OUTSIDE *******
+         ******* CONSTRUCT THEN SETTLE OWNERSHIP OUTSIDE *******
 👉👉👉3. ---> EXPENSES - HARDWARE, MACHINES, VEHICLES, INFRASTRUCTURE 
          ---> EXPENSES - MEDICAL INSURANCE && FEES
               🌀 HAVE LOANS
