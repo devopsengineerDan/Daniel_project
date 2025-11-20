@@ -43,21 +43,21 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
    Info: https://www.geeksforgeeks.org/nlp/audio-processing-with-transformer/
        : https://www.youtube.com/watch?v=N8svLoC2eNA
        
-3. Best practice
+3. 👉 Best practice
    - Data cleaning
    - ETL - Pyspark Tool
    - Train
    - Test
    - Production Deployment 
-4. Data Pipeline Orchestration Tool Dagster
+4. 👉 Data Pipeline Orchestration Tool Dagster
    Dagster Course
    Accompanying Official Website: https://courses.dagster.io/
    Accompanying Github Profile: https://github.com/dagster-io/project-dagster-university
    
-5. MLOPS for continuous Deployment
+5. 👉 MLOPS for continuous Deployment
 
-6 ✅===> Bodywork (ALL KEY CONCEPTS) + (GITHUB REPOS SOURCE CODE)
-7 ✅===> Study Notes Info: https://devopsengineerdan.github.io/AI-ML-DL-Data-Engineering-notes-and-demos-Best-Practices/
+6 ✅ ===> Bodywork (ALL KEY CONCEPTS) + (GITHUB REPOS SOURCE CODE)
+7 ✅ ===> Study Notes Info: https://devopsengineerdan.github.io/AI-ML-DL-Data-Engineering-notes-and-demos-best-practices/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✅ REAL PROJECTS
