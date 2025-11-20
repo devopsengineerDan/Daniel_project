@@ -31,7 +31,33 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 2)Data Engineer - Pyspark Tool                ===> https://github.com/devopsengineerDan/pyspark-ETL-project-and-airflow-Data-pipeline
 3)ML Engineer - ML Pipeline part 1 and 2    ===> https://devopsengineerdan.github.io/  My blog name devopsengineerdan which is dev Repository/alexloannides blog
 4)Deploying ML Models with Bodywork   ===> https://devopsengineerdan.github.io/  My blog name devopsengineerdan which is dev Repository/alexloannides blog 
-5)Deploying Python ML Models with Flask, Docker and Kubernetes    ===> https://devopsengineerdan.github.io/  My blog name devopsengineerdan which is dev Repository/alexloannides blog 
+5)Deploying Python ML Models with Flask, Docker and Kubernetes    ===> https://devopsengineerdan.github.io/  My blog name devopsengineerdan which is dev Repository/alexloannides blog
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. 👉 Learn what AI, Machine Learning and Deep Learning is 
+   Info: https://www.youtube.com/watch?v=WSbgixdC9g8
+   
+2. 👉 Learn Specific Techniques For Reasoning:
+   -> Identify best AI Technique [Observation]
+   -> Identify best Machine Learning Technique [Interface][Interpretation and Review]
+   -> Identify best Deep Learning Technique [Entanglement][Graph]
+   Info: https://www.geeksforgeeks.org/nlp/audio-processing-with-transformer/
+       : https://www.youtube.com/watch?v=N8svLoC2eNA
+       
+3. Best practice
+   - Data cleaning
+   - ETL - Pyspark Tool
+   - Train
+   - Test
+   - Production Deployment 
+4. Data Pipeline Orchestration Tool Dagster
+   Dagster Course
+   Accompanying Official Website: https://courses.dagster.io/
+   Accompanying Github Profile: https://github.com/dagster-io/project-dagster-university
+   
+5. MLOPS for continuous Deployment
+
+6 ✅===> Bodywork (ALL KEY CONCEPTS) + (GITHUB REPOS SOURCE CODE)
+7 ✅===> Study Notes Info: https://devopsengineerdan.github.io/AI-ML-DL-Data-Engineering-notes-and-demos-Best-Practices/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✅ REAL PROJECTS
