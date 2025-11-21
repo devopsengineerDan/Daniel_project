@@ -45,6 +45,7 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
        
 3. 👉 Best practice
    - Data cleaning
+   - Feature Engineering
    - ETL - Pyspark Tool
    - Train
    - Test
@@ -165,7 +166,7 @@ HEDGE-FUND INDUSTRY ===> K-BIT(Cryptocurrency), HENRIOT(Currency)
 
 Exness                        --->  [Mid-Term && Long-term]
 Pepperstone <==> Copy Trading --->  [Short-term]
-BINANCE / BETTER ALTERNATIVE  ---> Cryptocurrency
+BINANCE / BETTER ALTERNATIVE  --->  Cryptocurrency
 
 Ingot
 Henriot                                                             
@@ -809,7 +810,7 @@ Private Finance
 
 🌀 SMB Capital
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 STOCK EXCHANGE   
 🌀 Howard Marks
@@ -1034,14 +1035,15 @@ Price Range
 
 ```
 
-                                                           ✅ AWARENESS
+                                                           ✅ SILENCE && OBSERVATION && AWARENESS
+                                                           ✅ AVOID FUNDAMENTAL NEWS
                                                            1. Swing the BAT
                                                            2. CAREFUL
                                                            3. TARGET
 ✅ TREND STRATEGY                                                                           ✅ PRICE STRATEGY
 EMA [7,21]                                                                                  ICT => PD-Array  5AM [15MIN,30MIN,1HR]    
 Price Action                                                                                SMC
----------------------------------------------------------------                             --------------------------------------------------------------- 
+----------------------------------------------------------------------------------          ---------------------------------------------------------------------------------------- 
 Rich Nick [DEMAND AND SUPPLY STRATEGY (ICT) 👉👉👉👉👉 CALCULATING TAKE PROFIT/TARGET]      Rich Nick  [DEMAND AND SUPPLY STRATEGY (ICT) 👉👉👉👉👉 CALCULATING TAKE PROFIT/TARGET]
 Financial Institution + Retail  Institution 👉 OrderBlock + Play Against The Masses         Financial Institution + Retail  Institution  👉 OrderBlock + Play Against The Masses 
 Fundamental                                                                                 Fundamental
