@@ -330,16 +330,31 @@ UNKNOWN/UNKNOWING
                                                               *INNER STRENGTH - OUTER WEAKNESS
                                        
                                        ✅ POSITION OF THE ONE -- [DIASSOCIATED CONSCIOUS SUB-CONSCIOUS ROBOT]
+                                          =============================================================================================================================
+                                         ✅🧨 SURVIVE && SECURITY
+                                                        ✅🧨 BULL GAIN
+                                                                       ✅🧨 WISDOM[KNOW TO DETAIL-CONNECT THE DOTS-COMPETITIVE]
+                                                        ✅🧨 TOTAL CONTROL ===> AID GOOD COMRADES
+                                                                           ===> DISMISS BAD COMRADES
+                                          -----------------------------------------------------------------------------------------------------------------------
                                           👉👉👉 🧨3 WITHIN   <===> TREE BIGGER  ---> T,B,M
-                                                                    🌀 UPTREND 
+                                                                    🌀 PERFECT REASON
+                                                                    🌀 UPTREND - [RATIONAL-WAY-PEALITY]
+                                          👉👉👉 🧨 BE AWARE OF RESISTANCE  👉[WISDOM-BEAUTY-RESISTANCE]
+                                                                            👉[LIBERAL(TOLERANCE NOT FREEDOM)-EQUALITY-EQUITY]
                                           👉👉👉 🧨3 WITHOUT  <===> TREE SMALLER ---> T,B,M
-                                                                    🌀 DOWNTREND
+                                                                    🌀 IMPERFECT REASON
+                                                                    🌀 DOWNTREND - [IRRATIONAL-CHAOS-INFALLIBLE JUSTICE]
+                                          ***********************************************************************************************************************
                                           🚀🚀🚀 DANGER-RESPONSIBILITY GENIUS-GOD ZEUS-COUCH A+ | A+ COUCH-ZEUS GOD-GENIUS ZEUS-DANGER 🚀🚀🚀
-                                          --------------------------------------- 
+                                          YOU DIE, YOU DIE -- Stand up and confront Unavoidable Danger
+                                          YOU LIVE, YOU LIVE -- Stay back on Avoidable Danger; and let it be dealt by comrades 
+                                          -----------------------------------------------------------------------------------------------------------------------
+                                          🚀🚀🚀 🧨SILENCE && 🧨POSITION && 🧨WISDOM 🚀🚀🚀
                                           🚀🚀🚀 [🚀🌀🧨FEEL], 🧨ENERGY, 🧨VIBRATION <===> SHEEP VS GOATS 🚀🚀🚀
-                                          🚀🚀🚀 🧨KARMA && 🧨REACTIVE <===> GREEDGAIN-STINGY, UNKIND/GIVING-UNFORGIVING, DISOBEDIENCE-KILL 🚀🚀🚀
+                                          🚀🚀🚀 🧨KARMA && 🧨REACTIVE <===> GREEDGAIN-STINGY(VAIN GLORIOUS), UNKIND/GIVING-UNFORGIVING, DISOBEDIENCE-KILL 🚀🚀🚀
                                           🚀🚀🚀 🧨BUDGET 🚀🚀🚀
-                                          --------------------------------------- 
+                                          ============================================================================================================================= 
                                           🚀 SECURITY/SILENCE                                                         🚀 SILENCE/SECURITY
                                           🧨 RIGHT TIME scope                     🧨 RIGHT WAY scope                  🧨 RIGHT REALISTIC-ACTION scope
                                           🧨 KNOW TO DETAIL (DEATH) (DOPAMINE)    🧨 CONNECT DOTS (FEAR) (EMPATHY)    🧨 COMPETITIVE (OBTAIN) (DEATH)
