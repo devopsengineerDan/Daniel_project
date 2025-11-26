@@ -3569,6 +3569,13 @@ NORMAL BUSINESS TRANSACTIONS
 
 ```
 👉 SHELL COMPANIES AND OFFSHORE BANKS
+OFFSHORE
+1. Company paying ONLY income tax to jurisdiction gvt
+2. Local Company paying LIMITED tax to jurisdiction gvt due to LOSSES in BUSINESS
+JURISDICTION
+1. ASSETS belong to a COMPANIES; and people treated as EMPLOYEES
+2. Company Revenue to be LESS THAN TRESHHOLD TO LIMIT OVERALL TAX; thus SAVE OVERALL MONEY
+******************************************************************************************
 👉 MIRROR TRANSFERS AND UNDERGROUND BANKS/HAWALA ---> PROPERTIES
 👉 BROKERAGE AND BANKS/CREDIT INSTITUTIONS
 👉 BUSINESS-SENSE COMPANIES MIRRORS
@@ -3578,13 +3585,13 @@ NORMAL BUSINESS TRANSACTIONS
 🧨 [UP-STAIRS] CLEAN - 7 LOCAL [APARTMENTS + BUSINESSES] && BANKS -----------------------------------------------------------------------------------------------------------------
  END-GAME ---> SAVINGS
 🧨 CLEAN - 7 FOREIGN SAVINGS BANKS 👉 END-GAME===> SAVINGS TO PURCHASE PROPERTIES IN FOREIGN CITIES                          
-🧨🧨🧨 [HIDDEN GOLD] LOCAL ---> SAVINGS 90%
-🧨🧨🧨 [HIDDEN GOLD] ABROAD ---> SAVINGS 10% [1T LOCAL CURRENCY]
-🧨🧨🧨 [HIDDEN GOLD] CLEAN - LOCAL STOCKS ---> SAVINGS
+🧨🧨🧨 [HIDDEN GOLD] ABROAD ---> SAVINGS 90%
+🧨🧨🧨 [HIDDEN GOLD] LOCAL ---> SAVINGS 10% [1T LOCAL CURRENCY]
 🧨🧨🧨 [HIDDEN GOLD] CLEAN - FOREIGN STOCKS ---> SAVINGS
+🧨🧨🧨 [HIDDEN GOLD] CLEAN - LOCAL STOCKS ---> SAVINGS
 🧨 CLEAN - RENTAL SURBUB UNITS ---> SAVINGS
 🧨 CLEAN - 36 LOCAL APARTMENTS ---> SAVINGS 
-🧨 [GROUND]CLEAN - 7 LOCAL APARTMENTS ===> NETWORTH ******* ROBOT[SHOWING UP EVERY DAY] *******  
+🧨 [GROUND]CLEAN - 7 LOCAL APARTMENTS ===> NETWORTH ******* RATIONAL CONSCIOUS ROBOT[SHOWING UP EVERY DAY] *******  
                                       ---> DAILY EXPENSES 
                                            🌀 HAVE LOANS
 -----------------------------------------------------------------------------------------------------------------
