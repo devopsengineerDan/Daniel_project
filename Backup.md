@@ -7793,6 +7793,14 @@ In essence, using C in Rust requires careful planning, understanding the differe
 EXEC sp_executesql @query, N'@name NVARCHAR(50)', @name = 'Khushi';
 ### 3. Validation of User Inputs.
 ```
+![title](static/img/1-sql-basics-cheat-sheet-a4.pdf)
+![title](static/img/2-joins-cheat-sheet-a4.pdf)
+![title](static/img/3-sql-for-data-analysis-cheat-sheet-a4.pdf)
+![title](static/img/4-standard-sql-functions-cheat-sheet-a4.pdf)
+![title](static/img/5-Window_Functions_Cheat_Sheet.pdf)
+![title](static/img/6-postgresql-cheat-sheet-a4.pdf)
+![title](static/img/7-sql-server-cheat-sheet-a4.pdf)
+![title](static/img/8-mysql-cheat-sheet-a4.pdf)
 
 
 ```
