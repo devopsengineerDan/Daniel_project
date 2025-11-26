@@ -49,12 +49,15 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
    - ETL - Pyspark Tool
    - Train
    - Test
-   - Production Deployment 
+   - Production Deployment
+
 4. 👉 Data Pipeline Orchestration Tool Dagster
    Dagster Course
    Accompanying Official Website: https://courses.dagster.io/
    Accompanying Github Profile: https://github.com/dagster-io/project-dagster-university
-   
+   👉 spaCy ---> Like Django
+   👉 NLTK ---> Like Flask
+
 5. 👉 MLOPS for continuous Deployment
 
 6 ✅ ===> Bodywork (ALL KEY CONCEPTS) + (GITHUB REPOS SOURCE CODE)
