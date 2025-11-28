@@ -7256,11 +7256,11 @@ Uninstall: $ sudo dpkg -r warp-terminal
 ```
 👉 VSCODE INSTALLATION
 
-FLATHUB [BEST OPTION]
+FLATHUB 
 
 OR
 
-FROM OFFICIAL MICROSOFT REPOSITORY
+FROM OFFICIAL MICROSOFT REPOSITORY [BEST OPTION]
 
 Step 1: Update the system repository
 
@@ -8793,7 +8793,15 @@ Create a new Pull Request in GitHub.
 
 --------------------------------------------------------------------------
 
+# curl and wget
 
+```
+sudo apt install wget
+sudo apt install curl build-essential -y
+sudo apt install curl 
+```
+
+--------------------------------------------------------------------------
 
 # PYTHON 
 
