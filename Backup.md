@@ -3418,7 +3418,7 @@ SKRILL [BIG MONEY]  ---> dancunmoruri@gmail.com   ---> 0706738969   ==> Alpha1&!
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 🧨🧨🧨🧨🧨 DEEL [BIG MONEY]
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-PAYPAL [SMALL MONEY] ---> dancunmoruri@gmail.com ---> 0711444518   ==>  &Newton99%#SCIENTIST
+PAYPAL [SMALL MONEY] ---> dancunmoruri@gmail.com ---> 0711444518   ==>  CordYtkjl#&$*9715BRA
 <---OR--->
 GOOGLEPAY [BIG MONEY] ---> dancunmoruri@gmail.com ---> 0706738969
 GLOBALPAY SAFARICOM [SMALL MONEY] ---> 0711444518
