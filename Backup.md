@@ -3360,6 +3360,8 @@ CodeWars && LeetCode && AlgoExpert -> GITHUB
 
 =============================================================================================================================================================================
 
+
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 QuantConnect ---> dancunmanyinsait@gmail.com 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -3377,9 +3379,26 @@ Pro DEMO -> Pro#1Trader
 Standard Trader ACC -> Python*@#97
 Standard DEMO -> Standard#1
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+FBS ---> quantumaiquant@gmail.com
+WEB -> Bright*&99LONDON#!
+
+
+----------------------------------------------------------------------------
+
+Forex Blue   quantdancun -> dancunmoruri@gmail.com -> DancunIQ@543&&
+
+----------------------------------------------------------------------------
+
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 FUNDEDNEXT ---> dancunmoruri@gmail.com -> CHRISTINE@9# 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 Fundingpips ---> dancunmoruri@gmail.com -> Alpha1@987#
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 INGOT ---> dancunmoruri@gmail.com 
 WEB -> DAVIDQwerty@987#
@@ -3406,8 +3425,7 @@ WEB -> QuantTrader@97#
 ACC -> DAVIDTrader@97#
 Your email/ticket reference number is: 3918327963. Please include this ticket number in the subject line of all future correspondence regarding this issue.
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-Forex Blue   quantdancun -> dancunmoruri@gmail.com -> DancunIQ@543&&
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 
 =============================================================================================================================================================================
 
@@ -3441,9 +3459,13 @@ SAVINGS => SBM ---> dancunmoruri@gmail.com   ---> 0706738969     PN --->    %%%-
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ======================================================
+
 SAVINGS => ABSA ---> dancunmoruri@gmail.com   ---> HOME FAM NUMBER     PN --->    %%%-ATM DETAILS-%%%
+
 ======================================================
+
 BUSINESS => ABSA ---> dancunmoruri@gmail.com   ---> HOME FAM NUMBER     PN --->    %%%-ATM DETAILS-%%%
+
 ======================================================
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
