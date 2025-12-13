@@ -354,11 +354,13 @@ UNKNOWN/UNKNOWING
                                           🚀🚀🚀 ✅✅✅ 🧨SILENCE  🧨POSITION  🧨WISDOM ✅✅✅ 🚀🚀🚀
                                           🚀🚀🚀 ✅✅✅ 🧨BUDGET ✅✅✅ 🚀🚀🚀
 
-                                          🚀🚀🚀 [🚀🌀🧨FEEL] 🧨ENERGY 🧨VIBRATION <===> ✅✅✅ (SWORD-ONE-EVERYTHING)-LIONS-SHEEP VS GOATS-LIONS-(EVERYTHING-ONE-SWORD) ✅✅✅ 🚀🚀🚀
-                                          🚀🚀🚀 SHIELD(BRITISH FLAG) && HOPE OF LIBERTY(AMERICAN FLAG)
+                                          🚀🚀🚀 [🚀🌀🧨FEEL] 🧨ENERGY 🧨VIBRATION
+                                                 MEGA COMPANIES<===>CORPORATIONS<===>INDIVIDUAL COMPANIES
+                                                 ✅✅✅ (SWORD-ONE-EVERYTHING)-LIONS-👉SHEEP/WE VS 👉GOATS/I-LIONS-(EVERYTHING-ONE-SWORD) ✅✅✅ 🚀🚀🚀
+                                          🚀🚀🚀 ✅✅✅ SHIELD(BRITISH FLAG) && HOPE OF LIBERTY(AMERICAN FLAG) ✅✅✅
                                                  SENTIMENTAL -> 🚀🌀 FAITH-LIBERTY 🚀🌀 CHAOS-EQUALITY 🚀🌀 CONSUMPTION-EQUITY
-                                                 TECHNICAL   -> 🧨RESISTANCE<--->UNRULY(OBVIOUS) 🧨KARMA(PETTY) 🧨JUSTICE<--->REACTIVE(STINGY)
-                                                 FUNDAMENTAL -> 🧨CONQUER ALL 🧨CONTINUOUS CONQUER 🧨CONQUER/WIN
+                                                 TECHNICAL   -> 🧨RESISTANCE<-->UNRULY(OBVIOUS) 🧨KARMA(PETTY) 🧨JUSTICE<--->REACTIVE(STINGY)
+                                                 FUNDAMENTAL -> 🧨CONQUER ALL<-->FEEBLE 🧨CONTINUOUS CONQUER<-->SENSUAL 🧨CONQUER/WIN<-->SELFISH
                                                  ✅✅✅ GREEDGAIN-STINGY(VAIN GLORIOUS) <===> ONE WILL BE KICKED OUT OF THE MARKET ✅✅✅
                                                  DISOBEDIENCE-KILL, UNKIND/UNGIVING-UNFORGIVING, BETRAYAL-KILL 🚀🚀🚀
                                           ============================================================================================================================= 
