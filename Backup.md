@@ -355,20 +355,20 @@ UNKNOWN/UNKNOWING
                                           🚀🚀🚀 ✅✅✅ 🧨BUDGET ✅✅✅ 🚀🚀🚀
 
                                           🚀🚀🚀 [🚀🌀🧨FEEL] 🧨ENERGY 🧨VIBRATION
-                                                 :bulb: MEGA COMPANIES<===>CORPORATIONS<===>INDIVIDUAL COMPANIES
+                                                 💡 MEGA COMPANIES<===>CORPORATIONS<===>INDIVIDUAL COMPANIES
                                                  ✅✅✅ (SWORD-ONE-EVERYTHING)-LIONS-👉SHEEP/WE VS 👉GOATS/I-LIONS-(EVERYTHING-ONE-SWORD) ✅✅✅ 🚀🚀🚀
-                                          🚀🚀🚀 :bulb: ✅✅✅ SHIELD(BRITISH FLAG) && HOPE OF LIBERTY(AMERICAN FLAG) ✅✅✅
-                                                 :bulb: SENTIMENTAL -> 🚀🌀 FAITH-LIBERTY 🚀🌀 CHAOS-EQUALITY 🚀🌀 CONSUMPTION-EQUITY
-                                                 :bulb: TECHNICAL   -> 🧨RESISTANCE<-->UNRULY(OBVIOUS) 🧨KARMA(PETTY) 🧨JUSTICE<--->REACTIVE(STINGY)
-                                                 :bulb: FUNDAMENTAL -> 🧨CONQUER ALL<-->FEEBLE 🧨CONTINUOUS CONQUER<-->SENSUAL 🧨CONQUER/WIN<-->SELFISH
+                                          🚀🚀🚀 💡 ✅✅✅ SHIELD(BRITISH FLAG) && HOPE OF LIBERTY(AMERICAN FLAG) ✅✅✅
+                                                 💡 SENTIMENTAL -> 🚀🌀 FAITH-LIBERTY 🚀🌀 CHAOS-EQUALITY 🚀🌀 CONSUMPTION-EQUITY
+                                                 💡 TECHNICAL   -> 🧨RESISTANCE<-->UNRULY(OBVIOUS) 🧨KARMA(PETTY) 🧨JUSTICE<--->REACTIVE(STINGY)
+                                                 💡 FUNDAMENTAL -> 🧨CONQUER ALL<-->FEEBLE 🧨CONTINUOUS CONQUER<-->SENSUAL 🧨CONQUER/WIN<-->SELFISH
                                                  ✅✅✅ GREEDGAIN-STINGY(VAIN GLORIOUS) <===> ONE WILL BE KICKED OUT OF THE MARKET ✅✅✅
                                                  DISOBEDIENCE-KILL, UNKIND/UNGIVING-UNFORGIVING, BETRAYAL-KILL 🚀🚀🚀
                                           ============================================================================================================================= 
                                           🚀 SECURITY/SILENCE                                                         🚀 SILENCE/SECURITY
-                                          :bulb: 🧨 RIGHT TIME scope                     🧨 RIGHT WAY scope                  🧨 RIGHT REALISTIC-ACTION scope
+                                          💡 🧨 RIGHT TIME scope                     🧨 RIGHT WAY scope                  🧨 RIGHT REALISTIC-ACTION scope
                                           🧨 KNOW TO DETAIL (DEATH) (DOPAMINE)    🧨 CONNECT DOTS (FEAR) (EMPATHY)    🧨 COMPETITIVE (OBTAIN) (DEATH)
                                              TRUTH                                   IMAGINATION                         REALITY  
-                                          :bulb: ✅ACCURATE [STRATEGIC]              ✅ADAPT && REVIEW [SMART/TACTICFUL] ✅REALISTIC [FUNDAMENTAL]
+                                          💡 ✅ACCURATE [STRATEGIC]              ✅ADAPT && REVIEW [SMART/TACTICFUL] ✅REALISTIC [FUNDAMENTAL]
                                              CONSISTENCY                             DISCIPLINE                          HARD WORK             
                                           (✅[INTELLIGENCE &&  KNOWLEDGE] && [WISDOM && AWARENESS✅)  (✅IMPROVING && CHANGE✅)    (✅CLICK✅)
                                           (✅HUMILITY IS HONOUR✅)
