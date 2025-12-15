@@ -760,6 +760,8 @@ AFRICA                          [BE HUMBLE & BE KIND]                         US
 
 
 🌀 1. THE SOUL OF THE SOUL OF THE LAW
+🌀 SENSORY && DECISION MAKING
+
 ✅ ✅ ✅  SPIRIT/🚀FREQUENCY/HEART/FIRE   ✅ ✅ ✅  🧨 SAAD / SECRET / MYSTERY
                                               👉 WILL               👉 WILL | DESIRE
 SELF 👉 -> WILL                               OBSERVATION           TIME         
@@ -774,6 +776,8 @@ DESIRE    -> FEEL     ---> SURRENDER             LETTER = GATEWAY
                       ---> ACCEPTANCE            NUMBER = FORMULAE
 ****************************************************************************************
 🌀 2. THE SOUL OF THE LAW
+🌀 THOUGHT && EMOTION
+
 ✅ ✅ ✅  MIND && SOUL  ✅ ✅ ✅  
 
 ✅ MIND/AIR     -> THOUGHT    -> INTEPRETATION / INQUIRY / PARABLE / STORY  🧨 DERASH
@@ -782,6 +786,8 @@ DESIRE    -> FEEL     ---> SURRENDER             LETTER = GATEWAY
 
 ****************************************************************************************
 🌀 3. THE LAW
+🌀 DEMON CONTROLLING VIBRATION/MATTER
+
 ✅ ✅ ✅  MATTER/🚀VIBRATION/FIRE  ✅ ✅ ✅  🧨 PESHAT
 ✅ BODY/EARTH     -> PYSICAL    -> PLAIN && SIMPLE LAWS
 
