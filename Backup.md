@@ -360,6 +360,14 @@ UNKNOWN/UNKNOWING
                                           🚀🚀🚀 💡 ✅✅✅ SHIELD(BRITISH FLAG) && HOPE OF LIBERTY(AMERICAN FLAG) ✅✅✅
                                                  💡 SENTIMENTAL -> 🚀🌀 FAITH-LIBERTY 🚀🌀 CHAOS-EQUALITY 🚀🌀 CONSUMPTION-EQUITY
                                                  💡 TECHNICAL   -> 🧨RESISTANCE<-->UNRULY(OBVIOUS) 🧨KARMA(PETTY) 🧨JUSTICE<--->REACTIVE(STINGY)
+
+[MACHIAVELLIANISM-TOTAL CONTROL]
+                   [KNOWLEDGE-WISDOM]
+                                  [GREED]
+                                               [NARCISSISM]
+                                       [PSYCHOPATHIC]
+                                               [MACHIAVELLIANISM- PRIDE && SELFISH] 
+
                                                  💡 FUNDAMENTAL -> 🧨CONQUER ALL<-->FEEBLE 🧨CONTINUOUS CONQUER<-->SENSUAL 🧨CONQUER/WIN<-->SELFISH
                                                  ✅✅✅ GREEDGAIN-STINGY(VAIN GLORIOUS) <===> ONE WILL BE KICKED OUT OF THE MARKET ✅✅✅
                                                  DISOBEDIENCE-KILL, UNKIND/UNGIVING-UNFORGIVING, BETRAYAL-KILL 🚀🚀🚀
@@ -368,7 +376,7 @@ UNKNOWN/UNKNOWING
                                           💡 🧨 RIGHT TIME scope                     🧨 RIGHT WAY scope                  🧨 RIGHT REALISTIC-ACTION scope
                                           🧨 KNOW TO DETAIL (DEATH) (DOPAMINE)    🧨 CONNECT DOTS (FEAR) (EMPATHY)    🧨 COMPETITIVE (OBTAIN) (DEATH)
                                              TRUTH                                   IMAGINATION                         REALITY  
-                                          💡 ✅ACCURATE [STRATEGIC]              ✅ADAPT && REVIEW [SMART/TACTICFUL] ✅REALISTIC [FUNDAMENTAL]
+                                          💡 ✅ACCURATE [STRATEGIC]                  ✅ADAPT && REVIEW [SMART/TACTICFUL] ✅REALISTIC [FUNDAMENTAL]
                                              CONSISTENCY                             DISCIPLINE                          HARD WORK             
                                           (✅[INTELLIGENCE &&  KNOWLEDGE] && [WISDOM && AWARENESS✅)  (✅IMPROVING && CHANGE✅)    (✅CLICK✅)
                                           (✅HUMILITY IS HONOUR✅)
