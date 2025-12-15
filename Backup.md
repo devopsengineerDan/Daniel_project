@@ -3543,6 +3543,7 @@ ID number
 
 # FINANCE, MARKETING & ECONOMICS
 
+### TRUST
 
 ```
 🧨 OFFGRID
@@ -3558,8 +3559,38 @@ GOLD && MONEY ------------> SAFETY ------------> GROWTH ------------> LOGISTICS
 
 
 ```
+### 👉 [3 TIER] BODY (FINANCIAL CAPITAL)
+-> PAPER/ARTIFICIAL CAPITAL                             -> REAL ESTATE CAPITAL
+-> PHYSICAL BUSINESS [PRODUCTS && SERVICES] CAPITAL     -> NATURAL/COMMODITIES CAPITAL
 ----------------------------------
+### 👉 [1 TIER] SPIRIT
+-> SPIRIT CAPITAL
+MONEYTORY [GREED, PRIDE, SELFISH]
 
+                                   -> MINDSET CAPITAL
+                                      [KNOWLEDGE && WISDOM]
+                 -> SOCIAL CAPITAL
+                                   -> PHYSICAL HEALTH CAPITAL
+                                   -> FINANCIAL CAPITAL
+----------------------------------
+### 👉 [2 TIER] SOUL
+### 👉 FREE MASON, ILLUMINATI, SATANISM/ SKULL AND BONES
+-> SECRECY CAPITAL
+[RIDDLE, MYSTERIOUS, ENIGMA]
+            -> BULL && TEAM
+                              -> MEASURE, REVIEW, RECORD CAPITAL
+                                 [CARE, DISCIPLINE, RELIABILITY-REALISTIC]
+                                 [CONSCIETIOUS, CHARISMATIC, MATURE]
+                   -> CONTROL CAPITAL
+                              -> REALISTIC RELIABILITY CAPITAL
+```
+
+----
+
+### CLEAN
+
+```
+----------------------------------
 TRADES => Futures, Commodities, Stocks, Cryptocurrency, Forex
 
 ===> BEST PRACTICE
@@ -3579,7 +3610,7 @@ TRADES => Futures, Commodities, Stocks, Cryptocurrency, Forex
          RESPONSIBLE<===>LAW
          LEADER
 CLASS
-         TRIBE
+         TRIBE-STATUS
 ----------------------------------
 1ST 🧨                        INSERTION 🧨 WHO ARE YOU 🧨 ORIGIN**** COMPARABLE to Income, Social Status, Type of Occupation [Wealthy Family, Foreign Businesses/Currency, Local] 🧨=> [Shell Banks/Companies and Tax Haven]
 LAYERING TRANSACTIONS ****(Far From Carcass)
