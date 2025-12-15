@@ -1925,9 +1925,10 @@ USA                                                             Follow-up       
                                                            3. COMPUTER ENGINEER
                                                            4. SOFTWARE ENGINEER
                                                            5. FRAMEWORKER
-8. COMPUTER SCIENTIST                                      6. DEVELOPER
+                                                           6. DEVELOPER && DEVOPS
                                                            7. PROGRAMMER
 
+8. COMPUTER SCIENTIST 
 
                                                            9. ELECTRICAL & MECHANICAL ENGINEER    
 ```
