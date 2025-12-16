@@ -3577,6 +3577,13 @@ GOLD && MONEY ------------> SAFETY ------------> GROWTH ------------> LOGISTICS
 ### 👉 [3 TIER] BODY (FINANCIAL CAPITAL)
 -> PAPER/ARTIFICIAL CAPITAL                             -> REAL ESTATE CAPITAL
 -> PHYSICAL BUSINESS [PRODUCTS && SERVICES] CAPITAL     -> NATURAL/COMMODITIES CAPITAL
+****************************************************************************************
+🧨SURVIVE
+              🧨BULL-TEAM
+                                        🧨RATIONAL
+                            🧨CHARISMATIC
+                                        🧨LOGICAL
+                                        🧨ECONOMICAL-TAX
 ----------------------------------
 ### 👉 [1 TIER] SPIRIT
 -> SPIRIT CAPITAL
