@@ -13128,6 +13128,80 @@ BIOS - devopsengineer
 
 # WINDOWS
 
+### INSTALLATION, CUSTOMIZATION AND MAINTENANCE
+
+### Software
+
+👉 NETWORK RESET
+```
+Reset network to default to remove previous configurations
+```
+
+
+👉 STOPPING AUTOUPDATE IN WINDOWS
+
+```
+Go to Settings.
+Go to Network and Internet
+Go to Properties
+Turn on Metered Connection to limit the bandwidth
+```
+
+
+👉 SUSPEND AND HIBERNATE
+
+```
+SUSPEND -> DO NOTHING - To enable operating the laptop when you close the lid 
+HIBERNATE -> ctrl + Delete to run the machine
+```
+
+
+👉AVOID OVERHEATING
+
+```
+*RESTART MACHINE TO FREE UP MEMORY, THUS AVOID LAGGNG OF PERFORMANCE
+*CLOSE MACHINE IF NOT IN USE
+*AVOID RUNNING HEAVY SOFTWARE PROGRAMS ON DEVICE THAT IS NOT CAPABLE(RAM,SSD,HARDIDISK,CORE PROCESSOR,GRAPHICS CARD)
+```
+
+---
+
+### Hardware
+
+👉 LAPTOP CHARGING/MOTHERBOARD-DIODES FIX
+
+```
+1. Charge laptop on either type-C port
+2. Use Bios password/finger-print (security control authentication) to ensure critical diodes components are running.
+3. Use Linux Grub-boot Loader, since it is closer to Bios than Windows boot loader, to load immediately after bios execution. 
+```
+
+
+👉 PHONE CHARGING PORT FIX
+
+```
+Charging port:
+1. Remove dust and moisture by blowing and using brush.
+2. Remove debris around the charging port using toothpick.
+3. Remove debris layer on connector-conductor using toothpick to gently scrub the connector-conductor surface.
+-------------------------------------------------------------------------------------------------------------------
+Given NO POWER on mobile phone:
+4. # Charge phone when it is POWER OFF. Using charging port, charge the phone. ===> To jamstart
+5. Use wireless charging to charge to atleast 5%
+-------------------------------------------------------------------------------------------------------------------
+Normal charging port procedure:
+===> Given likelihood of moisture/debris/dust
+6. # Charge phone when it is POWER OFF. Using charging port, charge the phone. ===> To jamstart
+7. Boot/Start phone to ensure critical diodes components are running.
+8. Do not put password/finger-print/iris(security control authentication)  to ensure there is no activation of moisture/debris/dust software utility.
+9. # ===> Hence the phone is charging between two excution modes:
+         1ST 7.
+         =====> No activation of moisture/debris/dust software utility 
+         2ND 8.
+```
+
+---
+
 ```
 👉 UEFI SETTINGS
 
@@ -13215,6 +13289,7 @@ Download Intel Graphics Command Center and Modify Settings to High/Ultra
 =>Glass Wire Network Security => Firewall
 =>Use latest Wifi/ Internet Security Standard e.g WPA2
 =>PortMaster -> Block advertisement, deception, tracker => VPN
+=>Virus Total
 
 =>Windows Defender
 =>Avast Offline
@@ -13358,47 +13433,6 @@ goojara.to
 
 
 ```
-👉 NETWORK RESET
-
-Reset network to default to remove previous configurations
-```
-
-
-```
-👉 STOPPING AUTOUPDATE IN WINDOWS
-
-Go to Settings.
-Go to Network and Internet
-Go to Properties
-Turn on Metered Connection to limit the bandwidth
-```
-
-
-```
-👉 COMPUTER SECURITY
-
-Glass Wire Network Security
-Virus Total
-```
-
-
-```
-👉 SUSPEND AND HIBERNATE
-				
-SUSPEND -> DO NOTHING - To enable operating the laptop when you close the lid 
-HIBERNATE -> ctrl + Delete to run the machine
-```
-
-
-```
-👉AVOID OVERHEATING
-
-*RESTART MACHINE TO FREE UP MEMORY, THUS AVOID LAGGNG OF PERFORMANCE
-*CLOSE MACHINE IF NOT IN USE
-```
-
-
-```
 👉 CHECK TYPE OF SSD
 							       
 Go to cmd								       
@@ -13529,7 +13563,7 @@ GO SLOW -> Pedestrian-crossing + Bumps, Bridge, Parking
                                                   Voltage Tester + Solder Tool
 🧨  COMPUTER MOTHERBOARD ELECTRONICS GUIDE -> https://m.youtube.com/@electronicsrepairbasics_erb
                                                   }
-7 K CUSTOMIZED GPU CPU DESKTOP
+7 GEN K CUSTOMIZED GPU CPU DESKTOP
 
 ==> Portable [COMPANY] 5G mifi(All lines)
 ==> Samsung 990 Pro ssd(Ubuntu20, Tails, Kali, Kali Purple, Windows10 Recovery iso)
