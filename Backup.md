@@ -4180,10 +4180,21 @@ sudo systemctl restart gdm3
 -----
 
 ```
-👉 LINUX OPERATING SYSTEM 
+👉 MEMORY PARTITION
+
+MBR -> Support Legacy Bios on Firmware
+GPT -> Support expansion(more memory space) and portability(compatibility with different devices) 
+```
+
+---
+
+```
+👉 LINUX OPERATING SYSTEM
+
+👉 DEBIAN ARCHIVES ===> https://get.debian.org/images/archive/11.11.0/amd64/iso-cd/
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    LINUX DISTRIBUTIONS: Arch                                         -> CUTTING EDGE (Researchers and Experts[Distinguished Engineers])
+    LINUX DISTRIBUTIONS: Arch [openSUSE Tumbleweed]                   -> CUTTING EDGE (Researchers and Experts[Distinguished Engineers])
                          Fedora            then     RedHat            -> INNOVATION (AI and Quantum Engineers)
                          (Early Adopters)           (Late Adopters)
                          Ubuntu            then     Debian            -> STABILITY (Network Engineers)
