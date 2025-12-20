@@ -3558,7 +3558,20 @@ ID number
 
 # FINANCE, MARKETING & ECONOMICS
 
-### TRUST
+===> https://www.incnow.com/blog/2025/08/11/what-does-llc-corp-inc-mean/
+
+# TRUST (SCOPE)
+
+### Government + Insurance
+### Finance + Law(Finance, Marketing, Economics)
+### Cashflow Finance
+### Tax
+
+================================================================
+
+### Government + Central Bank + Insurance (Black Rock  -> Institutional Investor - Passive investor/Limited investor -- Not liable when Loss occurs) 
+###                                       (Black Stone -> Venture Capitalist - Active investor/General investor -- Liable when Loss occurs)
+										  
 
 ```
 🧨 OFFGRID
@@ -3609,7 +3622,7 @@ MONEYTORY [GREED, PRIDE, SELFISH]
 
 ----
 
-### CLEAN
+### Finance + Law(Finance, Marketing, Economics)
 
 ```
 ----------------------------------
@@ -3665,6 +3678,8 @@ NORMAL BUSINESS TRANSACTIONS
 ```
 
 ---
+
+### Tax
 
 ```
 👉 SHELL COMPANIES AND OFFSHORE BANKS
