@@ -13889,7 +13889,8 @@ VIDEOS + 2GIT + Printing + (Block Chain & Datastructures Summary Table)
 
 -> {2Networks+kvmConfigurations, *Subnetting*}Cybersecurity
 
--> Network Security + Algorithm Design 
+🚀-> Network Security + Algorithm Design
+🚀-> VIOLENT PYTHON + BLACK HAT PYTHON
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
