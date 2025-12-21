@@ -3562,15 +3562,16 @@ ID number
 
 # TRUST (SCOPE)
 
-### Government + Insurance
-### Finance + Law(Finance, Marketing, Economics)
-### Cashflow Finance
-### Tax
+- Government + Central Bank + Insurance        ->  "WE" CONSERVATIVE && LIBERAL-DEMOCRAT <===> "I" LIBERAL-DEMOCRAT && CONSERVATIVE
+- Finance + Law(Finance, Marketing, Economics) ->  OBJECTIVE <===> LIBERAL
+- Cashflow Finance                             ->  DESIGNED <===> RANDOM
+- Tax                                          ->  MINIMUM <===> LOGICAL && SIMPLE
 
 ================================================================
 
-### Government + Central Bank + Insurance (Black Rock  -> Institutional Investor - Passive investor/Limited investor -- Not liable when Loss occurs) 
-###                                       (Black Stone -> Venture Capitalist - Active investor/General investor -- Liable when Loss occurs)
+### Government + Central Bank + Insurance 
+- (Black Rock  -> Institutional Investor - Passive investor/Limited investor -- Not liable when Loss occurs) 
+- (Black Stone -> Venture Capitalist - Active investor/General investor -- Liable when Loss occurs)
 										  
 
 ```
@@ -5261,7 +5262,7 @@ sudo passwd root
 👉 CHECK TYPE OF PARTITION
 
 lsblk /dev/nvme0n1p3 -dno pttype
-Use Disk Partition Software to check name of partition(ie) /dev/nvme0n1p3
+Use Disks- It is a Disk managment utility software for GNOME to check name of partition(ie) /dev/nvme0n1p3
 
 ```
 
