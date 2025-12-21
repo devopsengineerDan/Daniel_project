@@ -5258,9 +5258,18 @@ sudo passwd root
 
 
 ```
+👉 CHECK TYPE OF PARTITION
+
+lsblk /dev/nvme0n1p3 -dno pttype
+Use Disk Partition Software to check name of partition(ie) /dev/nvme0n1p3
+
+```
+
+
+```
 👉 SUSPEND LAPTOP
 		
-Power Button Behaviour -> Suspend
+Power Button Behaviour in Settings -> Suspend
 ```
 
 
