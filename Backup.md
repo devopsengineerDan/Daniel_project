@@ -3562,10 +3562,22 @@ ID number
 
 # TRUST (SCOPE)
 
-- Government + Central Bank + Insurance        ->  "WE" CONSERVATIVE && LIBERAL-DEMOCRAT <===> "I" LIBERAL-DEMOCRAT && CONSERVATIVE
-- Finance + Law(Finance, Marketing, Economics) ->  OBJECTIVE <===> LIBERAL
-- Cashflow Finance                             ->  DESIGNED <===> RANDOM
-- Tax                                          ->  MINIMUM <===> LOGICAL && SIMPLE
+1 - Government + Central Bank + Insurance        ->  "WE" CONSERVATIVE && LIBERAL-DEMOCRAT <===> "I" LIBERAL-DEMOCRAT && CONSERVATIVE
+  ```
+  WEALTH RESERVE
+  ```
+2 - Finance + Law(Finance, Marketing, Economics) ->  OBJECTIVE <===> LIBERAL
+  ```
+  SENSIBLE TIME  TO GROW WEALTH
+  ```
+3 - Cashflow Finance                             ->  DESIGNED <===> RANDOM
+  ```
+  FREE MARKET
+  ```
+4 - Tax                                          ->  MINIMUM <===> LOGICAL && SIMPLE
+  ```
+  TAX COMPLIANT
+  ```
 
 ================================================================
 
