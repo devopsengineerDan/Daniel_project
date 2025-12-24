@@ -13216,6 +13216,25 @@ HIBERNATE -> ctrl + Delete to run the machine
 
 ### Hardware
 
+👉 How to factory reset (hard reset) MikroTik RouterBOARD hAP lite (RB941-2nD-TC) :
+
+You can factory reset your MikroTik RouterBOARD hAP lite (RB941-2nD-TC) in the following way(s) :
+
+```
+1. When the router is on, press the button reset and hold for 30 seconds.
+
+2. While holding down the button reset, turn off the power of the router and hold down the button reset for 30 seconds
+
+3. While holding down the button reset, turn on the power to the unit again and hold for another 30 seconds
+
+0R
+
+===> Connect router to Winbox -> System -> Reset
+https://github.com/landaal-ict/Winbox
+Winbox ===> Google Drive  kibe0853@gmail.com
+```
+
+
 👉 LAPTOP CHARGING/MOTHERBOARD-DIODES FIX
 
 ```
