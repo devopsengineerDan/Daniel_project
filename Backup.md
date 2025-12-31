@@ -5017,8 +5017,14 @@ Wi-Fi -> Dancun1997                         Connect To:192.168.100.1 Login:root 
 --------------------------------------------------------------------------------------------------------------
 MikroTik Routers
 Wireless Network:                           Configuration:
-DawnLabsDefault -> Conard@#987              Legacy mode-> Connect To:192.168.88.1 Login:admin Password:<blank>
-DawnLabsHotspot -> Conard@#987              Legacy mode-> Connect To:192.168.88.1 Login:admin Password:<blank>
+DawnLabsDefault -> Conard@#987              Home AP Reset Confuguration: Legacy mode-> Connect To:192.168.88.1  Login:admin Password:<blank>
+                                            CAP Reset Confuguration: Legacy mode-> Connect To:MAC address Login:admin Password:<blank>
+                                            After Custom/Backup Configuration: Legacy mode-> Connect To:192.168.88.1/MAC address  Login:admin Password:<blank>
+                                            -------------------------------------------------------------------------------------------------------------------
+DawnLabsHotspot -> Conard@#987              Home AP Reset Confuguration Legacy mode-> Connect To:192.168.88.1 Login:admin Password:<blank>
+                                            CAP Reset Confuguration: Legacy mode-> Connect To:MAC address Login:admin Password:<blank>
+                                            After Custom/Backup Configuration: Legacy mode-> Connect To:192.168.88.1/MAC address  Login:admin Password:<blank>
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🚀 PREFERABLY CONFIGURE ROUTER WHEN CONNECTED TO 1. ETHERNET ***NOT PORT1(FOR INCOMING NETWORK)*** 
