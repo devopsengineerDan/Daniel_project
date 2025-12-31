@@ -13490,7 +13490,7 @@ PUTLOCKER ->  https://putlockernew.vc/home
 MOVIES JOY -> https://moviesjoytv.to
 IMDb -> https://www.imdb.com/
 
-🧨WEB && DESKTOP APP
+🧨ALL (WEB,DESKTOP[Linux-debian file,Windows-Microsoft Store], MOBILE PHONE[Android-Play Store, Iphone-App Store)
 STREMIO -> dancunmoruri@gmail.com -> QWERTY@12345a
 STREMIO -> kibe0853@gmail.com -> QWERTY@12345a
 👉 ===> INSTALL TORRENTIO ADDON USING SHARED LINK -> https://torrentio.strem.fun/manifest.json
@@ -13499,8 +13499,11 @@ STREMIO -> kibe0853@gmail.com -> QWERTY@12345a
 🧨ANDROID APP ON BLUESTACKS EMULATOR
 ONSTREAM -> dancunmoruri@gmail.com -> qwerty@12345A
 
-🧨ANDROID APP ON PLAYSTORE
+🧨ANDROID-PLAY STORE
 LOOKEE BROWSER
+
+🧨DESKTOP WINDOWS, ANDROID-PLAY STORE, IPHONE-APP STORE
+MOVIEBOX
 
 🧨YOUTUBE 
 CHANNEL FullHDvideos4me -> https://www.youtube.com/@FullHDvideos4me
