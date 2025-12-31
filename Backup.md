@@ -3558,28 +3558,34 @@ ID number
 
 # FINANCE, MARKETING & ECONOMICS
 
-===> https://www.incnow.com/blog/2025/08/11/what-does-llc-corp-inc-mean/
+TYPES OF COMPANIES ===> https://www.incnow.com/blog/2025/08/11/what-does-llc-corp-inc-mean/
 
-# TRUST (SCOPE)
+
+# TRUSTEES/TRUST - FAMILY HOUSE (****SCOPE****)
 
 1 - Government + Central Bank + Insurance        ->  "WE" CONSERVATIVE && LIBERAL-DEMOCRAT <===> "I" LIBERAL-DEMOCRAT && CONSERVATIVE
   ```
-  WEALTH RESERVE
+  🚀 WEALTH RESERVE
   ```
 2 - Finance + Law(Finance, Marketing, Economics) ->  OBJECTIVE <===> LIBERAL
   ```
-  SENSIBLE TIME  TO GROW WEALTH
+  🚀 SENSIBLE TIME  TO GROW WEALTH
+  🚀 From BANK ===> Finance Legitimacy
+  ===> Bank
   ```
 3 - Cashflow Finance                             ->  DESIGNED <===> RANDOM
   ```
-  FREE MARKET
+  🚀 FREE MARKET
+  ===> Brokerage
   ```
 4 - Tax                                          ->  MINIMUM <===> LOGICAL && SIMPLE
   ```
-  TAX COMPLIANT
+  🚀 TAX COMPLIANT
+  🚀 From SAVINGS BANK ACCOUNT ===> Tax Compliance
+  ===> Hedge Fund
   ```
 
-================================================================
+==============================================================================================================================================================================================================================================
 
 ### Government + Central Bank + Insurance 
 - (Black Rock  -> Institutional Investor - Passive investor/Limited investor -- Not liable when Loss occurs) 
@@ -4978,20 +4984,10 @@ sudo service NetworkManager stop
 
 
 ```
-👉 MICROTIK
+🚀  MikroTik 
 
 startx
 service gdm3 restart
-
-👉 MICROTIK ROUTER CONFIGURATION
-
-Default Network IP Address -> 192.168.88.1
-
-Microtik Routers MAC Addresses
-NEW C4:AD:34:B3:41:33  
-OLD CC:2D:E0:62:46:38
-C4:AD:34:B3:41:30
-
  
 👉 PPOE
 PPoE user 0711444518
@@ -5010,13 +5006,50 @@ tick NAT
 
 VPN
 VPN address 8ce5083f2021.sn.mynetname.net
+
+================================================================================================================================================================================================================
+
+🚀  MikroTik CONFIGURATION
+
+Fiber Huawei Router
+Wireless Network:                           Configuration:
+Wi-Fi -> Dancun1997                         Connect To:192.168.100.1 Login:root Password:Dancun1997
+--------------------------------------------------------------------------------------------------------------
+MikroTik Routers
+Wireless Network:                           Configuration:
+DawnLabsDefault -> Conard@#987              Legacy mode-> Connect To:192.168.88.1 Login:admin Password:<blank>
+DawnLabsHotspot -> Conard@#987              Legacy mode-> Connect To:192.168.88.1 Login:admin Password:<blank>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🚀 PREFERABLY CONFIGURE ROUTER WHEN CONNECTED TO 1. ETHERNET ***NOT PORT1(FOR INCOMING NETWORK)*** 
+                                                 2. WIRELESS NETWORK
+                                                 3. CABLE POWER WITH CORRECT VOLTAGE 
+🚀 NOTE ===> Hard Reset config by button press till LED starts flashing only, do not go to CAPS mode, do not start Netinstall mode
+
+👉 Option 1. Resetting the Default RouterOS configuration
+Hold this button until LED light starts flashing, release the button to reset RouterOS configuration to default.
+---> Winbox Legacy Software: Quick Set then Home AP Reset Confuguration
+
+👉  Option 2. Enabling CAPs mode
+To connect this device to a wireless network managed by CAPsMAN, keep holding the button for 5 more seconds, LED turns solid, release now to turn on CAPs mode.
+---> Winbox Legacy Software: Quick Set then CAP Reset Confuguration
+
+👉  Option 3. Starting the RouterBOARD in Netinstall mode
+Or keep holding the button for 5 more seconds until LED turns off, then release it to make the RouterBOARD look for Netinstall servers.[/code]https://
+---> Reinstall RouterOS in Netinstall mode -> https://www.youtube.com/watch?v=SHNoPaV0X3s
+
+🚀 Hotspot and Default Backups ===> WinboxSetups-MikrotikBackups-RouterOS-NetworkDrivers.zip - kibe0853@gmail.com
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🚀 Microtik Hotspot Vouchers ===>  https://www.youtube.com/watch?v=5iot2Nfpca4
 ```
 
 
 ```
 👉 NETWORK ADMINISTRATION WINDOWS
 
-https://medium.com/@adinika.15/installing-active-directory-on-windows-server-2012-r2-e9e614770588
+ACTIVE DIRECTORY ===> https://medium.com/@adinika.15/installing-active-directory-on-windows-server-2012-r2-e9e614770588
 ```
 
 
@@ -13216,25 +13249,6 @@ HIBERNATE -> ctrl + Delete to run the machine
 
 ### Hardware
 
-👉 How to factory reset (hard reset) MikroTik RouterBOARD hAP lite (RB941-2nD-TC) :
-
-You can factory reset your MikroTik RouterBOARD hAP lite (RB941-2nD-TC) in the following way(s) :
-
-```
-1. When the router is on, press the button reset and hold for 30 seconds.
-
-2. While holding down the button reset, turn off the power of the router and hold down the button reset for 30 seconds
-
-3. While holding down the button reset, turn on the power to the unit again and hold for another 30 seconds
-
-0R
-
-===> Connect router to Winbox -> System -> Reset
-https://github.com/landaal-ict/Winbox
-Winbox ===> Google Drive  kibe0853@gmail.com
-```
-
-
 👉 LAPTOP CHARGING/MOTHERBOARD-DIODES FIX
 
 ```
@@ -13356,10 +13370,13 @@ Download Intel Graphics Command Center and Modify Settings to High/Ultra
 =>Glass Wire Network Security => Firewall
 =>Use latest Wifi/ Internet Security Standard e.g WPA2
 =>PortMaster -> Block advertisement, deception, tracker => VPN
-=>Virus Total
+
+=> https://www.virustotal.com/gui/home/search => Scan URL, IP address, domain, file
+=>360 Security Offline  + BROWSER EXTENSION
 
 =>Windows Defender
 =>Avast Offline
+
 
 =>WPD -> Remove logs and DISABLE WINDOWS UPDATE
 
