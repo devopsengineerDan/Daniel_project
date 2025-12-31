@@ -5020,10 +5020,12 @@ Wireless Network:                           Configuration:
 DawnLabsDefault -> Conard@#987              Home AP Reset Confuguration: Legacy mode-> Connect To:192.168.88.1  Login:admin Password:<blank>
                                             CAP Reset Confuguration: Legacy mode-> Connect To:MAC address Login:admin Password:<blank>
                                             After Custom/Backup Configuration: Legacy mode-> Connect To:192.168.88.1/MAC address  Login:admin Password:<blank>
-                                            -------------------------------------------------------------------------------------------------------------------
+------------------------------              -------------------------------------------------------------------------------------------------------------------
 DawnLabsHotspot -> Conard@#987              Home AP Reset Confuguration Legacy mode-> Connect To:192.168.88.1 Login:admin Password:<blank>
                                             CAP Reset Confuguration: Legacy mode-> Connect To:MAC address Login:admin Password:<blank>
                                             After Custom/Backup Configuration: Legacy mode-> Connect To:192.168.88.1/MAC address  Login:admin Password:<blank>
+🚀 (Google Privacy mode)
+Web Hotspot Login-> http://hotspot.wifi
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -5044,7 +5046,14 @@ To connect this device to a wireless network managed by CAPsMAN, keep holding th
 Or keep holding the button for 5 more seconds until LED turns off, then release it to make the RouterBOARD look for Netinstall servers.[/code]https://
 ---> Reinstall RouterOS in Netinstall mode -> https://www.youtube.com/watch?v=SHNoPaV0X3s
 
+
+
 🚀 Hotspot and Default Backups ===> WinboxSetups-MikrotikBackups-RouterOS-NetworkDrivers.zip - kibe0853@gmail.com
+
+DawnLabsDefault -> DawnLabsDefault backup
+-----------------------------------------------------
+DawnLabsHotspot -> DawnLabsHotspot backup
+                -> DawnLabsHotspotDefault backup 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
