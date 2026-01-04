@@ -3318,7 +3318,11 @@ META VR ===> kibe0853@gmail.com Qwerty@12345#&79! => Name:GeorgeMichaels97
 BUSINESS ACCOUNT[Cybersecurity and AI]
 eagleoverflow@gmail.com SUNANDPLANETS => dancunmoruri@gmail.com ==> 0706738969
 quantumaiquant@gmail.com SUNANDPLANETS => dancunmoruri@gmail.com ==> 0706738969
-	     
+
+PROFESSIONAL MANAGER
+www.scrumstudy.com: dancunmoruri@gmail.com: Creator@123
+online.vmedu.com: dancunmoruri@gmail.com: Creator@123 
+
 github: dancunmanyinsait@gmail.com: conardmomanyimoruri
         devopsengineer@gmail.com: conardmomanyimoruri
 	
@@ -5057,7 +5061,8 @@ DawnLabsHotspot -> DawnLabsHotspot backup
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🚀 Microtik Hotspot Vouchers ===>  https://www.youtube.com/watch?v=5iot2Nfpca4
+🚀 Mikhmon Microtik Hotspot Vouchers ===>  https://www.youtube.com/watch?v=5iot2Nfpca4
+                             ===> https://www.youtube.com/watch?v=19SsfMk5z9M
 ```
 
 
