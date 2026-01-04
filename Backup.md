@@ -1760,7 +1760,7 @@ Kaizen
 [Death]
                             [Chaotic]                                                                   RIGHT WAY
 [Mistake/Lustful Punished]
-                            [Selfish Violence]                                                                   REALISTIC
+                            [Selfish Violence, Vengeance && Vain glorious]                                       REALISTIC
 ```
 
 
@@ -4239,10 +4239,11 @@ GPT -> Support expansion(more memory space) and portability(compatibility with d
                          (Early Adopters)           (Late Adopters)
                          --------------------------------------------------------------------------------------------------------------------------
                          openSUSE                                     -> MAINTAINANCE (System Engineers)
-                         Kali (debian)             Black Arch         -> (Red, Blue, Purple) Team Engineers
+                         Kali (debian)             Black Arch         -> [Red, Blue, Purple Team] (Security Engineers)
                          (Late Adopters)           (Early Adopters)
-                         FreeBSD/MacOS or Windows                     -> Security Engineers
-                          
+                         FreeBSD                                      -> (Security Engineers)
+                         MacOS or Windows
+ 
                          e.t.c
    LINUX DESKTOP ENVIRONMENTS: xfce, Gnome, KDE Plasma e.t.c
    LINUX DISPLAY SERVERS: xorg, Wayland, e.t.c
