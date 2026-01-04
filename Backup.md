@@ -4237,7 +4237,12 @@ GPT -> Support expansion(more memory space) and portability(compatibility with d
                          (Early Adopters)           (Late Adopters)
                          Ubuntu            then     Debian            -> STABILITY (Network Engineers)
                          (Early Adopters)           (Late Adopters)
+                         --------------------------------------------------------------------------------------------------------------------------
                          openSUSE                                     -> MAINTAINANCE (System Engineers)
+                         Kali (debian)             Black Arch         -> (Red, Blue, Purple) Team Engineers
+                         (Late Adopters)           (Early Adopters)
+                         FreeBSD/MacOS or Windows                     -> Security Engineers
+                          
                          e.t.c
    LINUX DESKTOP ENVIRONMENTS: xfce, Gnome, KDE Plasma e.t.c
    LINUX DISPLAY SERVERS: xorg, Wayland, e.t.c
@@ -13392,7 +13397,7 @@ Download Intel Graphics Command Center and Modify Settings to High/Ultra
 =>PortMaster -> Block advertisement, deception, tracker => VPN
 
 => https://www.virustotal.com/gui/home/search => Scan URL, IP address, domain, file
-=>360 Security Offline  + BROWSER EXTENSION
+=>360 Total Security Offline  + BROWSER EXTENSION
 
 =>Windows Defender
 =>Avast Offline
