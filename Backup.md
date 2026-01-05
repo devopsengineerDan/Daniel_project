@@ -13405,8 +13405,18 @@ Download Intel Graphics Command Center and Modify Settings to High/Ultra
 
 
 =>WPD -> Remove logs and DISABLE WINDOWS UPDATE
+------------------------------------------------------------------------------------------------------
+👉 ANDROID VPN
+
+Super Unlimited Proxy VPN 
+Planet VPN 
+------------------------------------------------------------------------------------------------------
 
 👉 System Protection ON
+👉 System Game mode ON
+👉 System Display Quality High
+
+
 
 👉 BITLOCKER
 https://account.microsoft.com/devices/recoverykey
