@@ -374,10 +374,10 @@ UNKNOWN/UNKNOWING
                                           ============================================================================================================================= 
                                           🚀 SECURITY/SILENCE                                                         🚀 SILENCE/SECURITY
                                           💡 🧨 RIGHT TIME scope                     🧨 RIGHT WAY scope                  🧨 RIGHT REALISTIC-ACTION scope
-                                          🧨 KNOW TO DETAIL (DEATH) (DOPAMINE)    🧨 CONNECT DOTS (FEAR) (EMPATHY)    🧨 COMPETITIVE (OBTAIN) (DEATH)
-                                             TRUTH                                   IMAGINATION                         REALITY  
+                                          💡 🧨 KNOW TO DETAIL (DEATH) (DOPAMINE)    🧨 CONNECT DOTS (FEAR) (EMPATHY)    🧨 COMPETITIVE (OBTAIN) (DEATH)
+                                          💡   TRUTH                                   IMAGINATION                         REALITY  
                                           💡 ✅ACCURATE [STRATEGIC]                  ✅ADAPT && REVIEW [SMART/TACTICFUL] ✅REALISTIC [FUNDAMENTAL]
-                                             CONSISTENCY                             DISCIPLINE                          HARD WORK             
+                                          💡  CONSISTENCY                             DISCIPLINE                          HARD WORK             
                                           (✅[INTELLIGENCE &&  KNOWLEDGE] && [WISDOM && AWARENESS✅)  (✅IMPROVING && CHANGE✅)    (✅CLICK✅)
                                           (✅HUMILITY IS HONOUR✅)
                                           (✅EFFECTIVE✅)
@@ -4242,11 +4242,12 @@ GPT -> Support expansion(more memory space) and portability(compatibility with d
                          Kali (debian)             Black Arch         -> [Red, Blue, Purple Team] (Security Engineers)
                          (Late Adopters)           (Early Adopters)
                          FreeBSD                                      -> (Security Engineers)
+                         OpenBSD ===> Firewall, Router, Hub(intelligent switch)
                          MacOS or Windows
  
                          e.t.c
    LINUX DESKTOP ENVIRONMENTS: xfce, Gnome, KDE Plasma e.t.c
-   LINUX DISPLAY SERVERS: xorg, Wayland, e.t.c
+   LINUX DISPLAY SERVERS: xorg, Wayland e.t.c
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
     For Debian / Ubuntu: .deb packages installed by apt or apt-get and dpkg Package Management System
     For Rocky / Fedora / RHEL: .rpm packages installed by yum for redhat, dnf for Fedora Package Management System
