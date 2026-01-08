@@ -4139,6 +4139,10 @@ sudo apt-get install dconf-editor -y
 dconf reset -f /
 • Reboot clean and secure your system
 sudo reboot
+---------------------------------------------------------------------------------------------
+OR
+sudo tasksel
+SUDO dpkg-reconfigure gdm3
 ```
 
 
