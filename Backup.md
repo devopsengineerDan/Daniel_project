@@ -14039,8 +14039,18 @@ Dangerous Code Hidden in Plain Sight for 12 years -> https://www.youtube.com/wat
  7. KERNEL-signreturn-oriented-programming.md 🚀 Binary Exploitation attack
 
 
+🚀 A MUST SOFTWARE ENGINEERING ===> 8-files.zip -> kibe0853@gmail.com
+1. https://lewiskori.com/blog/deploying-a-python-django-app-using-docker/
 
+2. https://lewiskori.com/blog/introduction-to-web-scraping-with-python/
+3. https://lewiskori.com/blog/beginner-s-guide-to-web-scraping-with-python-s-selenium/
+4. https://lewiskori.com/blog/web-scraping-managing-proxies-and-captcha-with-scrapy-and-the-scraper-api/
 
+5. https://lewiskori.com/blog/building-web-ap-is-with-django/
+6. https://lewiskori.com/blog/user-registration-and-authorization-on-a-django-api-with-djoser-and-json-web-tokens/
+
+7. https://lewiskori.com/blog/introduction-to-multi-tenant-apps-with-django/
+8. https://lewiskori.com/blog/user-authentication-with-jwts-in-a-django-and-vue-js-multi-tenant-app/
 
 
 
