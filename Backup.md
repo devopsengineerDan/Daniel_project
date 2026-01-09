@@ -4142,7 +4142,8 @@ sudo reboot
 ---------------------------------------------------------------------------------------------
 OR
 sudo tasksel
-SUDO dpkg-reconfigure gdm3
+sudo dpkg-reconfigure gdm3/lightdm/sddm --depends with your preference
+sudo dpkg --configure gdm3/lightdm/sddm --depends with your preference
 ```
 
 
@@ -4263,14 +4264,16 @@ GPT -> Support expansion(more memory space) and portability(compatibility with d
 
 ARCH (OPENSUSE TUMBLEWEED) => Install on KVM
 FEDORA
-DEBIAN
+DEBIAN 12 (2K Resolution x1 carbon + Compatibility due to comprehensive packages)
+DEBIAN 11 (LIGHT)
 UBUNTU (Software Availability +  [MX Linux 23.3 version in kvm-qemu on VIRTUAL MACHINE MANAGER for [Best Display] +  [Ubuntu 20.04 version] for [High Display and Best Refresh Rate HZ] after upgrading from 18.04 version OR INITIAL Ubuntu 20.04 INSTALLATION // FLASH DRIVE Ubuntu 20.04 for Fixing Grub Boot Loader   + [Ubuntu 22.04 version] for Best fingerprint support and Best performance)
 ----------
 KALI PURPLE + KALI LINUX
 ^^^^^^^^^^^^^^^^^^^^^^^^
 🧨🧨🧨🧨 KALI DISTRIBUTIONS FOR COMPLETE INSTALLATION OF TOOLS
-Kali Linux Live/Installer 2023 VERSION
-Kali Purple 2023 VERSION
+Kali Linux Live/Installer LATEST VERSION
+Kali Purple LATEST VERSION
+Kali 2019.1 (Compatibility due to no signatures on packages)
 ^^^^^^^^^^^^^^^^^^^^^^^^
 METASPLOITABLE
 WINDOWS 10
