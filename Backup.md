@@ -4251,8 +4251,9 @@ GPT -> Support expansion(more memory space) and portability(compatibility with d
                          MacOS or Windows
  
                          e.t.c
-   LINUX DESKTOP ENVIRONMENTS: xfce, Gnome, KDE Plasma e.t.c
-   LINUX DISPLAY SERVERS: xorg, Wayland e.t.c
+   LINUX DESKTOP ENVIRONMENTS: xfce4, gnome3, kde plasma e.t.c
+   LINUX DISPLAY SERVERS: xorg, x11, wayland e.t.c
+   LINUX DISPLAY MANAGERS: lightdm, gdm3, sddm  e.t.c
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
     For Debian / Ubuntu: .deb packages installed by apt or apt-get and dpkg Package Management System
     For Rocky / Fedora / RHEL: .rpm packages installed by yum for redhat, dnf for Fedora Package Management System
