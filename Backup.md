@@ -13619,6 +13619,17 @@ list disk
 
 
 ```
+👉 CONVERT PARTITION TYPE OF DISK
+
+diskpart
+list disk
+select disk 0/1/<specific disk number>
+clean
+convert GPT/MBR/<specific partition type>
+```
+
+
+```
 👉 WINDOWS (UBUNTU TERMINAL)
 
 cd /mnt/c/Users/Dan<username>/
