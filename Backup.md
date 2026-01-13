@@ -5039,13 +5039,16 @@ Wireless Network:                           Configuration:
 DawnLabsDefault -> Conard@#987              Home AP Reset Confuguration: Legacy mode-> Connect To:192.168.88.1  Login:admin Password:<blank>
                                             CAP Reset Confuguration: Legacy mode-> Connect To:MAC address Login:admin Password:<blank>
                                             After Custom/Backup Configuration: Legacy mode-> Connect To:192.168.88.1/MAC address  Login:admin Password:<blank>
+                                            🚀[CONTROLS SECURITY]Configuration:
+                                            Connect To:192.168.100.1 Login:root Password:GreatBritain
 ------------------------------              -------------------------------------------------------------------------------------------------------------------
 DawnLabsHotspot -> Conard@#987              Home AP Reset Confuguration Legacy mode-> Connect To:192.168.88.1 Login:admin Password:<blank>
                                             CAP Reset Confuguration: Legacy mode-> Connect To:MAC address Login:admin Password:<blank>
                                             After Custom/Backup Configuration: Legacy mode-> Connect To:192.168.88.1/MAC address  Login:admin Password:<blank>
 🚀 (Google Privacy mode)
 Web Hotspot Login-> http://hotspot.wifi
-
+                                            🚀[CONTROLS SECURITY]Configuration:
+                                            Connect To:192.168.100.1 Login:root Password:GreatBritain
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🚀 PREFERABLY CONFIGURE ROUTER WHEN CONNECTED TO 1. ETHERNET ***NOT PORT1(FOR INCOMING NETWORK)*** 
