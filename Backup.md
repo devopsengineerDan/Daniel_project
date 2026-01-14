@@ -4279,7 +4279,8 @@ Kali 2019.1 (Compatibility due to no signatures on packages)
 METASPLOITABLE
 WINDOWS 10
 ----------
-TAILS => Install on USB-NVME  https://www.youtube.com/watch?v=gO9fTnMxwYw
+TAILS => USB-DISK Live / Install on USB-NVME Live https://www.youtube.com/watch?v=gO9fTnMxwYw
+MX LINUX => EXTERNAL DISK
 Install these OS on USB-NVME:
 KALI PURPLE + KALI LINUX
 WINDOWS 10
@@ -5338,6 +5339,19 @@ sudo apt remove smbclient
 👉 CHANGE ROOT PASSWORD
 		
 sudo passwd root 
+```
+
+
+```
+👉 ROOT USER
+		
+su / su -
+
+-------------------
+
+👉 switch to the root user while using your own password for authentication, rather than the root password
+
+sudo su
 ```
 
 
