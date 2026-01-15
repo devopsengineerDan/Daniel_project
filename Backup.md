@@ -6200,6 +6200,20 @@ immunity debugger -> On Windows machine
 
 # INSTALLATIONS
 
+# QEMU KVM VIRTUAL MACHINE MANAGER
+
+```
+👉 FIX NAT ERROR ON QEMU KVM VIRTUAL MACHINE MANAGER
+
+add Hardware
+Network
+Select Virtual network'default':NAT
+Finish. Apply.
+```
+
+
+# VIRTUALBOX
+
 ```
 👉 VIRTUALBOX CONFIGURATIONS
 
