@@ -13448,7 +13448,8 @@ Download Intel Graphics Command Center and Modify Settings to High/Ultra
 ------------------------------------------------------------------------------------------------------
 👉 ANDROID VPN
 
-Super Unlimited Proxy VPN 
+---> VPNIFY - Phone
+---> Super Unlimited Proxy VPN - TV
 Planet VPN 
 ------------------------------------------------------------------------------------------------------
 
