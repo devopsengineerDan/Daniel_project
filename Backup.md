@@ -6533,6 +6533,7 @@ Rasberry Pi => 🧨 sudo apt install netexec netscanner obsidian sippts sprayhou
 ```
 👉 WIFI HACKING
 
+🧨 EVIL TWIN ATTACK -> https://www.youtube.com/watch?v=f2BjFilLDqQ
 NULLBYTE -> (Automated) https://www.youtube.com/watch?v=qpnpI_mF3Aw
 DAVID BOMBAL -> (Detailed) https://www.youtube.com/watch?v=J8A8rKFZW-M
 Wireless Hacking WIFITE WIFI PHISHER -> https://www.youtube.com/watch?v=FVBti1vhJVA
