@@ -13447,10 +13447,11 @@ Download Intel Graphics Command Center and Modify Settings to High/Ultra
 
 =>WPD -> Remove logs and DISABLE WINDOWS UPDATE
 ------------------------------------------------------------------------------------------------------
-👉 ANDROID VPN
+🧨🌀 VPN
 
----> VPNIFY - Phone
+---> VPNIFY - Android Phone
 ---> Super Unlimited Proxy VPN - TV
+---> Windscribe - Microsoft Windows
 Planet VPN 
 ------------------------------------------------------------------------------------------------------
 
