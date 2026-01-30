@@ -12,9 +12,9 @@ OR
 
 [Victor's Resemblance]
 4) James Go Ahead -> [4Tscripts & Completion Letter]
-3) Dep ->Frontend_CompletedStatus & Backend_CompletedStatus
-2) School ->Frontend_CompletedStatus & 1,2,3,4 List_CompletedStatus & Registered for YEAR4 ALL UNITS  in [2020_DATE] OLD SYSTEM [Have CompletedStatus] & Finance_CompletedStatus[2020_DATE] 
-1) Registrar ->[Admission+Frontend Units]_CompletedStatus & Grad List_CompletedStatus & Finance_CompletedStatus[2020_DATE] 
+3) Dep -> Frontend_CompletedStatus & Backend_CompletedStatus
+2) School -> Frontend_CompletedStatus & 1,2,3,4 List_CompletedStatus & Registered for YEAR4 ALL UNITS  in [2020_DATE] OLD SYSTEM [Have CompletedStatus] & Finance_CompletedStatus[2020_DATE] 
+1) Registrar -> [Admission+Frontend Units]_CompletedStatus & Grad List_CompletedStatus & Finance_CompletedStatus[2020_DATE] 
 
 
 Got the letter in 2016
