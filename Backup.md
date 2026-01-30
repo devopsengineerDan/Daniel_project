@@ -13385,7 +13385,7 @@ Write caching should now be enabled.
 
 #### 6. Keep the SSD firmware up to date
 - SSD manufacturers often release updates for the SSD firmware to keep it running efficiently and to reduce wear and tear, so these updates can extend the device’s lifespan. To see if your SSD does, it’s best to visit the manufacturer’s website to search for any firmware updates. Most vendors will also have their own SSD software to update firmware automatically.
-- 
+  
 ---
 
 ```
