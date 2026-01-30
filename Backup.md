@@ -13348,6 +13348,44 @@ Normal charging port procedure:
          2ND 8.
 ```
 
+
+👉 SSD MAINTENANCE
+
+#### 1. Enable Trim for SSDs
+- One simple trick to extend SSD lifespan is to enable the Trim command for your SSD. This tells the drive which data blocks are no longer used, effectively managing and freeing up disk space. If you don’t enable the Trim, the SSD needs to perform extra and unnecessary operations to delete old files, giving rise to more wear and reducing lifespan.
+
+- To check if the Trim command is enabled open the command prompt with admin rights and type the command fsutil behavior query DisableDeleteNotify. If you get the notification DisableDeleteNotify = 0 then you have Trim enabled. If not, then you can enable it with this command: fsutil behavior set DisableDeleteNotify 0.
+
+#### 2. Disable hibernation
+- In hibernation mode the computer will write all the data it stores in the RAM to a file named Hiberfil.sys on the SSD. If you hibernate your PC often this file can be extremely large. Excessive and heavy writing can wear out your SSD, hence you should disable hibernation in Windows 11. To do that, open the command prompt with admin permission and type the command powercfg.exe /hibernate off.
+  
+#### 3. Disable Paging File (Virtual Memory)
+- When RAM is insufficient for your computing increasing the virtual memory or paging file can be one solution. However, this isn’t good for SSD lifespan as it results in lots of writing to your SSD. Therefore, you’re going to want to disable paging file to increase the SSD lifespan. Here’s how to do that.
+
+Press Windows key + R to open the Run dialog box.
+Type sysdm.cpl and click OK to open System Properties.
+Navigate to the Advanced tab and click on Settings under the Performance section.
+In the Performance Options window, go to the Advanced tab and click on Change under the Virtual Memory section.
+Uncheck the box for Automatically manage paging file size for all drives.
+Select the drive where the pagefile is located (usually C:).
+Choose the option No paging file and click Set.
+Click OK to close all windows and restart your computer when prompted.
+
+#### 4. Enable write caching
+- Most SSDs support write caching that allows temporarily storing data in a cache, which avoids frequent small writes to the SSD. Enabling this feature will reduce the number of write cycles and extend the lifespan of your SSD. You can do that in a few easy steps.
+
+Type Win+X and choose Device Manager.
+Expand the disk drives, right click on your SSD, and select Properties.
+Under the Policies tab, tick Enable write caching on the device and click OK.
+Write caching should now be enabled.
+
+#### 5. Avoid filling up the SSD memory
+- If the SSD memory is filled up, it can reduce the SSD lifespan and the drive will run a lot slower than it should. Therefore, you should aim to always keep at least 20 percent of the drive’s capacity free.
+
+
+#### 6. Keep the SSD firmware up to date
+- SSD manufacturers often release updates for the SSD firmware to keep it running efficiently and to reduce wear and tear, so these updates can extend the device’s lifespan. To see if your SSD does, it’s best to visit the manufacturer’s website to search for any firmware updates. Most vendors will also have their own SSD software to update firmware automatically.
+- 
 ---
 
 ```
