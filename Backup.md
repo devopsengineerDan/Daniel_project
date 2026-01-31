@@ -98,6 +98,14 @@ Master's  
 # 🚀 ACADEMICIAN AND SCHOLAR [FATHER, MOTHER, SON] 
                              [KING/ADVISOR, MENTOR/MAGICIAN, TEACHER/WARRIOR]
 # 🚀 AWARENESS
+- Analytical tool to serve Strategic Purpose; and not Spiritual tool to serve Extistential Purpose.
+- Clarity of Awareness is not Purpose, Understanding is not Fulfilment, Health is not Happiness.
+
+# OBJECTIVE
+
+- Decision Latency - Under Pressure
+- Response During Uncertainity - Panic
+- Risk  Tolerance - Emotional Reactivity
 
 ```
 STRATEGIC-DETACHMENT
