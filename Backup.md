@@ -9084,6 +9084,10 @@ sudo python2.7 get-pip.py
 ```
 👉 PYTHON INSTALLATION
 
+uv python install 2.7
+
+OR
+
 Install pip3          sudo apt install python3-pip
                       python -m pip install --upgrade pip
 		      OR python3 -m pip install --upgrade pip
@@ -9236,6 +9240,8 @@ Install Dependencies:     pipenv install -r requirements.txt
 Upgrade Dependencies:     pipenv install -r requirements.txt --upgrade
 Deactivate:               deactivate
 ```
+
+![title](static/img/pipenv.png)
 
 
 # PYTHON SCRIPTING
