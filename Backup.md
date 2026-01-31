@@ -99,11 +99,13 @@ Master's  
                              [KING/ADVISOR, MENTOR/MAGICIAN, TEACHER/WARRIOR]
 # 🚀 AWARENESS
 
+```
 STRATEGIC-DETACHMENT
 SILENCE-SILENCE
 				    IDENTITY
 		BELIEF AND EMOTION
 		            STRUCTURE AND REFLEX
+```
 					
 ## Disadvantage of Awareness
 
