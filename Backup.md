@@ -3364,6 +3364,11 @@ Postman API  -> dancunmoruri@gmail.com
 
 ------------------------------------------------------------------------------------------------------------------
 
+NEWSLETTER
+beehiiv -> kibe0853@gmail.com -> 0706738969
+
+------------------------------------------------------------------------------------------------------------------
+
 DATA
 SimpleAnalytics -> dancummoruri@gmail.com
 Calendly -> dancunmoruri@gmail.com
