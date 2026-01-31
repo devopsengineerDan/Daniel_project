@@ -94,8 +94,28 @@ Master's  
 
 
 
-# 🚀 LIFE  AND NATURE [PARALLEL]
-# 🚀 ACADEMICIAN AND SCHOLAR [FATHER, MENTOR, TEACHER]
+# 🚀 LIFE [OBEDIENCE] -> SHEEP/WE AND NATURE [PARALLEL] -> GOAT/I
+# 🚀 ACADEMICIAN AND SCHOLAR [FATHER, MOTHER, SON] 
+                             [KING/ADVISOR, MENTOR/MAGICIAN, TEACHER/WARRIOR]
+# 🚀 AWARENESS
+
+STRATEGIC-DETACHMENT
+SILENCE-SILENCE
+				    IDENTITY
+		BELIEF AND EMOTION
+		            STRUCTURE AND REFLEX
+					
+## Disadvantage of Awareness
+
+LIfe can be:
+- Meaningless
+- Overwhelming
+- Lonely
+ 
+## Advantages of Illusion            
+- Clarity of purpose
+- Belonging
+- Certainity         
 
 ![title](static/img/LIFE.jpg)
 ![title](static/img/Data_Engineering_to_Cybersecurity.jpg)
