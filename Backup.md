@@ -95,12 +95,17 @@ Master's  
 
 
 # 🚀 LIFE [OBEDIENCE] -> SHEEP/WE AND NATURE [PARALLEL] -> GOAT/I
-# 🚀 ACADEMICIAN AND SCHOLAR [FATHER, MOTHER, SON] 
+# 🚀 ACADEMICIAN AND SCHOLAR 
+                             [FATHER, MOTHER, SON] 
                              [KING/ADVISOR, MENTOR/MAGICIAN, TEACHER/WARRIOR]
 # 🚀 AWARENESS
 - Analytical tool to serve Strategic Purpose; and not Spiritual tool to serve Extistential Purpose.
 - Clarity of Awareness is not Purpose, Understanding is not Fulfilment, Health is not Happiness.
-- 🚀 IDEA - We are Rational not Irrational. We are not sentimental about Freedom. We do not romantisize it. We are Pragmatic about Control. 
+
+# 🚀 IDEA 
+- We are Rational not Irrational. We are not sentimental about Freedom. We do not romantisize it. We are Pragmatic about Control. 
+- It is not being Opague/Ambiguos/Vague. That is dangerous. We do not worship at the altar of Belief.
+- 🚀 Ours is Silence, Reason, Strategic Control(Diligence), Sponteneous/Harmony with Nature.
 
 # OBJECTIVE
 
@@ -3397,6 +3402,9 @@ Postman API  -> dancunmoruri@gmail.com
 
 NEWSLETTER
 beehiiv -> kibe0853@gmail.com -> 0706738969
+
+BLOG
+DISQUS -> dancunmoruri@gmail.com
 
 ------------------------------------------------------------------------------------------------------------------
 
