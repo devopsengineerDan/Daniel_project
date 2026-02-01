@@ -6585,7 +6585,8 @@ Wireless Hacking WIFITE WIFI PHISHER -> https://www.youtube.com/watch?v=FVBti1vh
 
 👉 STEAL WIFI PASSWORD
 
-CYBER MENTOR -> https://www.youtube.com/watch?v=1nWPbKitj9w
+CYBER MENTOR      SCRIPT-> https://www.youtube.com/watch?v=1nWPbKitj9w
+                  RUBBERDUCKY -> https://www.youtube.com/watch?v=uH-4btjE56E          
 ```
 
 
