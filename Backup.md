@@ -100,7 +100,7 @@ Master's  
 # 🚀 AWARENESS
 - Analytical tool to serve Strategic Purpose; and not Spiritual tool to serve Extistential Purpose.
 - Clarity of Awareness is not Purpose, Understanding is not Fulfilment, Health is not Happiness.
-- 🚀 IDEA - WE are Rational not Irrational. We are not sentimental about Freedom. We do not romantisize it. We are Pragmatic about Control. 
+- 🚀 IDEA - We are Rational not Irrational. We are not sentimental about Freedom. We do not romantisize it. We are Pragmatic about Control. 
 
 # OBJECTIVE
 
