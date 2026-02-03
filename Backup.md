@@ -106,7 +106,8 @@ Master's  
 - We are Rational not Irrational. We are not sentimental about Freedom. We do not romantisize it. We are Pragmatic about Control. 
 - It is not being Opague/Ambiguos/Vague. That is dangerous. We do not worship at the altar of Belief.
 - 🚀 Ours is Silence, Reason, Strategic Control(Diligence), Sponteneous/Harmony with Nature.
-
+- 🚀 Once the vail is removed, you cannot return to innocence. The notion of good guys and bad guys--what passionate believers say to be righteous struggle is abandoned. You become objective by looking at the cause, the process and the result/aftermath. 
+  
 # OBJECTIVE
 
 - Decision Latency - Under Pressure
