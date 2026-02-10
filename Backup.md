@@ -4195,6 +4195,7 @@ sudo reboot
 ---------------------------------------------------------------------------------------------
 OR
 sudo tasksel
+sudo apt install gdm3/lightdm/sddm
 sudo dpkg-reconfigure gdm3/lightdm/sddm --depends with your preference
 sudo dpkg --configure gdm3/lightdm/sddm --depends with your preference
 ```
@@ -13340,6 +13341,14 @@ BIOS - devopsengineer
 
 ### Software
 
+👉 GENERAL
+
+```
+Restart Software
+Update && Upgrade Software && Ensure Compatibility with Hardware and its Connector
+```
+
+
 👉 NETWORK RESET
 ```
 Reset network to default to remove previous configurations
@@ -14588,16 +14597,6 @@ Fingr && Spm IN
 ```
 
 
-
-
-*****************************************************************************************************************************************
-
-
-
-
-# FREE THOUGHT
-
-https://www.youtube.com/watch?v=BJX13jZxx_w
 
 
 
