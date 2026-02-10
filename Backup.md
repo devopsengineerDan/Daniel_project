@@ -92,6 +92,8 @@ Master's  
 
 ===============================================================================================================================================
 
+# 🚀 KNOWLEDGE
+# 🚀 WISDOM
 ```
 # RIDDLE, MYSTERY, ENIGMA
 # 🚀 LIFE [OBEDIENCE] -> SHEEP/WE AND NATURE [PARALLEL] -> GOAT/I 
