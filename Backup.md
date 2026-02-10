@@ -92,20 +92,32 @@ Master's  
 
 ===============================================================================================================================================
 
-
+```
 # RIDDLE, MYSTERY, ENIGMA
 # 🚀 LIFE [OBEDIENCE] -> SHEEP/WE AND NATURE [PARALLEL] -> GOAT/I 
+```
 
 ---
 
+```
 # SUPREME DEUS BULL ZEUS GOD ZEUS
 # 🚀 ACADEMICIAN AND SCHOLAR 
                              [FATHER, MOTHER, SON] 
                              [KING/ADVISOR, MENTOR/MAGICIAN, TEACHER/WARRIOR
+```
 							 
 ---
 
+```
 # I--WE, LEVELS OF ENERGY EVOLUTION, *** FEEL *** CONSCIOUS ROBOT
+# 🚀 KNOWLEDGE && WISDOM
+            -> Security
+            -> Producer
+-> Random + Chaos
+-> Chase + Work
+            -> Work First + Lend 
+```
+
 # 🚀 AWARENESS
 - Analytical tool to serve Strategic Purpose; and not Spiritual tool to serve Extistential Purpose.
 - Clarity of Awareness is not Purpose, Understanding is not Fulfilment, Health is not Happiness.
