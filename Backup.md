@@ -5424,11 +5424,23 @@ sudo su
 
 
 ```
-👉 CHECK TYPE OF PARTITION
+👉 CHECK TYPE OF RAM
+sudo apt install lshw
+sudo lshw -C memory
 
+👉 CHECK TYPE OF PARTITION
 lsblk /dev/nvme0n1p3 -dno pttype
 Use Disks- It is a Disk managment utility software for GNOME to check name of partition(ie) /dev/nvme0n1p3
 
+👉 LINUX CHECK SERIAL NUMBER 
+sudo dmidecode -s system-serial-number
+							
+👉 CHECK BATTERY									
+upower -i /org/freedesktop/UPower/devices/battery_BAT0
+
+👉 MAINTENANCE OF SSD
+sudo systemctl enable fstrim.timer
+systemctl status fstrim.timer 
 ```
 
 
@@ -5490,25 +5502,11 @@ sudo apt clean
 
 
 ```
-👉 LINUX CHECK SERIAL NUMBER 
-
-sudo dmidecode -s system-serial-number
-```
-
-
-```
 👉 BYPASSING SECURITY FOR A SYSTEM AUDITOR
 
 -> Bypass Label Processing (BLP)
 -> System Exits
 -> Special System Login IDs
-```
-
-
-```									
-👉 CHECK BATTERY
-									
-upower -i /org/freedesktop/UPower/devices/battery_BAT0
 ```
 
 
@@ -5569,6 +5567,7 @@ $ sudo truncate -s 0 /var
 
 
 ------------------------------------------------------------------------------------------------------------------------
+
 👉 FIX INIT ERROR
 
 1ST
@@ -5589,14 +5588,6 @@ $ cd /boot
 $ ls /lib/modules
 3.11.0-12generic
 $ update-initramfs -c -k 3.11.0-12generic 
-```
-
-
-```
-👉 MAINTENANCE OF SSD
-
-sudo systemctl enable fstrim.timer
-systemctl status fstrim.timer 
 ```
 
 
