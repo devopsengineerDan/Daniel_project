@@ -94,6 +94,16 @@ Master's  
 
 # 🚀 KNOWLEDGE
 # 🚀 WISDOM
+
+```
+🚀 SECURITY INTELLIGENCE ===> SECURITY & PERCEPTION
+🚀 FINANCE ===> CAPITAL
+                🚀 INFORMATION ===> SIMPLE TECHNOLOGY & INNOVATION
+🚀 RELIGION ===> RIDICULOUS & MARKET
+                🚀 SYSTEM ===> FAST & PRODUCTIVE
+```
+---
+
 ```
 # RIDDLE, MYSTERY, ENIGMA
 # 🚀 LIFE [OBEDIENCE] -> SHEEP/WE AND NATURE [PARALLEL] -> GOAT/I 
@@ -137,11 +147,11 @@ Master's  
 - Risk  Tolerance - Emotional Reactivity
 
 ```
-STRATEGIC-DETACHMENT
-SILENCE-SILENCE
-				    IDENTITY
-		BELIEF AND EMOTION
-		            STRUCTURE AND REFLEX
+🚀 STRATEGIC-DETACHMENT
+🚀 SILENCE-SILENCE
+				    🚀 IDENTITY
+		🚀 BELIEF AND EMOTION
+		            🚀 STRUCTURE AND REFLEX
 ```
 					
 ## Disadvantage of Awareness
