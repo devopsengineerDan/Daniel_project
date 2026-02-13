@@ -94,6 +94,7 @@ Master's  
 
 # 🚀 KNOWLEDGE
 # 🚀 WISDOM
+# 🚀 MANAGEMENT & PERFORMANCE
 
 ```
 🚀 SECURITY INTELLIGENCE ===> SECURITY & PERCEPTION
@@ -140,7 +141,7 @@ Master's  
 - 🚀 Ours is Silence, Reason, Strategic Control(Diligence), Sponteneous/Harmony with Nature.
 - 🚀 Once the vail is removed, you cannot return to innocence. The notion of good guys and bad guys--what passionate believers say to be righteous struggle is abandoned. You become objective by looking at the cause, the process and the result/aftermath. 
   
-# OBJECTIVE
+# 🚀 OBJECTIVE; NOT INVOLUNTARY OR ENTANGLED
 
 - Decision Latency - Under Pressure
 - Response During Uncertainity - Panic
