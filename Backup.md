@@ -124,11 +124,11 @@ Master's  
 ```
 # I--WE, LEVELS OF ENERGY EVOLUTION, *** FEEL *** CONSCIOUS ROBOT
 # 🚀 KNOWLEDGE && WISDOM
-            -> Security
-            -> Producer
--> Random + Chaos
--> Chase + Work
-            -> Work First + Lend 
+            🚀-> Security
+            🚀-> Producer
+🚀-> Random + Chaos
+🚀-> Chase + Work
+            🚀-> Work First + Lend 
 ```
 
 # 🚀 AWARENESS
