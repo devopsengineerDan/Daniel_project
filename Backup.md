@@ -125,7 +125,9 @@ Master's  
 ✅✅✅ ECONOMIC
 
 👉👉👉 FREE WORLD/SOCIALIST-CAPITALIST              👉👉👉 COMMUNIST/TRADITIONAL-SOCIALIST
+👉👉👉 ALCOHOL                                      👉👉👉 SPIRITUAL
 👉👉👉 ORDER FROM CHAOS-WAR                         👉👉👉 ORDER FROM PEACE-HARMONY
+
 🚀 MEGA COMPANIES                                   🚀 MEGA COMPANIES        
 🚀 CORPORATIONS                                     🚀 CORPORATIONS
 🚀 INDIVIDUAL COMPANIES & NO COMPETION              🚀 INDIVIDUAL COMPANIES & COMPETITION
