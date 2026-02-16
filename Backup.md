@@ -97,11 +97,38 @@ Master's  
 # 🚀 MANAGEMENT & PERFORMANCE
 
 ```
+✅✅✅ POLITICAL
+
 🚀 SECURITY INTELLIGENCE ===> SECURITY & PERCEPTION
 🚀 FINANCE ===> CAPITAL
                 🚀 INFORMATION ===> SIMPLE TECHNOLOGY & INNOVATION
 🚀 RELIGION ===> RIDICULOUS & MARKET
                 🚀 SYSTEM ===> FAST & PRODUCTIVE
+
+----------------------------------------------------------------------------------------------
+
+✅✅✅ SOCIAL
+
+🚀 WEALTH
+🚀 RESERVE
+
+🚀 DEBT
+🚀 LIQUID MONEY
+                🚀 PAPER MONEY
+                🚀 BUSINESS TRANSACTIONS [PRODUCER, BROKER, CONSUMER]
+
+                🚀 LAND 
+                🚀 PROPERTY
+
+----------------------------------------------------------------------------------------------
+
+✅✅✅ ECONOMIC
+
+👉👉👉 FREE WORLD/SOCIALIST-CAPITALIST              👉👉👉 COMMUNIST/TRADITIONAL-SOCIALIST
+👉👉👉 ORDER FROM CHAOS-WAR                         👉👉👉 ORDER FROM PEACE-HARMONY
+🚀 MEGA COMPANIES                                   🚀 MEGA COMPANIES        
+🚀 CORPORATIONS                                     🚀 CORPORATIONS
+🚀 INDIVIDUAL COMPANIES & NO COMPETION              🚀 INDIVIDUAL COMPANIES & COMPETITION
 ```
 ---
 
@@ -3326,7 +3353,7 @@ BIOS Supervisor: Right index/ devopsengineer
 
 KRA --->  dancunmoruri@gmail.com  ---> 0711444518
 A012540149K
-engineerDaniel@1234
+engineerDancun@9745
 
 PSC ---> ID --->  dancunmoruri@gmail.com  --->  GODISFAITHFUL@9#amen
 npsc ---> GodIsFaithful@97
@@ -3344,6 +3371,7 @@ Microsoft acc: dancun.moruri@outlook.com  => Security code for dancunmoruri@gmai
 SAFARICOM
 SAF PORTAL: @@aUrsAP@w9x.j@
 
+###===> STOCK PLATFORM: ZIIDI ###
 1. MSHWARI ===> MAXIMUM THRESHOLD
 2. @SMALL AMOUNT ZIIDI MMF ===> USSD CODE: *334#
 3. @BIG AMOUNT MALI INVESTMENT ===> USSD CODE: *230# / *334#
