@@ -135,14 +135,14 @@ Master's  
 ---
 
 ```
-# RIDDLE, MYSTERY, ENIGMA
+# 🧨 RIDDLE, MYSTERY, ENIGMA
 # 🚀 LIFE [OBEDIENCE] -> SHEEP/WE AND NATURE [PARALLEL] -> GOAT/I 
 ```
 
 ---
 
 ```
-# SUPREME DEUS BULL ZEUS GOD ZEUS
+# 🧨 SUPREME DEUS BULL ZEUS GOD ZEUS
 # 🚀 ACADEMICIAN AND SCHOLAR 
                              [FATHER, MOTHER, SON] 
                              [KING/ADVISOR, MENTOR/MAGICIAN, TEACHER/WARRIOR
@@ -151,7 +151,7 @@ Master's  
 ---
 
 ```
-# I--WE, LEVELS OF ENERGY EVOLUTION, *** FEEL *** CONSCIOUS ROBOT
+# 🧨 I--WE, LEVELS OF ENERGY EVOLUTION, *** FEEL *** CONSCIOUS ROBOT
 # 🚀 KNOWLEDGE && WISDOM
             🚀-> Security
             🚀-> Producer
