@@ -172,7 +172,7 @@ Master's  
 - 🚀 We are Rational not Irrational. We are not sentimental about Freedom. We do not romantisize it. We are Pragmatic about Control. 
 - 🚀 It is not being Opague/Ambiguos/Vague. That is dangerous. We do not worship at the altar of Belief.
 - 🚀 It is rather to be a warrior in a garden than a gardener in a war.
-- 🚀 Machiavellianism teaches you How to play the game of life. Stoicism teaches you Why to play the game. We play the game beacause participation is our tribute to existence/life. Conquering is vanity--the Empire will Fall, the Money will Rot, the Reputation will Fade
+- 🚀 Machiavellianism teaches you How to play the game of life. Stoicism teaches you Why to play the game. We play the game beacause participation is our tribute to existence/life. Conquering is vanity--the Empire will Fall, the Money will Rot, the Reputation will Fade.
 - 🚀 Ours is Silence, Reason, Strategic Control(Diligence), Sponteneous/Harmony with Nature.
 - 🚀 Once the vail is removed, you cannot return to innocence. The notion of good guys and bad guys--what passionate believers say to be righteous struggle is abandoned. You become objective by looking at the cause, the process and the result/aftermath. 
   
