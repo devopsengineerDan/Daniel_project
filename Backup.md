@@ -165,19 +165,24 @@ Master's  
 - Clarity of Awareness is not Purpose, Understanding is not Fulfilment, Health is not Happiness.
 
 # 🚀 IDEA 
-- We are Rational not Irrational. We are not sentimental about Freedom. We do not romantisize it. We are Pragmatic about Control. 
-- It is not being Opague/Ambiguos/Vague. That is dangerous. We do not worship at the altar of Belief.
+- 🚀🚀🚀 We/Sheep/Concious and I/Goat/Unconcious is all I SEE.
+- 🚀🚀🚀 Machiavellianism without Control is Destructive; its Fire which burns the Arsonist. Stoicism without Power is Dissociation; it Sadative for the Conquered.
+  
+- 🚀 As Stoicism and Confucianism would put it HEART CONQUERS THE MIND--if you desire unity you have no Mind, if you don't desire unity you have no Heart. The is no common benchmark for the things we believe to be good except for a few those that affect US ALL/FEEL/FREQUENCY.
+- 🚀 We are Rational not Irrational. We are not sentimental about Freedom. We do not romantisize it. We are Pragmatic about Control. 
+- 🚀 It is not being Opague/Ambiguos/Vague. That is dangerous. We do not worship at the altar of Belief.
+- 🚀 It is rather to be a warrior in a garden than a gardener in a war.
+- 🚀 Machiavellianism teaches you How to play the game of life. Stoicism teaches you Why to play the game. We play the game beacause participation is our tribute to existence/life. Conquering is vanity--the Empire will Fall, the Money will Rot, the Reputation will Fade
 - 🚀 Ours is Silence, Reason, Strategic Control(Diligence), Sponteneous/Harmony with Nature.
 - 🚀 Once the vail is removed, you cannot return to innocence. The notion of good guys and bad guys--what passionate believers say to be righteous struggle is abandoned. You become objective by looking at the cause, the process and the result/aftermath. 
   
 # 🚀 OBJECTIVE; NOT INVOLUNTARY OR ENTANGLED
-
 - Decision Latency - Under Pressure
 - Response During Uncertainity - Panic
 - Risk  Tolerance - Emotional Reactivity
 
 ```
-🚀 STRATEGIC-DETACHMENT
+🚀 STRATEGIC-DETACHMENT/DISSOCIATION
 🚀 SILENCE-SILENCE
 				    🚀 IDENTITY
 		🚀 BELIEF AND EMOTION
