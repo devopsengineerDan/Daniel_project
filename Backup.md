@@ -125,7 +125,7 @@ Master's  
 ✅✅✅ ECONOMIC
 
 👉👉👉 FREE WORLD/SOCIALIST-CAPITALIST              👉👉👉 COMMUNIST/TRADITIONAL-SOCIALIST
-👉👉👉 ALCOHOL                                      👉👉👉 SPIRITUAL
+👉👉👉 ALCOHOL && MATERIALISTIC                     👉👉👉 SPIRITUAL
 👉👉👉 ORDER FROM CHAOS-WAR                         👉👉👉 ORDER FROM PEACE-HARMONY
 
 🚀 MEGA COMPANIES                                   🚀 MEGA COMPANIES        
@@ -165,6 +165,7 @@ Master's  
 - Clarity of Awareness is not Purpose, Understanding is not Fulfilment, Health is not Happiness.
 
 # 🚀 IDEA 
+- 🚀🚀🚀 ONE <-> MATRIX <-> DISTINGUISHED SCHOLAR <-> RELIGION <-> CHILD/ELDERLY AGE
 - 🚀🚀🚀 We/Sheep/Concious and I/Goat/Unconcious is all I SEE.
 - 🚀🚀🚀 Machiavellianism without Control is Destructive; its Fire which burns the Arsonist. Stoicism without Power is Dissociation; it Sadative for the Conquered.
   
