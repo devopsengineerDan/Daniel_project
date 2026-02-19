@@ -131,6 +131,7 @@ Master's  
 🚀 MEGA COMPANIES                                   🚀 MEGA COMPANIES        
 🚀 CORPORATIONS                                     🚀 CORPORATIONS
 🚀 INDIVIDUAL COMPANIES & NO COMPETION              🚀 INDIVIDUAL COMPANIES & COMPETITION
+👉 RENT                                             👉 PRODUCTION OF PRODUCTS AND SERVICES AT CHEAP PRICE
 ```
 ---
 
