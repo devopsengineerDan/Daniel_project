@@ -167,7 +167,7 @@ Master's  
 # 🚀 IDEA 
 - 🚀🚀🚀 ONE <-> MATRIX <-> DISTINGUISHED SCHOLAR <-> RELIGION <-> CHILD/ELDERLY AGE
 - 🚀🚀🚀 We/Sheep/Concious and I/Goat/Unconcious is all I SEE.
-- 🚀🚀🚀 Machiavellianism without Control is Destructive; its Fire which burns the Arsonist. Stoicism without Power is Dissociation; it Sadative for the Conquered.
+- 🚀🚀🚀 Machiavellianism without Internal Control is Destructive; its Fire which burns the Arsonist. Stoicism without Power is Dissociation; it Sadative for the Conquered.
   
 - 🚀 As Stoicism and Confucianism would put it HEART CONQUERS THE MIND--if you desire unity you have no Mind, if you don't desire unity you have no Heart. The is no common benchmark for the things we believe to be good except for a few those that affect US ALL/FEEL/FREQUENCY.
 - 🚀 We are Rational not Irrational. We are not sentimental about Freedom. We do not romantisize it. We are Pragmatic about Control. 
