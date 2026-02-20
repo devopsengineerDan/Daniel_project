@@ -132,6 +132,7 @@ Master's  
 🚀 CORPORATIONS                                     🚀 CORPORATIONS
 🚀 INDIVIDUAL COMPANIES & NO COMPETION              🚀 INDIVIDUAL COMPANIES & COMPETITION
 👉 RENT                                             👉 PRODUCTION OF PRODUCTS AND SERVICES AT CHEAP PRICE
+👉 DIMINISHING GOODS                                👉 DIMINISHING GOODS
 ```
 ---
 
