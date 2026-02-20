@@ -14650,7 +14650,7 @@ Fingr && Spm IN
 ===> NATURAL MEDICINE
 ```
 
-NOVIA: fnjm0119  -> 0215
+NOVIA billing.novia.co.ke/login: fnjm0119  -> 0215
 
 
 
