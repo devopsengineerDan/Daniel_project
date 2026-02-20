@@ -128,6 +128,8 @@ Master's  
 👉👉👉 ALCOHOL && MATERIALISTIC                     👉👉👉 SPIRITUAL
 👉👉👉 ORDER FROM CHAOS-WAR                         👉👉👉 ORDER FROM PEACE-HARMONY
 
+
+✅ FACTORY                                          ✅ FACTORY
 🚀 MEGA COMPANIES                                   🚀 MEGA COMPANIES        
 🚀 CORPORATIONS                                     🚀 CORPORATIONS
 🚀 INDIVIDUAL COMPANIES & NO COMPETION              🚀 INDIVIDUAL COMPANIES & COMPETITION
