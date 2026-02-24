@@ -129,12 +129,12 @@ Master's  
 👉👉👉 ORDER FROM CHAOS-WAR                         👉👉👉 ORDER FROM PEACE-HARMONY
 
 
-✅ FACTORY                                          ✅ FACTORY
+✅👉 FACTORY                                        ✅👉 FACTORY
 🚀 MEGA COMPANIES                                   🚀 MEGA COMPANIES        
 🚀 CORPORATIONS                                     🚀 CORPORATIONS
 🚀 INDIVIDUAL COMPANIES & NO COMPETION              🚀 INDIVIDUAL COMPANIES & COMPETITION
-👉 RENT                                             👉 PRODUCTION OF PRODUCTS AND SERVICES AT CHEAP PRICE
-👉 DIMINISHING GOODS                                👉 DIMINISHING GOODS
+✅👉 RENT                                           ✅👉 PRODUCTION OF PRODUCTS AND SERVICES AT CHEAP PRICE
+✅👉 DIMINISHING GOODS                              ✅👉 DIMINISHING GOODS
 ```
 ---
 
