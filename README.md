@@ -60,8 +60,10 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 
 5. 👉 MLOPS for continuous Deployment
 
-6 ✅ ===> Bodywork (ALL KEY CONCEPTS) + (GITHUB REPOS SOURCE CODE)
-7 ✅ ===> Study Notes Info: https://devopsengineerdan.github.io/data-engineering-notes-and-demos-best-practices/
+6. 👉 PYSPARK, AIRFLOW, POSTGRESQL  AUTOMATED WORKFLOW ===> https://www.youtube.com/watch?v=vMgFadPxOLk&t=1644s
+   ✅ ===> Bodywork (ALL KEY CONCEPTS) + (GITHUB REPOS SOURCE CODE)
+
+7. ✅ ===> Study Notes Info: https://devopsengineerdan.github.io/data-engineering-notes-and-demos-best-practices/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✅ REAL PROJECTS
