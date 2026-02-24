@@ -460,7 +460,7 @@ Long-term ===> Acceptable Profit
 Mid-term  ===> Acceptable Profit
 Short-term  ===> Acceptable Profit
 -------------------------------------------
-===> DO NOT BE TOO GOOD --- Be Harmonious, Integrated, Industry
+===> DO NOT BE TOO EXCEPTIONAL/EXCELLENT--BE NEUTRAL/AVERAGE/BALANCED --- Be Harmonious, Integrated, Industry
 ===> DO NOT BE A PSYCHOPATH
 [Make Trade that you can explain] ===> STRATEGY, ENTRY, PLAYBOOK
 [PUBLIC KNOWLEDGE: MARKET IS RANDOM: HENCE YOU ONLY ANTICIPATE]
