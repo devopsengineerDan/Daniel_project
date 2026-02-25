@@ -99,11 +99,11 @@ Master's  
 ```
 ✅✅✅ POLITICAL
 
-🚀 SECURITY INTELLIGENCE ===> SECURITY & PERCEPTION
-🚀 FINANCE ===> CAPITAL
-                🚀 INFORMATION ===> SIMPLE TECHNOLOGY & INNOVATION
-🚀 RELIGION ===> RIDICULOUS & MARKET
-                🚀 SYSTEM ===> FAST & PRODUCTIVE
+🚀 (SECURITY INTELLIGENCE) ===> (SECURITY & PERCEPTION)
+🚀 FINANCE ===> (CAPITAL)
+                🚀 INFORMATION ===> (SIMPLE TECHNOLOGY & INNOVATION)
+🚀 RELIGION ===> RIDICULOUS & (MARKET)
+                🚀 SYSTEM ===> FAST & (PRODUCTIVE)
 
 ----------------------------------------------------------------------------------------------
 
@@ -115,7 +115,7 @@ Master's  
 🚀 DEBT
 🚀 LIQUID MONEY
                 🚀 PAPER MONEY
-                🚀 BUSINESS TRANSACTIONS [PRODUCER, BROKER, CONSUMER]
+                🚀 BUSINESS TRANSACTIONS [PRODUCER, BROKER(MARKET), CONSUMER]
 
                 🚀 LAND 
                 🚀 PROPERTY
