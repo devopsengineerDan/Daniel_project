@@ -1896,8 +1896,8 @@ Kwetu SACCO ===> PLOT BUSINESSES -> LOANS ===> SMALL SAVINGS
 ## XTX -> market maker
 ## Banks -> liquidity provider
 ## Broker
-## Henriot -> stock, derivatives, commodities, currencies
-## K-bit -> cryptocurrency
+## Henriot (HFT Hedge Fund) -> stock, derivatives, commodities, currencies
+## K-bit (HFT Hedge Fund) -> cryptocurrency
 
  Our Ideal Candidate
 
