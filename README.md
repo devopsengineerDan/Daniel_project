@@ -268,7 +268,7 @@ Farming + Lands => Light Group
                                                               🧨 =====>  ON INFORMATION OF COLLAPSE ON CRYPTOCURRENCY SELL ALL USA STOCKS
                                                              👉 SINGLE COMPANY STOCK
                                                              👉 INDEX FUND
-                                                             👉 EXCHANGE TRADED FUND
+                                                             👉 EXCHANGE TRADED FUND -> BONDS
                                                              👉 MUTUAL FUND
                                                        ===================================================================
               =====> MEDIUM-TERM PERIOD [MONTHS-5-10-25]YRS ---> ✅ CRYPTOCURRENCY EXCHANGE ===> BINANCE
