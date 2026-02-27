@@ -1893,7 +1893,11 @@ Kwetu SACCO ===> PLOT BUSINESSES -> LOANS ===> SMALL SAVINGS
 
 
 # QUANT TRADER [ENGINEER && RESEARCHER]
-# K-bit, Henriot
+## XTX -> market maker
+## Banks -> liquidity provider
+## Broker
+## Henriot -> stock, derivatives, commodities, currencies
+## K-bit -> cryptocurrency
 
  Our Ideal Candidate
 
