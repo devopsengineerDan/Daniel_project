@@ -6118,7 +6118,8 @@ Microsoft Didital Defense Report
 🌀 PwnFunction 🌀 https://pwning.tech/  https://github.com/Notselwyn/
 🌀 John Hammond
 🌀 Low Level Learning
-🌀  Crow
+🌀 Crow
+🌀 CryptoCat
 -------------------------------------
 🌀 Try Hack Me => https://www.youtube.com/c/AlmondForce
 🌀 Hack the Box => https://www.youtube.com/c/ippsec
