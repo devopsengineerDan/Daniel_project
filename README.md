@@ -1893,11 +1893,11 @@ Kwetu SACCO ===> PLOT BUSINESSES -> LOANS ===> SMALL SAVINGS
 
 
 # QUANT TRADER [ENGINEER && RESEARCHER]
-## XTX -> market maker
-## Banks -> liquidity provider
-## Broker
-## Henriot (HFT Hedge Fund) -> stock, derivatives, commodities, currencies
-## K-bit (HFT Hedge Fund) -> cryptocurrency
+### XTX -> market maker
+### Banks -> liquidity provider
+### Broker
+### Henriot (HFT Hedge Fund) -> stock, derivatives, commodities, currencies
+### K-bit (HFT Hedge Fund) -> cryptocurrency
 
  Our Ideal Candidate
 
@@ -1948,5 +1948,9 @@ Benefits
     Collaborative environment with top-tier professionals
     Continuous learning and development opportunities
     Flexible work arrangements
+
+![Asset-Management-Python-for-Finance](static/img/Asset-Management-Python-for-Finance.pdf)
+![Quant-Algorithmic-Trading-Formula-Sheet](static/img/Quant-Algorithmic-Trading-Formula-Sheet.png)
+![Quant-Math](static/img/Quant-Math.png)
 
 
