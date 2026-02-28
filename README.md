@@ -1950,7 +1950,9 @@ Benefits
     Flexible work arrangements
 
 ![Asset-Management-Python-for-Finance](static/img/Asset-Management-Python-for-Finance.pdf)
+
 ![Quant-Algorithmic-Trading-Formula-Sheet](static/img/Quant-Algorithmic-Trading-Formula-Sheet.png)
+
 ![Quant-Math](static/img/Quant-Math.png)
 
 
