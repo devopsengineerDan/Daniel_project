@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Money Market Fund Returns Calculator</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 500px;
+      margin: 40px auto;
+    }
+    input {
+      width: 100%;
+      padding: 8px;
+      margin: 6px 0 12px 0;
+    }
+    button {
+      padding: 10px;
+      width: 100%;
+      background: #0d47a1;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #08306b;
+    }
+    .result {
+      margin-top: 20px;
+      font-size: 16px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Money Market Fund Returns Calculator</h2>
+
+  <label>Initial Investment ($)</label>
+  <input type="number" id="principal" value="10000">
+
+  <label>Monthly Contribution ($)</label>
+  <input type="number" id="monthlyContribution" value="0">
+
+  <label>Annual Yield (APY %) </label>
+  <input type="number" id="apy" step="0.01" value="4.5">
+
+  <label>Investment Period (Months)</label>
+  <input type="number" id="months" value="12">
+
+  <button onclick="calculateMMF()">Calculate</button>
+
+  <div class="result" id="result"></div>
+
+  <script>
+    function calculateMMF() {
+      const principal = parseFloat(document.getElementById("principal").value);
+      const monthlyContribution = parseFloat(document.getElementById("monthlyContribution").value);
+      const apy = parseFloat(document.getElementById("apy").value) / 100;
+      const months = parseFloat(document.getElementById("months").value);
+
+      // Convert APY to effective monthly rate
+      const monthlyRate = Math.pow(1 + apy, 1/12) - 1;
+
+      let futureValue = principal;
+
+      for (let i = 0; i < months; i++) {
+        futureValue = (futureValue + monthlyContribution) * (1 + monthlyRate);
+      }
+
+      const totalInvested = principal + (monthlyContribution * months);
+      const interestEarned = futureValue - totalInvested;
+
+      document.getElementById("result").innerHTML = `
+        Final Value: $${futureValue.toFixed(2)} <br>
+        Total Invested: $${totalInvested.toFixed(2)} <br>
+        Interest Earned: $${interestEarned.toFixed(2)}
+      `;
+    }
+  </script>
+
+</body>
+</html>

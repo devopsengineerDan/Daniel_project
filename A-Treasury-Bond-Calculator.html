@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Treasury Bond Calculator</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 500px;
+      margin: 40px auto;
+    }
+    input {
+      width: 100%;
+      padding: 8px;
+      margin: 6px 0 12px 0;
+    }
+    button {
+      padding: 10px;
+      width: 100%;
+      background: #2c3e50;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #34495e;
+    }
+    .result {
+      margin-top: 20px;
+      font-size: 18px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Treasury Bond Calculator</h2>
+
+  <label>Face Value ($)</label>
+  <input type="number" id="faceValue" value="1000">
+
+  <label>Coupon Rate (%)</label>
+  <input type="number" id="couponRate" step="0.01" value="5">
+
+  <label>Market Yield (%)</label>
+  <input type="number" id="marketYield" step="0.01" value="4">
+
+  <label>Years to Maturity</label>
+  <input type="number" id="years">
+
+  <label>Payments per Year</label>
+  <input type="number" id="paymentsPerYear" value="2">
+
+  <button onclick="calculateBond()">Calculate Bond Price</button>
+
+  <div class="result" id="result"></div>
+
+  <script>
+    function calculateBond() {
+      const faceValue = parseFloat(document.getElementById("faceValue").value);
+      const couponRate = parseFloat(document.getElementById("couponRate").value);
+      const marketYield = parseFloat(document.getElementById("marketYield").value);
+      const years = parseFloat(document.getElementById("years").value);
+      const paymentsPerYear = parseInt(document.getElementById("paymentsPerYear").value);
+
+      const couponPayment = (faceValue * (couponRate / 100)) / paymentsPerYear;
+      const totalPeriods = years * paymentsPerYear;
+      const periodYield = (marketYield / 100) / paymentsPerYear;
+
+      let presentValueCoupons = 0;
+
+      for (let t = 1; t <= totalPeriods; t++) {
+        presentValueCoupons += couponPayment / Math.pow(1 + periodYield, t);
+      }
+
+      const presentValueFace =
+        faceValue / Math.pow(1 + periodYield, totalPeriods);
+
+      const bondPrice = presentValueCoupons + presentValueFace;
+
+      document.getElementById("result").innerHTML =
+        "Bond Price: $" + bondPrice.toFixed(2);
+    }
+  </script>
+
+</body>
+</html>

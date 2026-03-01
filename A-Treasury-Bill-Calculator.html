@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Treasury Bill Calculator</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 500px;
+      margin: 40px auto;
+    }
+    input {
+      width: 100%;
+      padding: 8px;
+      margin: 6px 0 12px 0;
+    }
+    button {
+      padding: 10px;
+      width: 100%;
+      background: #1f4e79;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #163a5f;
+    }
+    .result {
+      margin-top: 20px;
+      font-size: 16px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Treasury Bill (T-Bill) Calculator</h2>
+
+  <label>Face Value ($)</label>
+  <input type="number" id="faceValue" value="10000">
+
+  <label>Discount Rate (%)</label>
+  <input type="number" id="discountRate" step="0.01" value="4">
+
+  <label>Days to Maturity</label>
+  <input type="number" id="days" value="180">
+
+  <button onclick="calculateTBill()">Calculate</button>
+
+  <div class="result" id="result"></div>
+
+  <script>
+    function calculateTBill() {
+      const faceValue = parseFloat(document.getElementById("faceValue").value);
+      const discountRate = parseFloat(document.getElementById("discountRate").value) / 100;
+      const days = parseFloat(document.getElementById("days").value);
+
+      // Bank Discount Yield Price Formula (360-day year)
+      const price = faceValue * (1 - (discountRate * days / 360));
+
+      const interestEarned = faceValue - price;
+
+      // Bond Equivalent Yield (365-day year)
+      const bondEquivalentYield = (interestEarned / price) * (365 / days);
+
+      document.getElementById("result").innerHTML = `
+        Purchase Price: $${price.toFixed(2)} <br>
+        Interest Earned: $${interestEarned.toFixed(2)} <br>
+        Bond Equivalent Yield: ${(bondEquivalentYield * 100).toFixed(2)}%
+      `;
+    }
+  </script>
+
+</body>
+</html>
