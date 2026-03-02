@@ -353,6 +353,16 @@ Retail Traders & Hedge Funds
 ```
 
 
+
+# BROKER
+
+```
+✅ CLASS A ===> Exposes Investor to Real Market
+✅ CLASS B ===> Exposes Investor to Virtual Market Pro:Insulated from High Risk Volatility Con: Manipulation of Candlestick & Slippage Volatility on Investor Position and StopLoss
+```
+
+
+
 # SASRA SACCO REGULATOR
 
 ```
@@ -1907,7 +1917,7 @@ TUMA MOBILE LOAN APP
 ```
 
 
-# QUANT TRADER [ENGINEER && RESEARCHER]
+# QUANT TRADER [ENGINEER && RESEARCHER] PROFESSIONAL
 ### XTX -> market maker
 ### Banks -> liquidity provider
 ### Broker
