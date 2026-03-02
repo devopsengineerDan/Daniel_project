@@ -338,14 +338,18 @@ Farming + Lands => Light Group
 Inter-Bank Money and Deposit Association (IBMDA) -> Regulate the Exchange Algorithm 
 XTX Money -> Market Maker
 Citi bank -> Dealers & Liquidity Provider
+Broker Firms
+Retail Traders & Hedge Funds
 -------------------------------------------------------------------------------------
-Central Bank
-Markets Authority
-Stock Exchange ===> Investor[Central Depository Account]
-               ===> Stock Broker[Central Depository Agent]
-               ===> Listed Companies in the Exchange[Central Depository Corporations]
-Brokerage Firm [Internal Compliance && Audit]
-Hedge Fund [Internal Compliance && Audit]
+✅ Central Bank
+✅ Markets Authority
+✅ Stock Exchange ===> Investor[Central Depository Account]
+                  ===> Stock Broker[Central Depository Agent]
+✅ Central Depository and Settlement Corporation
+                  ===> Central Depository System Account
+                  ===> Listed Companies in the Exchange
+✅ Stock Brokerage Firm [Internal Compliance && Audit]
+✅ Hedge Fund [Internal Compliance && Audit]
 ```
 
 
@@ -1044,7 +1048,11 @@ Price Range
                                                            ✅ AVOID FUNDAMENTAL NEWS
                                                            1. Swing the BAT
                                                            2. CAREFUL
-                                                           3. TARGET
+                                                           3. ENTRY TARGET & CLOSE TARGET
+
+                                                           ---------------------------------------------
+                                                           ✅ TIME STRATEGY
+
 ✅ TREND STRATEGY                                                                           ✅ PRICE STRATEGY
 EMA [7,21]                                                                                  ICT => PD-Array  5AM [15MIN,30MIN,1HR]    
 Price Action                                                                                SMC
@@ -1386,7 +1394,7 @@ Higher Time Frame    Lower Time Frame
 
 ========================================================================================================================================================================================================================
 
-# XAU/USD EMPHASIS
+# TIME EMPHASIS
 
 ### 1ST -> PRICE STRATEGY
 
@@ -1723,10 +1731,10 @@ Higher Time Frame    Lower Time Frame
 
 # QUANT ENGINEER PROFESSIONAL
 
-```
+
 => https://x.com/pyquantnews
 => https://www.pyquantnews.com/
-```
+
 
  ----------------------------
  
@@ -1777,7 +1785,7 @@ Quant Capital
 ### 2 TAX MANAGEMENT 
 
 ```
->>> OFFSHORE ASSET MANAGEMENT ===> 👉 SEYCHELLES, BRITISH VIRGIN ISLAND, CAYMAN ISLAND, SINGAPORE, HONGKONG, BAHAMAS, MAURITIUS
+>>> OFFSHORE ASSET MANAGEMENT ===> 👉 SEYCHELLES, [BRITISH VIRGIN ISLAND + SWITZERLAND], CAYMAN ISLAND, SINGAPORE, HONGKONG, BAHAMAS, MAURITIUS
 > WITHHOLDING TAX
 > CAPITAL  GAIN TAX
 >>> FAMILY HOME/OFFICE COMPANY ===> KENYA
@@ -1796,7 +1804,7 @@ INVESTMENT COMPANY ---> BINANCE *** CRYPTOCURRENCY PLATFORM PAYS TAXES 👉 If Y
 -> ICIFA Member + Certification 
 -> Individual 
 -> Corporate 
--> Money Manager
+-> Money Manager https://tradesense.co.ke/
 ----------------------------------------------------
 -> 3 Professional Certs
 (CISI) Chartered Institute for Securities and Investment
