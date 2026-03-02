@@ -354,11 +354,27 @@ Retail Traders & Hedge Funds
 
 
 
+# CENTRAL BANK
+> ✅ Stability of Currency(Inflation), Finance, Market, Economy.
+
+
+
+# LIQUIDITY PROVIDER -- CREDIT LENDER
+> ✅ Trade against Retail Traders/Investors.
+
+
+
+# MARKET MAKER
+> ✅ Produce price forecasts for over 50,000 financial instruments across equities, fixed income, currencies, commodities and cryptocurrency.
+> ✅ Provide efficiency in Financial Markets due to optimum/optimized price forecasts and delivery
+
+
+
 # BROKER
 
 ```
-✅ CLASS A ===> Exposes Investor to Real Market
-✅ CLASS B ===> Exposes Investor to Virtual Market Pro:Insulated from High Risk Volatility Con: Manipulation of Candlestick & Slippage Volatility on Investor Position and StopLoss
+✅ CLASS A ===> Exposes Investor to Real Market.
+✅ CLASS B ===> Exposes Investor to Virtual Market Pro:Insulated from High Risk Volatility Con: Manipulation of Candlestick & Slippage Volatility on Investor Position and StopLoss.
 ```
 
 
