@@ -66,7 +66,7 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 7. ✅ ===> Study Notes Info: https://devopsengineerdan.github.io/data-engineering-notes-and-demos-best-practices/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-✅ REAL PROJECTS
+✅✅✅ REAL PROJECTS
 9.* PROJECTS
             ===> Email -> https://www.youtube.com/watch?v=xNqnHmXIuzU
             ===> News Letter -> https://youtu.be/hWtlskOaFNI?si=WNMXDlQ6sq1BTKM8
@@ -365,7 +365,7 @@ Retail Traders & Hedge Funds
 
 
 # MARKET MAKER
-> ✅ Produce price forecasts for over 50,000 financial instruments across equities, fixed income, currencies, commodities and cryptocurrency.
+> ✅ Produce price forecasts for financial instruments i.e equities, fixed income, currencies, commodities and cryptocurrency.
 
 > ✅ Provide efficiency in Financial Markets due to optimum/optimized price forecasts and delivery.
 
@@ -445,19 +445,6 @@ Retail Traders & Hedge Funds
 
 =================================================================================================================================================================================================
 
-👉 FINANCIAL ENGINEER
-
-1. Real-Time Portfolio Selection and Optimization: Enhance real-time portfolio optimization and capital allocation algorithms to maximize returns while managing risk.
-2. Predictive Momentum Model: Implement and integrate a predictive momentum model into existing market-making and taking strategies.
-3. Post-Trade Analysis: Develop and implement advanced post-trade analysis tools to evaluate strategy performance and identify areas for improvement.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1. Portfolio Selection and Optimization
-2. Position Sizing
-3. Market Timing
-4. Risk Management
-
-=================================================================================================================================================================================================
-
 👉 PORTFOLIO MANAGER
 
 Investment Banker ===> DEALING LICENSE
@@ -469,6 +456,19 @@ Asset Manager
 #######################################################################################
 🧨🧨🧨 NSE Nairobi Stock Exchange
 🧨🧨🧨 Capital Markets Authority
+
+=================================================================================================================================================================================================
+
+👉 FINANCIAL ENGINEER
+
+1. Real-Time Portfolio Selection and Optimization: Enhance real-time portfolio optimization and capital allocation algorithms to maximize returns while managing risk.
+2. Predictive Momentum Model: Implement and integrate a predictive momentum model into existing market-making and taking strategies.
+3. Post-Trade Analysis: Develop and implement advanced post-trade analysis tools to evaluate strategy performance and identify areas for improvement.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Portfolio Selection and Optimization
+2. Position Sizing
+3. Market Timing
+4. Risk Management
 ```
 
 
