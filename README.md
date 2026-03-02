@@ -715,6 +715,24 @@ Inflation + Economic Growth                       GDP(Gross Domestic Product)
 ![title](static/img/MMFs-Bills-Bonds.png)
 
 
+## Treasury Bonds and Treasury Bills Compounding
+
+```
+1st year Profit Gained -> Interest Rate * Initial Capital invested
+2nd year Profit Gained -> Interest Rate * Initial Capital invested
+3rd year Profit Gained -> Interest Rate * Initial Capital invested
+```
+
+## MMFs Compounding
+
+```
+1st year Profit Gained -> Interest Rate * Initial Capital invested
+2nd year Profit Gained -> Interest Rate * (Initial Capital invested + 1st year Profit Gained on Interest)
+3rd year Profit Gained -> Interest Rate * (Initial Capital invested + 2nd year Profit Gained on Interest)
+```
+
+---
+
 ## Bond Calculation
 
 ```
