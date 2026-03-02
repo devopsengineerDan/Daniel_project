@@ -683,6 +683,11 @@ Inflation + Economic Growth                       GDP(Gross Domestic Product)
 
 ---------------------------------------------------------
 
+# MONEY MARKET FUNDS (MMFs),TREASURY BONDS, TREASURY BILLS
+
+![title](static/img/MMFs-Bills-Bonds.png)
+
+
 ## Bond Calculation
 
 ```
@@ -1886,6 +1891,7 @@ Target 8% yearly return based on initial deposit
 
 
 ```
+Lemfi International payments
 Deel ===> FUND TRANSFERS
 ------------------------------------------------------------------------------------------
 SMB -> Cash Entry -> Foreign Entry ===> SMALL SAVINGS
@@ -1896,6 +1902,7 @@ Stanbic ===> [FARMING + PLOTS] BUSINESSES -> Cars Maintenance ===> HUGE SAVINGS 
 KCB ===> From Stanbic -> Properties Maintenance ===> HUGE SAVINGS 50% 
 ------------------------------------------------------------------------------------------
 Kwetu SACCO ===> PLOT BUSINESSES -> LOANS ===> SMALL SAVINGS
+TUMA MOBILE LOAN APP
 ------------------------------------------------------------------------------------------
 ```
 
