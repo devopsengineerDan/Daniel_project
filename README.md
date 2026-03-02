@@ -683,7 +683,7 @@ Inflation + Economic Growth                       GDP(Gross Domestic Product)
 
 ---------------------------------------------------------
 
-# MONEY MARKET FUNDS (MMFs),TREASURY BONDS, TREASURY BILLS
+# MONEY MARKET FUNDS (MMFs), TREASURY BONDS, TREASURY BILLS
 
 ![title](static/img/MMFs-Bills-Bonds.png)
 
