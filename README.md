@@ -366,7 +366,8 @@ Retail Traders & Hedge Funds
 
 # MARKET MAKER
 > ✅ Produce price forecasts for over 50,000 financial instruments across equities, fixed income, currencies, commodities and cryptocurrency.
-> ✅ Provide efficiency in Financial Markets due to optimum/optimized price forecasts and delivery
+
+> ✅ Provide efficiency in Financial Markets due to optimum/optimized price forecasts and delivery.
 
 
 
