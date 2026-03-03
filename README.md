@@ -370,6 +370,9 @@ Retail Traders & Hedge Funds
 > ✅ Provide efficiency in Financial Markets due to optimum/optimized price forecasts and delivery.
 
 
+# (DMA) DIRECT MARKET ACCESS
+
+> ✅ Direct link between Liquidity Provider and Investor minus Broker
 
 # BROKER
 
@@ -378,7 +381,11 @@ Retail Traders & Hedge Funds
 ✅ CLASS B ===> Exposes Investor to Virtual Market Pro:Insulated from High Risk Volatility Con: Manipulation of Candlestick & Slippage Volatility on Investor Position and StopLoss.
 ```
 
+# (HFT) HIGH FREQUENCY TRADING
 
+```
+> ✅ Algorithm speed is Less than 9 seconds
+```
 
 # SASRA SACCO REGULATOR
 
