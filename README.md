@@ -101,7 +101,7 @@ WEALTH PRESERVATORY MANAGER
 DIVERSIFIED ACCUMULATION MANAGER
 ---------------------------------
 FINANCE AND PORTFOLIO MANAGER
-TRANSACTION COMPLIANCE MANAGER
+TRANSACTION COMPLIANCE MANAGER (Projection Guidelines)
 RISK COMPLIANCE MANAGER
 ---------------------------------
 ASSET MANAGER/REAL-ESTATE MANAGER
@@ -120,7 +120,7 @@ TAX MANAGER
                                   DIVERSIFIED ACCUMULATION MANAGER
                                   ---------------------------------
                                   FINANCE AND PORTFOLIO MANAGER
-                                  TRANSACTION COMPLIANCE MANAGER
+                                  TRANSACTION COMPLIANCE MANAGER (Projection Guidelines)
                                   RISK COMPLIANCE MANAGER 🧨 MUST MAKE BUSINESS SENSE
                                   ---------------------------------
                                   ASSET MANAGER/REAL-ESTATE MANAGER
