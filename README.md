@@ -97,29 +97,34 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 # ROADMAP
 
 ```
-👉 ROADMAP
-
+WEALTH PRESERVATORY MANAGER
+DIVERSIFIED ACCUMULATION MANAGER
+---------------------------------
 FINANCE AND PORTFOLIO MANAGER
 TRANSACTION COMPLIANCE MANAGER
 RISK COMPLIANCE MANAGER
 ---------------------------------
 ASSET MANAGER/REAL-ESTATE MANAGER
-SECRET DATA PROTECTION COMPLIANCE MANAGER
+🧨 SECRET DATA PROTECTION COMPLIANCE MANAGER
 ACCOUNT MANAGER
 TAX MANAGER
 
+
                                   CYBERSECURITY ENGINEER
-                                  👉 [Software Engineer]
+                                  👉 [Software Engineer--Programmer]
                                   🧨 WEBHOOK EVENT-SIGNAL && API ENGINEER
                                   AI/QUANTUM/DATA ENGINEER
                                   DEVOPS SYSTEMS ENGINEER
       ******************************************************************************
+                                  WEALTH PRESERVATORY MANAGER
+                                  DIVERSIFIED ACCUMULATION MANAGER
+                                  ---------------------------------
                                   FINANCE AND PORTFOLIO MANAGER
                                   TRANSACTION COMPLIANCE MANAGER
-                                  RISK COMPLIANCE MANAGER 👉 MUST MAKE BUSINESS SENSE
+                                  RISK COMPLIANCE MANAGER 🧨 MUST MAKE BUSINESS SENSE
                                   ---------------------------------
                                   ASSET MANAGER/REAL-ESTATE MANAGER
-                                  DATA PROTECTION COMPLIANCE MANAGER              
+                                  🧨 DATA PROTECTION COMPLIANCE MANAGER              
                                   ACCOUNT MANAGER
                                   TAX MANAGER 
 ```
