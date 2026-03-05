@@ -102,9 +102,10 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 FINANCE AND PORTFOLIO MANAGER
 RISK AND COMPLIANCE MANAGER
 ---------------------------------
-ASSET MANAGER 
+ASSET MANAGER/REAL-ESTATE MANAGER
+DATA COMPLIANCE
 ACCOUNT MANAGER
-TAX MANAGER 
+TAX MANAGER
 
                                   CYBERSECURITY ENGINEER
                                   👉 [Software Engineer]
@@ -115,7 +116,8 @@ TAX MANAGER
                                   FINANCE AND PORTFOLIO MANAGER
                                   RISK AND COMPLIANCE MANAGER 👉 MUST MAKE BUSINESS SENSE
                                   ---------------------------------
-                                  ASSET MANAGER                    
+                                  ASSET MANAGER/REAL-ESTATE MANAGER
+                                  DATA COMPLIANCE                
                                   ACCOUNT MANAGER
                                   TAX MANAGER 
 ```
