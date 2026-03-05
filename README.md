@@ -100,10 +100,11 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 👉 ROADMAP
 
 FINANCE AND PORTFOLIO MANAGER
-RISK AND COMPLIANCE MANAGER
+TRANSACTION COMPLIANCE MANAGER
+RISK COMPLIANCE MANAGER
 ---------------------------------
 ASSET MANAGER/REAL-ESTATE MANAGER
-DATA COMPLIANCE
+SECRET DATA PROTECTION COMPLIANCE MANAGER
 ACCOUNT MANAGER
 TAX MANAGER
 
@@ -114,10 +115,11 @@ TAX MANAGER
                                   DEVOPS SYSTEMS ENGINEER
       ******************************************************************************
                                   FINANCE AND PORTFOLIO MANAGER
-                                  RISK AND COMPLIANCE MANAGER 👉 MUST MAKE BUSINESS SENSE
+                                  TRANSACTION COMPLIANCE MANAGER
+                                  RISK COMPLIANCE MANAGER 👉 MUST MAKE BUSINESS SENSE
                                   ---------------------------------
                                   ASSET MANAGER/REAL-ESTATE MANAGER
-                                  DATA COMPLIANCE                
+                                  DATA PROTECTION COMPLIANCE MANAGER              
                                   ACCOUNT MANAGER
                                   TAX MANAGER 
 ```
