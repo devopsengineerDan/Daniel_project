@@ -14639,9 +14639,9 @@ FAMILY
 
 # LAND
 
-https://ardhisasa.lands.go.ke/home
-https://landcommission.go.ke/
-https://lands.go.ke/
+- https://ardhisasa.lands.go.ke/home
+- https://landcommission.go.ke/
+- https://lands.go.ke/
 
 
 
@@ -14664,7 +14664,7 @@ Fingr && Spm IN
 
 # FIFA GAME
 
-https://thepiratebay.org/description.php?id=26974137
+- https://thepiratebay.org/description.php?id=26974137
 
 
 NOVIA billing.novia.co.ke/login: fnjm0119  -> 0215
