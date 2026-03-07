@@ -1638,7 +1638,7 @@ Higher Time Frame    Lower Time Frame
 #### INTENTIONAL MOVES MADE BY MARKET MAKERS; FOR MARKET EFFICIENCY
 #### BE CAREFUL AND AWARE OF:
 
-> FAKE-OUTS
+> FAKE-OUT/INDUCEMENT
 
 > BULL TRAP STOP-LOSS HUNT -> RESISTANCE
 
@@ -1714,7 +1714,7 @@ Higher Time Frame    Lower Time Frame
 
 > Reversal ===> RETRACEMENT [WITH BOTH BULLISH AND BEARISH]
 > Pivot/ Institutional Funded Candlestick (IFC) ===> SHARP RETRACEMENT WITH DISPLACEMENT CANDLESTICK
-
+> Inducement/Fake-out
 
 
 
