@@ -92,11 +92,18 @@ Master's  
 
 ===============================================================================================================================================
 
-# 🚀 KNOWLEDGE
-# 🚀 WISDOM
--------------------
-# 🚀 [MANAGEMENT & DEVELOPMENT] & PERFORMANCE 
+
+# 🚀 DISTINGUISHED MANAGING DIRECTOR
+# 🚀 [MANAGEMENT & DEVELOPMENT] & PERFORMANCE OUTCOME/AFTERMATH
 # 🚀 MEASUREMENT | COMPLIANCE | QUALITY
+
+-------------------
+
+# 🚀 KNOWLEDGE
+# 🚀 INTELLIGENCE
+# 🚀 WISDOM
+# 🚀 HARMONIOUS-INTEGRATED
+# 🚀 NATURE
 
 ```
 ✅✅✅ POLITICAL
