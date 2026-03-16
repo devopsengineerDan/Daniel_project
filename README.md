@@ -2047,7 +2047,11 @@ Benefits
 
 ![Distributed-Systems](static/img/OS-Operating-System-and-Distributed-System.jpg)
 
+
 # Types of companies
+
+===> https://www.incnow.com/blog/2025/08/11/what-does-llc-corp-inc-mean/
+
 
 What Does “Incorporation” Mean, Exactly?
 “Incorporation” is the process that many business owners go through to legally separate themselves from their business and protect their personal assets. Incorporating a business means filing documents in a state to turn the business into a legal entity. Most businesses incorporate as either a corporation or a limited liability company (LLC).
