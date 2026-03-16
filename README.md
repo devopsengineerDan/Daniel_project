@@ -2046,3 +2046,165 @@ Benefits
 
 
 ![Distributed-Systems](static/img/OS-Operating-System-and-Distributed-System.jpg)
+
+# Types of companies
+
+What Does “Incorporation” Mean, Exactly?
+“Incorporation” is the process that many business owners go through to legally separate themselves from their business and protect their personal assets. Incorporating a business means filing documents in a state to turn the business into a legal entity. Most businesses incorporate as either a corporation or a limited liability company (LLC).
+
+” Incorporating a business means filing documents in a state to turn the business into a legal entity.”
+
+By incorporating a company, a business takes on a legal life of its own. An incorporated business has its own assets, financial obligations, and legal liabilities.
+
+The owners of an incorporated business receive limited liability protection for their personal assets. Things like cars, homes or personal bank accounts are protected from claims made by the business’s creditors, or any lawsuits against the business.
+
+MORE: Why Incorporate in Delaware?
+
+What Is Limited Liability?
+In business, limited liability means that the owners of a company are not personally responsible for the debts and other liabilities of the business.
+
+If a business owner has limited liability, then a creditor of the business cannot go after the business owner personally to settle claims against the business. With limited liability protection, a business owner can only lose the amount of money that they chose to invest in the business. If the company faces a lawsuit, the business owner is also protected legally.
+
+Limited liability protection benefits business owners operating businesses of all sizes. Whether you run a small storefront or a large real estate company, you need limited liability protection to protect yourself from personal risk.
+
+“Limited liability means that the owners of a company are not personally responsible for the debts and other liabilities of the business.”
+
+Corporations and LLCs are two types of legal business entities that provide limited liability protection for their owners. Limited liability allows business owners to take risks in hopes of growing their business without risking their personal financial health or well being.
+
+What Is a Limited Liability Company ( LLC)
+A “Limited Liability Company” (LLC) is a type of business entity that safeguards its owners (known as “Members”) with liability protection. The state laws where the LLC is registered enforce these protections.
+
+Members of an LLC benefit from liability protection that keeps their personal assets, like homes, secure even if the business faces debt or other financial obligations. Simply put, their risk is limited to the amount they’ve invested in the business.
+
+LLCs are an excellent choice for small business owners looking to grow while preserving personal financial security. However, LLCs are used by a wide range of businesses, from one person consulting firms, to large investment funds.
+
+MORE: What Is an LLC and How Can It Protect My Business
+
+What Is a Corporation?
+A corporation is a type of legal business entity that exists completely separate from its owners, managers and employees.
+
+The owners of a corporation are called “stockholders”. Stockholders typically invest money to help start the business and hold an economic interest in the company.
+
+Most corporations are structured as “general corporations”. A general corporation has a three-tier structure that works like this:
+
+Tier 1.) Stockholders:
+
+A corporation’s stockholders have ownership in the company and often invest money to get the business started. A corporation’s stockholders choose people to be part of the company’s board of directors.
+
+Tier 2.) Directors:
+
+The directors are the captains of a corporation and are in charge of keeping the company on course. Directors are elected by the corporation’s stockholders and are tasked with making major strategic decisions for the business.
+
+A corporation’s board of directors will meet multiple times within a year to vote on specific business decisions and elect the company’s Officers. State incorporation laws require a company’s board of directors to hold one Annual Meeting each year.
+
+“A general corporation has three-tiers: Stockholders, Directors and Officers.”
+
+Tier 3.) Officers:
+
+Officers in a corporation are in charge of running the company’s day-to-day business operations. Officers have titles like “President”, “Treasurer”, or “Secretary”. The corporation’s board of directors are in charge of hiring and firing the officers.
+
+organizational chart for a general corporation with stockholders, directors and officers
+
+What Is Inc.?
+If the name of a business ends with “Inc.”, you know that the company is set up as a corporation. State laws require corporations to include a corporate ending in their business name. The most popular corporate endings include:
+
+Inc. (short for “incorporated”)
+Co. (short for “company”)
+Corp. (short for “corporation”)
+Ltd. (short for “limited”)
+Corporate endings are important because they signal to other businesses and the general public that the owners of a particular business have limited liability.
+
+Is “Inc.” Different From “Corp.”?
+“Inc.” and “Corp.” are both corporate endings and mean the same thing. A corporation can choose to include either “Inc.” or “Corp.” at the end of its name to comply with state laws. It is a matter of preference.
+
+What Is a Close Corporation?
+A “close corporation” is similar to a general corporation, but is not required to have a board of directors. Close corporations are legal business entities that provide limited liability protection for their owners. State laws may limit the number of stockholders that a close corporation can have.
+
+Family businesses have historically been the primary users of close corporations, which are not as popular as general corporations.
+
+What is an S-Corp?
+An S-Corporation (S-Corp) is a federal tax election. It is a pass-through that automatically flows through all profits and losses to its owners every calendar year. Each general corporation starts by default as being taxed as a C-Corporation (C-Corp). Within 75 days of incorporation or within 75 days of subsequent calendar years, a corporation may make the S-election on IRS Form 2553. In fact, even an LLC can make an S-Corp tax election. Instead of the C-Corp with a second layer of corporation income tax, the profits and losses are passed through directly to the shareholders’ personal tax returns on Schedule K-1.
+
+Aside from avoiding double taxation of a C-Corp, the S-Corp tax election also allows income to be split 50/50 between salary (subject to self-employment FICA taxes) and S-Dividend (not subject to self-employment FICA taxes). Therefore, an S-election can lower the effective tax rate. Compared to either a C-Corp of an LLC taxed as a sole proprietorship or partnership. An LLC can also file IRS Form 2553 election to be taxed like an S-Corp on Form 1120-S Tax Return.
+
+What is a C-Corp?
+A C-Corp is a reference to how a general corporation is taxed by default. C-Corp is not a reference to a state law entity. Some corporations may prefer to have their corporation taxed as a C-Corp due to some advantages of C-Corps and limitations on S-Corps. Some C-Corp advantages include the ability to accumulate net operating losses within the corporation to offset profits in future years. This may be an advantage when a business has more losses than its owners can use personally to offset other profits. The C-Corp can elect a fiscal year different from the calendar year.
+
+Many corporations also are not eligible for the S-Corp election, which requires all owners to be U.S. citizens, with a cap on the maximum number of shareholders. Plus the S-Corp requires only one class of owners. LLCs can also file IRS Form 8832 electing to be taxed like a C-Corp on Form 1120 Tax Return.
+
+What Is a Delaware Public Benefit Corporation?
+Some states, like Delaware, allow businesses to form a Public Benefit Corporation (PBC). A Delaware Public Benefit Corporation is like a general corporation that has a bigger purpose than just maximizing profits. By incorporating as a Delaware Public Benefit Corporation, a business can hold itself accountable for practicing social-responsibility and helping its surrounding communities.
+
+The board of directors in a Delaware Public Benefit Corporation is responsible for advancing the company’s stated public benefit interest when making business decisions. In Delaware, a Public Benefit Corporation must state its public benefit purpose in the company’s publicly filed incorporation document.
+
+“A Delaware Public Benefit Corporation is like a general corporation that has a bigger purpose than just maximizing profits.”
+
+The board of directors of a Delaware Public Benefit Corporation is required to provide the company’s stockholders with a statement of the company’s progress towards its stated public benefit goals. The Delaware law requires the board of directors to make the public benefit statement at least every two years.
+
+What Is a Non-Profit Corporation?
+People often use “Non-profit corporation” to refer to an organization with 501(c)(3) tax exempt status from the IRS. These organizations typically include public charities or private foundations.
+
+501(c)(3) tax exempt organizations can accept donations that are tax deductible to their donors. Non-profit organizations with 501(c)(3) status are often incorporated as “non-stock corporations”. Like the name suggests, a non-stock corporation is a type of corporation that does not have any stockholders.
+
+The owners in a non-stock corporation cannot benefit economically from the company’s activities. This aspect of non-stock corporations is what allows these types of companies to qualify for 501(c)(3) tax exempt status.
+
+Types of Partnerships: GPs, LPS, LLPs and LLLPs
+Some businesses operate as partnerships. Here is a breakdown of the different types of partnerships.
+
+What Is a General Partnership (GP)?
+A general partnership (GP) describes two or more individuals that agree to share responsibilities and profits in a business. Starting a general partnership does not require submitting any paperwork. Once a pair of partners start running a business together, they are in a general partnership.
+
+A general partnership does not provide limited liability protection for anyone involved in the business. Each partner is jointly and separately responsible for all of the partners’ actions.
+
+What Is a Limited Partnership (LP)? 
+A limited partnership (LP) is made up of two parts:
+
+The active managers, called “general partners”; and,
+Passive investors, called “limited partners”.
+The general partner in a limited partnership does not have any personal liability protection and is completely responsible for running. The limited partners have limited liability and can only lose the money that they invest in the business.
+
+Private equity or venture capital firms often use limited partnerships. In these business structures, the limited partners are individuals or institutional investors that provide the firm with capital. The private equity or venture capital firm serves as the general partner and actively manages the investments into companies.
+
+Limited partnerships can help people make investments without taking on too much personal risk. At the same time, it allows other people (the general partner) to run the business without having to put in all of the capital.
+
+What Is a Limited Liability Partnership (LLP)?
+Professionals like lawyers, doctors, and accountants typically use limited liability partnerships (LLP). In an LLP, the law protects business partners from the actions of one another. However, an LLP does not protect you from your own negligence.
+
+What Is a Limited Liability Limited Partnership (LLLP)?
+A limited liability limited partnership (LLLP) provides limited liability to all the partners. LLLPs are similar to LLCs, but more complicated to set-up and operate. Limited liability limited partnerships are not popular and not many states recognize them.
+
+LLC Types and Management Structures
+Some states allow businesses to form different types of LLCs that provide unique benefits. There are also multiple ways that an LLC can be structured.
+
+What Is a Series LLC?
+Some states, including Delaware, allow business owners to form a Series LLC. A Delaware Series LLC allows business owners to operate multiple business lines and protect assets across businesses all under one umbrella.
+
+A Delaware Series LLC is able to create an unlimited number of separate business units, called “protected series”. Each protected series provides limited liability protection for its owners, and protected series have protection from one another.
+
+Delaware Series LLCs allow entrepreneurs to benefit from the protections of forming multiple LLCs with less hassle and less filing fees.
+
+MORE: Grow Your Business With a Series LLC
+
+ What Is a Single-Member LLC?
+A “Single-Member LLC” is an LLC with just one owner. The structure of a Single-Member LLC is generally the same as an LLC with multiple members, or a “Multi-Member LLC”. In a Single-Member LLC, the sole member is often also the manager of the company.
+
+A Multi-Member LLC may choose only one of the members to be the manager, or hire a third-party manager who does not have any ownership in the company.
+
+What Is a Member-Managed LLC?
+In a Member-Managed LLC, the LLC members wear two hats. Not only do they own part of the LLC, but they also handle the day-to-day operations of the business.
+
+What Is a Manager-Managed LLC?
+In a Manager-Managed LLC, the LLC members hire a manager to handle the everyday tasks of the business. The manager is typically a skilled professional. The LLC Operating Agreement should make it clear what the manager is allowed to do and what rights the LLC members still have in the company.
+
+MORE: How to Structure an LLC: Member-Managed vs. Manager-Managed
+
+What Is a Statutory Trust?
+You might have heard about “Statutory Trusts,” which used to be called “Business Trusts.” Statutory Trusts work a lot like regular trusts with people who give benefits (beneficiaries) and people who manage the trust (trustees). These trusts are flexible and follow a Trust Agreement. But, they might not be the best choice for most businesses because they need a Trustee who is based in Delaware.
+
+What Is a Holding Company?
+A Holding Company is a ‘parent company’ that owns one or more daughter companies which are wholly-owned subsidiaries. The parent company is not often involved in daily operations of the subsidiaries. A big benefit of using a holding company is adding a second layer of asset protection, one step removed from business operations. Parent companies held by multiple people can also simplify tax filings, because the single member LLC subsidiaries are disregarded entities for tax purposes, where profits and losses all flow-up to the Holding Company partnership consolidated tax return.
+
+What Is a Registered Agent?
+A Registered Agent’s primary purpose is to receive service of process lawsuits on behalf of your company. The Registered Agent then must forward that notice to their communication contact person on a timely basis. The Registered Agent is a physical (not virtual) office open during business hours where a sheriff or private process server can deliver legal notices located in the state of incorporation. For a company that also files Certificates of Authority to do business in other states, that company must also have a Registered Agent in each additional state where it is qualified to do business. Having a Registered Agent is a legal requirement of each state. If you live in the business’ home state, you can act as your own Registered Agent, otherwise business owners appoint a Registered Agent such as IncNow.
+
+Registered Agents often offer additional corporate services that help you maintain your business and its good standing with the state.
