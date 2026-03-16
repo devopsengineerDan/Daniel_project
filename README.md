@@ -501,6 +501,13 @@ Asset Manager
  FINANCIAL MODELLING && DATA ANALYTICS && ENGINEERING && SCIENCE
 ```
 
+![title](static/img/IMG_1797_0316_144223_094_97.jpg)
+
+---
+
+# ❌ SMART MONEY CONCEPT -> ORDER BLOCK
+# ❌ PRICE ACTION BASED ON MARKET STRUCTURE -> RANDOM
+# ❌ GOLD/USD INSTITUTION -> DEFIANT
 
 # INTELLIGENCE AND AWARENESS
 
@@ -516,11 +523,11 @@ Long-term ===> Acceptable Profit
 Mid-term  ===> Acceptable Profit
 Short-term  ===> Acceptable Profit
 -------------------------------------------
-===> DO NOT BE TOO EXCEPTIONAL/EXCELLENT--BE NEUTRAL/AVERAGE/BALANCED --- Be Harmonious, Integrated, Industry
-===> DO NOT BE A PSYCHOPATH
+✅ ===> DO NOT BE TOO EXCEPTIONAL/EXCELLENT--BE NEUTRAL/AVERAGE/BALANCED --- Be Harmonious, Integrated, Industry
+✅ ===> DO NOT BE A PSYCHOPATH
 [Make Trade that you can explain] ===> STRATEGY, ENTRY, PLAYBOOK
 [PUBLIC KNOWLEDGE: MARKET IS RANDOM: HENCE YOU ONLY ANTICIPATE]
-===> Allow Minimum Loss
+✅ ===> ALLOW MINIMUM LOSS
 
 ================================================================================
 
