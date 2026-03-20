@@ -3523,16 +3523,17 @@ QuantConnect ---> dancunmanyinsait@gmail.com
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 PEPPERSTONE ---> eagleoverflow@gmail.com
 Wallet#1 -> Johnson1*@#!33A
-Professional Trader -> Royal^&*99GRAnd
+Professional  -> Royal^&*99GRAnd
+Standard DEMO -> Standard#12345
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 EXNESS ---> quantumaiquant@gmail.com
 WEB -> ALPHA1one@987#
 PN -> 979891
 
-Pro Trader ACC -> Quant*@987#
-Pro DEMO -> Pro#1Trader
+Pro   -> QuantRoyal^&*@987#
+Pro DEMO -> Standard#12345
 
-Standard Trader ACC -> Python*@#97
+Standard   -> Python*@#97
 Standard DEMO -> Standard#1
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 FBS ---> quantumaiquant@gmail.com
