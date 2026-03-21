@@ -3521,7 +3521,7 @@ CodeWars && LeetCode && AlgoExpert -> GITHUB
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 QuantConnect ---> dancunmanyinsait@gmail.com 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-PEPPERSTONE ---> eagleoverflow@gmail.com
+PEPPERSTONE_SECURE_CLIENT ---> eagleoverflow@gmail.com
 Wallet#1 -> Johnson1*@#!33A
 Professional  -> Royal^&*99GRAnd
 Standard DEMO -> Standard#12345
