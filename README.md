@@ -139,7 +139,6 @@ TAX MANAGER
 ![title](static/img/professional_path.jpg)
 ![title](static/img/BRUTAL_CAPITALIST.jpg)
 ![title](static/img/BRUTAL_CAPITALISM.jpg)
-![title](static/img/best-investments.png)
 
 ```
 ✅ KING(WEALTH&&LIFE) / DISTRIBUTED SYSTEM
@@ -751,7 +750,7 @@ Inflation + Economic Growth                       GDP(Gross Domestic Product)
 # MONEY MARKET FUNDS (MMFs), TREASURY BONDS, TREASURY BILLS
 
 ![title](static/img/MMFs-Bills-Bonds.png)
-
+![title](static/img/best-investments.png)
 
 ## Treasury Bonds and Treasury Bills Compounding
 
