@@ -147,6 +147,11 @@ TAX MANAGER
                                      ✅ KNIGHT
                                            ✅ ROOK
                                            ✅ PAWN
+
+✅ KNOW THE RULES OF THE GAME
+1. CASTLING && EN-PASSANT
+2. CHECK, CHECK-MATE, AVAILABLE VALID MOVE THAT WILL LEAD TO CAPTURE/MESS
+3. STALE, STALE-MATE, NO AVAILABLE VALID MOVE THAT WILL LEAD TO CAPTURE/MESS
 ```
 
 
