@@ -101,6 +101,14 @@ Master's  
 ### 🚀 Management in ===> Security, (33 & Adapt Accordingly), Frame, Ridiculous, Fast, Security
 
 -------------------
+ 
+### Doesn't matter where in the world I am.
+### Truth in all its brilliance.
+### The world is round, you have the corners.
+### Nothing is random.
+### You cannot cheat the grind.
+
+-------------------
 
 # 🚀 KNOWLEDGE
 # 🚀 INTELLIGENCE
