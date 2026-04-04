@@ -2057,18 +2057,23 @@ Benefits
     Continuous learning and development opportunities
     Flexible work arrangements
 
-	
-![Computer-Science-Math](static/img/CS-Math-Cheat-Sheet.pdf)
+----
+
+### Wealth/Asset Management
+### Portfolio/Fund Management -> Tradium Investments Services Limited
+### Investment Bank && Brokerage Company -> Kestrel Capital
 
 ----
 
+![Computer-Science-Math](static/img/CS-Math-Cheat-Sheet.pdf)
+
 ![Asset-Management-Python-for-Finance](static/img/Asset-Management-Python-for-Finance.pdf)
 
+![Stock-Indices-Selection-Research](https://github.com/devopsengineerDan/firstproject)
 
 ![Quant-Algorithmic-Trading-Formula-Sheet](static/img/Quant-Algorithmic-Trading-Formula-Sheet.png)
 
 ![Quant-Math](static/img/Quant-Math.png)
-
 
 ![Distributed-Systems](static/img/OS-Operating-System-and-Distributed-System.jpg)
 
