@@ -2060,9 +2060,9 @@ Benefits
 
 ----
 
-### Wealth/Asset Management - Accounting
-### Insurance
-### Investment Bank -> Portfolio/Fund Management -> Tradium Investments Services Limited
+### Wealth/Asset Management -> Accounting--Numbers
+### Insurance -> Security--Guard--Fear
+### Investment Bank -> Portfolio/Fund Management -> Tradiam Investments Services Limited
 ### Brokerage Company -> Kestrel Capital
 ### Hedge Fund
 ### Properties && Minerals
