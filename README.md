@@ -1903,6 +1903,7 @@ INVESTMENT COMPANY ---> BINANCE *** CRYPTOCURRENCY PLATFORM PAYS TAXES 👉 If Y
 -> Individual 
 -> Corporate 
 -> Money Manager https://tradesense.co.ke/
+-> CIS Collective Investment Scheme for Fund Management Companies
 ----------------------------------------------------
 -> 3 Professional Certs
 (CISI) Chartered Institute for Securities and Investment
