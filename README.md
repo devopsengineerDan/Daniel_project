@@ -1899,6 +1899,11 @@ INVESTMENT COMPANY ---> BINANCE *** CRYPTOCURRENCY PLATFORM PAYS TAXES 👉 If Y
 ```
 👉 Individual License
 👉 Corporate License
+👉 Investment Advisory
+👉===> No Objection Letter
+👉===> Affiliate Broker
+👉 ISP(Intermediary Service Provider)
+👉 Broker
 ----------------------------------------------------
 -> ICIFA Member + Certification 
 -> Individual 
