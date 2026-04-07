@@ -2003,8 +2003,8 @@ TUMA MOBILE LOAN APP
 
 
 # QUANT TRADER [ENGINEER && RESEARCHER] PROFESSIONAL
-### XTX -> market maker
-### Banks -> liquidity provider
+### XTX -> Market maker
+### Banks -> Liquidity provider
 ### Broker
 ### Henriot (HFT Hedge Fund) -> stock, derivatives, commodities, currencies
 ### K-bit (HFT Hedge Fund) -> cryptocurrency
