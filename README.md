@@ -418,7 +418,13 @@ Retail Traders & Hedge Funds
 > ✅ Algorithm speed is Less than 9 seconds
 ```
 
-# SASRA SACCO REGULATOR
+---
+
+# (SACCO) CREDIT UNION
+# REGISTER -> COMMISSION OF CO-OPERATIVES
+# REGULATE -> (SASRA) SACCO SOCIETIES REGULATORY AUTHORITY
+# ---> STABILIZATION/LIQUIDITY FUND - Cover Stress on struggling saccos and thriving saccos put their excess money.
+# ---> DEPOSIT FUND - Cover Default
 
 ```
 1. Data Protection
@@ -467,6 +473,7 @@ Retail Traders & Hedge Funds
 5-> Growth Potential: Demonstrate the growth potential of your business and explain how you plan to capitalize on opportunities in the market to outperform competitors. 
 ```
 
+---
 
 # PROFESSIONALS
 
