@@ -519,7 +519,7 @@ Asset Manager
 ![title](static/img/IMG_1797_0316_144223_094_97.jpg)
 ### GOLD 4<->30 AVOID JAN
 
-# ✅ SILENCE
+# ✅ SILENCE (STRATEGY, TACTICS, PLAN)
 # ✅ INSTITUTION -> MARKET MAKERS, LIQUIDITY PROVIDERS, MARKET MOVERS/SHAKERS, ECONOMIC FUNDAMENTALS
 # ✅ VOLUME && BIAS STRATEGIES
 # ✅ DOUBLE-DOWN
@@ -529,6 +529,13 @@ Asset Manager
 # ❌ SMART MONEY CONCEPT -> ORDER BLOCK
 # ❌ PRICE ACTION BASED ON MARKET STRUCTURE -> RANDOM
 # ❌ GOLD/USD INSTITUTION -> DEFIANT
+
+---
+
+# 🧨🧨🧨 AOO Area Of Operation (Positive && Negative Selection Portfolio)
+# 👉 Call Account rather than Savings Account
+# 👉 Check off your Account to confirm Investment Opportunities Transactions have completed
+
 
 # KNOWLEDGE && INTELLIGENCE; THEN AWARENESS
 
@@ -2066,10 +2073,10 @@ Benefits
 
 ----
 
-### Wealth/Asset Management -> Accounting--Numbers
-### Insurance -> Security--Guard--Fear
-### Investment Bank -> Portfolio/Fund Management -> Tradiam Investments Services Limited
-### Brokerage Company -> Kestrel Capital
+### Wealth/Asset Management ==> Accounting--Numbers
+### Insurance ==> Security--Guard--Fear
+### Investment Bank ==> Portfolio/Fund Management -> Tradiam Investments Services Limited
+### Brokerage Company ==> Kestrel Capital
 ### Hedge Fund
 ### Properties && Minerals
 
