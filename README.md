@@ -2093,7 +2093,7 @@ Benefits
 
 ![Asset-Management-Python-for-Finance](static/img/Asset-Management-Python-for-Finance.pdf)
 
-![Stock-Indices-Selection-Research](https://devopsengineerdan.github.io/firstproject/Methodology_Portfolio_Management)
+![Stock-Indices-Selection-Research](https://devopsengineerdan.github.io/firstproject/Methodology%20_%20Portfolio_Management.html)
 
 ![Quant-Algorithmic-Trading-Formula-Sheet](static/img/Quant-Algorithmic-Trading-Formula-Sheet.png)
 
