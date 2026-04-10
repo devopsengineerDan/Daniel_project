@@ -3,9 +3,10 @@
 - 👉 Veterinary relationship ---> To facilitate transfer letter of cattle from one region to another.
   
 ---
+
 # ANIMAL FEED
 ### Improve Quality of Meat
-- 👉 Fattening and Finishing(Improving quality and marbling,tenderness,juiciness of meat)
+- 👉 Fattening and Finishing (Improving quality and marbling,tenderness,juiciness of meat)
 -
 
 ---
