@@ -93,9 +93,9 @@ Master's  
 ===============================================================================================================================================
 
 
-# 🚀 DISTINGUISHED MANAGING DIRECTOR
-# 🚀 [MANAGEMENT & OPERATIONS & DEVELOPMENT] & PERFORMANCE OUTCOME/AFTERMATH
-# 🚀 MEASUREMENT | COMPLIANCE | QUALITY
+### 🚀 DISTINGUISHED MANAGING DIRECTOR
+### 🚀 [MANAGEMENT & OPERATIONS & DEVELOPMENT] & PERFORMANCE OUTCOME/AFTERMATH
+### 🚀 MEASUREMENT | COMPLIANCE | QUALITY
 
 ### 🚀 Right-Forward Direction(Improvement & Change), Accurate, Sound-Informed Decision
 ### 🚀 Management in ===> Security, (33 & Adapt Accordingly), Frame, Ridiculous, Fast, Security
@@ -110,11 +110,12 @@ Master's  
 
 -------------------
 
-# 🚀 KNOWLEDGE
-# 🚀 INTELLIGENCE
-# 🚀 WISDOM
-# 🚀 HARMONIOUS-INTEGRATED
-# 🚀 NATURE
+### 🚀 KNOWLEDGE    ---> KNOW
+### 🚀 INTELLIGENCE
+### 🚀 THEN AWARENESS
+### 🚀 WISDOM  ---> HARMONY--FEEBLE
+### 🚀 HARMONIOUS-INTEGRATED ---> CONNECT THE DOTS--SENSUAL
+### 🚀 NATURE  ---> COMPETITIVE--SELFISH
 
 ```
 ✅✅✅ POLITICAL
