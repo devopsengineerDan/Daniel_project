@@ -11,7 +11,7 @@
 
 # SOFTWARE
 ### BANKING AND TRADING SOFTWARE ===> https://www.stt-software.com/solutions/exchange-solutions
-
+### BEST PRACTICES ===> https://devopsengineerdan.github.io/firstproject/SACCO_Management_Software
 - BANKS Regulator -> CBK 
 - SACCOS Regulator -> SASRA
 
