@@ -9,6 +9,7 @@
 - 👉 Fattening and Finishing (Improving quality and marbling,tenderness,juiciness of meat)
 - Gatsby Africa ===> Livestock Finishing and Fattening Enterprises 
 - 50% - Roughage ---> Hay
+- 3% -5% of Cattle Body Weight  ---> Total Feed
   
 # RATIO
 - 25% - Green Mix ---> Maize, Rice Polish, Sunflower for Proteins, Soya
