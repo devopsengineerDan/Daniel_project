@@ -2082,11 +2082,11 @@ Benefits
 
 ### Wealth/Asset Management ==> Accounting--Numbers
 ### Insurance ==> Security--Guard--Fear
-### Investment Bank ==> Portfolio/Fund Management -> Tradiam Investments Services Limited
+### Investment Bank ==> Portfolio/Fund Management -> Tradiam Investments Services Limited --Eric Ruenji
 ### Brokerage Company ==> Kestrel Capital
 ### Hedge Fund
 ### Properties && Minerals
-
+ 
 ----
 
 ![Computer-Science-Math](static/img/CS-Math-Cheat-Sheet.pdf)
