@@ -1,5 +1,12 @@
 # CONSULTANCY
-- A retainer in business is a pricing model where a client pays a recurring fee for ongoing access to a service provider's expertise or time. 
+- A retainer in business is a pricing model where a client pays a recurring fee for ongoing access to a service provider's expertise or time.
+  
+---
+
+# WEALTH, ASSET, FUND MANAGEMENT--ACCOUNTING
+# VENTURE CAPITALIST--PRIVATE CAPITAL && PRIVATE EQUITY
+# FINANCE, MARKETING, TAX ACCOUNTING MANAGEMENT
+===> https://devopsengineerdan.github.io/firstproject/Finance_Accounting_Management
 
 ---
 
