@@ -2081,6 +2081,9 @@ Benefits
 ----
 
 ### Wealth/Asset Management ==> Accounting--Numbers
+### Finance, Marketing && Tax Management ==> Accounting--Numbers
+---
+
 ### Insurance ==> Security--Guard--Fear
 ### Investment Bank ==> Portfolio/Fund Management -> Tradiam Investments Services Limited--Eric Ruenji
 ### Brokerage Company ==> Kestrel Capital
