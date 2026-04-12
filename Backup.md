@@ -97,6 +97,10 @@ Master's  
 ### 🚀 [MANAGEMENT & OPERATIONS & DEVELOPMENT] & PERFORMANCE OUTCOME/AFTERMATH
 ### 🚀 MEASUREMENT | COMPLIANCE | QUALITY
 ### 🚀 BUDGET | LIFESTYLE | LOAN
+---
+### 🚀 LOAN ---> NEVER SIGN PERSONAL GUARANTEE
+### 🚀 TAX  ---> NEVER SIGN
+---
 
 ### 🚀 Right-Forward Direction(Improvement & Change), Accurate, Sound-Informed Decision
 ### 🚀 Management in ===> Security, (33 & Adapt Accordingly), Frame, Ridiculous, Fast, Security
