@@ -13911,7 +13911,11 @@ GO SLOW -> Pedestrian-crossing + Bumps, Bridge, Parking
 
 ```
 👉 Tourbillon WATCH      👉 Japanese Kei off-road truck 4x4   👉 Facebook: mercelsha muqpal
+👉 PHONES:
+Unihertz Titan 2 Elite -- Sony Xpria 1 Latest Model, Samsung S24 Ultra, Iphone Air -- Google Pixel-- One Plus, Samsung Z Fold -- Huawei Mate XT TriFold,Iphone ipad pro
 --------------------------------------------------------------------------------------------
+👉 LAPTOPS:
+Razor--Mac Book--Dell XPS--X1 Carbon Thinkpad,ASUS GAMING LAPTOP--HP omnibook
 👉 Dell xps 13" 9310 i7 11th gen && BEST  15" 9530
 👉 x1 carbon 13" i7 11th gen && x1 carbon 14" i7 11th gen 👉 x1 carbon 13" i7 9th gen && x1 carbon 14" i7 9th gen 👉 x1 carbon 13" i7 8th gen && x1 carbon 14" i7 8th gen
 --------------------------------------------------------------------------------------------
@@ -13926,7 +13930,8 @@ GO SLOW -> Pedestrian-crossing + Bumps, Bridge, Parking
 3 usbC-nvme stick
 4 Portable mifi
 5 Power-bank
-6 👉 2 ELECTRONIC PROJECTS + [TV Guard] + {Electric cable connection + Tester Screw driver} && TOOLS
+6 Screw Box
+7 👉 2 ELECTRONIC PROJECTS + [TV Guard] + {Electric cable connection + Tester Screw driver} && TOOLS
                                                   {
                                                   Fan Blower + Tool box + Carbon Fiber Electrostatic Discharge Anti-Static ESD Gloves - Polyurethane Palm Coated 
                                                   Voltage Tester + Solder Tool
@@ -14454,213 +14459,8 @@ AFTER getting 2ND CERT = REST.
 
 ##############################################################################################################################################################################################################################################
 
-
-
-===============================================================================================    
-
-30M => 10M[2Bedroom @ 10M] * 1[HOUSE] + 20M[2Bedroom @ 8/9M EACH] * 2[HOUSES] ===> SPACIOUS HOUSE + PREMIUM WELL-ESTABLISHED AREA ===> EXTRA HIGH-END
-   
-   
-    => 4M/2M BALANCE
-    => Week=75K Month=300K 12%=Year=3.6M 9Years=32,400,000 + 300,000 BONUS
-    
-    
-    MALINDI => [BLUFF NGO OWNERSHIP] ===> CONCRETE-WIRE FENCE + TREE PLANTING + FARMING(1Manager and 1Dweller)
-    1=> 1M 25 HECTARES => MINE FOREX ----> MALINDI HIGH-END RENTAL RESIDENTIAL APARTMENTS
-    2=> 1M 25 HECTARES => DAD and Refund After a Year 100K Per Month FROM DAD'S BUSKET ----> MALINDI HIGH-END RENTAL RESIDENTIAL APARTMENTS
-    
-    
-    MALINDI => [BLUFF NGO OWNERSHIP] ===> CONCRETE-WIRE FENCE + TREE PLANTING + FARMING(1Manager and 2Dwellers)
-    => 4M/2M BALANCE =>  4M 100 HECTARES => 4M BALANCE
-    1=> 2M --> 50 HECTARES =>  HIGH-END HOTEL RESORT + GOLF COURSE
-    2=> 2M --> 50 HECTARES => 25 HECTARES ----> MALINDI HIGH-END RENTAL RESIDENTIAL APARTMENTS                    => 25 HECTARES ----> MALINDI HIGH-END RENTAL RESIDENTIAL APARTMENTS
-    
-===============================================================================================   
-PROFOUND WISDOM
-30M --> 8M,8M  7M,7M   👉👉👉 ===> 8M[1.Brookside, 2. ***WAIT***Upperhill, 3. ***WAIT***Nyari OR Enaki !!!!!! PLACE NOT KILELESHWA,] 7M[1. Garden City, 2. Junction Mall, 3. Muthaiga]
---------------------
-👉15M --> 8M     7M 
-👉10M
-1M  --> ZOLLY FEE
-1M  --> ZOLLY + MOM 2YRS RENT + 15K 2YRS UPKEEP
- 1=> 1M 25 HECTARES 
- 2=> 1M 25 HECTARES 
- 3=> 4M 100 HECTARES
-1M --> HOUSE UTILITY BACKUP
-1M --> FENCE
-
-""""""""""""
-1M --> DAD'S LOAN 50K PER MONTH
-3M --> 1 BEDROOM OFFICE --> RENT THE PREMISE
-1M --> 500K SCHOOL / 500K SECURITY
-"""""""""""""
-👉👉👉 TOTAL => 5M  FOREX COMMITMENT
-    👉  4M 4 LANDS DOWN HERE.....
-    👉  1M FENCE
-===============================================================================================    
-
-
-30M => 10M[2Bedroom @ 10M] * 1[HOUSE] ===> SPACIOUS HOUSE + PREMIUM WELL-ESTABLISHED AREA ===> EXTRA HIGH-END => BACKUP @@@ TOP CREAM
-    => 15M [2Bedroom @ 5M EACH] * 3[HOUSES] ===> SPACIOUS HOUSE + PREMIUM WELL-ESTABLISHED AREA ===> HIGH-END
-    => 4M [4 _Seperate Lands_ REMOTE LARGE pieces of lands @ 1M EACH] * 4[MASSIVE LANDS]  ===> CONCRETE-WIRE FENCE + TREE PLANTING + FARMING(1Manager and 4Dwellers)
-       
-    => 1M BALANCE OF SECOND DEAL1[SWANAPOLE DAD LAND NAIVASHA @ 1M] * 1[MASSIVE LAND]  ===> CONCRETE-WIRE FENCE + TREE PLANTING + FARMING(1Manager and 1Dweller) + CONTINUOUS BASKET FILLING
-   
-    => Week=75K Month=300K 12%=Year=3.6M 9Years=32,400,000 + 300,000 BONUS
-
------------------------------------------------------------------------------------------------
-
-30M => 10M[2Bedroom @ 10M]  * 1[HOUSE] ===> SPACIOUS HOUSE + PREMIUM WELL-ESTABLISHED AREA ===> EXTRA HIGH-END => 33 ENGINEER @@@ TOP CREAM  
-    => 1M[ZOLLY {COMPLETE SCHOOL FEES}]
-    => 1M SUPPORT OF [ZOLLY + BERRETTA {HOUSE RENT 2 YEARS + 2 YEARS LIVELIHOOD}] 
-    *******=> GOAL *******===> (ZOLLY + MOM) UNTIL SCHOOL ENDS, NEED ZOLLY EXPERTISE(ACCOUNTING, TAX, ASSET MANAGEMENT----> International Certification in the 3)
-    => 1M[HEALTH COVER + INSURANCE COVER ZOLLY + MOM]
-    -----> TOTAL 3M
-    -----> BALLANCE 10M-3M=7M / 10M-2M=8M
-    
-    => 10M BALANCE OF SECOND DEAL2 -----> => 17M/18M [2 Seperate REMOTE VERY LARGE **THE BIGGEST***pieces of lands @ ***RANCH*** 17M/18M] * 1[RANCH LAND]  ===> CONCRETE-WIRE FENCE + TREE PLANTING + FARMING(1Manager and 3Dwellers)
-    => Week=75K Month=300K 12%=Year=3.6M 9Years=32,400,000 + 300,000 BONUS 
-        
------------------------------------------------------------------------------------------------
-
-30M => 10M[2Bedroom @ 10M]  * 1[HOUSE] ===> SPACIOUS HOUSE + PREMIUM WELL-ESTABLISHED AREA ===> EXTRA HIGH-END => SOFTWARE ENGINEER @@@ TOP CREAM
-    => 10M [2 Seperate REMOTE VERY LARGE pieces of lands @ ***RANCH*** 5M EACH] * 2[RANCH LANDS]  ===> CONCRETE-WIRE FENCE + TREE PLANTING + FARMING(1Manager and 2Dweller)
-   
-   
-    => 10M BALANCE OF SECOND DEAL3 -----> => 10M [2 Seperate REMOTE VERY LARGE pieces of lands @ ***RANCH*** 5M EACH] * 2[RANCH LANDS]  ===> CONCRETE-WIRE FENCE + TREE PLANTING + FARMING(1Manager and 2Dweller)
-    => Week=75K Month=300K 12%=Year=3.6M 9Years=32,400,000 + 300,000 BONUS 
-    
------------------------------------------------------------------------------------------------
- 
-30M => 10M[2Bedroom @ 10M]  * 1[HOUSE] ===> SPACIOUS HOUSE + PREMIUM WELL-ESTABLISHED AREA ===> EXTRA HIGH-END => SECURITY ENGINEER @@@ TOP CREAM
- 
- 
-    => 20M BALANCE OF SECOND DEAL4
-    => Week=75K Month=300K 12%=Year=3.6M 9Years=32,400,000 + 300,000 BONUS
-    
------------------------------------------------------------------------------------------------
- 
-30M => 10M[2Bedroom @ 10M]  * 1[HOUSE] ===> SPACIOUS HOUSE + PREMIUM WELL-ESTABLISHED AREA ===> EXTRA HIGH-END => ALPHA AND OMEGA ENGINEER @@@ TOP CREAM
- 
- 
-    => 20M BALANCE OF SECOND DEAL5[10M{GROUND-WORK + MISCELLENEOUS} + 10M{RESORT GET-AWAY + CLASSROOMS SECTION}]
-    => Week=75K Month=300K 12%=Year=3.6M 9Years=32,400,000 + 300,000 BONUS
-    
-    
-===============================================================================================    
-
-2M => 2M[1Bedroom @ 2M] * 1[HOUSE] ===> SPACIOUS HOUSE + PREMIUM WELL-ESTABLISHED AREA => EXTRA HIGH-END
-   => Week=5K Month=20K 12%=Year=240K 9Years=2,160,000 + 20,000 BONUS
-
-===============================================================================================  
-2 HOUSES
-1ST HOUSE => CONTINUOUS BASKET FILLING + MARKET SHOCK ABSORBER
-
-2ND HOUSE => DAD 1M LOAN 
-          => DAD GOES --> CUT COST OF HOUSE ZOLLY MOM + BERRETTA POULTRY BUSINESS
-          => CONTINUOUS BASKET FILLING + MARKET SHOCK ABSORBER
-===============================================================================================
- 
- 
-*****************************************************************************************************************************************
- 
-BACKUP LIFE BASKET => ***USED**1M BALANCE OF SECOND DEAL1* + ***USED**17/18M BALANCE OF SECOND DEAL2* + ***USED**10M BALANCE OF SECOND DEAL3* + 20M BALANCE OF SECOND DEAL4 + ***USED**20M BALANCE OF SECOND DEAL5* 
-                   => FOREX CONTINUOUS INCOME
-                   
-RENT BASKET => 120K => 1YEAR RENT=2025
-            => 120K => 1YEAR=2026
-            => 120K => 1YEAR RENT[1EXTRA]=2027
-            
-LIVELIHOOD BASKET => 120K + 120K
-MEDICAL COVER => 120K
-DAD LOAN => HOME UTILITY SECURITY  -------------------------> 50k per month 1yr 8mths
-DAD 
-=> INVESTMENT => LOAN PAY PER MONTH
-=> RELATIONSHIP => PER MONTH
-=> MEDICAL COVER => PER MONTH
-=> MISCELLENEOUS => PER MONTH
-
-WIVES => PER MONTH    -------------------------------------->  10k per month 2yrs 6 mths
-=> INVESTMENT => PER MONTH
-=> RELATIONSHIP => PER MONTH
-=> MEDICAL COVER => PER MONTH
-=> MISCELLENEOUS => PER MONTH 
-
-FAMILY 
-=> INVESTMENT => PER MONTH
-=> RELATIONSHIP => PER MONTH
-=> MEDICAL COVER => PER MONTH
-=> MISCELLENEOUS => PER MONTH 
-
-
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
- => ***CREATE ON 2025 & DELETE ON 2035*** LIGHT TECHNOLOGIES LTD ACCOUNT/ REALTORS ACCOUNT ---> DTB ACC  ***[TRANSFER RANGE BETWEEN 700K - 800K]*** 
- => ***CREATE ON 2025 & DELETE ON 2035*** HENRIOT REALTORS ACCOUNT ---> DTB ACC  ***[TRANSFER RANGE BETWEEN 700K - 800K]*** 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
-
- => DAWN(LION GROUP MANAGEMENT LTD)  ACCOUNT ----> (SAVINGS, TAX AVOIDANCE NOT EVASION, BANK MONEY MARKET FUND----> International Certification in the 3) 
- => EAGLE MANAGEMENT LTD ACCOUNT REGISTERED in Sychelles ----> 🧨HAVE ALL REQUIRED LICENSES IN SEYCHELLES && STATIONED COUNTRY, Now Kenya🧨 
-     ----> Receive revenue from JOHNSON REALTORS ACCOUNT
-     ----> Transfer Received Revenue to DAWN ACCOUNT 
- => DTB SAVINGS ACCOUNT ----> (SAVINGS----> International Certification in the 1)
-
-
- => DAWN DANIEL ACCOUNT ----> (ENGINEERING[SOFTWARES && LABS(TELECOMMUNICATION/CLOUD SOFTWARE+HARDWARE/CYBERSECURITY)]----> International Certification in the 8) 
-    DAWN DANIEL NGO ACCOUNT   
-    DAWN DANIEL NGO ACCOUNT
- => DAWN MURUNGI ACCOUNT ----> (ENGINEERING[BUILDING CONSTRUCTION, ROADS]----> International Certification in the 2) 
-    DAWN MURUNGI NGO ACCOUNT
- => DAWN SWANAPOLE ACCOUNT ----> (IT, FLOWERS, APPLE, AVOCADO, WATER----> International Certification in the 5) 
-    DAWN SWANAPOLE NGO ACCOUNT    
- => DAWN JOHNSON MANAGEMENT ACCOUNT ----> (ACCOUNTING, TAX, ASSET MANAGEMENT----> International Certification in the 3)
-                                    ----> 🧨HAVE LICENSES IN ACCOUNTING, TAX, ASSET MANAGEMENT, HR, REALTORS🧨   
-				    ---->🧨🧨🧨HAVE LICENSE IN HENRIOT REALTORS LTD🧨 => THEN STOP BUSINESS IN 2034🧨🧨🧨
-    ***CREATE ON 2035*** JOHNSON REALTORS ACCOUNT ----> 🧨HAVE LICENSE IN REALTORS🧨  
-    ***CREATE ON 2035*** DAWN JOHNSON NGO ACCOUNT ----> 🧨HAVE LICENSE IN NGO🧨 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
   
-  BIG LANDS
-  MALINDI ----> [HOTEL/RESTAURANT && GOLF COURSE]
-  2 RANCHES ----> [HOTEL/RESTAURANT && GOLF COURSE] + SCHOOL&&CHURCH 
-  2 RANCHES ----> [DRAGON FRUIT, AVOCADO && APPLE FARM] + [GOATS, SHEEP, RABBITS, GOOSE, DUCKS, POULTRY FARM] 
-  1 SOLID BIGGEST RANCH ----> [TREES && HAY SELLING FARM]
-*****************************************************************************************************************************************
-
-2025 => B => FINANCIAL ENGINEERING [DOC + SCRIPTS] [100K + 300K] -> If it goes as planned save CASH
-2027 => M => BUSINESS ADMINISTRATION [DOC + SCRIPTS] [100K + 300K] -> If it goes as planned give out [300K + 300K = 600K CASH NEXT YEAR]
-
-*****************************************************************************************************************************************
-
-2028 => GIVE 600K CASH TO SYSTEM JAMES + VACATE RUAI HOUSE 
-
-===> ***HAVE*** 1. BROKERAGE Institution + 2. SECURITIES Institution  + 3. LIQUIDITY Institution
-===> START FAMILY
-
-*****************************************************************************************************************************************
-2025 + 9 = 2034
-2034 DEC => TERMINATE CONTRACT with my 2 CLIENTS 
-     ------> MAINTAIN CONNECTION WITH 2 CLIENTS
-     => FREE MAN From my 2 CLIENTS
-     => WITHDRAW From HENRIOT GROUP GAMMA DELTA + WITHDRAW INVESTED MONEY + INTEREST
-     ------> MAINTAIN CONNECTION WITH HENRIOT GROUP GAMMA DELTA PROFESSIONALS 
-         
-***=> DELETE LIGHT TECHNOLOGIES ACCOUNT   
-***=> DELETE [REALTORS + NGO] ACCOUNT
-***=> MAINTAIN DTB ACCOUNT
-         
-2035 =====> LET EVERYTHING COOL
-
-2036 =====> RETRIEVE OWNERSHIP FROM ZOLLY
-
-2036  ===> ***HAVE*** 1. BROKERAGE Institution + 2. SECURITIES Institution  + 3. LIQUIDITY Institution
-      ===> MAINTAIN FAMILY
-      ===> ENTER GVT ***KANU***
-
-
-
-       
-*****************************************************************************************************************************************
+      
 
 # LAND
 
@@ -14668,7 +14468,7 @@ FAMILY
 - https://landcommission.go.ke/
 - https://lands.go.ke/
 
-
+---
 
 # MEDICINE
 
@@ -14685,7 +14485,7 @@ Fingr && Spm IN
 ===> NATURAL MEDICINE
 ```
 
-
+---
 
 # FIFA GAME
 
