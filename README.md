@@ -29,11 +29,14 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 8.* => DATA PIPELINE
 1)Data Science - Python Data Cleaning        ===> https://github.com/devopsengineerDan/data-cleaning-python
 2)Data Engineer - Pyspark Tool                ===> https://github.com/devopsengineerDan/pyspark-ETL-project-and-airflow-Data-pipeline
-3)ML Engineer - ML Pipeline part 1 and 2    ===> https://devopsengineerdan.github.io/  My blog name devopsengineerdan which is dev Repository/alexloannides blog
+3)ML Engineer - ML Pipeline part 1 and 2
+ ===> https://devopsengineerdan.github.io/  My blog name devopsengineerdan which is dev Repository/alexloannides blog
+ ===> https://github.com/devopsengineerDan/Daniel_ml-workflow-automation
+
 4)Deploying ML Models with Bodywork   ===> https://devopsengineerdan.github.io/  My blog name devopsengineerdan which is dev Repository/alexloannides blog 
 5)Deploying Python ML Models with Flask, Docker and Kubernetes
-===> https://devopsengineerdan.github.io/  My blog name devopsengineerdan which is dev Repository/alexloannides blog
-===> https://github.com/devopsengineerDan/Daniel_ml-workflow-automation
+ ===> https://devopsengineerdan.github.io/  My blog name devopsengineerdan which is dev Repository/alexloannides blog
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. 👉 Learn what AI, Machine Learning and Deep Learning is 
    Info: https://www.youtube.com/watch?v=WSbgixdC9g8
