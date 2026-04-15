@@ -506,13 +506,15 @@ Retail Traders & Hedge Funds
 =================================================================================================================================================================================================
 
 👉 PORTFOLIO MANAGER
-
+Research <---> Market | Financial Analyst, Engineer
+Asset Manager
+Fund Manager
 Investment Banker ===> DEALING LICENSE
 -------------------------------------------------------------------------------------
 Broker [STOCK|EQUITY,DERIVATIVES|CFD's|FOREX|CRYPTOCURRENCY] ===> NON-DEALING LICENSE
 -------------------------------------------------------------------------------------
-Research <---> Market | Financial Analyst, Engineer
-Asset Manager
+Hedge Fund
+Venture Capitalist===>Direct Investment
 #######################################################################################
 🧨🧨🧨 NSE Nairobi Stock Exchange
 🧨🧨🧨 Capital Markets Authority
