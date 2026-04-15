@@ -1922,17 +1922,20 @@ INVESTMENT COMPANY ---> BINANCE *** CRYPTOCURRENCY PLATFORM PAYS TAXES 👉 If Y
 ```
 👉 Individual License
 👉 Corporate License
-👉 Investment Advisory 2M
+👉 Investment Advisory License ===> 2M
+###################################
 👉===> No Objection Letter
 👉===> Affiliate Broker
-👉===> ISP(Intermediary Service Provider) 10M
-👉 Broker
+👉===> Sub-Broker License
+###################################
+👉===> (ISP) Intermediary Service Provider License ===> 10M
+👉 Broker License
 ----------------------------------------------------
 -> ICIFA Member + Certification 
--> Individual 
--> Corporate 
--> Money Manager https://tradesense.co.ke/
--> CIS Collective Investment Scheme for Fund Management Companies
+-> Individual License
+-> Corporate License
+-> Money Manager License ===> https://tradesense.co.ke/
+-> (CIS) Collective Investment Scheme License for Fund Management Companies(Unit Trust)
 ----------------------------------------------------
 -> 3 Professional Certs
 (CISI) Chartered Institute for Securities and Investment
