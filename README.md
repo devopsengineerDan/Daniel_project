@@ -563,8 +563,8 @@ THEN _ MOVES TO THE OPPOSITE DIRECTION
 # 👉 Call Account rather than Savings Account
 # 👉 Check off your Account to CONFIRM Investment Opportunities Transactions have COMPLETED
 
-
-# KNOWLEDGE && INTELLIGENCE; THEN AWARENESS
+# SILENCE IN ALL
+# KNOWLEDGE(SECRET) && WISDOM(INTELLIGENCE); THEN AWARENESS(ADAPT ACCORDINGLY)
 
 ```
 👉 *************** SECURITY AWARENESS *******************
