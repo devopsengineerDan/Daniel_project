@@ -23,6 +23,12 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
    ---> Backend-blog-application-python-api -> https://github.com/devopsengineerDan/backend-blog-application-python-api?tab=readme-ov-file
    ---> Sendy S API Wrapper -> https://github.com/devopsengineerDan/python-wrapper-for-sendy-s-API
 6. DJANGO API ===> 4 PYTHON-C-BASH-APPLICATIONS
+✅ PAYMENT APIS ---> Stripe - Developer && Fraud Detection
+                ---> Paypal - Medium Business
+                ---> Square - Inventory
+               ----------------------------
+                ---> Paybill
+                ---> Till
 ✅ DATA PIPELINES
 7. Fringe Recurrent Neural Network
 
