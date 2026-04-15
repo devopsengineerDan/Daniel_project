@@ -560,7 +560,7 @@ RETEST
 
 # 🧨🧨🧨 AOO Area Of Operation (Positive && Negative Selection Portfolio)
 # 👉 Call Account rather than Savings Account
-# 👉 Check off your Account to confirm Investment Opportunities Transactions have completed
+# 👉 Check off your Account to CONFIRM Investment Opportunities Transactions have COMPLETED
 
 
 # KNOWLEDGE && INTELLIGENCE; THEN AWARENESS
