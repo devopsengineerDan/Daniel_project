@@ -541,8 +541,8 @@ Venture Capitalist===>Direct Investment
 
 ![title](static/img/IMG_1797_0316_144223_094_97.jpg)
 ### GOLD 
-FRI 13&18 <-> 30
-MON 4 <-> 30 
+FRI 30 <-> 13&18,
+MON 30 <-> 4, 
 RETEST
 
 # ✅ SILENCE (STRATEGY, TACTICS, PLAN)
