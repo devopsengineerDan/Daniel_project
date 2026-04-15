@@ -552,7 +552,7 @@ Venture Capitalist===>Direct Investment
 4. RETEST,
 ✅ENTRY:
 5. THEN _ MOVES TO THE OPPOSITE DIRECTION,
-🧨EXIT
+🧨EXIT:
 6. FRI [MOST OPTIMUM POSITION]
 ```
 
