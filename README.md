@@ -544,7 +544,7 @@ Venture Capitalist===>Direct Investment
 ## GOLD
 
 ```
-MARKET STRUCTURE
+MARKET STRUCTURE,
 FRI 30 <-> 13&18,
 MON 30 <-> 4, 
 RETEST,
