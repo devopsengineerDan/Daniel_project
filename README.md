@@ -1947,26 +1947,25 @@ INVESTMENT COMPANY ---> BINANCE *** CRYPTOCURRENCY PLATFORM PAYS TAXES 👉 If Y
 
 ```
 👉 Individual License
-👉 Corporate License
 👉 Investment Advisory License ===> 2M
 ###################################
 👉===> No Objection Letter
-👉===> Affiliate Broker
+👉===> Affiliate(Introducing Broker) + Copy Trading
 👉===> Sub-Broker License
+👉===> WHITE LABEL/WHITE PAPER
 ###################################
 👉===> (ISP) Intermediary Service Provider License ===> 10M
-👉 Broker License
-----------------------------------------------------
--> ICIFA Member + Certification 
--> Individual License
--> Corporate License
--> Money Manager License ===> https://tradesense.co.ke/
--> (CIS) Collective Investment Scheme License for Fund Management Companies(Unit Trust)
+👉👉👉 Corporate License
+👉 Insurance && Bank ---> (CIS) Collective Investment Scheme License ✅ Dealing License for Fund Management Companies(Unit Trust)
+👉 Broker License ✅ Non-dealing License
+👉 Hedge Fund ---> Money Manager License ✅ Dealing License ===> https://tradesense.co.ke/
+
 ----------------------------------------------------
 -> 3 Professional Certs
 (CISI) Chartered Institute for Securities and Investment
 CERT - Introduction to Securities & Investments KE
 CERT - Regulations & Market Practice KE
+-> ICIFA Member + Certification
 -> CFA International 
 ----------------------------------------------------
 
@@ -1976,6 +1975,9 @@ CERT - Regulations & Market Practice KE
 ----------------------------------------------------------------------------------------------
 👉 Intermediary License Between Broker and Customer using a Money Market Fund Example: Givva
 👉 Forex Financial Manager License Example: StorePoa
+----------------------------------------------------------------------------------------------
+👉 Ingot -> Vantage or Doo Prime Alternatives Brokers
+👉 TradeRise -> MetaQuotes Alternative Software Platform
 ```
 
 
