@@ -47,6 +47,9 @@ Financial governance support through policy development, internal control review
 # IT INFASTRUCTURE
 ### SERVERS--Derrick Gakuu ===> https://siscom.africa/
 
+A cloud computing company. 
+- To provide content delivery network services, image optimization, and load balancing services. 
+- Cloud security services include denial-of-service attack protection, bot mitigation, and a web application firewall.
 
 ---
 
