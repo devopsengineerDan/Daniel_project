@@ -108,7 +108,7 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
             ---------------------------------------    
             ===>  [SECURE-CLEAN-SCALABLE-PERFORMANT] ERP SYSTEMS
 
-✅ CLAUDE AI
+✅ CLAUDE AI TOOL
 ```
 
 # ROADMAP
