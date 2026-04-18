@@ -9302,7 +9302,10 @@ Install _ONCE_               -> 1st Option
 		                pip install virtualenv
 				
 **Go to Project Folder**				
-Create env:     virtualenv -p /usr/bin/python3.8 venv				
+Create env:     virtualenv -p /usr/bin/python3.8 venv
+                OR
+                virtualenv venv
+
 Activate env:   source venv/bin/activate 				
 ```		  
 				
