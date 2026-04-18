@@ -107,6 +107,8 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
             ===>  Computer reasoning (Software Engineering, AI and Quantum Computing)
             ---------------------------------------    
             ===>  [SECURE-CLEAN-SCALABLE-PERFORMANT] ERP SYSTEMS
+
+✅ CLAUDE AI
 ```
 
 # ROADMAP
