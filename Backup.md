@@ -7945,9 +7945,7 @@ DATABASE FLOW-CHART DIAGRAM
                                  ->     https://www.youtube.com/watch?v=DpUlfWP_gtg
 
 
-BEST PRACTICE + (autopep8 idiomatic python using flake8, pytest and hypothesis, mypy => TESTING)
-
-
+BEST PRACTICES + (autopep8 idiomatic python using flake8, pytest and hypothesis, mypy => TESTING)
 
 ### 1.  Initilialize always on Project Folder. 
 ### 2.  Always have a runtime.txt with version (e.g) python 3.8.6 for backward compatibility with python interpreter. 
@@ -7990,7 +7988,7 @@ SPEED UP PYTHON EXECUTION ON COMPILER
 👉 RUST             (OFFICIAL)   ->       https://www.rust-lang.org/learn
  			         ->	  https://education.web3.foundation/docs/introrust
 
-BEST PRACTICE + (clippy -> TESTING)
+BEST PRACTICES + (clippy -> TESTING)
 
 ### 1. Rust simplicity and reduction of complexity.
 ### 2. Rust unsafe{} keyword for performance tuning in hardware. PERFORMANCE_USECASE(Code must be secure & Adhere to Standard Guidelines of unsafe principles) COMPILER CHECKS-> Must be checked by Software Engineer during Software Review and Testing.
@@ -8017,8 +8015,14 @@ BEST PRACTICE + (clippy -> TESTING)
 👉 C                (OFFICIAL)    ->       https://en.cppreference.com/w/c/23
 
 
-BEST PRACTICE Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE 
+BEST PRACTICES Check the link ->>> https://www.youtube.com/watch?v=GWYhtksrmhE
+
 +(gcc -c -x c -std=c89 -pedantic -pedantic-errors -Wall -Wextra -Wno-comment -Wno-parentheses -Wno-format-zero-length test.c
+### Use C99
+clang -std=c99 -Wall -Werror
+### (ASAN) Address Sanitization
+clang -fsanitize=address
+### Runtime Bounds Checking
 
 ### 1A. Simple control flow (e.g) a function should be limited to only one task to ensure readability and should not exceed the size of a page.
 ### 1B. Also do not use goto, setjmp, longjmp statements and recursion which is a fuction that calls onto itself which results to difficult to understand and follow cyclic control flow crafts and run away code which can crush.
