@@ -98,7 +98,7 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
             ===> MANAGEMENT SYSTEMS
             ------------------------------------
             ===> DETECTION
-            ===> EMERGING DEVELOPMENT
+            ✅ ===> EMERGING DEVELOPMENT IN TECHNOLOGY && ENGINEERING
 
 ========================================================================================
            
