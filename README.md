@@ -82,7 +82,7 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✅✅✅ REAL PROJECTS
-9.* PROJECTS
+8.* PROJECTS
             ===> Email -> https://www.youtube.com/watch?v=xNqnHmXIuzU
             ===> News Letter -> https://youtu.be/hWtlskOaFNI?si=WNMXDlQ6sq1BTKM8
             ------------------------------------
@@ -92,8 +92,10 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
                  - Payment API System
                  - Messaging system
             ===> LOANS
-            ===> TRANSACTIONS
+            ✅ ===> TRANSACTIONS[PESAPAL]
             ===> E-COMMERCE
+            ===> POS
+            ===> MANAGEMENT SYSTEMS
             ------------------------------------
             ===> DETECTION
             ===> EMERGING DEVELOPMENT
@@ -108,7 +110,7 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
             ---------------------------------------    
             ===>  [SECURE-CLEAN-SCALABLE-PERFORMANT] ERP SYSTEMS
 
-✅ CLAUDE AI TOOL
+9. ✅ CLAUDE AI TOOL
 ```
 
 # ROADMAP
