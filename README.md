@@ -543,7 +543,7 @@ Venture Capitalist===>Direct Investment
 > Founder, Head of Ǫuant R&D, CIO (FINANCIAL MODELLING && DATA ANALYTICS && ENGINEERING && SCIENCE)
 
 ## (INDICES) Market Makers && Liquidity Providers
-### MON==Litmus Test
+### MON & TUE==Litmus Test
 
 1. STRATEGY,
 2. OPPOSITE-DIRECTION STRATEGY FOR THAT WEEK,
