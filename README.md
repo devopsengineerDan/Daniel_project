@@ -2151,7 +2151,9 @@ Benefits
 
 ![Distributed-Systems](static/img/OS-Operating-System-and-Distributed-System.jpg)
 
+# Register companies
 
+===> https://devopsengineerdan.github.io/firstproject/Cost%20of%20Company%20Registration%20in%20Kenya%20(2026)_%20Official%20Fees%20_%20Biz%20Brokers%20Kenya.html
 # Types of companies
 
 ===> https://www.incnow.com/blog/2025/08/11/what-does-llc-corp-inc-mean/
