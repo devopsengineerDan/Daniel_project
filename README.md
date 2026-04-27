@@ -558,6 +558,8 @@ Venture Capitalist===>Direct Investment
 2. STRATEGY,
 3. FRI 30 <-> 13&18,
 4. MON 30 <-> 4,
+5. 👉👉👉 If BUY, market will SELL FIRST
+   👉👉👉 If SELL, market will BUY FIRST
 🧨EXIT:
 5. RETEST,
 ✅ENTRY:
