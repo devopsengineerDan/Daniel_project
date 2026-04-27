@@ -115,7 +115,7 @@ Master's  
 ### You cannot cheat the grind.
 
 -------------------
-
+### ✅✅✅ DON'T LACK KNOWLEDGE, DON'T BE AN EXPERIMENT && VICTIM
 ### 🚀 COURAGE(CONFIDENCE)
 ### 🚀 SYSTEM
 ### 🚀 KNOWLEDGE(SECRET)    ---> KNOW -- SPEAKS
