@@ -13921,6 +13921,15 @@ GO SLOW -> Pedestrian-crossing + Bumps, Bridge, Parking
 -------------------------------
 
 ```
+🧨 PURCHASE ELECTRONICS
+* 135
+Tax = 8% of Price
+2,500/= per kilo from USA || 1,500/= per kilo from DUBAI
+PC PART PICKER ---> https://pcpartpicker.com/list/
+ARCTIC ---> vesa 100 monitor support ---> https://www.arctic.de/en/products/mounts/
+
+=========================================================================================================================================================================
+
 👉 Tourbillon WATCH      👉 Japanese Kei off-road truck 4x4   👉 Facebook: mercelsha muqpal
 👉 PHONES:
 Unihertz Titan 2 Elite -- Sony Xpria 1 Latest Model, Samsung S24 Ultra, Iphone Air -- Google Pixel-- One Plus, Samsung Z Fold -- Huawei Mate XT TriFold,Iphone ipad pro
