@@ -551,7 +551,7 @@ Venture Capitalist===>Direct Investment
 3. 🧨EXIT:
    6PM  -> 18.00
    10PM -> 22.00
-   FVG  ---> MUST BE FILLED; IF NOT HAVE OF IT.
+   FVG  ---> MUST BE FILLED; IF NOT HALF OF IT.
 ```
 
 ![title](static/img/IMG_1797_0316_144223_094_97.jpg)
