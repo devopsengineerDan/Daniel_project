@@ -544,6 +544,7 @@ Venture Capitalist===>Direct Investment
 
 ## (INDICES) Market Makers && Liquidity Providers
 ### MON & TUE==Litmus Test
+# BIAS
 
 ```
 1. STRATEGY,
@@ -552,12 +553,16 @@ Venture Capitalist===>Direct Investment
    6PM  -> 18.00
    10PM -> 22.00
    FVG  ---> MUST BE FILLED; IF NOT HALF OF IT.
+4. 👉👉👉 SMALL CANDLESTICKS MOVING IN THE SAME DIRECTION 
 ```
 
 ![title](static/img/IMG_1797_0316_144223_094_97.jpg)
 
+---
+
 ## (GOLD) Market Movers
 ### MON==Litmus Test
+# BIAS
 
 ```
 ✅ENTRY:
