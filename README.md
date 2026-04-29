@@ -92,7 +92,7 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
                  - Payment API System
                  - Messaging system
             ===> LOANS
-            ✅ ===> TRANSACTIONS[PESAPAL]
+            ✅ ===> PAYMENT TRANSACTIONS[PESAPAL]
             ===> E-COMMERCE
             ===> POS
             ===> MANAGEMENT SYSTEMS
