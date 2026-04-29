@@ -545,8 +545,15 @@ Venture Capitalist===>Direct Investment
 ## (INDICES) Market Makers && Liquidity Providers
 ### MON & TUE==Litmus Test
 
+```
 1. STRATEGY,
 2. OPPOSITE-DIRECTION STRATEGY FOR THAT WEEK,
+3. 🧨EXIT:
+   6PM  -> 18.00
+   10PM -> 22.00
+   FVG  ---> MUST BE FILLED; IF NOT HAVE OF IT.
+```
+
 ![title](static/img/IMG_1797_0316_144223_094_97.jpg)
 
 ## (GOLD) Market Movers
