@@ -1997,7 +1997,7 @@ Quant Capital
 👉 ACCUMULATION 
 👉 HEDGING ---> REFINED BARS OF PURE GOLD ---> Low-correlational Investments
 👉 INSTITUTION ---> Market Maker, Liquidity Provider, Market Movers/Shakers
-👉 RETAIL ---> MANAGER[Founder, Professional, High Risk Taker]
+👉 RETAIL ---> 🧨MANAGER[Founder, Professional, High-Risk Taker]
 👉 INSURANCE ---> HEALTH, AUTOMOBILES
 👉 BROKERAGE
 👉 ✅ HEDGE FUND/SPECIAL FUND ---> It is a Mutual Fund(Pulls funds from different investors)
