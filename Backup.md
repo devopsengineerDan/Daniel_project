@@ -3543,7 +3543,7 @@ QuantConnect ---> dancunmanyinsait@gmail.com
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 PEPPERSTONE_SECURE_CLIENT ---> eagleoverflow@gmail.com
 Wallet#1 -> Johnson1*@#!33A
-Professional  -> Royal^&*99GRAnd
+Professional  -> Royal^&*99GRAnd | DDdfgthh@$$5656
 Standard DEMO -> Standard#12345
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 EXNESS ---> quantumaiquant@gmail.com
