@@ -13930,6 +13930,8 @@ ARCTIC ---> vesa 100 monitor support ---> https://www.arctic.de/en/products/moun
 
 =========================================================================================================================================================================
 
+👉 CARS ---> Ineos Grenadier, FYD, G Wargon, Jeep, Defender
+--------------------------------------------------------------------------------------------
 👉 Tourbillon WATCH      👉 Japanese Kei off-road truck 4x4   👉 Facebook: mercelsha muqpal
 👉 PHONES:
 Unihertz Titan 2 Elite -- Sony Xpria 1 Latest Model, Samsung S24 Ultra, Iphone Air -- Google Pixel-- One Plus, Samsung Z Fold -- Huawei Mate XT TriFold,Iphone ipad pro
