@@ -317,7 +317,7 @@ Farming + Lands => Light Group
                                                               🧨 =====>  ON INFORMATION OF COLLAPSE ON CRYPTOCURRENCY SELL ALL USA STOCKS
                                                              👉 SINGLE COMPANY STOCK
                                                              👉 INDEX FUND
-                                                             👉 EXCHANGE TRADED FUND -> BONDS
+                                                             👉 EXCHANGE TRADED FUND -> BIT for Bitcoin, GLD for Gold, SLV for Silver
                                                              👉 MUTUAL FUND
                                                        ===================================================================
               =====> MEDIUM-TERM PERIOD [MONTHS-5-10-25]YRS ---> ✅ CRYPTOCURRENCY EXCHANGE ===> BINANCE
@@ -734,7 +734,7 @@ B) EPIC/EXTREME
 
 
 ✅ Bigger Trend ---> DIRECTION Then Small Trend ---> ENTRY
-✅ [Price Action/Level + Intrinsic value], [Price Level + Technical Analysis], [Fundamentals Analysis]
+✅ [Price Action/Level + Intrinsic value], [Price Action/Level + Technical Analysis], [Fundamentals Analysis]
 ✅ BET/Take Your Ego or What You Think Out of the Game, Price Level, Price Range
 🧨🧨🧨 CONSOLIDATION  = COMMERCIAL BUSINESS[SPECULATION, INDECISION]
 -------------------------------------------------------------------------------------------------------------
@@ -835,6 +835,13 @@ Inflation + Economic Growth                       GDP(Gross Domestic Product)
 
 ![title](static/img/MMFs-Bills-Bonds.png)
 ![title](static/img/best-investments.png)
+
+## TYPES OF BONDS
+
+```
+👉 Government Bond ---> (IFB)Infrastructure Bond
+👉 Normal Bond ---> (FXB) Fixed Income/Deposit Bond OR Fixed Coupon Bond
+```
 
 ## Treasury Bonds and Treasury Bills Compounding
 
@@ -1930,7 +1937,22 @@ Quant Capital
 
 # INVESTMENT COMPANY/[INDIVIDUAL TRADER]
 
-### 1 RISK DISCLOSURE AGREEMENT + COMPENSATION && RETURNS ALLOCATION
+# CAPITAL 
+
+```
+👉 CAPITAL GAIN ===> ASSETS
+👉 CASHFLOW
+👉 INCOME
+
+✅ BUDGET
+✅ POSITIVE && NEGATIVE SELECTION PORTFOLIO
+✅ CALL ACCOUNT
+
+✅ ---> INVESTMENT FUND
+✅ ---> SINKING FUND (EXPENDITURE/EXPENSE FUND)
+```
+
+# 1. RISK DISCLOSURE AGREEMENT + COMPENSATION && RETURNS ALLOCATION
 
 ```
 👉 RISK DISCLOSURE AGREEMENT + COMPENSATION
@@ -1951,20 +1973,37 @@ Quant Capital
 5% of Initial Capital Deposited Per Month
 ```
 
-### 2 TAX MANAGEMENT 
+# 2. TAX MANAGEMENT 
 
 ```
 >>> OFFSHORE ASSET MANAGEMENT ===> 👉 SEYCHELLES, [BRITISH VIRGIN ISLAND + SWITZERLAND], CAYMAN ISLAND, SINGAPORE, HONGKONG, BAHAMAS, MAURITIUS
-> WITHHOLDING TAX
-> CAPITAL  GAIN TAX
+👉👉👉> WITHHOLDING TAX
+👉👉👉> CAPITAL  GAIN TAX ---> Is a levy on the profit realized from the sale of assets such as stocks or real estate, with the rate determined by the asset's holding period and the taxpayer's income level. 
 >>> FAMILY HOME/OFFICE COMPANY ===> KENYA
 -----------------------------------------------------------------------------------
 INVESTORS ---> TO MANAGE THEIR OWN TAX BY DEPOSITING TO A REGISTERED BUSINESS ACCOUNT THAT PAYS TAXES
 INVESTMENT COMPANY ---> BINANCE *** CRYPTOCURRENCY PLATFORM PAYS TAXES 👉 If You Can AVOID TXS THE BETTER
 ```
 
+# 3. TAX PREREQUISITES
 
-### LICENSES OFFERED BY CMA
+```
+THIBITISHA CHECKER ---> *222*5#
+ETIMS ---> KRA Invoicing
+INVOICE/OIN CHECKER -> Check Validity of Invoice Receipt
+👉👉👉> SIMPLIFIED PAYROLL SOLUTION
+
+INCOME TAX = 30%
+WITHHOLDING TAX == 30%
+Procedure:
+Withholding = 5% * Total Amount Received
+Remainder = 25% * Final Balance; Whereby Final   = Balance after - Operational
+                                         Balance   5%Withholding   Cost
+```
+
+---
+
+# LICENSES OFFERED BY CMA
 
 ```
 👉 Individual License
@@ -2000,7 +2039,6 @@ CERT - Regulations & Market Practice KE
 👉 Ingot -> Vantage or Doo Prime Alternatives Brokers
 👉 TradeRise -> MetaQuotes Alternative Software Platform
 ```
-
 
 ----
 
