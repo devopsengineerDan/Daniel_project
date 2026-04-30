@@ -393,7 +393,7 @@ Retail Traders & Hedge Funds
 -------------------------------------------------------------------------------------
 ✅ Central Bank
 ✅ Markets Authority
-✅ Stock Exchange ===> Investor[Central Depository Account]
+✅ Stock Exchange ===> Investor[Central Depository Account] ===> Dhow (CSD) Central Securities  Deposit Account
                   ===> Stock Broker[Central Depository Agent]
 ✅ Central Depository and Settlement Corporation
                   ===> Central Depository System Account
@@ -755,6 +755,36 @@ B) EPIC/EXTREME
 
 ---------------------------------------------------------
 
+# COLLECTIVE INVESTMENT SCHEMES AND RULES IN TERMS OF RISK EXPOSURE
+
+```
+✅ LEAST RISK EXPOSURE
+1. MMFs ---> CAPITAL PRESERVATION  Regulation by CMA
+2. Fixed Income Fund
+3. Balanced Fund
+4. Special Fund - A Type of Hedge fund
+5. Equity Fund
+6. Stock
+✅ HIGHEST RISK EXPOSURE
+```
+
+# TYPES OF ASSET CLASSES
+
+```
+Cash
+Cash Equivalents ---> Highly Liquid assets that can be quickly converted (i.e) MMFs, (T-Bills) Treasury Bills,
+                      Short-term certificates of Deposits
+Fixed Income
+Equity Investments
+Alternative Investments ---> Private Equity, Venture Capital, Private Capital
+Treasury Bills
+Treasury Bonds
+Stock
+Forex
+Cryptocurrency
+```
+---------------------------------------------------------
+
 # BID AND ASK PRICES
 
 ![title](static/img/bid_ask.jpg)
@@ -841,6 +871,14 @@ Inflation + Economic Growth                       GDP(Gross Domestic Product)
 ```
 👉 Government Bond ---> (IFB)Infrastructure Bond
 👉 Normal Bond ---> (FXB) Fixed Income/Deposit Bond OR Fixed Coupon Bond
+
+👉 Types of CDS (Central Depository System) account
+1. Bond CDS account ---> CBK
+2. Shares CDS account ---> Shares of Company
+
+👉 Types of Bond Markets
+1. Primary Market ---> CBK
+2. Secondary Market ---> Stock Exchange
 ```
 
 ## Treasury Bonds and Treasury Bills Compounding
@@ -1942,7 +1980,12 @@ Quant Capital
 ```
 👉 CAPITAL GAIN ===> ASSETS
 👉 CASHFLOW
-👉 INCOME
+👉 INCOME(
+          Demand from BUYERS
+          Capital from Investors
+          IPO - Initial Public Offering == WORST-CASE SCENARIO
+          LOAN == WORST-CASE SCENARIO
+)
 
 ✅ BUDGET
 ✅ POSITIVE && NEGATIVE SELECTION PORTFOLIO
@@ -1950,6 +1993,18 @@ Quant Capital
 
 ✅ ---> INVESTMENT FUND
 ✅ ---> SINKING FUND (EXPENDITURE/EXPENSE FUND)
+
+👉 ACCUMULATION 
+👉 HEDGING ---> REFINED BARS OF PURE GOLD ---> Low-correlational Investments
+👉 INSTITUTION ---> Market Maker, Liquidity Provider, Market Movers/Shakers
+👉 RETAIL ---> MANAGER[Founder, Professional, High Risk Taker]
+👉 INSURANCE ---> HEALTH, AUTOMOBILES
+👉 BROKERAGE
+👉 ✅ HEDGE FUND/SPECIAL FUND ---> It is a Mutual Fund(Pulls funds from different investors)
+-----------------------------------------------------------------------------------------------
+👉 CORPORATE FINANCE ---> IT Cybersecurity && Software, Data Compliance, Tax
+👉 CORPORATE MARKETING
+👉 CORPORATE INFRASTRUCTURE ---> IT Hardware && Real Estate
 ```
 
 # 1. RISK DISCLOSURE AGREEMENT + COMPENSATION && RETURNS ALLOCATION
@@ -1977,8 +2032,8 @@ Quant Capital
 
 ```
 >>> OFFSHORE ASSET MANAGEMENT ===> 👉 SEYCHELLES, [BRITISH VIRGIN ISLAND + SWITZERLAND], CAYMAN ISLAND, SINGAPORE, HONGKONG, BAHAMAS, MAURITIUS
-👉👉👉> WITHHOLDING TAX
-👉👉👉> CAPITAL  GAIN TAX ---> Is a levy on the profit realized from the sale of assets such as stocks or real estate, with the rate determined by the asset's holding period and the taxpayer's income level. 
+👉👉👉 WITHHOLDING TAX ---> Organizations hold this 30% to ensure tax are being paid when dealing with Consultancy Companies
+👉👉👉 CAPITAL  GAIN TAX ---> Is a levy on the profit realized from the sale of assets such as stocks or real estate, with the rate determined by the asset's holding period and the taxpayer's income level. 
 >>> FAMILY HOME/OFFICE COMPANY ===> KENYA
 -----------------------------------------------------------------------------------
 INVESTORS ---> TO MANAGE THEIR OWN TAX BY DEPOSITING TO A REGISTERED BUSINESS ACCOUNT THAT PAYS TAXES
@@ -1991,14 +2046,16 @@ INVESTMENT COMPANY ---> BINANCE *** CRYPTOCURRENCY PLATFORM PAYS TAXES 👉 If Y
 THIBITISHA CHECKER ---> *222*5#
 ETIMS ---> KRA Invoicing
 INVOICE/OIN CHECKER -> Check Validity of Invoice Receipt
-👉👉👉> SIMPLIFIED PAYROLL SOLUTION
+👉👉👉 SIMPLIFIED PAYROLL SOLUTION
 
-INCOME TAX = 30%
-WITHHOLDING TAX == 30%
+👉 TAX ON BILLS && BONDS = 15% * PROFIT
+👉 INCOME TAX = 30% * GROSS
+👉 WITHHOLDING TAX == 30%
 Procedure:
 Withholding = 5% * Total Amount Received
 Remainder = 25% * Final Balance; Whereby Final   = Balance after - Operational
                                          Balance   5%Withholding   Cost
+👉 (TOT) Turn Over Tax= 1.5% ---> Paid by Individual Content Creators
 ```
 
 ---
