@@ -97,7 +97,7 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
             ===> POS
             ===> MANAGEMENT SYSTEMS
             ------------------------------------
-            ===> DETECTION
+            ✅ ===> DETECTION , CCTV[ANDROID:BMSS]
             ✅ ===> EMERGING DEVELOPMENT IN TECHNOLOGY && ENGINEERING
 
 ========================================================================================
