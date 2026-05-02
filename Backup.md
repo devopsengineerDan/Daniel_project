@@ -3429,16 +3429,23 @@ ID: 35687960
 #jkuat co-op acc: 01129098952900
 #equity acc: 1520179881302
 #equity business paybill: 247247
-National
-saf: 0711444518 PIN1:1274 PIN2:8411 PUK1:98828111 PUK2:15573510 CHEDA:1496
+
+
+Silence 
+saf: P*N1:8554 P*N2:0680 P*K1:88071897 P*K2:56251418 CHEDA:1496 [IMSI->]1437488111
+
+Pedigree
+saf: 0706738969 P*N1:8218 P*N2:5372 P*K1:42844297 P*K2:28282050 CHEDA:1493 [IMSI->]1261419646
+
+National && Work
+saf: 0711444518 P*N1:1274 P*N2:8411 P*K1:98828111 P*K2:15573510 CHEDA:1496 [IMSI->]1228007643
 MOM SAF NUMBER: 0721160802 PIN: 9970
 saf buy airtime to telcom baybill 215215 acc telcom number
 
 
-Work
-saf: 0706738969 PIN1:8218 PIN2:5372 PUK1:42844297 PUK2:28282050 CHEDA:1493
 
-Fam
+
+OTHERS:
 
 ***WORK***
 telcom: 0771587812
@@ -4399,9 +4406,11 @@ GPT -> Support expansion(more memory space) and portability(compatibility with d
                          FreeBSD                                      -> (Security Engineers)
                          OpenBSD ===> Firewall, Router, Hub(intelligent switch)
                          MacOS or Windows
+
  
                          e.t.c
-   LINUX DESKTOP ENVIRONMENTS: xfce4, gnome3, kde plasma e.t.c
+
+   LINUX DESKTOP ENVIRONMENTS: xfce4, 👉 Gnome Flashback(Metacity), gnome3, kde plasma e.t.c
    LINUX DISPLAY SERVERS: xorg, x11, wayland e.t.c
    LINUX DISPLAY MANAGERS: lightdm, gdm3, sddm  e.t.c
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -10082,8 +10091,8 @@ The application code is located at src/application.
 👉 EXECUTING FLASK APPLICATION
 
 ```
-export FLASK_APP=application/main.py
-export FLASK_ENV=development
+export FLASK_APP=application.py/main.py/manage.py
+export FLASK_ENV=development/production
 flask run
 ***BEST PRACTICE***
 ***To run main function using this command, where FLASK_APP points to __init.py__. __init.py__ sets a variable app to an instance of Flask***
@@ -12989,6 +12998,7 @@ $ python3 manage.py migrate
 Making specific migrations
 $ python3 manage.py makemigrations
 $ python3 manage.py migrate name_ data 0001_initial
+$ python manage.py flush ---> Delete Data on Database
 @@@@@@@@@
 
 
