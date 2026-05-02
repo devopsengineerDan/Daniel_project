@@ -492,6 +492,17 @@ Retail Traders & Hedge Funds
 5-> Growth Potential: Demonstrate the growth potential of your business and explain how you plan to capitalize on opportunities in the market to outperform competitors. 
 ```
 
+
+```
+👉 AFFORDABLE LOAN ENTITIES
+1. POLICE
+2. STIMA
+3. MWALIMU
+---> Kenya Agricultural Finance Corporation
+---> Kenya Development Corporation
+---> Kenya Industrial Estates
+```
+
 ---
 
 # PROFESSIONALS
@@ -584,6 +595,7 @@ Venture Capitalist===>Direct Investment
 # ✅ INSTITUTION -> MARKET MAKERS, LIQUIDITY PROVIDERS, MARKET MOVERS/SHAKERS, ECONOMIC FUNDAMENTALS
 # ✅ VOLUME && BIAS STRATEGIES
 # ✅ DOUBLE-DOWN
+# ✅ 👉👉👉 RESEARCH -- BACK-TEST OR BACK-TRACK
 
 ---
 
@@ -1990,9 +2002,11 @@ Quant Capital
 ✅ BUDGET
 ✅ POSITIVE && NEGATIVE SELECTION PORTFOLIO
 ✅ CALL ACCOUNT
+✅ Unquoted Securities Platform -> NSE PRIVATE MARKET ---> Before Company goes to the LISTED MARKET(PUBLIC)
+✅ (IPO) --> Initial Public Offering
 
-✅ ---> INVESTMENT FUND
-✅ ---> SINKING FUND (EXPENDITURE/EXPENSE FUND)
+✅ 🧨 ---> INVESTMENT FUND
+✅ 🧨 ---> SINKING FUND (EXPENDITURE/EXPENSE FUND)
 
 👉 ACCUMULATION 
 👉 HEDGING ---> REFINED BARS OF PURE GOLD ---> Low-correlational Investments
@@ -2266,6 +2280,15 @@ Benefits
 ===> https://devopsengineerdan.github.io/firstproject/Cost%20of%20Company%20Registration%20in%20Kenya%20(2026)_%20Official%20Fees%20_%20Biz%20Brokers%20Kenya.html
 
 # Types of companies
+
+```
+✅ TYPES OF COMPANIES
+Terms:
+LLC         ---> Safeguards Personal Assets of Stakeholders ---> SHELL && HOLDING/TRUST(Choose the Right Trustee)
+S-CORP      ---> Tax Savings ---> OPERATING && FOR PROFIT 
+C-CORP      ---> LOANS ---> PASSIVE ASSETS (i.e) Properties and Lands
+C-CORP .INC ---> SELLING YOUR BUSINESS ---> VENTURE CAPITALIST
+```
 
 ===> https://www.incnow.com/blog/2025/08/11/what-does-llc-corp-inc-mean/
 
