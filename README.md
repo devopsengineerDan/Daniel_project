@@ -552,6 +552,7 @@ Venture Capitalist===>Direct Investment
 #  33 MASTERY
  
 > Founder, Head of Ǫuant R&D, CIO (FINANCIAL MODELLING && DATA ANALYTICS && ENGINEERING && SCIENCE)
+### 🚀🚀🚀 [ORDER-BLOCK]--[SYSTEM,STRATEGY, TACTIC, RESEARCH]--[CUT-TAKE-PROFIT && CUT-STOP-LOSS]--[TIME && LIQUID]
 
 ## (INDICES) Market Makers && Liquidity Providers
 ### MON & TUE==Litmus Test
