@@ -112,9 +112,9 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 
 9. ✅ CLAUDE AI TOOL
    ✅ Deepseek
--------------------------
+------------------------------- 
 10.  DEBUG CODE  ✅ 1. CHATGPT 
-                 ✅ 2. CLOUD
+                 ✅ 2. CLAUDE
 ```
 
 # ROADMAP
