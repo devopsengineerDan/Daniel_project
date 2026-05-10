@@ -111,6 +111,10 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
             ===>  [SECURE-CLEAN-SCALABLE-PERFORMANT] ERP SYSTEMS
 
 9. ✅ CLAUDE AI TOOL
+   ✅ Deepseek
+-------------------------
+10.  DEBUG CODE  ✅ 1. CHATGPT 
+                 ✅ 2. CLOUD
 ```
 
 # ROADMAP
