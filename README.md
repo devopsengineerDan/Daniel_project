@@ -2303,6 +2303,13 @@ LLC         ---> Safeguards Personal Assets of Stakeholders ---> SHELL && HOLDIN
 S-CORP      ---> Tax Savings ---> OPERATING && FOR PROFIT 
 C-CORP      ---> LOANS ---> PASSIVE ASSETS (i.e) Properties and Lands
 C-CORP .INC ---> SELLING YOUR BUSINESS ---> VENTURE CAPITALIST
+
+-------------------------------------------------------------------------------------------------------------------
+
+C1 - Directors
+C2 - Shareholders
+C8 - Nominal Capital, Addresses, BeneficiaL Owners
+C12 - Registrar
 ```
 
 ===> https://www.incnow.com/blog/2025/08/11/what-does-llc-corp-inc-mean/
