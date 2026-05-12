@@ -115,6 +115,11 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 ------------------------------- 
 10.  DEBUG CODE  ✅ 1. CHATGPT 
                  ✅ 2. CLAUDE
+-------------------------------
+✅ INTERNET    Media Converter
+               Mikrotik -> wispman.net
+               MAIN ROUTER ---> Access Point
+               Other Routers ---> Clients  
 ```
 
 # ROADMAP
