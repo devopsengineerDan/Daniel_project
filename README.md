@@ -410,8 +410,11 @@ Retail Traders & Hedge Funds
 
 # CENTRAL BANK
 > ✅ Stability of Currency(REDUCE INFLATION), Finance, Market, Economy.
+
 > Lower interest rates, hence debt acquired by central bank becomes cheaper to paid off.
+
 > Shrink the Balance Sheet, Selling of Government assets e.g Treasury Bills and Bonds to the Highest Bidder. Making More Profit to pay off debt
+
 > AI/Quantum(Technology/Electricity/Mechanics), hence ensures production is more effecient and cost effective/not expensive. Produce More with Less.  Making More Profit to pay off debt
 
 
