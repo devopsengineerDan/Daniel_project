@@ -411,7 +411,23 @@ Retail Traders & Hedge Funds
 ✅ Hedge Fund [Internal Compliance && Audit]
 ```
 
+# 🧨 GOLD
 
+# 🧨 INVESTOR
+```
+BUFFET INDICATOR = TOTAL STOCKS IN THE MARKET
+                   -----------------------------
+                   GDP
+If price is below the level, it is Fair OK to BUY. Slightly above, price is Expensive. At 200 or Higher, it is very Expensive and market will SELL.
+
+NATIONAL TREASURIES VS STOCK INDEX EARNINGS
+If Stock Index price is Above National Treasuries price, price is Favourable hence BUY.
+If Stock Index price is Below National Treasuries price, price is Unfavourable hence SELL.(Earnings is Bad compared to investors with Zero exposure to Risk)
+```
+
+# 🧨 TAX
+
+----
 
 # CENTRAL BANK
 > ✅ Stability of Currency(REDUCE INFLATION), Finance, Market, Economy.
