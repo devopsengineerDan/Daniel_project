@@ -382,6 +382,7 @@ Farming + Lands => Light Group
  >>> OPTIONS --->  ***** COMPLEX ***** (NOT AN ACTUAL STOCK) (BASED ON AN ACTUAL ASSET/SECURITY) (CONTRACT BETWEEN TWO INVESTORS) 
 ```
 
+
 ```
 ✅ FOREX EXCHANGE
 
@@ -411,9 +412,12 @@ Retail Traders & Hedge Funds
 ✅ Hedge Fund [Internal Compliance && Audit]
 ```
 
+
 # 🧨 GOLD
 
+
 # 🧨 INVESTOR
+
 ```
 BUFFET INDICATOR = TOTAL STOCKS IN THE MARKET
                    -----------------------------
@@ -424,6 +428,7 @@ NATIONAL TREASURIES VS STOCK INDEX EARNINGS
 If Stock Index price is Above National Treasuries price, price is Favourable hence BUY.
 If Stock Index price is Below National Treasuries price, price is Unfavourable hence SELL.(Earnings is Bad compared to investors with Zero exposure to Risk)
 ```
+
 
 # 🧨 TAX
 
@@ -582,7 +587,7 @@ Venture Capitalist===>Direct Investment
 #  33 MASTERY
  
 > Founder, Head of Ǫuant R&D, CIO (FINANCIAL MODELLING && DATA ANALYTICS && ENGINEERING && SCIENCE)
-### 🚀🚀🚀 [ORDER-BLOCK]--[SYSTEM,STRATEGY, TACTIC, RESEARCH]--[CUT-TAKE-PROFIT && CUT-STOP-LOSS]--[TIME && LIQUID]--[EQUITY AWARENESS && MANAGEMENT]
+### 🚀🚀🚀 [ORDER-BLOCK]--[SYSTEM,STRATEGY, TACTIC, RESEARCH]--[CUT-TAKE-PROFIT && CUT-STOP-LOSS]--[TIME && LIQUID]--[EQUITY && CONTEXT AWARENESS && MANAGEMENT]
 
 ## (INDICES) Market Makers && Liquidity Providers
 ### MON & TUE==Litmus Test
