@@ -99,8 +99,8 @@ Master's  
 ### 🚀 MEASUREMENT | COMPLIANCE | QUALITY
 ### 🚀 BUDGET | LIFESTYLE | LOAN
 ---
-### 🚀 LOAN ---> NEVER SIGN PERSONAL GUARANTEE
-### 🚀 TAX  ---> NEVER SIGN
+### 🚀 LOAN ---> NEVER SIGN PERSONAL GUARANTEE ---> MUST BE COMPANY
+### 🚀 TAX  ---> NEVER SIGN INDIVIDUAL ---> MUST BE COMPANY
 ---
 
 ### 🚀 Right-Forward Direction(Improvement & Change), Accurate, Sound-Informed Decision
