@@ -98,13 +98,20 @@ Master's  
 ### 🚀 [MANAGEMENT & OPERATIONS & DEVELOPMENT] & PERFORMANCE OUTCOME/AFTERMATH
 ### 🚀 MEASUREMENT | COMPLIANCE | QUALITY
 ### 🚀 BUDGET | LIFESTYLE | LOAN
+
+### 🚀 BLAZING SWORDS ---> 🚀PROTECT[KNOWLEDGE] 🚀PRESENT[WISDOM] 
+###                        --- RULING --- FUTURE[IMAGINATION] AND PAST[MEMORY]
+### 🚀 MILITARY | INDUSTRIAL | COMPLEX
+###    MILITARY | EMPIRE     | RELIGION
+###    FEAR     | CHAOS      | POVERTY  
+
 ---
 ### 🚀 LOAN ---> NEVER SIGN PERSONAL GUARANTEE ---> MUST BE COMPANY
 ### 🚀 TAX  ---> NEVER SIGN INDIVIDUAL ---> MUST BE COMPANY
 ---
 
 ### 🚀 Right-Forward Direction(Improvement & Change), Accurate, Sound-Informed Decision
-### 🚀 Management in ===> Security, (33 & Adapt Accordingly), Frame, Ridiculous, Fast, Security
+### 🚀 Management in ===> Security, (33 & ADAPT ACCORDINGLY), Frame, Ridiculous, Fast, Security
 
 -------------------
  
