@@ -103,7 +103,7 @@ Master's  
 ###                        --- RULING --- FUTURE[IMAGINATION] AND PAST[MEMORY]
 ### 🚀 MILITARY | INDUSTRIAL | COMPLEX
 ###    MILITARY | EMPIRE     | RELIGION
-###    FEAR     | CHAOS      | POVERTY  
+###    FEAR     | POVERTY    | CHAOS 
 ### 👉 CONSCIOUS FEEL RULES UNCONSCIOUS FEEL
 
 ---
