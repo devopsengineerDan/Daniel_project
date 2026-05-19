@@ -413,20 +413,29 @@ Retail Traders & Hedge Funds
 ```
 
 
-# 🧨 GOLD
+# 🧨 GOLD AND PETRODOLLAR
 
+```
+1. GOLD IS A STORE OF VALUE BUT NOT A CASHFLOW
+2. PETRODOLLAR IS CASHFLOW, FOLLOW THE ENERGY CURRENT
+When interest rate is LOW, there is INFLATION. Money comes Into EQUITY/SHAREHOLDING From FIXED INCOME INSTRUMENTS
+```
 
 # 🧨 INVESTOR
 
 ```
-BUFFET INDICATOR = TOTAL STOCKS IN THE MARKET
-                   -----------------------------
-                   GDP
+1. BUFFET INDICATOR = TOTAL STOCKS IN THE MARKET
+                      -----------------------------
+                      GDP
 If price is below the level, it is Fair OK to BUY. Slightly above, price is Expensive. At 200 or Higher, it is very Expensive and market will SELL.
 
-NATIONAL TREASURIES VS STOCK INDEX EARNINGS
+2. NATIONAL TREASURIES VS STOCK INDEX EARNINGS
 If Stock Index price is Above National Treasuries price, price is Favourable hence BUY.
 If Stock Index price is Below National Treasuries price, price is Unfavourable hence SELL.(Earnings is Bad compared to investors with Zero exposure to Risk)
+
+3. BUY LOW SELL
+
+4. OWN BUSINESS, AND LARGEST %PERCENTAGE 
 ```
 
 
