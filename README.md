@@ -133,7 +133,7 @@ FINANCE AND PORTFOLIO MANAGER
 ✅ SOURCE
 ✅ TRANSACTION COMPLIANCE MANAGER (Projection Guidelines)
 ✅ RIDDLE - MYSTERY - ENIGMA
-RISK COMPLIANCE MANAGER 🧨 MUST SERVE BUSINESS SENSE
+LICENSE && RISK COMPLIANCE MANAGER 🧨 MUST SERVE BUSINESS SENSE
 ---------------------------------
 ASSET MANAGER/REAL-ESTATE MANAGER
 🧨 SECRET DATA PROTECTION COMPLIANCE MANAGER
@@ -154,7 +154,7 @@ TAX MANAGER
                                   ✅ SOURCE
                                   ✅ TRANSACTION COMPLIANCE MANAGER (Projection Guidelines)
                                   ✅ LOGICAL
-                                  RISK COMPLIANCE MANAGER 🧨 MUST MAKE BUSINESS SENSE
+                                  LICENSE && RISK COMPLIANCE MANAGER 🧨 MUST MAKE BUSINESS SENSE
                                   ---------------------------------
                                   ASSET MANAGER/REAL-ESTATE MANAGER
                                   🧨 DATA PROTECTION COMPLIANCE MANAGER              
@@ -597,7 +597,7 @@ Venture Capitalist===>Direct Investment
 #  33 MASTERY
  
 > Founder, Head of Ǫuant R&D, CIO (FINANCIAL MODELLING && DATA ANALYTICS && ENGINEERING && SCIENCE)
-### 🚀🚀🚀 [ORDER-BLOCK]--[SYSTEM,STRATEGY, TACTIC, RESEARCH]--[CUT-TAKE-PROFIT && CUT-STOP-LOSS]--[TIME && LIQUID]--[EQUITY && CONTEXT AWARENESS && MANAGEMENT]
+### 🚀🚀🚀 [ORDER-BLOCK]--[SYSTEM,STRATEGY, TACTIC, RESEARCH]--[CUT-TAKE-PROFIT && CUT-STOP-LOSS]--[TIME && LIQUID]--[EQUITY && CONTEXT AWARENESS && MANAGEMENT]--[RISK MANAGEMENT]
 
 ## (INDICES) Market Makers && Liquidity Providers
 ### MON & TUE==Litmus Test
