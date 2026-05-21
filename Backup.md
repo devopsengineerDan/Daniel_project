@@ -3834,9 +3834,10 @@ TRADES => Futures, Commodities, Stocks, Cryptocurrency, Forex
 ===> FLAGS
 🧨===> Fraud, Market Manipulation, Bribery, Sedition, Tax Evasion, Embezzlement, Identity Theft, Money Laundery, Forgery/ Counterfeiting, Theft
 🧨===>   Failure to follow regulation
-         Failure to report suspicious transactions
+         Failure to [report suspicious transactions/whistle blower]
          Tipping off a money launderer
          Assisting a money launderer
+
 ----------------------------------
 🧨
          RESPONSIBLE<===>LAW
@@ -3871,6 +3872,9 @@ NORMAL BUSINESS TRANSACTIONS
 10 Cash Transactions => VERY LARGE CASH Transaction
 11 Frequent conversions Crypto-FIAT or FIAT-Crypto => VERY LARGE and FREQUENT Transaction
 12 A NORMAL BUSINESS MUST REGISTER PROFIT AND LOSS
+👉 Transaction MUST HAVE DESCRIPTION/STORY
+👉 Transaction MUST RECONCILE IN ACCOUNT AUDIT <===> BETWEEN PARTIES INVOLVED
+👉 DELETE SOFTWARES AND HARDWARES INVOLVED
 ----------------------------------
 ```
 
