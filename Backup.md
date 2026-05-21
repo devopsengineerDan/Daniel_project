@@ -92,6 +92,8 @@ Master's  
 
 ===============================================================================================================================================
 
+![title](static/img/military_empire_state.png)
+![title](static/img/augustus.png)
 
 ### 🚀 DISTINGUISHED MANAGING DIRECTOR
 ### 🚀🚀🚀 [ORDER-BLOCK]--[SYSTEM,STRATEGY, TACTIC, RESEARCH]--[CUT-TAKE-PROFIT && CUT-STOP-LOSS]--[TIME && LIQUID]--[EQUITY && CONTEXT AWARENESS && MANAGEMENT]--[RISK MANAGEMENT]
