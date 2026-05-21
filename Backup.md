@@ -128,8 +128,8 @@ Master's  
 ### You cannot cheat the grind.
 
 -------------------
-### 🚀🚀🚀 ✅✅✅ DON'T LACK KNOWLEDGE, DON'T BE AN EXPERIMENT && VICTIM
-###             ✅ NAIVE                ✅ FOOLISH               ✅ STUPID
+### 🚀🚀🚀 ✅✅✅ DO NOT LACK KNOWLEDGE, DO NOT BE AN EXPERIMENT && VICTIM
+### 🚀🚀🚀 DO NOT BE ✅ NAIVE                ✅ FOOLISH               ✅ STUPID
 ### 🚀🚀🚀 BLAZING SWORD 
 ### 🚀 COURAGE(CONFIDENCE)
 ### 🚀 SYSTEM
