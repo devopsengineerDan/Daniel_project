@@ -123,7 +123,7 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
                Other Routers ---> Clients  
 ```
 
-- 🧨✅ Acrylic paste paint for artist
+- 🧨✅ Acrylic paste paint for ARTIST
 
 # ROADMAP
 
