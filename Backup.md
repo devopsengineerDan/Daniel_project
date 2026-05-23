@@ -93,11 +93,14 @@ Master's  
 ===============================================================================================================================================
 
 ![title](static/img/military_empire_state.png)
+
 ![title](static/img/augustus.png)
 
+- FORTUNE never rewards THE MAN who hesitates under safe lights. She rewards THE ONE WILLING to MOVE BEFORE CERTAINITY ARRIVES.
+  
 ### 🚀 DISTINGUISHED MANAGING DIRECTOR
 ### 🚀🚀🚀 [ORDER-BLOCK]--[SYSTEM,STRATEGY, TACTIC, RESEARCH]--[CUT-TAKE-PROFIT && CUT-STOP-LOSS]--[TIME && LIQUID]--[EQUITY && CONTEXT AWARENESS && MANAGEMENT]--[RISK MANAGEMENT]
-### 🚀 [MANAGEMENT & OPERATIONS & DEVELOPMENT] & PERFORMANCE OUTCOME/AFTERMATH
+### 🚀 [MANAGEMENT & OPERATIONS DISCIPLINE & DEVELOPMENT] & PERFORMANCE OUTCOME/AFTERMATH
 ### 🚀 MEASUREMENT | COMPLIANCE | QUALITY
 ### 🚀 BUDGET | LIFESTYLE | LOAN
 
