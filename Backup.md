@@ -93,7 +93,6 @@ Master's  
 ===============================================================================================================================================
 
 ![title](static/img/military_empire_state.png)
-
 ![title](static/img/augustus.png)
 
 - FORTUNE never rewards THE MAN who hesitates under safe lights. She rewards THE ONE WILLING to MOVE BEFORE CERTAINITY ARRIVES.
