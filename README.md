@@ -334,7 +334,7 @@ Farming + Lands => Light Group
                                                              👉 EXCHANGE TRADED FUND -> BIT for Bitcoin, GLD for Gold, SLV for Silver
                                                              👉 MUTUAL FUND
                                                        ===================================================================
-              =====> MEDIUM-TERM PERIOD [MONTHS-5-10-25]YRS ---> ✅ CRYPTOCURRENCY EXCHANGE ===> BINANCE
+              =====> MEDIUM-TERM PERIOD [MONTHS-5-10-25]YRS ---> ✅ CRYPTOCURRENCY EXCHANGE ===> BINANCE && PUBLIC LEDGER
                                                             🧨 =====>  HOLD + TRANSFER PROFITS ELSEWHERE
                                                             🧨 =====>  USE MARGIN when ACTIVELY TRADING && NO MARGIN when NOT ACTIVELY TRADING
                                                             🧨 =====>  ON INFORMATION OF COLLAPSE ON CRYPTOCURRENCY SELL ALL TOKENS
