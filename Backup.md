@@ -7843,12 +7843,23 @@ C1.png
  WHATSAPP BOT =>https://portal.infobip.com/
 
 
+=======================================================================================================
+
+👉  CAPACITOR FRAMEWORK [CONVERT WEB APP TO CROSS PLATFORM IOS, ANDROID, DESKTOP]
+https://www.youtube.com/watch?v=JMBtuNqy2QI
+=======================================================================================================
+
+
+
 
 =======================================================================================================
 
 👉  COOKIES BANNER && COOKIES MANAGEMENT ====> https://www.youtube.com/watch?v=Ikc-CYha3ug
 
 =======================================================================================================
+
+
+
 
 👉  EMAIL MANAGEMENT DJANGO ====> https://www.youtube.com/watch?v=xNqnHmXIuzU
 
@@ -7870,7 +7881,7 @@ Free-Tier Omnisend -> https://www.youtube.com/watch?v=TbbhYxGTLKA
 
 👉 PYTHON DJANGO DEPLOYMENT
 
-ANYWHERE -> https://www.youtube.com/watch?v=9BEKT0mEAso
+PYTHON ANYWHERE -> https://www.youtube.com/watch?v=9BEKT0mEAso
 NGROK -> https://www.youtube.com/watch?v=0xz5b6evj-w
 
 
