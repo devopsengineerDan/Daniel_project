@@ -603,24 +603,6 @@ Venture Capitalist===>Direct Investment
 > Founder, Head of Ǫuant R&D, CIO (FINANCIAL MODELLING && DATA ANALYTICS && ENGINEERING && SCIENCE)
 ### 🚀🚀🚀 [ORDER-BLOCK]--[SYSTEM,STRATEGY, TACTIC, RESEARCH]--[CUT-TAKE-PROFIT && CUT-STOP-LOSS]--[TIME && LIQUID]--[EQUITY && CONTEXT AWARENESS && MANAGEMENT]--[RISK MANAGEMENT]
 
-## (INDICES) Market Makers && Liquidity Providers
-### MON & TUE==Litmus Test
-# BIAS
-
-```
-1. STRATEGY,
-2. OPPOSITE-DIRECTION STRATEGY FOR THAT WEEK,
-3. 🧨EXIT:
-   6PM  -> 18.00
-   10PM -> 22.00
-   FVG  ---> MUST BE FILLED; IF NOT HALF OF IT.
-4. 👉👉👉 SMALL CANDLESTICKS MOVING IN THE SAME DIRECTION 
-```
-
-![title](static/img/IMG_1797_0316_144223_094_97.jpg)
-
----
-
 ## (GOLD) Market Movers
 ### MON==Litmus Test
 # BIAS
@@ -641,11 +623,47 @@ Venture Capitalist===>Direct Investment
 7. FRI [MOST OPTIMUM POSITION]
 ```
 
+---
+
+## (CRYPTOCURRENCY) Market Makers && Liquidity Providers
+### MON & TUE==Litmus Test
+
+```
+15<->18
+👉 1ST PHASE[1 -2]
+                     FALSE ---> Sun, Mon
+                     TRUE  ---> Tue, Wed, Thur, Fri, Sat
+
+👉 2ND PHASE[3-DAY BEFORE 1]
+                    FALSE  ---> Mon, Tue, Wed, Thur, Fri
+                    TRUE   ---> Sat, Sun
+``` 
+
+---
+
+## (INDICES) Market Makers && Liquidity Providers
+### MON & TUE==Litmus Test
+# BIAS
+
+```
+1. STRATEGY,
+2. OPPOSITE-DIRECTION STRATEGY FOR THAT WEEK,
+3. 🧨EXIT:
+   6PM  -> 18.00
+   10PM -> 22.00
+   FVG  ---> MUST BE FILLED; IF NOT HALF OF IT.
+4. 👉👉👉 SMALL CANDLESTICKS MOVING IN THE SAME DIRECTION 
+```
+
+![title](static/img/IMG_1797_0316_144223_094_97.jpg)
+
+
 # ✅ SILENCE (STRATEGY, TACTICS, PLAN)
 # ✅ INSTITUTION -> MARKET MAKERS, LIQUIDITY PROVIDERS, MARKET MOVERS/SHAKERS, ECONOMIC FUNDAMENTALS
 # ✅ VOLUME && BIAS STRATEGIES
 # ✅ DOUBLE-DOWN
 # ✅ 👉👉👉 RESEARCH -- BACK-TEST OR BACK-TRACK
+# ✅ LIQUIDITY FROM INSTITUTIONS
 
 ---
 
@@ -1821,9 +1839,9 @@ Higher Time Frame    Lower Time Frame
 
 > IMPULSIVE / EXPANSION 
 
-> RETRACEMENT
+> RETRACEMENT / MITIGATION BLOCK 
 
-> REVERSAL / MARKET SHIFT
+> REVERSAL / MARKET SHIFT / PULL-BACK
 
 > RETEST
 
@@ -2106,6 +2124,8 @@ INVESTMENT COMPANY ---> BINANCE *** CRYPTOCURRENCY PLATFORM PAYS TAXES 👉 If Y
 
 # 3. TAX PREREQUISITES
 
+- Tax Advisory ==>  https://ithera.africa/
+
 ```
 🧨🧨🧨 NO TAX TRIGGERED 🧨🧨🧨 ON RETAIN PROFIT AND REINVEST
 
@@ -2170,7 +2190,7 @@ CERT - Regulations & Market Practice KE
 
 OUTSOURCING INVESTMENT SERVICES [FINANCE] => 🧨 HENRIOT GROUP LTD FIRM - GAMMA DELTA FUND 🧨HAVE_CMA INVESTMENT_LICENSE🧨
 
-CLIENT => 👉  QUANT GROUP CONSULTANCY 🧨NO_CMA_LICENSE && NO_INVESTMENT_LICENSE🧨
+CLIENT => 👉 QUANT GROUP CONSULTANCY 🧨NO_CMA_LICENSE && NO_INVESTMENT_LICENSE🧨
 PUBLIC - GOVERNMENT =>  👉 LIGHT MANAGEMENT LTD 🧨HAVE_ MANAGEMENT && NGO _LICENSE🧨
 
 ```
@@ -2307,7 +2327,7 @@ Benefits
 ### Finance, Marketing && Tax Management ==> Accounting--Numbers
 ---
 
-### Insurance ==> Security--Guard--Fear
+### Insurance ==> Security--Guard--Fear--Chaos
 ### Investment Bank ==> Portfolio/Fund Management -> Tradiam Investments Services Limited--Eric Ruenji
 ### Brokerage Company ==> Kestrel Capital
 ### Hedge Fund
