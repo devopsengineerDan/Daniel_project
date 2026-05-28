@@ -3477,8 +3477,8 @@ whats-app:147369
 devopsengineerdan@gmail.com conardmomanyimoruri => dancunmoruri@gmail.com ==> 0706738969
 claude--->dancunmanyinsait@gmail.com CONARDMOMANYI@123456 => dancunmoruri@gmail.com ==> 0711444518
 dancunmoruri@gmail.com CONARDMOMANYI@654321 => eagleoverflow@gmail.com ==> 0706738969  (GOOGLEPAY && SAFARICOM Ziidi, Mali, Akiba) 
-claude--->kibe0853@gmail.com Rothchild@#!7654321 => dancunmoruri@gmail.com ==> 0706738969  WHATSAPP BACKUP ===> CONARDMOMANYI@654321 
-claude---> sterlingtuitioncentre0@gmail.com CateMolly1992
+kibe0853@gmail.com Rothchild@#!7654321 => dancunmoruri@gmail.com ==> 0706738969  WHATSAPP BACKUP ===> CONARDMOMANYI@654321 
+sterlingtuitioncentre0@gmail.com CateMolly1992
 
 
 META VR ===> kibe0853@gmail.com Qwerty@12345#&79! => Name:GeorgeMichaels97
@@ -3514,17 +3514,32 @@ Twitter/X Alternative: blueskyapp: https://bsky.app/ @engineerdancun ALPHA@987
 
 ------------------------------------------------------------------------------------------------------------------
 
+CLOUD TECHNOLOGIES
+Cloud Panel -> Server UI Control Panel
+Tomcat -> Java
+Azure -> C#
+
+Safaricom Hosting Domain - [EPP Code] from already existing domain for transfer to another domain hosting service provider
+Dreamhost
+
+Namecheap
+GoDaddy
+
+zoho mail
+proton mail
+
+
 DEPLOYMENT
 github - Web Frontend Technologies [Minimum Functionalities]
 ***********************************************
 pyscript for Web---Anaconda -> GITHUB
 Web into Kotlin Android App https://www.webintoapp.com/author/apps/create dancunmoruri@gmail.com ENGINEER@12345#Genius&!
 ***********************************************
-pythonanywhere -> dancummoruri@gmail.com: Qwerty@12345
-linode -> GITHUB
-Heroku -> GITHUB
-https://railway.com/ ===> SMALL TO MEDIUM PROJECTS
-https://render.com/  ===> MEDIUM TO LARGE PROJECTS
+pythonanywhere [python] -> dancummoruri@gmail.com: Qwerty@12345
+linode [Python] -> GITHUB
+Heroku [Python, Java, .NET C#]-> GITHUB
+https://railway.com/ [Python] ===> SMALL TO MEDIUM PROJECTS
+https://render.com/ [Python] ===> MEDIUM TO LARGE PROJECTS
 
 ------------------------------------------------------------------------------------------------------------------
 
