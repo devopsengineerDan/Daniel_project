@@ -114,8 +114,8 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
    ✅ Deepseek
    ✅ Octokit https://octokit.co/
 ------------------------------- 
-10.  DEBUG CODE  ✅ 1. CHATGPT 
-                 ✅ 2. CLAUDE
+10.  DEBUG CODE  ✅ 1. Error to CLAUDE  
+                 ✅ 2. Error to CHATGPT then (ChatGPT Solution) to CLAUDE
 -------------------------------
 ✅ INTERNET    Media Converter
                Mikrotik -> wispman.net
@@ -602,7 +602,7 @@ Venture Capitalist===>Direct Investment
 #  33 MASTERY
  
 > Founder, Head of Ǫuant R&D, CIO (FINANCIAL MODELLING && DATA ANALYTICS && ENGINEERING && SCIENCE)
-### 🚀🚀🚀 [ORDER-BLOCK]--[SYSTEM,STRATEGY, TACTIC, RESEARCH]--[CUT-TAKE-PROFIT && CUT-STOP-LOSS]--[TIME && LIQUID]--[EQUITY && CONTEXT AWARENESS && MANAGEMENT]--[RISK MANAGEMENT]
+### 🚀🚀🚀 [ORDER-BLOCK]--[SYSTEM,STRATEGY, TACTIC, RESEARCH]--[CUT-TAKE-PROFIT && CUT-STOP-LOSS]--[TIME && LIQUID]--[EQUITY && CONTEXT AWARENESS && MANAGEMENT]--[RISK MANAGEMENT]--[80-20 AND 100-100]
 
 ## (GOLD) Market Movers
 ### MON==Litmus Test
