@@ -7952,9 +7952,10 @@ DATABASE FLOW-CHART DIAGRAM
 ```
 👉 SOFTWARE ENGINEERING BEST PRACTICE
 
+
 🎯 SECURITY: gitignore files with security keys and use OTP message to manage payments when consuming apis from payment application system.
 
-
+🎯 REMOVE CACHE ON PROJECT FOLDER ---> find . -name "*.pyc" -delete find . -name "__pycache__" -type d -delete
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🎯 DOTFILES ON MY GITHUB
 
