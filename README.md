@@ -604,7 +604,7 @@ Venture Capitalist===>Direct Investment
 > Founder, Head of Ǫuant R&D, CIO (FINANCIAL MODELLING && DATA ANALYTICS && ENGINEERING && SCIENCE)
 ### 🚀🚀🚀 [ORDER-BLOCK]--[SYSTEM,STRATEGY, TACTIC, RESEARCH]--[CUT-TAKE-PROFIT && CUT-STOP-LOSS]--[TIME && LIQUID]--[EQUITY && CONTEXT AWARENESS && MANAGEMENT]--[RISK MANAGEMENT]--[80-20 AND 100-100]
 
-## (GOLD) Market Movers
+## (GOLD) Market Movers && Liquidity Providers
 ### MON==Litmus Test
 # BIAS
 
