@@ -127,6 +127,14 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 - LEDN- Bitcoin LOAN
 - 🧨✅ Acrylic paste paint for ARTIST
 
+---
+
+AI Training
+Handshake AI
+Propulsion/Propel AI
+
+https://genaijobs.co/jobs/financial-analyst
+
 # ROADMAP
 
 ```
@@ -603,6 +611,30 @@ Venture Capitalist===>Direct Investment
  
 > Founder, Head of Ǫuant R&D, CIO (FINANCIAL MODELLING && DATA ANALYTICS && ENGINEERING && SCIENCE)
 ### 🚀🚀🚀 [ORDER-BLOCK]--[SYSTEM,STRATEGY, TACTIC, RESEARCH]--[CUT-TAKE-PROFIT && CUT-STOP-LOSS]--[TIME && LIQUID]--[EQUITY && CONTEXT AWARENESS && MANAGEMENT]--[RISK MANAGEMENT]--[80-20 AND 100-100]
+
+```
+1ST ===> MOST SUCCESSFUL
+2ND ===> MOST SUCCESSFUL
+=======================================================
+FAITH[CHURCH AND CASINO]
+[YOU DO NOT HAVE WILL AND CONTROL OF THE MARKET]
+XAU---> BULLISH BIAS
+BITC ---> BULLISH BIAS
+US ---> BULLISH BIAS
+
+1. WHAT YOU SEE NOT WHAT YOU THINK
+2. FAITH AND OBEDIENCE IN THE PLAN/STRATEGY -- BUFFER
+3. FOLLOW THE TREND[DISCIPLINE] -- BUFFER
+4. DOUBLE-DOWN
+------------
+5. NOTE 
+6. COIN
+
+SINKING FUND
+---> BELOW INCOME            BUDGET -- AFFORD
+---> COMPLIANCE && SOCIAL
+---> AFFORD IT 10 X[TIMES]   LOAN   -- WORK
+```
 
 ## (GOLD) Market Movers && Liquidity Providers
 ### MON==Litmus Test
