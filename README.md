@@ -129,11 +129,11 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 
 ---
 
-AI Training
-Handshake AI
-Propulsion/Propel AI
+- AI Training
+- Handshake AI
+- Propulsion/Propel AI
 
-https://genaijobs.co/jobs/financial-analyst
+- https://genaijobs.co/jobs/financial-analyst
 
 # ROADMAP
 
