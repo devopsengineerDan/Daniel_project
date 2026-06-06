@@ -96,7 +96,26 @@ Master's  
 ![title](static/img/augustus.png)
 
 - FORTUNE NEVER REWARDS THE MAN WHO HESITATES UNDER SAFE LIGHT. SHE REWARDS THE ONE WILLING to MOVE BEFORE CERTAINITY ARRIVES. [👉STRICT]
-- THE UNIVERSE/WORLD IS ROUND YOU HAVE THE CORNERS [👉FEEL]  
+- THE UNIVERSE/WORLD IS ROUND YOU HAVE THE CORNERS [👉FEEL]
+  
+```
+COUCH ===> WHAT YOU SEE
+      ===> LET IT REVEIL ITSELF
+      ===> Know              Consistency  Accurate    Time      Truth        Responsibility
+           Connect the Dots  Discipline   Compliance  Way       Imagination  Love
+           Competitive       Hardwork     Realistic   Patience  Resistance   Law
+           
+SILENCE-FEEL
+           
+ANIMAL           
+Conscious  --- Unconscious
+Kind/Grace --- ANIMAL
+
+ORDER-BLOCK 
+BRITAIN-USA
+INSULAR--LAZY--PYSICAL STATE
+```
+
 ### 🚀 DISTINGUISHED MANAGING DIRECTOR
 ### 🚀🚀🚀 [ORDER-BLOCK]--[SYSTEM,STRATEGY, TACTIC, RESEARCH]--[CUT-TAKE-PROFIT && CUT-STOP-LOSS]--[TIME && LIQUID]--[EQUITY && CONTEXT AWARENESS && MANAGEMENT]--[RISK MANAGEMENT]--[80-20 AND 100-100]
 ### 🚀 [MANAGEMENT & OPERATIONS DISCIPLINE & DEVELOPMENT] & PERFORMANCE OUTCOME/AFTERMATH
