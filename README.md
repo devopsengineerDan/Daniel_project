@@ -116,6 +116,7 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 ------------------------------- 
 10.  DEBUG CODE  ✅ 1. Error to CLAUDE  
                  ✅ 2. Error to CHATGPT then (ChatGPT Solution) to CLAUDE
+                 ✅ 3. Error to COPILOT
 -------------------------------
 ✅ INTERNET    Media Converter
                Mikrotik -> wispman.net
