@@ -619,10 +619,14 @@ Venture Capitalist===>Direct Investment
 =======================================================
 FAITH[CHURCH AND CASINO]
 [YOU DO NOT HAVE WILL AND CONTROL OF THE MARKET]
-          DEMOCRAT            REPUBLICAN
-XAU--->   BULLISH BIAS        BEARISH BIAS
-BITC ---> BEARISH BIAS        BULLISH BIAS
-US --->   BEARISH BIAS        BULLISH BIAS
+             DEMOCRAT            REPUBLICAN
+👉 XAU--->   BULLISH BIAS        BEARISH BIAS
+👉 BITC ---> BEARISH BIAS        BULLISH BIAS
+👉 US --->   BEARISH BIAS        BULLISH BIAS
+----------------------------------------------------------
+👉 Discrete Strategy
+👉 Quantitative Strategy
+👉 Fundamental Strategy
 
 1. WHAT YOU SEE NOT WHAT YOU THINK
 2. FAITH AND OBEDIENCE IN THE PLAN/STRATEGY -- BUFFER
@@ -632,7 +636,7 @@ US --->   BEARISH BIAS        BULLISH BIAS
 5. NOTE 
 6. COIN
 
-SINKING FUND
+👉 SINKING FUND
 ---> BELOW INCOME            BUDGET -- AFFORD
 ---> COMPLIANCE && SOCIAL
 ---> AFFORD IT 10 X[TIMES]   LOAN   -- WORK
