@@ -637,9 +637,10 @@ FAITH[CHURCH AND CASINO]
 6. COIN
 
 👉 SINKING FUND
+                             ADVANCE && R&D INNOVATION && SYSYEM 🧨🧨🧨
 ---> BELOW INCOME            BUDGET -- AFFORD
 ---> COMPLIANCE && SOCIAL
----> AFFORD IT 10 X[TIMES]   LOAN   -- WORK
+---> AFFORD IT 10 X[TIMES]   LOAN   -- WORK 🧨🧨🧨
 ```
 
 ## (GOLD) Market Movers && Liquidity Providers
