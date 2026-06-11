@@ -616,7 +616,7 @@ Venture Capitalist===>Direct Investment
 ```
 1ST ===> MOST SUCCESSFUL
 2ND ===> MOST SUCCESSFUL
-=======================================================
+==============================================================================================================
 FAITH[CHURCH AND CASINO]
 [YOU DO NOT HAVE WILL AND CONTROL OF THE MARKET]
              DEMOCRAT            REPUBLICAN
@@ -627,7 +627,17 @@ FAITH[CHURCH AND CASINO]
 👉 Discrete Strategy
 👉 Quantitative Strategy
 👉 Fundamental Strategy
-
+==============================================================================================================
+🧨🧨🧨 STRONG 🧨🧨🧨 ===> SCARED MONEY MAKES NO MONEY[QUICK TAKING OF PROFIT & EXITING OF TRADE]
+🧨 STRONG TAKE PROFIT && EXIT ON AN ORDER BLOCK 🧨
+🧨 ---> ONCE I RECOGNIZE AN LOSS-ORIENTED TREND IN PRICE, EXIT TRADE.
+   ---> ADAPT TO A PROFIT-ORIENTED TREND 🧨
+🧨 REPEAT 🧨
+++++++++++++++++++++++++++++++++++++++++++
+✅ Where is PRICE HEADING TO 
+✅ WANT && DO NOT NEED
+✅ Trading is PERIODICAL [NOT ALL THE TIME]
+==============================================================================================================
 1. WHAT YOU SEE NOT WHAT YOU THINK
 2. FAITH AND OBEDIENCE IN THE PLAN/STRATEGY -- BUFFER
 3. FOLLOW THE TREND[DISCIPLINE] -- BUFFER
@@ -635,7 +645,7 @@ FAITH[CHURCH AND CASINO]
 ------------
 5. NOTE 
 6. COIN
-
+==============================================================================================================
 👉 SINKING FUND
                              ADVANCE && R&D INNOVATION && SYSYEM 🧨🧨🧨
 ---> BELOW INCOME            BUDGET -- AFFORD
@@ -744,7 +754,7 @@ Short-term  ===> Acceptable Profit
 
 DEBT BUBBLE             <----------------------->    GOVERNMENT AID         
 CASINO                  <----------------------->    BAIL OUT
-COMPUTER DERIVATIVES    <----------------------->    QUANTITATIVE EASING
+COMPUTER DERIVATIVES    <----------------------->    QUANTITATIVE EASING ---> BE AWARE OF QUANTITATIVE TIGHTENING
 
 ================================================================================
 
