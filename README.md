@@ -618,7 +618,9 @@ Venture Capitalist===>Direct Investment
 2ND ===> MOST SUCCESSFUL
 ==============================================================================================================
 FAITH[CHURCH AND CASINO]
-[YOU DO NOT HAVE WILL AND CONTROL OF THE MARKET]
+[YOU DO NOT HAVE WILL AND CONTROL OF THE MARKET] [9/10] -> Higher-Probability                  
+                                                 [5/10] -> Mid-Probability
+                                                 [1/10] -> Low-Probability 
              DEMOCRAT            REPUBLICAN
 👉 XAU--->   BULLISH BIAS        BEARISH BIAS
 👉 BITC ---> BEARISH BIAS        BULLISH BIAS
@@ -637,6 +639,7 @@ FAITH[CHURCH AND CASINO]
 ✅ Where is PRICE HEADING TO 
 ✅ WANT && DO NOT NEED
 ✅ Trading is PERIODICAL [NOT ALL THE TIME]
+🧨🧨🧨✅✅✅ AVOID GetEvenItIs Syndrome ---> Wanting to Break Even from the Market
 ==============================================================================================================
 1. WHAT YOU SEE NOT WHAT YOU THINK
 2. FAITH AND OBEDIENCE IN THE PLAN/STRATEGY -- BUFFER
