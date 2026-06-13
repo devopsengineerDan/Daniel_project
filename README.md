@@ -616,6 +616,8 @@ Venture Capitalist===>Direct Investment
 ```
 1ST ===> MOST SUCCESSFUL
 2ND ===> MOST SUCCESSFUL
+3RD ===> FACULTIES
+
 ==============================================================================================================
 FAITH[CHURCH AND CASINO]
 [YOU DO NOT HAVE WILL AND CONTROL OF THE MARKET] [9/10] -> Higher-Probability                  
@@ -640,6 +642,8 @@ FAITH[CHURCH AND CASINO]
 ✅ WANT && DO NOT NEED
 ✅ Trading is PERIODICAL [NOT ALL THE TIME]
 🧨🧨🧨✅✅✅ AVOID GetEvenItIs Syndrome ---> Wanting to Break Even from the Market
+🧨🧨🧨✅✅✅ AVOID Vengeance Syndrome ---> Wanting to Beat the Market after a Drawdown
+
 ==============================================================================================================
 1. WHAT YOU SEE NOT WHAT YOU THINK
 2. FAITH AND OBEDIENCE IN THE PLAN/STRATEGY -- BUFFER
