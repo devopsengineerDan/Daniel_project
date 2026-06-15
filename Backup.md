@@ -3494,9 +3494,9 @@ phone: 1493
 whats-app:147369
 
 devopsengineerdan@gmail.com conardmomanyimoruri => dancunmoruri@gmail.com ==> 0706738969
-claude--->dancunmanyinsait@gmail.com CONARDMOMANYI@123456 => dancunmoruri@gmail.com ==> 0711444518
+dancunmanyinsait@gmail.com CONARDMOMANYI@123456 => dancunmoruri@gmail.com ==> 0711444518
 dancunmoruri@gmail.com CONARDMOMANYI@654321 => eagleoverflow@gmail.com ==> 0706738969  (GOOGLEPAY && SAFARICOM Ziidi, Mali, Akiba) 
-kibe0853@gmail.com Rothchild@#!7654321 => dancunmoruri@gmail.com ==> 0706738969  WHATSAPP BACKUP ===> CONARDMOMANYI@654321 
+claude--->kibe0853@gmail.com Rothchild@#!7654321 => dancunmoruri@gmail.com ==> 0706738969  WHATSAPP BACKUP ===> CONARDMOMANYI@654321 
 sterlingtuitioncentre0@gmail.com CateMolly1992
 
 
