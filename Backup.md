@@ -3608,10 +3608,68 @@ CodeWars && LeetCode && AlgoExpert -> GITHUB
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 QuantConnect ---> dancunmanyinsait@gmail.com 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-PEPPERSTONE_SECURE_CLIENT ---> eagleoverflow@gmail.com
-Wallet#1 -> Johnson1*@#!33A
+PEPPERSTONE_SECURE_CLIENT ---> eagleoverflow@gmail.com --- Johnson1*@#!33A
 Professional  -> Royal^&*99GRAnd | DDdfgthh@$$5656
-Standard DEMO -> Standard#12345
+PEPPERSTONE_SECURE_CLIENT ---> sterlingtuitioncentre0@gmail.com --- NgigiTHe@#*&789 
+Digital -> T057@#%TakeGT!A 
+```
+Register as a Pepperstone Pro
+Under SCB regulation, retail clients will be capped at 1:200 leverage and margin close out levels will be set at 50%. If you choose to be classified as an Elective Professional Client or "Pepperstone Pro", you'll be able to trade up to 1:1000, however you will lose some retail protections. These are outlined below.
+
+What will change if I classify as Pepperstone Pro?
+You'll be able to trade with leverage up to 1:1000 (on MT4/5)
+Your margin close-out level will be set at 20% (vs 50% for retail) on MT4/5 (cTrader margin close-out will remain at 50%)
+You're not guaranteed negative balance protection however you may be eligible for a once off negative balance protection of up to USD$100,000
+You won't receive the same risk warnings or disclosures that you'd receive as a retail client
+We'll rely on your knowledge and experience as a Pepperstone Pro to demonstrate your understanding of the risks of trading our products
+
+Will anything else change on my account?
+All other trading conditions, account features and functionality remains the same. As a Professional Client, your funds may be applied in accordance with regulatory requirements to support risk management activities.
+
+You can find out more about the reclassification process and eligibility criteria here.
+
+What do I need to do to elect to be a Pepperstone Pro?
+This is a self-certification process, which will start when you choose "Get Started" below.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Protections you will lose as a Pepperstone Pro
+
+Please read to the bottom and agree to continue
+
+Risk warning: you'll waive some protections as an Elective Professional Client
+
+If you qualify to be an Elective Professional Client (known as a Pepperstone Pro), you'll no longer be entitled to certain protections afforded to retail clients under the Securities Industry Regulations 2012. These include, but may not be limited to:
+
+Appropriateness: As a Pepperstone Pro you acknowledge that you have the necessary levels of experience and knowledge to transact in CFDs and FX with Pepperstone. We may therefore assume that you have the necessary level of experience and knowledge to understand the risks involved where we assess whether a product or service is appropriate for you.
+
+No negative balance protection: your losses can exceed your deposits and you won't be entitled to retail negative account balance protection. However, you may be eligible for a once off negative balance protection of up to USD$100,000.
+
+Leverage limitations: any regulated retail leverage ratios won't apply to you and as a Pepperstone Pro client you'll be able to access elective professional leverage ratios.
+
+Margin close-out: we won't be required to close-out your position(s) if your equity falls below 50% of the required margin. As a Pepperstone Pro client you margin close-out level will remain at 20% on MT4/5 (cTrader margin close-out will remain at 50%).
+
+Disclosures: we don't need to disclose the basis or amount that we'll charge you for trading with us, or any amount that we may pay to any of our affiliates.
+
+Disclosures on promotions and communications: there are no restrictions on the type and the content of the financial promotions that we'll offer you. Although these promotions must still be fair, clear and not misleading. As a Pepperstone Pro client, we may consider your trading expertise and use more sophisticated language than when communicating with retail clients.
+
+Risk warnings: we're not required to give your risk warnings or notices regarding our products.
+
+Risks and other important information are detailed in the Risk Disclosure Notice.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Agreement and declaration as a Pepperstone Pro
+Please read to the bottom and agree to continue
+
+I certify that I genuinely have the experience and knowledge required to understand the risks and product features associated with trading FX and CFDs.
+
+I understand that I'm not guaranteed negative balance protection.
+
+I declare that all information that I’ve provided as part of this Pepperstone Pro application is complete, accurate and not misleading in any way.
+
+I agree to notify Pepperstone as soon as possible if my circumstances change in a way that may reasonably impact my ability to meet the minimum standards set out by Pepperstone for a Pepperstone Pro classification.
+
+I understand and agree that Pepperstone Markets Limited may use my funds for hedging, counteracting or off-setting risk in accordance with applicable laws and regulations.
+
+By clicking "Agree", I understand that Pepperstone Markets Limited will treat this as a written request from me and I consent to be treated as a Pepperstone Pro.
+```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 EXNESS ---> quantumaiquant@gmail.com
 WEB -> ALPHA1one@987#
