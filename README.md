@@ -113,6 +113,9 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 9. ✅ CLAUDE AI TOOL
    ✅ Deepseek
    ✅ Octokit https://octokit.co/
+***********************************
+   ✅ KIRO ===> ADVANCE AI MODEL AND AGENTS TOOL
+   ✅ ROGO ===> FINANCIAL MANAGEMENT TOOL
 ------------------------------- 
 10.  DEBUG CODE  ✅ 1. Error to CLAUDE  
                  ✅ 2. Error to CHATGPT then (ChatGPT Solution) to CLAUDE
