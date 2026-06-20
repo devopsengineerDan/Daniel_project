@@ -3494,10 +3494,10 @@ phone: 1493
 whats-app:147369
 
 devopsengineerdan@gmail.com conardmomanyimoruri => dancunmoruri@gmail.com ==> 0706738969
-dancunmanyinsait@gmail.com CONARDMOMANYI@123456 => dancunmoruri@gmail.com ==> 0711444518
-dancunmoruri@gmail.com CONARDMOMANYI@654321 => eagleoverflow@gmail.com ==> 0706738969  (GOOGLEPAY && SAFARICOM Ziidi, Mali, Akiba) 
-claude--->kibe0853@gmail.com Rothchild@#!7654321 => dancunmoruri@gmail.com ==> 0706738969  WHATSAPP BACKUP ===> CONARDMOMANYI@654321 
-sterlingtuitioncentre0@gmail.com CateMolly1992
+claude--->dancunmanyinsait@gmail.com CONARDMOMANYI@123456 => dancunmoruri@gmail.com ==> 0711444518
+claude--->dancunmoruri@gmail.com CONARDMOMANYI@654321 => eagleoverflow@gmail.com ==> 0706738969  (GOOGLEPAY && SAFARICOM Ziidi, Mali, Akiba) 
+claude--->kibe0853@gmail.com Rothchild@#!7651 => dancunmoruri@gmail.com ==> 0706738969  WHATSAPP BACKUP ===> CONARDMOMANYI@654321 
+claude--->sterlingtuitioncentre0@gmail.com CateMolly1992
 
 
 META VR ===> kibe0853@gmail.com Qwerty@12345#&79! => Name:GeorgeMichaels97
@@ -3505,7 +3505,7 @@ claude--->grishongrish726@gmail.com Qwerty@12345
 
 BUSINESS ACCOUNT[Cybersecurity and AI]
 eagleoverflow@gmail.com SUNANDPLANETS => dancunmoruri@gmail.com ==> 0706738969
-quantumaiquant@gmail.com SUNANDPLANETS => dancunmoruri@gmail.com ==> 0706738969
+claude--->quantumaiquant@gmail.com SUNANDPLANETS => dancunmoruri@gmail.com ==> 0706738969
 claude--->gitagiacarol@gmail.com Catlyx2019 => dancunmoruri@gmail.com
 
 --------------------------------------------------------------------------------------------------------------------------------------
