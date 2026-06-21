@@ -95,17 +95,20 @@ Master's  
 ![title](static/img/military_empire_state.png)
 ![title](static/img/augustus.png)
 
+- A SHOT AT NATURE, LIFE, NATURE.
 - FORTUNE NEVER REWARDS THE MAN WHO HESITATES UNDER SAFE LIGHT. SHE REWARDS THE ONE WILLING to MOVE BEFORE CERTAINITY ARRIVES. [👉STRICT]
 - THE UNIVERSE/WORLD IS ROUND YOU HAVE THE CORNERS [👉FEEL]
   
+---
+
 ```
 COUCH ===> WHAT YOU SEE
-      ===> LET IT REVEIL ITSELF
+      ===> LET IT REVEIL ITSELF [VAIL/LENSE]
       ===> Know              Consistency  Accurate    Time      Truth        Responsibility
            Connect the Dots  Discipline   Compliance  Way       Imagination  Love
            Competitive       Hardwork     Realistic   Patience  Resistance   Law
            
-SILENCE-FEEL
+🚀🚀🚀👉👉👉 SILENCE---FEEL
            
 ANIMAL           
 Conscious  --- Unconscious
@@ -114,20 +117,23 @@ Kind/Grace --- ANIMAL
 ORDER-BLOCK 
 BRITAIN-USA
 INSULAR--LAZY--PYSICAL STATE
+
+===> LAW           ===> LEADER    ===> CONSTITUTION/AGREEMENT
+===> MILITARY      ===> PARTY     ===> PEOPLE
 ```
 
 ### 🚀 DISTINGUISHED MANAGING DIRECTOR
 ### 🚀🚀🚀 [ORDER-BLOCK]--[SYSTEM,STRATEGY, TACTIC, RESEARCH]--[CUT-TAKE-PROFIT && CUT-STOP-LOSS]--[TIME && LIQUID]--[EQUITY && CONTEXT AWARENESS && MANAGEMENT]--[RISK MANAGEMENT]--[80-20 AND 100-100]
 ### 🚀 [MANAGEMENT & OPERATIONS DISCIPLINE & DEVELOPMENT] & PERFORMANCE OUTCOME/AFTERMATH
 ### 🚀 MEASUREMENT | COMPLIANCE | QUALITY
-### 🚀 BUDGET | LIFESTYLE | LOAN
+### 🚀 BUDGET | CASH-FLOW LIFESTYLE | LOAN
 
 ### 🚀 BLAZING SWORDS ---> 🚀PROTECT[KNOWLEDGE] 🚀PRESENT[WISDOM] 
 ###                        --- 🚀RULING[NEUTRAL/BALANCE] --- 🚀FUTURE[IMAGINATION] AND 🚀PAST[MEMORY]
 ### 🚀 MILITARY | INDUSTRIAL | COMPLEX
 ###    MILITARY | EMPIRE     | RELIGION
 ###    FEAR     | POVERTY    | CHAOS 
-###               DIVISION
+###              🚀DIVISION🚀
 ###    KILL     | DESTROY    | STEAL
 ### 👉 CONSCIOUS FEEL RULE UNCONSCIOUS FEEL
 ### 👉 THE OBEDIENT RULE THE DISOBEDIENT
