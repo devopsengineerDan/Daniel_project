@@ -926,6 +926,41 @@ Cryptocurrency
 ```
 ---------------------------------------------------------
 
+# EXCHANGE/BROKER REVENUES(Commission, Spread, Swap)
+
+# SWAP
+Interest payment made for holding a trading position overnight.
+
+# COMMISSION
+Fee charged by brokers for executing trades.
+
+# SPREAD
+Difference between the buying price (ask) and the selling price (bid) of an asset. This difference is a key component of trading costs and represents how brokers earn their income.
+Key Components of Spread
+
+    Selling Price(Bid Price): The highest price a buyer is willing to pay for an asset.
+    Buying Price(Ask Price): The lowest price a seller is willing to accept for an asset.
+    Spread: The gap/difference between the bid and ask prices.
+
+### Importance of Spread
+
+The spread is crucial for traders as it affects profitability. A narrower spread indicates a more liquid market, meaning it is easier to buy and sell assets without incurring high costs. Conversely, a wider spread suggests lower liquidity and higher transaction costs.
+Factors Influencing Spread
+
+### Several factors can affect the size of the spread:
+
+    Liquidity: More liquid assets typically have tighter spreads.
+    Trading Volume: Higher trading volumes can lead to narrower spreads.
+    Volatility: Increased market volatility often results in wider spreads.
+
+### Types of Spreads
+
+There are different types of spreads in trading, including:
+
+    Bid-Ask Spread: The most common type, referring to the difference between the bid and ask prices.
+    Yield Spread: The difference in yields between two different bonds or financial instruments.
+    Option-Adjusted Spread: Used in options trading, reflecting the difference in price between a security with an embedded option and one without.
+
 # BID AND ASK PRICES
 
 ![title](static/img/bid_ask.jpg)
