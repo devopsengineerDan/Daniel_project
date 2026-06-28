@@ -3616,12 +3616,12 @@ QuantConnect ---> dancunmanyinsait@gmail.com
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 PEPPERSTONE_SECURE_CLIENT ---> https://secure.pepperstone.com/login ---> eagleoverflow@gmail.com --- Johnson1*@#!33A
 
-PepperstoneBS Standard__Commodity__  -> Royal^&*99GRAnd | DDdfgthh@$$5656
-PepperstoneBS Standard__Double-down__  -> 
+PepperstoneBS Standard__Commodity__  -> DTfgthK@$&57
+PepperstoneBS Standard__Double-down__  -> Kab$#!hf97
 
-PepperstoneBS Standard__Index30__   -> 
-PepperstoneBS Standard__Index100__  -> 
-PepperstoneBS Standard__Index500__  -> 
+PepperstoneBS Standard__Index30__   -> RTa1l^&*79GRA
+PepperstoneBS Standard__Index100__  -> Tx79*$1gjdK
+PepperstoneBS Standard__Index500__  -> AQhkg17&@$#
 
 PEPPERSTONE_SECURE_CLIENT ---> https://secure.pepperstone.com/login ---> sterlingtuitioncentre0@gmail.com --- NgigiTHe@#*&7891 
 
