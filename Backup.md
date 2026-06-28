@@ -3614,10 +3614,32 @@ CodeWars && LeetCode && AlgoExpert -> GITHUB
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 QuantConnect ---> dancunmanyinsait@gmail.com 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-PEPPERSTONE_SECURE_CLIENT ---> eagleoverflow@gmail.com --- Johnson1*@#!33A
-Professional  -> Royal^&*99GRAnd | DDdfgthh@$$5656
-PEPPERSTONE_SECURE_CLIENT ---> sterlingtuitioncentre0@gmail.com --- NgigiTHe@#*&789 
-Digital -> T057@#%TakeGT!A 
+PEPPERSTONE_SECURE_CLIENT ---> https://secure.pepperstone.com/login ---> eagleoverflow@gmail.com --- Johnson1*@#!33A
+
+PepperstoneBS Standard__Commodity__  -> Royal^&*99GRAnd | DDdfgthh@$$5656
+PepperstoneBS Standard__Double-down__  -> 
+
+PepperstoneBS Standard__Index30__   -> 
+PepperstoneBS Standard__Index100__  -> 
+PepperstoneBS Standard__Index500__  -> 
+
+PEPPERSTONE_SECURE_CLIENT ---> https://secure.pepperstone.com/login ---> sterlingtuitioncentre0@gmail.com --- NgigiTHe@#*&7891 
+
+PepperstoneBS Standard__Commodity__  -> T057@#%TakeGT!A
+PepperstoneBS Standard__Double-down__  -> AfgkZ&*53#78
+
+PepperstoneBS Standard__Digital__  -> Zry76*#$%23A
+PepperstoneBS Standard__Index30__   -> KGjkr@#937
+PepperstoneBS Standard__Index100__  -> Qhj397$#%7*K
+PepperstoneBS Standard__Index500__  -> GTrdj875@#&
+
+-------------------------------------------------
+
+PepperstoneBS Razor__Digital__  -> Tfgh785&*
+PepperstoneBS Razor__Index30__  -> XghAj*&917
+PepperstoneBS Razor__Index100__  -> GfDi*&@!79
+PepperstoneBS Razor__Index500__  -> Zdhk7!#27 
+
 ```
 Register as a Pepperstone Pro
 Under SCB regulation, retail clients will be capped at 1:200 leverage and margin close out levels will be set at 50%. If you choose to be classified as an Elective Professional Client or "Pepperstone Pro", you'll be able to trade up to 1:1000, however you will lose some retail protections. These are outlined below.
@@ -3681,11 +3703,14 @@ EXNESS ---> quantumaiquant@gmail.com
 WEB -> ALPHA1one@987#
 PN -> 979891
 
-Pro   -> QuantRoyal^&*@987#
+Standard__Commodity__ -> Python*@#97
+Standard__Double-down__ -> 
+
+Pro__Commodity__ -> QuantRoyal^&*@987#
+
 Pro DEMO -> Standard#12345
 
-Standard   -> Python*@#97
-Standard DEMO -> Standard#1
+Raw__Commodity__ -> Afj975#SmjKL
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 FBS ---> quantumaiquant@gmail.com
 WEB -> Bright*&99LONDON#!
