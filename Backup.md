@@ -10,6 +10,7 @@ October -> **James Go Ahead**4TScripts + ChairLetter
 
 OR 
 
+
 [Victor's Resemblance]
 4) James Go Ahead -> [4Tscripts & Completion Letter]
 3) Dep -> Frontend_CompletedStatus & Backend_CompletedStatus
