@@ -330,6 +330,28 @@ Daniel ===> GOLF ACADEMIES
 Farming + Lands => Light Group   
 ```
 
+# FINANCIAL EXPERTS AND REVENUE SOURCE & STREAM
+
+```
+🧨GVT
+🧨Rothchild
+
+🧨Elon Musk
+🧨Larry Ellison
+
+🧨Warren Buffet
+
+--------------------------------------------------
+
+🧨🧨🧨 SECURITIES ---> GOLD , STOCKS, SHARES
+🧨🧨🧨 LIQUID ---> CASH/ DIGITAL MONEY
+
+🧨🧨🧨 EQUITY
+🧨🧨🧨 DIGITAL CURRENCY
+
+🧨🧨🧨 PRIVATE CAPITAL
+🧨🧨🧨 VENTURE CAPITAL
+```
 
 # EXCHANGE MARKET (STOCK, FOREX, COMMODITY, CRYPTOCURRENCY)
 
