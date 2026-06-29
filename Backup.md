@@ -102,13 +102,17 @@ Master's  
 ---
 
 ```
-COUCH ===> WHAT YOU SEE
+COUCH ===> WHAT YOU SEE, FEEL, SMELL, HEAR
       ===> LET IT REVEIL ITSELF [VAIL/LENSE]
-      ===> Know              Consistency  Accurate    Time      Truth        Responsibility
-           Connect the Dots  Discipline   Compliance  Way       Imagination  Love
-           Competitive       Hardwork     Realistic   Patience  Resistance   Law
+      ===> Know              Consistency  Accurate    Right-Time      Truth        Responsibility
+           Connect the Dots  Discipline   Compliance  Right-Way       Imagination  Love
+           Competitive       Hardwork     Realistic   Right-Patience  Resistance   Law
+
+----------------------------------------------------------------------------------------------------------------------------
            
 🚀🚀🚀👉👉👉 SILENCE---FEEL
+
+----------------------------------------------------------------------------------------------------------------------------
            
 ANIMAL           
 Conscious  --- Unconscious
@@ -120,6 +124,18 @@ INSULAR--LAZY--PYSICAL STATE
 
 ===> LAW           ===> LEADER    ===> CONSTITUTION/AGREEMENT
 ===> MILITARY      ===> PARTY     ===> PEOPLE
+
+----------------------------------------------------------------------------------------------------------------------------
+
+                                        CAPITAL
+                                        STYLE
+                                        SUBSTANCE
+AFFORD---WITHIN BUDGET
+MONEY
+WORK
+                                        APPROACH
+                                        PSYCHOLOGY
+                                        PERFORMANCE      
 ```
 
 ### 🚀 DISTINGUISHED MANAGING DIRECTOR
