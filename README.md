@@ -343,11 +343,12 @@ Farming + Lands => Light Group
 
 --------------------------------------------------
 
-🧨🧨🧨 SECURITIES ---> GOLD , STOCKS, SHARES
+🧨🧨🧨 SECURITIES ---> GOLD , STOCKS, SHARES ===> Retaining Value Assets, Earning Dividends and Bonuses
+                                             ===> Buying and Selling
 🧨🧨🧨 LIQUID ---> CASH/ DIGITAL MONEY
 
-🧨🧨🧨 EQUITY
-🧨🧨🧨 DIGITAL CURRENCY
+🧨🧨🧨 COMMODITY, EQUITY ===> Hedging
+🧨🧨🧨 DIGITAL CURRENCY  ===> Hedging
 
 🧨🧨🧨 PRIVATE CAPITAL
 🧨🧨🧨 VENTURE CAPITAL
