@@ -103,6 +103,10 @@ Master's  
 ---
 
 ```
+🚀🚀🚀👉👉👉 SILENCE---FEEL
+
+----------------------------------------------------------------------------------------------------------------------------           
+
 COUCH ===> WHAT YOU SEE, FEEL, SMELL, HEAR
       ===> LET IT REVEIL ITSELF [VAIL/LENSE]
       ===> Know              Consistency  Accurate    Right-Time      Truth        Responsibility
@@ -111,13 +115,10 @@ COUCH ===> WHAT YOU SEE, FEEL, SMELL, HEAR
 
 ----------------------------------------------------------------------------------------------------------------------------
            
-🚀🚀🚀👉👉👉 SILENCE---FEEL
-
-----------------------------------------------------------------------------------------------------------------------------
-           
-ANIMAL           
+ROBOT-ANIMAL           
 Conscious  --- Unconscious
-Kind/Grace --- ANIMAL
+Kind/Grace --- Unkind     
+               ANIMAL-ROBOT
 
 ORDER-BLOCK 
 BRITAIN-USA
@@ -3632,7 +3633,11 @@ CodeWars && LeetCode && AlgoExpert -> GITHUB
 QuantConnect ---> dancunmanyinsait@gmail.com 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 PEPPERSTONE_SECURE_CLIENT ---> https://secure.pepperstone.com/login ---> eagleoverflow@gmail.com --- Johnson1*@#!33A
-IB LINK -> https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=46840
+PARTNERS -> https://partners.pepperstone.com/
+         -> https://partners.pepperstone.com/?iss=https%3A%2F%2Fauth.pepperstone.com%2F&lng=en
+
+IB REFERAL LINK -> https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=46840
+FREIEND REFERAL LINK -> https://pepperstone.com/global/go/refer-a-friend/?locale=en&promo_type=RAF&utm_source=2493565
 
 PepperstoneBS Standard__Commodity__  -> DTfgthK@$&57
 PepperstoneBS Standard__Double-down__  -> Kab$#!hf97
