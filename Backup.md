@@ -3635,6 +3635,14 @@ QuantConnect ---> dancunmanyinsait@gmail.com
 PEPPERSTONE_SECURE_CLIENT ---> https://secure.pepperstone.com/login ---> eagleoverflow@gmail.com --- Johnson1*@#!33A
 PARTNERS -> https://partners.pepperstone.com/
          -> https://partners.pepperstone.com/?iss=https%3A%2F%2Fauth.pepperstone.com%2F&lng=en
+		 
+-------------------------------------------------------------------
+
+https://admin.pepperstonepartners.com/login ---> EaglePepper@97!#
+Select your account type:
+Affiliate, IB or MAM.  ---> https://partnership.pepperstone.com/en/partner-login/
+
+
 
 IB REFERAL LINK -> https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=46840
 FREIEND REFERAL LINK -> https://pepperstone.com/global/go/refer-a-friend/?locale=en&promo_type=RAF&utm_source=2493565
