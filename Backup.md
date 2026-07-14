@@ -103,7 +103,8 @@ Master's  
 ---
 
 ```
-🚀🚀🚀👉👉👉 SILENCE---FEEL
+🚀🚀🚀👉👉👉 STRENGTH AND TOTAL CONTROL
+🚀🚀🚀👉👉👉 A+ SILENCE---FEEL
 
 ----------------------------------------------------------------------------------------------------------------------------           
 
@@ -127,17 +128,33 @@ INSULAR--LAZY--PYSICAL STATE
 ===> LAW           ===> LEADER    ===> CONSTITUTION/AGREEMENT
 ===> MILITARY      ===> PARTY     ===> PEOPLE
 
-----------------------------------------------------------------------------------------------------------------------------
+=============================================================================================================================
 
                                         CAPITAL
                                         STYLE
                                         SUBSTANCE
+
 AFFORD---WITHIN BUDGET
 MONEY
 WORK
+
                                         APPROACH
                                         PSYCHOLOGY
-                                        PERFORMANCE      
+                                        PERFORMANCE
+
+=============================================================================================================================
+
+                                        CARE - UNITY
+                                        DISCIPLINE - LOVE
+                                        INTEGRITY - PEACE
+ 
+NAIVE
+EXPERIMENT
+VICTIM
+
+                                       HEDONISTIC - PLEASURE
+                                       RELIGIOUS
+                                       ANGER         
 ```
 
 ### 🚀 DISTINGUISHED MANAGING DIRECTOR
