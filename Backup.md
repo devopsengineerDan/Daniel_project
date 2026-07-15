@@ -144,15 +144,15 @@ WORK
 
 =============================================================================================================================
 
-                                        CARE - UNITY
+                                        CARE - UNITY            👉 SHEEP --- OBEDIENCE
                                         DISCIPLINE - LOVE
                                         INTEGRITY - PEACE
  
-NAIVE
+NAIVE       👉 NEUROSIS
 EXPERIMENT
 VICTIM
 
-                                       HEDONISTIC - PLEASURE
+                                       HEDONISTIC - PLEASURE   👉 GOAT --- DISOBEDIENCE
                                        RELIGIOUS
                                        ANGER         
 ```
