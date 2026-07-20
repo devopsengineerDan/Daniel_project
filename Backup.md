@@ -143,6 +143,12 @@ WORK
                                         PERFORMANCE
 
 =============================================================================================================================
+                                        
+                                        
+                                        🚀 SPIRIT
+                                        🚀 MIND
+                                        🚀 ENERGY
+                                        🚀 BODY
 
                                         CARE - UNITY            👉 SHEEP --- OBEDIENCE ---> HEART ---> ORGANIZED LOVE
                                         DISCIPLINE - LOVE
@@ -154,7 +160,11 @@ VICTIM
 
                                        HEDONISTIC - PLEASURE   👉 GOAT --- DISOBEDIENCE ---> MIND ---> SELF
                                        RELIGIOUS
-                                       ANGER         
+                                       ANGER
+
+                                      🚀 UNCONSCIOUS
+                                      🚀 NEUROSIS --- STAGNATION
+                                      🚀 DECAY --- DEATH      
 ```
 
 ### 🚀 DISTINGUISHED MANAGING DIRECTOR
