@@ -104,7 +104,7 @@ Master's  
 
 ```
 🚀🚀🚀👉👉👉 STRENGTH AND TOTAL CONTROL
-🚀🚀🚀👉👉👉 A+ SILENCE---FEEL
+🚀🚀🚀👉👉👉 A+ SILENCE---FEEL  
 
 ----------------------------------------------------------------------------------------------------------------------------           
 
@@ -129,6 +129,19 @@ INSULAR--LAZY--PYSICAL STATE
 ===> MILITARY      ===> PARTY     ===> PEOPLE
 
 =============================================================================================================================
+
+
+WHY  --- KING     --- INTELLIGENCE
+HOW  --- GRACIOUS --- GOVERNMENT
+WHAT --- SLAVE    --- FINANCE[British-USA-China]
+---------------------------------------------------------------------------------------------------------------------------
+
+ASSET --- Security, Business, Intellect[Knowledge && Wisdom], Digital && Paper Money, [Human, Real-Estate, Commodity]
+         MINDSET
+CASH-FLOW
+          STRUCTURE
+
+---------------------------------------------------------------------------------------------------------------------------
 
                                         CAPITAL
                                         STYLE
