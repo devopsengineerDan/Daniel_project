@@ -134,13 +134,17 @@ INSULAR--LAZY--PYSICAL STATE
 WHY  --- KING     --- INTELLIGENCE
 HOW  --- GRACIOUS --- GOVERNMENT
 WHAT --- SLAVE    --- FINANCE[British-USA-China]
----------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------
 
 ASSET --- Security, Business, Intellect[Knowledge && Wisdom], Digital && Paper Money, [Human, Real-Estate, Commodity]
          MINDSET
 CASH-FLOW
           STRUCTURE
-
+---------------------------------------------------------
+SPIRITUAL
+          INTELLECTUAL
+SOCIAL
+          HEALTH
 ---------------------------------------------------------------------------------------------------------------------------
 
                                         CAPITAL
