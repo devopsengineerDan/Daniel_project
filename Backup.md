@@ -3460,6 +3460,7 @@ Fitness -> Chris Heria        https://www.youtube.com/watch?v=3p8EBPVZ2Iw
 ```
 web: gunicorn waweru.wsgi --log-file -
 ```
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -3695,9 +3696,9 @@ FREIEND REFERAL LINK -> https://pepperstone.com/global/go/refer-a-friend/?locale
 PepperstoneBS Standard__Commodity__  -> DTfgthK@$&57
 PepperstoneBS Standard__Double-down__  -> Kab$#!hf97
 
-PepperstoneBS Standard__Index30__   -> RTa1l^&*79GRA
-PepperstoneBS Standard__Index100__  -> Tx79*$1gjdK
-PepperstoneBS Standard__Index500__  -> AQhkg17&@$#
+PepperstoneBS Standard__Index30__     -> RTa1l^&*79GRA
+PepperstoneBS Standard__Index100__    -> Tx79*$1gjdK
+PepperstoneBS Standard__Index500__    -> AQhkg17&@$#
 
 --------------------------------------------------
 
