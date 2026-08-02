@@ -3494,7 +3494,6 @@ BIOS Supervisor: Right index/ devopsengineer
 
 
 
-.................................................
 
 =============================================================================================================================================================================
 
@@ -3690,6 +3689,8 @@ Affiliate, IB or MAM.  ---> https://partnership.pepperstone.com/en/partner-login
 
 IB REFERAL LINK -> https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=46840
 FREIEND REFERAL LINK -> https://pepperstone.com/global/go/refer-a-friend/?locale=en&promo_type=RAF&utm_source=2493565
+
+--------------------------------------------------
 
 PepperstoneBS Standard__Commodity__  -> DTfgthK@$&57
 PepperstoneBS Standard__Double-down__  -> Kab$#!hf97
