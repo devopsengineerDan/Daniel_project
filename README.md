@@ -2659,40 +2659,40 @@ Five interconnected disciplines designed to help institutions, businesses, and h
 
 ## 1 Corporate Finance & Advisory
 From mergers and acquisitions to business restructuring and valuations, our corporate finance team provides strategic transaction support with precision.
-Mergers, acquisitions, and divestiture advisory
-Independent business valuations
-Corporate restructuring and turnaround advisory
-Market entry and feasibility analysis
-Transaction due diligence and structuring
+- Mergers, acquisitions, and divestiture advisory
+- Independent business valuations
+- Corporate restructuring and turnaround advisory
+- Market entry and feasibility analysis
+- Transaction due diligence and structuring
 
 ## 2 Capital Raising & Structuring
 We connect ambitious businesses with tailored capital solutions through equity, debt, private placements, and hybrid financing structures.
-Equity issuance and IPO advisory
-Debt structuring and syndicated loans
-Private placement fundraising
-Hybrid capital instrument structuring
-Investor relations and roadshow management
+- Equity issuance and IPO advisory
+- Debt structuring and syndicated loans
+- Private placement fundraising
+- Hybrid capital instrument structuring
+- Investor relations and roadshow management
 
 ## 3 Asset & Fund Management
 Our investment management arm oversees diversified portfolios across multiple asset classes with disciplined risk management and performance oversight.
-Discretionary and advisory portfolio management
-Fixed income and money market fund management
-Real estate and infrastructure investment vehicles
-Institutional mandates for pension funds and insurers
-ESG-aligned and impact investment strategies
+- Discretionary and advisory portfolio management
+- Fixed income and money market fund management
+- Real estate and infrastructure investment vehicles
+- Institutional mandates for pension funds and insurers
+- ESG-aligned and impact investment strategies
 
 ## 4 Wealth Management
 We help high-net-worth individuals and families grow, protect, and transfer wealth across generations through bespoke investment strategies.
-Bespoke portfolio construction and asset allocation
-Tax-efficient wealth and estate planning
-Alternative investment access
-Multi-generational wealth transfer strategies
-Dedicated relationship management for family offices
+- Bespoke portfolio construction and asset allocation
+- Tax-efficient wealth and estate planning
+- Alternative investment access
+- Multi-generational wealth transfer strategies
+- Dedicated relationship management for family offices
 
 ## 5 Research & Market Intelligence
 Our research desk delivers deep, data-driven analysis of macroeconomic trends, sector dynamics, and investment opportunities.
-Macroeconomic and geopolitical analysis
-Sector-specific investment research reports
-Market outlook and opportunity briefs
-Competitive benchmarking and peer analysis
-Real-time market monitoring and alerts
+- Macroeconomic and geopolitical analysis
+- Sector-specific investment research reports
+- Market outlook and opportunity briefs
+- Competitive benchmarking and peer analysis
+- Real-time market monitoring and alerts
