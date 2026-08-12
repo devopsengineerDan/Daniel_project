@@ -2651,3 +2651,48 @@ What Is a Registered Agent?
 A Registered Agent’s primary purpose is to receive service of process lawsuits on behalf of your company. The Registered Agent then must forward that notice to their communication contact person on a timely basis. The Registered Agent is a physical (not virtual) office open during business hours where a sheriff or private process server can deliver legal notices located in the state of incorporation. For a company that also files Certificates of Authority to do business in other states, that company must also have a Registered Agent in each additional state where it is qualified to do business. Having a Registered Agent is a legal requirement of each state. If you live in the business’ home state, you can act as your own Registered Agent, otherwise business owners appoint a Registered Agent such as IncNow.
 
 Registered Agents often offer additional corporate services that help you maintain your business and its good standing with the state.
+
+------------
+
+# Integrated Financial Solutions
+Five interconnected disciplines designed to help institutions, businesses, and high-net-worth individuals navigate complexity, unlock growth, and preserve wealth with confidence.
+
+## 1 Corporate Finance & Advisory
+From mergers and acquisitions to business restructuring and valuations, our corporate finance team provides strategic transaction support with precision.
+Mergers, acquisitions, and divestiture advisory
+Independent business valuations
+Corporate restructuring and turnaround advisory
+Market entry and feasibility analysis
+Transaction due diligence and structuring
+
+## 2 Capital Raising & Structuring
+We connect ambitious businesses with tailored capital solutions through equity, debt, private placements, and hybrid financing structures.
+Equity issuance and IPO advisory
+Debt structuring and syndicated loans
+Private placement fundraising
+Hybrid capital instrument structuring
+Investor relations and roadshow management
+
+## 3 Asset & Fund Management
+Our investment management arm oversees diversified portfolios across multiple asset classes with disciplined risk management and performance oversight.
+Discretionary and advisory portfolio management
+Fixed income and money market fund management
+Real estate and infrastructure investment vehicles
+Institutional mandates for pension funds and insurers
+ESG-aligned and impact investment strategies
+
+## 4 Wealth Management
+We help high-net-worth individuals and families grow, protect, and transfer wealth across generations through bespoke investment strategies.
+Bespoke portfolio construction and asset allocation
+Tax-efficient wealth and estate planning
+Alternative investment access
+Multi-generational wealth transfer strategies
+Dedicated relationship management for family offices
+
+## 5 Research & Market Intelligence
+Our research desk delivers deep, data-driven analysis of macroeconomic trends, sector dynamics, and investment opportunities.
+Macroeconomic and geopolitical analysis
+Sector-specific investment research reports
+Market outlook and opportunity briefs
+Competitive benchmarking and peer analysis
+Real-time market monitoring and alerts
