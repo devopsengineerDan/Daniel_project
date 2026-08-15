@@ -2653,7 +2653,10 @@ A Registered Agent’s primary purpose is to receive service of process lawsuits
 Registered Agents often offer additional corporate services that help you maintain your business and its good standing with the state.
 
 ------------
+# Financial Services Analyst, Researcher, Trader and Manager
 
+- Portfolio management, Investment research, Credit analysis, Financial modelling, Asset allocation, and Institutional client advisory, with a track record managing Multi-asset portfolios across Equities, Fixed income, Money markets, Offshore investments, and Alternatives
+  
 # Integrated Financial Solutions
 Five interconnected disciplines designed to help institutions, businesses, and high-net-worth individuals navigate complexity, unlock growth, and preserve wealth with confidence.
 
