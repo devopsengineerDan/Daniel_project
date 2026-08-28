@@ -14757,9 +14757,20 @@ AFTER getting 2ND CERT = REST.
 
 # MEDICINE
 
+- Epididymitis / Epididymo-orchitis / -- Leading to Testicular-orchitis
+- Epididymal Cyst / -- Leading to Testicular Cysts
+- Inguinal Hernia 
+- Varicoceles
+
 ```
-Flucona zole 150mg 3/7
-Doxycline capsules 5/7
+- Fluconazole 150mg 3/7
+- Doxycline capsules 5/7
+
+
+===> VDM Kit
+- Fluconazole
+- Azithromycin
+- Secnidazole
 ```
 
 
