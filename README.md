@@ -531,6 +531,9 @@ If Stock Index price is Below National Treasuries price, price is Unfavourable h
 # ---> STABILIZATION/LIQUIDITY FUND - Cover Stress on struggling saccos and thriving saccos put their excess money.
 # ---> DEPOSIT FUND - Cover Default
 
+
+### System specifications
+
 ```
 1. Data Protection
 2. Rate Limit on API
@@ -677,8 +680,9 @@ FAITH[CHURCH AND CASINO]
 3. FOLLOW THE TREND[DISCIPLINE] -- BUFFER
 4. DOUBLE-DOWN
 ------------
-5. NOTE 
-6. COIN
+5. NOTE + REVIEW
+6. COIN ===> Catch the Probability -> ACCURATE + KNOW
+        ===> Flexible
 ==============================================================================================================
 👉 SINKING FUND
                              ADVANCE && R&D INNOVATION && SYSYEM 🧨🧨🧨
@@ -742,24 +746,26 @@ FAITH[CHURCH AND CASINO]
 ![title](static/img/IMG_1797_0316_144223_094_97.jpg)
 
 
-# ✅ SILENCE (STRATEGY, TACTICS, PLAN)
-# ✅ INSTITUTION -> MARKET MAKERS, LIQUIDITY PROVIDERS, MARKET MOVERS/SHAKERS, ECONOMIC FUNDAMENTALS
-# ✅ VOLUME && BIAS STRATEGIES
-# ✅ DOUBLE-DOWN
-# ✅ 👉👉👉 RESEARCH -- BACK-TEST OR BACK-TRACK
-# ✅ LIQUIDITY FROM INSTITUTIONS
+### ✅ SILENCE (STRATEGY, TACTICS, PLAN)
+### ✅ INSTITUTION -> MARKET MAKERS, LIQUIDITY PROVIDERS, MARKET MOVERS/SHAKERS, ECONOMIC FUNDAMENTALS
+### ✅ VOLUME && BIAS STRATEGIES
+### ✅ DOUBLE-DOWN
+### ✅ 👉👉👉 RESEARCH -- BACK-TEST OR BACK-TRACK
+### ✅ LIQUIDITY FROM INSTITUTIONS
 
 ---
 
-# ❌ SMART MONEY CONCEPT -> ORDER BLOCK
-# ❌ PRICE ACTION BASED ON MARKET STRUCTURE -> RANDOM
-# ❌ GOLD/USD INSTITUTION -> DEFIANT
+### ❌ SMART MONEY CONCEPT -> ORDER BLOCK
+### ❌ PRICE ACTION BASED ON MARKET STRUCTURE + MULTI-TIME FRAME ANALYSIS -> RANDOM
+### ❌ GOLD/USD INSTITUTION -> DEFIANT
 
 ---
 
-# 🧨🧨🧨 AOO Area Of Operation (Positive && Negative Selection Portfolio)
-# 👉 Call Account rather than Savings Account
-# 👉 Check off your Account to CONFIRM Investment Opportunities Transactions have COMPLETED
+#### 🧨🧨🧨 AOO Area Of Operation (Positive && Negative Selection Portfolio)
+#### 👉 Call Account rather than Savings Account
+#### 👉 Account for dealing with frequent retail shops
+#### 👉 Check off your Account to CONFIRM Investment Opportunities Transactions have COMPLETED
+
 
 ---
 
@@ -2262,6 +2268,15 @@ Withholding = 5% * Total Amount Received
 Remainder = 25% * Final Balance; Whereby Final   = Balance after - Operational
                                          Balance   5%Withholding   Cost
 👉 (TOT) Turn Over Tax= 1.5% ---> Paid by Individual Content Creators
+```
+
+---
+
+# NSE
+
+```
+👉 Special Purpose Acquisition Company (SPAC)
+👉 Unquoted Securities Platform (USP) - An automated solution for the issuance and trading of securities of unquoted companies in the private -- not listed companies, before or in preparation to come to the listed market .
 ```
 
 ---
