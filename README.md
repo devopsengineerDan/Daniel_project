@@ -2275,8 +2275,8 @@ Remainder = 25% * Final Balance; Whereby Final   = Balance after - Operational
 # NSE
 
 ```
-👉 Special Purpose Acquisition Company (SPAC)
-👉 Unquoted Securities Platform (USP) - An automated solution for the issuance and trading of securities of unquoted companies in the private -- not listed companies, before or in preparation to come to the listed market .
+👉 Special Purpose Acquisition Company (SPAC) for Venture Capitalist to raise funds. ---> SPACs NSE  https://youtu.be/VeL3P4Pt-aQ?si=TQMffxCjbS5_sfYm
+👉 Unquoted Securities Platform (USP) - An automated solution for the issuance and trading of securities of unquoted companies in the private -- not listed companies, before or in preparation to come to the listed market.
 ```
 
 ---
