@@ -112,8 +112,18 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 
 9. 🧨 CODE COMPRESSOR https://codebeautify.org/html-compressor
    ✅ CLAUDE AI TOOL
-   ✅ Deepseek
-   ✅ Octokit https://octokit.co/
+   ✅ ANTI-GRAVITY AI TOOL
+   ✅ PERPLEXITY AI TOOL
+   ✅ DEEPSEEK AI TOOL
+   ✅ CHATGPT AI TOOL
+   ✅ OCTOKIT AI TOOL  https://octokit.co/
+***********************************
+   ✅ WAP payment
+   ✅ SOLANN payment
+   ✅ PAYPAL payment
+
+   ✅ BINANCE payment
+   ✅ LOCAL CRYPTO payment
 ***********************************
    ✅ KIRO ===> ADVANCE AI MODEL AND AGENTS TOOL
    ✅ ROGO ===> FINANCIAL MANAGEMENT TOOL
@@ -128,8 +138,9 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
                Other Routers ---> Clients  
 ```
 
-- IREN - Cloud
-- LEDN- Bitcoin LOAN
+- IREN - Cloud Data Centers
+- LEDN - Bitcoin LOAN
+  
 - 🧨✅ Acrylic paste paint for ARTIST
 
 ---
@@ -2292,11 +2303,19 @@ Remainder = 25% * Final Balance; Whereby Final   = Balance after - Operational
 👉===> Sub-Broker License
 👉===> WHITE LABEL/WHITE PAPER
 ###################################
-👉===> (ISP) Intermediary Service Provider License ===> 10M
+👉===> (ISP) Intermediary Service Provider License ===> 2M ===> 10M
 👉👉👉 Corporate License
-👉 Insurance && Bank ---> (CIS) Collective Investment Scheme License ✅ Dealing License for Fund Management Companies(Unit Trust)
-👉 Broker License ✅ Non-dealing License
-👉 Hedge Fund ---> Money Manager License ✅ Dealing License ===> https://tradesense.co.ke/
+👉 Insurance && Bank ---> (CIS) Collective Investment Scheme License ===> 10M ✅ Dealing License for Fund Management Companies(Unit Trust)
+👉 Broker License ===> 30M ✅ Non-dealing License
+👉 Hedge Fund ---> Money Manager License ===> 10M ✅ Dealing License ===> https://tradesense.co.ke/
+-----> High Profile Investors - To AVOID Compelling/Forcing the market(Placing Counter Positions)
+
+- Asset Manager/ Wealth Manager/ Investment Bank
+- Fund Manager
+- Mutual/Unit Fund
+- Pension Fund
+- Private Fund
+- Venture Capitalist
 
 ----------------------------------------------------
 -> 3 Professional Certs
@@ -2457,14 +2476,16 @@ Benefits
 
 ----
 
-### Wealth/Asset Management ==> Accounting--Numbers
-### Finance, Marketing && Tax Management ==> Accounting--Numbers
+### Wealth/Asset Management ===> Accounting--Numbers
+### Finance, Marketing && Tax Management ===> Accounting--Numbers
 ---
 
-### Insurance ==> Security--Guard--Fear--Chaos
-### Investment Bank ==> Portfolio/Fund Management -> Tradiam Investments Services Limited--Eric Ruenji
-### Brokerage Company ==> Kestrel Capital
-### Hedge Fund
+### Insurance ===> Security--Guard--Fear--Chaos
+### Investment Bank ===> Portfolio/Fund Management -> Tradiam Investments Services Limited--Eric Ruenji
+### Brokerage Company ===> Kestrel Capital
+### Hedge Fund ===> wwww.50t.holdings
+               ===> www.50funds.com
+			   
 ### Properties && Minerals
  
 ----
@@ -2668,10 +2689,37 @@ A Registered Agent’s primary purpose is to receive service of process lawsuits
 Registered Agents often offer additional corporate services that help you maintain your business and its good standing with the state.
 
 ------------
+
 # Financial Services Analyst, Researcher, Trader and Manager
 
 - Portfolio management, Investment research, Credit analysis, Financial modelling, Asset allocation, and Institutional client advisory, with a track record managing Multi-asset portfolios across Equities, Fixed income, Money markets, Offshore investments, and Alternatives
   
+# CERTIFICATIONS 
+
+- https://cisi.org/
+  
+```
+-----> Introductiom to SEcurities and Investment Kenya
+-----> Regulation and Market Practice Kenya
+```
+
+- https://corporatefinanceinstitute.com/  
+
+```
+-----> Finance Analysis Fundamentals
+-----> Financial Modelling (Security Analysis, Stock Valuation, Macro Economics, Micro Economics, Political Fundamentals)
+
+Accounting Fundamentals
+Reading Financial Statements
+
+Math for Finance Professionals
+Monthly Cashflow Modelling
+3-Statement Modelling
+
+Corporate Business Strategy
+Corporate Finance Fundamentals
+```
+
 # Integrated Financial Solutions
 Five interconnected disciplines designed to help institutions, businesses, and high-net-worth individuals navigate complexity, unlock growth, and preserve wealth with confidence.
 
@@ -2714,3 +2762,85 @@ Our research desk delivers deep, data-driven analysis of macroeconomic trends, s
 - Market outlook and opportunity briefs
 - Competitive benchmarking and peer analysis
 - Real-time market monitoring and alerts
+
+---
+
+# EXPERT ADVISOR (EA)
+
+A - Allocation
+S - Stop LOss
+S - Position Size
+E - Entry
+T - Target
+
+- ✅ Trading Style, Where is Price going, BIAS + Confirmation, Market Structure, Rate of Confidence
+- ✅ Pschology
+- ✅ Risk Management
+Low Risk    --- Boring
+Medium Risk --- Professional --- 🧨 CHURCH
+High Risk   --- Dangerous    --- 🧨 CASINO
+🧨🧨🧨🧨 PRICE LEVEL STOCK 100,000 ----> BIG ROUND NUMBER THESIS of the market, Price will STOP the market cold.
+ 
+- ✅ Efficiency in Market - Market Maker 🧨 NEVER USE (2.0, 5.0, 0.0)
+- ✅ Time Weighted Average Price (TWAP)
+- ✅ Volume Weighted Average Price (VWAP)
+- ✅ Liquidity (Past 5pm)
+- ✅ Volatility (summer dol drums usually less volatility e.g June, July, August)
+  
+---
+
+# COMPANY PROFILE
+1. Licensed
+2. No Direct Handling of Money
+3. No inflation to Economy
+4.  Advisor - LP, LLC
+5.  Management - LLC
+6.  Investors - LLC
+- License Fee 30M
+- 8% of Liability(Client's Money)
+- System
+- Company License
+- Group Background
+- Fit & Professional
+- Business Plan
+- Incorporated Limited Liability
+- Address
+  
+---
+
+# INSTITUTIONS
+
+Active  --- Market Execution
+Passive --- Limit Order
+
+- Club Limit Order Book (CLUB) - Institutions trading with one another.
+- Prime Broker - Provides Exchange for Market Makers.
+- Market Maker - Makes Price which are used to fill order book to facilitate buying and selling.
+- Price to Earning Ratio - Period it will take to achieve Return On Investment(ROI)
+- Price to Book Value
+  1) Per Share Basis = Market Price per share
+                       -----------------------
+                       Book Value per share
+ 
+  2) Company Wide Basis = Market Capitalization
+                          ----------------------------
+                          Total Book Value of Equity
+
+---
+
+# PROCUREMENT
+
+1. EOI (EXPRESSION OF INTEREST) ----> CONSULTANCY
+2. RFQ (REQUEST FOR QUOTATION)  ----> SUPPLIES
+3. CONSTRUCTION
+
+## PROPERTY
+
+
+- Measurements on Architectural DRawings and Sales Agreement
+- Actual Payments, Receipts, Receipts of Emails on Sales Agreements
+- Construction Activity, NO DELAY/EXCUSE/FAILURE
+- Lit apartment; No Darkness
+- Title Deed; True Details
+- No Court Cases
+- NOT NEAR Government INSTALLATIONS e.g Airport, Water plants
