@@ -2818,6 +2818,7 @@ Passive --- Limit Order
 - Market Maker - Makes Price which are used to fill order book to facilitate buying and selling.
 - Price to Earning Ratio - Period it will take to achieve Return On Investment(ROI)
 - Price to Book Value
+```
   1) Per Share Basis = Market Price per share
                        -----------------------
                        Book Value per share
@@ -2825,6 +2826,7 @@ Passive --- Limit Order
   2) Company Wide Basis = Market Capitalization
                           ----------------------------
                           Total Book Value of Equity
+```
 
 ---
 
