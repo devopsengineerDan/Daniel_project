@@ -2767,11 +2767,13 @@ Our research desk delivers deep, data-driven analysis of macroeconomic trends, s
 
 # EXPERT ADVISOR (EA)
 
+```
 A - Allocation
-S - Stop LOss
+S - Stop Loss
 S - Position Size
 E - Entry
 T - Target
+```
 
 - ✅ Trading Style, Where is Price going, BIAS + Confirmation, Market Structure, Rate of Confidence
 - ✅ Pschology
