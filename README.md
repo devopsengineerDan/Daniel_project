@@ -2776,11 +2776,13 @@ T - Target
 - ✅ Trading Style, Where is Price going, BIAS + Confirmation, Market Structure, Rate of Confidence
 - ✅ Pschology
 - ✅ Risk Management
+```
 Low Risk    --- Boring
 Medium Risk --- Professional --- 🧨 CHURCH
 High Risk   --- Dangerous    --- 🧨 CASINO
 🧨🧨🧨🧨 PRICE LEVEL STOCK 100,000 ----> BIG ROUND NUMBER THESIS of the market, Price will STOP the market cold.
- 
+```
+
 - ✅ Efficiency in Market - Market Maker 🧨 NEVER USE (2.0, 5.0, 0.0)
 - ✅ Time Weighted Average Price (TWAP)
 - ✅ Volume Weighted Average Price (VWAP)
@@ -2810,9 +2812,10 @@ High Risk   --- Dangerous    --- 🧨 CASINO
 
 # INSTITUTIONS
 
+```
 Active  --- Market Execution
 Passive --- Limit Order
-
+```
 - Club Limit Order Book (CLUB) - Institutions trading with one another.
 - Prime Broker - Provides Exchange for Market Makers.
 - Market Maker - Makes Price which are used to fill order book to facilitate buying and selling.
