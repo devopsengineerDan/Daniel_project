@@ -149,11 +149,12 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 - Handshake AI
 - Propulsion/Propel AI
   
-# CYBERSECURITY JOBS
+# CYBERSECURITY, FINANCE, BLOCKCHAIN JOBS
 
 - https://genaijobs.co/jobs/financial-analyst
 - https://www.paloaltonetworks.com/
 - https://www.fortinet.com/
+- https://abdcfunds.com/
   
 # ROADMAP
 
