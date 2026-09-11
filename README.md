@@ -154,7 +154,7 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 - https://genaijobs.co/jobs/financial-analyst
 - https://www.paloaltonetworks.com/
 - https://www.fortinet.com/
-- https://abdcfunds.com/
+- https://abdcfunds.com/  Public Raise - Blockchain Verified - Asset-Backed Credit
   
 # ROADMAP
 
