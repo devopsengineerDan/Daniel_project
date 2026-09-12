@@ -2708,8 +2708,9 @@ Registered Agents often offer additional corporate services that help you mainta
 -----> Regulation and Market Practice Kenya
 ```
 
-- https://corporatefinanceinstitute.com/  
-
+- https://corporatefinanceinstitute.com/
+- Financial Modeling & Valuation Analyst (FMVA) from Corporate Finance Institute (CFI)
+  
 ```
 -----> Finance Analysis Fundamentals
 -----> Financial Modelling (Security Analysis, Stock Valuation, Macro Economics, Micro Economics, Political Fundamentals)
@@ -2724,6 +2725,8 @@ Monthly Cashflow Modelling
 Corporate Business Strategy
 Corporate Finance Fundamentals
 ```
+
+- Association of Chartered Certified Accountants (ACCA)
 
 # Integrated Financial Solutions
 Five interconnected disciplines designed to help institutions, businesses, and high-net-worth individuals navigate complexity, unlock growth, and preserve wealth with confidence.
@@ -2781,7 +2784,7 @@ T - Target
 ```
 
 - ✅ Trading Style, Where is Price going, BIAS + Confirmation, Market Structure, Rate of Confidence
-- ✅ Pschology
+- ✅ Psychology
 - ✅ Risk Management
 ```
 Low Risk    --- Boring
