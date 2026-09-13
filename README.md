@@ -2710,6 +2710,7 @@ Registered Agents often offer additional corporate services that help you mainta
 
 - https://corporatefinanceinstitute.com/
 - Financial Modeling & Valuation Analyst (FMVA) from Corporate Finance Institute (CFI)
+- YOUTUBE ---> FinQuiz Pro @finquizpro && Learn Finance Institute @learnfinanceinstitute
   
 ```
 -----> Finance Analysis Fundamentals
