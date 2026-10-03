@@ -3522,7 +3522,7 @@ SAF PORTAL: @@aUrsAP@w9x.j@
 1. MSHWARI ===> MAXIMUM THRESHOLD
 2. @SMALL AMOUNT ZIIDI MMF ===> USSD CODE: *334#
 3. @BIG AMOUNT MALI INVESTMENT ===> USSD CODE: *230# / *334#
-4. GLOBAL PAY VISA CARD: 4987 0500 1188 6128 EXPIRY: MM/YY 03/28 CVV VALID: 249
+4. GLOBAL PAY VISA CARD: 4987 0500 1188 6128 EXPIRY: MM/YY 03/28 971 CVV VALID: 249
     
 SAF
 To easily reset your M-PESA PIN in future, set your M-PESA security questions. Dial *334#, select My account>M-PESA PIN Manager >Set M-PESA security questions,
@@ -3781,6 +3781,7 @@ I understand and agree that Pepperstone Markets Limited may use my funds for hed
 
 By clicking "Agree", I understand that Pepperstone Markets Limited will treat this as a written request from me and I consent to be treated as a Pepperstone Pro.
 ```
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 EXNESS ---> quantumaiquant@gmail.com
 WEB -> ALPHA1one@987#
@@ -3798,6 +3799,12 @@ Raw__Commodity__ -> Afj975#SmjKL
 FBS ---> quantumaiquant@gmail.com
 WEB -> Bright*&99LONDON#!
 
+CRYPTO, 1000 MARGIN, BINARY -> https://trench.io/markets ---> kibe0853@gmail.com
+
+ANZO
+WEB -> Alpha&&Omega1
+PN -> QWERTy@123!45!
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 ----------------------------------------------------------------------------
 
@@ -3816,6 +3823,7 @@ Fundingpips ---> dancunmoruri@gmail.com -> Alpha1@987#
 
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+*** RISE ***
 INGOT ---> dancunmoruri@gmail.com 
 WEB -> DAVIDQwerty@987#
 
@@ -3867,7 +3875,7 @@ SAVINGS => DTB ---> dancunmoruri@gmail.com   ---> 0711444518     PN --->    %%%-
 ACC 382 ===> DRIVE dancunmoruri@gmail.com
 *382#
 Paybill -> 516600
-5951948001 -> 963385
+5951948001 -> 963385 / 193597
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 SAVINGS => DUKASCOPY_Swiss_Banking_Group ---> dancunmoruri@gmail.com  ---> 0706738969   PN --->   %%%-ATM DETAILS-%%%
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
