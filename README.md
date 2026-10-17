@@ -2756,7 +2756,7 @@ We connect ambitious businesses with tailored capital solutions through equity, 
 - Hybrid capital instrument structuring
 - Investor relations and roadshow management
 
-## 3 Asset & Fund Management
+## 3 Asset & Fund Management(Fixed Income, Equities[Stocks and Shares], Derivatives, ETFs)
 Our investment management arm oversees diversified portfolios across multiple asset classes with disciplined risk management and performance oversight.
 - Discretionary and advisory portfolio management
 - Fixed income and money market fund management
@@ -2764,7 +2764,7 @@ Our investment management arm oversees diversified portfolios across multiple as
 - Institutional mandates for pension funds and insurers
 - ESG-aligned and impact investment strategies
 
-## 4 Wealth Management
+## 4 Private Wealth Management
 We help high-net-worth individuals and families grow, protect, and transfer wealth across generations through bespoke investment strategies.
 - Bespoke portfolio construction and asset allocation
 - Tax-efficient wealth and estate planning
