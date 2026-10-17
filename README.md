@@ -2166,14 +2166,17 @@ Higher Time Frame    Lower Time Frame
 
 # QUANT ENGINEER PROFESSIONAL
 
-
-=> https://x.com/pyquantnews
-=> https://www.pyquantnews.com/
-
+- Python Quant News
+ https://x.com/pyquantnews
+ https://www.pyquantnews.com/
+- Finance and Accounting https://coursivo.io
+- Creative Coding https://domestika.org
 
  ----------------------------
- 
+
+# A MUST HAVE
 ```
+=> APEX FUND ADMINISTRATOR (Finance, Accounting, Tax)
 => PEPPERSTONE Broker
 => Interactive Broker
 => MyFXBook
@@ -2701,7 +2704,7 @@ Registered Agents often offer additional corporate services that help you mainta
   
 # CERTIFICATIONS 
 
-- https://cisi.org/
+- 1. https://cisi.org/
   
 ```
 -----> Introductiom to SEcurities and Investment Kenya
@@ -2709,8 +2712,9 @@ Registered Agents often offer additional corporate services that help you mainta
 ```
 
 - https://corporatefinanceinstitute.com/
-- Financial Modeling & Valuation Analyst (FMVA) from Corporate Finance Institute (CFI)
+- 2. Financial Modeling & Valuation Analyst (FMVA) from Corporate Finance Institute (CFI)
 - YOUTUBE ---> FinQuiz Pro @finquizpro && Learn Finance Institute @learnfinanceinstitute
+
   
 ```
 -----> Finance Analysis Fundamentals
@@ -2727,7 +2731,11 @@ Corporate Business Strategy
 Corporate Finance Fundamentals
 ```
 
-- Association of Chartered Certified Accountants (ACCA)
+- 3. Chartered Finance Analyst
+- 4. Association of Chartered Certified Accountants (ACCA)
+- 5. Certified Anti-Money Laundering Specialist - ACAMS
+
+
 
 # Integrated Financial Solutions
 Five interconnected disciplines designed to help institutions, businesses, and high-net-worth individuals navigate complexity, unlock growth, and preserve wealth with confidence.
