@@ -149,12 +149,17 @@ Global Markets ===> FINANCIAL THEORY https://www.youtube.com/watch?v=HdHlfiOAJyE
 - Handshake AI
 - Propulsion/Propel AI
   
-# CYBERSECURITY, FINANCE, BLOCKCHAIN JOBS
+# CYBERSECURITY, FINANCE, BLOCKCHAIN, NETWORK, MARKETING
 
-- https://genaijobs.co/jobs/financial-analyst
-- https://www.paloaltonetworks.com/
-- https://www.fortinet.com/
-- https://abdcfunds.com/  Public Raise - Blockchain Verified - Asset-Backed Credit
+- 
+- https://www.paloaltonetworks.com/ - Cybersecurity
+- https://www.fortinet.com/ - Cybersecurity
+- https://vance.co.ke/ - Network Internet ISP Management
+
+- https://genaijobs.co/jobs/financial-analyst - Finance
+- https://abdcfunds.com/  Public Raise - Blockchain Verified (Asset-Backed Credit)
+
+- https://luminaclippers.com/ - Marketing
   
 # ROADMAP
 
