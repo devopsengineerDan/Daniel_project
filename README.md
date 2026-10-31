@@ -2888,10 +2888,12 @@ Passive --- Limit Order
 3. DMCC Category 3 License	DMCC	- Designed for proprietary trading
 - Allows trading using the fund's own capital without handling client funds
 
-Summary of Licensing Requirements
-Jurisdiction	Regulatory Authority	License Type	            Capital Requirement
-DIFC	        DFSA	                Category 3A	                USD 500,000
-ADGM	        FSRA	                Various	Varies by license
+### Summary of Licensing Requirements
+
+| Jurisdiction  |  	Regulatory Authority   | 	License Type	    |        Capital Requirement   |
+|-----------|-----------|-----------|-----------|
+|DIFC	|        DFSA	 |               Category 3A	   |             USD 500,000  |
+|ADGM	   |     FSRA	      |          Various 	|  Varies by license  |
 
 ---
 
