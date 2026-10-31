@@ -2854,6 +2854,44 @@ Passive --- Limit Order
                           ----------------------------
                           Total Book Value of Equity
 ```
+# TRADING LICENSES 
+
+### Top Jurisdictions for Forex Trading Licenses in the UAE
+1. Dubai International Financial Centre (DIFC)
+
+    Regulatory Authority: Dubai Financial Services Authority (DFSA)
+    License Type: Category 3A license
+    Key Features:
+        High level of regulation and international recognition
+        Allows brokerage and dealing activities
+        Suitable for firms wanting to operate in a prestigious financial hub
+
+2. Abu Dhabi Global Market (ADGM)
+
+    Regulatory Authority: Financial Services Regulatory Authority (FSRA)
+    License Type: Various licenses available, including those for brokerage services
+    Key Features:
+        Flexible and fintech-friendly environment
+        Supports a range of financial services, including forex trading
+        Attracts innovative financial firms looking for a supportive regulatory framework
+
+3. CMA Forex Broker License
+   
+   Provides access to local banking and compliance for broader financial services.
+
+### License Type	Regulatory Authority	Key Features
+
+1. DIFC Category 3A Brokerage License	DFSA	- Allows managing client funds
+- Suitable for brokerage services
+2. CMA Category 5 License	CMA	- Ideal for advisory and asset management services
+- Focuses on investment advice and fund management
+3. DMCC Category 3 License	DMCC	- Designed for proprietary trading
+- Allows trading using the fund's own capital without handling client funds
+
+Summary of Licensing Requirements
+Jurisdiction	Regulatory Authority	License Type	            Capital Requirement
+DIFC	        DFSA	                Category 3A	                USD 500,000
+ADGM	        FSRA	                Various	Varies by license
 
 ---
 
