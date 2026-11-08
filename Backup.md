@@ -3678,17 +3678,17 @@ CodeWars && LeetCode && AlgoExpert -> GITHUB
 
 9999000000 ---> Analyst_DEMO ACCs ---> StandardAlpha1!
 
-
-1. 61630030       2p!sxflYve
-2. 61630032       Iurc7lqdh,
-3. 61630035       Ok7+eabsut
-4. 61630036       l;dNyu6zjr
-5. 61630043       zt1Rvj,ksw
+Web Launch --->XAUUSD Hedge
+1. 61630030       2p!sxflYve   US30
+2. 61630032       Iurc7lqdh,   NAS100
+3. 61630035       Ok7+eabsut   EURUSD
+4. 61630036       l;dNyu6zjr   GBPUSD
+5. 61630043       zt1Rvj,ksw   XAUUSD
 ------------------------------
-6. 61630047       b9F@clsqir
-7. 61630049       pilDj4un$c
-8. 61630052       uvbe(gc9Ct
-9. 61630055       jE%iu1ngqm
+6. 61630047       b9F@clsqir   US30 Hedge
+7. 61630049       pilDj4un$c   NAS100 Hedge
+8. 61630052       uvbe(gc9Ct   EURUSD Hedge
+9. 61630055       jE%iu1ngqm   GBPUSD Hedge
 
 
 
